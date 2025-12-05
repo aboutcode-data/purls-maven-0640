@@ -1,0 +1,2 @@
+- pkg:maven/li.rudin.mavenjs/mavenjs-test-war@2.0.1?classifier=sources
+- pkg:maven/li.rudin.mavenjs/mavenjs-test-war@2.0.1?type=war

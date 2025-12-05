@@ -1,0 +1,2 @@
+- pkg:maven/org.neociclo.accord.odetteftp/camel-oftp@1.2.0.RC1
+- pkg:maven/org.neociclo.accord.odetteftp/camel-oftp@1.2.0.RC1?classifier=sources

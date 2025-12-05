@@ -1,0 +1,2 @@
+- pkg:maven/net.jakubholy.testing/dbunit-express@1.3.0
+- pkg:maven/net.jakubholy.testing/dbunit-express@1.3.0?classifier=sources

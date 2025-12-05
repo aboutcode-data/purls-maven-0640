@@ -1,0 +1,2 @@
+- pkg:maven/com.sourcemuse.gradle.plugin/gradle-mongo-plugin@0.1.0
+- pkg:maven/com.sourcemuse.gradle.plugin/gradle-mongo-plugin@0.1.0?classifier=sources

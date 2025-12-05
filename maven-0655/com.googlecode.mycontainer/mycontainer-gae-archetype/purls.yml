@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.mycontainer/mycontainer-gae-archetype@1.4.7
+- pkg:maven/com.googlecode.mycontainer/mycontainer-gae-archetype@1.4.7?classifier=sources

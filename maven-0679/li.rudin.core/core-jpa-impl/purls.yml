@@ -1,0 +1,2 @@
+- pkg:maven/li.rudin.core/core-jpa-impl@1.7
+- pkg:maven/li.rudin.core/core-jpa-impl@1.7?classifier=sources

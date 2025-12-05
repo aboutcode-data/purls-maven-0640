@@ -1,0 +1,13 @@
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.11.0?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.12.0?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.20.0?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.21.0?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.21.1?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.21.2?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.22.0?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.23.0?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.24.0?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.25.0?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.25.1?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.26.0?classifier=sources
+- pkg:maven/de.saumya.mojo/rails-maven-archetype@0.27.0?classifier=sources

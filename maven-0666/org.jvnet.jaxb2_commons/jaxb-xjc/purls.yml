@@ -1,0 +1,8 @@
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb-xjc@2.1.10
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb-xjc@2.1.10.1
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb-xjc@2.1.10.1?classifier=sources
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb-xjc@2.1.10?classifier=sources
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb-xjc@2.1.6
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb-xjc@2.1.6?classifier=sources
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb-xjc@2.1.9
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb-xjc@2.1.9?classifier=sources

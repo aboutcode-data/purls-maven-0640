@@ -1,0 +1,4 @@
+- pkg:maven/com.github.dactiv.showcase/dactiv-base-curd@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.github.dactiv.showcase/dactiv-base-curd@1.0.0.RELEASE?type=war
+- pkg:maven/com.github.dactiv.showcase/dactiv-base-curd@1.1.0.RELEASE?classifier=sources
+- pkg:maven/com.github.dactiv.showcase/dactiv-base-curd@1.1.0.RELEASE?type=war

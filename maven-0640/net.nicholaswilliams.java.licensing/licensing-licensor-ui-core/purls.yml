@@ -1,0 +1,2 @@
+- pkg:maven/net.nicholaswilliams.java.licensing/licensing-licensor-ui-core@1.1.0
+- pkg:maven/net.nicholaswilliams.java.licensing/licensing-licensor-ui-core@1.1.0?classifier=sources

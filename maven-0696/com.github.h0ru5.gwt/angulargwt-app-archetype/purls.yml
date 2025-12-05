@@ -1,0 +1,2 @@
+- pkg:maven/com.github.h0ru5.gwt/angulargwt-app-archetype@1.1.2?classifier=sources
+- pkg:maven/com.github.h0ru5.gwt/angulargwt-app-archetype@1.1.3?classifier=sources

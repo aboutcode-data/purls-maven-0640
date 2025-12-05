@@ -1,0 +1,4 @@
+- pkg:maven/net.jangaroo/xmlhttprequest@0.7.10?classifier=sources
+- pkg:maven/net.jangaroo/xmlhttprequest@0.7.12?classifier=sources
+- pkg:maven/net.jangaroo/xmlhttprequest@0.7.13?classifier=sources
+- pkg:maven/net.jangaroo/xmlhttprequest@0.7.9?classifier=sources

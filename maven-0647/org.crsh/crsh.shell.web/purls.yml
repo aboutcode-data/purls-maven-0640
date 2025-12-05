@@ -1,0 +1,4 @@
+- pkg:maven/org.crsh/crsh.shell.web@1.0.0-beta19?classifier=sources
+- pkg:maven/org.crsh/crsh.shell.web@1.0.0-beta19?type=war
+- pkg:maven/org.crsh/crsh.shell.web@1.0.0-beta20?classifier=sources
+- pkg:maven/org.crsh/crsh.shell.web@1.0.0-beta20?type=war

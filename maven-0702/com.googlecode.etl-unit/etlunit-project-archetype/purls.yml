@@ -1,0 +1,12 @@
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.5.1?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.5.2?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.5.3?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.6.0?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.6.1?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.6.2?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.6.3?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.6.5?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.6.6?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.6.7?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.6.8?classifier=sources
+- pkg:maven/com.googlecode.etl-unit/etlunit-project-archetype@1.6.9?classifier=sources

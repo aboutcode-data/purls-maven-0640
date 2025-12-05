@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jmkgreen.morphia/morphia-entityscanner-plug@1.00
+- pkg:maven/com.github.jmkgreen.morphia/morphia-entityscanner-plug@1.00?classifier=sources

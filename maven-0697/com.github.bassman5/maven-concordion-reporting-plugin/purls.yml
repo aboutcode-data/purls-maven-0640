@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bassman5/maven-concordion-reporting-plugin@1.0.2
+- pkg:maven/com.github.bassman5/maven-concordion-reporting-plugin@1.0.2?classifier=sources

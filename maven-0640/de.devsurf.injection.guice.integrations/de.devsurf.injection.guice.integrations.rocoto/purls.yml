@@ -1,0 +1,8 @@
+- pkg:maven/de.devsurf.injection.guice.integrations/de.devsurf.injection.guice.integrations.rocoto@0.6.2
+- pkg:maven/de.devsurf.injection.guice.integrations/de.devsurf.injection.guice.integrations.rocoto@0.6.2?classifier=sources
+- pkg:maven/de.devsurf.injection.guice.integrations/de.devsurf.injection.guice.integrations.rocoto@0.6.3
+- pkg:maven/de.devsurf.injection.guice.integrations/de.devsurf.injection.guice.integrations.rocoto@0.6.3?classifier=sources
+- pkg:maven/de.devsurf.injection.guice.integrations/de.devsurf.injection.guice.integrations.rocoto@0.6.4
+- pkg:maven/de.devsurf.injection.guice.integrations/de.devsurf.injection.guice.integrations.rocoto@0.6.4?classifier=sources
+- pkg:maven/de.devsurf.injection.guice.integrations/de.devsurf.injection.guice.integrations.rocoto@0.7.0
+- pkg:maven/de.devsurf.injection.guice.integrations/de.devsurf.injection.guice.integrations.rocoto@0.7.0?classifier=sources

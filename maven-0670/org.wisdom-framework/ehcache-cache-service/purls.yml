@@ -1,0 +1,2 @@
+- pkg:maven/org.wisdom-framework/ehcache-cache-service@0.4?classifier=sources
+- pkg:maven/org.wisdom-framework/ehcache-cache-service@0.5?classifier=sources

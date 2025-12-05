@@ -1,0 +1,6 @@
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types-jpa@2.1
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types-jpa@2.1?classifier=sources
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types-jpa@3.0
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types-jpa@3.0?classifier=sources
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types-jpa@3.1
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types-jpa@3.1?classifier=sources

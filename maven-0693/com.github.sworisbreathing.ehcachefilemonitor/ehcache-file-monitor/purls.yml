@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sworisbreathing.ehcachefilemonitor/ehcache-file-monitor@1.0
+- pkg:maven/com.github.sworisbreathing.ehcachefilemonitor/ehcache-file-monitor@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson.plugins.mercurial/ini4j@0.2.6
+- pkg:maven/org.jvnet.hudson.plugins.mercurial/ini4j@0.2.6?classifier=sources

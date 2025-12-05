@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-orbit-maven-plugin@1.0
+- pkg:maven/org.eclipse.jetty.toolchain/jetty-orbit-maven-plugin@1.0?classifier=sources

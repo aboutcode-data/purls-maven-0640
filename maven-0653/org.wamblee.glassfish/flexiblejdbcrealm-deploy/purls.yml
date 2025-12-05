@@ -1,0 +1,6 @@
+- pkg:maven/org.wamblee.glassfish/flexiblejdbcrealm-deploy@0.5.2
+- pkg:maven/org.wamblee.glassfish/flexiblejdbcrealm-deploy@0.5.3
+- pkg:maven/org.wamblee.glassfish/flexiblejdbcrealm-deploy@0.5.4
+- pkg:maven/org.wamblee.glassfish/flexiblejdbcrealm-deploy@1.0
+- pkg:maven/org.wamblee.glassfish/flexiblejdbcrealm-deploy@1.1
+- pkg:maven/org.wamblee.glassfish/flexiblejdbcrealm-deploy@1.2

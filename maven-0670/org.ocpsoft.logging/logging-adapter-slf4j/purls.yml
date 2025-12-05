@@ -1,0 +1,4 @@
+- pkg:maven/org.ocpsoft.logging/logging-adapter-slf4j@1.0.1.Final
+- pkg:maven/org.ocpsoft.logging/logging-adapter-slf4j@1.0.1.Final?classifier=sources
+- pkg:maven/org.ocpsoft.logging/logging-adapter-slf4j@1.0.2.Final
+- pkg:maven/org.ocpsoft.logging/logging-adapter-slf4j@1.0.2.Final?classifier=sources

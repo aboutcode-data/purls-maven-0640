@@ -1,0 +1,2 @@
+- pkg:maven/cz.jirutka.validator/validator-spring@1.0
+- pkg:maven/cz.jirutka.validator/validator-spring@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jinahya/commons-codec-proxies@1.0.1
+- pkg:maven/com.github.jinahya/commons-codec-proxies@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.fmpp-dataloaders/fmpp-dataloaders@1.0
+- pkg:maven/com.googlecode.fmpp-dataloaders/fmpp-dataloaders@1.0?classifier=sources

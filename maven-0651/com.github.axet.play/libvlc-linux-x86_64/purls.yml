@@ -1,0 +1,2 @@
+- pkg:maven/com.github.axet.play/libvlc-linux-x86_64@2.0.5-1
+- pkg:maven/com.github.axet.play/libvlc-linux-x86_64@2.0.5-1?classifier=sources

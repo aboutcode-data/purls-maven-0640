@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.phoenix/phoenix@2.2.3-incubating
+- pkg:maven/org.apache.phoenix/phoenix@2.2.3-incubating?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix@3.0.0-incubating?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix@4.0.0-incubating?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.objectweb.think.minus/cecilia-adl-dumper@1.1
+- pkg:maven/org.objectweb.think.minus/cecilia-adl-dumper@1.1-alpha-5
+- pkg:maven/org.objectweb.think.minus/cecilia-adl-dumper@1.1-alpha-5?classifier=sources
+- pkg:maven/org.objectweb.think.minus/cecilia-adl-dumper@1.1?classifier=sources

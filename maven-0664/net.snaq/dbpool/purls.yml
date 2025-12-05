@@ -1,0 +1,6 @@
+- pkg:maven/net.snaq/dbpool@5.0
+- pkg:maven/net.snaq/dbpool@5.0?classifier=sources
+- pkg:maven/net.snaq/dbpool@5.1
+- pkg:maven/net.snaq/dbpool@5.1?classifier=sources
+- pkg:maven/net.snaq/dbpool@6.0
+- pkg:maven/net.snaq/dbpool@6.0?classifier=sources

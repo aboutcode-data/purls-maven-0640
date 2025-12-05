@@ -1,0 +1,4 @@
+- pkg:maven/commons-beanutils/commons-beanutils-core@1.7.0
+- pkg:maven/commons-beanutils/commons-beanutils-core@1.8.0
+- pkg:maven/commons-beanutils/commons-beanutils-core@1.8.0-BETA
+- pkg:maven/commons-beanutils/commons-beanutils-core@1.8.3

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.associations/play-associations@1.0.1
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.associations/play-associations@1.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.rhq/rhq-arquillian-container-test-plugin@4.10.0
+- pkg:maven/org.rhq/rhq-arquillian-container-test-plugin@4.7.0
+- pkg:maven/org.rhq/rhq-arquillian-container-test-plugin@4.8.0
+- pkg:maven/org.rhq/rhq-arquillian-container-test-plugin@4.9.0

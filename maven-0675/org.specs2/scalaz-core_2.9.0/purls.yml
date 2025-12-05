@@ -1,0 +1,2 @@
+- pkg:maven/org.specs2/scalaz-core_2.9.0@6.0.RC2
+- pkg:maven/org.specs2/scalaz-core_2.9.0@6.0.RC2?classifier=sources

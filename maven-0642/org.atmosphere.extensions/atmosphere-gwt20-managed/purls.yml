@@ -1,0 +1,6 @@
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-managed@2.1.0
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-managed@2.1.0-RC2
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-managed@2.1.0-RC2?classifier=sources
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-managed@2.1.0?classifier=sources
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-managed@2.1.1
+- pkg:maven/org.atmosphere.extensions/atmosphere-gwt20-managed@2.1.1?classifier=sources

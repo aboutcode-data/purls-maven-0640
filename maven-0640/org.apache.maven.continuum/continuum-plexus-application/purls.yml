@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.maven.continuum/continuum-plexus-application@1.0-alpha-4?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-plexus-application@1.0.3?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-plexus-application@1.1-beta-1?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-plexus-application@1.1-beta-2?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-plexus-application@1.1-beta-3?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-plexus-application@1.1-beta-4?classifier=sources
+- pkg:maven/org.apache.maven.continuum/continuum-plexus-application@1.1?classifier=sources

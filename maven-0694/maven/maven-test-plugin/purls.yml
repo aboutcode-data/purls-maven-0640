@@ -1,0 +1,3 @@
+- pkg:maven/maven/maven-test-plugin@1.0
+- pkg:maven/maven/maven-test-plugin@1.8.1
+- pkg:maven/maven/maven-test-plugin@1.8.2

@@ -1,0 +1,2 @@
+- pkg:maven/com.daikit/daikit4gxt@0.1
+- pkg:maven/com.daikit/daikit4gxt@0.1?classifier=sources

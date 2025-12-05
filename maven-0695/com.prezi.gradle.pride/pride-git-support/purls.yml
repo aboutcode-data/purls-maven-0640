@@ -1,0 +1,2 @@
+- pkg:maven/com.prezi.gradle.pride/pride-git-support@0.4
+- pkg:maven/com.prezi.gradle.pride/pride-git-support@0.4?classifier=sources

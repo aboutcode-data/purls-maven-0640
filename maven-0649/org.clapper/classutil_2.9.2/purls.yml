@@ -1,0 +1,2 @@
+- pkg:maven/org.clapper/classutil_2.9.2@0.4.6
+- pkg:maven/org.clapper/classutil_2.9.2@0.4.6?classifier=sources

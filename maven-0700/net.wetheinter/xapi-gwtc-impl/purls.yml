@@ -1,0 +1,2 @@
+- pkg:maven/net.wetheinter/xapi-gwtc-impl@0.4
+- pkg:maven/net.wetheinter/xapi-gwtc-impl@0.4?classifier=sources

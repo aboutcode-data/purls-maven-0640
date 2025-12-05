@@ -1,0 +1,2 @@
+- pkg:maven/com.fluxcorp.plugins/git-trigger@1.0.4
+- pkg:maven/com.fluxcorp.plugins/git-trigger@1.0.4?classifier=sources

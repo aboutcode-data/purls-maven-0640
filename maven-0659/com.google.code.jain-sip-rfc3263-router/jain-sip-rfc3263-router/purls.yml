@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.jain-sip-rfc3263-router/jain-sip-rfc3263-router@1.1.2
+- pkg:maven/com.google.code.jain-sip-rfc3263-router/jain-sip-rfc3263-router@1.1.2?classifier=sources

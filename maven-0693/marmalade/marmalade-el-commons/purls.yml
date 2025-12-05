@@ -1,0 +1,6 @@
+- pkg:maven/marmalade/marmalade-el-commons@0.1
+- pkg:maven/marmalade/marmalade-el-commons@0.2
+- pkg:maven/marmalade/marmalade-el-commons@1.0-alpha-2
+- pkg:maven/marmalade/marmalade-el-commons@1.0-alpha-3
+- pkg:maven/marmalade/marmalade-el-commons@1.0-alpha-3?classifier=sources
+- pkg:maven/marmalade/marmalade-el-commons@1.0-alpha2

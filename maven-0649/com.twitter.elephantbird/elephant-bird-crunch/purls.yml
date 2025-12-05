@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter.elephantbird/elephant-bird-crunch@4.4
+- pkg:maven/com.twitter.elephantbird/elephant-bird-crunch@4.4?classifier=sources

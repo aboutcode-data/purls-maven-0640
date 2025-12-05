@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.groovy.maven.archetypes/gmaven-archetype-mojo@1.0-rc-4?classifier=sources
+- pkg:maven/org.codehaus.groovy.maven.archetypes/gmaven-archetype-mojo@1.0-rc-5-kohsuke-1?classifier=sources
+- pkg:maven/org.codehaus.groovy.maven.archetypes/gmaven-archetype-mojo@1.0-rc-5?classifier=sources
+- pkg:maven/org.codehaus.groovy.maven.archetypes/gmaven-archetype-mojo@1.0?classifier=sources

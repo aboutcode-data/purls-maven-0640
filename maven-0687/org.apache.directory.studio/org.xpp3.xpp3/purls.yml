@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.directory.studio/org.xpp3.xpp3@1.1.340
+- pkg:maven/org.apache.directory.studio/org.xpp3.xpp3@1.1.340?classifier=sources
+- pkg:maven/org.apache.directory.studio/org.xpp3.xpp3@1.1.4.c
+- pkg:maven/org.apache.directory.studio/org.xpp3.xpp3@1.1.4.c?classifier=sources

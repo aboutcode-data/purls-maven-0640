@@ -1,0 +1,2 @@
+- pkg:maven/com.code972/elasticsearch-analysis-hebrew@1.0
+- pkg:maven/com.code972/elasticsearch-analysis-hebrew@1.0?classifier=sources

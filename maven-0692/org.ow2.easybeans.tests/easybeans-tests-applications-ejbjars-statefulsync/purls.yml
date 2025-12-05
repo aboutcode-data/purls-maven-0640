@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.easybeans.tests/easybeans-tests-applications-ejbjars-statefulsync@2.0.1?classifier=sources
+- pkg:maven/org.ow2.easybeans.tests/easybeans-tests-applications-ejbjars-statefulsync@2.0.2?classifier=sources

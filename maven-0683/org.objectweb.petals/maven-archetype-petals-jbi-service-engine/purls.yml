@@ -1,0 +1,2 @@
+- pkg:maven/org.objectweb.petals/maven-archetype-petals-jbi-service-engine@1.0.0
+- pkg:maven/org.objectweb.petals/maven-archetype-petals-jbi-service-engine@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.force/maven-force-plugin@22.0.5-BETA
+- pkg:maven/com.force/maven-force-plugin@22.0.5-BETA?classifier=sources

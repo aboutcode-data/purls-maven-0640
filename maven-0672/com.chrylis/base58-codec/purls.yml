@@ -1,0 +1,6 @@
+- pkg:maven/com.chrylis/base58-codec@1.0.0
+- pkg:maven/com.chrylis/base58-codec@1.0.0?classifier=sources
+- pkg:maven/com.chrylis/base58-codec@1.1.0
+- pkg:maven/com.chrylis/base58-codec@1.1.0?classifier=sources
+- pkg:maven/com.chrylis/base58-codec@1.2.0
+- pkg:maven/com.chrylis/base58-codec@1.2.0?classifier=sources

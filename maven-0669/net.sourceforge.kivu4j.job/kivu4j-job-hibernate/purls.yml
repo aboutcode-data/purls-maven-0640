@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.kivu4j.job/kivu4j-job-hibernate@1.1
+- pkg:maven/net.sourceforge.kivu4j.job/kivu4j-job-hibernate@1.1?classifier=sources

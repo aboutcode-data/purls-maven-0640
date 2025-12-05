@@ -1,0 +1,6 @@
+- pkg:maven/net.customware.license/license-confluence@2.0.0
+- pkg:maven/net.customware.license/license-confluence@2.0.0?classifier=sources
+- pkg:maven/net.customware.license/license-confluence@3.0.1
+- pkg:maven/net.customware.license/license-confluence@3.0.1?classifier=sources
+- pkg:maven/net.customware.license/license-confluence@3.0.2
+- pkg:maven/net.customware.license/license-confluence@3.0.2?classifier=sources

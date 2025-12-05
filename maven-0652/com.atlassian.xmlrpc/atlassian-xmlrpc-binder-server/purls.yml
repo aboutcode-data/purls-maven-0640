@@ -1,0 +1,5 @@
+- pkg:maven/com.atlassian.xmlrpc/atlassian-xmlrpc-binder-server@0.5
+- pkg:maven/com.atlassian.xmlrpc/atlassian-xmlrpc-binder-server@0.7
+- pkg:maven/com.atlassian.xmlrpc/atlassian-xmlrpc-binder-server@0.8.1
+- pkg:maven/com.atlassian.xmlrpc/atlassian-xmlrpc-binder-server@0.8.2
+- pkg:maven/com.atlassian.xmlrpc/atlassian-xmlrpc-binder-server@0.9

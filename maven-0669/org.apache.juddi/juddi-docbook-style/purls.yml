@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.juddi/juddi-docbook-style@1.0.1?classifier=sources
+- pkg:maven/org.apache.juddi/juddi-docbook-style@1.0?classifier=sources

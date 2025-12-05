@@ -1,0 +1,2 @@
+- pkg:maven/com.toddfast.mutagen/mutagen@0.3.0
+- pkg:maven/com.toddfast.mutagen/mutagen@0.3.0?classifier=sources

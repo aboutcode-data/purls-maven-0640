@@ -1,0 +1,2 @@
+- pkg:maven/com.flipthebird.gwt-hashcode-equals/gwt-hashcode-equals@0.1.0
+- pkg:maven/com.flipthebird.gwt-hashcode-equals/gwt-hashcode-equals@0.1.0?classifier=sources

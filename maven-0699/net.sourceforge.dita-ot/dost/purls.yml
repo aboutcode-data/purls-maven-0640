@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.dita-ot/dost@1.4
+- pkg:maven/net.sourceforge.dita-ot/dost@1.4?classifier=sources

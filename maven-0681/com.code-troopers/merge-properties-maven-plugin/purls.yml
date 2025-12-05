@@ -1,0 +1,2 @@
+- pkg:maven/com.code-troopers/merge-properties-maven-plugin@1.0
+- pkg:maven/com.code-troopers/merge-properties-maven-plugin@1.0?classifier=sources

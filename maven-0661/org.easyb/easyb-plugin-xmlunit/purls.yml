@@ -1,0 +1,2 @@
+- pkg:maven/org.easyb/easyb-plugin-xmlunit@1.1
+- pkg:maven/org.easyb/easyb-plugin-xmlunit@1.1?classifier=sources

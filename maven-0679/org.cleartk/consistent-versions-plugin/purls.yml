@@ -1,0 +1,2 @@
+- pkg:maven/org.cleartk/consistent-versions-plugin@1.1.2
+- pkg:maven/org.cleartk/consistent-versions-plugin@1.1.2?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.easytesting/fest-javafx-maven@0.1
+- pkg:maven/org.easytesting/fest-javafx-maven@1.0a1
+- pkg:maven/org.easytesting/fest-javafx-maven@1.0a1?classifier=sources

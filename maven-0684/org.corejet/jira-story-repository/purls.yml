@@ -1,0 +1,2 @@
+- pkg:maven/org.corejet/jira-story-repository@0.21
+- pkg:maven/org.corejet/jira-story-repository@0.21?classifier=sources

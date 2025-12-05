@@ -1,0 +1,2 @@
+- pkg:maven/net.tirasa.openjpasqlazure/openjpasqlazure-sample@0.1?classifier=sources
+- pkg:maven/net.tirasa.openjpasqlazure/openjpasqlazure-sample@0.1?type=war

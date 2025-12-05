@@ -1,0 +1,3 @@
+- pkg:maven/org.vraptor/jpa-example@2.5.1?type=war
+- pkg:maven/org.vraptor/jpa-example@2.6.0?classifier=sources
+- pkg:maven/org.vraptor/jpa-example@2.6.0?type=war

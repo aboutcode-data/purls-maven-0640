@@ -1,0 +1,2 @@
+- pkg:maven/net.liftmodules/google-maps_2.6_2.9.2@0.13
+- pkg:maven/net.liftmodules/google-maps_2.6_2.9.2@0.13?classifier=sources

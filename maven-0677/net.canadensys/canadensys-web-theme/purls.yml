@@ -1,0 +1,2 @@
+- pkg:maven/net.canadensys/canadensys-web-theme@0.1?classifier=sources
+- pkg:maven/net.canadensys/canadensys-web-theme@0.1?type=war

@@ -1,0 +1,6 @@
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.0.3
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.0.3?classifier=sources
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.0.8
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.0.8?classifier=sources
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.0.9
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.0.9?classifier=sources

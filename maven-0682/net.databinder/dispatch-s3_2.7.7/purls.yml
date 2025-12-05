@@ -1,0 +1,5 @@
+- pkg:maven/net.databinder/dispatch-s3_2.7.7@0.7.7
+- pkg:maven/net.databinder/dispatch-s3_2.7.7@0.7.8
+- pkg:maven/net.databinder/dispatch-s3_2.7.7@0.7.8?classifier=sources
+- pkg:maven/net.databinder/dispatch-s3_2.7.7@0.8.0.Beta2
+- pkg:maven/net.databinder/dispatch-s3_2.7.7@0.8.0.Beta2?classifier=sources

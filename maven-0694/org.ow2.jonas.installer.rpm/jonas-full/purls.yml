@@ -1,0 +1,1 @@
+- pkg:maven/org.ow2.jonas.installer.rpm/jonas-full@5.2.3?classifier=sources

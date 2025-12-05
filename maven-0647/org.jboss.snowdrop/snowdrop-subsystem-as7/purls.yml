@@ -1,0 +1,15 @@
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.0.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.0.4.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.0.5.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.1.0.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@2.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@3.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@3.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@3.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@3.1.0.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-subsystem-as7@3.1.1.Final?classifier=sources

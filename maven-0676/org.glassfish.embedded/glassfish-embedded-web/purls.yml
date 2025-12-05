@@ -1,0 +1,12 @@
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b10
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b10?classifier=sources
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b11
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b11?classifier=sources
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b12
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b12?classifier=sources
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b13
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b13?classifier=sources
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b14
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-b14?classifier=sources
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-m2
+- pkg:maven/org.glassfish.embedded/glassfish-embedded-web@3.0-Prelude-Embedded-m2?classifier=sources

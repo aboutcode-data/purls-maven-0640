@@ -1,0 +1,2 @@
+- pkg:maven/com.hypnoticocelot/jaxrs-doclet-sample-dropwizard@0.0.2
+- pkg:maven/com.hypnoticocelot/jaxrs-doclet-sample-dropwizard@0.0.2?classifier=sources

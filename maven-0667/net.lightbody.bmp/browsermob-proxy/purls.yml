@@ -1,0 +1,4 @@
+- pkg:maven/net.lightbody.bmp/browsermob-proxy@2.0-beta-8
+- pkg:maven/net.lightbody.bmp/browsermob-proxy@2.0-beta-8?classifier=sources
+- pkg:maven/net.lightbody.bmp/browsermob-proxy@2.0-beta-9
+- pkg:maven/net.lightbody.bmp/browsermob-proxy@2.0-beta-9?classifier=sources

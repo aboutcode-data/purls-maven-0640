@@ -1,0 +1,2 @@
+- pkg:maven/net.nan21.dnet/nan21.dnet.module.ux.domain@1.0.2
+- pkg:maven/net.nan21.dnet/nan21.dnet.module.ux.domain@1.0.2?classifier=sources

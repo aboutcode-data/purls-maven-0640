@@ -1,0 +1,2 @@
+- pkg:maven/org.cache2k/cache2k-core@0.19.1
+- pkg:maven/org.cache2k/cache2k-core@0.19.1?classifier=sources

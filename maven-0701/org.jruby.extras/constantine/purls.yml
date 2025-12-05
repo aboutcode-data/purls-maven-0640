@@ -1,0 +1,6 @@
+- pkg:maven/org.jruby.extras/constantine@0.2.1
+- pkg:maven/org.jruby.extras/constantine@0.3
+- pkg:maven/org.jruby.extras/constantine@0.4
+- pkg:maven/org.jruby.extras/constantine@0.5
+- pkg:maven/org.jruby.extras/constantine@0.6
+- pkg:maven/org.jruby.extras/constantine@0.7

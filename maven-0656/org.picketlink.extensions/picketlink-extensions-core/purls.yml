@@ -1,0 +1,6 @@
+- pkg:maven/org.picketlink.extensions/picketlink-extensions-core@3.0.0-2013Feb01
+- pkg:maven/org.picketlink.extensions/picketlink-extensions-core@3.0.0-2013Feb01?classifier=sources
+- pkg:maven/org.picketlink.extensions/picketlink-extensions-core@3.0.0-2013Feb08
+- pkg:maven/org.picketlink.extensions/picketlink-extensions-core@3.0.0-2013Feb08?classifier=sources
+- pkg:maven/org.picketlink.extensions/picketlink-extensions-core@3.0.0-2013Jan24
+- pkg:maven/org.picketlink.extensions/picketlink-extensions-core@3.0.0-2013Jan24?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/co.ntier.mongo/tomcat-session-manager@1.0.0
+- pkg:maven/co.ntier.mongo/tomcat-session-manager@1.0.0?classifier=sources

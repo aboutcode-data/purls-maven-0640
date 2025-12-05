@@ -1,0 +1,4 @@
+- pkg:maven/de.schlichtherle/javafx-scala-demo@0.1?classifier=sources
+- pkg:maven/de.schlichtherle/javafx-scala-demo@0.2?classifier=sources
+- pkg:maven/de.schlichtherle/javafx-scala-demo@0.3?classifier=sources
+- pkg:maven/de.schlichtherle/javafx-scala-demo@0.4?classifier=sources

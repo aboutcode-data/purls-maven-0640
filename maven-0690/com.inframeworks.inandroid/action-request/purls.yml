@@ -1,0 +1,2 @@
+- pkg:maven/com.inframeworks.inandroid/action-request@0.1.0?classifier=sources
+- pkg:maven/com.inframeworks.inandroid/action-request@0.1.0?type=aar

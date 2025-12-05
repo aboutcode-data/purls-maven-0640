@@ -1,0 +1,2 @@
+- pkg:maven/br.com.ingenieux.maven.annomojo/org.jfrog.maven.maven-plugin-tools-anno@1.4.1
+- pkg:maven/br.com.ingenieux.maven.annomojo/org.jfrog.maven.maven-plugin-tools-anno@1.4.1?classifier=sources

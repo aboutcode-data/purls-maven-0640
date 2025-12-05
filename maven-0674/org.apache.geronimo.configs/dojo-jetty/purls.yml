@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.geronimo.configs/dojo-jetty@1.2-beta?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/dojo-jetty@2.2.1?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/dojo-jetty@2.2?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/dojo-jetty@3.0-M1?classifier=sources

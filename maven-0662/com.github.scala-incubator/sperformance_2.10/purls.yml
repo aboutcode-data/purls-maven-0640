@@ -1,0 +1,2 @@
+- pkg:maven/com.github.scala-incubator/sperformance_2.10@0.1
+- pkg:maven/com.github.scala-incubator/sperformance_2.10@0.1?classifier=sources

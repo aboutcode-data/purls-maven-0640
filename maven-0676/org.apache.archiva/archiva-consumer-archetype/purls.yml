@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.archiva/archiva-consumer-archetype@1.4-M2?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-consumer-archetype@1.4-M3?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-consumer-archetype@1.4-M4?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-consumer-archetype@2.0.0?classifier=sources
+- pkg:maven/org.apache.archiva/archiva-consumer-archetype@2.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.assembla.scala-incubator/graph-dot_2.9.2@1.5.2
+- pkg:maven/com.assembla.scala-incubator/graph-dot_2.9.2@1.5.2?classifier=sources

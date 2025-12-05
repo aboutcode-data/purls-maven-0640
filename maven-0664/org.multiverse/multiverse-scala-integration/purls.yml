@@ -1,0 +1,6 @@
+- pkg:maven/org.multiverse/multiverse-scala-integration@0.3
+- pkg:maven/org.multiverse/multiverse-scala-integration@0.3?classifier=sources
+- pkg:maven/org.multiverse/multiverse-scala-integration@0.4
+- pkg:maven/org.multiverse/multiverse-scala-integration@0.4.1-SNAPSHOPT
+- pkg:maven/org.multiverse/multiverse-scala-integration@0.4.1-SNAPSHOPT?classifier=sources
+- pkg:maven/org.multiverse/multiverse-scala-integration@0.4?classifier=sources

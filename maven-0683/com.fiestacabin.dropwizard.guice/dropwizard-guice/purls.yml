@@ -1,0 +1,6 @@
+- pkg:maven/com.fiestacabin.dropwizard.guice/dropwizard-guice@0.5.1
+- pkg:maven/com.fiestacabin.dropwizard.guice/dropwizard-guice@0.5.1?classifier=sources
+- pkg:maven/com.fiestacabin.dropwizard.guice/dropwizard-guice@0.6.1
+- pkg:maven/com.fiestacabin.dropwizard.guice/dropwizard-guice@0.6.1?classifier=sources
+- pkg:maven/com.fiestacabin.dropwizard.guice/dropwizard-guice@0.6.2
+- pkg:maven/com.fiestacabin.dropwizard.guice/dropwizard-guice@0.6.2?classifier=sources

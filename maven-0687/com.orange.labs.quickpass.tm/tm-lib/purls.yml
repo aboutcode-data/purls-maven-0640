@@ -1,0 +1,2 @@
+- pkg:maven/com.orange.labs.quickpass.tm/tm-lib@1.7.2
+- pkg:maven/com.orange.labs.quickpass.tm/tm-lib@1.7.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/ostermiller-bte@1.6
+- pkg:maven/net.sf.squirrel-sql.thirdparty-non-maven/ostermiller-bte@1.6?classifier=sources

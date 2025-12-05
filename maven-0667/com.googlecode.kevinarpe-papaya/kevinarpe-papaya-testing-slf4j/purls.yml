@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.kevinarpe-papaya/kevinarpe-papaya-testing-slf4j@0.0.13
+- pkg:maven/com.googlecode.kevinarpe-papaya/kevinarpe-papaya-testing-slf4j@0.0.13?classifier=sources

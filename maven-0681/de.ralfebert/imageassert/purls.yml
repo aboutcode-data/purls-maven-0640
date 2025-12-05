@@ -1,0 +1,4 @@
+- pkg:maven/de.ralfebert/imageassert@2.0.2
+- pkg:maven/de.ralfebert/imageassert@2.0.2?classifier=sources
+- pkg:maven/de.ralfebert/imageassert@2.1.0
+- pkg:maven/de.ralfebert/imageassert@2.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.stepniak/api@0.7
+- pkg:maven/net.stepniak/api@0.7?classifier=sources
+- pkg:maven/net.stepniak/api@0.8.8
+- pkg:maven/net.stepniak/api@0.8.8?classifier=sources

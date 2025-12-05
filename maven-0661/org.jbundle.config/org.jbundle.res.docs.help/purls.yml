@@ -1,0 +1,2 @@
+- pkg:maven/org.jbundle.config/org.jbundle.res.docs.help@1.0.4
+- pkg:maven/org.jbundle.config/org.jbundle.res.docs.help@1.0.4?classifier=sources

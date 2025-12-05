@@ -1,0 +1,10 @@
+- pkg:maven/org.dasein/dasein-jclouds-azure@02.2010.10
+- pkg:maven/org.dasein/dasein-jclouds-azure@02.2010.10?classifier=sources
+- pkg:maven/org.dasein/dasein-jclouds-azure@2011.02
+- pkg:maven/org.dasein/dasein-jclouds-azure@2011.02?classifier=sources
+- pkg:maven/org.dasein/dasein-jclouds-azure@2011.08
+- pkg:maven/org.dasein/dasein-jclouds-azure@2011.08?classifier=sources
+- pkg:maven/org.dasein/dasein-jclouds-azure@2012.02
+- pkg:maven/org.dasein/dasein-jclouds-azure@2012.02?classifier=sources
+- pkg:maven/org.dasein/dasein-jclouds-azure@2012.04
+- pkg:maven/org.dasein/dasein-jclouds-azure@2012.04?classifier=sources

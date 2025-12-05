@@ -1,0 +1,14 @@
+- pkg:maven/com.sun.electric/electric-concurrent@9.00
+- pkg:maven/com.sun.electric/electric-concurrent@9.00-q
+- pkg:maven/com.sun.electric/electric-concurrent@9.00-q?classifier=sources
+- pkg:maven/com.sun.electric/electric-concurrent@9.01
+- pkg:maven/com.sun.electric/electric-concurrent@9.01-b
+- pkg:maven/com.sun.electric/electric-concurrent@9.01?classifier=sources
+- pkg:maven/com.sun.electric/electric-concurrent@9.02-a
+- pkg:maven/com.sun.electric/electric-concurrent@9.02-a?classifier=sources
+- pkg:maven/com.sun.electric/electric-concurrent@9.02-b
+- pkg:maven/com.sun.electric/electric-concurrent@9.02-b?classifier=sources
+- pkg:maven/com.sun.electric/electric-concurrent@9.02-c
+- pkg:maven/com.sun.electric/electric-concurrent@9.02-c?classifier=sources
+- pkg:maven/com.sun.electric/electric-concurrent@9.02-e
+- pkg:maven/com.sun.electric/electric-concurrent@9.02-e?classifier=sources

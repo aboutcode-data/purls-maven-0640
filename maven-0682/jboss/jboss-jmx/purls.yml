@@ -1,0 +1,4 @@
+- pkg:maven/jboss/jboss-jmx@3.0.4
+- pkg:maven/jboss/jboss-jmx@3.2.1
+- pkg:maven/jboss/jboss-jmx@4.0.2
+- pkg:maven/jboss/jboss-jmx@4.2.2.GA

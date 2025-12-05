@@ -1,0 +1,2 @@
+- pkg:maven/se.vgregion.oppna-program-account-management/oppna-program-account-management-core-bc-composite-camel@1.0
+- pkg:maven/se.vgregion.oppna-program-account-management/oppna-program-account-management-core-bc-composite-camel@1.0?classifier=sources

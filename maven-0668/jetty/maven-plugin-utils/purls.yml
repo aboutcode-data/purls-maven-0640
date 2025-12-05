@@ -1,0 +1,5 @@
+- pkg:maven/jetty/maven-plugin-utils@6.0.0beta14
+- pkg:maven/jetty/maven-plugin-utils@6.0.0beta15
+- pkg:maven/jetty/maven-plugin-utils@6.0.0beta16
+- pkg:maven/jetty/maven-plugin-utils@6.0.0beta17
+- pkg:maven/jetty/maven-plugin-utils@6.0.0rc0

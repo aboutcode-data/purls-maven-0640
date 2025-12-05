@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.deltaspike.core/integration-test@0.1-incubating
+- pkg:maven/org.apache.deltaspike.core/integration-test@0.1-incubating?classifier=sources

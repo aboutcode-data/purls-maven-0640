@@ -1,0 +1,6 @@
+- pkg:maven/com.digitaldoodles/rex_2.8.1@0.7
+- pkg:maven/com.digitaldoodles/rex_2.8.1@0.7.0.1
+- pkg:maven/com.digitaldoodles/rex_2.8.1@0.7.0.1?classifier=sources
+- pkg:maven/com.digitaldoodles/rex_2.8.1@0.701
+- pkg:maven/com.digitaldoodles/rex_2.8.1@0.701?classifier=sources
+- pkg:maven/com.digitaldoodles/rex_2.8.1@0.7?classifier=sources

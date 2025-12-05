@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-pool@1.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-pool@1.4_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-pool@1.4_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-pool@1.5.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-pool@1.5.4_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-pool@1.5.4_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-pool@1.5.4_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-pool@1.5.4_4?classifier=sources

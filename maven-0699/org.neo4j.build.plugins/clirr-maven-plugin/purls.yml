@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.build.plugins/clirr-maven-plugin@1.0
+- pkg:maven/org.neo4j.build.plugins/clirr-maven-plugin@1.0?classifier=sources

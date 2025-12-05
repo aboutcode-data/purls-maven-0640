@@ -1,0 +1,4 @@
+- pkg:maven/net.tribe7.seeds/seeds-html@15.0
+- pkg:maven/net.tribe7.seeds/seeds-html@15.0?classifier=sources
+- pkg:maven/net.tribe7.seeds/seeds-html@16.0.1
+- pkg:maven/net.tribe7.seeds/seeds-html@16.0.1?classifier=sources

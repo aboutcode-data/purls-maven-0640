@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.jsf-extensions/jsf-extensions-flash-test@0.1?type=war
+- pkg:maven/com.sun.jsf-extensions/jsf-extensions-flash-test@0.2?type=war

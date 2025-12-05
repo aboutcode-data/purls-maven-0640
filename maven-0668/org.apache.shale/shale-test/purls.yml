@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.shale/shale-test@1.0.3
+- pkg:maven/org.apache.shale/shale-test@1.0.3?classifier=sources
+- pkg:maven/org.apache.shale/shale-test@1.0.4
+- pkg:maven/org.apache.shale/shale-test@1.0.4?classifier=sources
+- pkg:maven/org.apache.shale/shale-test@1.0.5
+- pkg:maven/org.apache.shale/shale-test@1.0.5?classifier=sources

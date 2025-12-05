@@ -1,0 +1,6 @@
+- pkg:maven/org.chtijbug.drools/drools-runner-generator@1.1.0.10
+- pkg:maven/org.chtijbug.drools/drools-runner-generator@1.1.0.10?classifier=sources
+- pkg:maven/org.chtijbug.drools/drools-runner-generator@1.1.0.8a
+- pkg:maven/org.chtijbug.drools/drools-runner-generator@1.1.0.8a?classifier=sources
+- pkg:maven/org.chtijbug.drools/drools-runner-generator@1.1.0.9
+- pkg:maven/org.chtijbug.drools/drools-runner-generator@1.1.0.9?classifier=sources

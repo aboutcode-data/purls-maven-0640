@@ -1,0 +1,2 @@
+- pkg:maven/com.activequant/aq2o@2.0
+- pkg:maven/com.activequant/aq2o@2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.randomnoun.songkick/songkick-api-client@0.0.2
+- pkg:maven/com.randomnoun.songkick/songkick-api-client@0.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/asia.stampy/stampy-MINA-client-server-RI@1.0-RELEASE
+- pkg:maven/asia.stampy/stampy-MINA-client-server-RI@1.0-RELEASE?classifier=sources

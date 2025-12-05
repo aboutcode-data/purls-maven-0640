@@ -1,0 +1,2 @@
+- pkg:maven/com.ivonacloud/ivona-speechcloud-sdk-java@0.1.0
+- pkg:maven/com.ivonacloud/ivona-speechcloud-sdk-java@0.1.0?classifier=sources

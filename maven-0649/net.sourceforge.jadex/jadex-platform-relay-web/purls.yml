@@ -1,0 +1,10 @@
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.1?classifier=sources
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.1?type=war
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.2.1?classifier=sources
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.2.1?type=war
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.2?classifier=sources
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.2?type=war
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.3?classifier=sources
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.3?type=war
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.4?classifier=sources
+- pkg:maven/net.sourceforge.jadex/jadex-platform-relay-web@2.4?type=war

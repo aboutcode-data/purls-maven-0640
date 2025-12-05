@@ -1,0 +1,2 @@
+- pkg:maven/ru.yandex.qatools.matchers/matcher-decorators@1.0
+- pkg:maven/ru.yandex.qatools.matchers/matcher-decorators@1.0?classifier=sources

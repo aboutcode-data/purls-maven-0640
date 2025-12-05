@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.cmi/cmi-examples@2.0-RC5
+- pkg:maven/org.ow2.cmi/cmi-examples@2.0-RC5?classifier=sources
+- pkg:maven/org.ow2.cmi/cmi-examples@2.0-RC5b
+- pkg:maven/org.ow2.cmi/cmi-examples@2.0-RC5b?classifier=sources
+- pkg:maven/org.ow2.cmi/cmi-examples@2.0-RC6
+- pkg:maven/org.ow2.cmi/cmi-examples@2.0-RC6?classifier=sources

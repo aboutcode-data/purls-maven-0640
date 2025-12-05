@@ -1,0 +1,7 @@
+- pkg:maven/nanocontainer/nanocontainer-nanowar-sample@1.0-20051008.180012?type=war
+- pkg:maven/nanocontainer/nanocontainer-nanowar-sample@1.0-20051008.181704?type=war
+- pkg:maven/nanocontainer/nanocontainer-nanowar-sample@1.0-RC-1?type=war
+- pkg:maven/nanocontainer/nanocontainer-nanowar-sample@1.0-RC-2?type=war
+- pkg:maven/nanocontainer/nanocontainer-nanowar-sample@nanoweb?type=war
+- pkg:maven/nanocontainer/nanocontainer-nanowar-sample@struts?type=war
+- pkg:maven/nanocontainer/nanocontainer-nanowar-sample@webwork?type=war

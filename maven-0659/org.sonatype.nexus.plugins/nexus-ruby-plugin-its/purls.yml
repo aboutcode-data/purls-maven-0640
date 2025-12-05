@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.nexus.plugins/nexus-ruby-plugin-its@1.0.0
+- pkg:maven/org.sonatype.nexus.plugins/nexus-ruby-plugin-its@1.0.0?classifier=sources

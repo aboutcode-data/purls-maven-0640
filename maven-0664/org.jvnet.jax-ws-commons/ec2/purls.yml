@@ -1,0 +1,4 @@
+- pkg:maven/org.jvnet.jax-ws-commons/ec2@2008-08-08-rev-1
+- pkg:maven/org.jvnet.jax-ws-commons/ec2@2008-08-08-rev-1?classifier=sources
+- pkg:maven/org.jvnet.jax-ws-commons/ec2@2009-04-04-rev-1
+- pkg:maven/org.jvnet.jax-ws-commons/ec2@2009-04-04-rev-1?classifier=sources

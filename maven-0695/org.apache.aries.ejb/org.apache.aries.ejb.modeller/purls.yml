@@ -1,0 +1,3 @@
+- pkg:maven/org.apache.aries.ejb/org.apache.aries.ejb.modeller@1.0.0
+- pkg:maven/org.apache.aries.ejb/org.apache.aries.ejb.modeller@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.ejb/org.apache.aries.ejb.modeller@1.0.0?classifier=sources

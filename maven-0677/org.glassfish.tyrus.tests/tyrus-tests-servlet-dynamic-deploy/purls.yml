@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-servlet-dynamic-deploy@1.0-b13?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-servlet-dynamic-deploy@1.0-b13?type=war

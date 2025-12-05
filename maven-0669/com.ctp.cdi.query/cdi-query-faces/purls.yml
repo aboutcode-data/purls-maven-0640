@@ -1,0 +1,4 @@
+- pkg:maven/com.ctp.cdi.query/cdi-query-faces@1.0.0.Alpha4
+- pkg:maven/com.ctp.cdi.query/cdi-query-faces@1.0.0.Alpha4?classifier=sources
+- pkg:maven/com.ctp.cdi.query/cdi-query-faces@1.0.0.Alpha5
+- pkg:maven/com.ctp.cdi.query/cdi-query-faces@1.0.0.Alpha5?classifier=sources

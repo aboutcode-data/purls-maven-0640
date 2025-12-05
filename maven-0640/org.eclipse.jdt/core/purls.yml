@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.jdt/core@3.1.1
+- pkg:maven/org.eclipse.jdt/core@3.2.0.653
+- pkg:maven/org.eclipse.jdt/core@3.2.0.658
+- pkg:maven/org.eclipse.jdt/core@3.2.0.666
+- pkg:maven/org.eclipse.jdt/core@3.2.1-v_677_R32x
+- pkg:maven/org.eclipse.jdt/core@3.3.0-v_771

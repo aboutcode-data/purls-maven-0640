@@ -1,0 +1,2 @@
+- pkg:maven/com.weiglewilczek.sbteclipse/sbteclipse_2.9.0-1@0.7
+- pkg:maven/com.weiglewilczek.sbteclipse/sbteclipse_2.9.0-1@0.7?classifier=sources

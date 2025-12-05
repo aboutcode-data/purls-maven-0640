@@ -1,0 +1,1 @@
+- pkg:maven/org.hudsonci.plugins/windows-slaves-plugin@1.0?classifier=sources

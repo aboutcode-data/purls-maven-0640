@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.directory.server/kerberos-client2@2.0.0-M12
+- pkg:maven/org.apache.directory.server/kerberos-client2@2.0.0-M12?classifier=sources

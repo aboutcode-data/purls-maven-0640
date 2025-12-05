@@ -1,0 +1,2 @@
+- pkg:maven/org.rauschig/maven-archetype-bundle@0.2.0?classifier=sources
+- pkg:maven/org.rauschig/maven-archetype-bundle@0.3.0?classifier=sources

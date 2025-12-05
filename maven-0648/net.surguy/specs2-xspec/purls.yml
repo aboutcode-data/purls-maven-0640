@@ -1,0 +1,4 @@
+- pkg:maven/net.surguy/specs2-xspec@0.1
+- pkg:maven/net.surguy/specs2-xspec@0.1?classifier=sources
+- pkg:maven/net.surguy/specs2-xspec@0.2_2.10.0
+- pkg:maven/net.surguy/specs2-xspec@0.2_2.10.0?classifier=sources

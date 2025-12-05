@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.common/common-jsresource@1.7
+- pkg:maven/nz.ac.auckland.common/common-jsresource@1.7?classifier=sources

@@ -1,0 +1,11 @@
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.4.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.4.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.4.2
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.4.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.4.4
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.4.4?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.6.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.6.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.7.0
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.7.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.webconsole@1.7.0?classifier=sources

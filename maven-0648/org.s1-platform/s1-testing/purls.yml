@@ -1,0 +1,2 @@
+- pkg:maven/org.s1-platform/s1-testing@2.4.0
+- pkg:maven/org.s1-platform/s1-testing@2.4.0?classifier=sources

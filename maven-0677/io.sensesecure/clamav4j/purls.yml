@@ -1,0 +1,2 @@
+- pkg:maven/io.sensesecure/clamav4j@0.4
+- pkg:maven/io.sensesecure/clamav4j@0.4?classifier=sources

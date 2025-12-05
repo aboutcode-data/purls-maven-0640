@@ -1,0 +1,14 @@
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.5.1
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.5.1-1
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.5.1-1?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.5.1-M3
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.5.1-M3?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.5.1?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.5.2-01
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.5.2-01?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.6.0-01
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.6.0-01?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.7.0-01
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.7.0-01?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.8.0-01
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@2.8.0-01?classifier=sources

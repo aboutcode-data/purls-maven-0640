@@ -1,0 +1,2 @@
+- pkg:maven/org.scalaz/scalaz-tests_2.10.0-M6@7.0.0-M2
+- pkg:maven/org.scalaz/scalaz-tests_2.10.0-M6@7.0.0-M2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.skife.tar/java-gnu-tar@0.0.1
+- pkg:maven/org.skife.tar/java-gnu-tar@0.0.1?classifier=sources

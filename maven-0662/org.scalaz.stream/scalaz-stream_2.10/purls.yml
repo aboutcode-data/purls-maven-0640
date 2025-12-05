@@ -1,0 +1,2 @@
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.10@0.1
+- pkg:maven/org.scalaz.stream/scalaz-stream_2.10@0.1?classifier=sources

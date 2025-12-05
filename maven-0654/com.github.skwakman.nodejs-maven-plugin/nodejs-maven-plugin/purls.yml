@@ -1,0 +1,8 @@
+- pkg:maven/com.github.skwakman.nodejs-maven-plugin/nodejs-maven-plugin@1.0.2
+- pkg:maven/com.github.skwakman.nodejs-maven-plugin/nodejs-maven-plugin@1.0.2?classifier=sources
+- pkg:maven/com.github.skwakman.nodejs-maven-plugin/nodejs-maven-plugin@1.0.3
+- pkg:maven/com.github.skwakman.nodejs-maven-plugin/nodejs-maven-plugin@1.0.3?classifier=sources
+- pkg:maven/com.github.skwakman.nodejs-maven-plugin/nodejs-maven-plugin@1.0.4
+- pkg:maven/com.github.skwakman.nodejs-maven-plugin/nodejs-maven-plugin@1.0.4?classifier=sources
+- pkg:maven/com.github.skwakman.nodejs-maven-plugin/nodejs-maven-plugin@1.0.5-node-0.10.25
+- pkg:maven/com.github.skwakman.nodejs-maven-plugin/nodejs-maven-plugin@1.0.5-node-0.10.25?classifier=sources

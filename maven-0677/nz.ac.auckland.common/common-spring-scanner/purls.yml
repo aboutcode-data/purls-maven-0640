@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.auckland.common/common-spring-scanner@1.2
+- pkg:maven/nz.ac.auckland.common/common-spring-scanner@1.2?classifier=sources

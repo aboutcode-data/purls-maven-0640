@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.kerneos.graniteds/granite-core@2.2.1.flex45
+- pkg:maven/org.ow2.kerneos.graniteds/granite-core@2.2.1.flex45?classifier=sources

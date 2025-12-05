@@ -1,0 +1,2 @@
+- pkg:maven/com.github.stokito/gag-annotations@1.0.1
+- pkg:maven/com.github.stokito/gag-annotations@1.0.1?classifier=sources

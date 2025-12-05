@@ -1,0 +1,2 @@
+- pkg:maven/eu.getintheloop/lift-shiro_2.9.2@0.0.6
+- pkg:maven/eu.getintheloop/lift-shiro_2.9.2@0.0.6?classifier=sources

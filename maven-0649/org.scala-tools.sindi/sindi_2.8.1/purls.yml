@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-tools.sindi/sindi_2.8.1@0.1
+- pkg:maven/org.scala-tools.sindi/sindi_2.8.1@0.1?classifier=sources

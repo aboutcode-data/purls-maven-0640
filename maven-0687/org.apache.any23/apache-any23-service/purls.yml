@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.any23/apache-any23-service@0.7.0-incubating?classifier=sources
+- pkg:maven/org.apache.any23/apache-any23-service@0.7.0-incubating?type=war
+- pkg:maven/org.apache.any23/apache-any23-service@0.8.0?classifier=sources
+- pkg:maven/org.apache.any23/apache-any23-service@0.8.0?type=war
+- pkg:maven/org.apache.any23/apache-any23-service@0.9.0?classifier=sources
+- pkg:maven/org.apache.any23/apache-any23-service@0.9.0?type=war

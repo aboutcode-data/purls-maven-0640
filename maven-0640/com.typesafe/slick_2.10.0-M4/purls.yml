@@ -1,0 +1,6 @@
+- pkg:maven/com.typesafe/slick_2.10.0-M4@0.10.0
+- pkg:maven/com.typesafe/slick_2.10.0-M4@0.10.0-M2
+- pkg:maven/com.typesafe/slick_2.10.0-M4@0.10.0-M2?classifier=sources
+- pkg:maven/com.typesafe/slick_2.10.0-M4@0.10.0-M3
+- pkg:maven/com.typesafe/slick_2.10.0-M4@0.10.0-M3?classifier=sources
+- pkg:maven/com.typesafe/slick_2.10.0-M4@0.10.0?classifier=sources

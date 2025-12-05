@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jmpi/jmpi-solver-cplex@0.4
+- pkg:maven/net.sf.jmpi/jmpi-solver-cplex@0.4?classifier=sources

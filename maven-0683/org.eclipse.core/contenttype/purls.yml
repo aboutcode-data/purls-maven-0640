@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.core/contenttype@3.2.0-v20060603
+- pkg:maven/org.eclipse.core/contenttype@3.2.100-v20070319
+- pkg:maven/org.eclipse.core/contenttype@3.4.200-v20130326-1255
+- pkg:maven/org.eclipse.core/contenttype@3.4.200-v20130326-1255?classifier=sources

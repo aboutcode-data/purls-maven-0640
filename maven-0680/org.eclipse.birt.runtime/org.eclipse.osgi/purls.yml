@@ -1,0 +1,12 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.7.2.v20120110-1415
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.7.2.v20120110-1415?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.8.0.v20120529-1548
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.8.0.v20120529-1548?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.8.1.v20120830-144521
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.8.1.v20120830-144521?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.8.2.v20130124-134944
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.8.2.v20130124-134944?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.9.0.v20130529-1710
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.9.0.v20130529-1710?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.9.1.v20130814-1242
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.osgi@3.9.1.v20130814-1242?classifier=sources

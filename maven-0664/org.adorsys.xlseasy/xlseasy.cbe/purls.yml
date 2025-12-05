@@ -1,0 +1,4 @@
+- pkg:maven/org.adorsys.xlseasy/xlseasy.cbe@1.3-CR4
+- pkg:maven/org.adorsys.xlseasy/xlseasy.cbe@1.3-CR4?classifier=sources
+- pkg:maven/org.adorsys.xlseasy/xlseasy.cbe@1.3-CR5
+- pkg:maven/org.adorsys.xlseasy/xlseasy.cbe@1.3-CR5?classifier=sources

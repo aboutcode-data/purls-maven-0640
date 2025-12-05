@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-partcover@0.1
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-partcover@0.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-partcover@0.2
+- pkg:maven/org.codehaus.sonar-plugins.dotnet/sonar-plugin-partcover@0.2?classifier=sources

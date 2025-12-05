@@ -1,0 +1,5 @@
+- pkg:maven/avalon-repository/avalon-repository-spi@1.0-beta-1-RC1
+- pkg:maven/avalon-repository/avalon-repository-spi@1.0b1
+- pkg:maven/avalon-repository/avalon-repository-spi@1.2
+- pkg:maven/avalon-repository/avalon-repository-spi@2.0.0
+- pkg:maven/avalon-repository/avalon-repository-spi@2.0.dev-0

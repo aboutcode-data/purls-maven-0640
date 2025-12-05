@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson.plugins/job-exporter@0.2.0?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/job-exporter@0.3.0?classifier=sources

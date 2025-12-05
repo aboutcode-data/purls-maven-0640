@@ -1,0 +1,12 @@
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-1
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-1?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-2
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-2?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-3
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-3?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-4
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-4?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-5
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-5.1
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-5.1?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ucloud-storage@1.0-alpha-5?classifier=sources

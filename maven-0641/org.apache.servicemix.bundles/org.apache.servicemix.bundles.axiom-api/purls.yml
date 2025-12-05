@@ -1,0 +1,11 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.12-1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.12-2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.12-2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.13-1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.13-1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.13-1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.13-1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.13_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.13_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.13_2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.axiom-api@1.2.13_2?classifier=src&type=zip

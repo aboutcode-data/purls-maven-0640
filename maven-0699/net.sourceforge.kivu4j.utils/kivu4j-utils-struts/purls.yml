@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.kivu4j.utils/kivu4j-utils-struts@1.1
+- pkg:maven/net.sourceforge.kivu4j.utils/kivu4j-utils-struts@1.1?classifier=sources

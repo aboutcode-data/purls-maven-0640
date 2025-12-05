@@ -1,0 +1,5 @@
+- pkg:maven/org.kuali.rice/rice-doc@1.0.3.1-BX
+- pkg:maven/org.kuali.rice/rice-doc@1.0.3.2
+- pkg:maven/org.kuali.rice/rice-doc@1.0.3.3
+- pkg:maven/org.kuali.rice/rice-doc@1.0.4
+- pkg:maven/org.kuali.rice/rice-doc@1.0.4?classifier=sources

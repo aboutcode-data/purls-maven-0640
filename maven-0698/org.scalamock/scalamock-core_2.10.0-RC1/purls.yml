@@ -1,0 +1,4 @@
+- pkg:maven/org.scalamock/scalamock-core_2.10.0-RC1@3.0-M4
+- pkg:maven/org.scalamock/scalamock-core_2.10.0-RC1@3.0-M4?classifier=sources
+- pkg:maven/org.scalamock/scalamock-core_2.10.0-RC1@3.0-M5
+- pkg:maven/org.scalamock/scalamock-core_2.10.0-RC1@3.0-M5?classifier=sources

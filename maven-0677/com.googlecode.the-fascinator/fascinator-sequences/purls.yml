@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.the-fascinator/fascinator-sequences@0.1
+- pkg:maven/com.googlecode.the-fascinator/fascinator-sequences@0.1?classifier=sources

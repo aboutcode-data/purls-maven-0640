@@ -1,0 +1,3 @@
+- pkg:maven/org.webjars/d3-plugins@a3c809c322
+- pkg:maven/org.webjars/d3-plugins@da342b6
+- pkg:maven/org.webjars/d3-plugins@da342b6?classifier=sources

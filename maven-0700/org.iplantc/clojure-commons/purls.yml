@@ -1,0 +1,2 @@
+- pkg:maven/org.iplantc/clojure-commons@1.4.8
+- pkg:maven/org.iplantc/clojure-commons@1.4.8?classifier=sources

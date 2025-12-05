@@ -1,0 +1,2 @@
+- pkg:maven/se.fearless/fettle@0.8.1
+- pkg:maven/se.fearless/fettle@0.8.1?classifier=sources

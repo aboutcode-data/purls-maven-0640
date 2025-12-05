@@ -1,0 +1,2 @@
+- pkg:maven/de.tudarmstadt.ukp.dkpro.core/build-tools@4
+- pkg:maven/de.tudarmstadt.ukp.dkpro.core/build-tools@4?classifier=sources

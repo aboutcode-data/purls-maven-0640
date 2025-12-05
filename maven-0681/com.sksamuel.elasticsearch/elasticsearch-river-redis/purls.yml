@@ -1,0 +1,12 @@
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@0.90.1.1?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@0.90.1.1?type=zip
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@0.90.1.2?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@0.90.1.2?type=zip
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@0.90.1?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@0.90.1?type=zip
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@1.0.2?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@1.0.2?type=zip
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@1.1.0?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@1.1.0?type=zip
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@1.1.1?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-redis@1.1.1?type=zip

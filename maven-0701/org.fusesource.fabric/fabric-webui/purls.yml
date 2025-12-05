@@ -1,0 +1,2 @@
+- pkg:maven/org.fusesource.fabric/fabric-webui@7.1.0.fuse-014?classifier=sources
+- pkg:maven/org.fusesource.fabric/fabric-webui@7.1.0.fuse-014?type=war

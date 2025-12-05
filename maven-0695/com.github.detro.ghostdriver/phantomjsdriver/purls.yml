@@ -1,0 +1,10 @@
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.0.1
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.0.1?classifier=sources
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.0.3
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.0.3-dev
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.0.3-dev?classifier=sources
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.0.3?classifier=sources
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.0.4
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.0.4?classifier=sources
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.1.0
+- pkg:maven/com.github.detro.ghostdriver/phantomjsdriver@1.1.0?classifier=sources

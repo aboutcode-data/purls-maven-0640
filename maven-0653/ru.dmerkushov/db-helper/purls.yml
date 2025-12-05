@@ -1,0 +1,14 @@
+- pkg:maven/ru.dmerkushov/db-helper@1.10.0
+- pkg:maven/ru.dmerkushov/db-helper@1.10.0?classifier=sources
+- pkg:maven/ru.dmerkushov/db-helper@1.5.0
+- pkg:maven/ru.dmerkushov/db-helper@1.5.0?classifier=sources
+- pkg:maven/ru.dmerkushov/db-helper@1.6.0
+- pkg:maven/ru.dmerkushov/db-helper@1.6.0?classifier=sources
+- pkg:maven/ru.dmerkushov/db-helper@1.6.1
+- pkg:maven/ru.dmerkushov/db-helper@1.6.1?classifier=sources
+- pkg:maven/ru.dmerkushov/db-helper@1.8.0
+- pkg:maven/ru.dmerkushov/db-helper@1.8.0?classifier=sources
+- pkg:maven/ru.dmerkushov/db-helper@1.8.2
+- pkg:maven/ru.dmerkushov/db-helper@1.8.2?classifier=sources
+- pkg:maven/ru.dmerkushov/db-helper@1.9.0
+- pkg:maven/ru.dmerkushov/db-helper@1.9.0?classifier=sources

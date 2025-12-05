@@ -1,0 +1,2 @@
+- pkg:maven/ru.yandex/mysql-diff@0.2
+- pkg:maven/ru.yandex/mysql-diff@0.2?classifier=sources

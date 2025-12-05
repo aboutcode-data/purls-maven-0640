@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.plexus/plexus-xmlrpc@1.0-beta-4
+- pkg:maven/org.codehaus.plexus/plexus-xmlrpc@1.0-beta-4?classifier=sources

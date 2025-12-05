@@ -1,0 +1,4 @@
+- pkg:maven/org.ogce/xsul@2.10.6
+- pkg:maven/org.ogce/xsul@2.10.6?classifier=sources
+- pkg:maven/org.ogce/xsul@2.10.7
+- pkg:maven/org.ogce/xsul@2.10.7?classifier=sources

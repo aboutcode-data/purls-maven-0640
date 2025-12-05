@@ -1,0 +1,2 @@
+- pkg:maven/org.apidesign.bck2brwsr.ide.editor/editor@0.4?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr.ide.editor/editor@0.5?classifier=sources

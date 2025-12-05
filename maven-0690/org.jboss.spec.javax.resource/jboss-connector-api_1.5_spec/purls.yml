@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.spec.javax.resource/jboss-connector-api_1.5_spec@1.0.0.Beta1
+- pkg:maven/org.jboss.spec.javax.resource/jboss-connector-api_1.5_spec@1.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.spec.javax.resource/jboss-connector-api_1.5_spec@1.0.0.Final
+- pkg:maven/org.jboss.spec.javax.resource/jboss-connector-api_1.5_spec@1.0.0.Final?classifier=sources

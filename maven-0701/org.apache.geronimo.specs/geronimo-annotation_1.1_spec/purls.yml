@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.geronimo.specs/geronimo-annotation_1.1_spec@1.0
+- pkg:maven/org.apache.geronimo.specs/geronimo-annotation_1.1_spec@1.0.1
+- pkg:maven/org.apache.geronimo.specs/geronimo-annotation_1.1_spec@1.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.specs/geronimo-annotation_1.1_spec@1.0.1?classifier=sources
+- pkg:maven/org.apache.geronimo.specs/geronimo-annotation_1.1_spec@1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.specs/geronimo-annotation_1.1_spec@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.matrixweb.smaller/osgi-file@0.5.3
+- pkg:maven/de.matrixweb.smaller/osgi-file@0.5.3?classifier=sources
+- pkg:maven/de.matrixweb.smaller/osgi-file@0.6.0
+- pkg:maven/de.matrixweb.smaller/osgi-file@0.6.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/se.vgregion.rss-client/rss-client-bc-core-composite-webcomp@1.0
+- pkg:maven/se.vgregion.rss-client/rss-client-bc-core-composite-webcomp@1.0?classifier=sources
+- pkg:maven/se.vgregion.rss-client/rss-client-bc-core-composite-webcomp@1.1
+- pkg:maven/se.vgregion.rss-client/rss-client-bc-core-composite-webcomp@1.1?classifier=sources

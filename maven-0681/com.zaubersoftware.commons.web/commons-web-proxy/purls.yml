@@ -1,0 +1,2 @@
+- pkg:maven/com.zaubersoftware.commons.web/commons-web-proxy@3.49
+- pkg:maven/com.zaubersoftware.commons.web/commons-web-proxy@3.49?classifier=sources

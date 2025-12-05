@@ -1,0 +1,8 @@
+- pkg:maven/org.mortbay.jetty.testwars/test-jetty-webapp@7.3.1.v20110307?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-jetty-webapp@7.3.1.v20110307?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-jetty-webapp@7.4.0.RC0?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-jetty-webapp@7.4.0.RC0?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-jetty-webapp@7.4.0.v20110414?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-jetty-webapp@7.4.0.v20110414?type=war
+- pkg:maven/org.mortbay.jetty.testwars/test-jetty-webapp@7.4.1.v20110513?classifier=sources
+- pkg:maven/org.mortbay.jetty.testwars/test-jetty-webapp@7.4.1.v20110513?type=war

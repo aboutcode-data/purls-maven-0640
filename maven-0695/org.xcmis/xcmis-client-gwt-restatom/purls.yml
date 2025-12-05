@@ -1,0 +1,4 @@
+- pkg:maven/org.xcmis/xcmis-client-gwt-restatom@1.0
+- pkg:maven/org.xcmis/xcmis-client-gwt-restatom@1.0?classifier=sources
+- pkg:maven/org.xcmis/xcmis-client-gwt-restatom@1.1.0-Beta01
+- pkg:maven/org.xcmis/xcmis-client-gwt-restatom@1.1.0-Beta01?classifier=sources

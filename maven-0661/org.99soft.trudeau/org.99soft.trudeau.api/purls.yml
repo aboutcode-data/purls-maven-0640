@@ -1,0 +1,2 @@
+- pkg:maven/org.99soft.trudeau/org.99soft.trudeau.api@0.0.1
+- pkg:maven/org.99soft.trudeau/org.99soft.trudeau.api@0.0.1?classifier=sources

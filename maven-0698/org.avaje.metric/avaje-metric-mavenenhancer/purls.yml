@@ -1,0 +1,4 @@
+- pkg:maven/org.avaje.metric/avaje-metric-mavenenhancer@2.0.3
+- pkg:maven/org.avaje.metric/avaje-metric-mavenenhancer@2.0.3?classifier=sources
+- pkg:maven/org.avaje.metric/avaje-metric-mavenenhancer@2.1.0
+- pkg:maven/org.avaje.metric/avaje-metric-mavenenhancer@2.1.0?classifier=sources

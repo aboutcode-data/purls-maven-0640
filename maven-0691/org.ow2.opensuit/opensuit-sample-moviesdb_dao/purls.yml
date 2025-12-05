@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.opensuit/opensuit-sample-moviesdb_dao@1.0.1
+- pkg:maven/org.ow2.opensuit/opensuit-sample-moviesdb_dao@1.0.1?classifier=sources

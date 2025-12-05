@@ -1,0 +1,2 @@
+- pkg:maven/com.github.menacher/storm-chronicle@0.0.2
+- pkg:maven/com.github.menacher/storm-chronicle@0.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.disy.jquery/jquery@1.4.2
+- pkg:maven/net.disy.jquery/jquery@1.4.2?classifier=sources

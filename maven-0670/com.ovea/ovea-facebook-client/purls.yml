@@ -1,0 +1,4 @@
+- pkg:maven/com.ovea/ovea-facebook-client@1.0.ga
+- pkg:maven/com.ovea/ovea-facebook-client@1.0.ga?classifier=sources
+- pkg:maven/com.ovea/ovea-facebook-client@1.1.ga
+- pkg:maven/com.ovea/ovea-facebook-client@1.1.ga?classifier=sources

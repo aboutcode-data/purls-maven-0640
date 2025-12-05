@@ -1,0 +1,2 @@
+- pkg:maven/no.uis.util/locale-spi-no-nb@1.0.4
+- pkg:maven/no.uis.util/locale-spi-no-nb@1.0.4?classifier=sources

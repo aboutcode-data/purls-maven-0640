@@ -1,0 +1,9 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxp-ri@1.4.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxp-ri@1.4.2_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxp-ri@1.4.2_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxp-ri@1.4.2_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxp-ri@1.4.2_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxp-ri@1.4.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxp-ri@1.4.4_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxp-ri@1.4.5_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jaxp-ri@1.4.5_1?classifier=sources

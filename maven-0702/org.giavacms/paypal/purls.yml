@@ -1,0 +1,2 @@
+- pkg:maven/org.giavacms/paypal@2.0.2
+- pkg:maven/org.giavacms/paypal@2.0.2?classifier=sources

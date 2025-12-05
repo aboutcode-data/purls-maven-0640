@@ -1,0 +1,4 @@
+- pkg:maven/com.google.code.struts2jscalendarplugin/struts2jscalendarplugin@0.6
+- pkg:maven/com.google.code.struts2jscalendarplugin/struts2jscalendarplugin@0.6?classifier=sources
+- pkg:maven/com.google.code.struts2jscalendarplugin/struts2jscalendarplugin@0.7
+- pkg:maven/com.google.code.struts2jscalendarplugin/struts2jscalendarplugin@0.7?classifier=sources

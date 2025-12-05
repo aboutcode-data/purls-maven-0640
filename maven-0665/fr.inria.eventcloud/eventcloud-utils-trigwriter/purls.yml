@@ -1,0 +1,10 @@
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.0.0
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.0.0?classifier=sources
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.1.0
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.1.0?classifier=sources
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.2.1
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.2.1?classifier=sources
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.3.0
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.3.0?classifier=sources
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.4.0
+- pkg:maven/fr.inria.eventcloud/eventcloud-utils-trigwriter@1.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.cloudesire/tisana4j@0.0.10
+- pkg:maven/com.cloudesire/tisana4j@0.0.10?classifier=sources

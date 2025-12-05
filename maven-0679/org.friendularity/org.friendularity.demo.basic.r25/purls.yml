@@ -1,0 +1,2 @@
+- pkg:maven/org.friendularity/org.friendularity.demo.basic.r25@1.0.2
+- pkg:maven/org.friendularity/org.friendularity.demo.basic.r25@1.0.2?classifier=sources

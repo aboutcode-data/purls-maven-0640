@@ -1,0 +1,2 @@
+- pkg:maven/org.axsl.org.w3c.dom.mathml/mathml-dom-java@2.0
+- pkg:maven/org.axsl.org.w3c.dom.mathml/mathml-dom-java@2.0?classifier=sources

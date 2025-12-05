@@ -1,0 +1,2 @@
+- pkg:maven/de.struller-baumann/TelemeeJavaClient@0.01
+- pkg:maven/de.struller-baumann/TelemeeJavaClient@0.01?classifier=sources

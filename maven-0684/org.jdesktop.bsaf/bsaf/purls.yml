@@ -1,0 +1,6 @@
+- pkg:maven/org.jdesktop.bsaf/bsaf@1.9
+- pkg:maven/org.jdesktop.bsaf/bsaf@1.9.2
+- pkg:maven/org.jdesktop.bsaf/bsaf@1.9.2?classifier=sources
+- pkg:maven/org.jdesktop.bsaf/bsaf@1.9?classifier=sources
+- pkg:maven/org.jdesktop.bsaf/bsaf@1.9RC5
+- pkg:maven/org.jdesktop.bsaf/bsaf@1.9RC5?classifier=sources

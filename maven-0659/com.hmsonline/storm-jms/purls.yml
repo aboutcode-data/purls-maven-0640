@@ -1,0 +1,2 @@
+- pkg:maven/com.hmsonline/storm-jms@0.2.2
+- pkg:maven/com.hmsonline/storm-jms@0.2.2?classifier=sources

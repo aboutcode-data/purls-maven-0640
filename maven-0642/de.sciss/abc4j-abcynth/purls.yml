@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/abc4j-abcynth@0.6.0
+- pkg:maven/de.sciss/abc4j-abcynth@0.6.0?classifier=sources

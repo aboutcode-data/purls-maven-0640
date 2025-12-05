@@ -1,0 +1,2 @@
+- pkg:maven/org.resteasy/resteasy-jaxrs-war@1.0-beta-4?type=war
+- pkg:maven/org.resteasy/resteasy-jaxrs-war@1.0-beta-5?type=war

@@ -1,0 +1,6 @@
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2012.03
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2012.03?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2012.08
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2012.08?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2013.11
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2013.11?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.jbpm/jbpm-console-ng-process-modeling-client@6.0.0.Alpha7
+- pkg:maven/org.jbpm/jbpm-console-ng-process-modeling-client@6.0.0.Alpha7?classifier=sources
+- pkg:maven/org.jbpm/jbpm-console-ng-process-modeling-client@6.0.0.Alpha9
+- pkg:maven/org.jbpm/jbpm-console-ng-process-modeling-client@6.0.0.Alpha9?classifier=sources
+- pkg:maven/org.jbpm/jbpm-console-ng-process-modeling-client@6.0.0.Beta1
+- pkg:maven/org.jbpm/jbpm-console-ng-process-modeling-client@6.0.0.Beta1?classifier=sources
+- pkg:maven/org.jbpm/jbpm-console-ng-process-modeling-client@6.0.0.Beta2
+- pkg:maven/org.jbpm/jbpm-console-ng-process-modeling-client@6.0.0.Beta2?classifier=sources

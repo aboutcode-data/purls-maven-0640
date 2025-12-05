@@ -1,0 +1,6 @@
+- pkg:maven/net.debasishg/sjson_2.9.1@0.15
+- pkg:maven/net.debasishg/sjson_2.9.1@0.15?classifier=sources
+- pkg:maven/net.debasishg/sjson_2.9.1@0.17
+- pkg:maven/net.debasishg/sjson_2.9.1@0.17?classifier=sources
+- pkg:maven/net.debasishg/sjson_2.9.1@0.18
+- pkg:maven/net.debasishg/sjson_2.9.1@0.18?classifier=sources

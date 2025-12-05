@@ -1,0 +1,16 @@
+- pkg:maven/org.parboiled/parboiled-scala@0.10.0
+- pkg:maven/org.parboiled/parboiled-scala@0.10.0?classifier=sources
+- pkg:maven/org.parboiled/parboiled-scala@0.10.1
+- pkg:maven/org.parboiled/parboiled-scala@0.10.1?classifier=sources
+- pkg:maven/org.parboiled/parboiled-scala@0.11.0
+- pkg:maven/org.parboiled/parboiled-scala@0.11.0?classifier=sources
+- pkg:maven/org.parboiled/parboiled-scala@0.11.1
+- pkg:maven/org.parboiled/parboiled-scala@0.11.1?classifier=sources
+- pkg:maven/org.parboiled/parboiled-scala@0.11.2
+- pkg:maven/org.parboiled/parboiled-scala@0.11.2?classifier=sources
+- pkg:maven/org.parboiled/parboiled-scala@1.0.0
+- pkg:maven/org.parboiled/parboiled-scala@1.0.0?classifier=sources
+- pkg:maven/org.parboiled/parboiled-scala@1.0.1
+- pkg:maven/org.parboiled/parboiled-scala@1.0.1?classifier=sources
+- pkg:maven/org.parboiled/parboiled-scala@1.0.2
+- pkg:maven/org.parboiled/parboiled-scala@1.0.2?classifier=sources

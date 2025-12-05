@@ -1,0 +1,8 @@
+- pkg:maven/com.github.houbie/lesscss-gradle-plugin@0.5-less-1.7.0
+- pkg:maven/com.github.houbie/lesscss-gradle-plugin@0.5-less-1.7.0?classifier=sources
+- pkg:maven/com.github.houbie/lesscss-gradle-plugin@0.9-less-1.7.0
+- pkg:maven/com.github.houbie/lesscss-gradle-plugin@0.9-less-1.7.0?classifier=sources
+- pkg:maven/com.github.houbie/lesscss-gradle-plugin@0.9.1-less-1.7.0
+- pkg:maven/com.github.houbie/lesscss-gradle-plugin@0.9.1-less-1.7.0?classifier=sources
+- pkg:maven/com.github.houbie/lesscss-gradle-plugin@1.0.0-less-1.7.0
+- pkg:maven/com.github.houbie/lesscss-gradle-plugin@1.0.0-less-1.7.0?classifier=sources

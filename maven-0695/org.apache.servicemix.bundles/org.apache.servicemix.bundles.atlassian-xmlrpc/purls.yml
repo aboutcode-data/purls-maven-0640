@@ -1,0 +1,7 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.atlassian-xmlrpc@0.11_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.atlassian-xmlrpc@0.11_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.atlassian-xmlrpc@0.11_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.atlassian-xmlrpc@0.11_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.atlassian-xmlrpc@0.11_3?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.atlassian-xmlrpc@0.11_3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.atlassian-xmlrpc@0.11_3?classifier=src&type=zip

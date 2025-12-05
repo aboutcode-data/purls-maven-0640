@@ -1,0 +1,10 @@
+- pkg:maven/org.swixml/swingx@2.5.20110708
+- pkg:maven/org.swixml/swingx@2.5.20110708?classifier=sources
+- pkg:maven/org.swixml/swingx@2.5.20110914
+- pkg:maven/org.swixml/swingx@2.5.20110914?classifier=sources
+- pkg:maven/org.swixml/swingx@2.5.20110919
+- pkg:maven/org.swixml/swingx@2.5.20110919?classifier=sources
+- pkg:maven/org.swixml/swingx@2.6.20111005
+- pkg:maven/org.swixml/swingx@2.6.20111005?classifier=sources
+- pkg:maven/org.swixml/swingx@2.6.20130530
+- pkg:maven/org.swixml/swingx@2.6.20130530?classifier=sources

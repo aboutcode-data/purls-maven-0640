@@ -1,0 +1,2 @@
+- pkg:maven/fi.foyt.paytrail/sdk@1.0.0
+- pkg:maven/fi.foyt.paytrail/sdk@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jfolson/gradle-plugin-r@0.1
+- pkg:maven/com.jfolson/gradle-plugin-r@0.1?classifier=sources

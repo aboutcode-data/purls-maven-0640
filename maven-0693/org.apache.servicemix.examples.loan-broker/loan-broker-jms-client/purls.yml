@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.servicemix.examples.loan-broker/loan-broker-jms-client@4.2.0
+- pkg:maven/org.apache.servicemix.examples.loan-broker/loan-broker-jms-client@4.2.0?classifier=sources
+- pkg:maven/org.apache.servicemix.examples.loan-broker/loan-broker-jms-client@4.3.0
+- pkg:maven/org.apache.servicemix.examples.loan-broker/loan-broker-jms-client@4.3.0?classifier=sources

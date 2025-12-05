@@ -1,0 +1,2 @@
+- pkg:maven/net.java.dev.vcc/vcc-ant-tasks@0.0.1
+- pkg:maven/net.java.dev.vcc/vcc-ant-tasks@0.0.1?classifier=sources

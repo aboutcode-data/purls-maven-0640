@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.opennlp/opennlp-distr@1.5.1-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.opennlp/opennlp-distr@1.5.2-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.opennlp/opennlp-distr@1.5.2-incubating?classifier=src&type=zip
+- pkg:maven/org.apache.opennlp/opennlp-distr@1.5.3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.opennlp/opennlp-distr@1.5.3?classifier=src&type=zip

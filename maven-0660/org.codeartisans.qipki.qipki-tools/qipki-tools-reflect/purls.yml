@@ -1,0 +1,2 @@
+- pkg:maven/org.codeartisans.qipki.qipki-tools/qipki-tools-reflect@1.0-alpha7
+- pkg:maven/org.codeartisans.qipki.qipki-tools/qipki-tools-reflect@1.0-alpha7?classifier=sources

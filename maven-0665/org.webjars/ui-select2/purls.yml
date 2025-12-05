@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars/ui-select2@0.0.2
+- pkg:maven/org.webjars/ui-select2@0.0.2?classifier=sources
+- pkg:maven/org.webjars/ui-select2@0.0.5
+- pkg:maven/org.webjars/ui-select2@0.0.5?classifier=sources

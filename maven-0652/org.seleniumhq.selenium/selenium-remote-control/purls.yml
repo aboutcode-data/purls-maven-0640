@@ -1,0 +1,6 @@
+- pkg:maven/org.seleniumhq.selenium/selenium-remote-control@2.0b2
+- pkg:maven/org.seleniumhq.selenium/selenium-remote-control@2.0b2?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-remote-control@2.0b3
+- pkg:maven/org.seleniumhq.selenium/selenium-remote-control@2.0b3?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-remote-control@2.0rc2
+- pkg:maven/org.seleniumhq.selenium/selenium-remote-control@2.0rc2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.mq/imqbroker@4.5.2
+- pkg:maven/org.glassfish.mq/imqbroker@4.5.2?classifier=sources
+- pkg:maven/org.glassfish.mq/imqbroker@5.0
+- pkg:maven/org.glassfish.mq/imqbroker@5.0?classifier=sources

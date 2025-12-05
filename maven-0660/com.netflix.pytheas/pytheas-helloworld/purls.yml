@@ -1,0 +1,14 @@
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.10?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.10?type=war
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.11?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.11?type=war
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.12?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.12?type=war
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.13?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.13?type=war
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.14?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.14?type=war
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.15?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.15?type=war
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.16?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-helloworld@1.16?type=war

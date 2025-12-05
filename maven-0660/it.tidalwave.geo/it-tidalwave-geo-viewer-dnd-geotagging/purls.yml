@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-viewer-dnd-geotagging@1.0.25?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-viewer-dnd-geotagging@1.0.26?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-viewer-dnd-geotagging@1.0.27?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-viewer-dnd-geotagging@1.0.28?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-viewer-dnd-geotagging@1.0.29?classifier=sources

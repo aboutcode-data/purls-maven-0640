@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.fractal.bf.testing/fractal-bf-testing-fixtures-tinfi@0.10
+- pkg:maven/org.ow2.fractal.bf.testing/fractal-bf-testing-fixtures-tinfi@0.10?classifier=sources

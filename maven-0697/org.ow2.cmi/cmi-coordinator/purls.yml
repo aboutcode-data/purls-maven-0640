@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.cmi/cmi-coordinator@2.0-RC8
+- pkg:maven/org.ow2.cmi/cmi-coordinator@2.0-RC8?classifier=sources
+- pkg:maven/org.ow2.cmi/cmi-coordinator@2.0-RC8b
+- pkg:maven/org.ow2.cmi/cmi-coordinator@2.0-RC8b?classifier=sources

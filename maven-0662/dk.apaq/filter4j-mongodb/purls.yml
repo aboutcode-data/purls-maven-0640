@@ -1,0 +1,2 @@
+- pkg:maven/dk.apaq/filter4j-mongodb@1.1.4
+- pkg:maven/dk.apaq/filter4j-mongodb@1.1.4?classifier=sources

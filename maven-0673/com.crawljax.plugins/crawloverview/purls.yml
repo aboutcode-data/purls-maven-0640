@@ -1,0 +1,2 @@
+- pkg:maven/com.crawljax.plugins/crawloverview@1.2
+- pkg:maven/com.crawljax.plugins/crawloverview@1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins/xunit@1.47-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/xunit@1.53-h-1?classifier=sources

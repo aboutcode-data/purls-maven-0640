@@ -1,0 +1,5 @@
+- pkg:maven/tomcat/jsp-api@5.0.16
+- pkg:maven/tomcat/jsp-api@5.0.18
+- pkg:maven/tomcat/jsp-api@5.5.12
+- pkg:maven/tomcat/jsp-api@5.5.15
+- pkg:maven/tomcat/jsp-api@5.5.23

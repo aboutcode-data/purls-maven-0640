@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tapestry/tapestry-runner@5.4-beta-3
+- pkg:maven/org.apache.tapestry/tapestry-runner@5.4-beta-3?classifier=sources

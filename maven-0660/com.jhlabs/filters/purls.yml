@@ -1,0 +1,4 @@
+- pkg:maven/com.jhlabs/filters@2.0.235
+- pkg:maven/com.jhlabs/filters@2.0.235-1
+- pkg:maven/com.jhlabs/filters@2.0.235-1?classifier=sources
+- pkg:maven/com.jhlabs/filters@2.0.235?classifier=sources

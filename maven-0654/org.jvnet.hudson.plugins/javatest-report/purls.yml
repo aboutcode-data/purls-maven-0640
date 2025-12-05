@@ -1,0 +1,3 @@
+- pkg:maven/org.jvnet.hudson.plugins/javatest-report@1.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/javatest-report@1.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/javatest-report@1.3?classifier=sources

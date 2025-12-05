@@ -1,0 +1,4 @@
+- pkg:maven/net.stickycode.component/sticky-component-cxf@2.2
+- pkg:maven/net.stickycode.component/sticky-component-cxf@2.2?classifier=sources
+- pkg:maven/net.stickycode.component/sticky-component-cxf@3.1
+- pkg:maven/net.stickycode.component/sticky-component-cxf@3.1?classifier=sources

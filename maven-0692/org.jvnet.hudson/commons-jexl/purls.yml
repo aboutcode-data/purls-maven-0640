@@ -1,0 +1,12 @@
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20071021
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20071021?classifier=sources
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20071129
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20071129?classifier=sources
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20080725
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20080725?classifier=sources
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20081031
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20081031?classifier=sources
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20090322
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20090322?classifier=sources
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20090508
+- pkg:maven/org.jvnet.hudson/commons-jexl@1.1-hudson-20090508?classifier=sources

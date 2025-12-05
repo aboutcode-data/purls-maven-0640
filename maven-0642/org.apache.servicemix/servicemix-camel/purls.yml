@@ -1,0 +1,13 @@
+- pkg:maven/org.apache.servicemix/servicemix-camel@2008.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@2009.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@2009.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@2010.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@2010.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@2011.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@2011.02.1?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@2011.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@2013.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@3.2.1?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@3.2.2?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@3.2.3?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-camel@3.2?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.jasig/ConfluenceIrcLogger@1.1.0
+- pkg:maven/org.jasig/ConfluenceIrcLogger@1.1.0?classifier=sources
+- pkg:maven/org.jasig/ConfluenceIrcLogger@1.2.0
+- pkg:maven/org.jasig/ConfluenceIrcLogger@1.2.0?classifier=sources
+- pkg:maven/org.jasig/ConfluenceIrcLogger@2.0.0
+- pkg:maven/org.jasig/ConfluenceIrcLogger@2.0.0?classifier=sources
+- pkg:maven/org.jasig/ConfluenceIrcLogger@2.0.2
+- pkg:maven/org.jasig/ConfluenceIrcLogger@2.0.2?classifier=sources

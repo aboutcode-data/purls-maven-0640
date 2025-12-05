@@ -1,0 +1,2 @@
+- pkg:maven/uk.gov.nationalarchives.thirdparty.netbeans/org-openide-util@7.2
+- pkg:maven/uk.gov.nationalarchives.thirdparty.netbeans/org-openide-util@7.2?classifier=sources

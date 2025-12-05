@@ -1,0 +1,2 @@
+- pkg:maven/org.vesalainen.mailblog/mailblog@1.0.1?classifier=sources
+- pkg:maven/org.vesalainen.mailblog/mailblog@1.0.1?type=war

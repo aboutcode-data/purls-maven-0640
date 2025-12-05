@@ -1,0 +1,16 @@
+- pkg:maven/net.sourceforge.writexml/writexml@0.10
+- pkg:maven/net.sourceforge.writexml/writexml@0.10?classifier=sources
+- pkg:maven/net.sourceforge.writexml/writexml@0.11
+- pkg:maven/net.sourceforge.writexml/writexml@0.11?classifier=sources
+- pkg:maven/net.sourceforge.writexml/writexml@0.12
+- pkg:maven/net.sourceforge.writexml/writexml@0.12?classifier=sources
+- pkg:maven/net.sourceforge.writexml/writexml@0.7
+- pkg:maven/net.sourceforge.writexml/writexml@0.7?classifier=sources
+- pkg:maven/net.sourceforge.writexml/writexml@0.8
+- pkg:maven/net.sourceforge.writexml/writexml@0.8?classifier=sources
+- pkg:maven/net.sourceforge.writexml/writexml@0.9
+- pkg:maven/net.sourceforge.writexml/writexml@0.9?classifier=sources
+- pkg:maven/net.sourceforge.writexml/writexml@1.0
+- pkg:maven/net.sourceforge.writexml/writexml@1.0?classifier=sources
+- pkg:maven/net.sourceforge.writexml/writexml@1.1
+- pkg:maven/net.sourceforge.writexml/writexml@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.abdera/apache-abdera@0.4.0-incubating?classifier=src&type=tar.gz
+- pkg:maven/org.apache.abdera/apache-abdera@0.4.0-incubating?classifier=src&type=zip

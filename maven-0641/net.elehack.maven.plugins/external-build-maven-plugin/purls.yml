@@ -1,0 +1,2 @@
+- pkg:maven/net.elehack.maven.plugins/external-build-maven-plugin@0.1
+- pkg:maven/net.elehack.maven.plugins/external-build-maven-plugin@0.1?classifier=sources

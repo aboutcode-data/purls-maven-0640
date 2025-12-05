@@ -1,0 +1,2 @@
+- pkg:maven/de.ovgu.dke.glue/glue-core@0.2.2
+- pkg:maven/de.ovgu.dke.glue/glue-core@0.2.2?classifier=sources

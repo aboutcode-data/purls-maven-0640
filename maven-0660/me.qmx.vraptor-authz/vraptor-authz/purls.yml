@@ -1,0 +1,2 @@
+- pkg:maven/me.qmx.vraptor-authz/vraptor-authz@0.2
+- pkg:maven/me.qmx.vraptor-authz/vraptor-authz@0.2?classifier=sources

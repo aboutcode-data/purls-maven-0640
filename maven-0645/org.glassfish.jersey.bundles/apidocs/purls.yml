@@ -1,0 +1,13 @@
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.0
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.0.1
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.1
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.2
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.3
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.3.1
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.4
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.4.1
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.5
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.5.1
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.6
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.7
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.8

@@ -1,0 +1,12 @@
+- pkg:maven/com.ovea/jetty-session-redis@1.0
+- pkg:maven/com.ovea/jetty-session-redis@1.0?classifier=sources
+- pkg:maven/com.ovea/jetty-session-redis@2.0.ga
+- pkg:maven/com.ovea/jetty-session-redis@2.0.ga?classifier=sources
+- pkg:maven/com.ovea/jetty-session-redis@2.0.rc1
+- pkg:maven/com.ovea/jetty-session-redis@2.0.rc1?classifier=sources
+- pkg:maven/com.ovea/jetty-session-redis@2.1.ga
+- pkg:maven/com.ovea/jetty-session-redis@2.1.ga?classifier=sources
+- pkg:maven/com.ovea/jetty-session-redis@2.2.ga
+- pkg:maven/com.ovea/jetty-session-redis@2.2.ga?classifier=sources
+- pkg:maven/com.ovea/jetty-session-redis@2.3.ga
+- pkg:maven/com.ovea/jetty-session-redis@2.3.ga?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ovea/js-blink@1.0
+- pkg:maven/com.ovea/js-blink@1.0?classifier=sources

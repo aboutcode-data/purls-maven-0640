@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cxf.dosgi/cxf-dosgi-ri-discovery-distributed-zookeeper-wrapper@1.1
+- pkg:maven/org.apache.cxf.dosgi/cxf-dosgi-ri-discovery-distributed-zookeeper-wrapper@1.2

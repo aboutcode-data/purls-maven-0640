@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.portal/uportal3-war@3.0.0-M4?classifier=sources
+- pkg:maven/org.jasig.portal/uportal3-war@3.0.0-M4?type=war

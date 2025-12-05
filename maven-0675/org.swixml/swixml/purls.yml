@@ -1,0 +1,11 @@
+- pkg:maven/org.swixml/swixml@1.5.144
+- pkg:maven/org.swixml/swixml@2.5.20110708
+- pkg:maven/org.swixml/swixml@2.5.20110708?classifier=sources
+- pkg:maven/org.swixml/swixml@2.5.20110914
+- pkg:maven/org.swixml/swixml@2.5.20110914?classifier=sources
+- pkg:maven/org.swixml/swixml@2.5.20110919
+- pkg:maven/org.swixml/swixml@2.5.20110919?classifier=sources
+- pkg:maven/org.swixml/swixml@2.6.20111005
+- pkg:maven/org.swixml/swixml@2.6.20111005?classifier=sources
+- pkg:maven/org.swixml/swixml@2.6.20130530
+- pkg:maven/org.swixml/swixml@2.6.20130530?classifier=sources

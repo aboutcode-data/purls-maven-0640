@@ -1,0 +1,8 @@
+- pkg:maven/pitt.search/semanticvectors@4.2
+- pkg:maven/pitt.search/semanticvectors@4.2?classifier=sources
+- pkg:maven/pitt.search/semanticvectors@5.0
+- pkg:maven/pitt.search/semanticvectors@5.0?classifier=sources
+- pkg:maven/pitt.search/semanticvectors@5.2
+- pkg:maven/pitt.search/semanticvectors@5.2?classifier=sources
+- pkg:maven/pitt.search/semanticvectors@5.4
+- pkg:maven/pitt.search/semanticvectors@5.4?classifier=sources

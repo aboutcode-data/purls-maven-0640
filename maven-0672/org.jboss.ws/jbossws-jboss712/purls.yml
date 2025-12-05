@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.ws/jbossws-jboss712@4.1.0.Beta1
+- pkg:maven/org.jboss.ws/jbossws-jboss712@4.1.0.Beta1?classifier=sources

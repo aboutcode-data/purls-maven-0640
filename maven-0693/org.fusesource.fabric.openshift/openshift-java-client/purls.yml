@@ -1,0 +1,6 @@
+- pkg:maven/org.fusesource.fabric.openshift/openshift-java-client@2.4.0-beta1
+- pkg:maven/org.fusesource.fabric.openshift/openshift-java-client@2.4.0-ea-fuse
+- pkg:maven/org.fusesource.fabric.openshift/openshift-java-client@2.4.0-ea-fuse?classifier=sources
+- pkg:maven/org.fusesource.fabric.openshift/openshift-java-client@2.4.1-beta1
+- pkg:maven/org.fusesource.fabric.openshift/openshift-java-client@2.4.2-ea-fuse
+- pkg:maven/org.fusesource.fabric.openshift/openshift-java-client@2.4.2-ea-fuse?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.emc.vipr/vipr-object-transformations@1.1.1
+- pkg:maven/com.emc.vipr/vipr-object-transformations@1.1.1?classifier=sources

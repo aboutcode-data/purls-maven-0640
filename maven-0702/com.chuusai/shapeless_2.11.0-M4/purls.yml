@@ -1,0 +1,2 @@
+- pkg:maven/com.chuusai/shapeless_2.11.0-M4@2.0.0-M1
+- pkg:maven/com.chuusai/shapeless_2.11.0-M4@2.0.0-M1?classifier=sources

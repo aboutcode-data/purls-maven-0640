@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shale/shale-mailreader-jpa@1.0.5?classifier=sources
+- pkg:maven/org.apache.shale/shale-mailreader-jpa@1.0.5?type=war

@@ -1,0 +1,5 @@
+- pkg:maven/commons-modeler/commons-modeler@1.1
+- pkg:maven/commons-modeler/commons-modeler@1.1M1
+- pkg:maven/commons-modeler/commons-modeler@2.0
+- pkg:maven/commons-modeler/commons-modeler@2.0.1
+- pkg:maven/commons-modeler/commons-modeler@2.0.1?classifier=sources
