@@ -1,0 +1,4 @@
+- pkg:maven/io.pivotal/arca-fragments@1.0-beta
+- pkg:maven/io.pivotal/arca-fragments@1.0-beta.3
+- pkg:maven/io.pivotal/arca-fragments@1.0-beta.3?classifier=sources
+- pkg:maven/io.pivotal/arca-fragments@1.0-beta?classifier=sources

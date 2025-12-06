@@ -1,0 +1,2 @@
+- pkg:maven/com.razie/s20widgets_2.10@0.6.7
+- pkg:maven/com.razie/s20widgets_2.10@0.6.7?classifier=sources

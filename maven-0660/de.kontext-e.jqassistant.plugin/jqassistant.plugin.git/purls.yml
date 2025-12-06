@@ -1,0 +1,8 @@
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@1.0.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@1.0.0-M4
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@1.0.0-M4?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@1.0.0-M5
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@1.0.0-M5?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@1.0.0-M6
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@1.0.0-M6?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@1.0.0?classifier=sources

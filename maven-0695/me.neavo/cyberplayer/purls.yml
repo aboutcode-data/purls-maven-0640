@@ -1,0 +1,10 @@
+- pkg:maven/me.neavo/cyberplayer@1.7.0.2?classifier=sources
+- pkg:maven/me.neavo/cyberplayer@1.7.0.2?type=aar
+- pkg:maven/me.neavo/cyberplayer@1.7.0.3?classifier=sources
+- pkg:maven/me.neavo/cyberplayer@1.7.0.3?type=aar
+- pkg:maven/me.neavo/cyberplayer@1.7.0.4?classifier=sources
+- pkg:maven/me.neavo/cyberplayer@1.7.0.4?type=aar
+- pkg:maven/me.neavo/cyberplayer@1.7.0.8?classifier=sources
+- pkg:maven/me.neavo/cyberplayer@1.7.0.8?type=aar
+- pkg:maven/me.neavo/cyberplayer@1.7.1.3?classifier=sources
+- pkg:maven/me.neavo/cyberplayer@1.7.1.3?type=aar

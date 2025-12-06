@@ -1,0 +1,2 @@
+- pkg:maven/ai.h2o/google-analytics-java@1.1.2-H2O-CUSTOM
+- pkg:maven/ai.h2o/google-analytics-java@1.1.2-H2O-CUSTOM?classifier=sources

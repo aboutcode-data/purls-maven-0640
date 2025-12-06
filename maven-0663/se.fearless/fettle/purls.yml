@@ -1,2 +1,6 @@
 - pkg:maven/se.fearless/fettle@0.8.1
 - pkg:maven/se.fearless/fettle@0.8.1?classifier=sources
+- pkg:maven/se.fearless/fettle@0.8.2
+- pkg:maven/se.fearless/fettle@0.8.2?classifier=sources
+- pkg:maven/se.fearless/fettle@0.8.4
+- pkg:maven/se.fearless/fettle@0.8.4?classifier=sources

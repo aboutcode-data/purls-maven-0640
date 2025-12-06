@@ -1,0 +1,2 @@
+- pkg:maven/info.kwarc.sally4/sally4-activemq@0.0.3
+- pkg:maven/info.kwarc.sally4/sally4-activemq@0.0.3?classifier=sources

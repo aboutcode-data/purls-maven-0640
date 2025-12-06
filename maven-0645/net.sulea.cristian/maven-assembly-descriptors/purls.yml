@@ -1,0 +1,2 @@
+- pkg:maven/net.sulea.cristian/maven-assembly-descriptors@1.2
+- pkg:maven/net.sulea.cristian/maven-assembly-descriptors@1.2?classifier=sources

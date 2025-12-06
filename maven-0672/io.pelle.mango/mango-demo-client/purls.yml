@@ -1,0 +1,2 @@
+- pkg:maven/io.pelle.mango/mango-demo-client@0.0.9-FINAL
+- pkg:maven/io.pelle.mango/mango-demo-client@0.0.9-FINAL?classifier=sources

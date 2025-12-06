@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay/com.google.gdata.sample.appsforyourdomain@1.47.1
+- pkg:maven/com.liferay/com.google.gdata.sample.appsforyourdomain@1.47.1?classifier=sources

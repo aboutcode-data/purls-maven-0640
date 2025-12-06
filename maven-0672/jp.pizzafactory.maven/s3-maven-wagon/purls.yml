@@ -1,0 +1,2 @@
+- pkg:maven/jp.pizzafactory.maven/s3-maven-wagon@3.3
+- pkg:maven/jp.pizzafactory.maven/s3-maven-wagon@3.3?classifier=sources

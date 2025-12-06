@@ -6,3 +6,6 @@
 - pkg:maven/org.opencms/opencms-webapp@8.5.1?type=war
 - pkg:maven/org.opencms/opencms-webapp@8.5.2?type=war
 - pkg:maven/org.opencms/opencms-webapp@9.0.1?type=war
+- pkg:maven/org.opencms/opencms-webapp@9.5.0?type=war
+- pkg:maven/org.opencms/opencms-webapp@9.5.1?type=war
+- pkg:maven/org.opencms/opencms-webapp@9.5.2?type=war

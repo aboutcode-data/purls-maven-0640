@@ -35,6 +35,11 @@
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.17.1
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.18
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.18.1
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.18.2
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.18.3
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.18.4
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.18.4?classifier=sources
+- pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.19
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.2
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.3
 - pkg:maven/com.sun.jersey.archetypes/jersey-quickstart-webapp@1.4

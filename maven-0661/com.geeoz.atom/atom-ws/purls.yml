@@ -1,0 +1,6 @@
+- pkg:maven/com.geeoz.atom/atom-ws@1.0.0
+- pkg:maven/com.geeoz.atom/atom-ws@1.0.0?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-ws@1.0d31
+- pkg:maven/com.geeoz.atom/atom-ws@1.0d31?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-ws@1.0d32
+- pkg:maven/com.geeoz.atom/atom-ws@1.0d32?classifier=sources

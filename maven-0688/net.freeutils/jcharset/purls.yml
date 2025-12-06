@@ -1,0 +1,4 @@
+- pkg:maven/net.freeutils/jcharset@1.6
+- pkg:maven/net.freeutils/jcharset@1.6?classifier=sources
+- pkg:maven/net.freeutils/jcharset@2.0
+- pkg:maven/net.freeutils/jcharset@2.0?classifier=sources

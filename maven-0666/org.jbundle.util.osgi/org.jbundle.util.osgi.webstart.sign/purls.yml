@@ -1,0 +1,2 @@
+- pkg:maven/org.jbundle.util.osgi/org.jbundle.util.osgi.webstart.sign@1.6.9
+- pkg:maven/org.jbundle.util.osgi/org.jbundle.util.osgi.webstart.sign@1.6.9?classifier=sources

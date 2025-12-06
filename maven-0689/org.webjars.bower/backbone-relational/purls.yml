@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/backbone-relational@0.10.0
+- pkg:maven/org.webjars.bower/backbone-relational@0.10.0?classifier=sources
+- pkg:maven/org.webjars.bower/backbone-relational@0.8.5
+- pkg:maven/org.webjars.bower/backbone-relational@0.8.5?classifier=sources

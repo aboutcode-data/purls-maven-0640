@@ -1,0 +1,2 @@
+- pkg:maven/org.geomajas/geomajas-gwt-quickstart-application@1.15.1?type=war
+- pkg:maven/org.geomajas/geomajas-gwt-quickstart-application@1.16.0?type=war

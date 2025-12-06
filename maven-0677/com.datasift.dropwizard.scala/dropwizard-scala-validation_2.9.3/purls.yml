@@ -1,0 +1,2 @@
+- pkg:maven/com.datasift.dropwizard.scala/dropwizard-scala-validation_2.9.3@0.7.1-2
+- pkg:maven/com.datasift.dropwizard.scala/dropwizard-scala-validation_2.9.3@0.7.1-2?classifier=sources

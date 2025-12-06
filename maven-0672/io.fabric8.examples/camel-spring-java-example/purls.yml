@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.examples/camel-spring-java-example@1.1.0.Beta6
+- pkg:maven/io.fabric8.examples/camel-spring-java-example@1.1.0.Beta6?classifier=sources

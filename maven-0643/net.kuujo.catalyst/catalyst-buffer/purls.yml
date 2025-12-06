@@ -1,0 +1,2 @@
+- pkg:maven/net.kuujo.catalyst/catalyst-buffer@1.0.0-beta1
+- pkg:maven/net.kuujo.catalyst/catalyst-buffer@1.0.0-beta1?classifier=sources

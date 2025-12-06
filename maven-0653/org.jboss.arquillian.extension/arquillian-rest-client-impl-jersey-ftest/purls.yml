@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.extension/arquillian-rest-client-impl-jersey-ftest@1.0.0.Alpha3
+- pkg:maven/org.jboss.arquillian.extension/arquillian-rest-client-impl-jersey-ftest@1.0.0.Alpha4

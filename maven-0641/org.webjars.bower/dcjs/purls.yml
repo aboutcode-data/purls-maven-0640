@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/dcjs@1.7.3
+- pkg:maven/org.webjars.bower/dcjs@1.7.3?classifier=sources
+- pkg:maven/org.webjars.bower/dcjs@2.0.0-beta.19
+- pkg:maven/org.webjars.bower/dcjs@2.0.0-beta.19?classifier=sources
+- pkg:maven/org.webjars.bower/dcjs@2.0.0-beta.9
+- pkg:maven/org.webjars.bower/dcjs@2.0.0-beta.9?classifier=sources

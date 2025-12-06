@@ -16,3 +16,9 @@
 - pkg:maven/com.xeiam.xchange/xchange-bitcoincharts@1.9.0?classifier=sources
 - pkg:maven/com.xeiam.xchange/xchange-bitcoincharts@2.0.0
 - pkg:maven/com.xeiam.xchange/xchange-bitcoincharts@2.0.0?classifier=sources
+- pkg:maven/com.xeiam.xchange/xchange-bitcoincharts@2.1.0
+- pkg:maven/com.xeiam.xchange/xchange-bitcoincharts@2.1.0?classifier=sources
+- pkg:maven/com.xeiam.xchange/xchange-bitcoincharts@3.0.0
+- pkg:maven/com.xeiam.xchange/xchange-bitcoincharts@3.0.0?classifier=sources
+- pkg:maven/com.xeiam.xchange/xchange-bitcoincharts@3.1.0
+- pkg:maven/com.xeiam.xchange/xchange-bitcoincharts@3.1.0?classifier=sources

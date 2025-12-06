@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.0.7
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.0.7?classifier=sources
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.0.8
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.0.8?classifier=sources
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.2.16
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.2.16?classifier=sources
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.4.0-beta.6
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.4.0-beta.6?classifier=sources
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.4.0-rc.1
+- pkg:maven/org.webjars.bower/angular-1.1.6@1.4.0-rc.1?classifier=sources

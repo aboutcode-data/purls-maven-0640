@@ -18,3 +18,13 @@
 - pkg:maven/org.eclipse.hudson/hudson-war@3.1.2-RC1?type=war
 - pkg:maven/org.eclipse.hudson/hudson-war@3.1.2?type=war
 - pkg:maven/org.eclipse.hudson/hudson-war@3.2.0-M0?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.2.0-M1?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.2.0-RC1?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.2.0?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.2.1?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.2.2?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.3.0-M0?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.3.0-RC1?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.3.0?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.3.1?type=war
+- pkg:maven/org.eclipse.hudson/hudson-war@3.3.2?type=war

@@ -1,0 +1,6 @@
+- pkg:maven/cn.bingoogolapple/bga-alertcontroller@1.0.0?classifier=sources
+- pkg:maven/cn.bingoogolapple/bga-alertcontroller@1.0.0?type=aar
+- pkg:maven/cn.bingoogolapple/bga-alertcontroller@1.0.1?classifier=sources
+- pkg:maven/cn.bingoogolapple/bga-alertcontroller@1.0.1?type=aar
+- pkg:maven/cn.bingoogolapple/bga-alertcontroller@1.0.2?classifier=sources
+- pkg:maven/cn.bingoogolapple/bga-alertcontroller@1.0.2?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.bin2.jag-dao/jag-dao@0.13
+- pkg:maven/org.bin2.jag-dao/jag-dao@0.13?classifier=sources

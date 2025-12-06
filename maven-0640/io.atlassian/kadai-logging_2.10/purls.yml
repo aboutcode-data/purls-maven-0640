@@ -1,0 +1,2 @@
+- pkg:maven/io.atlassian/kadai-logging_2.10@3.3.4
+- pkg:maven/io.atlassian/kadai-logging_2.10@3.3.4?classifier=sources

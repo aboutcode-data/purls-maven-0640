@@ -1,0 +1,8 @@
+- pkg:maven/org.terracotta/management-model@0.1.0
+- pkg:maven/org.terracotta/management-model@0.1.0?classifier=sources
+- pkg:maven/org.terracotta/management-model@0.2.0
+- pkg:maven/org.terracotta/management-model@0.2.0?classifier=sources
+- pkg:maven/org.terracotta/management-model@1.0.0
+- pkg:maven/org.terracotta/management-model@1.0.0?classifier=sources
+- pkg:maven/org.terracotta/management-model@2.0.0
+- pkg:maven/org.terracotta/management-model@2.0.0?classifier=sources

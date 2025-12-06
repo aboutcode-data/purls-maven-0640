@@ -4,3 +4,5 @@
 - pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@0.9.2
 - pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@0.9.2?classifier=sources
 - pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@0.9?classifier=sources
+- pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@1.0
+- pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@1.0?classifier=sources

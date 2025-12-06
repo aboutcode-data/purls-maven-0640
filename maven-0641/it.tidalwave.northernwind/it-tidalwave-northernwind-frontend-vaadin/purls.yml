@@ -69,6 +69,16 @@
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-29?classifier=sources
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-2?classifier=sources
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-3
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-30
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-30?classifier=sources
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-31
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-31?classifier=sources
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-32
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-32?classifier=sources
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-33
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-33?classifier=sources
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-34
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-34?classifier=sources
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-3?classifier=sources
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-4
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-frontend-vaadin@1.1-ALPHA-4?classifier=sources

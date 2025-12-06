@@ -1,0 +1,6 @@
+- pkg:maven/com.optimalbi/OptimalSpyglassLibrary@0.1.0
+- pkg:maven/com.optimalbi/OptimalSpyglassLibrary@0.1.0?classifier=sources
+- pkg:maven/com.optimalbi/OptimalSpyglassLibrary@0.1.1
+- pkg:maven/com.optimalbi/OptimalSpyglassLibrary@0.1.1?classifier=sources
+- pkg:maven/com.optimalbi/OptimalSpyglassLibrary@0.3.0
+- pkg:maven/com.optimalbi/OptimalSpyglassLibrary@0.3.0?classifier=sources

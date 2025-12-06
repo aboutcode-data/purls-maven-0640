@@ -1,0 +1,16 @@
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.45.0
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.45.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.46.0
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.46.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.47.0
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.47.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.47.1
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.47.1?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.47.2
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.47.2?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.48.0
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.48.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.48.1
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.48.1?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.48.2
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@2.48.2?classifier=sources

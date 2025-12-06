@@ -1,2 +1,4 @@
 - pkg:maven/com.wordnik/swagger-codegen_2.10.2@2.0.13
 - pkg:maven/com.wordnik/swagger-codegen_2.10.2@2.0.13?classifier=sources
+- pkg:maven/com.wordnik/swagger-codegen_2.10.2@2.0.17
+- pkg:maven/com.wordnik/swagger-codegen_2.10.2@2.0.17?classifier=sources

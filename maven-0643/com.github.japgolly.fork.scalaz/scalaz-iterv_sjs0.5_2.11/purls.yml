@@ -1,0 +1,4 @@
+- pkg:maven/com.github.japgolly.fork.scalaz/scalaz-iterv_sjs0.5_2.11@7.0.6
+- pkg:maven/com.github.japgolly.fork.scalaz/scalaz-iterv_sjs0.5_2.11@7.0.6-2
+- pkg:maven/com.github.japgolly.fork.scalaz/scalaz-iterv_sjs0.5_2.11@7.0.6-2?classifier=sources
+- pkg:maven/com.github.japgolly.fork.scalaz/scalaz-iterv_sjs0.5_2.11@7.0.6?classifier=sources

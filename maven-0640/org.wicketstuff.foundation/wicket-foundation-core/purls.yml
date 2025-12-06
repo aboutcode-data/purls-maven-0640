@@ -1,0 +1,6 @@
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.0.0
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.0.0-M6
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.0.0-M6?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.0.0?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.1.0
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.1.0?classifier=sources

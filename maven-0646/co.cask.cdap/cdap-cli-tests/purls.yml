@@ -1,0 +1,10 @@
+- pkg:maven/co.cask.cdap/cdap-cli-tests@2.6.0
+- pkg:maven/co.cask.cdap/cdap-cli-tests@2.6.1
+- pkg:maven/co.cask.cdap/cdap-cli-tests@2.6.2
+- pkg:maven/co.cask.cdap/cdap-cli-tests@2.6.3
+- pkg:maven/co.cask.cdap/cdap-cli-tests@2.7.0
+- pkg:maven/co.cask.cdap/cdap-cli-tests@2.7.1
+- pkg:maven/co.cask.cdap/cdap-cli-tests@2.8.0
+- pkg:maven/co.cask.cdap/cdap-cli-tests@2.8.1
+- pkg:maven/co.cask.cdap/cdap-cli-tests@2.8.2
+- pkg:maven/co.cask.cdap/cdap-cli-tests@3.0.0

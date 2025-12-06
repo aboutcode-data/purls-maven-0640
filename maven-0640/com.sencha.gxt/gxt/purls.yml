@@ -16,5 +16,9 @@
 - pkg:maven/com.sencha.gxt/gxt@3.0.0b?classifier=sources
 - pkg:maven/com.sencha.gxt/gxt@3.0.1
 - pkg:maven/com.sencha.gxt/gxt@3.0.1?classifier=sources
+- pkg:maven/com.sencha.gxt/gxt@3.1.0
 - pkg:maven/com.sencha.gxt/gxt@3.1.0-beta
 - pkg:maven/com.sencha.gxt/gxt@3.1.0-beta?classifier=sources
+- pkg:maven/com.sencha.gxt/gxt@3.1.0?classifier=sources
+- pkg:maven/com.sencha.gxt/gxt@3.1.1
+- pkg:maven/com.sencha.gxt/gxt@3.1.1?classifier=sources

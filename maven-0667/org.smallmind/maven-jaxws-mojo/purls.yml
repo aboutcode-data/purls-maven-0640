@@ -1,0 +1,4 @@
+- pkg:maven/org.smallmind/maven-jaxws-mojo@1.8.6
+- pkg:maven/org.smallmind/maven-jaxws-mojo@1.8.6?classifier=sources
+- pkg:maven/org.smallmind/maven-jaxws-mojo@2.0.1
+- pkg:maven/org.smallmind/maven-jaxws-mojo@2.0.1?classifier=sources

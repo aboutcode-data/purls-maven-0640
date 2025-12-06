@@ -1,1 +1,2 @@
 - pkg:maven/org.jbehave.site/jbehave-site-frontend@3.2?classifier=src&type=zip
+- pkg:maven/org.jbehave.site/jbehave-site-frontend@3.3?classifier=src&type=zip

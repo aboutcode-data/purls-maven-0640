@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.xmlgraphics/batik-js@1.7
+- pkg:maven/org.apache.xmlgraphics/batik-js@1.8

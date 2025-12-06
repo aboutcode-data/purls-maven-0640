@@ -8,3 +8,11 @@
 - pkg:maven/org.chalup.microorm/microorm@0.4.1
 - pkg:maven/org.chalup.microorm/microorm@0.4.1?classifier=sources
 - pkg:maven/org.chalup.microorm/microorm@0.4?classifier=sources
+- pkg:maven/org.chalup.microorm/microorm@0.5
+- pkg:maven/org.chalup.microorm/microorm@0.5?classifier=sources
+- pkg:maven/org.chalup.microorm/microorm@0.6.0?classifier=sources
+- pkg:maven/org.chalup.microorm/microorm@0.6.0?type=aar
+- pkg:maven/org.chalup.microorm/microorm@0.6.1?classifier=sources
+- pkg:maven/org.chalup.microorm/microorm@0.6.1?type=aar
+- pkg:maven/org.chalup.microorm/microorm@0.6.2?classifier=sources
+- pkg:maven/org.chalup.microorm/microorm@0.6.2?type=aar

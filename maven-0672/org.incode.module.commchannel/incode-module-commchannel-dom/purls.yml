@@ -1,0 +1,2 @@
+- pkg:maven/org.incode.module.commchannel/incode-module-commchannel-dom@1.10.0
+- pkg:maven/org.incode.module.commchannel/incode-module-commchannel-dom@1.10.0?classifier=sources

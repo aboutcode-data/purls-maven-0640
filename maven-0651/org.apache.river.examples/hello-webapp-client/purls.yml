@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.river.examples/hello-webapp-client@1.0?classifier=sources
+- pkg:maven/org.apache.river.examples/hello-webapp-client@1.0?type=war

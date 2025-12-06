@@ -1,0 +1,2 @@
+- pkg:maven/org.ctoolkit.restapi/rest-client-facade-api@0.7
+- pkg:maven/org.ctoolkit.restapi/rest-client-facade-api@0.7?classifier=sources

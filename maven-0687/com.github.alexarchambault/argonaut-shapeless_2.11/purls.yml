@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alexarchambault/argonaut-shapeless_2.11@6.1
+- pkg:maven/com.github.alexarchambault/argonaut-shapeless_2.11@6.1?classifier=sources

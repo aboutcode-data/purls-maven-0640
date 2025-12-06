@@ -1,0 +1,2 @@
+- pkg:maven/br.com.datapoa/datapoa-java-client@1.0.2
+- pkg:maven/br.com.datapoa/datapoa-java-client@1.0.2?classifier=sources

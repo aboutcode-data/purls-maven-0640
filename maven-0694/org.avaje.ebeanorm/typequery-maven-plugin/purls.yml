@@ -1,0 +1,8 @@
+- pkg:maven/org.avaje.ebeanorm/typequery-maven-plugin@1.2.1
+- pkg:maven/org.avaje.ebeanorm/typequery-maven-plugin@1.2.1?classifier=sources
+- pkg:maven/org.avaje.ebeanorm/typequery-maven-plugin@1.3.1
+- pkg:maven/org.avaje.ebeanorm/typequery-maven-plugin@1.3.1?classifier=sources
+- pkg:maven/org.avaje.ebeanorm/typequery-maven-plugin@1.4.1
+- pkg:maven/org.avaje.ebeanorm/typequery-maven-plugin@1.4.1?classifier=sources
+- pkg:maven/org.avaje.ebeanorm/typequery-maven-plugin@1.5.1
+- pkg:maven/org.avaje.ebeanorm/typequery-maven-plugin@1.5.1?classifier=sources

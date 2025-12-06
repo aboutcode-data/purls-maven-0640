@@ -1,0 +1,6 @@
+- pkg:maven/net.simondieterle/wns-sender-async@0.0.3
+- pkg:maven/net.simondieterle/wns-sender-async@0.0.3?classifier=sources
+- pkg:maven/net.simondieterle/wns-sender-async@0.0.4
+- pkg:maven/net.simondieterle/wns-sender-async@0.0.4?classifier=sources
+- pkg:maven/net.simondieterle/wns-sender-async@0.0.5
+- pkg:maven/net.simondieterle/wns-sender-async@0.0.5?classifier=sources

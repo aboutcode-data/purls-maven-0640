@@ -5,6 +5,9 @@
 - pkg:maven/org.apache.maven.scm/maven-scm@1.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.scm/maven-scm@1.8.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.scm/maven-scm@1.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.scm/maven-scm@1.9.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.scm/maven-scm@1.9.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.scm/maven-scm@1.9.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.scm/maven-scm@1.9?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.scm/maven-scm@test-1.0-alpha-1
 - pkg:maven/org.apache.maven.scm/maven-scm@test-1.0-alpha-2-SNAPSHOT

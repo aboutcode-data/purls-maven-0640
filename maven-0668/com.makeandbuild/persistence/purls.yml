@@ -1,0 +1,2 @@
+- pkg:maven/com.makeandbuild/persistence@1.0.47
+- pkg:maven/com.makeandbuild/persistence@1.0.47?classifier=sources

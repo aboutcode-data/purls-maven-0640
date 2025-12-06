@@ -2,3 +2,11 @@
 - pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.220?classifier=sources
 - pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.228
 - pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.228?classifier=sources
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.244
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.244?classifier=sources
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.256
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.256?classifier=sources
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.260
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.260?classifier=sources
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.268
+- pkg:maven/net.thucydides.plugins.jira/thucydides-jira-customfields-requirements-provider@0.9.268?classifier=sources

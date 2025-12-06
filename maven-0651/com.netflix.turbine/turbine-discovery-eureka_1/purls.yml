@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.turbine/turbine-discovery-eureka_1@2.0.0-DP.1
+- pkg:maven/com.netflix.turbine/turbine-discovery-eureka_1@2.0.0-DP.1?classifier=sources

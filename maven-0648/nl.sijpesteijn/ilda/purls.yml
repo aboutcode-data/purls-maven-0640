@@ -1,0 +1,4 @@
+- pkg:maven/nl.sijpesteijn/ilda@1.0
+- pkg:maven/nl.sijpesteijn/ilda@1.0?classifier=sources
+- pkg:maven/nl.sijpesteijn/ilda@1.1
+- pkg:maven/nl.sijpesteijn/ilda@1.1?classifier=sources

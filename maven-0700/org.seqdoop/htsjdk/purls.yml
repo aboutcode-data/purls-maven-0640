@@ -1,0 +1,2 @@
+- pkg:maven/org.seqdoop/htsjdk@1.118
+- pkg:maven/org.seqdoop/htsjdk@1.118?classifier=sources

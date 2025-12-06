@@ -1,0 +1,4 @@
+- pkg:maven/org.bidib.com.neuronrobotics/nrjavaserial@3.9.2.1
+- pkg:maven/org.bidib.com.neuronrobotics/nrjavaserial@3.9.2.1?classifier=sources
+- pkg:maven/org.bidib.com.neuronrobotics/nrjavaserial@3.9.3.1
+- pkg:maven/org.bidib.com.neuronrobotics/nrjavaserial@3.9.3.1?classifier=sources

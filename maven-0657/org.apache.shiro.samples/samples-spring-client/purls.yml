@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.shiro.samples/samples-spring-client@1.2.2?type=zip
 - pkg:maven/org.apache.shiro.samples/samples-spring-client@1.2.3?classifier=sources
 - pkg:maven/org.apache.shiro.samples/samples-spring-client@1.2.3?type=zip
+- pkg:maven/org.apache.shiro.samples/samples-spring-client@1.2.4?classifier=sources
+- pkg:maven/org.apache.shiro.samples/samples-spring-client@1.2.4?type=zip

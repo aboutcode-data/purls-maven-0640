@@ -1,0 +1,2 @@
+- pkg:maven/guru.nidi.ftpsync/ftpsync@1.0.0
+- pkg:maven/guru.nidi.ftpsync/ftpsync@1.0.0?classifier=sources

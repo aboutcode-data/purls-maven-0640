@@ -1,0 +1,2 @@
+- pkg:maven/br.com.thiagomoreira.liferay.plugins.lorem-ipsum-button-app/lorem-ipsum-button-hook@1.0.0?classifier=sources
+- pkg:maven/br.com.thiagomoreira.liferay.plugins.lorem-ipsum-button-app/lorem-ipsum-button-hook@1.0.0?type=war

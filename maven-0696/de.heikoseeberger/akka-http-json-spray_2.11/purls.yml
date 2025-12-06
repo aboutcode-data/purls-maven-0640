@@ -1,0 +1,12 @@
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.2.0
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.2.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.3.0
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.3.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.4.0
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.4.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.5.0
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.5.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.6.0
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.6.0?classifier=sources
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.7.0-b9281f84ab3cb119ad2d3ff1d48701eca6f77f37
+- pkg:maven/de.heikoseeberger/akka-http-json-spray_2.11@0.7.0-b9281f84ab3cb119ad2d3ff1d48701eca6f77f37?classifier=sources

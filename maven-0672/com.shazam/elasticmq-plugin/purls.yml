@@ -1,0 +1,2 @@
+- pkg:maven/com.shazam/elasticmq-plugin@0.1
+- pkg:maven/com.shazam/elasticmq-plugin@0.1?classifier=sources

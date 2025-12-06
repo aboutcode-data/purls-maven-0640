@@ -10,3 +10,4 @@
 - pkg:maven/org.appfuse.plugins/appfuse-maven-plugin@2.2?classifier=sources
 - pkg:maven/org.appfuse.plugins/appfuse-maven-plugin@3.0.0
 - pkg:maven/org.appfuse.plugins/appfuse-maven-plugin@3.0.0?classifier=sources
+- pkg:maven/org.appfuse.plugins/appfuse-maven-plugin@3.5.0

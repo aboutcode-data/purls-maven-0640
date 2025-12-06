@@ -1,0 +1,2 @@
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrappers.cxf-integration-cdi@0.0.7
+- pkg:maven/net.osgiliath.wrappers/net.osgiliath.wrappers.cxf-integration-cdi@0.0.7?classifier=sources

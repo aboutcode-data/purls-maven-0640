@@ -1,0 +1,2 @@
+- pkg:maven/com.seovic.coherence/di-guice@0.6
+- pkg:maven/com.seovic.coherence/di-guice@0.6?classifier=sources

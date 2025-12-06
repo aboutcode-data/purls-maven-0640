@@ -5,3 +5,4 @@
 - pkg:maven/org.fusesource.fabric.fab.tests/fab-itests@7.1.0.fuse-047
 - pkg:maven/org.fusesource.fabric.fab.tests/fab-itests@7.2.0.redhat-024
 - pkg:maven/org.fusesource.fabric.fab.tests/fab-itests@7.2.0.redhat-060
+- pkg:maven/org.fusesource.fabric.fab.tests/fab-itests@7.2.0.redhat-065

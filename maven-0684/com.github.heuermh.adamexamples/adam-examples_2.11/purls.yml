@@ -1,0 +1,2 @@
+- pkg:maven/com.github.heuermh.adamexamples/adam-examples_2.11@0.18.1
+- pkg:maven/com.github.heuermh.adamexamples/adam-examples_2.11@0.18.1?classifier=sources

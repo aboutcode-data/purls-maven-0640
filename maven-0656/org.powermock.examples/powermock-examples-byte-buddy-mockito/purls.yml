@@ -1,0 +1,2 @@
+- pkg:maven/org.powermock.examples/powermock-examples-byte-buddy-mockito@1.6.3
+- pkg:maven/org.powermock.examples/powermock-examples-byte-buddy-mockito@1.6.3?classifier=sources

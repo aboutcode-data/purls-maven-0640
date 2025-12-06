@@ -1,0 +1,2 @@
+- pkg:maven/com.agapsys.libs/console-utils@0.1.0
+- pkg:maven/com.agapsys.libs/console-utils@0.1.0?classifier=sources

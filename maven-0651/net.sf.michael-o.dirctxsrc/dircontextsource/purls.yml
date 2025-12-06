@@ -10,3 +10,5 @@
 - pkg:maven/net.sf.michael-o.dirctxsrc/dircontextsource@0.10?classifier=sources
 - pkg:maven/net.sf.michael-o.dirctxsrc/dircontextsource@0.9
 - pkg:maven/net.sf.michael-o.dirctxsrc/dircontextsource@0.9?classifier=sources
+- pkg:maven/net.sf.michael-o.dirctxsrc/dircontextsource@1.0
+- pkg:maven/net.sf.michael-o.dirctxsrc/dircontextsource@1.0?classifier=sources

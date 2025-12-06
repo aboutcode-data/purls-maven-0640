@@ -14,3 +14,7 @@
 - pkg:maven/de.lmu.ifi.dbs.utilities/common-extension-lib@2.3.0?classifier=sources
 - pkg:maven/de.lmu.ifi.dbs.utilities/common-extension-lib@2.4.0
 - pkg:maven/de.lmu.ifi.dbs.utilities/common-extension-lib@2.4.0?classifier=sources
+- pkg:maven/de.lmu.ifi.dbs.utilities/common-extension-lib@2.5.0
+- pkg:maven/de.lmu.ifi.dbs.utilities/common-extension-lib@2.5.0?classifier=sources
+- pkg:maven/de.lmu.ifi.dbs.utilities/common-extension-lib@2.6.0
+- pkg:maven/de.lmu.ifi.dbs.utilities/common-extension-lib@2.6.0?classifier=sources

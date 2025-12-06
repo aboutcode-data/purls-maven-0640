@@ -1,0 +1,2 @@
+- pkg:maven/kr.motd.maven/exec-maven-plugin@1.0.0.Final
+- pkg:maven/kr.motd.maven/exec-maven-plugin@1.0.0.Final?classifier=sources

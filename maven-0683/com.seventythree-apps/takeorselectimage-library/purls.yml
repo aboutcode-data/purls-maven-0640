@@ -1,0 +1,2 @@
+- pkg:maven/com.seventythree-apps/takeorselectimage-library@0.2.0?classifier=sources
+- pkg:maven/com.seventythree-apps/takeorselectimage-library@0.2.0?type=aar

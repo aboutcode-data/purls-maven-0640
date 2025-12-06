@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.hk2/operations-example@2.4.0-b32
+- pkg:maven/org.glassfish.hk2/operations-example@2.4.0-b32?classifier=sources
+- pkg:maven/org.glassfish.hk2/operations-example@2.4.0-b33
+- pkg:maven/org.glassfish.hk2/operations-example@2.4.0-b33?classifier=sources

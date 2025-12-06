@@ -1,0 +1,2 @@
+- pkg:maven/fr.avianey/bolts-android-api@1.1.0
+- pkg:maven/fr.avianey/bolts-android-api@1.1.0?classifier=sources

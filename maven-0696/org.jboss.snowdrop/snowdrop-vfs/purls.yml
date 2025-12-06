@@ -46,3 +46,7 @@
 - pkg:maven/org.jboss.snowdrop/snowdrop-vfs@3.1.0.Final?classifier=sources
 - pkg:maven/org.jboss.snowdrop/snowdrop-vfs@3.1.1.Final
 - pkg:maven/org.jboss.snowdrop/snowdrop-vfs@3.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-vfs@3.1.2.Final
+- pkg:maven/org.jboss.snowdrop/snowdrop-vfs@3.1.2.Final?classifier=sources
+- pkg:maven/org.jboss.snowdrop/snowdrop-vfs@4.0.0.Final
+- pkg:maven/org.jboss.snowdrop/snowdrop-vfs@4.0.0.Final?classifier=sources

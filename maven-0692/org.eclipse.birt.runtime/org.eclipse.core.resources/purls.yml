@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.10.0.v20150423-0755
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.10.0.v20150423-0755?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.7.101.v20120125-1505
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.7.101.v20120125-1505?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.8.0.v20120522-2034
@@ -10,3 +12,7 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.8.100.v20130521-2026?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.8.101.v20130717-0806
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.8.101.v20130717-0806?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.9.0.v20140514-1307
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.9.0.v20140514-1307?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.9.1.v20140825-1431
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.core.resources@3.9.1.v20140825-1431?classifier=sources

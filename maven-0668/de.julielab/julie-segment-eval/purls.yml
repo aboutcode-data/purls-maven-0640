@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/julie-segment-eval@1.0.6
+- pkg:maven/de.julielab/julie-segment-eval@1.0.6?classifier=sources

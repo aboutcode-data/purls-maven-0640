@@ -1,0 +1,2 @@
+- pkg:maven/com.metamx/loglady_2.9.1@1.1.0-mmx
+- pkg:maven/com.metamx/loglady_2.9.1@1.1.0-mmx?classifier=sources

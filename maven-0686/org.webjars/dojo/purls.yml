@@ -1,3 +1,7 @@
+- pkg:maven/org.webjars/dojo@1.10.0
+- pkg:maven/org.webjars/dojo@1.10.1
+- pkg:maven/org.webjars/dojo@1.10.4
+- pkg:maven/org.webjars/dojo@1.10.4-1
 - pkg:maven/org.webjars/dojo@1.8.1
 - pkg:maven/org.webjars/dojo@1.8.3
 - pkg:maven/org.webjars/dojo@1.9.1

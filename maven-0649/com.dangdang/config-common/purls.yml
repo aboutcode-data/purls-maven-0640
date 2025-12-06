@@ -1,0 +1,10 @@
+- pkg:maven/com.dangdang/config-common@1.1.0-RELEASE
+- pkg:maven/com.dangdang/config-common@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.dangdang/config-common@1.2.0-RELEASE
+- pkg:maven/com.dangdang/config-common@1.2.0-RELEASE?classifier=sources
+- pkg:maven/com.dangdang/config-common@1.3.0-RELEASE
+- pkg:maven/com.dangdang/config-common@1.3.0-RELEASE?classifier=sources
+- pkg:maven/com.dangdang/config-common@2.0.0-RELEASE
+- pkg:maven/com.dangdang/config-common@2.0.0-RELEASE?classifier=sources
+- pkg:maven/com.dangdang/config-common@3.0.0-RELEASE
+- pkg:maven/com.dangdang/config-common@3.0.0-RELEASE?classifier=sources

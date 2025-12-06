@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.waikato.cms.weka/extraTrees@1.0.1
+- pkg:maven/nz.ac.waikato.cms.weka/extraTrees@1.0.1?classifier=sources

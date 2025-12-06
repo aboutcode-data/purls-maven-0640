@@ -1,0 +1,2 @@
+- pkg:maven/ru.yandex.qatools.allure/allure-spock-0.7-adaptor@1.0
+- pkg:maven/ru.yandex.qatools.allure/allure-spock-0.7-adaptor@1.0?classifier=sources

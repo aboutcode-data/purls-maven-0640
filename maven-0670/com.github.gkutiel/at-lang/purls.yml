@@ -1,0 +1,6 @@
+- pkg:maven/com.github.gkutiel/at-lang@0-RELEASE
+- pkg:maven/com.github.gkutiel/at-lang@0-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/at-lang@1-RELEASE
+- pkg:maven/com.github.gkutiel/at-lang@1-RELEASE?classifier=sources
+- pkg:maven/com.github.gkutiel/at-lang@3-RELEASE
+- pkg:maven/com.github.gkutiel/at-lang@3-RELEASE?classifier=sources

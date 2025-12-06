@@ -1,2 +1,4 @@
 - pkg:maven/org.wisdom-framework/mysql-connector-java@5.1.11_1
 - pkg:maven/org.wisdom-framework/mysql-connector-java@5.1.11_1?classifier=sources
+- pkg:maven/org.wisdom-framework/mysql-connector-java@5.1.34_1
+- pkg:maven/org.wisdom-framework/mysql-connector-java@5.1.34_1?classifier=sources

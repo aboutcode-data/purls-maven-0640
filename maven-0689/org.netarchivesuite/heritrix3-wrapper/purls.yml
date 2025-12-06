@@ -1,0 +1,2 @@
+- pkg:maven/org.netarchivesuite/heritrix3-wrapper@1.0.0
+- pkg:maven/org.netarchivesuite/heritrix3-wrapper@1.0.0?classifier=sources

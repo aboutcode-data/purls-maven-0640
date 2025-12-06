@@ -1,0 +1,2 @@
+- pkg:maven/com.github.davidcarboni/content-library@1.0.68
+- pkg:maven/com.github.davidcarboni/content-library@1.0.68?classifier=sources

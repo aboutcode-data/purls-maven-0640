@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-validation-match@1.5.1
+- pkg:maven/org.webjars.bower/angular-validation-match@1.5.1?classifier=sources

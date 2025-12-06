@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tyagihas/scala_nats_2.10@0.1
+- pkg:maven/com.github.tyagihas/scala_nats_2.10@0.1?classifier=sources

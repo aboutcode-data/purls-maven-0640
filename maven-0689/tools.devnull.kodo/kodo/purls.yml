@@ -1,0 +1,6 @@
+- pkg:maven/tools.devnull.kodo/kodo@0.4
+- pkg:maven/tools.devnull.kodo/kodo@0.4.1.jdk5
+- pkg:maven/tools.devnull.kodo/kodo@0.4.1.jdk5?classifier=sources
+- pkg:maven/tools.devnull.kodo/kodo@0.4.jdk5
+- pkg:maven/tools.devnull.kodo/kodo@0.4.jdk5?classifier=sources
+- pkg:maven/tools.devnull.kodo/kodo@0.4?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/org.synchronoss.cpo/cpoUtil@5.0.0?type=zip
 - pkg:maven/org.synchronoss.cpo/cpoUtil@5.1.0
 - pkg:maven/org.synchronoss.cpo/cpoUtil@5.1.0?classifier=sources
+- pkg:maven/org.synchronoss.cpo/cpoUtil@5.2.0
+- pkg:maven/org.synchronoss.cpo/cpoUtil@5.2.0?classifier=sources

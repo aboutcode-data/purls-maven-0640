@@ -1,0 +1,2 @@
+- pkg:maven/at.molindo/git-commit-id-plugin@2.1.10-alpha-1
+- pkg:maven/at.molindo/git-commit-id-plugin@2.1.10-alpha-1?classifier=sources

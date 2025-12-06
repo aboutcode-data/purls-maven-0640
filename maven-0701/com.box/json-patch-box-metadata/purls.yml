@@ -1,0 +1,2 @@
+- pkg:maven/com.box/json-patch-box-metadata@1.12
+- pkg:maven/com.box/json-patch-box-metadata@1.12?classifier=sources

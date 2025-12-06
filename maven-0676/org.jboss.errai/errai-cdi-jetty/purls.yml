@@ -75,6 +75,8 @@
 - pkg:maven/org.jboss.errai/errai-cdi-jetty@2.4.3.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-cdi-jetty@2.4.4.Final
 - pkg:maven/org.jboss.errai/errai-cdi-jetty@2.4.4.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-cdi-jetty@2.4.5.Final
+- pkg:maven/org.jboss.errai/errai-cdi-jetty@2.4.5.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-cdi-jetty@3.0.0.20130604-M1
 - pkg:maven/org.jboss.errai/errai-cdi-jetty@3.0.0.20130604-M1?classifier=sources
 - pkg:maven/org.jboss.errai/errai-cdi-jetty@3.0.0.20131101-M2

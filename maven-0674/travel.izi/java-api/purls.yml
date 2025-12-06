@@ -1,0 +1,2 @@
+- pkg:maven/travel.izi/java-api@1.5.0
+- pkg:maven/travel.izi/java-api@1.5.0?classifier=sources

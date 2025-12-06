@@ -12,3 +12,5 @@
 - pkg:maven/com.tinkerpop.blueprints/blueprints-rexster-graph@2.4.0?classifier=sources
 - pkg:maven/com.tinkerpop.blueprints/blueprints-rexster-graph@2.5.0
 - pkg:maven/com.tinkerpop.blueprints/blueprints-rexster-graph@2.5.0?classifier=sources
+- pkg:maven/com.tinkerpop.blueprints/blueprints-rexster-graph@2.6.0
+- pkg:maven/com.tinkerpop.blueprints/blueprints-rexster-graph@2.6.0?classifier=sources

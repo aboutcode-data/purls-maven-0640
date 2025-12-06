@@ -1,0 +1,2 @@
+- pkg:maven/com.cyrusinnovation.computation-engine/computation-engine-persistence@1.2
+- pkg:maven/com.cyrusinnovation.computation-engine/computation-engine-persistence@1.2?classifier=sources

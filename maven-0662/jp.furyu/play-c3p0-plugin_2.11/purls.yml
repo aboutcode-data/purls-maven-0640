@@ -1,0 +1,2 @@
+- pkg:maven/jp.furyu/play-c3p0-plugin_2.11@0.3
+- pkg:maven/jp.furyu/play-c3p0-plugin_2.11@0.3?classifier=sources

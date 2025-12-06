@@ -1,0 +1,2 @@
+- pkg:maven/co.cask.hbase/hbase@0.94.6.1.cask
+- pkg:maven/co.cask.hbase/hbase@0.94.6.1.cask?classifier=sources

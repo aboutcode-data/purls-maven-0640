@@ -1,0 +1,4 @@
+- pkg:maven/com.ivona/ivona-speechcloud-sdk-java@0.3.0
+- pkg:maven/com.ivona/ivona-speechcloud-sdk-java@0.3.0?classifier=sources
+- pkg:maven/com.ivona/ivona-speechcloud-sdk-java@1.0.0
+- pkg:maven/com.ivona/ivona-speechcloud-sdk-java@1.0.0?classifier=sources

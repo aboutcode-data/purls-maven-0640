@@ -1,0 +1,2 @@
+- pkg:maven/com.punchthrough.bean.sdk/sdk@1.0.0?classifier=sources
+- pkg:maven/com.punchthrough.bean.sdk/sdk@1.0.0?type=aar

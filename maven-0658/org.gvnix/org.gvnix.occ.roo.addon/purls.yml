@@ -1,0 +1,2 @@
+- pkg:maven/org.gvnix/org.gvnix.occ.roo.addon@1.4.0.RELEASE
+- pkg:maven/org.gvnix/org.gvnix.occ.roo.addon@1.4.0.RELEASE?classifier=sources

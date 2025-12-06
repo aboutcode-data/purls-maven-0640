@@ -1,0 +1,2 @@
+- pkg:maven/net.javacrumbs.future-converter/java8-guava@0.0.4
+- pkg:maven/net.javacrumbs.future-converter/java8-guava@0.0.4?classifier=sources

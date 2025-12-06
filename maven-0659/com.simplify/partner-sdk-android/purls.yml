@@ -1,0 +1,2 @@
+- pkg:maven/com.simplify/partner-sdk-android@1.0.0?classifier=sources
+- pkg:maven/com.simplify/partner-sdk-android@1.0.0?type=aar

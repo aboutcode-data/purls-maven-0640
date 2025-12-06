@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jquery-pjax@1.9.6
+- pkg:maven/org.webjars.bower/jquery-pjax@1.9.6?classifier=sources

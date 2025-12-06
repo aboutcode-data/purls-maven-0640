@@ -1,0 +1,2 @@
+- pkg:maven/ch.dissem.jabit/jabit-repositories@0.2.0
+- pkg:maven/ch.dissem.jabit/jabit-repositories@0.2.0?classifier=sources

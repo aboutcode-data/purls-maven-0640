@@ -1,0 +1,2 @@
+- pkg:maven/org.caffinitas.mapper/caffinitas-mapper-conv-javatime@0.1-beta2
+- pkg:maven/org.caffinitas.mapper/caffinitas-mapper-conv-javatime@0.1-beta2?classifier=sources

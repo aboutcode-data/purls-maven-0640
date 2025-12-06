@@ -1,0 +1,4 @@
+- pkg:maven/eu.limetri.client.lib/lib-jersey-client@2.7-NB72?classifier=sources
+- pkg:maven/eu.limetri.client.lib/lib-jersey-client@2.7.1-NB72?classifier=sources
+- pkg:maven/eu.limetri.client.lib/lib-jersey-client@2.7.2-NB80?classifier=sources
+- pkg:maven/eu.limetri.client.lib/lib-jersey-client@2.7.3-NB80?classifier=sources

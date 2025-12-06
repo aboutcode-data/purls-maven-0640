@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-flipclock@0.2.1
+- pkg:maven/org.webjars.bower/angular-flipclock@0.2.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.jboss.maven.plugins.enforcer.rules/version-enforcer-rule@0.0.1
+- pkg:maven/org.jboss.maven.plugins.enforcer.rules/version-enforcer-rule@0.0.1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.maven.plugins.enforcer.rules/version-enforcer-rule@0.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.ttdev/wpt-runtime@3.0.0
+- pkg:maven/com.ttdev/wpt-runtime@3.0.0?classifier=sources
+- pkg:maven/com.ttdev/wpt-runtime@3.0.1
+- pkg:maven/com.ttdev/wpt-runtime@3.0.1?classifier=sources

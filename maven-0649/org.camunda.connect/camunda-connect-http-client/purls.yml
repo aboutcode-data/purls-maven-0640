@@ -1,0 +1,6 @@
+- pkg:maven/org.camunda.connect/camunda-connect-http-client@1.0.0
+- pkg:maven/org.camunda.connect/camunda-connect-http-client@1.0.0-alpha4
+- pkg:maven/org.camunda.connect/camunda-connect-http-client@1.0.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.connect/camunda-connect-http-client@1.0.0?classifier=sources
+- pkg:maven/org.camunda.connect/camunda-connect-http-client@1.0.1
+- pkg:maven/org.camunda.connect/camunda-connect-http-client@1.0.1?classifier=sources

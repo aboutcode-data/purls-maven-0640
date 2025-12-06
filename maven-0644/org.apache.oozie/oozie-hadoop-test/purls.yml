@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.oozie/oozie-hadoop-test@0.23.5.oozie-4.1.0
+- pkg:maven/org.apache.oozie/oozie-hadoop-test@0.23.5.oozie-4.1.0?classifier=sources
+- pkg:maven/org.apache.oozie/oozie-hadoop-test@1.1.1.oozie-4.1.0
+- pkg:maven/org.apache.oozie/oozie-hadoop-test@1.1.1.oozie-4.1.0?classifier=sources
+- pkg:maven/org.apache.oozie/oozie-hadoop-test@2.3.0.oozie-4.1.0
+- pkg:maven/org.apache.oozie/oozie-hadoop-test@2.3.0.oozie-4.1.0?classifier=sources

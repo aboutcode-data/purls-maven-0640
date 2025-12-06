@@ -1,0 +1,4 @@
+- pkg:maven/com.corp2world/c2w-java-client-core@1.0.0
+- pkg:maven/com.corp2world/c2w-java-client-core@1.0.0?classifier=sources
+- pkg:maven/com.corp2world/c2w-java-client-core@1.0.1
+- pkg:maven/com.corp2world/c2w-java-client-core@1.0.1?classifier=sources

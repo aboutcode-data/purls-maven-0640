@@ -1,0 +1,4 @@
+- pkg:maven/de.tomgrill.gdxfacebook/gdx-facebook-core@1.0.0
+- pkg:maven/de.tomgrill.gdxfacebook/gdx-facebook-core@1.0.0?classifier=sources
+- pkg:maven/de.tomgrill.gdxfacebook/gdx-facebook-core@1.1.0
+- pkg:maven/de.tomgrill.gdxfacebook/gdx-facebook-core@1.1.0?classifier=sources

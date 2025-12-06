@@ -1,2 +1,8 @@
 - pkg:maven/net.sourceforge.pro-grade/pro-grade@1.0
 - pkg:maven/net.sourceforge.pro-grade/pro-grade@1.0?classifier=sources
+- pkg:maven/net.sourceforge.pro-grade/pro-grade@1.1.0
+- pkg:maven/net.sourceforge.pro-grade/pro-grade@1.1.0?classifier=sources
+- pkg:maven/net.sourceforge.pro-grade/pro-grade@1.1.0?classifier=src&type=tar.gz
+- pkg:maven/net.sourceforge.pro-grade/pro-grade@1.1.0?classifier=src&type=zip
+- pkg:maven/net.sourceforge.pro-grade/pro-grade@1.1.1
+- pkg:maven/net.sourceforge.pro-grade/pro-grade@1.1.1?classifier=sources

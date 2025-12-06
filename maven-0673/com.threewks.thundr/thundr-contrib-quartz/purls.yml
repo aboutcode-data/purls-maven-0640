@@ -1,0 +1,2 @@
+- pkg:maven/com.threewks.thundr/thundr-contrib-quartz@0.1.0
+- pkg:maven/com.threewks.thundr/thundr-contrib-quartz@0.1.0?classifier=sources

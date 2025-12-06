@@ -1,0 +1,2 @@
+- pkg:maven/it.sephiroth.android.library.disklrumulticache/library@1.0.0?classifier=sources
+- pkg:maven/it.sephiroth.android.library.disklrumulticache/library@1.0.1?type=aar

@@ -1,1 +1,15 @@
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.12.0?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.12.1.1?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.12.1.2?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.12.1?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.12.2?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.13.0?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.13.1?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.13.2?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.14.0?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.15.0?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.15.1?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.15.2?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.16.0?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.16.1?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice@5.16.2?type=war

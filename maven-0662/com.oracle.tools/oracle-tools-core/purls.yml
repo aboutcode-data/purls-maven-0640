@@ -12,3 +12,11 @@
 - pkg:maven/com.oracle.tools/oracle-tools-core@1.2.1?classifier=sources
 - pkg:maven/com.oracle.tools/oracle-tools-core@1.2.2
 - pkg:maven/com.oracle.tools/oracle-tools-core@1.2.2?classifier=sources
+- pkg:maven/com.oracle.tools/oracle-tools-core@2.0.0-RC1
+- pkg:maven/com.oracle.tools/oracle-tools-core@2.0.0-RC1?classifier=sources
+- pkg:maven/com.oracle.tools/oracle-tools-core@2.0.0-RC2
+- pkg:maven/com.oracle.tools/oracle-tools-core@2.0.0-RC2?classifier=sources
+- pkg:maven/com.oracle.tools/oracle-tools-core@2.0.0-RC3
+- pkg:maven/com.oracle.tools/oracle-tools-core@2.0.0-RC3?classifier=sources
+- pkg:maven/com.oracle.tools/oracle-tools-core@2.0.0-RC9
+- pkg:maven/com.oracle.tools/oracle-tools-core@2.0.0-RC9?classifier=sources

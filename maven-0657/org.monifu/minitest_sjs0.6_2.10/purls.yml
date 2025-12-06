@@ -1,0 +1,2 @@
+- pkg:maven/org.monifu/minitest_sjs0.6_2.10@0.14
+- pkg:maven/org.monifu/minitest_sjs0.6_2.10@0.14?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.joschi.nosqlunit/nosqlunit-elasticsearch2@0.8.1-1
+- pkg:maven/com.github.joschi.nosqlunit/nosqlunit-elasticsearch2@0.8.1-1?classifier=sources

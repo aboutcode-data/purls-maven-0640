@@ -10,3 +10,5 @@
 - pkg:maven/fr.pilato.elasticsearch.river/rssriver@1.0.0?type=zip
 - pkg:maven/fr.pilato.elasticsearch.river/rssriver@1.1.0?classifier=sources
 - pkg:maven/fr.pilato.elasticsearch.river/rssriver@1.1.0?type=zip
+- pkg:maven/fr.pilato.elasticsearch.river/rssriver@1.3.0?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.river/rssriver@1.3.0?type=zip

@@ -12,3 +12,13 @@
 - pkg:maven/org.apache.commons/commons-math3@3.1?classifier=src&type=zip
 - pkg:maven/org.apache.commons/commons-math3@3.2
 - pkg:maven/org.apache.commons/commons-math3@3.2?classifier=sources
+- pkg:maven/org.apache.commons/commons-math3@3.3
+- pkg:maven/org.apache.commons/commons-math3@3.3?classifier=sources
+- pkg:maven/org.apache.commons/commons-math3@3.3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.commons/commons-math3@3.3?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-math3@3.4
+- pkg:maven/org.apache.commons/commons-math3@3.4.1
+- pkg:maven/org.apache.commons/commons-math3@3.4.1?classifier=sources
+- pkg:maven/org.apache.commons/commons-math3@3.4?classifier=sources
+- pkg:maven/org.apache.commons/commons-math3@3.5
+- pkg:maven/org.apache.commons/commons-math3@3.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.tynne/saphir-hash-jca@3.0.1
+- pkg:maven/de.tynne/saphir-hash-jca@3.0.1?classifier=sources

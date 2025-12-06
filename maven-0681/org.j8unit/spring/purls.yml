@@ -1,0 +1,2 @@
+- pkg:maven/org.j8unit/spring@4.1.7
+- pkg:maven/org.j8unit/spring@4.1.7?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.nguyenhunghau/HauMaventest@3.0.Alpha2
+- pkg:maven/com.github.nguyenhunghau/HauMaventest@3.0.Alpha2?classifier=sources
+- pkg:maven/com.github.nguyenhunghau/HauMaventest@3.0.Alpha3
+- pkg:maven/com.github.nguyenhunghau/HauMaventest@3.0.Alpha3?classifier=sources

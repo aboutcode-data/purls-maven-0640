@@ -1,0 +1,2 @@
+- pkg:maven/org.gosu-lang.sparkgs/sparkgs@0.1-alpha2
+- pkg:maven/org.gosu-lang.sparkgs/sparkgs@0.1-alpha2?classifier=sources

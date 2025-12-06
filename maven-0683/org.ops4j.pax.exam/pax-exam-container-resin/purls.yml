@@ -24,3 +24,5 @@
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-resin@3.4.0?classifier=sources
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-resin@3.5.0
 - pkg:maven/org.ops4j.pax.exam/pax-exam-container-resin@3.5.0?classifier=sources
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-resin@3.6.0
+- pkg:maven/org.ops4j.pax.exam/pax-exam-container-resin@3.6.0?classifier=sources

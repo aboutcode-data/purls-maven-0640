@@ -22,6 +22,8 @@
 - pkg:maven/org.nuiton.web/nuiton-rss@1.15-alpha-3?type=war
 - pkg:maven/org.nuiton.web/nuiton-rss@1.16?classifier=sources
 - pkg:maven/org.nuiton.web/nuiton-rss@1.16?type=war
+- pkg:maven/org.nuiton.web/nuiton-rss@1.17?classifier=sources
+- pkg:maven/org.nuiton.web/nuiton-rss@1.17?type=war
 - pkg:maven/org.nuiton.web/nuiton-rss@1.1?classifier=sources
 - pkg:maven/org.nuiton.web/nuiton-rss@1.1?type=war
 - pkg:maven/org.nuiton.web/nuiton-rss@1.2?classifier=sources

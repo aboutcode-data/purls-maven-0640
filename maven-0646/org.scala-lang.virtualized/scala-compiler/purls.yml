@@ -28,3 +28,5 @@
 - pkg:maven/org.scala-lang.virtualized/scala-compiler@2.10.2-RC2
 - pkg:maven/org.scala-lang.virtualized/scala-compiler@2.10.2-RC2?classifier=sources
 - pkg:maven/org.scala-lang.virtualized/scala-compiler@2.10.2?classifier=sources
+- pkg:maven/org.scala-lang.virtualized/scala-compiler@2.11.2
+- pkg:maven/org.scala-lang.virtualized/scala-compiler@2.11.2?classifier=sources

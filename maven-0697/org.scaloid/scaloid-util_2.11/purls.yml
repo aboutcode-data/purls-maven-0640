@@ -1,2 +1,14 @@
 - pkg:maven/org.scaloid/scaloid-util_2.11@3.3-8
 - pkg:maven/org.scaloid/scaloid-util_2.11@3.3-8?classifier=sources
+- pkg:maven/org.scaloid/scaloid-util_2.11@3.4-10
+- pkg:maven/org.scaloid/scaloid-util_2.11@3.4-10?classifier=sources
+- pkg:maven/org.scaloid/scaloid-util_2.11@3.6-10
+- pkg:maven/org.scaloid/scaloid-util_2.11@3.6-10?classifier=sources
+- pkg:maven/org.scaloid/scaloid-util_2.11@3.6.1-10
+- pkg:maven/org.scaloid/scaloid-util_2.11@3.6.1-10?classifier=sources
+- pkg:maven/org.scaloid/scaloid-util_2.11@4.0
+- pkg:maven/org.scaloid/scaloid-util_2.11@4.0-RC1
+- pkg:maven/org.scaloid/scaloid-util_2.11@4.0-RC1?classifier=sources
+- pkg:maven/org.scaloid/scaloid-util_2.11@4.0-RC2
+- pkg:maven/org.scaloid/scaloid-util_2.11@4.0-RC2?classifier=sources
+- pkg:maven/org.scaloid/scaloid-util_2.11@4.0?classifier=sources

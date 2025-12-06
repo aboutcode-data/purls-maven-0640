@@ -1,0 +1,2 @@
+- pkg:maven/com.simperium/simperium-test-util@0.5.0-alpha
+- pkg:maven/com.simperium/simperium-test-util@0.5.0-alpha?classifier=sources

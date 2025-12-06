@@ -1,0 +1,2 @@
+- pkg:maven/net.bootsfaces/BootsFacesWeb@0.7.0?classifier=sources
+- pkg:maven/net.bootsfaces/BootsFacesWeb@0.7.0?type=war

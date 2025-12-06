@@ -1,0 +1,10 @@
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.0.2
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.0.2?classifier=sources
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.0.3
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.0.3?classifier=sources
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.1.1
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.1.1?classifier=sources
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.2
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.2.1
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.2.1?classifier=sources
+- pkg:maven/com.bmuschko/gradle-cargo-plugin@2.2?classifier=sources

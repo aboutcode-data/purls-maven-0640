@@ -10,3 +10,5 @@
 - pkg:maven/org.jbundle.base.message/org.jbundle.base.message.jibx@1.0.3?classifier=sources
 - pkg:maven/org.jbundle.base.message/org.jbundle.base.message.jibx@1.0.7
 - pkg:maven/org.jbundle.base.message/org.jbundle.base.message.jibx@1.0.7?classifier=sources
+- pkg:maven/org.jbundle.base.message/org.jbundle.base.message.jibx@1.0.9
+- pkg:maven/org.jbundle.base.message/org.jbundle.base.message.jibx@1.0.9?classifier=sources

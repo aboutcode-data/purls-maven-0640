@@ -18,3 +18,15 @@
 - pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.4.RC2
 - pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.4.RC2?classifier=sources
 - pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.4?classifier=sources
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC1
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC1?classifier=sources
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC2
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC2?classifier=sources
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC3
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC3?classifier=sources
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC4
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC4?classifier=sources
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC5
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5.RC5?classifier=sources
+- pkg:maven/com.github.wuic/wuic-thymeleaf@0.4.5?classifier=sources

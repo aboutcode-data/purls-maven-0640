@@ -1,0 +1,2 @@
+- pkg:maven/com.omegaup/libinteractive_2.11@2.0.10
+- pkg:maven/com.omegaup/libinteractive_2.11@2.0.10?classifier=sources

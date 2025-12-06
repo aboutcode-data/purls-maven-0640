@@ -1,0 +1,2 @@
+- pkg:maven/com.signalfx.public/appd-process@0.0.1
+- pkg:maven/com.signalfx.public/appd-process@0.0.1?classifier=sources

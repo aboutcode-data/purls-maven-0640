@@ -1,0 +1,4 @@
+- pkg:maven/com.guigarage/responsivefx@0.7
+- pkg:maven/com.guigarage/responsivefx@0.7?classifier=sources
+- pkg:maven/com.guigarage/responsivefx@0.8
+- pkg:maven/com.guigarage/responsivefx@0.8?classifier=sources

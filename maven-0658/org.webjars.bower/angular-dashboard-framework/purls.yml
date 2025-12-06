@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-dashboard-framework@0.10.0
+- pkg:maven/org.webjars.bower/angular-dashboard-framework@0.10.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/at.chrl/chrl-vaadin-utils@1.1.0
+- pkg:maven/at.chrl/chrl-vaadin-utils@1.1.0?classifier=sources

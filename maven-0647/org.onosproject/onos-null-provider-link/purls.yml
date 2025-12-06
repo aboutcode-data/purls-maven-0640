@@ -1,0 +1,2 @@
+- pkg:maven/org.onosproject/onos-null-provider-link@1.1.0
+- pkg:maven/org.onosproject/onos-null-provider-link@1.1.0?classifier=sources

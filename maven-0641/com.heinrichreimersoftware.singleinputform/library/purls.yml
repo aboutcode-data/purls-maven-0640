@@ -1,0 +1,4 @@
+- pkg:maven/com.heinrichreimersoftware.singleinputform/library@1.0?classifier=sources
+- pkg:maven/com.heinrichreimersoftware.singleinputform/library@1.0?type=aar
+- pkg:maven/com.heinrichreimersoftware.singleinputform/library@2.0?classifier=sources
+- pkg:maven/com.heinrichreimersoftware.singleinputform/library@2.0?type=aar

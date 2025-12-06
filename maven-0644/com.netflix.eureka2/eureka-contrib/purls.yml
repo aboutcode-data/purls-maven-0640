@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.eureka2/eureka-contrib@2.0.0-DP4
+- pkg:maven/com.netflix.eureka2/eureka-contrib@2.0.0-DP4?classifier=sources

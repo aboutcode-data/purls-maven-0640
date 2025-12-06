@@ -1,0 +1,2 @@
+- pkg:maven/org.jaxygen/jaxygen-api-sample@1.0.3?classifier=sources
+- pkg:maven/org.jaxygen/jaxygen-api-sample@1.0.3?type=war

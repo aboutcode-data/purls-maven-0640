@@ -1,0 +1,4 @@
+- pkg:maven/me.tatarka/bindingcollectionadapter-recyclerview@0.14?classifier=sources
+- pkg:maven/me.tatarka/bindingcollectionadapter-recyclerview@0.14?type=aar
+- pkg:maven/me.tatarka/bindingcollectionadapter-recyclerview@0.15?classifier=sources
+- pkg:maven/me.tatarka/bindingcollectionadapter-recyclerview@0.15?type=aar

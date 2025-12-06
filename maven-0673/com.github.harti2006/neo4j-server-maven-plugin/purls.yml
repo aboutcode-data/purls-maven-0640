@@ -1,0 +1,2 @@
+- pkg:maven/com.github.harti2006/neo4j-server-maven-plugin@0.1
+- pkg:maven/com.github.harti2006/neo4j-server-maven-plugin@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/no.api.syzygy/syzygy-etcd@0.0.10
+- pkg:maven/no.api.syzygy/syzygy-etcd@0.0.10?classifier=sources

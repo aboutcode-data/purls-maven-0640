@@ -1,0 +1,6 @@
+- pkg:maven/nz.ac.auckland.aem/contentgraph-bundle@1.2
+- pkg:maven/nz.ac.auckland.aem/contentgraph-bundle@1.2?classifier=sources
+- pkg:maven/nz.ac.auckland.aem/contentgraph-bundle@1.3
+- pkg:maven/nz.ac.auckland.aem/contentgraph-bundle@1.3?classifier=sources
+- pkg:maven/nz.ac.auckland.aem/contentgraph-bundle@1.5
+- pkg:maven/nz.ac.auckland.aem/contentgraph-bundle@1.5?classifier=sources

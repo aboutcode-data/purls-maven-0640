@@ -1,0 +1,2 @@
+- pkg:maven/com.capitalone.dashboard/rest-api@0.3.0?classifier=sources
+- pkg:maven/com.capitalone.dashboard/rest-api@0.3.0?type=war

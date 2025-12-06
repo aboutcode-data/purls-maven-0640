@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.simple-spring-memcached/jmemcached-cli@1.0.2
+- pkg:maven/com.google.code.simple-spring-memcached/jmemcached-cli@1.0.2?classifier=sources

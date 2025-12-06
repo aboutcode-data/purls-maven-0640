@@ -1,0 +1,4 @@
+- pkg:maven/org.neo4j/neo4j-bolt-packstream-v1@2.3.0-M03
+- pkg:maven/org.neo4j/neo4j-bolt-packstream-v1@2.3.0-M03?classifier=sources
+- pkg:maven/org.neo4j/neo4j-bolt-packstream-v1@2.3.0-RC1
+- pkg:maven/org.neo4j/neo4j-bolt-packstream-v1@2.3.0-RC1?classifier=sources

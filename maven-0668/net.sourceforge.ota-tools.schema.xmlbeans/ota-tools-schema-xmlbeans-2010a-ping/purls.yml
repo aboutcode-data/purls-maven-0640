@@ -12,3 +12,5 @@
 - pkg:maven/net.sourceforge.ota-tools.schema.xmlbeans/ota-tools-schema-xmlbeans-2010a-ping@1.1.4?classifier=sources
 - pkg:maven/net.sourceforge.ota-tools.schema.xmlbeans/ota-tools-schema-xmlbeans-2010a-ping@1.1.5
 - pkg:maven/net.sourceforge.ota-tools.schema.xmlbeans/ota-tools-schema-xmlbeans-2010a-ping@1.1.5?classifier=sources
+- pkg:maven/net.sourceforge.ota-tools.schema.xmlbeans/ota-tools-schema-xmlbeans-2010a-ping@1.1.6
+- pkg:maven/net.sourceforge.ota-tools.schema.xmlbeans/ota-tools-schema-xmlbeans-2010a-ping@1.1.6?classifier=sources
