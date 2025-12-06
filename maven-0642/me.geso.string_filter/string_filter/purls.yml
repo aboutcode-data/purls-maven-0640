@@ -1,0 +1,2 @@
+- pkg:maven/me.geso.string_filter/string_filter@0.0.1
+- pkg:maven/me.geso.string_filter/string_filter@0.0.1?classifier=sources

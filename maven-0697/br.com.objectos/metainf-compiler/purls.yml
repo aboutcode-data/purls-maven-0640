@@ -1,2 +1,4 @@
 - pkg:maven/br.com.objectos/metainf-compiler@0.1.0
 - pkg:maven/br.com.objectos/metainf-compiler@0.1.0?classifier=sources
+- pkg:maven/br.com.objectos/metainf-compiler@0.4.0
+- pkg:maven/br.com.objectos/metainf-compiler@0.4.0?classifier=sources

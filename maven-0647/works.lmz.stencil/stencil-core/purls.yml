@@ -1,0 +1,2 @@
+- pkg:maven/works.lmz.stencil/stencil-core@1.1
+- pkg:maven/works.lmz.stencil/stencil-core@1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.hynnet/pdfjet@1.0.0
+- pkg:maven/com.hynnet/pdfjet@1.0.0?classifier=sources
+- pkg:maven/com.hynnet/pdfjet@5.75
+- pkg:maven/com.hynnet/pdfjet@5.75?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.0.0-alpha1
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.0.0-alpha1?classifier=sources
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.0.0-alpha2
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.0.0-alpha2?classifier=sources
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.0.0-beta1
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.0.0-beta1?classifier=sources

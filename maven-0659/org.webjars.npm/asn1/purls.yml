@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/asn1@0.1.11
 - pkg:maven/org.webjars.npm/asn1@0.1.11?classifier=sources
+- pkg:maven/org.webjars.npm/asn1@0.2.3
+- pkg:maven/org.webjars.npm/asn1@0.2.3?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-weld-embedded-root@2.0.0.Beta3?classifier=source-release&type=zip

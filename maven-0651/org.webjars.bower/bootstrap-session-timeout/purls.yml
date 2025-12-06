@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/bootstrap-session-timeout@1.0.3
+- pkg:maven/org.webjars.bower/bootstrap-session-timeout@1.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/in.workarounds.bundler/bundler-compiler@0.1.1
+- pkg:maven/in.workarounds.bundler/bundler-compiler@0.1.1?classifier=sources

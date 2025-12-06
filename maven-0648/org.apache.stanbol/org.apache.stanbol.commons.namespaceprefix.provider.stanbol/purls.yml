@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.commons.namespaceprefix.provider.stanbol@0.11.0?classifier=sources
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.commons.namespaceprefix.provider.stanbol@0.12.0
 - pkg:maven/org.apache.stanbol/org.apache.stanbol.commons.namespaceprefix.provider.stanbol@0.12.0?classifier=sources
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.commons.namespaceprefix.provider.stanbol@1.0.0
+- pkg:maven/org.apache.stanbol/org.apache.stanbol.commons.namespaceprefix.provider.stanbol@1.0.0?classifier=sources

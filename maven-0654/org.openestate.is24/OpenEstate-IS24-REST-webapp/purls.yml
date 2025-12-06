@@ -1,0 +1,6 @@
+- pkg:maven/org.openestate.is24/OpenEstate-IS24-REST-webapp@0.3.1?classifier=sources
+- pkg:maven/org.openestate.is24/OpenEstate-IS24-REST-webapp@0.3.1?type=war
+- pkg:maven/org.openestate.is24/OpenEstate-IS24-REST-webapp@0.3.2?classifier=sources
+- pkg:maven/org.openestate.is24/OpenEstate-IS24-REST-webapp@0.3.2?type=war
+- pkg:maven/org.openestate.is24/OpenEstate-IS24-REST-webapp@0.3?classifier=sources
+- pkg:maven/org.openestate.is24/OpenEstate-IS24-REST-webapp@0.3?type=war

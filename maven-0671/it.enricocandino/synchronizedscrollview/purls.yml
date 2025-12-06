@@ -1,0 +1,4 @@
+- pkg:maven/it.enricocandino/synchronizedscrollview@1.0.0?classifier=sources
+- pkg:maven/it.enricocandino/synchronizedscrollview@1.0.0?type=aar
+- pkg:maven/it.enricocandino/synchronizedscrollview@1.0.1?classifier=sources
+- pkg:maven/it.enricocandino/synchronizedscrollview@1.0.1?type=aar

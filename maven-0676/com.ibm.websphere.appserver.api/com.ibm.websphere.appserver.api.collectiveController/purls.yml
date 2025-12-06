@@ -1,0 +1,7 @@
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.0.0
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.1.9
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.2.10
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.3.11
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.5.12
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.5.13
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.5.14

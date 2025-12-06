@@ -1,0 +1,4 @@
+- pkg:maven/uk.sponte.automation/selenium-pom-guice@2.0.3
+- pkg:maven/uk.sponte.automation/selenium-pom-guice@2.0.3?classifier=sources
+- pkg:maven/uk.sponte.automation/selenium-pom-guice@2.0.5
+- pkg:maven/uk.sponte.automation/selenium-pom-guice@2.0.5?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2015.0.0?classifier=sources
 - pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2015.1.0
 - pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2015.1.0?classifier=sources
+- pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2016.0.0
+- pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2016.0.0?classifier=sources
+- pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2016.1.0
+- pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2016.1.0?classifier=sources
+- pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2016.1.1
+- pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2016.1.1?classifier=sources

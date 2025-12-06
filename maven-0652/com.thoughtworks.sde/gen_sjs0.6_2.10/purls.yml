@@ -1,0 +1,6 @@
+- pkg:maven/com.thoughtworks.sde/gen_sjs0.6_2.10@2.0.0
+- pkg:maven/com.thoughtworks.sde/gen_sjs0.6_2.10@2.0.0?classifier=sources
+- pkg:maven/com.thoughtworks.sde/gen_sjs0.6_2.10@3.0.0
+- pkg:maven/com.thoughtworks.sde/gen_sjs0.6_2.10@3.0.0?classifier=sources
+- pkg:maven/com.thoughtworks.sde/gen_sjs0.6_2.10@3.0.1
+- pkg:maven/com.thoughtworks.sde/gen_sjs0.6_2.10@3.0.1?classifier=sources

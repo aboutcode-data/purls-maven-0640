@@ -4,3 +4,11 @@
 - pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.0.0?classifier=sources
 - pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.1.0
 - pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.1.0?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.2.0
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.2.0?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.3.0
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.3.0?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.4.0
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@7.4.0?classifier=sources
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@8.0.0-M1
+- pkg:maven/org.wicketstuff.foundation/wicket-foundation-core@8.0.0-M1?classifier=sources

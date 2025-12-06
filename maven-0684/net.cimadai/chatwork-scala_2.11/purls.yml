@@ -1,0 +1,2 @@
+- pkg:maven/net.cimadai/chatwork-scala_2.11@1.0.1
+- pkg:maven/net.cimadai/chatwork-scala_2.11@1.0.1?classifier=sources

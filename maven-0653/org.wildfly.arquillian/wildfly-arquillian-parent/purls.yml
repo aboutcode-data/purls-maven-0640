@@ -1,2 +1,7 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@1.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@1.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@1.1.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@1.1.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@1.1.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@2.0.0.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@2.0.0.Final?classifier=source-release&type=zip

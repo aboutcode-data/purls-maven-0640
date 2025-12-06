@@ -5,3 +5,4 @@
 - pkg:maven/org.wildfly.bom/jboss-javaee-7.0-wildfly@9.0.0.CR2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/jboss-javaee-7.0-wildfly@9.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/jboss-javaee-7.0-wildfly@9.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/jboss-javaee-7.0-wildfly@9.0.2.Final?classifier=source-release&type=zip

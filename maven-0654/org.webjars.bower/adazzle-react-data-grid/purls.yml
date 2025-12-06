@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/adazzle-react-data-grid@0.12.4
 - pkg:maven/org.webjars.bower/adazzle-react-data-grid@0.12.4?classifier=sources
+- pkg:maven/org.webjars.bower/adazzle-react-data-grid@0.13.21
+- pkg:maven/org.webjars.bower/adazzle-react-data-grid@0.13.21?classifier=sources

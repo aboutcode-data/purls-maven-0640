@@ -1,0 +1,3 @@
+- pkg:maven/org.ferris/ferris-journal-jws@0.0.2?classifier=sources
+- pkg:maven/org.ferris/ferris-journal-jws@0.0.2?classifier=src&type=zip
+- pkg:maven/org.ferris/ferris-journal-jws@0.0.2?type=war

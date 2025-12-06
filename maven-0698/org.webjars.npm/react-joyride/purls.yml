@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/react-joyride@0.7.6
+- pkg:maven/org.webjars.npm/react-joyride@0.7.6?classifier=sources
+- pkg:maven/org.webjars.npm/react-joyride@1.3.6
+- pkg:maven/org.webjars.npm/react-joyride@1.3.6?classifier=sources

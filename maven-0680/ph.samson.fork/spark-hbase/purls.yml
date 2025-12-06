@@ -1,0 +1,2 @@
+- pkg:maven/ph.samson.fork/spark-hbase@0.0.3
+- pkg:maven/ph.samson.fork/spark-hbase@0.0.3?classifier=sources

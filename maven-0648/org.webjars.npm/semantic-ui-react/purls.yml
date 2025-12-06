@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/semantic-ui-react@0.54.2
+- pkg:maven/org.webjars.npm/semantic-ui-react@0.54.2?classifier=sources

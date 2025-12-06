@@ -1,0 +1,2 @@
+- pkg:maven/org.c02e.jpgpj/jpgpj@0.1
+- pkg:maven/org.c02e.jpgpj/jpgpj@0.1?classifier=sources

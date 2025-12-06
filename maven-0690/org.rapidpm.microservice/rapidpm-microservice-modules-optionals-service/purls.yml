@@ -1,0 +1,2 @@
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-service@0.5.0
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-service@0.5.0?classifier=sources

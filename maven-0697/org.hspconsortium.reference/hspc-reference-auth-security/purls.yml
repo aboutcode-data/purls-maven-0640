@@ -1,0 +1,4 @@
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-security@0.10
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-security@0.10?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-security@0.9
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-security@0.9?classifier=sources

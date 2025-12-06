@@ -6,3 +6,5 @@
 - pkg:maven/pl.chilldev.commons/commons-concurrent@0.0.4?classifier=sources
 - pkg:maven/pl.chilldev.commons/commons-concurrent@0.1.0
 - pkg:maven/pl.chilldev.commons/commons-concurrent@0.1.0?classifier=sources
+- pkg:maven/pl.chilldev.commons/commons-concurrent@0.1.1
+- pkg:maven/pl.chilldev.commons/commons-concurrent@0.1.1?classifier=sources

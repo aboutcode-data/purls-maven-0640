@@ -1,2 +1,8 @@
+- pkg:maven/org.webjars.bower/jspdf@1.0.272
+- pkg:maven/org.webjars.bower/jspdf@1.0.272?classifier=sources
 - pkg:maven/org.webjars.bower/jspdf@1.1.135
 - pkg:maven/org.webjars.bower/jspdf@1.1.135?classifier=sources
+- pkg:maven/org.webjars.bower/jspdf@1.2.60
+- pkg:maven/org.webjars.bower/jspdf@1.2.60?classifier=sources
+- pkg:maven/org.webjars.bower/jspdf@1.2.61
+- pkg:maven/org.webjars.bower/jspdf@1.2.61?classifier=sources

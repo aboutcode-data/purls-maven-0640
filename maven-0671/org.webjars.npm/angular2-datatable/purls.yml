@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/angular2-datatable@0.2.3
+- pkg:maven/org.webjars.npm/angular2-datatable@0.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/angular2-datatable@0.4.2
+- pkg:maven/org.webjars.npm/angular2-datatable@0.4.2?classifier=sources

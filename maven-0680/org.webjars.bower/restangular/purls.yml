@@ -1,4 +1,8 @@
+- pkg:maven/org.webjars.bower/restangular@1.4.0
+- pkg:maven/org.webjars.bower/restangular@1.4.0?classifier=sources
 - pkg:maven/org.webjars.bower/restangular@1.5.0
 - pkg:maven/org.webjars.bower/restangular@1.5.0?classifier=sources
 - pkg:maven/org.webjars.bower/restangular@1.5.1
 - pkg:maven/org.webjars.bower/restangular@1.5.1?classifier=sources
+- pkg:maven/org.webjars.bower/restangular@1.5.2
+- pkg:maven/org.webjars.bower/restangular@1.5.2?classifier=sources

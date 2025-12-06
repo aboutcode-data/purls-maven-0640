@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.http/beangle-http-server_2.12@0.0.1?classifier=sources
+- pkg:maven/org.beangle.http/beangle-http-server_2.12@0.0.1?type=war

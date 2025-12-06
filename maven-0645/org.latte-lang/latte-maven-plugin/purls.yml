@@ -1,0 +1,2 @@
+- pkg:maven/org.latte-lang/latte-maven-plugin@0.0.3-ALPHA
+- pkg:maven/org.latte-lang/latte-maven-plugin@0.0.3-ALPHA?classifier=sources

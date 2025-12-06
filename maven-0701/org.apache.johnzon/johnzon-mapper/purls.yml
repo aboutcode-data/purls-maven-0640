@@ -16,3 +16,9 @@
 - pkg:maven/org.apache.johnzon/johnzon-mapper@0.9.1-incubating?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-mapper@0.9.2-incubating
 - pkg:maven/org.apache.johnzon/johnzon-mapper@0.9.2-incubating?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-mapper@0.9.3-incubating
+- pkg:maven/org.apache.johnzon/johnzon-mapper@0.9.3-incubating?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-mapper@0.9.4
+- pkg:maven/org.apache.johnzon/johnzon-mapper@0.9.4?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-mapper@0.9.5
+- pkg:maven/org.apache.johnzon/johnzon-mapper@0.9.5?classifier=sources

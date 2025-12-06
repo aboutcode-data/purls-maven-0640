@@ -1,0 +1,6 @@
+- pkg:maven/fr.bouyguestelecom.dev/bboxiot-library@0.76?classifier=sources
+- pkg:maven/fr.bouyguestelecom.dev/bboxiot-library@0.76?type=aar
+- pkg:maven/fr.bouyguestelecom.dev/bboxiot-library@1.01?classifier=sources
+- pkg:maven/fr.bouyguestelecom.dev/bboxiot-library@1.01?type=aar
+- pkg:maven/fr.bouyguestelecom.dev/bboxiot-library@1.0?classifier=sources
+- pkg:maven/fr.bouyguestelecom.dev/bboxiot-library@1.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.writingminds/FFmpegAndroid@0.3.2?classifier=sources
+- pkg:maven/com.writingminds/FFmpegAndroid@0.3.2?type=aar

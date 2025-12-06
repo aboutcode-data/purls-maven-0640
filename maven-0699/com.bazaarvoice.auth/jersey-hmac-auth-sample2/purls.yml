@@ -1,0 +1,4 @@
+- pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-sample2@0.16?classifier=sources
+- pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-sample2@0.16?type=war
+- pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-sample2@0.17?classifier=sources
+- pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-sample2@0.17?type=war

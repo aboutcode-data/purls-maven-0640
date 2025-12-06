@@ -6,3 +6,7 @@
 - pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@0.9?classifier=sources
 - pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@1.0
 - pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@1.0?classifier=sources
+- pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@2.0
+- pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@2.0?classifier=sources
+- pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@2.1
+- pkg:maven/net.sf.michael-o.tomcat/tomcat-authnz-spnego-ad@2.1?classifier=sources

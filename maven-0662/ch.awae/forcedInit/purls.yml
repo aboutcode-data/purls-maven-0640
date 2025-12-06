@@ -1,0 +1,2 @@
+- pkg:maven/ch.awae/forcedInit@0.0.1
+- pkg:maven/ch.awae/forcedInit@0.0.1?classifier=sources

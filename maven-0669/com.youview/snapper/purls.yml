@@ -1,0 +1,6 @@
+- pkg:maven/com.youview/snapper@0.9?classifier=sources
+- pkg:maven/com.youview/snapper@0.9?type=aar
+- pkg:maven/com.youview/snapper@1.0.0?classifier=sources
+- pkg:maven/com.youview/snapper@1.0.0?type=aar
+- pkg:maven/com.youview/snapper@1.1.0?classifier=sources
+- pkg:maven/com.youview/snapper@1.1.0?type=aar

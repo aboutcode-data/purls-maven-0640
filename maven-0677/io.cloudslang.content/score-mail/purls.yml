@@ -4,3 +4,5 @@
 - pkg:maven/io.cloudslang.content/score-mail@0.0.23?classifier=sources
 - pkg:maven/io.cloudslang.content/score-mail@0.0.25
 - pkg:maven/io.cloudslang.content/score-mail@0.0.25?classifier=sources
+- pkg:maven/io.cloudslang.content/score-mail@0.0.31
+- pkg:maven/io.cloudslang.content/score-mail@0.0.31?classifier=sources

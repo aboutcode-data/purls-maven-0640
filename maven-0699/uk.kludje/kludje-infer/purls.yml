@@ -1,0 +1,2 @@
+- pkg:maven/uk.kludje/kludje-infer@0.7
+- pkg:maven/uk.kludje/kludje-infer@0.7?classifier=sources

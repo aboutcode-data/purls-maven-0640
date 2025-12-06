@@ -68,6 +68,8 @@
 - pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@4.11.5?classifier=sources
 - pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@4.12.0
 - pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@4.12.0?classifier=sources
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@4.12.1
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@4.12.1?classifier=sources
 - pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@4.2.0
 - pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@4.2.0?classifier=sources
 - pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@4.3.0
@@ -132,3 +134,13 @@
 - pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.6.0?classifier=sources
 - pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.7.0
 - pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.7.0?classifier=sources
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.0
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.0?classifier=sources
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.1
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.1?classifier=sources
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.2
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.2?classifier=sources
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.3
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.3?classifier=sources
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.4
+- pkg:maven/com.googlecode.cedar-common/cedar-common-gaetestutil@5.8.4?classifier=sources

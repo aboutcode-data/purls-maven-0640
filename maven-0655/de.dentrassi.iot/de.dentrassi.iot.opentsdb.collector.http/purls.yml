@@ -1,0 +1,6 @@
+- pkg:maven/de.dentrassi.iot/de.dentrassi.iot.opentsdb.collector.http@0.0.2
+- pkg:maven/de.dentrassi.iot/de.dentrassi.iot.opentsdb.collector.http@0.0.2?classifier=sources
+- pkg:maven/de.dentrassi.iot/de.dentrassi.iot.opentsdb.collector.http@0.0.3
+- pkg:maven/de.dentrassi.iot/de.dentrassi.iot.opentsdb.collector.http@0.0.3?classifier=sources
+- pkg:maven/de.dentrassi.iot/de.dentrassi.iot.opentsdb.collector.http@0.0.5
+- pkg:maven/de.dentrassi.iot/de.dentrassi.iot.opentsdb.collector.http@0.0.5?classifier=sources

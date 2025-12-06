@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/jquery.dirtyforms@1.2.3
+- pkg:maven/org.webjars.bower/jquery.dirtyforms@1.2.3?classifier=sources
+- pkg:maven/org.webjars.bower/jquery.dirtyforms@2.0.0-beta00006
+- pkg:maven/org.webjars.bower/jquery.dirtyforms@2.0.0-beta00006?classifier=sources

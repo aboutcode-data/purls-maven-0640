@@ -1,0 +1,6 @@
+- pkg:maven/org.atnos/origami-eff-cats_2.11@1.0-20160629082445-d8e8d12
+- pkg:maven/org.atnos/origami-eff-cats_2.11@1.0-20160629082445-d8e8d12?classifier=sources
+- pkg:maven/org.atnos/origami-eff-cats_2.11@1.0-20160629082832-d8e8d12
+- pkg:maven/org.atnos/origami-eff-cats_2.11@1.0-20160629082832-d8e8d12?classifier=sources
+- pkg:maven/org.atnos/origami-eff-cats_2.11@1.0-20160806141212-0999e1b
+- pkg:maven/org.atnos/origami-eff-cats_2.11@1.0-20160806141212-0999e1b?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/br.com.caelum.vraptor/vraptor-freemarker@4.0.0?classifier=sources
 - pkg:maven/br.com.caelum.vraptor/vraptor-freemarker@4.1.0-RC2
 - pkg:maven/br.com.caelum.vraptor/vraptor-freemarker@4.1.0-RC2?classifier=sources
+- pkg:maven/br.com.caelum.vraptor/vraptor-freemarker@4.1.0-RC3
+- pkg:maven/br.com.caelum.vraptor/vraptor-freemarker@4.1.0-RC3?classifier=sources

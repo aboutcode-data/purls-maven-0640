@@ -8,3 +8,9 @@
 - pkg:maven/io.oasp.java.modules/oasp4j-jpa-envers@1.4.0?classifier=sources
 - pkg:maven/io.oasp.java.modules/oasp4j-jpa-envers@1.5.0
 - pkg:maven/io.oasp.java.modules/oasp4j-jpa-envers@1.5.0?classifier=sources
+- pkg:maven/io.oasp.java.modules/oasp4j-jpa-envers@2.0.0
+- pkg:maven/io.oasp.java.modules/oasp4j-jpa-envers@2.0.0?classifier=sources
+- pkg:maven/io.oasp.java.modules/oasp4j-jpa-envers@2.1.0
+- pkg:maven/io.oasp.java.modules/oasp4j-jpa-envers@2.1.0?classifier=sources
+- pkg:maven/io.oasp.java.modules/oasp4j-jpa-envers@2.1.1
+- pkg:maven/io.oasp.java.modules/oasp4j-jpa-envers@2.1.1?classifier=sources

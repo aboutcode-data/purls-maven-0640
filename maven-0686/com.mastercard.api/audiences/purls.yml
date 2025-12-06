@@ -1,0 +1,10 @@
+- pkg:maven/com.mastercard.api/audiences@0.0.1
+- pkg:maven/com.mastercard.api/audiences@0.0.1?classifier=sources
+- pkg:maven/com.mastercard.api/audiences@0.0.2
+- pkg:maven/com.mastercard.api/audiences@0.0.2?classifier=sources
+- pkg:maven/com.mastercard.api/audiences@1.0.0
+- pkg:maven/com.mastercard.api/audiences@1.0.0?classifier=sources
+- pkg:maven/com.mastercard.api/audiences@1.0.1
+- pkg:maven/com.mastercard.api/audiences@1.0.1?classifier=sources
+- pkg:maven/com.mastercard.api/audiences@1.0.2
+- pkg:maven/com.mastercard.api/audiences@1.0.2?classifier=sources

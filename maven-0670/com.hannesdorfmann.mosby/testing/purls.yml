@@ -12,3 +12,5 @@
 - pkg:maven/com.hannesdorfmann.mosby/testing@1.3.1?classifier=sources
 - pkg:maven/com.hannesdorfmann.mosby/testing@2.0.0
 - pkg:maven/com.hannesdorfmann.mosby/testing@2.0.0?classifier=sources
+- pkg:maven/com.hannesdorfmann.mosby/testing@2.0.1
+- pkg:maven/com.hannesdorfmann.mosby/testing@2.0.1?classifier=sources

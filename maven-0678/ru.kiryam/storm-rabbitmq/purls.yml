@@ -1,0 +1,2 @@
+- pkg:maven/ru.kiryam/storm-rabbitmq@0.6.2
+- pkg:maven/ru.kiryam/storm-rabbitmq@0.6.2?classifier=sources

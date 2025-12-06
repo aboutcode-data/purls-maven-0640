@@ -1,3 +1,7 @@
+- pkg:maven/com.applitools/eyes-sdk-java-jersey1x@2.24
+- pkg:maven/com.applitools/eyes-sdk-java-jersey1x@2.24?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-java-jersey1x@2.34
+- pkg:maven/com.applitools/eyes-sdk-java-jersey1x@2.34?classifier=sources
 - pkg:maven/com.applitools/eyes-sdk-java-jersey1x@2.4
 - pkg:maven/com.applitools/eyes-sdk-java-jersey1x@2.4?classifier=sources
 - pkg:maven/com.applitools/eyes-sdk-java-jersey1x@2.5

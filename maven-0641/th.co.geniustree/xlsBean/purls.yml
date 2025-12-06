@@ -1,0 +1,6 @@
+- pkg:maven/th.co.geniustree/xlsBean@1.0
+- pkg:maven/th.co.geniustree/xlsBean@1.0-M2
+- pkg:maven/th.co.geniustree/xlsBean@1.0-M2?classifier=sources
+- pkg:maven/th.co.geniustree/xlsBean@1.0?classifier=sources
+- pkg:maven/th.co.geniustree/xlsBean@1.1
+- pkg:maven/th.co.geniustree/xlsBean@1.1?classifier=sources

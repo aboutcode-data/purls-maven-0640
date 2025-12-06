@@ -1,0 +1,2 @@
+- pkg:maven/org.specsy/specsy-junit5@2.2.0
+- pkg:maven/org.specsy/specsy-junit5@2.2.0?classifier=sources

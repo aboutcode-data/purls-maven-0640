@@ -1,0 +1,2 @@
+- pkg:maven/com.github.thesmartenergy/ontop-maven-plugin@1.0
+- pkg:maven/com.github.thesmartenergy/ontop-maven-plugin@1.0?classifier=sources

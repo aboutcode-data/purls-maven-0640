@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.cayenne/bootique-cayenne@0.16
+- pkg:maven/io.bootique.cayenne/bootique-cayenne@0.16?classifier=sources

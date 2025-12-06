@@ -1,0 +1,2 @@
+- pkg:maven/net.sectorsieteg/avatars@1.0.0?classifier=sources
+- pkg:maven/net.sectorsieteg/avatars@1.0.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/mobi.cangol.mobile/actionbar@1.0.2?classifier=sources
+- pkg:maven/mobi.cangol.mobile/actionbar@1.0.2?type=aar

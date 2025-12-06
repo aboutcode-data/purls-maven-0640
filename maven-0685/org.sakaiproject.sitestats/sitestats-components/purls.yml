@@ -1,5 +1,7 @@
 - pkg:maven/org.sakaiproject.sitestats/sitestats-components@10.3?classifier=sources
 - pkg:maven/org.sakaiproject.sitestats/sitestats-components@10.4?classifier=sources
+- pkg:maven/org.sakaiproject.sitestats/sitestats-components@10.6?classifier=sources
+- pkg:maven/org.sakaiproject.sitestats/sitestats-components@10.7?classifier=sources
 - pkg:maven/org.sakaiproject.sitestats/sitestats-components@2.3.0-b03?classifier=sources
 - pkg:maven/org.sakaiproject.sitestats/sitestats-components@2.3.0-b04?classifier=sources
 - pkg:maven/org.sakaiproject.sitestats/sitestats-components@2.3.0-b05?classifier=sources

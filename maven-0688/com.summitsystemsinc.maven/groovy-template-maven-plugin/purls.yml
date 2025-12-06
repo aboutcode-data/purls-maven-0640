@@ -1,0 +1,2 @@
+- pkg:maven/com.summitsystemsinc.maven/groovy-template-maven-plugin@1.0.0
+- pkg:maven/com.summitsystemsinc.maven/groovy-template-maven-plugin@1.0.0?classifier=sources

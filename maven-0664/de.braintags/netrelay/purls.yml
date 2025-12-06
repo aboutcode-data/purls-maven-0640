@@ -1,0 +1,4 @@
+- pkg:maven/de.braintags/netrelay@10.0.0
+- pkg:maven/de.braintags/netrelay@10.0.0?classifier=sources
+- pkg:maven/de.braintags/netrelay@10.1.0
+- pkg:maven/de.braintags/netrelay@10.1.0?classifier=sources

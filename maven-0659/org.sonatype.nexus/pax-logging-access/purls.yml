@@ -1,3 +1,5 @@
+- pkg:maven/org.sonatype.nexus/pax-logging-access@3.0.0-b2015020701
+- pkg:maven/org.sonatype.nexus/pax-logging-access@3.0.0-b2015020701?classifier=sources
 - pkg:maven/org.sonatype.nexus/pax-logging-access@3.0.0-b2015061001
 - pkg:maven/org.sonatype.nexus/pax-logging-access@3.0.0-b2015061001?classifier=sources
 - pkg:maven/org.sonatype.nexus/pax-logging-access@3.0.0-b2015091801

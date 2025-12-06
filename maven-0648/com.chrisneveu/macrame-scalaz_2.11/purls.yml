@@ -1,0 +1,6 @@
+- pkg:maven/com.chrisneveu/macrame-scalaz_2.11@1.0.0-scalaz-7.0.x
+- pkg:maven/com.chrisneveu/macrame-scalaz_2.11@1.0.0-scalaz-7.0.x?classifier=sources
+- pkg:maven/com.chrisneveu/macrame-scalaz_2.11@1.0.0-scalaz-7.1.x
+- pkg:maven/com.chrisneveu/macrame-scalaz_2.11@1.0.0-scalaz-7.1.x?classifier=sources
+- pkg:maven/com.chrisneveu/macrame-scalaz_2.11@1.0.0-scalaz-7.2.x
+- pkg:maven/com.chrisneveu/macrame-scalaz_2.11@1.0.0-scalaz-7.2.x?classifier=sources

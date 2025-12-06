@@ -1,0 +1,2 @@
+- pkg:maven/org.yamcs/yamcs-api@0.29.3
+- pkg:maven/org.yamcs/yamcs-api@0.29.3?classifier=sources

@@ -42,3 +42,13 @@
 - pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.4.0?classifier=sources
 - pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.4.0x
 - pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.4.0x?classifier=sources
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.5.0
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.5.0-x
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.5.0-x?classifier=sources
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.5.0?classifier=sources
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.6.0
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.6.0?classifier=sources
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.6.1
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.6.1?classifier=sources
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.6.3
+- pkg:maven/org.kt3k.gradle.plugin/coveralls-gradle-plugin@2.6.3?classifier=sources

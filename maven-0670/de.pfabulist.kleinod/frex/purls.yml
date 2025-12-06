@@ -1,0 +1,14 @@
+- pkg:maven/de.pfabulist.kleinod/frex@0.3
+- pkg:maven/de.pfabulist.kleinod/frex@0.3?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/frex@0.4
+- pkg:maven/de.pfabulist.kleinod/frex@0.4.1
+- pkg:maven/de.pfabulist.kleinod/frex@0.4.1?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/frex@0.4.2
+- pkg:maven/de.pfabulist.kleinod/frex@0.4.2?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/frex@0.4?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/frex@0.5
+- pkg:maven/de.pfabulist.kleinod/frex@0.5?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/frex@0.6.1
+- pkg:maven/de.pfabulist.kleinod/frex@0.6.1?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/frex@0.6.2
+- pkg:maven/de.pfabulist.kleinod/frex@0.6.2?classifier=sources

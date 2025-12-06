@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.aether/aether-util@1.0.1.v20141111?classifier=sources
 - pkg:maven/org.eclipse.aether/aether-util@1.0.2.v20150114
 - pkg:maven/org.eclipse.aether/aether-util@1.0.2.v20150114?classifier=sources
+- pkg:maven/org.eclipse.aether/aether-util@1.1.0
+- pkg:maven/org.eclipse.aether/aether-util@1.1.0?classifier=sources

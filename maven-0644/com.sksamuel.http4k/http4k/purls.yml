@@ -1,0 +1,4 @@
+- pkg:maven/com.sksamuel.http4k/http4k@0.90.0
+- pkg:maven/com.sksamuel.http4k/http4k@0.90.0?classifier=sources
+- pkg:maven/com.sksamuel.http4k/http4k@0.91.0
+- pkg:maven/com.sksamuel.http4k/http4k@0.91.0?classifier=sources

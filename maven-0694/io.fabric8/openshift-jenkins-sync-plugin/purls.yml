@@ -1,0 +1,1 @@
+- pkg:maven/io.fabric8/openshift-jenkins-sync-plugin@0.0.4?classifier=sources

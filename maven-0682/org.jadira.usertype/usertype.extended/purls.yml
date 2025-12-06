@@ -26,3 +26,5 @@
 - pkg:maven/org.jadira.usertype/usertype.extended@3.2.0.GA?classifier=sources
 - pkg:maven/org.jadira.usertype/usertype.extended@4.0.0.GA
 - pkg:maven/org.jadira.usertype/usertype.extended@4.0.0.GA?classifier=sources
+- pkg:maven/org.jadira.usertype/usertype.extended@5.0.0.GA
+- pkg:maven/org.jadira.usertype/usertype.extended@5.0.0.GA?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.mytechia/simple-message-protocol@1.0.0
+- pkg:maven/com.mytechia/simple-message-protocol@1.0.0?classifier=sources
+- pkg:maven/com.mytechia/simple-message-protocol@2.0.2
+- pkg:maven/com.mytechia/simple-message-protocol@2.0.2?classifier=sources
+- pkg:maven/com.mytechia/simple-message-protocol@2.0.3
+- pkg:maven/com.mytechia/simple-message-protocol@2.0.3?classifier=sources

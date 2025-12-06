@@ -1,1 +1,2 @@
 - pkg:maven/org.kohsuke.sorcerer/sorcerer-uberjar@0.10
+- pkg:maven/org.kohsuke.sorcerer/sorcerer-uberjar@0.11

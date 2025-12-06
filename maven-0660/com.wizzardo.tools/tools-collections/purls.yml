@@ -2,3 +2,5 @@
 - pkg:maven/com.wizzardo.tools/tools-collections@0.12?classifier=sources
 - pkg:maven/com.wizzardo.tools/tools-collections@0.13
 - pkg:maven/com.wizzardo.tools/tools-collections@0.13?classifier=sources
+- pkg:maven/com.wizzardo.tools/tools-collections@0.14
+- pkg:maven/com.wizzardo.tools/tools-collections@0.14?classifier=sources

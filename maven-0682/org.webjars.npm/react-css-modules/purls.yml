@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-css-modules@3.7.6
+- pkg:maven/org.webjars.npm/react-css-modules@3.7.6?classifier=sources

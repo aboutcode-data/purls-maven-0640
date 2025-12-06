@@ -1,0 +1,2 @@
+- pkg:maven/com.bitplan/com.bitplan.mjpegstreamer@0.0.3
+- pkg:maven/com.bitplan/com.bitplan.mjpegstreamer@0.0.3?classifier=sources

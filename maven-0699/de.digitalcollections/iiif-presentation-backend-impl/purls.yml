@@ -1,0 +1,4 @@
+- pkg:maven/de.digitalcollections/iiif-presentation-backend-impl@2.0.0
+- pkg:maven/de.digitalcollections/iiif-presentation-backend-impl@2.0.0?classifier=sources
+- pkg:maven/de.digitalcollections/iiif-presentation-backend-impl@3.0.0
+- pkg:maven/de.digitalcollections/iiif-presentation-backend-impl@3.0.0?classifier=sources

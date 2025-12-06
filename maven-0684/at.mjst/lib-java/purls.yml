@@ -1,0 +1,6 @@
+- pkg:maven/at.mjst/lib-java@1.0.11
+- pkg:maven/at.mjst/lib-java@1.0.11?classifier=sources
+- pkg:maven/at.mjst/lib-java@1.0.13
+- pkg:maven/at.mjst/lib-java@1.0.13?classifier=sources
+- pkg:maven/at.mjst/lib-java@1.0.14
+- pkg:maven/at.mjst/lib-java@1.0.14?classifier=sources

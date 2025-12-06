@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.protege/owl-diff-engine@3.0.0
+- pkg:maven/edu.stanford.protege/owl-diff-engine@3.0.0?classifier=sources

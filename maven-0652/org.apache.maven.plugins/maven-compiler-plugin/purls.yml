@@ -41,3 +41,9 @@
 - pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.3
 - pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.3?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.5
+- pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.5.1
+- pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.5.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.5.1?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.5?classifier=sources

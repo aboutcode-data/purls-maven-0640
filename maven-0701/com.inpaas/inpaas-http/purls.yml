@@ -1,0 +1,2 @@
+- pkg:maven/com.inpaas/inpaas-http@0.1
+- pkg:maven/com.inpaas/inpaas-http@0.1?classifier=sources

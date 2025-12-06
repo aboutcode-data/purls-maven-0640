@@ -1,0 +1,2 @@
+- pkg:maven/de.dentrassi.eclipse.neoscada.protocols/org.eclipse.scada.protocol.ngp.model.edit@0.1.0
+- pkg:maven/de.dentrassi.eclipse.neoscada.protocols/org.eclipse.scada.protocol.ngp.model.edit@0.1.0?classifier=sources

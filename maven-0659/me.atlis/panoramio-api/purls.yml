@@ -1,0 +1,4 @@
+- pkg:maven/me.atlis/panoramio-api@1.0.0
+- pkg:maven/me.atlis/panoramio-api@1.0.0?classifier=sources
+- pkg:maven/me.atlis/panoramio-api@1.0.1
+- pkg:maven/me.atlis/panoramio-api@1.0.1?classifier=sources

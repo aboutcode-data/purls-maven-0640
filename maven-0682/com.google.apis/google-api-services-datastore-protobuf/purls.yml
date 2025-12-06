@@ -14,3 +14,9 @@
 - pkg:maven/com.google.apis/google-api-services-datastore-protobuf@v1beta2-rev1-3.0.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastore-protobuf@v1beta2-rev1-3.0.2
 - pkg:maven/com.google.apis/google-api-services-datastore-protobuf@v1beta2-rev1-3.0.2?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastore-protobuf@v1beta2-rev1-3.0.3
+- pkg:maven/com.google.apis/google-api-services-datastore-protobuf@v1beta2-rev1-3.0.3?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastore-protobuf@v1beta2-rev1-3.0.4
+- pkg:maven/com.google.apis/google-api-services-datastore-protobuf@v1beta2-rev1-3.0.4?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastore-protobuf@v1beta2-rev1-4.0.0
+- pkg:maven/com.google.apis/google-api-services-datastore-protobuf@v1beta2-rev1-4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.atlis/nominatim-api@1.0.0
+- pkg:maven/me.atlis/nominatim-api@1.0.0?classifier=sources

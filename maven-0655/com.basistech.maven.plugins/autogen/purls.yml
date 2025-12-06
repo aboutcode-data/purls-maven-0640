@@ -1,0 +1,6 @@
+- pkg:maven/com.basistech.maven.plugins/autogen@6
+- pkg:maven/com.basistech.maven.plugins/autogen@6?classifier=sources
+- pkg:maven/com.basistech.maven.plugins/autogen@7
+- pkg:maven/com.basistech.maven.plugins/autogen@7.0.0
+- pkg:maven/com.basistech.maven.plugins/autogen@7.0.0?classifier=sources
+- pkg:maven/com.basistech.maven.plugins/autogen@7?classifier=sources

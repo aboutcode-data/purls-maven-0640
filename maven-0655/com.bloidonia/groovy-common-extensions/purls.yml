@@ -22,3 +22,5 @@
 - pkg:maven/com.bloidonia/groovy-common-extensions@0.5?classifier=sources
 - pkg:maven/com.bloidonia/groovy-common-extensions@0.6.0
 - pkg:maven/com.bloidonia/groovy-common-extensions@0.6.0?classifier=sources
+- pkg:maven/com.bloidonia/groovy-common-extensions@0.7.0
+- pkg:maven/com.bloidonia/groovy-common-extensions@0.7.0?classifier=sources

@@ -16,3 +16,9 @@
 - pkg:maven/org.ovirt.ovirt-host-deploy/ovirt-host-deploy@1.3.0?classifier=sources
 - pkg:maven/org.ovirt.ovirt-host-deploy/ovirt-host-deploy@1.4.0
 - pkg:maven/org.ovirt.ovirt-host-deploy/ovirt-host-deploy@1.4.0?classifier=sources
+- pkg:maven/org.ovirt.ovirt-host-deploy/ovirt-host-deploy@1.5.0
+- pkg:maven/org.ovirt.ovirt-host-deploy/ovirt-host-deploy@1.5.0-alpha1
+- pkg:maven/org.ovirt.ovirt-host-deploy/ovirt-host-deploy@1.5.0-alpha1?classifier=sources
+- pkg:maven/org.ovirt.ovirt-host-deploy/ovirt-host-deploy@1.5.0-beta1
+- pkg:maven/org.ovirt.ovirt-host-deploy/ovirt-host-deploy@1.5.0-beta1?classifier=sources
+- pkg:maven/org.ovirt.ovirt-host-deploy/ovirt-host-deploy@1.5.0?classifier=sources

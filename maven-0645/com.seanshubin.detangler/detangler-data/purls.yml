@@ -1,0 +1,2 @@
+- pkg:maven/com.seanshubin.detangler/detangler-data@0.9
+- pkg:maven/com.seanshubin.detangler/detangler-data@0.9?classifier=sources

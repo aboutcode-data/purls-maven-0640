@@ -1,0 +1,2 @@
+- pkg:maven/org.nd4j/canova-spark@0.0.0.15
+- pkg:maven/org.nd4j/canova-spark@0.0.0.15?classifier=sources

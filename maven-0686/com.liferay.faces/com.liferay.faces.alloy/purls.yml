@@ -1,0 +1,6 @@
+- pkg:maven/com.liferay.faces/com.liferay.faces.alloy@1.0.0
+- pkg:maven/com.liferay.faces/com.liferay.faces.alloy@1.0.0?classifier=sources
+- pkg:maven/com.liferay.faces/com.liferay.faces.alloy@2.0.0
+- pkg:maven/com.liferay.faces/com.liferay.faces.alloy@2.0.0?classifier=sources
+- pkg:maven/com.liferay.faces/com.liferay.faces.alloy@3.0.0
+- pkg:maven/com.liferay.faces/com.liferay.faces.alloy@3.0.0?classifier=sources

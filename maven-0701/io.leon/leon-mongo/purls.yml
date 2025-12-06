@@ -1,0 +1,2 @@
+- pkg:maven/io.leon/leon-mongo@0.5.19
+- pkg:maven/io.leon/leon-mongo@0.5.19?classifier=sources

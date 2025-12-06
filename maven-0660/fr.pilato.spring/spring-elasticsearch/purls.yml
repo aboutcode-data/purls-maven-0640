@@ -20,3 +20,5 @@
 - pkg:maven/fr.pilato.spring/spring-elasticsearch@1.4.2?classifier=sources
 - pkg:maven/fr.pilato.spring/spring-elasticsearch@2.0.0
 - pkg:maven/fr.pilato.spring/spring-elasticsearch@2.0.0?classifier=sources
+- pkg:maven/fr.pilato.spring/spring-elasticsearch@2.1.0
+- pkg:maven/fr.pilato.spring/spring-elasticsearch@2.1.0?classifier=sources

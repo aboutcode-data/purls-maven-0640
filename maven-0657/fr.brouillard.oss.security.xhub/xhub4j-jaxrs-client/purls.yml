@@ -1,0 +1,2 @@
+- pkg:maven/fr.brouillard.oss.security.xhub/xhub4j-jaxrs-client@1.0.0
+- pkg:maven/fr.brouillard.oss.security.xhub/xhub4j-jaxrs-client@1.0.0?classifier=sources

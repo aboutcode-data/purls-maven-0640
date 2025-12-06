@@ -2,3 +2,4 @@
 - pkg:maven/org.fusesource.fabric/camel-cxf-code-first-archetype@7.2.0.redhat-024?classifier=sources
 - pkg:maven/org.fusesource.fabric/camel-cxf-code-first-archetype@7.2.0.redhat-060?classifier=sources
 - pkg:maven/org.fusesource.fabric/camel-cxf-code-first-archetype@7.2.0.redhat-065?classifier=sources
+- pkg:maven/org.fusesource.fabric/camel-cxf-code-first-archetype@7.2.0.redhat-083?classifier=sources

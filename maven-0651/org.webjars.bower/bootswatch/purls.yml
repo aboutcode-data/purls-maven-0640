@@ -6,3 +6,11 @@
 - pkg:maven/org.webjars.bower/bootswatch@3.3.5%2B2
 - pkg:maven/org.webjars.bower/bootswatch@3.3.5%2B2?classifier=sources
 - pkg:maven/org.webjars.bower/bootswatch@3.3.5?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch@3.3.6
+- pkg:maven/org.webjars.bower/bootswatch@3.3.6%2B1
+- pkg:maven/org.webjars.bower/bootswatch@3.3.6%2B1?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch@3.3.6%2B2
+- pkg:maven/org.webjars.bower/bootswatch@3.3.6%2B2?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch@3.3.6?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch@3.3.7
+- pkg:maven/org.webjars.bower/bootswatch@3.3.7?classifier=sources

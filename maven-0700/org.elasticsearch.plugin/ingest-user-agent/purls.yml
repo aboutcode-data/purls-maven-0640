@@ -1,0 +1,1 @@
+- pkg:maven/org.elasticsearch.plugin/ingest-user-agent@5.0.0-alpha5?classifier=sources

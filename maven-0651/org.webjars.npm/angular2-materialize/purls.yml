@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.npm/angular2-materialize@2.1.4
+- pkg:maven/org.webjars.npm/angular2-materialize@2.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/angular2-materialize@3.0.0
+- pkg:maven/org.webjars.npm/angular2-materialize@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/angular2-materialize@3.0.3
+- pkg:maven/org.webjars.npm/angular2-materialize@3.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/angular2-materialize@5.1.0
+- pkg:maven/org.webjars.npm/angular2-materialize@5.1.0?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/org.snmp4j/snmp4j@1.8.1?classifier=sources
 - pkg:maven/org.snmp4j/snmp4j@1.9.1f
 - pkg:maven/org.snmp4j/snmp4j@1.9.1f?classifier=sources
+- pkg:maven/org.snmp4j/snmp4j@2.5.0
+- pkg:maven/org.snmp4j/snmp4j@2.5.0?classifier=sources
+- pkg:maven/org.snmp4j/snmp4j@2.5.1
+- pkg:maven/org.snmp4j/snmp4j@2.5.1?classifier=sources
+- pkg:maven/org.snmp4j/snmp4j@2.5.2
+- pkg:maven/org.snmp4j/snmp4j@2.5.2?classifier=sources

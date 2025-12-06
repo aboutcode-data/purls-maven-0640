@@ -28,3 +28,5 @@
 - pkg:maven/com.googlecode.gwtquery/gwtquery@1.4.2?classifier=sources
 - pkg:maven/com.googlecode.gwtquery/gwtquery@1.4.3
 - pkg:maven/com.googlecode.gwtquery/gwtquery@1.4.3?classifier=sources
+- pkg:maven/com.googlecode.gwtquery/gwtquery@1.5-beta1
+- pkg:maven/com.googlecode.gwtquery/gwtquery@1.5-beta1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jdt.core.manipulation@1.5.100.v20141002-1241
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jdt.core.manipulation@1.5.100.v20141002-1241?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jdt.core.manipulation@1.7.0.v20160419-0705
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.jdt.core.manipulation@1.7.0.v20160419-0705?classifier=sources

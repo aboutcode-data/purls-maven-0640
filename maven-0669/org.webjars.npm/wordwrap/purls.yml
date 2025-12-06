@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/wordwrap@0.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/wordwrap@0.0.3
 - pkg:maven/org.webjars.npm/wordwrap@0.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/wordwrap@1.0.0
+- pkg:maven/org.webjars.npm/wordwrap@1.0.0?classifier=sources

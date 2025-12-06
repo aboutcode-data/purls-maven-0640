@@ -1,0 +1,2 @@
+- pkg:maven/de.saxsys.synchronizefx/websocket-transmitter@0.7.0
+- pkg:maven/de.saxsys.synchronizefx/websocket-transmitter@0.7.0?classifier=sources

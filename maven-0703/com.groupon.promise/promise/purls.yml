@@ -1,0 +1,2 @@
+- pkg:maven/com.groupon.promise/promise@0.12.0
+- pkg:maven/com.groupon.promise/promise@0.12.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.liftmodules/fobo-jquery-api_2.6_2.10@1.6
+- pkg:maven/net.liftmodules/fobo-jquery-api_2.6_2.10@1.6?classifier=sources

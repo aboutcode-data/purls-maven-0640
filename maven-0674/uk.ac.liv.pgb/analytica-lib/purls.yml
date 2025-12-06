@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.liv.pgb/analytica-lib@0.01
+- pkg:maven/uk.ac.liv.pgb/analytica-lib@0.01?classifier=sources

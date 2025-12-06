@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/jquery-form-validator@2.2.43
+- pkg:maven/org.webjars.bower/jquery-form-validator@2.2.43?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-form-validator@2.3.36
+- pkg:maven/org.webjars.bower/jquery-form-validator@2.3.36?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-form-validator@2.3.44
+- pkg:maven/org.webjars.bower/jquery-form-validator@2.3.44?classifier=sources

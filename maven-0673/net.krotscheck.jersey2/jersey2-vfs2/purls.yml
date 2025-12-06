@@ -16,3 +16,15 @@
 - pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@1.1.20?classifier=sources
 - pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@1.1.21
 - pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@1.1.21?classifier=sources
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@1.1.22
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@1.1.22?classifier=sources
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@1.1.23
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@1.1.23?classifier=sources
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@2.0.0
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@2.0.0?classifier=sources
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@2.0.1
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@2.0.1?classifier=sources
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@2.0.2
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@2.0.2?classifier=sources
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@2.1.1
+- pkg:maven/net.krotscheck.jersey2/jersey2-vfs2@2.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.lindenb/jbwa@1.0.0
+- pkg:maven/com.github.lindenb/jbwa@1.0.0?classifier=sources
+- pkg:maven/com.github.lindenb/jbwa@1.0.0_ppc64
+- pkg:maven/com.github.lindenb/jbwa@1.0.0_ppc64?classifier=sources

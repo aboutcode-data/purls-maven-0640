@@ -1,0 +1,2 @@
+- pkg:maven/com.hurence.logisland/logisland-core@0.9.3
+- pkg:maven/com.hurence.logisland/logisland-core@0.9.3?classifier=sources

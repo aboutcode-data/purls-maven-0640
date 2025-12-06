@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.log.socket@1.1.0
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.log.socket@1.1.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.log.socket@1.2.0
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.log.socket@1.2.0?classifier=sources

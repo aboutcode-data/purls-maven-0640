@@ -1,0 +1,2 @@
+- pkg:maven/com.yurplan/yurplanandroidlibrary@1.1.2?classifier=sources
+- pkg:maven/com.yurplan/yurplanandroidlibrary@1.1.2?type=aar

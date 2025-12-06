@@ -1,0 +1,4 @@
+- pkg:maven/org.got5/tapestry5-angular2@0.1.0-beta-17
+- pkg:maven/org.got5/tapestry5-angular2@0.1.0-beta-17?classifier=sources
+- pkg:maven/org.got5/tapestry5-angular2@0.1.0-beta-2
+- pkg:maven/org.got5/tapestry5-angular2@0.1.0-beta-2?classifier=sources

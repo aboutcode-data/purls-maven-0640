@@ -1,0 +1,2 @@
+- pkg:maven/io.apiman.plugins/apiman-plugins-unique-header-policy@1.2.8.Final?classifier=sources
+- pkg:maven/io.apiman.plugins/apiman-plugins-unique-header-policy@1.2.8.Final?type=war

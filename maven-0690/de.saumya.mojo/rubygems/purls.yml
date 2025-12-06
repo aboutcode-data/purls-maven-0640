@@ -4,5 +4,7 @@
 - pkg:maven/de.saumya.mojo/rubygems@0.2.1?type=war
 - pkg:maven/de.saumya.mojo/rubygems@0.2.2?classifier=sources
 - pkg:maven/de.saumya.mojo/rubygems@0.2.2?type=war
+- pkg:maven/de.saumya.mojo/rubygems@0.2.3?classifier=sources
+- pkg:maven/de.saumya.mojo/rubygems@0.2.3?type=war
 - pkg:maven/de.saumya.mojo/rubygems@0.2?classifier=sources
 - pkg:maven/de.saumya.mojo/rubygems@0.2?type=war

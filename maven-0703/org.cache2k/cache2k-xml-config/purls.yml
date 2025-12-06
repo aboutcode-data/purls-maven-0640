@@ -1,0 +1,10 @@
+- pkg:maven/org.cache2k/cache2k-xml-config@0.24-BETA
+- pkg:maven/org.cache2k/cache2k-xml-config@0.24-BETA?classifier=sources
+- pkg:maven/org.cache2k/cache2k-xml-config@0.25-BETA
+- pkg:maven/org.cache2k/cache2k-xml-config@0.25-BETA?classifier=sources
+- pkg:maven/org.cache2k/cache2k-xml-config@0.26-BETA
+- pkg:maven/org.cache2k/cache2k-xml-config@0.26-BETA?classifier=sources
+- pkg:maven/org.cache2k/cache2k-xml-config@0.27-BETA
+- pkg:maven/org.cache2k/cache2k-xml-config@0.27-BETA?classifier=sources
+- pkg:maven/org.cache2k/cache2k-xml-config@0.28-BETA
+- pkg:maven/org.cache2k/cache2k-xml-config@0.28-BETA?classifier=sources

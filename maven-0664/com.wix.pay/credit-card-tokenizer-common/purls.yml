@@ -6,3 +6,5 @@
 - pkg:maven/com.wix.pay/credit-card-tokenizer-common@1.4.0?classifier=sources
 - pkg:maven/com.wix.pay/credit-card-tokenizer-common@1.5.0
 - pkg:maven/com.wix.pay/credit-card-tokenizer-common@1.5.0?classifier=sources
+- pkg:maven/com.wix.pay/credit-card-tokenizer-common@1.6.0
+- pkg:maven/com.wix.pay/credit-card-tokenizer-common@1.6.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.revtwo/librevtwo@1.0.0.22?classifier=sources
+- pkg:maven/com.revtwo/librevtwo@1.0.0.22?type=aar
+- pkg:maven/com.revtwo/librevtwo@2.0.0.1?classifier=sources
+- pkg:maven/com.revtwo/librevtwo@2.0.0.1?type=aar
+- pkg:maven/com.revtwo/librevtwo@2.0.0.2?classifier=sources
+- pkg:maven/com.revtwo/librevtwo@2.0.0.2?type=aar

@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.directory.fortress/fortress-realm-proxy@1.0-RC42
+- pkg:maven/org.apache.directory.fortress/fortress-realm-proxy@1.0-RC42?classifier=sources
+- pkg:maven/org.apache.directory.fortress/fortress-realm-proxy@1.0.0
+- pkg:maven/org.apache.directory.fortress/fortress-realm-proxy@1.0.0?classifier=sources
+- pkg:maven/org.apache.directory.fortress/fortress-realm-proxy@1.0.1
+- pkg:maven/org.apache.directory.fortress/fortress-realm-proxy@1.0.1?classifier=sources

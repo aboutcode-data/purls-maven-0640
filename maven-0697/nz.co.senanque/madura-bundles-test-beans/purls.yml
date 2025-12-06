@@ -1,0 +1,2 @@
+- pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.2.0
+- pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.2.0?classifier=sources

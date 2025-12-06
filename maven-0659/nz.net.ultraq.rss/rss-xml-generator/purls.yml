@@ -1,2 +1,4 @@
 - pkg:maven/nz.net.ultraq.rss/rss-xml-generator@1.0.0
 - pkg:maven/nz.net.ultraq.rss/rss-xml-generator@1.0.0?classifier=sources
+- pkg:maven/nz.net.ultraq.rss/rss-xml-generator@2.0.0
+- pkg:maven/nz.net.ultraq.rss/rss-xml-generator@2.0.0?classifier=sources

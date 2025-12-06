@@ -1,0 +1,3 @@
+- pkg:maven/com.dukescript.libraries/net.java.html.lib.ko@0.2?classifier=sources
+- pkg:maven/com.dukescript.libraries/net.java.html.lib.ko@0.3?classifier=sources
+- pkg:maven/com.dukescript.libraries/net.java.html.lib.ko@0.4?classifier=sources

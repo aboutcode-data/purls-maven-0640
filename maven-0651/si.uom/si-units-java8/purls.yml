@@ -1,0 +1,2 @@
+- pkg:maven/si.uom/si-units-java8@0.5
+- pkg:maven/si.uom/si-units-java8@0.5?classifier=sources

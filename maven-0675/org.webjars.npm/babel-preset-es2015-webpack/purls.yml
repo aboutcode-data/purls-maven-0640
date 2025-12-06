@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel-preset-es2015-webpack@6.4.1
+- pkg:maven/org.webjars.npm/babel-preset-es2015-webpack@6.4.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.erigir/giggle@0.0.1%2B4
+- pkg:maven/com.erigir/giggle@0.0.1%2B4?classifier=sources
+- pkg:maven/com.erigir/giggle@0.0.2%2B6
+- pkg:maven/com.erigir/giggle@0.0.2%2B6?classifier=sources

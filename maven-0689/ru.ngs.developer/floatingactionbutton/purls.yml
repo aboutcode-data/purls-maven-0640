@@ -1,2 +1,6 @@
 - pkg:maven/ru.ngs.developer/floatingactionbutton@1.0.0?classifier=sources
 - pkg:maven/ru.ngs.developer/floatingactionbutton@1.0.0?type=aar
+- pkg:maven/ru.ngs.developer/floatingactionbutton@1.0.1?classifier=sources
+- pkg:maven/ru.ngs.developer/floatingactionbutton@1.0.1?type=aar
+- pkg:maven/ru.ngs.developer/floatingactionbutton@1.0.2?classifier=sources
+- pkg:maven/ru.ngs.developer/floatingactionbutton@1.0.2?type=aar

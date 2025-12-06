@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/monet@0.8.10
+- pkg:maven/org.webjars.bower/monet@0.8.10?classifier=sources

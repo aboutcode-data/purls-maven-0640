@@ -1,2 +1,6 @@
+- pkg:maven/org.keedio.flume.interceptor.enrichment/flume-enrichment-interceptor@0.0.10
+- pkg:maven/org.keedio.flume.interceptor.enrichment/flume-enrichment-interceptor@0.0.10?classifier=sources
 - pkg:maven/org.keedio.flume.interceptor.enrichment/flume-enrichment-interceptor@0.0.8
 - pkg:maven/org.keedio.flume.interceptor.enrichment/flume-enrichment-interceptor@0.0.8?classifier=sources
+- pkg:maven/org.keedio.flume.interceptor.enrichment/flume-enrichment-interceptor@cdh-5.4.5-0.0.11
+- pkg:maven/org.keedio.flume.interceptor.enrichment/flume-enrichment-interceptor@cdh-5.4.5-0.0.11?classifier=sources

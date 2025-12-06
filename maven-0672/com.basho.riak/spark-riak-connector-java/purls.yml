@@ -1,0 +1,2 @@
+- pkg:maven/com.basho.riak/spark-riak-connector-java@1.5.1
+- pkg:maven/com.basho.riak/spark-riak-connector-java@1.5.1?classifier=sources

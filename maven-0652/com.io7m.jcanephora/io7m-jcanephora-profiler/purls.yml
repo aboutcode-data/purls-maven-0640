@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-profiler@0.45.3
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-profiler@0.45.3?classifier=sources

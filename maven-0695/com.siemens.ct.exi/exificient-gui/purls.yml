@@ -1,0 +1,2 @@
+- pkg:maven/com.siemens.ct.exi/exificient-gui@0.9.6
+- pkg:maven/com.siemens.ct.exi/exificient-gui@0.9.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.petendi/ethereum-secure-proxy@1.1.0
+- pkg:maven/de.petendi/ethereum-secure-proxy@1.1.0?classifier=sources

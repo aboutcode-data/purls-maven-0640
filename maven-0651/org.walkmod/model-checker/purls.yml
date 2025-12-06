@@ -1,0 +1,4 @@
+- pkg:maven/org.walkmod/model-checker@1.0
+- pkg:maven/org.walkmod/model-checker@1.0?classifier=sources
+- pkg:maven/org.walkmod/model-checker@1.1
+- pkg:maven/org.walkmod/model-checker@1.1?classifier=sources

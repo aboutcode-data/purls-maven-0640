@@ -1,0 +1,4 @@
+- pkg:maven/com.dottydingo.hyperion.spring.boot/hyperion-starter@2.0.0-EA2
+- pkg:maven/com.dottydingo.hyperion.spring.boot/hyperion-starter@2.0.0-EA2?classifier=sources
+- pkg:maven/com.dottydingo.hyperion.spring.boot/hyperion-starter@2.0.0-EA3
+- pkg:maven/com.dottydingo.hyperion.spring.boot/hyperion-starter@2.0.0-EA3?classifier=sources

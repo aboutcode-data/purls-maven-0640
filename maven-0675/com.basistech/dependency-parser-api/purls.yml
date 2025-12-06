@@ -1,0 +1,4 @@
+- pkg:maven/com.basistech/dependency-parser-api@0.0.2
+- pkg:maven/com.basistech/dependency-parser-api@0.0.2?classifier=sources
+- pkg:maven/com.basistech/dependency-parser-api@0.0.3
+- pkg:maven/com.basistech/dependency-parser-api@0.0.3?classifier=sources

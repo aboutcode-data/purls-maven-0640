@@ -1,0 +1,6 @@
+- pkg:maven/com.milessabin/si2712fix-plugin_2.11.8@1.0.1
+- pkg:maven/com.milessabin/si2712fix-plugin_2.11.8@1.0.1?classifier=sources
+- pkg:maven/com.milessabin/si2712fix-plugin_2.11.8@1.1.0
+- pkg:maven/com.milessabin/si2712fix-plugin_2.11.8@1.1.0?classifier=sources
+- pkg:maven/com.milessabin/si2712fix-plugin_2.11.8@1.2.0
+- pkg:maven/com.milessabin/si2712fix-plugin_2.11.8@1.2.0?classifier=sources

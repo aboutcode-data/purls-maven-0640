@@ -1,0 +1,2 @@
+- pkg:maven/net.thauvin.erik.httpstatus/httpstatus@1.0.3
+- pkg:maven/net.thauvin.erik.httpstatus/httpstatus@1.0.3?classifier=sources

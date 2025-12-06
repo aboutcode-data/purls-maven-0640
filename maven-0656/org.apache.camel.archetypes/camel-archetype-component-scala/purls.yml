@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component-scala@2.15.2?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component-scala@2.15.3?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-component-scala@2.15.4?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-component-scala@2.15.5?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-component-scala@2.15.6?classifier=sources

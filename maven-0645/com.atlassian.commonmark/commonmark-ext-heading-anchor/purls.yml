@@ -1,0 +1,2 @@
+- pkg:maven/com.atlassian.commonmark/commonmark-ext-heading-anchor@0.7.0
+- pkg:maven/com.atlassian.commonmark/commonmark-ext-heading-anchor@0.7.0?classifier=sources

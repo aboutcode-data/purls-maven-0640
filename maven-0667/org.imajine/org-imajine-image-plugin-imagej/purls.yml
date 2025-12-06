@@ -1,0 +1,2 @@
+- pkg:maven/org.imajine/org-imajine-image-plugin-imagej@0.9.12
+- pkg:maven/org.imajine/org-imajine-image-plugin-imagej@0.9.12?classifier=sources

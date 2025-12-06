@@ -1,4 +1,6 @@
 - pkg:maven/es.arcadiaconsulting.appstorestats/appstoresstats-ios@1.0.1
+- pkg:maven/es.arcadiaconsulting.appstorestats/appstoresstats-ios@1.0.10
+- pkg:maven/es.arcadiaconsulting.appstorestats/appstoresstats-ios@1.0.10?classifier=sources
 - pkg:maven/es.arcadiaconsulting.appstorestats/appstoresstats-ios@1.0.1?classifier=sources
 - pkg:maven/es.arcadiaconsulting.appstorestats/appstoresstats-ios@1.0.2
 - pkg:maven/es.arcadiaconsulting.appstorestats/appstoresstats-ios@1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ws.argo.plugin/PluginFramework@0.4.2
+- pkg:maven/ws.argo.plugin/PluginFramework@0.4.2?classifier=sources

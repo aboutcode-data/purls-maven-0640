@@ -1,0 +1,2 @@
+- pkg:maven/com.fnklabs/fnklabs-splac@0.1.2
+- pkg:maven/com.fnklabs/fnklabs-splac@0.1.2?classifier=sources

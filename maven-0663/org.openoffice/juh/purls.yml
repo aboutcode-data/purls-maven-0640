@@ -10,3 +10,5 @@
 - pkg:maven/org.openoffice/juh@3.1.0
 - pkg:maven/org.openoffice/juh@3.2.0
 - pkg:maven/org.openoffice/juh@3.2.1
+- pkg:maven/org.openoffice/juh@4.1.2
+- pkg:maven/org.openoffice/juh@4.1.2?classifier=sources

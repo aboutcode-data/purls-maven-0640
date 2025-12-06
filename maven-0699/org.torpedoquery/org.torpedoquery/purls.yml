@@ -20,3 +20,7 @@
 - pkg:maven/org.torpedoquery/org.torpedoquery@1.6.0?classifier=sources
 - pkg:maven/org.torpedoquery/org.torpedoquery@1.7.0
 - pkg:maven/org.torpedoquery/org.torpedoquery@1.7.0?classifier=sources
+- pkg:maven/org.torpedoquery/org.torpedoquery@2.0.0
+- pkg:maven/org.torpedoquery/org.torpedoquery@2.0.0?classifier=sources
+- pkg:maven/org.torpedoquery/org.torpedoquery@2.1.0
+- pkg:maven/org.torpedoquery/org.torpedoquery@2.1.0?classifier=sources
