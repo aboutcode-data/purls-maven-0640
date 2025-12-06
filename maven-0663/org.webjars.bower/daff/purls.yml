@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bower/daff@1.3.16
+- pkg:maven/org.webjars.bower/daff@1.3.16?classifier=sources
 - pkg:maven/org.webjars.bower/daff@1.3.2
 - pkg:maven/org.webjars.bower/daff@1.3.2?classifier=sources

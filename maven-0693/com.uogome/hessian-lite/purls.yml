@@ -1,0 +1,2 @@
+- pkg:maven/com.uogome/hessian-lite@3.2.1-fixed-2
+- pkg:maven/com.uogome/hessian-lite@3.2.1-fixed-2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.bildschirmarbeiter.application/de.bildschirmarbeiter.application.message@0.0.1
+- pkg:maven/de.bildschirmarbeiter.application/de.bildschirmarbeiter.application.message@0.0.1?classifier=sources

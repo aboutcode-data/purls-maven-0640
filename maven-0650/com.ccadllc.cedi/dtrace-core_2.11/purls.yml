@@ -4,3 +4,9 @@
 - pkg:maven/com.ccadllc.cedi/dtrace-core_2.11@1.1.0?classifier=sources
 - pkg:maven/com.ccadllc.cedi/dtrace-core_2.11@1.1.1
 - pkg:maven/com.ccadllc.cedi/dtrace-core_2.11@1.1.1?classifier=sources
+- pkg:maven/com.ccadllc.cedi/dtrace-core_2.11@1.2.0-M2
+- pkg:maven/com.ccadllc.cedi/dtrace-core_2.11@1.2.0-M2?classifier=sources
+- pkg:maven/com.ccadllc.cedi/dtrace-core_2.11@1.2.0-M3
+- pkg:maven/com.ccadllc.cedi/dtrace-core_2.11@1.2.0-M3?classifier=sources
+- pkg:maven/com.ccadllc.cedi/dtrace-core_2.11@1.2.0-M4
+- pkg:maven/com.ccadllc.cedi/dtrace-core_2.11@1.2.0-M4?classifier=sources

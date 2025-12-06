@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.soteria/javax.security.enterprise@1.0
+- pkg:maven/org.glassfish.soteria/javax.security.enterprise@1.0-b07
+- pkg:maven/org.glassfish.soteria/javax.security.enterprise@1.0-b07?classifier=sources
+- pkg:maven/org.glassfish.soteria/javax.security.enterprise@1.0?classifier=sources

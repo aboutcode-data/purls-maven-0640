@@ -10,6 +10,9 @@
 - pkg:maven/org.jboss.spec.javax.el/jboss-el-api_3.0_spec@1.0.1.Final
 - pkg:maven/org.jboss.spec.javax.el/jboss-el-api_3.0_spec@1.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.spec.javax.el/jboss-el-api_3.0_spec@1.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.spec.javax.el/jboss-el-api_3.0_spec@1.0.10.Final
+- pkg:maven/org.jboss.spec.javax.el/jboss-el-api_3.0_spec@1.0.10.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.javax.el/jboss-el-api_3.0_spec@1.0.10.Final?classifier=sources
 - pkg:maven/org.jboss.spec.javax.el/jboss-el-api_3.0_spec@1.0.2.Final
 - pkg:maven/org.jboss.spec.javax.el/jboss-el-api_3.0_spec@1.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.spec.javax.el/jboss-el-api_3.0_spec@1.0.2.Final?classifier=sources

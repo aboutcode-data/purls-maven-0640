@@ -6,3 +6,7 @@
 - pkg:maven/org.openscience.cdk/cdk-depict@1.5.14?classifier=sources
 - pkg:maven/org.openscience.cdk/cdk-depict@1.5.15
 - pkg:maven/org.openscience.cdk/cdk-depict@1.5.15?classifier=sources
+- pkg:maven/org.openscience.cdk/cdk-depict@2.0
+- pkg:maven/org.openscience.cdk/cdk-depict@2.0?classifier=sources
+- pkg:maven/org.openscience.cdk/cdk-depict@2.1
+- pkg:maven/org.openscience.cdk/cdk-depict@2.1?classifier=sources

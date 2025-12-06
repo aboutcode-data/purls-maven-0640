@@ -40,3 +40,11 @@
 - pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.15.04?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.16.01
 - pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.16.01?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.16.02
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.16.02?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.16.03
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.16.03?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.17.03
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.17.03?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.17.04
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@14.17.04?classifier=sources

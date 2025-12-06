@@ -1,0 +1,4 @@
+- pkg:maven/org.oiue.services.actions/org.oiue.service.action.filter.module2domain@1.0.0
+- pkg:maven/org.oiue.services.actions/org.oiue.service.action.filter.module2domain@1.0.0?classifier=sources
+- pkg:maven/org.oiue.services.actions/org.oiue.service.action.filter.module2domain@1.0.1
+- pkg:maven/org.oiue.services.actions/org.oiue.service.action.filter.module2domain@1.0.1?classifier=sources

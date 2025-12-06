@@ -20,3 +20,7 @@
 - pkg:maven/org.jboss.forge/forge-service-parent@1.0.0.CR3?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge/forge-service-parent@1.0.0.CR4?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge/forge-service-parent@1.0.0.CR5?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge/forge-service-parent@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge/forge-service-parent@1.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge/forge-service-parent@1.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge/forge-service-parent@1.0.3.Final?classifier=source-release&type=zip

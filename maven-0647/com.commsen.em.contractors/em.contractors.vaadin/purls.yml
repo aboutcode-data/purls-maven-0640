@@ -1,0 +1,2 @@
+- pkg:maven/com.commsen.em.contractors/em.contractors.vaadin@8.1.3
+- pkg:maven/com.commsen.em.contractors/em.contractors.vaadin@8.1.3?classifier=sources

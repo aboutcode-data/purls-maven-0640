@@ -1,0 +1,2 @@
+- pkg:maven/jp.co.cyberagent.hive/hive-jq-udtf-v3@3.0.0
+- pkg:maven/jp.co.cyberagent.hive/hive-jq-udtf-v3@3.0.0?classifier=sources

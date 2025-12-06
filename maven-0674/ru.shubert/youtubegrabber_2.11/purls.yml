@@ -1,0 +1,2 @@
+- pkg:maven/ru.shubert/youtubegrabber_2.11@1.4
+- pkg:maven/ru.shubert/youtubegrabber_2.11@1.4?classifier=sources

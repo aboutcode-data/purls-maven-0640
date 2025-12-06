@@ -10,6 +10,16 @@
 - pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.13.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.14.0
 - pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.14.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.14.1
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.14.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.14.2
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.14.2?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.14.4
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.14.4?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.15.0
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.15.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.15.1
+- pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.15.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.7.2
 - pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.7.2?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-eventhubs-eph@0.7.7

@@ -1,0 +1,4 @@
+- pkg:maven/com.thinkbiganalytics.kylo.plugins/kylo-service-monitor-cloudera-tba@0.8.3
+- pkg:maven/com.thinkbiganalytics.kylo.plugins/kylo-service-monitor-cloudera-tba@0.8.3.1
+- pkg:maven/com.thinkbiganalytics.kylo.plugins/kylo-service-monitor-cloudera-tba@0.8.3.3
+- pkg:maven/com.thinkbiganalytics.kylo.plugins/kylo-service-monitor-cloudera-tba@0.8.4

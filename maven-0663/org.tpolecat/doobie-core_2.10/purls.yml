@@ -14,3 +14,5 @@
 - pkg:maven/org.tpolecat/doobie-core_2.10@0.3.0?classifier=sources
 - pkg:maven/org.tpolecat/doobie-core_2.10@0.3.0a
 - pkg:maven/org.tpolecat/doobie-core_2.10@0.3.0a?classifier=sources
+- pkg:maven/org.tpolecat/doobie-core_2.10@0.4.3
+- pkg:maven/org.tpolecat/doobie-core_2.10@0.4.3?classifier=sources

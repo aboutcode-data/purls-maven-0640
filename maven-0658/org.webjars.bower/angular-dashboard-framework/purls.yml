@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/angular-dashboard-framework@0.10.0?classifier=sources
 - pkg:maven/org.webjars.bower/angular-dashboard-framework@0.11.0
 - pkg:maven/org.webjars.bower/angular-dashboard-framework@0.11.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-dashboard-framework@0.12.0
+- pkg:maven/org.webjars.bower/angular-dashboard-framework@0.12.0?classifier=sources

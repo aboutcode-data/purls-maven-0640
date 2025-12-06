@@ -1,2 +1,6 @@
+- pkg:maven/de.alpharogroup/state@4.10.0
+- pkg:maven/de.alpharogroup/state@4.10.0?classifier=sources
+- pkg:maven/de.alpharogroup/state@4.11.0
+- pkg:maven/de.alpharogroup/state@4.11.0?classifier=sources
 - pkg:maven/de.alpharogroup/state@4.9.0
 - pkg:maven/de.alpharogroup/state@4.9.0?classifier=sources

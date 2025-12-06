@@ -20,3 +20,13 @@
 - pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.18.0?classifier=sources
 - pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.18.2
 - pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.18.2?classifier=sources
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.19.6
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.19.6?classifier=sources
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.21.0
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.21.0?classifier=sources
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.22.14
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.22.14?classifier=sources
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.22.4
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.22.4?classifier=sources
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.27.0
+- pkg:maven/com.vladsch.flexmark/markdown-page-generator-plugin@0.27.0?classifier=sources

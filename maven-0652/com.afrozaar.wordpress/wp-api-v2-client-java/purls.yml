@@ -12,3 +12,11 @@
 - pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@2.0-beta15.2.01
 - pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@2.0-beta15.2.01?classifier=sources
 - pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@2.0-beta15?classifier=sources
+- pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@4.8
+- pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@4.8.1
+- pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@4.8.1?classifier=sources
+- pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@4.8.2
+- pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@4.8.2?classifier=sources
+- pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@4.8.3
+- pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@4.8.3?classifier=sources
+- pkg:maven/com.afrozaar.wordpress/wp-api-v2-client-java@4.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.xujichang.lib/hybirdbase@1.0.1?classifier=sources
+- pkg:maven/me.xujichang.lib/hybirdbase@1.0.1?type=aar

@@ -1,0 +1,10 @@
+- pkg:maven/com.codecommit/shims_2.12@1.0
+- pkg:maven/com.codecommit/shims_2.12@1.0-0d50a58
+- pkg:maven/com.codecommit/shims_2.12@1.0-0d50a58?classifier=sources
+- pkg:maven/com.codecommit/shims_2.12@1.0-3e9fa7b
+- pkg:maven/com.codecommit/shims_2.12@1.0-3e9fa7b?classifier=sources
+- pkg:maven/com.codecommit/shims_2.12@1.0-4442ecc
+- pkg:maven/com.codecommit/shims_2.12@1.0-4442ecc?classifier=sources
+- pkg:maven/com.codecommit/shims_2.12@1.0-c65c248
+- pkg:maven/com.codecommit/shims_2.12@1.0-c65c248?classifier=sources
+- pkg:maven/com.codecommit/shims_2.12@1.0?classifier=sources

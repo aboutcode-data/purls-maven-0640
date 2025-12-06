@@ -51,9 +51,11 @@
 - pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.3.9
 - pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.3.9?classifier=sources
 - pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.3?classifier=sources
+- pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.4.0
 - pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.4.0-b01
 - pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.4.0-b01?classifier=sources
 - pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.4.0-b02
 - pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.4.0-b02?classifier=sources
 - pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.4.0-b03
 - pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.4.0-b03?classifier=sources
+- pkg:maven/com.sun.xml.messaging.saaj/saaj-impl@1.4.0?classifier=sources

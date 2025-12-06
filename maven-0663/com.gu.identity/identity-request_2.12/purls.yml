@@ -1,0 +1,14 @@
+- pkg:maven/com.gu.identity/identity-request_2.12@3.84
+- pkg:maven/com.gu.identity/identity-request_2.12@3.84?classifier=sources
+- pkg:maven/com.gu.identity/identity-request_2.12@3.86
+- pkg:maven/com.gu.identity/identity-request_2.12@3.86?classifier=sources
+- pkg:maven/com.gu.identity/identity-request_2.12@3.87
+- pkg:maven/com.gu.identity/identity-request_2.12@3.87?classifier=sources
+- pkg:maven/com.gu.identity/identity-request_2.12@3.91
+- pkg:maven/com.gu.identity/identity-request_2.12@3.91?classifier=sources
+- pkg:maven/com.gu.identity/identity-request_2.12@3.93
+- pkg:maven/com.gu.identity/identity-request_2.12@3.93?classifier=sources
+- pkg:maven/com.gu.identity/identity-request_2.12@3.94
+- pkg:maven/com.gu.identity/identity-request_2.12@3.94?classifier=sources
+- pkg:maven/com.gu.identity/identity-request_2.12@3.95
+- pkg:maven/com.gu.identity/identity-request_2.12@3.95?classifier=sources

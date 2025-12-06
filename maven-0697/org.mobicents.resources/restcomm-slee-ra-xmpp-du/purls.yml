@@ -16,6 +16,12 @@
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@2.8.8?classifier=sources
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@2.8.9
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@2.8.9?classifier=sources
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@2.9.13
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@2.9.13?classifier=sources
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@2.9.14
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@2.9.14?classifier=sources
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@2.9.15
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@2.9.15?classifier=sources
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@3.0.1
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@3.0.1?classifier=sources
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@3.0.2
@@ -28,3 +34,9 @@
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@7.0.5?classifier=sources
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@7.0.6
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@7.0.6?classifier=sources
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@7.1.7
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@7.1.7?classifier=sources
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@7.1.8
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@7.1.8?classifier=sources
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@7.1.9
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-xmpp-du@7.1.9?classifier=sources

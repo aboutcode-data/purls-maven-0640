@@ -1,0 +1,2 @@
+- pkg:maven/com.fathzer/jclop2@0.1.0
+- pkg:maven/com.fathzer/jclop2@0.1.0?classifier=sources

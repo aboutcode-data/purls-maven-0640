@@ -1,2 +1,4 @@
 - pkg:maven/com.esotericsoftware.spine/spine-libgdx@3.5.51.1
 - pkg:maven/com.esotericsoftware.spine/spine-libgdx@3.5.51.1?classifier=sources
+- pkg:maven/com.esotericsoftware.spine/spine-libgdx@3.6.34.0
+- pkg:maven/com.esotericsoftware.spine/spine-libgdx@3.6.34.0?classifier=sources

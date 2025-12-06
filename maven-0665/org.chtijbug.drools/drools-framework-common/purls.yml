@@ -31,6 +31,8 @@
 - pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.0
 - pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.0?classifier=sources
 - pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.1
+- pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.10
+- pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.10?classifier=sources
 - pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.1?classifier=sources
 - pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.2
 - pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.2?classifier=sources
@@ -48,3 +50,5 @@
 - pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.8?classifier=sources
 - pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.9
 - pkg:maven/org.chtijbug.drools/drools-framework-common@2.0.9?classifier=sources
+- pkg:maven/org.chtijbug.drools/drools-framework-common@drools-framework-parent-1.5.3
+- pkg:maven/org.chtijbug.drools/drools-framework-common@drools-framework-parent-1.5.3?classifier=sources

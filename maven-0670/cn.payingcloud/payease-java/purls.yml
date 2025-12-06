@@ -1,0 +1,2 @@
+- pkg:maven/cn.payingcloud/payease-java@1.0.0
+- pkg:maven/cn.payingcloud/payease-java@1.0.0?classifier=sources

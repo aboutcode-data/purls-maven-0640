@@ -1,0 +1,4 @@
+- pkg:maven/edu.berkeley.cs/dsptools_2.12@1.0.0
+- pkg:maven/edu.berkeley.cs/dsptools_2.12@1.0.0-RC2
+- pkg:maven/edu.berkeley.cs/dsptools_2.12@1.0.0-RC2?classifier=sources
+- pkg:maven/edu.berkeley.cs/dsptools_2.12@1.0.0?classifier=sources

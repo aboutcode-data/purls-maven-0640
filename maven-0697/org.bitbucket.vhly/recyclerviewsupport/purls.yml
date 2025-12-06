@@ -1,4 +1,6 @@
 - pkg:maven/org.bitbucket.vhly/recyclerviewsupport@alpha-1?classifier=sources
 - pkg:maven/org.bitbucket.vhly/recyclerviewsupport@alpha-1?type=aar
+- pkg:maven/org.bitbucket.vhly/recyclerviewsupport@alpha-3?classifier=sources
+- pkg:maven/org.bitbucket.vhly/recyclerviewsupport@alpha-3?type=aar
 - pkg:maven/org.bitbucket.vhly/recyclerviewsupport@alpha?classifier=sources
 - pkg:maven/org.bitbucket.vhly/recyclerviewsupport@alpha?type=aar

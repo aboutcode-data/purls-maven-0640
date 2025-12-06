@@ -238,3 +238,7 @@
 - pkg:maven/org.mobicents.servers.jainslee.tools/remote-slee-connection-rar@2.8.98?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.tools/remote-slee-connection-rar@2.8.99
 - pkg:maven/org.mobicents.servers.jainslee.tools/remote-slee-connection-rar@2.8.99?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.tools/remote-slee-connection-rar@2.9.136
+- pkg:maven/org.mobicents.servers.jainslee.tools/remote-slee-connection-rar@2.9.136?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.tools/remote-slee-connection-rar@2.9.138
+- pkg:maven/org.mobicents.servers.jainslee.tools/remote-slee-connection-rar@2.9.138?classifier=sources

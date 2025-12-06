@@ -8,6 +8,8 @@
 - pkg:maven/com.gilt/lib-newrelic_2.11@0.0.15?classifier=sources
 - pkg:maven/com.gilt/lib-newrelic_2.11@0.0.16
 - pkg:maven/com.gilt/lib-newrelic_2.11@0.0.16?classifier=sources
+- pkg:maven/com.gilt/lib-newrelic_2.11@0.0.17
+- pkg:maven/com.gilt/lib-newrelic_2.11@0.0.17?classifier=sources
 - pkg:maven/com.gilt/lib-newrelic_2.11@0.0.5
 - pkg:maven/com.gilt/lib-newrelic_2.11@0.0.5?classifier=sources
 - pkg:maven/com.gilt/lib-newrelic_2.11@0.2.0
@@ -20,3 +22,5 @@
 - pkg:maven/com.gilt/lib-newrelic_2.11@0.3.2?classifier=sources
 - pkg:maven/com.gilt/lib-newrelic_2.11@0.4.0
 - pkg:maven/com.gilt/lib-newrelic_2.11@0.4.0?classifier=sources
+- pkg:maven/com.gilt/lib-newrelic_2.11@0.4.1
+- pkg:maven/com.gilt/lib-newrelic_2.11@0.4.1?classifier=sources

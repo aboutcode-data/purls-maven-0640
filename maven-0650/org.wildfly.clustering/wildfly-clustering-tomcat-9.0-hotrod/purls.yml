@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-9.0-hotrod@1.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-9.0-hotrod@1.0.0.Final?classifier=sources

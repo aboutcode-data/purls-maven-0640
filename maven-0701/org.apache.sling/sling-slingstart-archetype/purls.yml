@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.sling/sling-slingstart-archetype@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/sling-slingstart-archetype@1.0.0?classifier=sources
+- pkg:maven/org.apache.sling/sling-slingstart-archetype@1.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/sling-slingstart-archetype@1.0.2?classifier=sources

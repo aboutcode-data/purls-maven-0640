@@ -1,0 +1,14 @@
+- pkg:maven/com.datathings/greycat-generator@10
+- pkg:maven/com.datathings/greycat-generator@10?classifier=sources
+- pkg:maven/com.datathings/greycat-generator@8
+- pkg:maven/com.datathings/greycat-generator@8.1
+- pkg:maven/com.datathings/greycat-generator@8.1?classifier=sources
+- pkg:maven/com.datathings/greycat-generator@8.2
+- pkg:maven/com.datathings/greycat-generator@8.2?classifier=sources
+- pkg:maven/com.datathings/greycat-generator@8.3
+- pkg:maven/com.datathings/greycat-generator@8.3?classifier=sources
+- pkg:maven/com.datathings/greycat-generator@8.4
+- pkg:maven/com.datathings/greycat-generator@8.4?classifier=sources
+- pkg:maven/com.datathings/greycat-generator@8?classifier=sources
+- pkg:maven/com.datathings/greycat-generator@9
+- pkg:maven/com.datathings/greycat-generator@9?classifier=sources

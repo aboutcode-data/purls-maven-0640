@@ -8,3 +8,13 @@
 - pkg:maven/com.agapsys/agreste-core@0.1.0-20170508?classifier=sources
 - pkg:maven/com.agapsys/agreste-core@0.1.0-20170513
 - pkg:maven/com.agapsys/agreste-core@0.1.0-20170513?classifier=sources
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170526
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170526?classifier=sources
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170527
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170527?classifier=sources
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170528
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170528?classifier=sources
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170604
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170604?classifier=sources
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170606
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170606?classifier=sources

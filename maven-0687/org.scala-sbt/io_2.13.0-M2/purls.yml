@@ -1,0 +1,4 @@
+- pkg:maven/org.scala-sbt/io_2.13.0-M2@1.1.1
+- pkg:maven/org.scala-sbt/io_2.13.0-M2@1.1.1?classifier=sources
+- pkg:maven/org.scala-sbt/io_2.13.0-M2@1.1.2
+- pkg:maven/org.scala-sbt/io_2.13.0-M2@1.1.2?classifier=sources

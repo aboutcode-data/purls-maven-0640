@@ -5,3 +5,11 @@
 - pkg:maven/org.apache.juneau/juneau-all@6.1.0-incubating?classifier=sources
 - pkg:maven/org.apache.juneau/juneau-all@6.2.0-incubating
 - pkg:maven/org.apache.juneau/juneau-all@6.2.0-incubating?classifier=sources
+- pkg:maven/org.apache.juneau/juneau-all@6.3.0-incubating
+- pkg:maven/org.apache.juneau/juneau-all@6.3.0-incubating?classifier=sources
+- pkg:maven/org.apache.juneau/juneau-all@6.3.1-incubating
+- pkg:maven/org.apache.juneau/juneau-all@6.3.1-incubating?classifier=sources
+- pkg:maven/org.apache.juneau/juneau-all@6.4.0-incubating
+- pkg:maven/org.apache.juneau/juneau-all@6.4.0-incubating?classifier=sources
+- pkg:maven/org.apache.juneau/juneau-all@7.0.0
+- pkg:maven/org.apache.juneau/juneau-all@7.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.sakaiproject.rsf/sakai-rsf-web-evolvers@11.2?classifier=sources
 - pkg:maven/org.sakaiproject.rsf/sakai-rsf-web-evolvers@11.3
 - pkg:maven/org.sakaiproject.rsf/sakai-rsf-web-evolvers@11.3?classifier=sources
+- pkg:maven/org.sakaiproject.rsf/sakai-rsf-web-evolvers@11.4
+- pkg:maven/org.sakaiproject.rsf/sakai-rsf-web-evolvers@11.4?classifier=sources

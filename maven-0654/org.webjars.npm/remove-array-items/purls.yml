@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/remove-array-items@1.0.0
+- pkg:maven/org.webjars.npm/remove-array-items@1.0.0?classifier=sources

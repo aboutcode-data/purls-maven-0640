@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flex.flexjs.framework/flexjs-simple-application-pure-swf-archetype@0.8.0
+- pkg:maven/org.apache.flex.flexjs.framework/flexjs-simple-application-pure-swf-archetype@0.8.0?classifier=sources

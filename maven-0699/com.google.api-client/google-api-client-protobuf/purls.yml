@@ -14,3 +14,5 @@
 - pkg:maven/com.google.api-client/google-api-client-protobuf@1.21.0?classifier=sources
 - pkg:maven/com.google.api-client/google-api-client-protobuf@1.22.0
 - pkg:maven/com.google.api-client/google-api-client-protobuf@1.22.0?classifier=sources
+- pkg:maven/com.google.api-client/google-api-client-protobuf@1.23.0
+- pkg:maven/com.google.api-client/google-api-client-protobuf@1.23.0?classifier=sources

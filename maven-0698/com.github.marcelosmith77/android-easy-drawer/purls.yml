@@ -1,2 +1,6 @@
 - pkg:maven/com.github.marcelosmith77/android-easy-drawer@1.00.00?classifier=sources
 - pkg:maven/com.github.marcelosmith77/android-easy-drawer@1.00.00?type=aar
+- pkg:maven/com.github.marcelosmith77/android-easy-drawer@1.00.02?classifier=sources
+- pkg:maven/com.github.marcelosmith77/android-easy-drawer@1.00.02?type=aar
+- pkg:maven/com.github.marcelosmith77/android-easy-drawer@1.00.03?classifier=sources
+- pkg:maven/com.github.marcelosmith77/android-easy-drawer@1.00.03?type=aar

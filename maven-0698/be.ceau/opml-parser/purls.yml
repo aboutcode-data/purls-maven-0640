@@ -1,0 +1,8 @@
+- pkg:maven/be.ceau/opml-parser@0.1.1
+- pkg:maven/be.ceau/opml-parser@0.1.1?classifier=sources
+- pkg:maven/be.ceau/opml-parser@1.0.0
+- pkg:maven/be.ceau/opml-parser@1.0.0?classifier=sources
+- pkg:maven/be.ceau/opml-parser@1.1.0
+- pkg:maven/be.ceau/opml-parser@1.1.0?classifier=sources
+- pkg:maven/be.ceau/opml-parser@2.0.0
+- pkg:maven/be.ceau/opml-parser@2.0.0?classifier=sources

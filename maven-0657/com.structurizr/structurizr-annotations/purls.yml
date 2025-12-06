@@ -1,0 +1,2 @@
+- pkg:maven/com.structurizr/structurizr-annotations@1.0.0-RC4
+- pkg:maven/com.structurizr/structurizr-annotations@1.0.0-RC4?classifier=sources

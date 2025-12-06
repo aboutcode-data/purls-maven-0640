@@ -32,3 +32,5 @@
 - pkg:maven/com.cloudesire/tisana4j@0.0.30?classifier=sources
 - pkg:maven/com.cloudesire/tisana4j@0.0.31
 - pkg:maven/com.cloudesire/tisana4j@0.0.31?classifier=sources
+- pkg:maven/com.cloudesire/tisana4j@1.0.0
+- pkg:maven/com.cloudesire/tisana4j@1.0.0?classifier=sources

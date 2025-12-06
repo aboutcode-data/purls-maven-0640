@@ -20,3 +20,5 @@
 - pkg:maven/de.pfabulist.kleinod/frex@0.7.4
 - pkg:maven/de.pfabulist.kleinod/frex@0.7.4?classifier=sources
 - pkg:maven/de.pfabulist.kleinod/frex@0.7?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/frex@0.8
+- pkg:maven/de.pfabulist.kleinod/frex@0.8?classifier=sources

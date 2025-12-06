@@ -2,3 +2,5 @@
 - pkg:maven/com.outworkers/util_2.11@0.25.0?classifier=sources
 - pkg:maven/com.outworkers/util_2.11@0.26.1
 - pkg:maven/com.outworkers/util_2.11@0.26.1?classifier=sources
+- pkg:maven/com.outworkers/util_2.11@0.35.0
+- pkg:maven/com.outworkers/util_2.11@0.35.0?classifier=sources

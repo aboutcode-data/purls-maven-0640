@@ -12,3 +12,5 @@
 - pkg:maven/org.tros/l2fprod-properties-editor@1.0?classifier=sources
 - pkg:maven/org.tros/l2fprod-properties-editor@1.1.0
 - pkg:maven/org.tros/l2fprod-properties-editor@1.1.0?classifier=sources
+- pkg:maven/org.tros/l2fprod-properties-editor@1.2.0
+- pkg:maven/org.tros/l2fprod-properties-editor@1.2.0?classifier=sources

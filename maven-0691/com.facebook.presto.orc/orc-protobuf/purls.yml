@@ -2,3 +2,11 @@
 - pkg:maven/com.facebook.presto.orc/orc-protobuf@1?classifier=sources
 - pkg:maven/com.facebook.presto.orc/orc-protobuf@2
 - pkg:maven/com.facebook.presto.orc/orc-protobuf@2?classifier=sources
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@3
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@3?classifier=sources
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@4
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@4?classifier=sources
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@5
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@5?classifier=sources
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@6
+- pkg:maven/com.facebook.presto.orc/orc-protobuf@6?classifier=sources

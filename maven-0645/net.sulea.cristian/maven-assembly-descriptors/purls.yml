@@ -7,3 +7,5 @@
 - pkg:maven/net.sulea.cristian/maven-assembly-descriptors@1.3.4
 - pkg:maven/net.sulea.cristian/maven-assembly-descriptors@1.4.0
 - pkg:maven/net.sulea.cristian/maven-assembly-descriptors@2.0
+- pkg:maven/net.sulea.cristian/maven-assembly-descriptors@2.2
+- pkg:maven/net.sulea.cristian/maven-assembly-descriptors@2.4

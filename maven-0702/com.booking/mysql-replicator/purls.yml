@@ -1,0 +1,2 @@
+- pkg:maven/com.booking/mysql-replicator@0.14.2
+- pkg:maven/com.booking/mysql-replicator@0.14.2?classifier=sources

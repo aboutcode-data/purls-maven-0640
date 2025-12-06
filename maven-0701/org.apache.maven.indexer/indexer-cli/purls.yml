@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.maven.indexer/indexer-cli@5.1.2-816025a?classifier=sources
 - pkg:maven/org.apache.maven.indexer/indexer-cli@5.1.2-ea1205e
 - pkg:maven/org.apache.maven.indexer/indexer-cli@5.1.2-ea1205e?classifier=sources
+- pkg:maven/org.apache.maven.indexer/indexer-cli@6.0.0
+- pkg:maven/org.apache.maven.indexer/indexer-cli@6.0.0?classifier=sources

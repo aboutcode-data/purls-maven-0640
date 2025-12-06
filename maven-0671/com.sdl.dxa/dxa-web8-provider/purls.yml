@@ -10,3 +10,5 @@
 - pkg:maven/com.sdl.dxa/dxa-web8-provider@1.6.0?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-web8-provider@1.7.0
 - pkg:maven/com.sdl.dxa/dxa-web8-provider@1.7.0?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-web8-provider@1.8.0
+- pkg:maven/com.sdl.dxa/dxa-web8-provider@1.8.0?classifier=sources

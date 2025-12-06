@@ -1,0 +1,2 @@
+- pkg:maven/com.okta.spring/okta-spring-security-starter@0.1.0
+- pkg:maven/com.okta.spring/okta-spring-security-starter@0.1.0?classifier=sources

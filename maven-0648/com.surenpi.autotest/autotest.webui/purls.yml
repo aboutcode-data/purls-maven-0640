@@ -1,0 +1,4 @@
+- pkg:maven/com.surenpi.autotest/autotest.webui@1.0.0-20170706
+- pkg:maven/com.surenpi.autotest/autotest.webui@1.0.0-20170706?classifier=sources
+- pkg:maven/com.surenpi.autotest/autotest.webui@1.0.0-20170722
+- pkg:maven/com.surenpi.autotest/autotest.webui@1.0.0-20170722?classifier=sources

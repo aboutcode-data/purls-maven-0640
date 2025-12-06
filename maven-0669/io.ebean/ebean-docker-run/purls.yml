@@ -1,0 +1,4 @@
+- pkg:maven/io.ebean/ebean-docker-run@1.1.1
+- pkg:maven/io.ebean/ebean-docker-run@1.1.1?classifier=sources
+- pkg:maven/io.ebean/ebean-docker-run@1.2.1
+- pkg:maven/io.ebean/ebean-docker-run@1.2.1?classifier=sources

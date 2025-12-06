@@ -1,0 +1,4 @@
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.transport.rest.okhttp@0.1.0
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.transport.rest.okhttp@0.1.0?classifier=sources
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.transport.rest.okhttp@1.0.0
+- pkg:maven/com.commsen.wedeploy/com.commsen.wedeploy.transport.rest.okhttp@1.0.0?classifier=sources

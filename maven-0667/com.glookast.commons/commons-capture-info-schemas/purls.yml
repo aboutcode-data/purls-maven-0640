@@ -1,0 +1,4 @@
+- pkg:maven/com.glookast.commons/commons-capture-info-schemas@1.0.0
+- pkg:maven/com.glookast.commons/commons-capture-info-schemas@1.0.0?classifier=sources
+- pkg:maven/com.glookast.commons/commons-capture-info-schemas@1.1.0
+- pkg:maven/com.glookast.commons/commons-capture-info-schemas@1.1.0?classifier=sources

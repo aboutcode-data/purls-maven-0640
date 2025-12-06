@@ -10,3 +10,7 @@
 - pkg:maven/org.marid/marid-runtime@0.9.5.1?classifier=sources
 - pkg:maven/org.marid/marid-runtime@0.9.5.2
 - pkg:maven/org.marid/marid-runtime@0.9.5.2?classifier=sources
+- pkg:maven/org.marid/marid-runtime@0.9.6.1
+- pkg:maven/org.marid/marid-runtime@0.9.6.1?classifier=sources
+- pkg:maven/org.marid/marid-runtime@0.9.6.3
+- pkg:maven/org.marid/marid-runtime@0.9.6.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/org.wso2.carbon.identity.authenticator.iwa.ui@5.1.6
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/org.wso2.carbon.identity.authenticator.iwa.ui@5.1.6?classifier=sources

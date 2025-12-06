@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/phantomjs-polyfill-object-assign@0.0.2
+- pkg:maven/org.webjars.npm/phantomjs-polyfill-object-assign@0.0.2?classifier=sources

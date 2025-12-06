@@ -15,3 +15,5 @@
 - pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.2.1.MULTI-RESOURCES?classifier=sources
 - pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.2.2.MULTI-RESOURCES
 - pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.2.2.MULTI-RESOURCES?classifier=sources
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.2.3.MULTI-RESOURCES
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.2.3.MULTI-RESOURCES?classifier=sources

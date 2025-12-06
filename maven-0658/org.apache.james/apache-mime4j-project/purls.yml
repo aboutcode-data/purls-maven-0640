@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.james/apache-mime4j-project@0.7.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.james/apache-mime4j-project@0.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.james/apache-mime4j-project@0.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.james/apache-mime4j-project@0.8.1?classifier=source-release&type=zip

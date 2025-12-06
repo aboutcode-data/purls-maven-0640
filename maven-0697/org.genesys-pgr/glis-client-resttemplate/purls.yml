@@ -1,0 +1,2 @@
+- pkg:maven/org.genesys-pgr/glis-client-resttemplate@1.0
+- pkg:maven/org.genesys-pgr/glis-client-resttemplate@1.0?classifier=sources

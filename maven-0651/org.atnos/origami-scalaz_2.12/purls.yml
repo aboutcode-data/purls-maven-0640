@@ -1,0 +1,4 @@
+- pkg:maven/org.atnos/origami-scalaz_2.12@4.0.8
+- pkg:maven/org.atnos/origami-scalaz_2.12@4.0.8?classifier=sources
+- pkg:maven/org.atnos/origami-scalaz_2.12@4.0.9
+- pkg:maven/org.atnos/origami-scalaz_2.12@4.0.9?classifier=sources

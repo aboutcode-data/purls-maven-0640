@@ -104,6 +104,8 @@
 - pkg:maven/org.apache.servicemix.examples/camel-blueprint@6.1.2?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/camel-blueprint@6.1.3
 - pkg:maven/org.apache.servicemix.examples/camel-blueprint@6.1.3?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-blueprint@6.1.4
+- pkg:maven/org.apache.servicemix.examples/camel-blueprint@6.1.4?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/camel-blueprint@7.0.0
 - pkg:maven/org.apache.servicemix.examples/camel-blueprint@7.0.0.M1
 - pkg:maven/org.apache.servicemix.examples/camel-blueprint@7.0.0.M1?classifier=sources
@@ -112,3 +114,5 @@
 - pkg:maven/org.apache.servicemix.examples/camel-blueprint@7.0.0.M3
 - pkg:maven/org.apache.servicemix.examples/camel-blueprint@7.0.0.M3?classifier=sources
 - pkg:maven/org.apache.servicemix.examples/camel-blueprint@7.0.0?classifier=sources
+- pkg:maven/org.apache.servicemix.examples/camel-blueprint@7.0.1
+- pkg:maven/org.apache.servicemix.examples/camel-blueprint@7.0.1?classifier=sources

@@ -5,4 +5,6 @@
 - pkg:maven/tec.units/unit-tck@0.9
 - pkg:maven/tec.units/unit-tck@0.9?classifier=sources
 - pkg:maven/tec.units/unit-tck@1.0
+- pkg:maven/tec.units/unit-tck@1.0.1
+- pkg:maven/tec.units/unit-tck@1.0.1?classifier=sources
 - pkg:maven/tec.units/unit-tck@1.0?classifier=sources

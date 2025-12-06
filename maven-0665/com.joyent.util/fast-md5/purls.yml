@@ -1,0 +1,2 @@
+- pkg:maven/com.joyent.util/fast-md5@2.7.1
+- pkg:maven/com.joyent.util/fast-md5@2.7.1?classifier=sources

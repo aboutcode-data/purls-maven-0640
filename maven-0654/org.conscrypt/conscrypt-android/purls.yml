@@ -1,3 +1,11 @@
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC10?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC10?type=aar
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC11?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC11?type=aar
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC13?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC13?type=aar
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC14?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC14?type=aar
 - pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC2?classifier=sources
 - pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC2?type=aar
 - pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC3?classifier=sources
@@ -10,3 +18,7 @@
 - pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC6?type=aar
 - pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC7?classifier=sources
 - pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC7?type=aar
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC8?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC8?type=aar
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC9?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-android@1.0.0.RC9?type=aar

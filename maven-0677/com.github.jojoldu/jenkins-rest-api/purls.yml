@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jojoldu/jenkins-rest-api@0.0.1
+- pkg:maven/com.github.jojoldu/jenkins-rest-api@0.0.1?classifier=sources

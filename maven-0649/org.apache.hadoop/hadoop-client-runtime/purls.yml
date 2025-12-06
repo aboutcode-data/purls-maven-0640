@@ -1,1 +1,5 @@
+- pkg:maven/org.apache.hadoop/hadoop-client-runtime@3.0.0
 - pkg:maven/org.apache.hadoop/hadoop-client-runtime@3.0.0-alpha2
+- pkg:maven/org.apache.hadoop/hadoop-client-runtime@3.0.0-alpha3
+- pkg:maven/org.apache.hadoop/hadoop-client-runtime@3.0.0-alpha4
+- pkg:maven/org.apache.hadoop/hadoop-client-runtime@3.0.0-beta1

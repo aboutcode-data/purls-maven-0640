@@ -28,3 +28,7 @@
 - pkg:maven/org.webjars.bower/angularjs-slider@5.8.7?classifier=sources
 - pkg:maven/org.webjars.bower/angularjs-slider@6.1.2
 - pkg:maven/org.webjars.bower/angularjs-slider@6.1.2?classifier=sources
+- pkg:maven/org.webjars.bower/angularjs-slider@6.2.2
+- pkg:maven/org.webjars.bower/angularjs-slider@6.2.2?classifier=sources
+- pkg:maven/org.webjars.bower/angularjs-slider@6.4.0
+- pkg:maven/org.webjars.bower/angularjs-slider@6.4.0?classifier=sources

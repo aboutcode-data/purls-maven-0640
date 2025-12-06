@@ -1,2 +1,6 @@
 - pkg:maven/uk.co.szmg.grafana/domain-generator-maven-plugin@1.0.0
 - pkg:maven/uk.co.szmg.grafana/domain-generator-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/uk.co.szmg.grafana/domain-generator-maven-plugin@1.1.0
+- pkg:maven/uk.co.szmg.grafana/domain-generator-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/uk.co.szmg.grafana/domain-generator-maven-plugin@2.0.0
+- pkg:maven/uk.co.szmg.grafana/domain-generator-maven-plugin@2.0.0?classifier=sources

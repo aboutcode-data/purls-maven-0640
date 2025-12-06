@@ -4,3 +4,13 @@
 - pkg:maven/org.flowable/flowable-ui-idm-app@6.0.0?type=war
 - pkg:maven/org.flowable/flowable-ui-idm-app@6.0.1?classifier=sources
 - pkg:maven/org.flowable/flowable-ui-idm-app@6.0.1?type=war
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.1.0?classifier=sources
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.1.0?type=war
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.1.1?classifier=sources
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.1.1?type=war
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.1.2?classifier=sources
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.1.2?type=war
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.2.0?classifier=sources
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.2.0?type=war
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.2.1?classifier=sources
+- pkg:maven/org.flowable/flowable-ui-idm-app@6.2.1?type=war

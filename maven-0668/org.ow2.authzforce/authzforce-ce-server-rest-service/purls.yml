@@ -18,3 +18,9 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-rest-service@6.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-rest-service@7.0.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-server-rest-service@7.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-server-rest-service@7.1.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-server-rest-service@7.1.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-server-rest-service@8.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-server-rest-service@8.0.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-server-rest-service@8.0.1
+- pkg:maven/org.ow2.authzforce/authzforce-ce-server-rest-service@8.0.1?classifier=sources

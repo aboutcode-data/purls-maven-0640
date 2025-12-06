@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/semanticdb-sbt_2.10.6@0.4.0
+- pkg:maven/org.scalameta/semanticdb-sbt_2.10.6@0.4.0?classifier=sources

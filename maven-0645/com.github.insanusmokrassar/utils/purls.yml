@@ -1,0 +1,2 @@
+- pkg:maven/com.github.insanusmokrassar/utils@0.6.7
+- pkg:maven/com.github.insanusmokrassar/utils@0.6.7?classifier=sources

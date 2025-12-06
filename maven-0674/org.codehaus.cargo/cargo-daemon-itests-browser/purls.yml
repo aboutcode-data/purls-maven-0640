@@ -27,3 +27,5 @@
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-browser@1.6.1
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-browser@1.6.2
 - pkg:maven/org.codehaus.cargo/cargo-daemon-itests-browser@1.6.3
+- pkg:maven/org.codehaus.cargo/cargo-daemon-itests-browser@1.6.4
+- pkg:maven/org.codehaus.cargo/cargo-daemon-itests-browser@1.6.5

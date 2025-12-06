@@ -154,3 +154,15 @@
 - pkg:maven/de.ruedigermoeller/fst@2.49?classifier=sources
 - pkg:maven/de.ruedigermoeller/fst@2.50
 - pkg:maven/de.ruedigermoeller/fst@2.50?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@2.51
+- pkg:maven/de.ruedigermoeller/fst@2.51?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@2.52
+- pkg:maven/de.ruedigermoeller/fst@2.52?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@2.53
+- pkg:maven/de.ruedigermoeller/fst@2.53?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@2.54
+- pkg:maven/de.ruedigermoeller/fst@2.54?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@2.55
+- pkg:maven/de.ruedigermoeller/fst@2.55?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@2.56
+- pkg:maven/de.ruedigermoeller/fst@2.56?classifier=sources

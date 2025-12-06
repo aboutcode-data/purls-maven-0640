@@ -16,3 +16,9 @@
 - pkg:maven/org.yamcs/yamcs-api@3.2.1?classifier=sources
 - pkg:maven/org.yamcs/yamcs-api@3.2.2
 - pkg:maven/org.yamcs/yamcs-api@3.2.2?classifier=sources
+- pkg:maven/org.yamcs/yamcs-api@3.3.0
+- pkg:maven/org.yamcs/yamcs-api@3.3.0?classifier=sources
+- pkg:maven/org.yamcs/yamcs-api@3.3.1
+- pkg:maven/org.yamcs/yamcs-api@3.3.1?classifier=sources
+- pkg:maven/org.yamcs/yamcs-api@3.4.0
+- pkg:maven/org.yamcs/yamcs-api@3.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.eurodyn.qlack2.util/qlack2-util-db-check-oracle@2.2.3
+- pkg:maven/com.eurodyn.qlack2.util/qlack2-util-db-check-oracle@2.2.3?classifier=sources

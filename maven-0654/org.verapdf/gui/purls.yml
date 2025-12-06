@@ -22,3 +22,11 @@
 - pkg:maven/org.verapdf/gui@1.4.6-PDFBOX
 - pkg:maven/org.verapdf/gui@1.4.6-PDFBOX?classifier=sources
 - pkg:maven/org.verapdf/gui@1.4.6?classifier=sources
+- pkg:maven/org.verapdf/gui@1.4.7
+- pkg:maven/org.verapdf/gui@1.4.7-PDFBOX
+- pkg:maven/org.verapdf/gui@1.4.7-PDFBOX?classifier=sources
+- pkg:maven/org.verapdf/gui@1.4.7?classifier=sources
+- pkg:maven/org.verapdf/gui@1.6.3
+- pkg:maven/org.verapdf/gui@1.6.3?classifier=sources
+- pkg:maven/org.verapdf/gui@1.6.4-PDFBOX
+- pkg:maven/org.verapdf/gui@1.6.4-PDFBOX?classifier=sources

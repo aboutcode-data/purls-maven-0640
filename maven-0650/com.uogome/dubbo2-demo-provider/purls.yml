@@ -1,0 +1,2 @@
+- pkg:maven/com.uogome/dubbo2-demo-provider@1.0?classifier=sources
+- pkg:maven/com.uogome/dubbo2-demo-provider@1.0?type=war

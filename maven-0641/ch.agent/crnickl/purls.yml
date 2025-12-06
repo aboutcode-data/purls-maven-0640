@@ -4,3 +4,5 @@
 - pkg:maven/ch.agent/crnickl@1.2.0?classifier=sources
 - pkg:maven/ch.agent/crnickl@1.2.1
 - pkg:maven/ch.agent/crnickl@1.2.1?classifier=sources
+- pkg:maven/ch.agent/crnickl@2.0.0
+- pkg:maven/ch.agent/crnickl@2.0.0?classifier=sources

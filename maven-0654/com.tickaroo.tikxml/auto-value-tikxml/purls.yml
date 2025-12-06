@@ -1,0 +1,2 @@
+- pkg:maven/com.tickaroo.tikxml/auto-value-tikxml@0.8.13
+- pkg:maven/com.tickaroo.tikxml/auto-value-tikxml@0.8.13?classifier=sources

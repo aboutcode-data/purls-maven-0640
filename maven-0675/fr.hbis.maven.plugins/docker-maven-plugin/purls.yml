@@ -1,0 +1,2 @@
+- pkg:maven/fr.hbis.maven.plugins/docker-maven-plugin@0.2.0
+- pkg:maven/fr.hbis.maven.plugins/docker-maven-plugin@0.2.0?classifier=sources

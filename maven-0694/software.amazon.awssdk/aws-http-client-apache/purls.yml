@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/aws-http-client-apache@2.0.0-preview-1
+- pkg:maven/software.amazon.awssdk/aws-http-client-apache@2.0.0-preview-1?classifier=sources

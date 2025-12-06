@@ -18,3 +18,7 @@
 - pkg:maven/com.jtransc.gdx/gdx-backend-jtransc@0.3.3?classifier=sources
 - pkg:maven/com.jtransc.gdx/gdx-backend-jtransc@0.5.0
 - pkg:maven/com.jtransc.gdx/gdx-backend-jtransc@0.5.0?classifier=sources
+- pkg:maven/com.jtransc.gdx/gdx-backend-jtransc@0.6.2
+- pkg:maven/com.jtransc.gdx/gdx-backend-jtransc@0.6.2?classifier=sources
+- pkg:maven/com.jtransc.gdx/gdx-backend-jtransc@0.6.7
+- pkg:maven/com.jtransc.gdx/gdx-backend-jtransc@0.6.7?classifier=sources

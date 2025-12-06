@@ -1,2 +1,6 @@
 - pkg:maven/cc.renken/pipeio@0.3.0
 - pkg:maven/cc.renken/pipeio@0.3.0?classifier=sources
+- pkg:maven/cc.renken/pipeio@0.5.0
+- pkg:maven/cc.renken/pipeio@0.5.0?classifier=sources
+- pkg:maven/cc.renken/pipeio@0.6.0
+- pkg:maven/cc.renken/pipeio@0.6.0?classifier=sources

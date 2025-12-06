@@ -1,0 +1,16 @@
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.0.0-SNAPSHIT
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.0.0-SNAPSHIT?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.7.0
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.7.0?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.8.0
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.8.0?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.9.0
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.9.0?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.9.1
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.9.1?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.9.2
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.9.2?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.9.3
+- pkg:maven/com.mcxiaoke.packer-ng/cli@1.9.3?classifier=sources
+- pkg:maven/com.mcxiaoke.packer-ng/cli@2.0.0
+- pkg:maven/com.mcxiaoke.packer-ng/cli@2.0.0?classifier=sources

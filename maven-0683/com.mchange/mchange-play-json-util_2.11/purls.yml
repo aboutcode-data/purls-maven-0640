@@ -1,0 +1,2 @@
+- pkg:maven/com.mchange/mchange-play-json-util_2.11@0.0.1
+- pkg:maven/com.mchange/mchange-play-json-util_2.11@0.0.1?classifier=sources

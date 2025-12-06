@@ -1,0 +1,2 @@
+- pkg:maven/com.github.equella.reporting/reporting-common@6.5
+- pkg:maven/com.github.equella.reporting/reporting-common@6.5?classifier=sources

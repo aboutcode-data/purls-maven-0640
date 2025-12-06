@@ -1,4 +1,5 @@
 - pkg:maven/org.apache.struts/struts-master@10?classifier=source-release&type=zip
+- pkg:maven/org.apache.struts/struts-master@11?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts-master@7?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts-master@8?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts-master@9?classifier=source-release&type=zip

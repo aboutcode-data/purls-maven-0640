@@ -1,0 +1,2 @@
+- pkg:maven/com.apmvista.agent.android/tracing-maven-plugin@0.1.9
+- pkg:maven/com.apmvista.agent.android/tracing-maven-plugin@1.0.0

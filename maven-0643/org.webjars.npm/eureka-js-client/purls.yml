@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/eureka-js-client@4.3.0
+- pkg:maven/org.webjars.npm/eureka-js-client@4.3.0?classifier=sources

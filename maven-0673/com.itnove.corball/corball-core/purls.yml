@@ -2,3 +2,7 @@
 - pkg:maven/com.itnove.corball/corball-core@17.05.12?classifier=sources
 - pkg:maven/com.itnove.corball/corball-core@17.05.17
 - pkg:maven/com.itnove.corball/corball-core@17.05.17?classifier=sources
+- pkg:maven/com.itnove.corball/corball-core@17.05.24
+- pkg:maven/com.itnove.corball/corball-core@17.05.24?classifier=sources
+- pkg:maven/com.itnove.corball/corball-core@17.06.26
+- pkg:maven/com.itnove.corball/corball-core@17.06.26?classifier=sources

@@ -6,3 +6,13 @@
 - pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.75?classifier=sources
 - pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.77.6
 - pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.77.6?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.82
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.82?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.84
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.84.1
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.84.1?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.84?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.89.1
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.89.1?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.91.1
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.91.1?classifier=sources

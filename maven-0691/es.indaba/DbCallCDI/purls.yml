@@ -12,3 +12,7 @@
 - pkg:maven/es.indaba/DbCallCDI@1.5?classifier=sources
 - pkg:maven/es.indaba/DbCallCDI@1.6
 - pkg:maven/es.indaba/DbCallCDI@1.6?classifier=sources
+- pkg:maven/es.indaba/DbCallCDI@1.7
+- pkg:maven/es.indaba/DbCallCDI@1.7?classifier=sources
+- pkg:maven/es.indaba/DbCallCDI@1.8
+- pkg:maven/es.indaba/DbCallCDI@1.8?classifier=sources

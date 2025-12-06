@@ -4,3 +4,11 @@
 - pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.2.3?classifier=sources
 - pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.2.4?classifier=sources
 - pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.3.0?classifier=sources
+- pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.4.0
+- pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.4.0?classifier=sources
+- pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.4.1
+- pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.4.1?classifier=sources
+- pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.5.0
+- pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.5.0?classifier=sources
+- pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.6.0
+- pkg:maven/com.gluonhq/charm-down-plugin-push-notifications-android@3.6.0?classifier=sources

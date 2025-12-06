@@ -1,0 +1,2 @@
+- pkg:maven/com.harium.etyl.networking/networking-image@1.0.2
+- pkg:maven/com.harium.etyl.networking/networking-image@1.0.2?classifier=sources

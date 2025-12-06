@@ -4,3 +4,5 @@
 - pkg:maven/org.querki/shocon_sjs0.6_2.11@0.2?classifier=sources
 - pkg:maven/org.querki/shocon_sjs0.6_2.11@0.3
 - pkg:maven/org.querki/shocon_sjs0.6_2.11@0.3?classifier=sources
+- pkg:maven/org.querki/shocon_sjs0.6_2.11@0.4
+- pkg:maven/org.querki/shocon_sjs0.6_2.11@0.4?classifier=sources

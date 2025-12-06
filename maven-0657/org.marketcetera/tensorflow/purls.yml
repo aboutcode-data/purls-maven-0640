@@ -1,0 +1,2 @@
+- pkg:maven/org.marketcetera/tensorflow@3.0.12
+- pkg:maven/org.marketcetera/tensorflow@3.0.12?classifier=sources

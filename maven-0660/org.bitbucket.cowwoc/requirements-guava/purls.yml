@@ -6,6 +6,10 @@
 - pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.10?classifier=sources
 - pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.11
 - pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.11?classifier=sources
+- pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.12
+- pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.12?classifier=sources
+- pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.13
+- pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.13?classifier=sources
 - pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.2-RC
 - pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.2-RC?classifier=sources
 - pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.3-RC
@@ -22,3 +26,5 @@
 - pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.8?classifier=sources
 - pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.9
 - pkg:maven/org.bitbucket.cowwoc/requirements-guava@3.0.9?classifier=sources
+- pkg:maven/org.bitbucket.cowwoc/requirements-guava@4.0.0-RC
+- pkg:maven/org.bitbucket.cowwoc/requirements-guava@4.0.0-RC?classifier=sources

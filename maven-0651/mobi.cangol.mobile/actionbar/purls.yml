@@ -1,3 +1,9 @@
+- pkg:maven/mobi.cangol.mobile/actionbar@1.0.13?classifier=sources
+- pkg:maven/mobi.cangol.mobile/actionbar@1.0.13?type=aar
+- pkg:maven/mobi.cangol.mobile/actionbar@1.0.15?classifier=sources
+- pkg:maven/mobi.cangol.mobile/actionbar@1.0.15?type=aar
+- pkg:maven/mobi.cangol.mobile/actionbar@1.0.19?classifier=sources
+- pkg:maven/mobi.cangol.mobile/actionbar@1.0.19?type=aar
 - pkg:maven/mobi.cangol.mobile/actionbar@1.0.2?classifier=sources
 - pkg:maven/mobi.cangol.mobile/actionbar@1.0.2?type=aar
 - pkg:maven/mobi.cangol.mobile/actionbar@1.0.5?classifier=sources

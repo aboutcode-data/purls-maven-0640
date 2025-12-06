@@ -10,6 +10,8 @@
 - pkg:maven/net.named-data/jndn@0.14?classifier=sources
 - pkg:maven/net.named-data/jndn@0.15
 - pkg:maven/net.named-data/jndn@0.15?classifier=sources
+- pkg:maven/net.named-data/jndn@0.16
+- pkg:maven/net.named-data/jndn@0.16?classifier=sources
 - pkg:maven/net.named-data/jndn@0.2
 - pkg:maven/net.named-data/jndn@0.2?classifier=sources
 - pkg:maven/net.named-data/jndn@0.3

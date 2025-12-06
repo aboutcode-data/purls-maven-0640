@@ -1,0 +1,4 @@
+- pkg:maven/com.github.spring-social/spring-social-google@1.1.3
+- pkg:maven/com.github.spring-social/spring-social-google@1.1.3-rc1
+- pkg:maven/com.github.spring-social/spring-social-google@1.1.3-rc1?classifier=sources
+- pkg:maven/com.github.spring-social/spring-social-google@1.1.3?classifier=sources

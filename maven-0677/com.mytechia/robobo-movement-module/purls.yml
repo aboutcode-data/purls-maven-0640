@@ -12,3 +12,5 @@
 - pkg:maven/com.mytechia/robobo-movement-module@0.3.0?type=aar
 - pkg:maven/com.mytechia/robobo-movement-module@0.3.1?classifier=sources
 - pkg:maven/com.mytechia/robobo-movement-module@0.3.1?type=aar
+- pkg:maven/com.mytechia/robobo-movement-module@0.3.2?classifier=sources
+- pkg:maven/com.mytechia/robobo-movement-module@0.3.2?type=aar

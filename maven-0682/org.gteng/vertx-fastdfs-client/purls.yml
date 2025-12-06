@@ -1,0 +1,2 @@
+- pkg:maven/org.gteng/vertx-fastdfs-client@3.5.0
+- pkg:maven/org.gteng/vertx-fastdfs-client@3.5.0?classifier=sources

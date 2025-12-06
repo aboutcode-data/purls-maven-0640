@@ -7,4 +7,12 @@
 - pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.0.31.03?classifier=sources
 - pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.0.31.04
 - pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.0.31.04?classifier=sources
+- pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.0.31.05
+- pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.0.31.05?classifier=sources
+- pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.0.31.06
+- pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.0.31.06?classifier=sources
 - pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.0.31?classifier=sources
+- pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.1.0
+- pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.1.0?classifier=sources
+- pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.2
+- pkg:maven/com.cuisongliu/druid-spring-boot-autoconfigure@1.2?classifier=sources

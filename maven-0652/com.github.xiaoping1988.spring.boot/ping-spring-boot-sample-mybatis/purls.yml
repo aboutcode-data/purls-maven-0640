@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xiaoping1988.spring.boot/ping-spring-boot-sample-mybatis@1.0.1
+- pkg:maven/com.github.xiaoping1988.spring.boot/ping-spring-boot-sample-mybatis@1.0.1?classifier=sources

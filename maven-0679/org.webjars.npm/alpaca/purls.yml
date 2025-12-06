@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/alpaca@1.5.22
 - pkg:maven/org.webjars.npm/alpaca@1.5.22?classifier=sources
+- pkg:maven/org.webjars.npm/alpaca@1.5.23
+- pkg:maven/org.webjars.npm/alpaca@1.5.23?classifier=sources

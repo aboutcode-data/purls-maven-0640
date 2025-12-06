@@ -1,0 +1,14 @@
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.14.0.674
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.14.0.674?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.15.0.797
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.15.0.797?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.16.0.843
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.16.0.843?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.17.0.899
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.17.0.899?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.18.0.1070
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@2.18.0.1070?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@3.0.0.1140
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@3.0.0.1140?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@3.0.1.1181
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-language-server@3.0.1.1181?classifier=sources

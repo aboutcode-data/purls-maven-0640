@@ -32,3 +32,13 @@
 - pkg:maven/com.sefford/kor-common@2.4.2?classifier=sources
 - pkg:maven/com.sefford/kor-common@2.4.3
 - pkg:maven/com.sefford/kor-common@2.4.3?classifier=sources
+- pkg:maven/com.sefford/kor-common@2.5.0
+- pkg:maven/com.sefford/kor-common@2.5.0?classifier=sources
+- pkg:maven/com.sefford/kor-common@2.5.1
+- pkg:maven/com.sefford/kor-common@2.5.1?classifier=sources
+- pkg:maven/com.sefford/kor-common@2.5.4
+- pkg:maven/com.sefford/kor-common@2.5.4?classifier=sources
+- pkg:maven/com.sefford/kor-common@2.5.5
+- pkg:maven/com.sefford/kor-common@2.5.5?classifier=sources
+- pkg:maven/com.sefford/kor-common@2.6.0
+- pkg:maven/com.sefford/kor-common@2.6.0?classifier=sources

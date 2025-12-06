@@ -30,3 +30,5 @@
 - pkg:maven/edu.uiuc.ncsa.security.delegation/ncsa-security-delegation-server@3.3.0.2
 - pkg:maven/edu.uiuc.ncsa.security.delegation/ncsa-security-delegation-server@3.3.0.2?classifier=sources
 - pkg:maven/edu.uiuc.ncsa.security.delegation/ncsa-security-delegation-server@3.3?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.security.delegation/ncsa-security-delegation-server@3.4
+- pkg:maven/edu.uiuc.ncsa.security.delegation/ncsa-security-delegation-server@3.4?classifier=sources

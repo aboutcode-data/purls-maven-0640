@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.javagimmicks/gimmicks-collections-jdk8@0.98
+- pkg:maven/net.sf.javagimmicks/gimmicks-collections-jdk8@0.98?classifier=sources
+- pkg:maven/net.sf.javagimmicks/gimmicks-collections-jdk8@0.99-alpha1
+- pkg:maven/net.sf.javagimmicks/gimmicks-collections-jdk8@0.99-alpha1?classifier=sources

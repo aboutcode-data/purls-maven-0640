@@ -34,6 +34,8 @@
 - pkg:maven/org.webjars.npm/systemjs@0.19.40?classifier=sources
 - pkg:maven/org.webjars.npm/systemjs@0.19.41
 - pkg:maven/org.webjars.npm/systemjs@0.19.41?classifier=sources
+- pkg:maven/org.webjars.npm/systemjs@0.19.47
+- pkg:maven/org.webjars.npm/systemjs@0.19.47?classifier=sources
 - pkg:maven/org.webjars.npm/systemjs@0.19.6
 - pkg:maven/org.webjars.npm/systemjs@0.19.6?classifier=sources
 - pkg:maven/org.webjars.npm/systemjs@0.20.0
@@ -50,6 +52,12 @@
 - pkg:maven/org.webjars.npm/systemjs@0.20.11?classifier=sources
 - pkg:maven/org.webjars.npm/systemjs@0.20.12
 - pkg:maven/org.webjars.npm/systemjs@0.20.12?classifier=sources
+- pkg:maven/org.webjars.npm/systemjs@0.20.14
+- pkg:maven/org.webjars.npm/systemjs@0.20.14?classifier=sources
+- pkg:maven/org.webjars.npm/systemjs@0.20.15
+- pkg:maven/org.webjars.npm/systemjs@0.20.15?classifier=sources
+- pkg:maven/org.webjars.npm/systemjs@0.20.19
+- pkg:maven/org.webjars.npm/systemjs@0.20.19?classifier=sources
 - pkg:maven/org.webjars.npm/systemjs@0.20.7
 - pkg:maven/org.webjars.npm/systemjs@0.20.7?classifier=sources
 - pkg:maven/org.webjars.npm/systemjs@0.20.9

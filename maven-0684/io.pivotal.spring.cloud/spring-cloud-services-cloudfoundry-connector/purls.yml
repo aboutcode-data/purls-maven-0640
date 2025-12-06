@@ -20,3 +20,7 @@
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-cloudfoundry-connector@1.4.0.RELEASE?classifier=sources
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-cloudfoundry-connector@1.4.1.RELEASE
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-cloudfoundry-connector@1.4.1.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-cloudfoundry-connector@1.5.0.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-cloudfoundry-connector@1.5.0.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-cloudfoundry-connector@1.6.0.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-cloudfoundry-connector@1.6.0.RELEASE?classifier=sources

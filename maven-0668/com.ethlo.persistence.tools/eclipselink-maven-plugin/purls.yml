@@ -4,3 +4,5 @@
 - pkg:maven/com.ethlo.persistence.tools/eclipselink-maven-plugin@2.6.4.2
 - pkg:maven/com.ethlo.persistence.tools/eclipselink-maven-plugin@2.6.4.2?classifier=sources
 - pkg:maven/com.ethlo.persistence.tools/eclipselink-maven-plugin@2.6.4?classifier=sources
+- pkg:maven/com.ethlo.persistence.tools/eclipselink-maven-plugin@2.7.0
+- pkg:maven/com.ethlo.persistence.tools/eclipselink-maven-plugin@2.7.0?classifier=sources

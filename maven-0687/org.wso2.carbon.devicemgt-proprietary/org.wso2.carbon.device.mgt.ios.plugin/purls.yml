@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.devicemgt-proprietary/org.wso2.carbon.device.mgt.ios.plugin@3.0.10
+- pkg:maven/org.wso2.carbon.devicemgt-proprietary/org.wso2.carbon.device.mgt.ios.plugin@3.0.10?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt-proprietary/org.wso2.carbon.device.mgt.ios.plugin@3.0.9
+- pkg:maven/org.wso2.carbon.devicemgt-proprietary/org.wso2.carbon.device.mgt.ios.plugin@3.0.9?classifier=sources

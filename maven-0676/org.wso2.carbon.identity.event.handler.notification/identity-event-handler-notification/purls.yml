@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/identity-event-handler-notification@1.0.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/identity-event-handler-notification@1.0.15?classifier=source-release&type=zip

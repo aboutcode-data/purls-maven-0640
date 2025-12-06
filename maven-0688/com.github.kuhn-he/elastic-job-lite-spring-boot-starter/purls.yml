@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kuhn-he/elastic-job-lite-spring-boot-starter@2.1.5
+- pkg:maven/com.github.kuhn-he/elastic-job-lite-spring-boot-starter@2.1.5?classifier=sources

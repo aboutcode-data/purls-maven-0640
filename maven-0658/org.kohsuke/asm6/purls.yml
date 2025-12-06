@@ -1,0 +1,2 @@
+- pkg:maven/org.kohsuke/asm6@6.0_BETA
+- pkg:maven/org.kohsuke/asm6@6.0_BETA?classifier=sources

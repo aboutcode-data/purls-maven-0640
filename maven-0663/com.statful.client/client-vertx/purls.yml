@@ -6,6 +6,10 @@
 - pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-12?classifier=sources
 - pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-13
 - pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-13?classifier=sources
+- pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-14
+- pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-14?classifier=sources
+- pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-15
+- pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-15?classifier=sources
 - pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-7
 - pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-7?classifier=sources
 - pkg:maven/com.statful.client/client-vertx@1.0.0-alpha-8

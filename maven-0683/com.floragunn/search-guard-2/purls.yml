@@ -130,6 +130,12 @@
 - pkg:maven/com.floragunn/search-guard-2@2.4.4.12?type=zip
 - pkg:maven/com.floragunn/search-guard-2@2.4.5.12?classifier=sources
 - pkg:maven/com.floragunn/search-guard-2@2.4.5.12?type=zip
+- pkg:maven/com.floragunn/search-guard-2@2.4.5.13?classifier=sources
+- pkg:maven/com.floragunn/search-guard-2@2.4.5.13?type=zip
+- pkg:maven/com.floragunn/search-guard-2@2.4.5.14?classifier=sources
+- pkg:maven/com.floragunn/search-guard-2@2.4.5.14?type=zip
+- pkg:maven/com.floragunn/search-guard-2@2.4.6.14?classifier=sources
+- pkg:maven/com.floragunn/search-guard-2@2.4.6.14?type=zip
 - pkg:maven/com.floragunn/search-guard-2@5.0.0-alpha4-2a?classifier=sources
 - pkg:maven/com.floragunn/search-guard-2@5.0.0-alpha4-2a?type=zip
 - pkg:maven/com.floragunn/search-guard-2@5.0.0-rc1-6a?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.1-ALPHA-2
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.1-ALPHA-2?classifier=sources
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.1-ALPHA-3
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.1-ALPHA-3?classifier=sources
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.1-ALPHA-4
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.1-ALPHA-4?classifier=sources
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.1-ALPHA-5
+- pkg:maven/no.mechatronics.sfi.fmi4j/fmi-import@0.1-ALPHA-5?classifier=sources

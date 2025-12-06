@@ -1,1 +1,2 @@
+- pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.main@1.11.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.rsa/org.apache.aries.rsa.main@1.9.0?classifier=source-release&type=zip

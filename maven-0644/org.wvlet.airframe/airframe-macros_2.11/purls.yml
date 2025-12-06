@@ -1,0 +1,2 @@
+- pkg:maven/org.wvlet.airframe/airframe-macros_2.11@0.23
+- pkg:maven/org.wvlet.airframe/airframe-macros_2.11@0.23?classifier=sources

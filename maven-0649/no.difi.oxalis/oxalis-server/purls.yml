@@ -1,2 +1,4 @@
 - pkg:maven/no.difi.oxalis/oxalis-server@4.0.0-RC2
 - pkg:maven/no.difi.oxalis/oxalis-server@4.0.0-RC2?classifier=sources
+- pkg:maven/no.difi.oxalis/oxalis-server@4.0.0-RC3
+- pkg:maven/no.difi.oxalis/oxalis-server@4.0.0-RC3?classifier=sources

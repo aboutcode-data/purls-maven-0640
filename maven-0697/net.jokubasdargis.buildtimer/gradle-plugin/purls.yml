@@ -6,3 +6,5 @@
 - pkg:maven/net.jokubasdargis.buildtimer/gradle-plugin@0.1.2?classifier=sources
 - pkg:maven/net.jokubasdargis.buildtimer/gradle-plugin@0.2.0
 - pkg:maven/net.jokubasdargis.buildtimer/gradle-plugin@0.2.0?classifier=sources
+- pkg:maven/net.jokubasdargis.buildtimer/gradle-plugin@0.3.0
+- pkg:maven/net.jokubasdargis.buildtimer/gradle-plugin@0.3.0?classifier=sources

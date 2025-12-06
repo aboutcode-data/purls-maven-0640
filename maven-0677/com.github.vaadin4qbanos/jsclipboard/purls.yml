@@ -1,0 +1,6 @@
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard@1.0.7?classifier=sources
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard@1.0.7?type=zip
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard@1.0.8?classifier=sources
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard@1.0.8?type=zip
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard@1.0.9?classifier=sources
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard@1.0.9?type=zip

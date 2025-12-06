@@ -12,3 +12,5 @@
 - pkg:maven/nz.ac.waikato.cms.moa/moa@2015.11?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.moa/moa@2016.04
 - pkg:maven/nz.ac.waikato.cms.moa/moa@2016.04?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2017.06
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2017.06?classifier=sources

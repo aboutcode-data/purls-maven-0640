@@ -1,0 +1,7 @@
+- pkg:maven/com.datomic/client-cloud@0.8.40
+- pkg:maven/com.datomic/client-cloud@0.8.41
+- pkg:maven/com.datomic/client-cloud@0.8.42
+- pkg:maven/com.datomic/client-cloud@0.8.44
+- pkg:maven/com.datomic/client-cloud@0.8.45
+- pkg:maven/com.datomic/client-cloud@0.8.46
+- pkg:maven/com.datomic/client-cloud@0.8.48

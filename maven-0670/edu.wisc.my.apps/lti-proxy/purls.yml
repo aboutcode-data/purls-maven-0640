@@ -1,2 +1,6 @@
 - pkg:maven/edu.wisc.my.apps/lti-proxy@1.0.1?classifier=sources
 - pkg:maven/edu.wisc.my.apps/lti-proxy@1.0.1?type=war
+- pkg:maven/edu.wisc.my.apps/lti-proxy@2.0.0?classifier=sources
+- pkg:maven/edu.wisc.my.apps/lti-proxy@2.0.0?type=war
+- pkg:maven/edu.wisc.my.apps/lti-proxy@2.0.1?classifier=sources
+- pkg:maven/edu.wisc.my.apps/lti-proxy@2.0.1?type=war

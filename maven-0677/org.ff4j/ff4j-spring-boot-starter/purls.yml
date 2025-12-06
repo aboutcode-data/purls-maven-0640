@@ -6,3 +6,5 @@
 - pkg:maven/org.ff4j/ff4j-spring-boot-starter@1.6.2
 - pkg:maven/org.ff4j/ff4j-spring-boot-starter@1.6.3
 - pkg:maven/org.ff4j/ff4j-spring-boot-starter@1.6.4
+- pkg:maven/org.ff4j/ff4j-spring-boot-starter@1.6.5
+- pkg:maven/org.ff4j/ff4j-spring-boot-starter@1.7

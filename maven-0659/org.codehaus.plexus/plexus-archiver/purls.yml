@@ -108,3 +108,5 @@
 - pkg:maven/org.codehaus.plexus/plexus-archiver@3.3?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-archiver@3.4
 - pkg:maven/org.codehaus.plexus/plexus-archiver@3.4?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-archiver@3.5
+- pkg:maven/org.codehaus.plexus/plexus-archiver@3.5?classifier=sources

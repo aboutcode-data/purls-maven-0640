@@ -1,0 +1,6 @@
+- pkg:maven/com.infinityrefactoring/8R-reflections@1.0
+- pkg:maven/com.infinityrefactoring/8R-reflections@1.0?classifier=sources
+- pkg:maven/com.infinityrefactoring/8R-reflections@1.5.0
+- pkg:maven/com.infinityrefactoring/8R-reflections@1.5.0?classifier=sources
+- pkg:maven/com.infinityrefactoring/8R-reflections@2.0.0
+- pkg:maven/com.infinityrefactoring/8R-reflections@2.0.0?classifier=sources

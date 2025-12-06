@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jsonlint@1.6.2
+- pkg:maven/org.webjars.npm/jsonlint@1.6.2?classifier=sources

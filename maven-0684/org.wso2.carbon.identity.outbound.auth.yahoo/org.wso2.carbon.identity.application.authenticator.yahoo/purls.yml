@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.yahoo/org.wso2.carbon.identity.application.authenticator.yahoo@5.1.4
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.yahoo/org.wso2.carbon.identity.application.authenticator.yahoo@5.1.4?classifier=sources

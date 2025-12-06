@@ -5,4 +5,8 @@
 - pkg:maven/io.github.nremond/pbkdf2-scala_2.10@0.4
 - pkg:maven/io.github.nremond/pbkdf2-scala_2.10@0.4?classifier=sources
 - pkg:maven/io.github.nremond/pbkdf2-scala_2.10@0.6
+- pkg:maven/io.github.nremond/pbkdf2-scala_2.10@0.6.2
+- pkg:maven/io.github.nremond/pbkdf2-scala_2.10@0.6.2?classifier=sources
+- pkg:maven/io.github.nremond/pbkdf2-scala_2.10@0.6.3
+- pkg:maven/io.github.nremond/pbkdf2-scala_2.10@0.6.3?classifier=sources
 - pkg:maven/io.github.nremond/pbkdf2-scala_2.10@0.6?classifier=sources

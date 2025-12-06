@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yinfujing/spring-boot-starter-dubbo@0.0.1
+- pkg:maven/com.github.yinfujing/spring-boot-starter-dubbo@0.0.1?classifier=sources

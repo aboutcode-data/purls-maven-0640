@@ -1,0 +1,2 @@
+- pkg:maven/com.erudika/para-cache-hazelcast@1.26.0
+- pkg:maven/com.erudika/para-cache-hazelcast@1.26.0?classifier=sources
