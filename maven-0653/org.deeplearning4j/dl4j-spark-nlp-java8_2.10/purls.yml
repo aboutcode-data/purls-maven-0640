@@ -1,0 +1,2 @@
+- pkg:maven/org.deeplearning4j/dl4j-spark-nlp-java8_2.10@0.8.0_spark_1
+- pkg:maven/org.deeplearning4j/dl4j-spark-nlp-java8_2.10@0.8.0_spark_1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/no.difi.vefa/commons-bdxr@0.9.0
 - pkg:maven/no.difi.vefa/commons-bdxr@0.9.0?classifier=sources
+- pkg:maven/no.difi.vefa/commons-bdxr@0.9.1
+- pkg:maven/no.difi.vefa/commons-bdxr@0.9.1?classifier=sources

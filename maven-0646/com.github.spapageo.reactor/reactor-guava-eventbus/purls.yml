@@ -1,0 +1,2 @@
+- pkg:maven/com.github.spapageo.reactor/reactor-guava-eventbus@0.1.0.BETA
+- pkg:maven/com.github.spapageo.reactor/reactor-guava-eventbus@0.1.0.BETA?classifier=sources

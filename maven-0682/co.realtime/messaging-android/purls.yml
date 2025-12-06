@@ -36,3 +36,11 @@
 - pkg:maven/co.realtime/messaging-android@2.1.64?type=aar
 - pkg:maven/co.realtime/messaging-android@2.1.66?classifier=sources
 - pkg:maven/co.realtime/messaging-android@2.1.66?type=aar
+- pkg:maven/co.realtime/messaging-android@2.1.68?classifier=sources
+- pkg:maven/co.realtime/messaging-android@2.1.68?type=aar
+- pkg:maven/co.realtime/messaging-android@2.1.70?classifier=sources
+- pkg:maven/co.realtime/messaging-android@2.1.70?type=aar
+- pkg:maven/co.realtime/messaging-android@2.1.72?classifier=sources
+- pkg:maven/co.realtime/messaging-android@2.1.72?type=aar
+- pkg:maven/co.realtime/messaging-android@2.1.74?classifier=sources
+- pkg:maven/co.realtime/messaging-android@2.1.74?type=aar

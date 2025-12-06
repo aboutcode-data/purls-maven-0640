@@ -14,3 +14,5 @@
 - pkg:maven/de.sciss/desktop-mac_2.11@0.7.1?classifier=sources
 - pkg:maven/de.sciss/desktop-mac_2.11@0.7.2
 - pkg:maven/de.sciss/desktop-mac_2.11@0.7.2?classifier=sources
+- pkg:maven/de.sciss/desktop-mac_2.11@0.7.3
+- pkg:maven/de.sciss/desktop-mac_2.11@0.7.3?classifier=sources

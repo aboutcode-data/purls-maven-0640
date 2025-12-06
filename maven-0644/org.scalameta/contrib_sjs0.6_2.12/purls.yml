@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/contrib_sjs0.6_2.12@1.7.0
+- pkg:maven/org.scalameta/contrib_sjs0.6_2.12@1.7.0?classifier=sources

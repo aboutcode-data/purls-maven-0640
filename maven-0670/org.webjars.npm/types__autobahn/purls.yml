@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__autobahn@0.9.33
+- pkg:maven/org.webjars.npm/types__autobahn@0.9.33?classifier=sources

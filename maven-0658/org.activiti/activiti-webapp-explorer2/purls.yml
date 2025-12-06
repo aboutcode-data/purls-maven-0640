@@ -34,3 +34,5 @@
 - pkg:maven/org.activiti/activiti-webapp-explorer2@5.20.0?type=war
 - pkg:maven/org.activiti/activiti-webapp-explorer2@5.21.0?classifier=sources
 - pkg:maven/org.activiti/activiti-webapp-explorer2@5.21.0?type=war
+- pkg:maven/org.activiti/activiti-webapp-explorer2@5.22.0?classifier=sources
+- pkg:maven/org.activiti/activiti-webapp-explorer2@5.22.0?type=war

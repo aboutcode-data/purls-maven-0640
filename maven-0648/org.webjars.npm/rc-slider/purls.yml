@@ -1,2 +1,8 @@
 - pkg:maven/org.webjars.npm/rc-slider@3.6.2
 - pkg:maven/org.webjars.npm/rc-slider@3.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/rc-slider@3.7.3
+- pkg:maven/org.webjars.npm/rc-slider@3.7.3?classifier=sources
+- pkg:maven/org.webjars.npm/rc-slider@5.4.0
+- pkg:maven/org.webjars.npm/rc-slider@5.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-slider@6.1.0
+- pkg:maven/org.webjars.npm/rc-slider@6.1.0?classifier=sources

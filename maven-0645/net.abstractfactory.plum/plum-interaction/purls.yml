@@ -10,3 +10,5 @@
 - pkg:maven/net.abstractfactory.plum/plum-interaction@0.2.34?classifier=sources
 - pkg:maven/net.abstractfactory.plum/plum-interaction@0.2.36
 - pkg:maven/net.abstractfactory.plum/plum-interaction@0.2.36?classifier=sources
+- pkg:maven/net.abstractfactory.plum/plum-interaction@0.3.21
+- pkg:maven/net.abstractfactory.plum/plum-interaction@0.3.21?classifier=sources

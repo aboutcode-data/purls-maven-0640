@@ -1,0 +1,8 @@
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.0.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.0.0-beta4
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.0.0-beta4.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.0.0-beta4.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.0.0-beta4?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.0.0-beta5
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.0.0-beta5?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-trafficmanager@1.0.0?classifier=sources

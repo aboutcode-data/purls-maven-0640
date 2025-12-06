@@ -5,4 +5,5 @@
 - pkg:maven/org.apache.archiva/archiva-parent@14?classifier=source-release&type=zip
 - pkg:maven/org.apache.archiva/archiva-parent@15?classifier=source-release&type=zip
 - pkg:maven/org.apache.archiva/archiva-parent@16?classifier=source-release&type=zip
+- pkg:maven/org.apache.archiva/archiva-parent@18?classifier=source-release&type=zip
 - pkg:maven/org.apache.archiva/archiva-parent@9?classifier=source-release&type=zip

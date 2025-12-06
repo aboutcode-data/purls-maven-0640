@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/sinon@1.17.2?classifier=sources
 - pkg:maven/org.webjars.npm/sinon@1.17.4
 - pkg:maven/org.webjars.npm/sinon@1.17.4?classifier=sources
+- pkg:maven/org.webjars.npm/sinon@1.17.7
+- pkg:maven/org.webjars.npm/sinon@1.17.7?classifier=sources
+- pkg:maven/org.webjars.npm/sinon@2.0.0
+- pkg:maven/org.webjars.npm/sinon@2.0.0?classifier=sources

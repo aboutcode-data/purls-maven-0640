@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.bower/angular-diff-match-patch@0.1.11
 - pkg:maven/org.webjars.bower/angular-diff-match-patch@0.1.11?classifier=sources
+- pkg:maven/org.webjars.bower/angular-diff-match-patch@0.1.14
+- pkg:maven/org.webjars.bower/angular-diff-match-patch@0.1.14?classifier=sources
 - pkg:maven/org.webjars.bower/angular-diff-match-patch@0.2.4
 - pkg:maven/org.webjars.bower/angular-diff-match-patch@0.2.4?classifier=sources
 - pkg:maven/org.webjars.bower/angular-diff-match-patch@0.4.0

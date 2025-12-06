@@ -1,0 +1,4 @@
+- pkg:maven/io.apptik.rhub/roxy-akka@0.1.0
+- pkg:maven/io.apptik.rhub/roxy-akka@0.1.0?classifier=sources
+- pkg:maven/io.apptik.rhub/roxy-akka@0.2.0-alpha1
+- pkg:maven/io.apptik.rhub/roxy-akka@0.2.0-alpha1?classifier=sources

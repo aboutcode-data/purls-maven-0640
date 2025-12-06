@@ -1,0 +1,2 @@
+- pkg:maven/uk.me.mjt/crashjvm@1.0
+- pkg:maven/uk.me.mjt/crashjvm@1.0?classifier=sources

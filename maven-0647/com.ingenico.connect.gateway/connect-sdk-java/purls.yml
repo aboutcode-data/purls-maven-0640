@@ -1,0 +1,6 @@
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.4.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.4.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.5.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.5.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.5.1
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.5.1?classifier=sources

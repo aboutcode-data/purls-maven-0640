@@ -1,0 +1,10 @@
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.1
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.1?classifier=sources
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.2?classifier=sources
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.2?type=war
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.3?classifier=sources
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.3?type=war
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.4?classifier=sources
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.4?type=war
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.5?classifier=sources
+- pkg:maven/edu.wisc.my.apps/personalized-redirection@1.0.5?type=war

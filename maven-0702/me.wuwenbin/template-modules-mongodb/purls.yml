@@ -1,0 +1,6 @@
+- pkg:maven/me.wuwenbin/template-modules-mongodb@1.0.0
+- pkg:maven/me.wuwenbin/template-modules-mongodb@1.0.0?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-mongodb@1.1.0
+- pkg:maven/me.wuwenbin/template-modules-mongodb@1.1.0.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-mongodb@1.1.0.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-mongodb@1.1.0?classifier=sources

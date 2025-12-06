@@ -14,6 +14,8 @@
 - pkg:maven/org.apache.crunch/crunch-examples@0.13.0?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-examples@0.14.0
 - pkg:maven/org.apache.crunch/crunch-examples@0.14.0?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-examples@0.15.0
+- pkg:maven/org.apache.crunch/crunch-examples@0.15.0?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-examples@0.3.0-incubating
 - pkg:maven/org.apache.crunch/crunch-examples@0.3.0-incubating?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-examples@0.4.0-incubating

@@ -10,3 +10,7 @@
 - pkg:maven/io.gravitee.policy/gravitee-policy-api@0.8.0?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-api@0.9.0
 - pkg:maven/io.gravitee.policy/gravitee-policy-api@0.9.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-api@1.0.0
+- pkg:maven/io.gravitee.policy/gravitee-policy-api@1.0.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-api@1.1.0
+- pkg:maven/io.gravitee.policy/gravitee-policy-api@1.1.0?classifier=sources

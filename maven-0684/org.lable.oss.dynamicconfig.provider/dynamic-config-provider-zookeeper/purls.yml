@@ -8,3 +8,5 @@
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.0?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.1
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.1?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.2
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.2?classifier=sources

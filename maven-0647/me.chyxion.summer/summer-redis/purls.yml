@@ -1,0 +1,2 @@
+- pkg:maven/me.chyxion.summer/summer-redis@0.0.1-RELEASE
+- pkg:maven/me.chyxion.summer/summer-redis@0.0.1-RELEASE?classifier=sources

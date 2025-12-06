@@ -20,3 +20,11 @@
 - pkg:maven/io.spring.platform/platform@2.0.7.RELEASE
 - pkg:maven/io.spring.platform/platform@2.0.8.RELEASE
 - pkg:maven/io.spring.platform/platform@Athens-RELEASE
+- pkg:maven/io.spring.platform/platform@Athens-SR1
+- pkg:maven/io.spring.platform/platform@Athens-SR2
+- pkg:maven/io.spring.platform/platform@Athens-SR3
+- pkg:maven/io.spring.platform/platform@Athens-SR4
+- pkg:maven/io.spring.platform/platform@Athens-SR5
+- pkg:maven/io.spring.platform/platform@Brussels-RELEASE
+- pkg:maven/io.spring.platform/platform@Brussels-SR1
+- pkg:maven/io.spring.platform/platform@Brussels-SR2

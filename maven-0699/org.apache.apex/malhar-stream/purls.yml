@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.apex/malhar-stream@3.4.0?classifier=sources
 - pkg:maven/org.apache.apex/malhar-stream@3.5.0
 - pkg:maven/org.apache.apex/malhar-stream@3.5.0?classifier=sources
+- pkg:maven/org.apache.apex/malhar-stream@3.6.0
+- pkg:maven/org.apache.apex/malhar-stream@3.6.0?classifier=sources
+- pkg:maven/org.apache.apex/malhar-stream@3.7.0
+- pkg:maven/org.apache.apex/malhar-stream@3.7.0?classifier=sources

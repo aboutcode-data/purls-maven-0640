@@ -20,3 +20,7 @@
 - pkg:maven/net.simonvt.schematic/schematic-annotations@0.6.6?classifier=sources
 - pkg:maven/net.simonvt.schematic/schematic-annotations@0.6.7
 - pkg:maven/net.simonvt.schematic/schematic-annotations@0.6.7?classifier=sources
+- pkg:maven/net.simonvt.schematic/schematic-annotations@0.6.8
+- pkg:maven/net.simonvt.schematic/schematic-annotations@0.6.8?classifier=sources
+- pkg:maven/net.simonvt.schematic/schematic-annotations@0.7.0
+- pkg:maven/net.simonvt.schematic/schematic-annotations@0.7.0?classifier=sources

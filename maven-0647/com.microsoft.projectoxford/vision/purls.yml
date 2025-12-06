@@ -3,3 +3,5 @@
 - pkg:maven/com.microsoft.projectoxford/vision@0.5.0?type=aar
 - pkg:maven/com.microsoft.projectoxford/vision@1.0.101?type=aar
 - pkg:maven/com.microsoft.projectoxford/vision@1.0.354?type=aar
+- pkg:maven/com.microsoft.projectoxford/vision@1.0.374?type=aar
+- pkg:maven/com.microsoft.projectoxford/vision@1.0.393?type=aar

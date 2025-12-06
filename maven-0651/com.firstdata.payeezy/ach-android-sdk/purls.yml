@@ -1,0 +1,2 @@
+- pkg:maven/com.firstdata.payeezy/ach-android-sdk@0.0.3.0?classifier=sources
+- pkg:maven/com.firstdata.payeezy/ach-android-sdk@0.0.3.0?type=aar

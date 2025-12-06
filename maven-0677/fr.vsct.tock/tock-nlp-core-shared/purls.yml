@@ -1,0 +1,2 @@
+- pkg:maven/fr.vsct.tock/tock-nlp-core-shared@0.1
+- pkg:maven/fr.vsct.tock/tock-nlp-core-shared@0.1?classifier=sources

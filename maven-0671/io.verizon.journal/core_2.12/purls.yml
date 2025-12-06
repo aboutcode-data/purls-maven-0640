@@ -1,0 +1,2 @@
+- pkg:maven/io.verizon.journal/core_2.12@3.0.18
+- pkg:maven/io.verizon.journal/core_2.12@3.0.18?classifier=sources

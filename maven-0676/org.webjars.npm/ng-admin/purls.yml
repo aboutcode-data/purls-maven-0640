@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/ng-admin@0.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/ng-admin@0.9.1
 - pkg:maven/org.webjars.npm/ng-admin@0.9.1?classifier=sources
+- pkg:maven/org.webjars.npm/ng-admin@1.0.2
+- pkg:maven/org.webjars.npm/ng-admin@1.0.2?classifier=sources

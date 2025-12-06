@@ -1,0 +1,2 @@
+- pkg:maven/enterprises.orbital.eve.esi/client@1.0.0.20170108
+- pkg:maven/enterprises.orbital.eve.esi/client@1.0.0.20170108?classifier=sources

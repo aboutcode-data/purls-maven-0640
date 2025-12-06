@@ -1,0 +1,2 @@
+- pkg:maven/org.abcl/abcl-contrib@1.4.0
+- pkg:maven/org.abcl/abcl-contrib@1.4.0?classifier=sources

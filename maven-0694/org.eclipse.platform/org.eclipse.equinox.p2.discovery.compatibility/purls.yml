@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.discovery.compatibility@1.0.200
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.discovery.compatibility@1.0.200?classifier=sources

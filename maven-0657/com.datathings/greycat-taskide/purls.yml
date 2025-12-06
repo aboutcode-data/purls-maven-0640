@@ -1,0 +1,10 @@
+- pkg:maven/com.datathings/greycat-taskide@1
+- pkg:maven/com.datathings/greycat-taskide@1?classifier=sources
+- pkg:maven/com.datathings/greycat-taskide@2
+- pkg:maven/com.datathings/greycat-taskide@2?classifier=sources
+- pkg:maven/com.datathings/greycat-taskide@3
+- pkg:maven/com.datathings/greycat-taskide@3?classifier=sources
+- pkg:maven/com.datathings/greycat-taskide@4
+- pkg:maven/com.datathings/greycat-taskide@4?classifier=sources
+- pkg:maven/com.datathings/greycat-taskide@5
+- pkg:maven/com.datathings/greycat-taskide@5?classifier=sources

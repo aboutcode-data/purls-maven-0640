@@ -1,0 +1,11 @@
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@0.1.0-2?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@0.1.0-cbbf-40-cleanup-and-refactor-round-2-1?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@1.0.0-3?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@1.0.0-4?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@1.0.0-5?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@1.0.0-6?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@1.0.0-7?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@1.0.0-cbbd-155-profiling-hapi-2?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@1.0.0-cbbf-39-disable-lucene-for-reals-1?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@1.0.0-cbbf-40-cleanup-and-refactor-round-2-1?type=war
+- pkg:maven/gov.hhs.cms.bluebutton.fhir/bluebutton-server-app@1.0.0-cbbf-41-support-cygwin-1?type=war

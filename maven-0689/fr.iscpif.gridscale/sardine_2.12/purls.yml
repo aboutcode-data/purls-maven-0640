@@ -1,0 +1,2 @@
+- pkg:maven/fr.iscpif.gridscale/sardine_2.12@1.91
+- pkg:maven/fr.iscpif.gridscale/sardine_2.12@1.91?classifier=sources

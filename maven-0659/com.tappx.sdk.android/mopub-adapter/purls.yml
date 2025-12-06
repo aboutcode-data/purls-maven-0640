@@ -1,0 +1,2 @@
+- pkg:maven/com.tappx.sdk.android/mopub-adapter@3.0.01?classifier=sources
+- pkg:maven/com.tappx.sdk.android/mopub-adapter@3.0.01?type=aar

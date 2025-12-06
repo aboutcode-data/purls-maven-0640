@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/google-maps-infobox@1.1.13
+- pkg:maven/org.webjars.npm/google-maps-infobox@1.1.13?classifier=sources

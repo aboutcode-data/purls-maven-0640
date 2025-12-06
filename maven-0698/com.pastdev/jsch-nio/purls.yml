@@ -18,3 +18,5 @@
 - pkg:maven/com.pastdev/jsch-nio@1.0.2?classifier=sources
 - pkg:maven/com.pastdev/jsch-nio@1.0.3
 - pkg:maven/com.pastdev/jsch-nio@1.0.3?classifier=sources
+- pkg:maven/com.pastdev/jsch-nio@1.0.4
+- pkg:maven/com.pastdev/jsch-nio@1.0.4?classifier=sources

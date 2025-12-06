@@ -1,0 +1,2 @@
+- pkg:maven/org.datavec/datavec-spark-inference-server_2.10@0.8.0_spark_1
+- pkg:maven/org.datavec/datavec-spark-inference-server_2.10@0.8.0_spark_1?classifier=sources

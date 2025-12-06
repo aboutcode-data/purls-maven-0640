@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-lknop-nouislider-angular@v2.6.1
+- pkg:maven/org.webjars.bower/github-com-lknop-nouislider-angular@v2.6.1?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-lknop-nouislider-angular@v2.6.3
+- pkg:maven/org.webjars.bower/github-com-lknop-nouislider-angular@v2.6.3?classifier=sources

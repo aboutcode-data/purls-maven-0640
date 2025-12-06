@@ -1,0 +1,2 @@
+- pkg:maven/ru.primetalk/synapse-grid-rx_2.12@1.4.7
+- pkg:maven/ru.primetalk/synapse-grid-rx_2.12@1.4.7?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/org.commonjava.indy.embed/indy-embedder-easyprox@0.99.3?classifier=sources
 - pkg:maven/org.commonjava.indy.embed/indy-embedder-easyprox@1.0.0
 - pkg:maven/org.commonjava.indy.embed/indy-embedder-easyprox@1.0.0?classifier=sources
+- pkg:maven/org.commonjava.indy.embed/indy-embedder-easyprox@1.0.1
+- pkg:maven/org.commonjava.indy.embed/indy-embedder-easyprox@1.0.1?classifier=sources
+- pkg:maven/org.commonjava.indy.embed/indy-embedder-easyprox@1.0.2
+- pkg:maven/org.commonjava.indy.embed/indy-embedder-easyprox@1.0.2?classifier=sources

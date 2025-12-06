@@ -25,6 +25,10 @@
 - pkg:maven/guru.nidi.raml/raml-tester@0.8.10?classifier=sources
 - pkg:maven/guru.nidi.raml/raml-tester@0.8.11
 - pkg:maven/guru.nidi.raml/raml-tester@0.8.11?classifier=sources
+- pkg:maven/guru.nidi.raml/raml-tester@0.8.12
+- pkg:maven/guru.nidi.raml/raml-tester@0.8.12?classifier=sources
+- pkg:maven/guru.nidi.raml/raml-tester@0.8.13
+- pkg:maven/guru.nidi.raml/raml-tester@0.8.13?classifier=sources
 - pkg:maven/guru.nidi.raml/raml-tester@0.8.1?classifier=sources
 - pkg:maven/guru.nidi.raml/raml-tester@0.8.2
 - pkg:maven/guru.nidi.raml/raml-tester@0.8.2?classifier=sources
@@ -42,3 +46,5 @@
 - pkg:maven/guru.nidi.raml/raml-tester@0.8.8?classifier=sources
 - pkg:maven/guru.nidi.raml/raml-tester@0.8.9
 - pkg:maven/guru.nidi.raml/raml-tester@0.8.9?classifier=sources
+- pkg:maven/guru.nidi.raml/raml-tester@0.9.1
+- pkg:maven/guru.nidi.raml/raml-tester@0.9.1?classifier=sources

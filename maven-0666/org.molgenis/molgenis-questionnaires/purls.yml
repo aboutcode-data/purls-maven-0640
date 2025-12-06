@@ -42,6 +42,8 @@
 - pkg:maven/org.molgenis/molgenis-questionnaires@1.21.3?classifier=sources
 - pkg:maven/org.molgenis/molgenis-questionnaires@1.21.4
 - pkg:maven/org.molgenis/molgenis-questionnaires@1.21.4?classifier=sources
+- pkg:maven/org.molgenis/molgenis-questionnaires@1.21.5
+- pkg:maven/org.molgenis/molgenis-questionnaires@1.21.5?classifier=sources
 - pkg:maven/org.molgenis/molgenis-questionnaires@1.8.0
 - pkg:maven/org.molgenis/molgenis-questionnaires@1.8.0?classifier=sources
 - pkg:maven/org.molgenis/molgenis-questionnaires@1.8.1
@@ -54,3 +56,17 @@
 - pkg:maven/org.molgenis/molgenis-questionnaires@1.9.0?classifier=sources
 - pkg:maven/org.molgenis/molgenis-questionnaires@1.9.1
 - pkg:maven/org.molgenis/molgenis-questionnaires@1.9.1?classifier=sources
+- pkg:maven/org.molgenis/molgenis-questionnaires@2.0.0
+- pkg:maven/org.molgenis/molgenis-questionnaires@2.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-questionnaires@2.0.1
+- pkg:maven/org.molgenis/molgenis-questionnaires@2.0.1?classifier=sources
+- pkg:maven/org.molgenis/molgenis-questionnaires@2.1.0
+- pkg:maven/org.molgenis/molgenis-questionnaires@2.1.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-questionnaires@3.0.0
+- pkg:maven/org.molgenis/molgenis-questionnaires@3.0.0?classifier=sources
+- pkg:maven/org.molgenis/molgenis-questionnaires@3.0.1
+- pkg:maven/org.molgenis/molgenis-questionnaires@3.0.1?classifier=sources
+- pkg:maven/org.molgenis/molgenis-questionnaires@3.0.2
+- pkg:maven/org.molgenis/molgenis-questionnaires@3.0.2?classifier=sources
+- pkg:maven/org.molgenis/molgenis-questionnaires@4.0.0
+- pkg:maven/org.molgenis/molgenis-questionnaires@4.0.0?classifier=sources

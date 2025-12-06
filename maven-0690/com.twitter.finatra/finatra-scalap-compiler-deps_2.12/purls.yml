@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter.finatra/finatra-scalap-compiler-deps_2.12@2.0.0
+- pkg:maven/com.twitter.finatra/finatra-scalap-compiler-deps_2.12@2.0.0?classifier=sources

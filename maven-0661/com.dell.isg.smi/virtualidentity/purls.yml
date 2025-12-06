@@ -1,0 +1,2 @@
+- pkg:maven/com.dell.isg.smi/virtualidentity@1.0.35
+- pkg:maven/com.dell.isg.smi/virtualidentity@1.0.35?classifier=sources

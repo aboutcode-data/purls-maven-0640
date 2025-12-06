@@ -1,0 +1,14 @@
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.0.3.255
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.0.3.255?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.0.4.305
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.0.4.305?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.0.5.333
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.0.5.333?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.1.0.395
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@1.1.0.395?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@5.10.0.1344
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@5.10.0.1344?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@5.10.1.1411
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@5.10.1.1411?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@5.9.0.1001
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@5.9.0.1001?classifier=sources

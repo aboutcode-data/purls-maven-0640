@@ -1,0 +1,2 @@
+- pkg:maven/software.coolstuff/installapex@1.0.4
+- pkg:maven/software.coolstuff/installapex@1.0.4?classifier=sources

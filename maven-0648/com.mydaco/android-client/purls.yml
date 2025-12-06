@@ -1,0 +1,2 @@
+- pkg:maven/com.mydaco/android-client@1.0.0?classifier=sources
+- pkg:maven/com.mydaco/android-client@1.0.0?type=aar

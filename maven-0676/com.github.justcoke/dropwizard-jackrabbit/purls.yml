@@ -1,2 +1,4 @@
 - pkg:maven/com.github.justcoke/dropwizard-jackrabbit@0.2.3
 - pkg:maven/com.github.justcoke/dropwizard-jackrabbit@0.2.3?classifier=sources
+- pkg:maven/com.github.justcoke/dropwizard-jackrabbit@1.1.0-rc4
+- pkg:maven/com.github.justcoke/dropwizard-jackrabbit@1.1.0-rc4?classifier=sources

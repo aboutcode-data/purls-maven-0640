@@ -1,0 +1,2 @@
+- pkg:maven/com.github.imliar/slicker-postgres_2.12@0.3
+- pkg:maven/com.github.imliar/slicker-postgres_2.12@0.3?classifier=sources

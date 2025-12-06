@@ -1,0 +1,2 @@
+- pkg:maven/hr.hrg/java-watch-build@0.2.0
+- pkg:maven/hr.hrg/java-watch-build@0.2.0?classifier=sources

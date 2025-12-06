@@ -1,0 +1,4 @@
+- pkg:maven/ch.viascom.groundwork/restclient@2.1
+- pkg:maven/ch.viascom.groundwork/restclient@2.1?classifier=sources
+- pkg:maven/ch.viascom.groundwork/restclient@2.2
+- pkg:maven/ch.viascom.groundwork/restclient@2.2?classifier=sources

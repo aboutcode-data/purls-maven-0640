@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.yetus/yetus-project@0.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.yetus/yetus-project@0.4.0?classifier=source-release&type=zip

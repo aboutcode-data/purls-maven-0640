@@ -1,0 +1,17 @@
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.0
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.0?classifier=sources
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.1
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.1?classifier=sources
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.2
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.2?classifier=sources
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.3.1
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.3.1?classifier=sources
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.3.2
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.3.2?classifier=sources
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@2.3?classifier=sources
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.1
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.1?classifier=sources
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.2.1.MULTI-RESOURCES
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.2.1.MULTI-RESOURCES?classifier=sources
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.2.2.MULTI-RESOURCES
+- pkg:maven/fr.algofi.maven.plugins/polymer-minifier@3.2.2.MULTI-RESOURCES?classifier=sources

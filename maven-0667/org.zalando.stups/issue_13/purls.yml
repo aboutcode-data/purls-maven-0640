@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando.stups/issue_13@0.10.1-GH-13
+- pkg:maven/org.zalando.stups/issue_13@0.10.1-GH-13?classifier=sources

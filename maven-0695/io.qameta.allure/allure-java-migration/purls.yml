@@ -1,0 +1,2 @@
+- pkg:maven/io.qameta.allure/allure-java-migration@2.0-BETA6
+- pkg:maven/io.qameta.allure/allure-java-migration@2.0-BETA6?classifier=sources

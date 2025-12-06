@@ -1,0 +1,2 @@
+- pkg:maven/io.minio/minio-java@3.0-DEV
+- pkg:maven/io.minio/minio-java@3.0-DEV?classifier=sources

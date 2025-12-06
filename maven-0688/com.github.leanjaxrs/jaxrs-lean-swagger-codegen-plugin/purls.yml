@@ -1,0 +1,2 @@
+- pkg:maven/com.github.leanjaxrs/jaxrs-lean-swagger-codegen-plugin@0.9
+- pkg:maven/com.github.leanjaxrs/jaxrs-lean-swagger-codegen-plugin@0.9?classifier=sources

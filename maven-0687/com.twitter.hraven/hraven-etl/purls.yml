@@ -36,3 +36,5 @@
 - pkg:maven/com.twitter.hraven/hraven-etl@0.9.8?classifier=sources
 - pkg:maven/com.twitter.hraven/hraven-etl@0.9.9
 - pkg:maven/com.twitter.hraven/hraven-etl@0.9.9?classifier=sources
+- pkg:maven/com.twitter.hraven/hraven-etl@1.0.1
+- pkg:maven/com.twitter.hraven/hraven-etl@1.0.1?classifier=sources

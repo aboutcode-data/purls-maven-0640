@@ -1,0 +1,2 @@
+- pkg:maven/org.deeplearning4j/deeplearning4j-parallel-wrapper_2.10@0.8.0
+- pkg:maven/org.deeplearning4j/deeplearning4j-parallel-wrapper_2.10@0.8.0?classifier=sources

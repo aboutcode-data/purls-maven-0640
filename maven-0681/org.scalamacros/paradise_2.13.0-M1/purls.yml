@@ -1,0 +1,2 @@
+- pkg:maven/org.scalamacros/paradise_2.13.0-M1@2.1.0
+- pkg:maven/org.scalamacros/paradise_2.13.0-M1@2.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.att.ajsc/sdk-java-si-interceptor@6.2.0.1
+- pkg:maven/com.att.ajsc/sdk-java-si-interceptor@6.2.0.1-oss
+- pkg:maven/com.att.ajsc/sdk-java-si-interceptor@6.2.0.1-oss?classifier=sources
+- pkg:maven/com.att.ajsc/sdk-java-si-interceptor@6.2.0.1?classifier=sources

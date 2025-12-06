@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.npm/rc-input-number@2.5.12
+- pkg:maven/org.webjars.npm/rc-input-number@2.5.12?classifier=sources
+- pkg:maven/org.webjars.npm/rc-input-number@2.8.3
+- pkg:maven/org.webjars.npm/rc-input-number@2.8.3?classifier=sources
+- pkg:maven/org.webjars.npm/rc-input-number@3.0.0
+- pkg:maven/org.webjars.npm/rc-input-number@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-input-number@3.1.1
+- pkg:maven/org.webjars.npm/rc-input-number@3.1.1?classifier=sources

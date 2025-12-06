@@ -1,0 +1,4 @@
+- pkg:maven/com.cerner.beadledom.avro/beadledom-avro-jackson@2.3
+- pkg:maven/com.cerner.beadledom.avro/beadledom-avro-jackson@2.3?classifier=sources
+- pkg:maven/com.cerner.beadledom.avro/beadledom-avro-jackson@2.4
+- pkg:maven/com.cerner.beadledom.avro/beadledom-avro-jackson@2.4?classifier=sources

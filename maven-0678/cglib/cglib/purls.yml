@@ -26,4 +26,6 @@
 - pkg:maven/cglib/cglib@3.2.3?classifier=sources
 - pkg:maven/cglib/cglib@3.2.4
 - pkg:maven/cglib/cglib@3.2.4?classifier=sources
+- pkg:maven/cglib/cglib@3.2.5
+- pkg:maven/cglib/cglib@3.2.5?classifier=sources
 - pkg:maven/cglib/cglib@rc2-1.0

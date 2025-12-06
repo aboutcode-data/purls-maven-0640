@@ -1,0 +1,2 @@
+- pkg:maven/ro.altom/web-ui-checker@1.0
+- pkg:maven/ro.altom/web-ui-checker@1.0?classifier=sources

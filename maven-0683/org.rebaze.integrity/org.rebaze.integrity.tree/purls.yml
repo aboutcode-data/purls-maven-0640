@@ -1,0 +1,2 @@
+- pkg:maven/org.rebaze.integrity/org.rebaze.integrity.tree@0.3.0
+- pkg:maven/org.rebaze.integrity/org.rebaze.integrity.tree@0.3.0?classifier=sources

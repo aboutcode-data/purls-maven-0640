@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/eventsource-polyfill@0.9.6
 - pkg:maven/org.webjars.bower/eventsource-polyfill@0.9.6?classifier=sources
+- pkg:maven/org.webjars.bower/eventsource-polyfill@0.9.7
+- pkg:maven/org.webjars.bower/eventsource-polyfill@0.9.7?classifier=sources

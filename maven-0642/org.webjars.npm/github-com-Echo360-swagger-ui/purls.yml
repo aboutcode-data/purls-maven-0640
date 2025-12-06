@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-Echo360-swagger-ui@2.2.10
+- pkg:maven/org.webjars.npm/github-com-Echo360-swagger-ui@2.2.10-b
+- pkg:maven/org.webjars.npm/github-com-Echo360-swagger-ui@2.2.10-b?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-Echo360-swagger-ui@2.2.10?classifier=sources

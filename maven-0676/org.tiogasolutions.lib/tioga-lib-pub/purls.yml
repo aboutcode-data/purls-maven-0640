@@ -1,0 +1,6 @@
+- pkg:maven/org.tiogasolutions.lib/tioga-lib-pub@1.0.0
+- pkg:maven/org.tiogasolutions.lib/tioga-lib-pub@1.0.0?classifier=sources
+- pkg:maven/org.tiogasolutions.lib/tioga-lib-pub@1.0.1
+- pkg:maven/org.tiogasolutions.lib/tioga-lib-pub@1.0.1?classifier=sources
+- pkg:maven/org.tiogasolutions.lib/tioga-lib-pub@1.0.2.DEPRECATED
+- pkg:maven/org.tiogasolutions.lib/tioga-lib-pub@1.0.2.DEPRECATED?classifier=sources

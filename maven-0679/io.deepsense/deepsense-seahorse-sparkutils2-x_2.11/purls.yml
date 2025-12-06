@@ -1,0 +1,2 @@
+- pkg:maven/io.deepsense/deepsense-seahorse-sparkutils2-x_2.11@1.4.1
+- pkg:maven/io.deepsense/deepsense-seahorse-sparkutils2-x_2.11@1.4.1?classifier=sources

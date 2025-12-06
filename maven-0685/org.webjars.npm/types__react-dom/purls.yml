@@ -1,2 +1,8 @@
 - pkg:maven/org.webjars.npm/types__react-dom@0.14.13
 - pkg:maven/org.webjars.npm/types__react-dom@0.14.13?classifier=sources
+- pkg:maven/org.webjars.npm/types__react-dom@0.14.18
+- pkg:maven/org.webjars.npm/types__react-dom@0.14.18?classifier=sources
+- pkg:maven/org.webjars.npm/types__react-dom@0.14.19
+- pkg:maven/org.webjars.npm/types__react-dom@0.14.19?classifier=sources
+- pkg:maven/org.webjars.npm/types__react-dom@0.14.21
+- pkg:maven/org.webjars.npm/types__react-dom@0.14.21?classifier=sources

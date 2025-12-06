@@ -1,0 +1,2 @@
+- pkg:maven/de.sfb876/streams-spark@0.0.2
+- pkg:maven/de.sfb876/streams-spark@0.0.2?classifier=sources

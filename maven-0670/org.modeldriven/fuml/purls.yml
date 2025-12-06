@@ -20,3 +20,11 @@
 - pkg:maven/org.modeldriven/fuml@1.2.0?classifier=sources
 - pkg:maven/org.modeldriven/fuml@1.2.0a
 - pkg:maven/org.modeldriven/fuml@1.2.0a?classifier=sources
+- pkg:maven/org.modeldriven/fuml@1.2.0b
+- pkg:maven/org.modeldriven/fuml@1.2.0b?classifier=sources
+- pkg:maven/org.modeldriven/fuml@1.2.1
+- pkg:maven/org.modeldriven/fuml@1.2.1?classifier=sources
+- pkg:maven/org.modeldriven/fuml@1.2.2
+- pkg:maven/org.modeldriven/fuml@1.2.2?classifier=sources
+- pkg:maven/org.modeldriven/fuml@1.2.3
+- pkg:maven/org.modeldriven/fuml@1.2.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/wysihtml5x@0.4.13
+- pkg:maven/org.webjars.bower/wysihtml5x@0.4.13?classifier=sources
+- pkg:maven/org.webjars.bower/wysihtml5x@0.5.5
+- pkg:maven/org.webjars.bower/wysihtml5x@0.5.5?classifier=sources

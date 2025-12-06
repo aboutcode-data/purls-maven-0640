@@ -10,3 +10,5 @@
 - pkg:maven/com.ksyun/ks3-kss-java-sdk@0.6.1?classifier=sources
 - pkg:maven/com.ksyun/ks3-kss-java-sdk@0.6.2
 - pkg:maven/com.ksyun/ks3-kss-java-sdk@0.6.2?classifier=sources
+- pkg:maven/com.ksyun/ks3-kss-java-sdk@0.8.2
+- pkg:maven/com.ksyun/ks3-kss-java-sdk@0.8.2?classifier=sources

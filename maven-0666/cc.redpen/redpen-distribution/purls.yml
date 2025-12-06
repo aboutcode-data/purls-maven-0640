@@ -16,3 +16,7 @@
 - pkg:maven/cc.redpen/redpen-distribution@1.7.0
 - pkg:maven/cc.redpen/redpen-distribution@1.7.3
 - pkg:maven/cc.redpen/redpen-distribution@1.7.4
+- pkg:maven/cc.redpen/redpen-distribution@1.7.5
+- pkg:maven/cc.redpen/redpen-distribution@1.7.6
+- pkg:maven/cc.redpen/redpen-distribution@1.7.7
+- pkg:maven/cc.redpen/redpen-distribution@1.8.0

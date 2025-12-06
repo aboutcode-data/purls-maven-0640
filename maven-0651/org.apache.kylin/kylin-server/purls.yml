@@ -26,3 +26,7 @@
 - pkg:maven/org.apache.kylin/kylin-server@1.5.4.1?type=war
 - pkg:maven/org.apache.kylin/kylin-server@1.5.4?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-server@1.5.4?type=war
+- pkg:maven/org.apache.kylin/kylin-server@1.6.0?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-server@1.6.0?type=war
+- pkg:maven/org.apache.kylin/kylin-server@2.0.0?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-server@2.0.0?type=war

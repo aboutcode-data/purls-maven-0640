@@ -1,0 +1,2 @@
+- pkg:maven/com.jonlandrum/collections@1.0
+- pkg:maven/com.jonlandrum/collections@1.0?classifier=sources

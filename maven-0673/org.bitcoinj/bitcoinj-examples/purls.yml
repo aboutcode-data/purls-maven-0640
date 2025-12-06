@@ -25,4 +25,6 @@
 - pkg:maven/org.bitcoinj/bitcoinj-examples@0.14.2?classifier=sources
 - pkg:maven/org.bitcoinj/bitcoinj-examples@0.14.3
 - pkg:maven/org.bitcoinj/bitcoinj-examples@0.14.3?classifier=sources
+- pkg:maven/org.bitcoinj/bitcoinj-examples@0.14.4
+- pkg:maven/org.bitcoinj/bitcoinj-examples@0.14.4?classifier=sources
 - pkg:maven/org.bitcoinj/bitcoinj-examples@0.14?classifier=sources

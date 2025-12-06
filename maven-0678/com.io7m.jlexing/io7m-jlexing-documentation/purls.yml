@@ -4,3 +4,5 @@
 - pkg:maven/com.io7m.jlexing/io7m-jlexing-documentation@0.1.1?type=zip
 - pkg:maven/com.io7m.jlexing/io7m-jlexing-documentation@0.1.2?classifier=sources
 - pkg:maven/com.io7m.jlexing/io7m-jlexing-documentation@0.1.2?type=zip
+- pkg:maven/com.io7m.jlexing/io7m-jlexing-documentation@0.2.0?classifier=sources
+- pkg:maven/com.io7m.jlexing/io7m-jlexing-documentation@0.2.0?type=zip

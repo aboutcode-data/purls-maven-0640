@@ -1,0 +1,12 @@
+- pkg:maven/com.datathings/j2ts-transpiler@83
+- pkg:maven/com.datathings/j2ts-transpiler@83?classifier=sources
+- pkg:maven/com.datathings/j2ts-transpiler@84
+- pkg:maven/com.datathings/j2ts-transpiler@84?classifier=sources
+- pkg:maven/com.datathings/j2ts-transpiler@85
+- pkg:maven/com.datathings/j2ts-transpiler@85?classifier=sources
+- pkg:maven/com.datathings/j2ts-transpiler@86
+- pkg:maven/com.datathings/j2ts-transpiler@86?classifier=sources
+- pkg:maven/com.datathings/j2ts-transpiler@87
+- pkg:maven/com.datathings/j2ts-transpiler@87?classifier=sources
+- pkg:maven/com.datathings/j2ts-transpiler@88
+- pkg:maven/com.datathings/j2ts-transpiler@88?classifier=sources

@@ -12,3 +12,11 @@
 - pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@3.0.0-RC1
 - pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@3.0.0-RC1?classifier=sources
 - pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@3.0.0?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@4.0.0
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@4.0.0-RC1
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@4.0.0-RC1?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@4.0.0-RC2
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@4.0.0-RC2?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@4.0.0-RC3
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@4.0.0-RC3?classifier=sources
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-smell-api@4.0.0?classifier=sources

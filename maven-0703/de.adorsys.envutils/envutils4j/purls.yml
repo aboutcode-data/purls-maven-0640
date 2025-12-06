@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.envutils/envutils4j@0.2
+- pkg:maven/de.adorsys.envutils/envutils4j@0.2?classifier=sources

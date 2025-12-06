@@ -1,0 +1,4 @@
+- pkg:maven/com.circuitwall.ml/platform-flink@1.0.4
+- pkg:maven/com.circuitwall.ml/platform-flink@1.0.4?classifier=sources
+- pkg:maven/com.circuitwall.ml/platform-flink@1.1.1
+- pkg:maven/com.circuitwall.ml/platform-flink@1.1.1?classifier=sources

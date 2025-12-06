@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled-spring3@3.2
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled-spring3@3.2?classifier=sources

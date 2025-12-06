@@ -1,0 +1,12 @@
+- pkg:maven/io.github.kjens93.funkier/funkier@1.0.0
+- pkg:maven/io.github.kjens93.funkier/funkier@1.0.0?classifier=sources
+- pkg:maven/io.github.kjens93.funkier/funkier@2.0.0
+- pkg:maven/io.github.kjens93.funkier/funkier@2.0.0?classifier=sources
+- pkg:maven/io.github.kjens93.funkier/funkier@2.1.0
+- pkg:maven/io.github.kjens93.funkier/funkier@2.1.0?classifier=sources
+- pkg:maven/io.github.kjens93.funkier/funkier@2.2.0
+- pkg:maven/io.github.kjens93.funkier/funkier@2.2.0?classifier=sources
+- pkg:maven/io.github.kjens93.funkier/funkier@2.3.0
+- pkg:maven/io.github.kjens93.funkier/funkier@2.3.0?classifier=sources
+- pkg:maven/io.github.kjens93.funkier/funkier@3.0.0
+- pkg:maven/io.github.kjens93.funkier/funkier@3.0.0?classifier=sources

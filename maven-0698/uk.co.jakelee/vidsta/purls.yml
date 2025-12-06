@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.jakelee/vidsta@1.0.0?classifier=sources
+- pkg:maven/uk.co.jakelee/vidsta@1.0.0?type=aar

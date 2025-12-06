@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jscrollpane@2.0.22
+- pkg:maven/org.webjars.npm/jscrollpane@2.0.22?classifier=sources

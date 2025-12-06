@@ -1,0 +1,2 @@
+- pkg:maven/de.mkammerer.aleksa/aleksa@1.0
+- pkg:maven/de.mkammerer.aleksa/aleksa@1.0?classifier=sources

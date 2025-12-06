@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/react-addons-perf@0.14.8?classifier=sources
 - pkg:maven/org.webjars.npm/react-addons-perf@15.1.0
 - pkg:maven/org.webjars.npm/react-addons-perf@15.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-addons-perf@15.3.2
+- pkg:maven/org.webjars.npm/react-addons-perf@15.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/react-addons-perf@15.4.1
+- pkg:maven/org.webjars.npm/react-addons-perf@15.4.1?classifier=sources

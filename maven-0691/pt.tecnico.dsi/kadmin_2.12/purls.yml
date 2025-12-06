@@ -1,0 +1,2 @@
+- pkg:maven/pt.tecnico.dsi/kadmin_2.12@7.0.0
+- pkg:maven/pt.tecnico.dsi/kadmin_2.12@7.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter.common.zookeeper/candidate@0.0.85
+- pkg:maven/com.twitter.common.zookeeper/candidate@0.0.85?classifier=sources

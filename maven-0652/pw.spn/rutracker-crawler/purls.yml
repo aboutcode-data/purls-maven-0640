@@ -1,0 +1,4 @@
+- pkg:maven/pw.spn/rutracker-crawler@1.0.0
+- pkg:maven/pw.spn/rutracker-crawler@1.0.0?classifier=sources
+- pkg:maven/pw.spn/rutracker-crawler@1.1.0
+- pkg:maven/pw.spn/rutracker-crawler@1.1.0?classifier=sources

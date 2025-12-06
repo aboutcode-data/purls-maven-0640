@@ -1,0 +1,6 @@
+- pkg:maven/no.api.freemarker/freemarker-java8@1.1.2
+- pkg:maven/no.api.freemarker/freemarker-java8@1.1.2?classifier=sources
+- pkg:maven/no.api.freemarker/freemarker-java8@1.1.4
+- pkg:maven/no.api.freemarker/freemarker-java8@1.1.4?classifier=sources
+- pkg:maven/no.api.freemarker/freemarker-java8@1.1.5
+- pkg:maven/no.api.freemarker/freemarker-java8@1.1.5?classifier=sources

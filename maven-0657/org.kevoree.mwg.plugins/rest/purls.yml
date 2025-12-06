@@ -1,4 +1,6 @@
 - pkg:maven/org.kevoree.mwg.plugins/rest@1
+- pkg:maven/org.kevoree.mwg.plugins/rest@10
+- pkg:maven/org.kevoree.mwg.plugins/rest@10?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/rest@1?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/rest@2
 - pkg:maven/org.kevoree.mwg.plugins/rest@2?classifier=sources

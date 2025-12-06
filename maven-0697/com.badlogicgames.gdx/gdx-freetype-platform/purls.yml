@@ -29,3 +29,5 @@
 - pkg:maven/com.badlogicgames.gdx/gdx-freetype-platform@1.9.2
 - pkg:maven/com.badlogicgames.gdx/gdx-freetype-platform@1.9.3
 - pkg:maven/com.badlogicgames.gdx/gdx-freetype-platform@1.9.4
+- pkg:maven/com.badlogicgames.gdx/gdx-freetype-platform@1.9.5
+- pkg:maven/com.badlogicgames.gdx/gdx-freetype-platform@1.9.6

@@ -1,0 +1,4 @@
+- pkg:maven/ru.tinkoff/aerospike-scala-proto_2.11@1.1.13
+- pkg:maven/ru.tinkoff/aerospike-scala-proto_2.11@1.1.13?classifier=sources
+- pkg:maven/ru.tinkoff/aerospike-scala-proto_2.11@1.1.14
+- pkg:maven/ru.tinkoff/aerospike-scala-proto_2.11@1.1.14?classifier=sources

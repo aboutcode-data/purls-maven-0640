@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter.common/stats-provider@0.0.93
+- pkg:maven/com.twitter.common/stats-provider@0.0.93?classifier=sources
+- pkg:maven/com.twitter.common/stats-provider@0.0.94
+- pkg:maven/com.twitter.common/stats-provider@0.0.94?classifier=sources

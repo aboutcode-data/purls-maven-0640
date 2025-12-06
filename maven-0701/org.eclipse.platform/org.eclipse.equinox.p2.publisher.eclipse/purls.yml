@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher.eclipse@1.2.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.publisher.eclipse@1.2.100?classifier=sources

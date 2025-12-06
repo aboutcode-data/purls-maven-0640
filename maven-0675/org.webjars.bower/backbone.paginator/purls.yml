@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/backbone.paginator@2.0.5
+- pkg:maven/org.webjars.bower/backbone.paginator@2.0.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.diet4j/diet4j-jsvc@0.14
 - pkg:maven/org.diet4j/diet4j-jsvc@0.14?classifier=sources
+- pkg:maven/org.diet4j/diet4j-jsvc@0.15
+- pkg:maven/org.diet4j/diet4j-jsvc@0.15?classifier=sources

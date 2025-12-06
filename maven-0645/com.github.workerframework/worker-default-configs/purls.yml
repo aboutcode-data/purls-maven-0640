@@ -1,0 +1,4 @@
+- pkg:maven/com.github.workerframework/worker-default-configs@1.6.0-181
+- pkg:maven/com.github.workerframework/worker-default-configs@1.6.0-181?classifier=sources
+- pkg:maven/com.github.workerframework/worker-default-configs@1.7.0-211
+- pkg:maven/com.github.workerframework/worker-default-configs@1.7.0-211?classifier=sources

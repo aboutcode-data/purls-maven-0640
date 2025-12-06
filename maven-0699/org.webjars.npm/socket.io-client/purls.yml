@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/socket.io-client@1.4.6?classifier=sources
 - pkg:maven/org.webjars.npm/socket.io-client@1.4.8
 - pkg:maven/org.webjars.npm/socket.io-client@1.4.8?classifier=sources
+- pkg:maven/org.webjars.npm/socket.io-client@1.7.3
+- pkg:maven/org.webjars.npm/socket.io-client@1.7.3?classifier=sources

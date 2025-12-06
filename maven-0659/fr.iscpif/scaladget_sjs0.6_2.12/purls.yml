@@ -1,0 +1,2 @@
+- pkg:maven/fr.iscpif/scaladget_sjs0.6_2.12@0.9.4
+- pkg:maven/fr.iscpif/scaladget_sjs0.6_2.12@0.9.4?classifier=sources

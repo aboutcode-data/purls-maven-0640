@@ -82,6 +82,12 @@
 - pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.42?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.43?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.43?type=war
+- pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.44?classifier=sources
+- pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.44?type=war
+- pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.45?classifier=sources
+- pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.45?type=war
+- pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.46?classifier=sources
+- pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.46?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.4?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.4?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-webapp@1.0.5?classifier=sources

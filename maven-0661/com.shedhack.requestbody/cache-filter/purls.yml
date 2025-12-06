@@ -2,3 +2,5 @@
 - pkg:maven/com.shedhack.requestbody/cache-filter@1.0.0?classifier=sources
 - pkg:maven/com.shedhack.requestbody/cache-filter@2.0.0
 - pkg:maven/com.shedhack.requestbody/cache-filter@2.0.0?classifier=sources
+- pkg:maven/com.shedhack.requestbody/cache-filter@2.1.0
+- pkg:maven/com.shedhack.requestbody/cache-filter@2.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/state@4.9.0
+- pkg:maven/de.alpharogroup/state@4.9.0?classifier=sources

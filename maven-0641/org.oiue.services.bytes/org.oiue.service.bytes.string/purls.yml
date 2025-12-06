@@ -1,0 +1,2 @@
+- pkg:maven/org.oiue.services.bytes/org.oiue.service.bytes.string@1.0.0
+- pkg:maven/org.oiue.services.bytes/org.oiue.service.bytes.string@1.0.0?classifier=sources

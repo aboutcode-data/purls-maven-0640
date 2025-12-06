@@ -1,0 +1,8 @@
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.72
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.72?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.74
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.74?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.75
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.75?classifier=sources
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.77.6
+- pkg:maven/se.sunet.ati.ladok/ati-ladok3-dto@0.77.6?classifier=sources

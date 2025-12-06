@@ -1,0 +1,2 @@
+- pkg:maven/de.unkrig.jdisasm/jdisasm@1.0.0
+- pkg:maven/de.unkrig.jdisasm/jdisasm@1.0.0?classifier=sources

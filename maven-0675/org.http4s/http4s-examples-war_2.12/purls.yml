@@ -1,0 +1,6 @@
+- pkg:maven/org.http4s/http4s-examples-war_2.12@0.16.0-M1?type=war
+- pkg:maven/org.http4s/http4s-examples-war_2.12@0.16.0-M2?type=war
+- pkg:maven/org.http4s/http4s-examples-war_2.12@0.16.0a-M1?type=war
+- pkg:maven/org.http4s/http4s-examples-war_2.12@0.16.0a-M2?type=war
+- pkg:maven/org.http4s/http4s-examples-war_2.12@0.17.0-M1?type=war
+- pkg:maven/org.http4s/http4s-examples-war_2.12@0.17.0-M2?type=war

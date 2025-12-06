@@ -8,3 +8,11 @@
 - pkg:maven/com.helpshift/android-helpshift-support-sdk@4.6.0-support?classifier=sources
 - pkg:maven/com.helpshift/android-helpshift-support-sdk@4.7.0-support
 - pkg:maven/com.helpshift/android-helpshift-support-sdk@4.7.0-support?classifier=sources
+- pkg:maven/com.helpshift/android-helpshift-support-sdk@4.8.0-support
+- pkg:maven/com.helpshift/android-helpshift-support-sdk@4.8.0-support?classifier=sources
+- pkg:maven/com.helpshift/android-helpshift-support-sdk@4.8.1-support
+- pkg:maven/com.helpshift/android-helpshift-support-sdk@4.8.1-support?classifier=sources
+- pkg:maven/com.helpshift/android-helpshift-support-sdk@4.9.0-support
+- pkg:maven/com.helpshift/android-helpshift-support-sdk@4.9.0-support?classifier=sources
+- pkg:maven/com.helpshift/android-helpshift-support-sdk@4.9.1-support
+- pkg:maven/com.helpshift/android-helpshift-support-sdk@4.9.1-support?classifier=sources

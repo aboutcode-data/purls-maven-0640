@@ -1,0 +1,4 @@
+- pkg:maven/io.github.javaeden.orchid/OrchidBsDoc@unspecified
+- pkg:maven/io.github.javaeden.orchid/OrchidBsDoc@unspecified?classifier=sources
+- pkg:maven/io.github.javaeden.orchid/OrchidBsDoc@v0.1.0
+- pkg:maven/io.github.javaeden.orchid/OrchidBsDoc@v0.1.0?classifier=sources

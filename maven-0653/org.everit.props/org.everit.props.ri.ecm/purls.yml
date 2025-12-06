@@ -1,2 +1,6 @@
 - pkg:maven/org.everit.props/org.everit.props.ri.ecm@1.0.0
 - pkg:maven/org.everit.props/org.everit.props.ri.ecm@1.0.0?classifier=sources
+- pkg:maven/org.everit.props/org.everit.props.ri.ecm@2.0.0
+- pkg:maven/org.everit.props/org.everit.props.ri.ecm@2.0.0?classifier=sources
+- pkg:maven/org.everit.props/org.everit.props.ri.ecm@3.0.0
+- pkg:maven/org.everit.props/org.everit.props.ri.ecm@3.0.0?classifier=sources

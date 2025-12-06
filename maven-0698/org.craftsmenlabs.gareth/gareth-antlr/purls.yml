@@ -24,3 +24,5 @@
 - pkg:maven/org.craftsmenlabs.gareth/gareth-antlr@0.8.5?classifier=sources
 - pkg:maven/org.craftsmenlabs.gareth/gareth-antlr@0.8.6
 - pkg:maven/org.craftsmenlabs.gareth/gareth-antlr@0.8.6?classifier=sources
+- pkg:maven/org.craftsmenlabs.gareth/gareth-antlr@0.8.7
+- pkg:maven/org.craftsmenlabs.gareth/gareth-antlr@0.8.7?classifier=sources

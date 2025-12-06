@@ -1,0 +1,2 @@
+- pkg:maven/org.x2br/x2br-mangaba@0.1.0.BETA
+- pkg:maven/org.x2br/x2br-mangaba@0.1.0.BETA?classifier=sources

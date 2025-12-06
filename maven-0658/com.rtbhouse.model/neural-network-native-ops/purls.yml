@@ -1,2 +1,4 @@
 - pkg:maven/com.rtbhouse.model/neural-network-native-ops@0.1
 - pkg:maven/com.rtbhouse.model/neural-network-native-ops@0.1?classifier=sources
+- pkg:maven/com.rtbhouse.model/neural-network-native-ops@0.4.1
+- pkg:maven/com.rtbhouse.model/neural-network-native-ops@0.4.1?classifier=sources

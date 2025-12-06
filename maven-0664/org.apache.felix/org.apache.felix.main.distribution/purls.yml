@@ -9,3 +9,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.main.distribution@5.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.main.distribution@5.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.main.distribution@5.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.main.distribution@5.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.main.distribution@5.6.2-update1?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.main.distribution@5.6.2?classifier=source-release&type=zip

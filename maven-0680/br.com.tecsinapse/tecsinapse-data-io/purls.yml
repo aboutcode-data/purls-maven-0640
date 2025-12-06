@@ -1,2 +1,6 @@
+- pkg:maven/br.com.tecsinapse/tecsinapse-data-io@1.1.60
+- pkg:maven/br.com.tecsinapse/tecsinapse-data-io@1.1.60?classifier=sources
 - pkg:maven/br.com.tecsinapse/tecsinapse-data-io@2.0.0
 - pkg:maven/br.com.tecsinapse/tecsinapse-data-io@2.0.0?classifier=sources
+- pkg:maven/br.com.tecsinapse/tecsinapse-data-io@2.0.1
+- pkg:maven/br.com.tecsinapse/tecsinapse-data-io@2.0.1?classifier=sources

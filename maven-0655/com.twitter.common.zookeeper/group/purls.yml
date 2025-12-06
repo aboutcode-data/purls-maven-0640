@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter.common.zookeeper/group@0.0.91
+- pkg:maven/com.twitter.common.zookeeper/group@0.0.91?classifier=sources
+- pkg:maven/com.twitter.common.zookeeper/group@0.0.92
+- pkg:maven/com.twitter.common.zookeeper/group@0.0.92?classifier=sources

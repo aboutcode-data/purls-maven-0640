@@ -1,0 +1,8 @@
+- pkg:maven/org.xhtmlrenderer/flying-saucer-fop@9.1.2
+- pkg:maven/org.xhtmlrenderer/flying-saucer-fop@9.1.2?classifier=sources
+- pkg:maven/org.xhtmlrenderer/flying-saucer-fop@9.1.3
+- pkg:maven/org.xhtmlrenderer/flying-saucer-fop@9.1.3?classifier=sources
+- pkg:maven/org.xhtmlrenderer/flying-saucer-fop@9.1.4
+- pkg:maven/org.xhtmlrenderer/flying-saucer-fop@9.1.4?classifier=sources
+- pkg:maven/org.xhtmlrenderer/flying-saucer-fop@9.1.5
+- pkg:maven/org.xhtmlrenderer/flying-saucer-fop@9.1.5?classifier=sources

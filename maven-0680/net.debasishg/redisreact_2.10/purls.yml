@@ -12,3 +12,5 @@
 - pkg:maven/net.debasishg/redisreact_2.10@0.7?classifier=sources
 - pkg:maven/net.debasishg/redisreact_2.10@0.8
 - pkg:maven/net.debasishg/redisreact_2.10@0.8?classifier=sources
+- pkg:maven/net.debasishg/redisreact_2.10@0.9
+- pkg:maven/net.debasishg/redisreact_2.10@0.9?classifier=sources

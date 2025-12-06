@@ -1,0 +1,2 @@
+- pkg:maven/org.n52.faroe/faroe-annotations@1.1.0
+- pkg:maven/org.n52.faroe/faroe-annotations@1.1.0?classifier=sources

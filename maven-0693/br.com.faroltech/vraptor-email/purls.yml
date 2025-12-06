@@ -1,0 +1,2 @@
+- pkg:maven/br.com.faroltech/vraptor-email@0.0.1
+- pkg:maven/br.com.faroltech/vraptor-email@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.restcomm.imscf/imscf-el@1.0.8?classifier=sources
+- pkg:maven/org.restcomm.imscf/imscf-el@1.0.8?type=war

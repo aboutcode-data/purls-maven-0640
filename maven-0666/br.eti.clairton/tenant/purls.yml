@@ -1,0 +1,2 @@
+- pkg:maven/br.eti.clairton/tenant@1.3.0
+- pkg:maven/br.eti.clairton/tenant@1.3.0?classifier=sources

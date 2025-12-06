@@ -1,3 +1,12 @@
 - pkg:maven/org.sonarsource.java/it-java-performancing@3.14
 - pkg:maven/org.sonarsource.java/it-java-performancing@4.0
+- pkg:maven/org.sonarsource.java/it-java-performancing@4.1
 - pkg:maven/org.sonarsource.java/it-java-performancing@4.2
+- pkg:maven/org.sonarsource.java/it-java-performancing@4.2.1.6971
+- pkg:maven/org.sonarsource.java/it-java-performancing@4.3.0.7717
+- pkg:maven/org.sonarsource.java/it-java-performancing@4.4.0.8066
+- pkg:maven/org.sonarsource.java/it-java-performancing@4.5.0.8398
+- pkg:maven/org.sonarsource.java/it-java-performancing@4.6.0.8784
+- pkg:maven/org.sonarsource.java/it-java-performancing@4.7.1.9272
+- pkg:maven/org.sonarsource.java/it-java-performancing@4.8.0.9441
+- pkg:maven/org.sonarsource.java/it-java-performancing@4.9.0.9858

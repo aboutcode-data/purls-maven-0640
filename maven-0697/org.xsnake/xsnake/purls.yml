@@ -2,3 +2,4 @@
 - pkg:maven/org.xsnake/xsnake@1.21?classifier=sources
 - pkg:maven/org.xsnake/xsnake@1.22
 - pkg:maven/org.xsnake/xsnake@1.22?classifier=sources
+- pkg:maven/org.xsnake/xsnake@1.90

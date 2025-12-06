@@ -10,3 +10,5 @@
 - pkg:maven/org.opensextant/solr-text-tagger@2.2?classifier=sources
 - pkg:maven/org.opensextant/solr-text-tagger@2.3
 - pkg:maven/org.opensextant/solr-text-tagger@2.3?classifier=sources
+- pkg:maven/org.opensextant/solr-text-tagger@2.4
+- pkg:maven/org.opensextant/solr-text-tagger@2.4?classifier=sources

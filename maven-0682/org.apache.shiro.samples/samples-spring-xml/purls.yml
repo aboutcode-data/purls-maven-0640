@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shiro.samples/samples-spring-xml@1.4.0?classifier=sources
+- pkg:maven/org.apache.shiro.samples/samples-spring-xml@1.4.0?type=war

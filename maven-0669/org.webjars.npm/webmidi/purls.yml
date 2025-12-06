@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/webmidi@2.0.0-rc.4
+- pkg:maven/org.webjars.npm/webmidi@2.0.0-rc.4?classifier=sources
+- pkg:maven/org.webjars.npm/webmidi@2.0.0-rc.5
+- pkg:maven/org.webjars.npm/webmidi@2.0.0-rc.5?classifier=sources

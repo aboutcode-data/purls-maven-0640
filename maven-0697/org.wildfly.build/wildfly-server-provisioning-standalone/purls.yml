@@ -24,3 +24,13 @@
 - pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.1.5.Final?classifier=sources
 - pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.1.6.Final
 - pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.1.6.Final?classifier=sources
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.1.7.Final
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.1.7.Final?classifier=sources
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.1.8.Final
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.1.8.Final?classifier=sources
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.2.0.Final
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.2.0.Final?classifier=sources
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.2.1.Final
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.2.1.Final?classifier=sources
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.2.2.Final
+- pkg:maven/org.wildfly.build/wildfly-server-provisioning-standalone@1.2.2.Final?classifier=sources

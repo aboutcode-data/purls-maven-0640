@@ -110,6 +110,12 @@
 - pkg:maven/org.picketbox/picketbox-infinispan@4.1.1.Final?classifier=sources
 - pkg:maven/org.picketbox/picketbox-infinispan@4.1.2.Final
 - pkg:maven/org.picketbox/picketbox-infinispan@4.1.2.Final?classifier=sources
+- pkg:maven/org.picketbox/picketbox-infinispan@4.1.3.Final
+- pkg:maven/org.picketbox/picketbox-infinispan@4.1.3.Final?classifier=sources
+- pkg:maven/org.picketbox/picketbox-infinispan@4.1.4.Final
+- pkg:maven/org.picketbox/picketbox-infinispan@4.1.4.Final?classifier=sources
+- pkg:maven/org.picketbox/picketbox-infinispan@4.1.5.Final
+- pkg:maven/org.picketbox/picketbox-infinispan@4.1.5.Final?classifier=sources
 - pkg:maven/org.picketbox/picketbox-infinispan@4.9.0.Beta1
 - pkg:maven/org.picketbox/picketbox-infinispan@4.9.0.Beta1?classifier=sources
 - pkg:maven/org.picketbox/picketbox-infinispan@4.9.0.Beta2
@@ -130,6 +136,8 @@
 - pkg:maven/org.picketbox/picketbox-infinispan@4.9.6.Final?classifier=sources
 - pkg:maven/org.picketbox/picketbox-infinispan@4.9.7.Final
 - pkg:maven/org.picketbox/picketbox-infinispan@4.9.7.Final?classifier=sources
+- pkg:maven/org.picketbox/picketbox-infinispan@4.9.8.Final
+- pkg:maven/org.picketbox/picketbox-infinispan@4.9.8.Final?classifier=sources
 - pkg:maven/org.picketbox/picketbox-infinispan@5.0.0-2012Aug24
 - pkg:maven/org.picketbox/picketbox-infinispan@5.0.0-2012Aug24?classifier=sources
 - pkg:maven/org.picketbox/picketbox-infinispan@5.0.0-2012Nov06
@@ -150,5 +158,11 @@
 - pkg:maven/org.picketbox/picketbox-infinispan@5.0.0.Alpha2?classifier=sources
 - pkg:maven/org.picketbox/picketbox-infinispan@5.0.0.Alpha3
 - pkg:maven/org.picketbox/picketbox-infinispan@5.0.0.Alpha3?classifier=sources
+- pkg:maven/org.picketbox/picketbox-infinispan@5.0.0.Beta1
+- pkg:maven/org.picketbox/picketbox-infinispan@5.0.0.Beta1?classifier=sources
 - pkg:maven/org.picketbox/picketbox-infinispan@5.0.0.Final
 - pkg:maven/org.picketbox/picketbox-infinispan@5.0.0.Final?classifier=sources
+- pkg:maven/org.picketbox/picketbox-infinispan@5.0.1.Final
+- pkg:maven/org.picketbox/picketbox-infinispan@5.0.1.Final?classifier=sources
+- pkg:maven/org.picketbox/picketbox-infinispan@5.0.2.Final
+- pkg:maven/org.picketbox/picketbox-infinispan@5.0.2.Final?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/com.zaubersoftware.gnip4j.documentation/gnip4j-documentation-site@1.0
 - pkg:maven/com.zaubersoftware.gnip4j.documentation/gnip4j-documentation-site@1.1
 - pkg:maven/com.zaubersoftware.gnip4j.documentation/gnip4j-documentation-site@1.1.1
+- pkg:maven/com.zaubersoftware.gnip4j.documentation/gnip4j-documentation-site@2.0.0
+- pkg:maven/com.zaubersoftware.gnip4j.documentation/gnip4j-documentation-site@2.1.0

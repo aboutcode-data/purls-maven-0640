@@ -3,5 +3,6 @@
 - pkg:maven/org.webjars/amcharts@3.13.1
 - pkg:maven/org.webjars/amcharts@3.15.0
 - pkg:maven/org.webjars/amcharts@3.20.13
+- pkg:maven/org.webjars/amcharts@3.20.13-1
 - pkg:maven/org.webjars/amcharts@3.4.7
 - pkg:maven/org.webjars/amcharts@3.9.1

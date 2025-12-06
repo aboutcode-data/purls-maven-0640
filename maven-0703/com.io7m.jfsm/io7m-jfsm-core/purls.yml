@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jfsm/io7m-jfsm-core@0.1.0
+- pkg:maven/com.io7m.jfsm/io7m-jfsm-core@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.evergage.android/evergage-android-sdk@1.2.2?classifier=sources
+- pkg:maven/com.evergage.android/evergage-android-sdk@1.2.2?type=aar

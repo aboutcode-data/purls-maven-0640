@@ -12,3 +12,5 @@
 - pkg:maven/com.hovans.android/library@0.6.0?type=aar
 - pkg:maven/com.hovans.android/library@0.7.0?classifier=sources
 - pkg:maven/com.hovans.android/library@0.7.0?type=aar
+- pkg:maven/com.hovans.android/library@0.9.4?classifier=sources
+- pkg:maven/com.hovans.android/library@0.9.4?type=aar

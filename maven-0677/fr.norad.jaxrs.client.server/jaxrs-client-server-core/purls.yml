@@ -6,6 +6,8 @@
 - pkg:maven/fr.norad.jaxrs.client.server/jaxrs-client-server-core@0.12?classifier=sources
 - pkg:maven/fr.norad.jaxrs.client.server/jaxrs-client-server-core@0.13
 - pkg:maven/fr.norad.jaxrs.client.server/jaxrs-client-server-core@0.13?classifier=sources
+- pkg:maven/fr.norad.jaxrs.client.server/jaxrs-client-server-core@0.14
+- pkg:maven/fr.norad.jaxrs.client.server/jaxrs-client-server-core@0.14?classifier=sources
 - pkg:maven/fr.norad.jaxrs.client.server/jaxrs-client-server-core@0.8
 - pkg:maven/fr.norad.jaxrs.client.server/jaxrs-client-server-core@0.8?classifier=sources
 - pkg:maven/fr.norad.jaxrs.client.server/jaxrs-client-server-core@0.9

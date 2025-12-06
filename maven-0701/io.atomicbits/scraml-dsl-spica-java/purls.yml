@@ -1,0 +1,4 @@
+- pkg:maven/io.atomicbits/scraml-dsl-spica-java@0.6.1c
+- pkg:maven/io.atomicbits/scraml-dsl-spica-java@0.6.1c?classifier=sources
+- pkg:maven/io.atomicbits/scraml-dsl-spica-java@0.6.1d
+- pkg:maven/io.atomicbits/scraml-dsl-spica-java@0.6.1d?classifier=sources

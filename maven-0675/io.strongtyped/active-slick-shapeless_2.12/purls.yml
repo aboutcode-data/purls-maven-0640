@@ -1,0 +1,2 @@
+- pkg:maven/io.strongtyped/active-slick-shapeless_2.12@0.3.5
+- pkg:maven/io.strongtyped/active-slick-shapeless_2.12@0.3.5?classifier=sources

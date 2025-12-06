@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/d3-dispatch@1.0.3
+- pkg:maven/org.webjars.bower/d3-dispatch@1.0.3?classifier=sources

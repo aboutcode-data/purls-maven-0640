@@ -10,3 +10,5 @@
 - pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-examples@1.4.5.Final?type=war
 - pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-examples@1.4.6.Final?classifier=sources
 - pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-examples@1.4.6.Final?type=war
+- pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-examples@1.4.7?classifier=sources
+- pkg:maven/com.sksamuel.jqm4gwt/jqm4gwt-examples@1.4.7?type=war

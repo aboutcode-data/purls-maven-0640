@@ -4,3 +4,5 @@
 - pkg:maven/se.liu.imt.mi.snomedct/SnomedCTParser@0.2?classifier=sources
 - pkg:maven/se.liu.imt.mi.snomedct/SnomedCTParser@0.3
 - pkg:maven/se.liu.imt.mi.snomedct/SnomedCTParser@0.3?classifier=sources
+- pkg:maven/se.liu.imt.mi.snomedct/SnomedCTParser@0.4
+- pkg:maven/se.liu.imt.mi.snomedct/SnomedCTParser@0.4?classifier=sources

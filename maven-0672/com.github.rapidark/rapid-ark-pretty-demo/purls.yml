@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rapidark/rapid-ark-pretty-demo@0.3.0
+- pkg:maven/com.github.rapidark/rapid-ark-pretty-demo@0.3.0?classifier=sources

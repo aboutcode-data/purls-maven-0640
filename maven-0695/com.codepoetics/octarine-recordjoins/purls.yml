@@ -12,5 +12,7 @@
 - pkg:maven/com.codepoetics/octarine-recordjoins@0.15?classifier=sources
 - pkg:maven/com.codepoetics/octarine-recordjoins@0.16
 - pkg:maven/com.codepoetics/octarine-recordjoins@0.16?classifier=sources
+- pkg:maven/com.codepoetics/octarine-recordjoins@0.17
+- pkg:maven/com.codepoetics/octarine-recordjoins@0.17?classifier=sources
 - pkg:maven/com.codepoetics/octarine-recordjoins@0.9
 - pkg:maven/com.codepoetics/octarine-recordjoins@0.9?classifier=sources

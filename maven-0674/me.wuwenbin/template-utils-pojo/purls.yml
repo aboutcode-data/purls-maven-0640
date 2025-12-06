@@ -1,0 +1,10 @@
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.0.0
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.0.0?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.1.0
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.1.0?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.2.0
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.2.0?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.2.1
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.2.1?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.2.2.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-pojo@1.2.2.RELEASE?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/website.automate/waml-report-io@0.8.0?classifier=sources
 - pkg:maven/website.automate/waml-report-io@0.9.0
 - pkg:maven/website.automate/waml-report-io@0.9.0?classifier=sources
+- pkg:maven/website.automate/waml-report-io@1.0.0
+- pkg:maven/website.automate/waml-report-io@1.0.0?classifier=sources

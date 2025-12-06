@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/oauth2-key@1.2.4
+- pkg:maven/com.networknt/oauth2-key@1.2.4?classifier=sources

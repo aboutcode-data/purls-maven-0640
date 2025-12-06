@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.portals.pluto/pluto-maven-plugin@3.0.0
+- pkg:maven/org.apache.portals.pluto/pluto-maven-plugin@3.0.0?classifier=sources

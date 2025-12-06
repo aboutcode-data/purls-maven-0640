@@ -1,0 +1,6 @@
+- pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@0.1.0
+- pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@0.1.0?classifier=sources
+- pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@1.0.0
+- pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@1.1.0
+- pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@1.1.0?classifier=sources

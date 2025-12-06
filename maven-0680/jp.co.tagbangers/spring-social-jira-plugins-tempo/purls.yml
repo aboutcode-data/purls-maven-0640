@@ -1,0 +1,4 @@
+- pkg:maven/jp.co.tagbangers/spring-social-jira-plugins-tempo@1.0.0.BUILD-SNAPSHOT-201610221550
+- pkg:maven/jp.co.tagbangers/spring-social-jira-plugins-tempo@1.0.0.BUILD-SNAPSHOT-201610221550?classifier=sources
+- pkg:maven/jp.co.tagbangers/spring-social-jira-plugins-tempo@1.0.0.M1
+- pkg:maven/jp.co.tagbangers/spring-social-jira-plugins-tempo@1.0.0.M1?classifier=sources

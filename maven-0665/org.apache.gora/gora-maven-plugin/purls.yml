@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.gora/gora-maven-plugin@0.7
+- pkg:maven/org.apache.gora/gora-maven-plugin@0.7?classifier=sources
+- pkg:maven/org.apache.gora/gora-maven-plugin@0.7?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora-maven-plugin@0.7?classifier=src&type=zip

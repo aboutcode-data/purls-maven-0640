@@ -1,3 +1,7 @@
+- pkg:maven/org.amebastack.maven/ameba-maven-plugin@0.1.10
+- pkg:maven/org.amebastack.maven/ameba-maven-plugin@0.1.10?classifier=sources
+- pkg:maven/org.amebastack.maven/ameba-maven-plugin@0.1.11
+- pkg:maven/org.amebastack.maven/ameba-maven-plugin@0.1.11?classifier=sources
 - pkg:maven/org.amebastack.maven/ameba-maven-plugin@0.1.8
 - pkg:maven/org.amebastack.maven/ameba-maven-plugin@0.1.8?classifier=sources
 - pkg:maven/org.amebastack.maven/ameba-maven-plugin@0.1.9

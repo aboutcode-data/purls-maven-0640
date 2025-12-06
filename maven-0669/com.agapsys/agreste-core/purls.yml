@@ -1,0 +1,10 @@
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170330
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170330?classifier=sources
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170415
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170415?classifier=sources
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170501
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170501?classifier=sources
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170508
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170508?classifier=sources
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170513
+- pkg:maven/com.agapsys/agreste-core@0.1.0-20170513?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.waikato.cms.weka/kfKettle@1.0.5
+- pkg:maven/nz.ac.waikato.cms.weka/kfKettle@1.0.5?classifier=sources
