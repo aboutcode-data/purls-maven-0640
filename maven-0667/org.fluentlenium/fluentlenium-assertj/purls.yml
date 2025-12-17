@@ -88,3 +88,15 @@
 - pkg:maven/org.fluentlenium/fluentlenium-assertj@3.6.1?classifier=sources
 - pkg:maven/org.fluentlenium/fluentlenium-assertj@3.7.0
 - pkg:maven/org.fluentlenium/fluentlenium-assertj@3.7.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@3.7.1
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@3.7.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@3.8.1
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@3.8.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@4.0.0
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@4.0.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@4.1.0
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@4.1.0?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@4.1.1
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@4.1.1?classifier=sources
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@4.2.2
+- pkg:maven/org.fluentlenium/fluentlenium-assertj@4.2.2?classifier=sources

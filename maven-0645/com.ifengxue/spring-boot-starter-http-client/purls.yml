@@ -1,0 +1,2 @@
+- pkg:maven/com.ifengxue/spring-boot-starter-http-client@1.5.1
+- pkg:maven/com.ifengxue/spring-boot-starter-http-client@1.5.1?classifier=sources

@@ -20,6 +20,8 @@
 - pkg:maven/net.named-data/jndn-android@0.19?classifier=sources
 - pkg:maven/net.named-data/jndn-android@0.20
 - pkg:maven/net.named-data/jndn-android@0.20?classifier=sources
+- pkg:maven/net.named-data/jndn-android@0.21
+- pkg:maven/net.named-data/jndn-android@0.21?classifier=sources
 - pkg:maven/net.named-data/jndn-android@0.7
 - pkg:maven/net.named-data/jndn-android@0.7.1
 - pkg:maven/net.named-data/jndn-android@0.7.1?classifier=sources

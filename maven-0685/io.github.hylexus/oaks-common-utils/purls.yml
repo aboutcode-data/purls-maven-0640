@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hylexus/oaks-common-utils@1.0
+- pkg:maven/io.github.hylexus/oaks-common-utils@1.0?classifier=sources

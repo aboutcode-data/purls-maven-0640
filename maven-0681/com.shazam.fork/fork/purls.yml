@@ -22,3 +22,4 @@
 - pkg:maven/com.shazam.fork/fork@3.4.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.5.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.6.0?classifier=sources
+- pkg:maven/com.shazam.fork/fork@3.7.0?classifier=sources

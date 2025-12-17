@@ -92,3 +92,11 @@
 - pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@3.4.2?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@3.5.0
 - pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@3.5.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@3.6.0
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@3.6.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@4.0.0
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@4.0.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@4.1.0
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@4.1.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@4.1.1
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@4.1.1?classifier=sources

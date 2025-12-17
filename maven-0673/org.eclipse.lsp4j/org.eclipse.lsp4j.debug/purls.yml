@@ -6,3 +6,7 @@
 - pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.debug@0.5.0.M1
 - pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.debug@0.5.0.M1?classifier=sources
 - pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.debug@0.5.0?classifier=sources
+- pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.debug@0.6.0
+- pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.debug@0.6.0?classifier=sources
+- pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.debug@0.7.0
+- pkg:maven/org.eclipse.lsp4j/org.eclipse.lsp4j.debug@0.7.0?classifier=sources

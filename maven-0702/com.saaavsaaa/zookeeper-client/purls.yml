@@ -21,4 +21,10 @@
 - pkg:maven/com.saaavsaaa/zookeeper-client@2.2-Release?classifier=sources
 - pkg:maven/com.saaavsaaa/zookeeper-client@2.2?classifier=sources
 - pkg:maven/com.saaavsaaa/zookeeper-client@2.3
+- pkg:maven/com.saaavsaaa/zookeeper-client@2.3-RC
+- pkg:maven/com.saaavsaaa/zookeeper-client@2.3-RC?classifier=sources
+- pkg:maven/com.saaavsaaa/zookeeper-client@2.3-RELEASE
+- pkg:maven/com.saaavsaaa/zookeeper-client@2.3-RELEASE?classifier=sources
 - pkg:maven/com.saaavsaaa/zookeeper-client@2.3?classifier=sources
+- pkg:maven/com.saaavsaaa/zookeeper-client@2.4
+- pkg:maven/com.saaavsaaa/zookeeper-client@2.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/tech.mlsql/streamingpro-dsl@1.1.7.1
+- pkg:maven/tech.mlsql/streamingpro-dsl@1.1.7.1?classifier=sources

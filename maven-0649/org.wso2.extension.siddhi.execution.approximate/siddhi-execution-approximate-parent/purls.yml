@@ -8,7 +8,11 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.20?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.21?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.22?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.4?classifier=source-release&type=zip
@@ -17,3 +21,4 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate-parent@1.1.0?classifier=source-release&type=zip

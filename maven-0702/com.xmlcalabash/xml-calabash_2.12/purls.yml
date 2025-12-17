@@ -1,0 +1,2 @@
+- pkg:maven/com.xmlcalabash/xml-calabash_2.12@1.99.1
+- pkg:maven/com.xmlcalabash/xml-calabash_2.12@1.99.1?classifier=sources

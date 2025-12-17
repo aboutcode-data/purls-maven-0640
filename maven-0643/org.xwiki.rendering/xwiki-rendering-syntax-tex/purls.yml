@@ -342,6 +342,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@9.11.7?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@9.11.8
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@9.11.8?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@9.11.9
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@9.11.9?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@9.11?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@9.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-tex@9.2

@@ -84,3 +84,9 @@
 - pkg:maven/io.javalin/javalin@2.3.0?classifier=sources
 - pkg:maven/io.javalin/javalin@2.4.0
 - pkg:maven/io.javalin/javalin@2.4.0?classifier=sources
+- pkg:maven/io.javalin/javalin@2.5.0
+- pkg:maven/io.javalin/javalin@2.5.0?classifier=sources
+- pkg:maven/io.javalin/javalin@2.6.0
+- pkg:maven/io.javalin/javalin@2.6.0?classifier=sources
+- pkg:maven/io.javalin/javalin@2.7.0
+- pkg:maven/io.javalin/javalin@2.7.0?classifier=sources

@@ -1,3 +1,12 @@
 - pkg:maven/com.github.joshelser/maven-fluido-skin@1.4-HBase
 - pkg:maven/com.github.joshelser/maven-fluido-skin@1.4-HBase?classifier=source-release&type=zip
 - pkg:maven/com.github.joshelser/maven-fluido-skin@1.4-HBase?classifier=sources
+- pkg:maven/com.github.joshelser/maven-fluido-skin@1.4.1-HBase
+- pkg:maven/com.github.joshelser/maven-fluido-skin@1.4.1-HBase?classifier=source-release&type=zip
+- pkg:maven/com.github.joshelser/maven-fluido-skin@1.4.1-HBase?classifier=sources
+- pkg:maven/com.github.joshelser/maven-fluido-skin@1.7-HBase
+- pkg:maven/com.github.joshelser/maven-fluido-skin@1.7-HBase?classifier=source-release&type=zip
+- pkg:maven/com.github.joshelser/maven-fluido-skin@1.7-HBase?classifier=sources
+- pkg:maven/com.github.joshelser/maven-fluido-skin@1.7.1-HBase
+- pkg:maven/com.github.joshelser/maven-fluido-skin@1.7.1-HBase?classifier=source-release&type=zip
+- pkg:maven/com.github.joshelser/maven-fluido-skin@1.7.1-HBase?classifier=sources

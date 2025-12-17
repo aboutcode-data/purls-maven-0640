@@ -7,4 +7,6 @@
 - pkg:maven/com.alibaba.nls/nls-sdk-long-asr@2.0.2
 - pkg:maven/com.alibaba.nls/nls-sdk-long-asr@2.0.2?classifier=sources
 - pkg:maven/com.alibaba.nls/nls-sdk-long-asr@2.0.3
+- pkg:maven/com.alibaba.nls/nls-sdk-long-asr@2.0.3-beta
+- pkg:maven/com.alibaba.nls/nls-sdk-long-asr@2.0.3-beta?classifier=sources
 - pkg:maven/com.alibaba.nls/nls-sdk-long-asr@2.0.3?classifier=sources

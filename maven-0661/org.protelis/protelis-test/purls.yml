@@ -22,3 +22,15 @@
 - pkg:maven/org.protelis/protelis-test@10.5.1?classifier=sources
 - pkg:maven/org.protelis/protelis-test@10.5.2
 - pkg:maven/org.protelis/protelis-test@10.5.2?classifier=sources
+- pkg:maven/org.protelis/protelis-test@10.6.0
+- pkg:maven/org.protelis/protelis-test@10.6.0?classifier=sources
+- pkg:maven/org.protelis/protelis-test@10.7.0
+- pkg:maven/org.protelis/protelis-test@10.7.0%2B145.bdbf132
+- pkg:maven/org.protelis/protelis-test@10.7.0%2B145.bdbf132?classifier=sources
+- pkg:maven/org.protelis/protelis-test@10.7.0-j7
+- pkg:maven/org.protelis/protelis-test@10.7.0-j7?classifier=sources
+- pkg:maven/org.protelis/protelis-test@10.7.0?classifier=sources
+- pkg:maven/org.protelis/protelis-test@11.0.0-beta%2B145.6451
+- pkg:maven/org.protelis/protelis-test@11.0.0-beta%2B145.6451?classifier=sources
+- pkg:maven/org.protelis/protelis-test@11.0.0-j7-beta%2B145.6
+- pkg:maven/org.protelis/protelis-test@11.0.0-j7-beta%2B145.6?classifier=sources

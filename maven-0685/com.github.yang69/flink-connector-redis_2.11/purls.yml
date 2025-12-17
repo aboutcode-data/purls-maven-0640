@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yang69/flink-connector-redis_2.11@1.0
+- pkg:maven/com.github.yang69/flink-connector-redis_2.11@1.0?classifier=sources

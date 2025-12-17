@@ -4,6 +4,8 @@
 - pkg:maven/de.alpharogroup/visitor@4.11.0?classifier=sources
 - pkg:maven/de.alpharogroup/visitor@4.12.0
 - pkg:maven/de.alpharogroup/visitor@4.12.0?classifier=sources
+- pkg:maven/de.alpharogroup/visitor@4.14
+- pkg:maven/de.alpharogroup/visitor@4.14?classifier=sources
 - pkg:maven/de.alpharogroup/visitor@4.8.0
 - pkg:maven/de.alpharogroup/visitor@4.8.0?classifier=sources
 - pkg:maven/de.alpharogroup/visitor@4.9.0

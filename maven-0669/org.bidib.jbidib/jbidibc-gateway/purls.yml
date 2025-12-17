@@ -2,6 +2,8 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-gateway@1.10.0?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-gateway@1.10.1
 - pkg:maven/org.bidib.jbidib/jbidibc-gateway@1.10.1?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-gateway@1.11.0
+- pkg:maven/org.bidib.jbidib/jbidibc-gateway@1.11.0?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-gateway@1.9.2
 - pkg:maven/org.bidib.jbidib/jbidibc-gateway@1.9.2?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-gateway@1.9.3

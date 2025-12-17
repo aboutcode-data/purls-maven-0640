@@ -1,0 +1,2 @@
+- pkg:maven/com.virgilsecurity.crypto/foundation@5.0.1
+- pkg:maven/com.virgilsecurity.crypto/foundation@5.0.1?classifier=sources

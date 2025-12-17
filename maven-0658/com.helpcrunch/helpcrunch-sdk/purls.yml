@@ -89,3 +89,9 @@
 - pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.7?type=aar
 - pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.8?classifier=sources
 - pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.8?type=aar
+- pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.9?classifier=sources
+- pkg:maven/com.helpcrunch/helpcrunch-sdk@1.4.9?type=aar
+- pkg:maven/com.helpcrunch/helpcrunch-sdk@1.5.0?classifier=sources
+- pkg:maven/com.helpcrunch/helpcrunch-sdk@1.5.0?type=aar
+- pkg:maven/com.helpcrunch/helpcrunch-sdk@1.5.1?classifier=sources
+- pkg:maven/com.helpcrunch/helpcrunch-sdk@1.5.1?type=aar

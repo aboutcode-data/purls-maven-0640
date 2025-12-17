@@ -1,2 +1,4 @@
 - pkg:maven/jp.t2v/play2-pager-scalikejdbc_2.11@0.1.0
 - pkg:maven/jp.t2v/play2-pager-scalikejdbc_2.11@0.1.0?classifier=sources
+- pkg:maven/jp.t2v/play2-pager-scalikejdbc_2.11@0.2.0
+- pkg:maven/jp.t2v/play2-pager-scalikejdbc_2.11@0.2.0?classifier=sources

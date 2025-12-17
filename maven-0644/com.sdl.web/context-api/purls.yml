@@ -10,3 +10,5 @@
 - pkg:maven/com.sdl.web/context-api@8.5.0-1013?classifier=sources
 - pkg:maven/com.sdl.web/context-api@8.5.0-1042
 - pkg:maven/com.sdl.web/context-api@8.5.0-1042?classifier=sources
+- pkg:maven/com.sdl.web/context-api@8.5.0-1107
+- pkg:maven/com.sdl.web/context-api@8.5.0-1107?classifier=sources

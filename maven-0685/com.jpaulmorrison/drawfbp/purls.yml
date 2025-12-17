@@ -13,5 +13,13 @@
 - pkg:maven/com.jpaulmorrison/drawfbp@2.13.6?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.13.8?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.14.2?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.15.10?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.15.3?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.15.4?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.15.5?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.15.6?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.15.7?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.15.8?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.15.9?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.16.1?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.16.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.intersystems/intersystems-jdbc@2018.1.2.609.0
+- pkg:maven/com.intersystems/intersystems-jdbc@3.0.0

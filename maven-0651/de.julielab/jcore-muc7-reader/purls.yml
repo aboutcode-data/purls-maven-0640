@@ -10,3 +10,11 @@
 - pkg:maven/de.julielab/jcore-muc7-reader@2.2.0?classifier=sources
 - pkg:maven/de.julielab/jcore-muc7-reader@2.3.0
 - pkg:maven/de.julielab/jcore-muc7-reader@2.3.0?classifier=sources
+- pkg:maven/de.julielab/jcore-muc7-reader@2.3.10
+- pkg:maven/de.julielab/jcore-muc7-reader@2.3.10?classifier=sources
+- pkg:maven/de.julielab/jcore-muc7-reader@2.3.3
+- pkg:maven/de.julielab/jcore-muc7-reader@2.3.3?classifier=sources
+- pkg:maven/de.julielab/jcore-muc7-reader@2.3.4
+- pkg:maven/de.julielab/jcore-muc7-reader@2.3.4?classifier=sources
+- pkg:maven/de.julielab/jcore-muc7-reader@2.3.8
+- pkg:maven/de.julielab/jcore-muc7-reader@2.3.8?classifier=sources

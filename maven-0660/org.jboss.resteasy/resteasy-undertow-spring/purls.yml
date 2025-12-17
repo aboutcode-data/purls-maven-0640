@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.resteasy/resteasy-undertow-spring@4.0.0.CR1
+- pkg:maven/org.jboss.resteasy/resteasy-undertow-spring@4.0.0.CR1?classifier=sources

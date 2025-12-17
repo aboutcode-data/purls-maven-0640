@@ -1,0 +1,2 @@
+- pkg:maven/hr.laplacian.laplas/elastic4s-http_2.11@6.5.2
+- pkg:maven/hr.laplacian.laplas/elastic4s-http_2.11@6.5.2?classifier=sources

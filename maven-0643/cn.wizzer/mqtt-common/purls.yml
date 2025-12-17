@@ -10,3 +10,9 @@
 - pkg:maven/cn.wizzer/mqtt-common@1.0.4-netty?classifier=sources
 - pkg:maven/cn.wizzer/mqtt-common@1.0.5-netty
 - pkg:maven/cn.wizzer/mqtt-common@1.0.5-netty?classifier=sources
+- pkg:maven/cn.wizzer/mqtt-common@1.0.6-netty
+- pkg:maven/cn.wizzer/mqtt-common@1.0.6-netty?classifier=sources
+- pkg:maven/cn.wizzer/mqtt-common@1.0.7-netty
+- pkg:maven/cn.wizzer/mqtt-common@1.0.7-netty?classifier=sources
+- pkg:maven/cn.wizzer/mqtt-common@1.0.8-netty
+- pkg:maven/cn.wizzer/mqtt-common@1.0.8-netty?classifier=sources

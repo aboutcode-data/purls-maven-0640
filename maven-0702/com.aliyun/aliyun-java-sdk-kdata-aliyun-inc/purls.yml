@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-kdata-aliyun-inc@1.8.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-kdata-aliyun-inc@1.8.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-kdata-aliyun-inc@2.2.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-kdata-aliyun-inc@2.2.1?classifier=sources

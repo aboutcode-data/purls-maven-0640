@@ -1,2 +1,4 @@
 - pkg:maven/uk.ac.gate.plugins/learningframework@4.0-alpha1
 - pkg:maven/uk.ac.gate.plugins/learningframework@4.0-alpha1?classifier=sources
+- pkg:maven/uk.ac.gate.plugins/learningframework@4.1.1
+- pkg:maven/uk.ac.gate.plugins/learningframework@4.1.1?classifier=sources

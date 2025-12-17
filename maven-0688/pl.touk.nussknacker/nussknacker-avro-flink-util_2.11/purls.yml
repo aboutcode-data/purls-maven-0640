@@ -1,0 +1,2 @@
+- pkg:maven/pl.touk.nussknacker/nussknacker-avro-flink-util_2.11@0.0.10
+- pkg:maven/pl.touk.nussknacker/nussknacker-avro-flink-util_2.11@0.0.10?classifier=sources

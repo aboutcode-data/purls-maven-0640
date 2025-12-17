@@ -116,3 +116,7 @@
 - pkg:maven/org.codehaus.plexus/plexus-archiver@3.6.0?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-archiver@3.7.0
 - pkg:maven/org.codehaus.plexus/plexus-archiver@3.7.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-archiver@4.0.0
+- pkg:maven/org.codehaus.plexus/plexus-archiver@4.0.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-archiver@4.1.0
+- pkg:maven/org.codehaus.plexus/plexus-archiver@4.1.0?classifier=sources

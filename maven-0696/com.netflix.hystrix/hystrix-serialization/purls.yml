@@ -4,6 +4,8 @@
 - pkg:maven/com.netflix.hystrix/hystrix-serialization@1.5.11?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-serialization@1.5.12
 - pkg:maven/com.netflix.hystrix/hystrix-serialization@1.5.12?classifier=sources
+- pkg:maven/com.netflix.hystrix/hystrix-serialization@1.5.18
+- pkg:maven/com.netflix.hystrix/hystrix-serialization@1.5.18?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-serialization@1.5.4
 - pkg:maven/com.netflix.hystrix/hystrix-serialization@1.5.4?classifier=sources
 - pkg:maven/com.netflix.hystrix/hystrix-serialization@1.5.5

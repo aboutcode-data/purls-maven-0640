@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.any23/apache-any23-service@2.1?type=war
 - pkg:maven/org.apache.any23/apache-any23-service@2.2?classifier=sources
 - pkg:maven/org.apache.any23/apache-any23-service@2.2?type=war
+- pkg:maven/org.apache.any23/apache-any23-service@2.3?classifier=sources
+- pkg:maven/org.apache.any23/apache-any23-service@2.3?type=war

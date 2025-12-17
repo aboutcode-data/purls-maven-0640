@@ -1,0 +1,2 @@
+- pkg:maven/net.corda/corda-common-validation@4.0
+- pkg:maven/net.corda/corda-common-validation@4.0?classifier=sources

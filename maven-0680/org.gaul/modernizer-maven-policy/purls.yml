@@ -1,0 +1,2 @@
+- pkg:maven/org.gaul/modernizer-maven-policy@1.8.0
+- pkg:maven/org.gaul/modernizer-maven-policy@1.8.0?classifier=sources

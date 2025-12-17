@@ -1,0 +1,6 @@
+- pkg:maven/com.thoughtworks.binding/safebuffer_2.10@11.4.0
+- pkg:maven/com.thoughtworks.binding/safebuffer_2.10@11.4.0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/safebuffer_2.10@11.5.0
+- pkg:maven/com.thoughtworks.binding/safebuffer_2.10@11.5.0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/safebuffer_2.10@11.6.0
+- pkg:maven/com.thoughtworks.binding/safebuffer_2.10@11.6.0?classifier=sources

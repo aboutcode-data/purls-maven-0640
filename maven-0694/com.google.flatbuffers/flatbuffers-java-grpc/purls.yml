@@ -1,3 +1,5 @@
+- pkg:maven/com.google.flatbuffers/flatbuffers-java-grpc@1.10.0
+- pkg:maven/com.google.flatbuffers/flatbuffers-java-grpc@1.10.0?classifier=sources
 - pkg:maven/com.google.flatbuffers/flatbuffers-java-grpc@1.8.0
 - pkg:maven/com.google.flatbuffers/flatbuffers-java-grpc@1.8.0?classifier=sources
 - pkg:maven/com.google.flatbuffers/flatbuffers-java-grpc@1.9.0

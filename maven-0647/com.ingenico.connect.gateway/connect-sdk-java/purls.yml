@@ -40,6 +40,16 @@
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.28.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.29.0
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.29.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.30.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.30.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.31.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.31.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.32.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.32.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.33.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.33.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.34.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.34.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.4.0
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.4.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@5.5.0

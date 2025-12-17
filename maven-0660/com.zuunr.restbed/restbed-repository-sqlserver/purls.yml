@@ -1,0 +1,2 @@
+- pkg:maven/com.zuunr.restbed/restbed-repository-sqlserver@1.0.0.M1-842ad4b
+- pkg:maven/com.zuunr.restbed/restbed-repository-sqlserver@1.0.0.M1-842ad4b?classifier=sources

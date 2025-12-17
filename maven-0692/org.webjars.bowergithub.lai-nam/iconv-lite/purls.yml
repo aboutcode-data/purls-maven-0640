@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.lai-nam/iconv-lite@0.2.11
+- pkg:maven/org.webjars.bowergithub.lai-nam/iconv-lite@0.2.11?classifier=sources
 - pkg:maven/org.webjars.bowergithub.lai-nam/iconv-lite@0.4.13
 - pkg:maven/org.webjars.bowergithub.lai-nam/iconv-lite@0.4.13?classifier=sources

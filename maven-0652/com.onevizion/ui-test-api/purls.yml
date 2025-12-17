@@ -1,2 +1,6 @@
+- pkg:maven/com.onevizion/ui-test-api@19.2.0
+- pkg:maven/com.onevizion/ui-test-api@19.2.0?classifier=sources
+- pkg:maven/com.onevizion/ui-test-api@19.3.0
+- pkg:maven/com.onevizion/ui-test-api@19.3.0?classifier=sources
 - pkg:maven/com.onevizion/ui-test-api@8.92.1
 - pkg:maven/com.onevizion/ui-test-api@8.92.1?classifier=sources

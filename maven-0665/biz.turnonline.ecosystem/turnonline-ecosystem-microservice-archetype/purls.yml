@@ -1,0 +1,2 @@
+- pkg:maven/biz.turnonline.ecosystem/turnonline-ecosystem-microservice-archetype@1.0?classifier=sources
+- pkg:maven/biz.turnonline.ecosystem/turnonline-ecosystem-microservice-archetype@1.1?classifier=sources

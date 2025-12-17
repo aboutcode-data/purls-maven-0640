@@ -202,6 +202,8 @@
 - pkg:maven/org.apache.wicket/wicket-datetime@6.29.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-datetime@6.3.0
 - pkg:maven/org.apache.wicket/wicket-datetime@6.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-datetime@6.30.0
+- pkg:maven/org.apache.wicket/wicket-datetime@6.30.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-datetime@6.4.0
 - pkg:maven/org.apache.wicket/wicket-datetime@6.4.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-datetime@6.5.0
@@ -234,6 +236,10 @@
 - pkg:maven/org.apache.wicket/wicket-datetime@7.1.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-datetime@7.10.0
 - pkg:maven/org.apache.wicket/wicket-datetime@7.10.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-datetime@7.11.0
+- pkg:maven/org.apache.wicket/wicket-datetime@7.11.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-datetime@7.12.0
+- pkg:maven/org.apache.wicket/wicket-datetime@7.12.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-datetime@7.2.0
 - pkg:maven/org.apache.wicket/wicket-datetime@7.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-datetime@7.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sunnus3/file-tool@0.1
+- pkg:maven/com.github.sunnus3/file-tool@0.1?classifier=sources

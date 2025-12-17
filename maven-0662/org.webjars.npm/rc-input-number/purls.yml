@@ -16,3 +16,7 @@
 - pkg:maven/org.webjars.npm/rc-input-number@4.0.12?classifier=sources
 - pkg:maven/org.webjars.npm/rc-input-number@4.0.3
 - pkg:maven/org.webjars.npm/rc-input-number@4.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/rc-input-number@4.3.9
+- pkg:maven/org.webjars.npm/rc-input-number@4.3.9?classifier=sources
+- pkg:maven/org.webjars.npm/rc-input-number@4.4.0
+- pkg:maven/org.webjars.npm/rc-input-number@4.4.0?classifier=sources

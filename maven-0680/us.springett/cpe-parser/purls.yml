@@ -1,2 +1,4 @@
 - pkg:maven/us.springett/cpe-parser@1.0.0
 - pkg:maven/us.springett/cpe-parser@1.0.0?classifier=sources
+- pkg:maven/us.springett/cpe-parser@2.0.0
+- pkg:maven/us.springett/cpe-parser@2.0.0?classifier=sources

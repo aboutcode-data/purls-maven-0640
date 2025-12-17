@@ -138,6 +138,14 @@
 - pkg:maven/com.groupbyinc/common-jackson@182?classifier=sources
 - pkg:maven/com.groupbyinc/common-jackson@183
 - pkg:maven/com.groupbyinc/common-jackson@183?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@184
+- pkg:maven/com.groupbyinc/common-jackson@184?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@185
+- pkg:maven/com.groupbyinc/common-jackson@185?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@186
+- pkg:maven/com.groupbyinc/common-jackson@186?classifier=sources
+- pkg:maven/com.groupbyinc/common-jackson@187
+- pkg:maven/com.groupbyinc/common-jackson@187?classifier=sources
 - pkg:maven/com.groupbyinc/common-jackson@19
 - pkg:maven/com.groupbyinc/common-jackson@19?classifier=sources
 - pkg:maven/com.groupbyinc/common-jackson@20

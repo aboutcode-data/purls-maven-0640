@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.chartjs/chartjs-plugin-annotation@0.5.7
+- pkg:maven/org.webjars.bowergithub.chartjs/chartjs-plugin-annotation@0.5.7?classifier=sources

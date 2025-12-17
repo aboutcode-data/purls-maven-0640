@@ -1,2 +1,3 @@
 - pkg:maven/org.aksw.sparqlify/obda-api-bundle@0.8.4
 - pkg:maven/org.aksw.sparqlify/obda-api-bundle@0.8.5
+- pkg:maven/org.aksw.sparqlify/obda-api-bundle@0.8.6

@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.phoenix/presto-hbase-testing-util-shaded@4.14.1-HBase-1.4
+- pkg:maven/org.apache.phoenix/presto-hbase-testing-util-shaded@4.14.1-HBase-1.4-PPS-0.1
+- pkg:maven/org.apache.phoenix/presto-hbase-testing-util-shaded@4.14.1-HBase-1.4-PPS-0.1?classifier=sources
+- pkg:maven/org.apache.phoenix/presto-hbase-testing-util-shaded@4.14.1-HBase-1.4-PPS-0.2
+- pkg:maven/org.apache.phoenix/presto-hbase-testing-util-shaded@4.14.1-HBase-1.4-PPS-0.2?classifier=sources
+- pkg:maven/org.apache.phoenix/presto-hbase-testing-util-shaded@4.14.1-HBase-1.4?classifier=sources

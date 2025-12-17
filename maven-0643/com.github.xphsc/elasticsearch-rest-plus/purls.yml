@@ -1,0 +1,6 @@
+- pkg:maven/com.github.xphsc/elasticsearch-rest-plus@1.0.0-RC
+- pkg:maven/com.github.xphsc/elasticsearch-rest-plus@1.0.0-RC?classifier=sources
+- pkg:maven/com.github.xphsc/elasticsearch-rest-plus@1.0.0-alpha
+- pkg:maven/com.github.xphsc/elasticsearch-rest-plus@1.0.0-alpha?classifier=sources
+- pkg:maven/com.github.xphsc/elasticsearch-rest-plus@1.0.0-beta
+- pkg:maven/com.github.xphsc/elasticsearch-rest-plus@1.0.0-beta?classifier=sources

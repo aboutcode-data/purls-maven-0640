@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/encoding-japanese@1.0.24?classifier=sources
 - pkg:maven/org.webjars.npm/encoding-japanese@1.0.26
 - pkg:maven/org.webjars.npm/encoding-japanese@1.0.26?classifier=sources
+- pkg:maven/org.webjars.npm/encoding-japanese@1.0.29
+- pkg:maven/org.webjars.npm/encoding-japanese@1.0.29?classifier=sources

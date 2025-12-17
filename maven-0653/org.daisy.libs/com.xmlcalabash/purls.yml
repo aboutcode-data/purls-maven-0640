@@ -8,6 +8,10 @@
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.0.8?classifier=sources
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.0.9
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.0.9?classifier=sources
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p1-98
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p1-98?classifier=sources
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p2-98
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p2-98?classifier=sources
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.9-p1-95
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.9-p1-95?classifier=sources
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.9-p2-95

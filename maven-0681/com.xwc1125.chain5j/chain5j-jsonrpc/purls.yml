@@ -1,0 +1,2 @@
+- pkg:maven/com.xwc1125.chain5j/chain5j-jsonrpc@1.0.0
+- pkg:maven/com.xwc1125.chain5j/chain5j-jsonrpc@1.0.0?classifier=sources

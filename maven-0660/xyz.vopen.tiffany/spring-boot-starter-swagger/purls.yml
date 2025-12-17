@@ -1,2 +1,4 @@
 - pkg:maven/xyz.vopen.tiffany/spring-boot-starter-swagger@0.8-RELEASE
 - pkg:maven/xyz.vopen.tiffany/spring-boot-starter-swagger@0.8-RELEASE?classifier=sources
+- pkg:maven/xyz.vopen.tiffany/spring-boot-starter-swagger@0.8.1-RELEASE
+- pkg:maven/xyz.vopen.tiffany/spring-boot-starter-swagger@0.8.1-RELEASE?classifier=sources

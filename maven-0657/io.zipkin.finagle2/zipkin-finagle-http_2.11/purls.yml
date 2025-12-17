@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-http_2.11@2.0.10
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-http_2.11@2.0.10?classifier=sources

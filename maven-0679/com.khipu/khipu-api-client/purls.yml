@@ -30,3 +30,7 @@
 - pkg:maven/com.khipu/khipu-api-client@2.7.7?classifier=sources
 - pkg:maven/com.khipu/khipu-api-client@2.8.0
 - pkg:maven/com.khipu/khipu-api-client@2.8.0?classifier=sources
+- pkg:maven/com.khipu/khipu-api-client@2.8.1.7
+- pkg:maven/com.khipu/khipu-api-client@2.8.1.7?classifier=sources
+- pkg:maven/com.khipu/khipu-api-client@2.9.0
+- pkg:maven/com.khipu/khipu-api-client@2.9.0?classifier=sources

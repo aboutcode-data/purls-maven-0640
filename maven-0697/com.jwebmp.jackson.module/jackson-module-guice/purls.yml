@@ -1,0 +1,10 @@
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.63.0.17
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.63.0.17?classifier=sources
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.63.0.19
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.63.0.19?classifier=sources
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.63.0.61
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.63.0.61?classifier=sources
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.65.0.2
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.65.0.2?classifier=sources
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.65.0.3
+- pkg:maven/com.jwebmp.jackson.module/jackson-module-guice@0.65.0.3?classifier=sources

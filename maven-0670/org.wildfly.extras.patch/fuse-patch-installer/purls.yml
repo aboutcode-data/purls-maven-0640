@@ -54,6 +54,8 @@
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-installer@2.7.0?classifier=sources
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-installer@3.0.0
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-installer@3.0.0?classifier=sources
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-installer@3.2.0.fuse-730003
+- pkg:maven/org.wildfly.extras.patch/fuse-patch-installer@3.2.0.fuse-730003?classifier=sources
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-installer@4.0.0
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-installer@4.0.0?classifier=sources
 - pkg:maven/org.wildfly.extras.patch/fuse-patch-installer@5.0.0

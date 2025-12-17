@@ -4,6 +4,10 @@
 - pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M11?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M12
 - pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M12?classifier=sources
+- pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M13
+- pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M13?classifier=sources
+- pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M14
+- pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M14?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M7
 - pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M7?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector-tcp@2.0.0-M8

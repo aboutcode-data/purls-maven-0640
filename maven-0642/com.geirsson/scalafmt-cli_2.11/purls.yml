@@ -150,3 +150,5 @@
 - pkg:maven/com.geirsson/scalafmt-cli_2.11@1.6.0-RC3?classifier=sources
 - pkg:maven/com.geirsson/scalafmt-cli_2.11@1.6.0-RC4
 - pkg:maven/com.geirsson/scalafmt-cli_2.11@1.6.0-RC4?classifier=sources
+- pkg:maven/com.geirsson/scalafmt-cli_2.11@2.0.0-RC1
+- pkg:maven/com.geirsson/scalafmt-cli_2.11@2.0.0-RC1?classifier=sources

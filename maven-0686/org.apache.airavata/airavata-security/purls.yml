@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.airavata/airavata-security@0.15?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-security@0.16
 - pkg:maven/org.apache.airavata/airavata-security@0.16?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-security@0.17
+- pkg:maven/org.apache.airavata/airavata-security@0.17?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-security@0.6
 - pkg:maven/org.apache.airavata/airavata-security@0.6?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-security@0.7

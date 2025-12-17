@@ -1,0 +1,2 @@
+- pkg:maven/org.ladsn/ladsn-cloud-admin@1.0.2
+- pkg:maven/org.ladsn/ladsn-cloud-admin@1.0.2?classifier=sources

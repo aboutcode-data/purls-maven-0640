@@ -1,0 +1,2 @@
+- pkg:maven/org.komamitsu/fluency-fluentd@2.0.0?classifier=sources
+- pkg:maven/org.komamitsu/fluency-fluentd@2.1.0?classifier=sources

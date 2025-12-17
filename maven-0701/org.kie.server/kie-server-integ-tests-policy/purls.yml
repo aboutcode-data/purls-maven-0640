@@ -16,6 +16,12 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.11.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.12.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.13.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.14.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.15.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.16.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.17.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.18.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.19.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.2.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.3.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-policy@7.4.0.Final

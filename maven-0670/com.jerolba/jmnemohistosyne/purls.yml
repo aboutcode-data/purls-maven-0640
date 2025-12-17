@@ -1,0 +1,2 @@
+- pkg:maven/com.jerolba/jmnemohistosyne@0.2.3
+- pkg:maven/com.jerolba/jmnemohistosyne@0.2.3?classifier=sources

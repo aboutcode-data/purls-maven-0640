@@ -57,8 +57,17 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.3.0-M2
 - pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.3.1
 - pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.3.2
+- pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.3.3
 - pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.0
 - pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.0-M1
 - pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.0-M2
 - pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.0-M3
 - pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.1
+- pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.2
+- pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.3
+- pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.4
+- pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.5
+- pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.4.6
+- pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.5.0
+- pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.5.0-M1
+- pkg:maven/org.eclipse.rdf4j/rdf4j-runtime@2.5.0-M2

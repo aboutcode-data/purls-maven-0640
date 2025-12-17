@@ -1,0 +1,4 @@
+- pkg:maven/org.dominokit.domino.archetypes/domino-gwt-single-module-archetype@1.0-rc.3-1?classifier=sources
+- pkg:maven/org.dominokit.domino.archetypes/domino-gwt-single-module-archetype@1.0-rc.3-2?classifier=sources
+- pkg:maven/org.dominokit.domino.archetypes/domino-gwt-single-module-archetype@1.0-rc.3-3?classifier=sources
+- pkg:maven/org.dominokit.domino.archetypes/domino-gwt-single-module-archetype@1.0-rc.3?classifier=sources

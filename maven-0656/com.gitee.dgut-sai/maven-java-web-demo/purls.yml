@@ -1,0 +1,6 @@
+- pkg:maven/com.gitee.dgut-sai/maven-java-web-demo@1.2.1?classifier=sources
+- pkg:maven/com.gitee.dgut-sai/maven-java-web-demo@1.2.1?type=war
+- pkg:maven/com.gitee.dgut-sai/maven-java-web-demo@1.2.2?classifier=sources
+- pkg:maven/com.gitee.dgut-sai/maven-java-web-demo@1.2.2?type=war
+- pkg:maven/com.gitee.dgut-sai/maven-java-web-demo@1.2?classifier=sources
+- pkg:maven/com.gitee.dgut-sai/maven-java-web-demo@1.2?type=war

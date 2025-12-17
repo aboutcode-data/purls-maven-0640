@@ -1,0 +1,2 @@
+- pkg:maven/com.github.WangJi92/spirng-parameter-validator@1.0
+- pkg:maven/com.github.WangJi92/spirng-parameter-validator@1.0?classifier=sources

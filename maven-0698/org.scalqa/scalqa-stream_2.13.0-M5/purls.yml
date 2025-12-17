@@ -1,0 +1,2 @@
+- pkg:maven/org.scalqa/scalqa-stream_2.13.0-M5@0.1
+- pkg:maven/org.scalqa/scalqa-stream_2.13.0-M5@0.1?classifier=sources

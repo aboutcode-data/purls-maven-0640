@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bulma-scss@0.6.0
+- pkg:maven/org.webjars.npm/bulma-scss@0.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.dreamlu.mica/mica-launcher@0.0.1-RC1
+- pkg:maven/net.dreamlu.mica/mica-launcher@0.0.1-RC1?classifier=sources

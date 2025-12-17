@@ -1,0 +1,10 @@
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@1.0
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@1.0?classifier=sources
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@2.0
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@2.0?classifier=sources
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@3.0
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@3.0?classifier=sources
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@3.1
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@3.1?classifier=sources
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@3.2
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@3.2?classifier=sources

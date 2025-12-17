@@ -1,0 +1,2 @@
+- pkg:maven/co.present.rpc/compiler@0.1
+- pkg:maven/co.present.rpc/compiler@0.1?classifier=sources

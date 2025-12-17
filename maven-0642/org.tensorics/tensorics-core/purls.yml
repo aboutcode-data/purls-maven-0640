@@ -29,3 +29,5 @@
 - pkg:maven/org.tensorics/tensorics-core@0.0.35?classifier=sources
 - pkg:maven/org.tensorics/tensorics-core@0.0.36
 - pkg:maven/org.tensorics/tensorics-core@0.0.36?classifier=sources
+- pkg:maven/org.tensorics/tensorics-core@0.0.64
+- pkg:maven/org.tensorics/tensorics-core@0.0.64?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.airlift/joda-to-java-time-bridge@1
+- pkg:maven/io.airlift/joda-to-java-time-bridge@1?classifier=sources
+- pkg:maven/io.airlift/joda-to-java-time-bridge@2
+- pkg:maven/io.airlift/joda-to-java-time-bridge@2?classifier=sources
+- pkg:maven/io.airlift/joda-to-java-time-bridge@3
+- pkg:maven/io.airlift/joda-to-java-time-bridge@3?classifier=sources

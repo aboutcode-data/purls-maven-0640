@@ -1,1 +1,17 @@
 - pkg:maven/io.sundr.examples/kubernetes-swagger@0.13.1
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.14.0
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.14.1
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.14.2
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.14.3
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.14.4
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.14.5
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.14.6
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.15.0
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.15.1
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.16.0
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.16.1
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.16.2
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.16.3
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.16.4
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.16.5
+- pkg:maven/io.sundr.examples/kubernetes-swagger@1.14.0

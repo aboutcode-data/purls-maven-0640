@@ -12,3 +12,5 @@
 - pkg:maven/net.kemitix/conditional@0.6.0?classifier=sources
 - pkg:maven/net.kemitix/conditional@0.7.0
 - pkg:maven/net.kemitix/conditional@0.7.0?classifier=sources
+- pkg:maven/net.kemitix/conditional@1.0.0
+- pkg:maven/net.kemitix/conditional@1.0.0?classifier=sources

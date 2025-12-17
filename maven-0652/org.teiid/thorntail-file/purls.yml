@@ -1,0 +1,5 @@
+- pkg:maven/org.teiid/thorntail-file@1.0.0
+- pkg:maven/org.teiid/thorntail-file@1.0.1
+- pkg:maven/org.teiid/thorntail-file@1.0.2
+- pkg:maven/org.teiid/thorntail-file@1.0.3
+- pkg:maven/org.teiid/thorntail-file@2.0.0

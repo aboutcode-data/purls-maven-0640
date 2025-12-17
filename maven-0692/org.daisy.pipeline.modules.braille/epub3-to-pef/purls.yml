@@ -10,3 +10,7 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@1.2.2?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@2.0.0
 - pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@2.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@3.0.0
+- pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@3.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@3.1.0
+- pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@3.1.0?classifier=sources

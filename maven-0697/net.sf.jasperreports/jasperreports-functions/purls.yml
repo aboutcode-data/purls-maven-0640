@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.8.0
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.8.0?classifier=sources

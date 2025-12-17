@@ -1,0 +1,2 @@
+- pkg:maven/com.piran-framework/geev-spring-boot-autoconfigure@0.3-RELEASE
+- pkg:maven/com.piran-framework/geev-spring-boot-autoconfigure@0.3-RELEASE?classifier=sources

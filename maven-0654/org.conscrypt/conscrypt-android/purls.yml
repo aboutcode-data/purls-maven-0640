@@ -46,3 +46,7 @@
 - pkg:maven/org.conscrypt/conscrypt-android@1.4.0?type=aar
 - pkg:maven/org.conscrypt/conscrypt-android@1.4.1?classifier=sources
 - pkg:maven/org.conscrypt/conscrypt-android@1.4.1?type=aar
+- pkg:maven/org.conscrypt/conscrypt-android@1.4.2?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-android@1.4.2?type=aar
+- pkg:maven/org.conscrypt/conscrypt-android@2.0.0?classifier=sources
+- pkg:maven/org.conscrypt/conscrypt-android@2.0.0?type=aar

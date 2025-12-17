@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.druid.extensions.contrib/sqlserver-metadata-storage@0.13.0-incubating
+- pkg:maven/org.apache.druid.extensions.contrib/sqlserver-metadata-storage@0.13.0-incubating?classifier=sources

@@ -32,3 +32,17 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.3.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.3.1
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.3.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.3.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.3.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.4.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.4.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.5.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.5.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.6.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.6.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.6.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.6.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.6.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.6.2?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.7.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@6.7.0?classifier=sources

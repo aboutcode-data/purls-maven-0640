@@ -1,2 +1,4 @@
 - pkg:maven/com.digitalascent/digitalascent-common@0.1.10
 - pkg:maven/com.digitalascent/digitalascent-common@0.1.10?classifier=sources
+- pkg:maven/com.digitalascent/digitalascent-common@1.0.1
+- pkg:maven/com.digitalascent/digitalascent-common@1.0.1?classifier=sources

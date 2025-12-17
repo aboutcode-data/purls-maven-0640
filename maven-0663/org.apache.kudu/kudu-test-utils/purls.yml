@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kudu/kudu-test-utils@1.9.0
+- pkg:maven/org.apache.kudu/kudu-test-utils@1.9.0?classifier=sources

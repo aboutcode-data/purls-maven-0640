@@ -1,0 +1,2 @@
+- pkg:maven/org.peakframework.dt/peak-dt-common@0.8
+- pkg:maven/org.peakframework.dt/peak-dt-common@0.8?classifier=sources

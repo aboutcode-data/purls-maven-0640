@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/secondstring-2003@0.0.1
+- pkg:maven/de.julielab/secondstring-2003@0.0.1?classifier=sources

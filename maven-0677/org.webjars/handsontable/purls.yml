@@ -5,3 +5,5 @@
 - pkg:maven/org.webjars/handsontable@0.26.0
 - pkg:maven/org.webjars/handsontable@0.34.0
 - pkg:maven/org.webjars/handsontable@5.0.0
+- pkg:maven/org.webjars/handsontable@6.0.0
+- pkg:maven/org.webjars/handsontable@6.2.2

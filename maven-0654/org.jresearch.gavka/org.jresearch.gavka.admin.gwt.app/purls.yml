@@ -1,0 +1,2 @@
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.admin.gwt.app@1.0.26?classifier=sources
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.admin.gwt.app@1.0.26?type=war

@@ -1,0 +1,8 @@
+- pkg:maven/top.bluesword/sword@2.8.12
+- pkg:maven/top.bluesword/sword@2.8.12?classifier=sources
+- pkg:maven/top.bluesword/sword@2.8.13
+- pkg:maven/top.bluesword/sword@2.8.13?classifier=sources
+- pkg:maven/top.bluesword/sword@2.8.15
+- pkg:maven/top.bluesword/sword@2.8.15?classifier=sources
+- pkg:maven/top.bluesword/sword@3.0.9
+- pkg:maven/top.bluesword/sword@3.0.9?classifier=sources

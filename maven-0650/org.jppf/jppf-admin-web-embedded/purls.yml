@@ -1,0 +1,4 @@
+- pkg:maven/org.jppf/jppf-admin-web-embedded@6.1
+- pkg:maven/org.jppf/jppf-admin-web-embedded@6.1-beta
+- pkg:maven/org.jppf/jppf-admin-web-embedded@6.1-beta?classifier=sources
+- pkg:maven/org.jppf/jppf-admin-web-embedded@6.1?classifier=sources

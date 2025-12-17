@@ -36,3 +36,9 @@
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.6-beta8?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.6-beta9
 - pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.6-beta9?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.7
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.7?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.8
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.8?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.9-beta1
+- pkg:maven/org.lable.oss.dynamicconfig.provider/dynamic-config-provider-zookeeper@2.9-beta1?classifier=sources

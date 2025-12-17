@@ -1,0 +1,2 @@
+- pkg:maven/com.samsungknox.api/knox-token-client-library@2.2
+- pkg:maven/com.samsungknox.api/knox-token-client-library@2.2?classifier=sources

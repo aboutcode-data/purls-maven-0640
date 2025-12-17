@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.isv@3.13.75
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.isv@3.14.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.isv@3.14.100
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.isv@3.14.200
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.isv@3.14.300

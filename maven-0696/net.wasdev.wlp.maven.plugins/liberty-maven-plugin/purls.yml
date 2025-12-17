@@ -29,4 +29,10 @@
 - pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6
 - pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6.1
 - pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6.1?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6.2
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6.2?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6.3
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6.3?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6.4
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6.4?classifier=sources
 - pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.6?classifier=sources

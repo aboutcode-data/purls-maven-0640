@@ -16,3 +16,7 @@
 - pkg:maven/no.difi.vefa/peppol-icd@1.0.4?classifier=sources
 - pkg:maven/no.difi.vefa/peppol-icd@1.1.0
 - pkg:maven/no.difi.vefa/peppol-icd@1.1.0?classifier=sources
+- pkg:maven/no.difi.vefa/peppol-icd@1.1.1
+- pkg:maven/no.difi.vefa/peppol-icd@1.1.1?classifier=sources
+- pkg:maven/no.difi.vefa/peppol-icd@1.1.2
+- pkg:maven/no.difi.vefa/peppol-icd@1.1.2?classifier=sources

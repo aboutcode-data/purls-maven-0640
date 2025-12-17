@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/polymer__font-roboto@3.0.0-pre.8?classifier=sources
 - pkg:maven/org.webjars.npm/polymer__font-roboto@3.0.1
 - pkg:maven/org.webjars.npm/polymer__font-roboto@3.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/polymer__font-roboto@3.0.2
+- pkg:maven/org.webjars.npm/polymer__font-roboto@3.0.2?classifier=sources

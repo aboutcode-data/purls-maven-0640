@@ -1,0 +1,2 @@
+- pkg:maven/com.akeshmiri/cats.sql@0.0.2
+- pkg:maven/com.akeshmiri/cats.sql@0.0.2?classifier=sources

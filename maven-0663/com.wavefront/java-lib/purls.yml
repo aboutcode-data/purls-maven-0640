@@ -101,6 +101,16 @@
 - pkg:maven/com.wavefront/java-lib@4.30?classifier=sources
 - pkg:maven/com.wavefront/java-lib@4.31
 - pkg:maven/com.wavefront/java-lib@4.31?classifier=sources
+- pkg:maven/com.wavefront/java-lib@4.32
+- pkg:maven/com.wavefront/java-lib@4.32?classifier=sources
+- pkg:maven/com.wavefront/java-lib@4.33
+- pkg:maven/com.wavefront/java-lib@4.33?classifier=sources
+- pkg:maven/com.wavefront/java-lib@4.34
+- pkg:maven/com.wavefront/java-lib@4.34?classifier=sources
+- pkg:maven/com.wavefront/java-lib@4.35
+- pkg:maven/com.wavefront/java-lib@4.35?classifier=sources
+- pkg:maven/com.wavefront/java-lib@4.36
+- pkg:maven/com.wavefront/java-lib@4.36?classifier=sources
 - pkg:maven/com.wavefront/java-lib@4.3?classifier=sources
 - pkg:maven/com.wavefront/java-lib@4.4
 - pkg:maven/com.wavefront/java-lib@4.4?classifier=sources

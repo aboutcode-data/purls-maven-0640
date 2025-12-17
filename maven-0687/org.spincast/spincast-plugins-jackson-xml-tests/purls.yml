@@ -38,3 +38,11 @@
 - pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@0.9.49
 - pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@0.9.50
 - pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@0.9.51
+- pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@0.9.52
+- pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@0.9.53
+- pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@0.9.54
+- pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@0.9.55
+- pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@1.0.0
+- pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@1.1.0
+- pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@1.1.1
+- pkg:maven/org.spincast/spincast-plugins-jackson-xml-tests@1.2.0

@@ -2,3 +2,5 @@
 - pkg:maven/com.speechpro.android/stcspeechkit@0.8.1?type=aar
 - pkg:maven/com.speechpro.android/stcspeechkit@0.8.2?classifier=sources
 - pkg:maven/com.speechpro.android/stcspeechkit@0.8.2?type=aar
+- pkg:maven/com.speechpro.android/stcspeechkit@0.8.4?classifier=sources
+- pkg:maven/com.speechpro.android/stcspeechkit@0.8.4?type=aar

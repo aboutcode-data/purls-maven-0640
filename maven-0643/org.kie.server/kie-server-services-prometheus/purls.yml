@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.server/kie-server-services-prometheus@7.18.0.Final
+- pkg:maven/org.kie.server/kie-server-services-prometheus@7.18.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-services-prometheus@7.19.0.Final
+- pkg:maven/org.kie.server/kie-server-services-prometheus@7.19.0.Final?classifier=sources

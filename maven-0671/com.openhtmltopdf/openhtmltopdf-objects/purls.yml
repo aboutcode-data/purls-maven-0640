@@ -8,3 +8,7 @@
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-objects@0.0.1-RC16?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-objects@0.0.1-RC17
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-objects@0.0.1-RC17?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-objects@0.0.1-RC18
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-objects@0.0.1-RC18?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-objects@0.0.1-RC19
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-objects@0.0.1-RC19?classifier=sources

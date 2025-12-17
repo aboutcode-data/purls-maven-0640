@@ -12,3 +12,5 @@
 - pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2017.0.0?classifier=sources
 - pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2018.0.0
 - pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2018.0.0?classifier=sources
+- pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2019.0.0
+- pkg:maven/info.kuechler.bmf.taxcalculator/taxcalculator@2019.0.0?classifier=sources

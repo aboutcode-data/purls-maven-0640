@@ -6,3 +6,7 @@
 - pkg:maven/me.ramswaroop.jbot/jbot-example@4.0.3?classifier=sources
 - pkg:maven/me.ramswaroop.jbot/jbot-example@4.1.0
 - pkg:maven/me.ramswaroop.jbot/jbot-example@4.1.0?classifier=sources
+- pkg:maven/me.ramswaroop.jbot/jbot-example@4.1.2-rc.1
+- pkg:maven/me.ramswaroop.jbot/jbot-example@4.1.2-rc.1?classifier=sources
+- pkg:maven/me.ramswaroop.jbot/jbot-example@4.1.2-rc.2
+- pkg:maven/me.ramswaroop.jbot/jbot-example@4.1.2-rc.2?classifier=sources

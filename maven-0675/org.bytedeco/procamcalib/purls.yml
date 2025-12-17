@@ -32,5 +32,8 @@
 - pkg:maven/org.bytedeco/procamcalib@1.4.3
 - pkg:maven/org.bytedeco/procamcalib@1.4.3?classifier=sources
 - pkg:maven/org.bytedeco/procamcalib@1.4.3?classifier=src&type=zip
+- pkg:maven/org.bytedeco/procamcalib@1.4.4
+- pkg:maven/org.bytedeco/procamcalib@1.4.4?classifier=sources
+- pkg:maven/org.bytedeco/procamcalib@1.4.4?classifier=src&type=zip
 - pkg:maven/org.bytedeco/procamcalib@1.4?classifier=sources
 - pkg:maven/org.bytedeco/procamcalib@1.4?classifier=src&type=zip

@@ -6,3 +6,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-jetty@2.2
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-jetty@2.3
 - pkg:maven/nz.net.osnz.composite/composite-spring-boot-jetty@2.4
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-jetty@2.5
+- pkg:maven/nz.net.osnz.composite/composite-spring-boot-jetty@2.6

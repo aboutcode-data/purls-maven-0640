@@ -1,6 +1,8 @@
 - pkg:maven/org.apache.olingo/olingo-odata2-spring@2.0.10
 - pkg:maven/org.apache.olingo/olingo-odata2-spring@2.0.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.olingo/olingo-odata2-spring@2.0.10?classifier=sources
+- pkg:maven/org.apache.olingo/olingo-odata2-spring@2.0.11
+- pkg:maven/org.apache.olingo/olingo-odata2-spring@2.0.11?classifier=sources
 - pkg:maven/org.apache.olingo/olingo-odata2-spring@2.0.2
 - pkg:maven/org.apache.olingo/olingo-odata2-spring@2.0.2-RC01
 - pkg:maven/org.apache.olingo/olingo-odata2-spring@2.0.2-RC01?classifier=source-release&type=zip

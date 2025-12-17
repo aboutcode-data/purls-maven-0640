@@ -6,3 +6,7 @@
 - pkg:maven/com.github.tcnh/fitnesse@20180817?classifier=sources
 - pkg:maven/com.github.tcnh/fitnesse@20181025
 - pkg:maven/com.github.tcnh/fitnesse@20181025?classifier=sources
+- pkg:maven/com.github.tcnh/fitnesse@20181214
+- pkg:maven/com.github.tcnh/fitnesse@20181214?classifier=sources
+- pkg:maven/com.github.tcnh/fitnesse@20181217
+- pkg:maven/com.github.tcnh/fitnesse@20181217?classifier=sources

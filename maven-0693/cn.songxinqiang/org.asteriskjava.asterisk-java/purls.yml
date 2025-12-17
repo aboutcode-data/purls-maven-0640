@@ -1,0 +1,6 @@
+- pkg:maven/cn.songxinqiang/org.asteriskjava.asterisk-java@2.0.0.fixed
+- pkg:maven/cn.songxinqiang/org.asteriskjava.asterisk-java@2.0.0.fixed?classifier=sources
+- pkg:maven/cn.songxinqiang/org.asteriskjava.asterisk-java@2.0.1.fixed
+- pkg:maven/cn.songxinqiang/org.asteriskjava.asterisk-java@2.0.1.fixed?classifier=sources
+- pkg:maven/cn.songxinqiang/org.asteriskjava.asterisk-java@2.0.2.fixed
+- pkg:maven/cn.songxinqiang/org.asteriskjava.asterisk-java@2.0.2.fixed?classifier=sources

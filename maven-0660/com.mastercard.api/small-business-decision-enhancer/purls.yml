@@ -1,0 +1,2 @@
+- pkg:maven/com.mastercard.api/small-business-decision-enhancer@1.0.0
+- pkg:maven/com.mastercard.api/small-business-decision-enhancer@1.0.0?classifier=sources

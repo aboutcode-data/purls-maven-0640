@@ -1,0 +1,4 @@
+- pkg:maven/net.andimiller/whales_2.11@0.13.0
+- pkg:maven/net.andimiller/whales_2.11@0.13.0?classifier=sources
+- pkg:maven/net.andimiller/whales_2.11@0.13.1
+- pkg:maven/net.andimiller/whales_2.11@0.13.1?classifier=sources

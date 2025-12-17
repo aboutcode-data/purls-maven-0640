@@ -1,2 +1,6 @@
 - pkg:maven/com.strapdata.elasticsearch/rest-api-spec@2.4.2
 - pkg:maven/com.strapdata.elasticsearch/rest-api-spec@2.4.5
+- pkg:maven/com.strapdata.elasticsearch/rest-api-spec@6.2.3.11
+- pkg:maven/com.strapdata.elasticsearch/rest-api-spec@6.2.3.11?classifier=sources
+- pkg:maven/com.strapdata.elasticsearch/rest-api-spec@6.2.3.12
+- pkg:maven/com.strapdata.elasticsearch/rest-api-spec@6.2.3.12?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/be.atbash.keys/keymanager-sign@0.5
+- pkg:maven/be.atbash.keys/keymanager-sign@0.5?classifier=sources

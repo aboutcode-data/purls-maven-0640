@@ -42,3 +42,5 @@
 - pkg:maven/com.healthmarketscience.sqlbuilder/sqlbuilder@2.1.6?classifier=sources
 - pkg:maven/com.healthmarketscience.sqlbuilder/sqlbuilder@2.1.7
 - pkg:maven/com.healthmarketscience.sqlbuilder/sqlbuilder@2.1.7?classifier=sources
+- pkg:maven/com.healthmarketscience.sqlbuilder/sqlbuilder@3.0.0
+- pkg:maven/com.healthmarketscience.sqlbuilder/sqlbuilder@3.0.0?classifier=sources

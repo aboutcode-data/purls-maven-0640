@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zella/rx-process2_2.12@0.1.0-BETA
+- pkg:maven/com.github.zella/rx-process2_2.12@0.1.0-BETA?classifier=sources

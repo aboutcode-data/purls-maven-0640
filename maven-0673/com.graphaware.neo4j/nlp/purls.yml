@@ -20,3 +20,9 @@
 - pkg:maven/com.graphaware.neo4j/nlp@3.4.8.52.14?classifier=sources
 - pkg:maven/com.graphaware.neo4j/nlp@3.4.9.52.15
 - pkg:maven/com.graphaware.neo4j/nlp@3.4.9.52.15?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp@3.5.0.53.16
+- pkg:maven/com.graphaware.neo4j/nlp@3.5.0.53.16?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp@3.5.1.53.16
+- pkg:maven/com.graphaware.neo4j/nlp@3.5.1.53.16?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp@3.5.2.53.16
+- pkg:maven/com.graphaware.neo4j/nlp@3.5.2.53.16?classifier=sources

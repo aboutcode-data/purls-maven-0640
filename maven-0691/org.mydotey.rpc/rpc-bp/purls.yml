@@ -1,0 +1,2 @@
+- pkg:maven/org.mydotey.rpc/rpc-bp@1.0.0
+- pkg:maven/org.mydotey.rpc/rpc-bp@1.0.0?classifier=sources

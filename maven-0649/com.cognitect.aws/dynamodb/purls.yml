@@ -1,0 +1,10 @@
+- pkg:maven/com.cognitect.aws/dynamodb@661.2.363.0
+- pkg:maven/com.cognitect.aws/dynamodb@661.2.363.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dynamodb@675.2.365.0
+- pkg:maven/com.cognitect.aws/dynamodb@675.2.365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dynamodb@684.2.382.0
+- pkg:maven/com.cognitect.aws/dynamodb@684.2.382.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dynamodb@695.2.389.0
+- pkg:maven/com.cognitect.aws/dynamodb@695.2.389.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dynamodb@697.2.391.0
+- pkg:maven/com.cognitect.aws/dynamodb@697.2.391.0?classifier=sources

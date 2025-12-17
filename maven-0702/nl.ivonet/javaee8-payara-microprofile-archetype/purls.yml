@@ -1,0 +1,4 @@
+- pkg:maven/nl.ivonet/javaee8-payara-microprofile-archetype@0.0.1?classifier=sources
+- pkg:maven/nl.ivonet/javaee8-payara-microprofile-archetype@0.0.2?classifier=sources
+- pkg:maven/nl.ivonet/javaee8-payara-microprofile-archetype@1.0?classifier=sources
+- pkg:maven/nl.ivonet/javaee8-payara-microprofile-archetype@1.1?classifier=sources

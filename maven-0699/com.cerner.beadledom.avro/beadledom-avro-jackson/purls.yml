@@ -20,3 +20,5 @@
 - pkg:maven/com.cerner.beadledom.avro/beadledom-avro-jackson@3.0?classifier=sources
 - pkg:maven/com.cerner.beadledom.avro/beadledom-avro-jackson@3.1
 - pkg:maven/com.cerner.beadledom.avro/beadledom-avro-jackson@3.1?classifier=sources
+- pkg:maven/com.cerner.beadledom.avro/beadledom-avro-jackson@3.2.3
+- pkg:maven/com.cerner.beadledom.avro/beadledom-avro-jackson@3.2.3?classifier=sources
