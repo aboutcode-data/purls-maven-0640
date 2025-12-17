@@ -4,3 +4,5 @@
 - pkg:maven/com.iqarr.extension.spi/zy-spi-utils@0.0.2?classifier=sources
 - pkg:maven/com.iqarr.extension.spi/zy-spi-utils@0.0.3
 - pkg:maven/com.iqarr.extension.spi/zy-spi-utils@0.0.3?classifier=sources
+- pkg:maven/com.iqarr.extension.spi/zy-spi-utils@0.0.6
+- pkg:maven/com.iqarr.extension.spi/zy-spi-utils@0.0.6?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.fooock/jshodan@0.4.6?classifier=sources
 - pkg:maven/com.fooock/jshodan@0.4.7
 - pkg:maven/com.fooock/jshodan@0.4.7?classifier=sources
+- pkg:maven/com.fooock/jshodan@0.4.9
+- pkg:maven/com.fooock/jshodan@0.4.9?classifier=sources

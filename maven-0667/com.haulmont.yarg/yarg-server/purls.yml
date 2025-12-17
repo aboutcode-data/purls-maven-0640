@@ -1,0 +1,2 @@
+- pkg:maven/com.haulmont.yarg/yarg-server@2.0.12
+- pkg:maven/com.haulmont.yarg/yarg-server@2.0.12?classifier=sources

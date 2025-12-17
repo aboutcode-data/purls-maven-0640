@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.0-optout
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.0-optout?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.6
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.6-optout
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.6-optout?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.7-optout
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.7-optout?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.8
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@1.0.8?classifier=sources

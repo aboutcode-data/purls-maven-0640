@@ -1,0 +1,4 @@
+- pkg:maven/de.uni-rostock.sbi/libsbgn@2.1.0
+- pkg:maven/de.uni-rostock.sbi/libsbgn@2.1.0?classifier=sources
+- pkg:maven/de.uni-rostock.sbi/libsbgn@2.1.1
+- pkg:maven/de.uni-rostock.sbi/libsbgn@2.1.1?classifier=sources

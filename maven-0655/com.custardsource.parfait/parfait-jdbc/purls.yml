@@ -25,6 +25,10 @@
 - pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.0.RC4
 - pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.0.RC4?classifier=sources
 - pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.1
+- pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.10
+- pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.10?classifier=sources
+- pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.11
+- pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.11?classifier=sources
 - pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.1?classifier=sources
 - pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.2
 - pkg:maven/com.custardsource.parfait/parfait-jdbc@0.3.2?classifier=sources

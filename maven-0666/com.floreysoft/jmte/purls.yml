@@ -6,3 +6,5 @@
 - pkg:maven/com.floreysoft/jmte@3.2.0?classifier=sources
 - pkg:maven/com.floreysoft/jmte@4.0.0
 - pkg:maven/com.floreysoft/jmte@4.0.0?classifier=sources
+- pkg:maven/com.floreysoft/jmte@5.0.0
+- pkg:maven/com.floreysoft/jmte@5.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/postcss-selector-parser@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/postcss-selector-parser@2.2.3
 - pkg:maven/org.webjars.npm/postcss-selector-parser@2.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-selector-parser@3.1.1
+- pkg:maven/org.webjars.npm/postcss-selector-parser@3.1.1?classifier=sources

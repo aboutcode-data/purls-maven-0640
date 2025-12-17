@@ -1,0 +1,2 @@
+- pkg:maven/ch.codeblock.qrinvoice.rest/qrinvoice-rest-model@0.7
+- pkg:maven/ch.codeblock.qrinvoice.rest/qrinvoice-rest-model@0.7?classifier=sources

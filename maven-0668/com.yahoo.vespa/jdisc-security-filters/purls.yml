@@ -1,0 +1,10 @@
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.230.174?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.231.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.232.4?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.233.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.234.71?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.235.43?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.240.88?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.241.65?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.242.39?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@6.243.159?classifier=sources

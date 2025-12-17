@@ -1,0 +1,2 @@
+- pkg:maven/com.w2v4/vertx-lang-clojure@3.5.1.1?classifier=sources
+- pkg:maven/com.w2v4/vertx-lang-clojure@3.5.1?classifier=sources

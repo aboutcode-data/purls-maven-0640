@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-defaults-design@0.2.12
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-defaults-design@0.2.12?classifier=sources
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-defaults-design@0.3.6
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-defaults-design@0.3.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-defaults-design@2.0.0
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-defaults-design@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-defaults-design@2.0.3
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-defaults-design@2.0.3?classifier=sources

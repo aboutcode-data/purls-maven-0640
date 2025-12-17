@@ -8,3 +8,5 @@
 - pkg:maven/net.freeutils/jlhttp@2.2?classifier=sources
 - pkg:maven/net.freeutils/jlhttp@2.3
 - pkg:maven/net.freeutils/jlhttp@2.3?classifier=sources
+- pkg:maven/net.freeutils/jlhttp@2.4
+- pkg:maven/net.freeutils/jlhttp@2.4?classifier=sources

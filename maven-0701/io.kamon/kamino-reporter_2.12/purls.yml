@@ -1,0 +1,6 @@
+- pkg:maven/io.kamon/kamino-reporter_2.12@1.0.0
+- pkg:maven/io.kamon/kamino-reporter_2.12@1.0.0-RC7
+- pkg:maven/io.kamon/kamino-reporter_2.12@1.0.0-RC7?classifier=sources
+- pkg:maven/io.kamon/kamino-reporter_2.12@1.0.0-RC8
+- pkg:maven/io.kamon/kamino-reporter_2.12@1.0.0-RC8?classifier=sources
+- pkg:maven/io.kamon/kamino-reporter_2.12@1.0.0?classifier=sources

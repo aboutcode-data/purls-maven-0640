@@ -1,0 +1,2 @@
+- pkg:maven/com.calendarfx/view@8.4.2
+- pkg:maven/com.calendarfx/view@8.4.2?classifier=sources

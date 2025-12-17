@@ -1,0 +1,6 @@
+- pkg:maven/com.gu/request-authentication-filter_2.12@1.22
+- pkg:maven/com.gu/request-authentication-filter_2.12@1.22?classifier=sources
+- pkg:maven/com.gu/request-authentication-filter_2.12@1.23
+- pkg:maven/com.gu/request-authentication-filter_2.12@1.23?classifier=sources
+- pkg:maven/com.gu/request-authentication-filter_2.12@1.24
+- pkg:maven/com.gu/request-authentication-filter_2.12@1.24?classifier=sources

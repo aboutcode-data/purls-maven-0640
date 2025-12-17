@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/shell-quote@1.4.3
 - pkg:maven/org.webjars.npm/shell-quote@1.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/shell-quote@1.6.1
+- pkg:maven/org.webjars.npm/shell-quote@1.6.1?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/com.github.ctiao/ndkbitmap-armv7a@0.9.12?type=aar
 - pkg:maven/com.github.ctiao/ndkbitmap-armv7a@0.9.16?classifier=sources
 - pkg:maven/com.github.ctiao/ndkbitmap-armv7a@0.9.16?type=aar
+- pkg:maven/com.github.ctiao/ndkbitmap-armv7a@0.9.21?classifier=sources
+- pkg:maven/com.github.ctiao/ndkbitmap-armv7a@0.9.21?type=aar
+- pkg:maven/com.github.ctiao/ndkbitmap-armv7a@0.9.24?classifier=sources
+- pkg:maven/com.github.ctiao/ndkbitmap-armv7a@0.9.24?type=aar

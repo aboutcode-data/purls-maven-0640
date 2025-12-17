@@ -1,0 +1,4 @@
+- pkg:maven/com.github.voplex95/mailgun-client@1.0.0
+- pkg:maven/com.github.voplex95/mailgun-client@1.0.0?classifier=sources
+- pkg:maven/com.github.voplex95/mailgun-client@1.1.0
+- pkg:maven/com.github.voplex95/mailgun-client@1.1.0?classifier=sources

@@ -1,2 +1,8 @@
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard-demo@1.0.10?classifier=sources
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard-demo@1.0.10?type=war
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard-demo@1.0.11?classifier=sources
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard-demo@1.0.11?type=war
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard-demo@1.0.12?classifier=sources
+- pkg:maven/com.github.vaadin4qbanos/jsclipboard-demo@1.0.12?type=war
 - pkg:maven/com.github.vaadin4qbanos/jsclipboard-demo@1.0.9?classifier=sources
 - pkg:maven/com.github.vaadin4qbanos/jsclipboard-demo@1.0.9?type=war

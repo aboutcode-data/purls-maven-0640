@@ -20,3 +20,9 @@
 - pkg:maven/org.webjars/font-awesome@4.6.2
 - pkg:maven/org.webjars/font-awesome@4.6.3
 - pkg:maven/org.webjars/font-awesome@4.7.0
+- pkg:maven/org.webjars/font-awesome@5.0.10
+- pkg:maven/org.webjars/font-awesome@5.0.13
+- pkg:maven/org.webjars/font-awesome@5.0.2
+- pkg:maven/org.webjars/font-awesome@5.0.6
+- pkg:maven/org.webjars/font-awesome@5.0.8
+- pkg:maven/org.webjars/font-awesome@5.0.9

@@ -1,0 +1,2 @@
+- pkg:maven/eu.toop/toop-message-exchange@0.9.0
+- pkg:maven/eu.toop/toop-message-exchange@0.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/edu.utdallas.hltri/inquire@0.1.0
+- pkg:maven/edu.utdallas.hltri/inquire@0.1.0?classifier=sources

@@ -16,3 +16,9 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jedis@0.16.1?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jedis@0.17.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jedis@0.17.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jedis@0.18.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jedis@0.18.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jedis@0.18.1
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jedis@0.18.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jedis@0.18.2
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jedis@0.18.2?classifier=sources

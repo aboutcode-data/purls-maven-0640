@@ -34,3 +34,15 @@
 - pkg:maven/com.graphaware.neo4j/expire@3.2.6.51.4?classifier=sources
 - pkg:maven/com.graphaware.neo4j/expire@3.3.0.51.4
 - pkg:maven/com.graphaware.neo4j/expire@3.3.0.51.4?classifier=sources
+- pkg:maven/com.graphaware.neo4j/expire@3.3.1.51.4
+- pkg:maven/com.graphaware.neo4j/expire@3.3.1.51.4?classifier=sources
+- pkg:maven/com.graphaware.neo4j/expire@3.3.2.51.4
+- pkg:maven/com.graphaware.neo4j/expire@3.3.2.51.4?classifier=sources
+- pkg:maven/com.graphaware.neo4j/expire@3.3.2.52.4
+- pkg:maven/com.graphaware.neo4j/expire@3.3.2.52.4?classifier=sources
+- pkg:maven/com.graphaware.neo4j/expire@3.3.3.52.4
+- pkg:maven/com.graphaware.neo4j/expire@3.3.3.52.4?classifier=sources
+- pkg:maven/com.graphaware.neo4j/expire@3.3.5.52.4
+- pkg:maven/com.graphaware.neo4j/expire@3.3.5.52.4?classifier=sources
+- pkg:maven/com.graphaware.neo4j/expire@3.4.0.52.4
+- pkg:maven/com.graphaware.neo4j/expire@3.4.0.52.4?classifier=sources

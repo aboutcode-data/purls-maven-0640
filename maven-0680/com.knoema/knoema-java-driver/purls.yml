@@ -1,0 +1,2 @@
+- pkg:maven/com.knoema/knoema-java-driver@1.0
+- pkg:maven/com.knoema/knoema-java-driver@1.0?classifier=sources

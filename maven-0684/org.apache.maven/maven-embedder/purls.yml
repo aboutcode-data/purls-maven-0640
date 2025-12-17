@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.maven/maven-embedder@3.5.0?classifier=sources
 - pkg:maven/org.apache.maven/maven-embedder@3.5.2
 - pkg:maven/org.apache.maven/maven-embedder@3.5.2?classifier=sources
+- pkg:maven/org.apache.maven/maven-embedder@3.5.3
+- pkg:maven/org.apache.maven/maven-embedder@3.5.3?classifier=sources

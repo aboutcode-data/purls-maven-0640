@@ -1,0 +1,2 @@
+- pkg:maven/me.ramswaroop.jbot/jbot-example@4.0.1
+- pkg:maven/me.ramswaroop.jbot/jbot-example@4.0.1?classifier=sources

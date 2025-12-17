@@ -1,0 +1,2 @@
+- pkg:maven/com.greenfoxacademy.huli-metrics-spring/metrics@1.0.0-RELEASE
+- pkg:maven/com.greenfoxacademy.huli-metrics-spring/metrics@1.0.0-RELEASE?classifier=sources

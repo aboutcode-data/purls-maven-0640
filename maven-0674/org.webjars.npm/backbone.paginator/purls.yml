@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/backbone.paginator@2.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/backbone.paginator@2.0.5
 - pkg:maven/org.webjars.npm/backbone.paginator@2.0.5?classifier=sources
+- pkg:maven/org.webjars.npm/backbone.paginator@2.0.8
+- pkg:maven/org.webjars.npm/backbone.paginator@2.0.8?classifier=sources

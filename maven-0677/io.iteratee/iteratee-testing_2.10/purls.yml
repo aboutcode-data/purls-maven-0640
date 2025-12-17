@@ -2,3 +2,7 @@
 - pkg:maven/io.iteratee/iteratee-testing_2.10@0.14.0?classifier=sources
 - pkg:maven/io.iteratee/iteratee-testing_2.10@0.15.0
 - pkg:maven/io.iteratee/iteratee-testing_2.10@0.15.0?classifier=sources
+- pkg:maven/io.iteratee/iteratee-testing_2.10@0.16.0
+- pkg:maven/io.iteratee/iteratee-testing_2.10@0.16.0?classifier=sources
+- pkg:maven/io.iteratee/iteratee-testing_2.10@0.17.0
+- pkg:maven/io.iteratee/iteratee-testing_2.10@0.17.0?classifier=sources

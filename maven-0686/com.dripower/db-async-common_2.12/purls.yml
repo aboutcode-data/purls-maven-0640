@@ -10,3 +10,7 @@
 - pkg:maven/com.dripower/db-async-common_2.12@0.2.2015?classifier=sources
 - pkg:maven/com.dripower/db-async-common_2.12@0.2.2016
 - pkg:maven/com.dripower/db-async-common_2.12@0.2.2016?classifier=sources
+- pkg:maven/com.dripower/db-async-common_2.12@0.2.2017
+- pkg:maven/com.dripower/db-async-common_2.12@0.2.2017?classifier=sources
+- pkg:maven/com.dripower/db-async-common_2.12@0.2.2018
+- pkg:maven/com.dripower/db-async-common_2.12@0.2.2018?classifier=sources

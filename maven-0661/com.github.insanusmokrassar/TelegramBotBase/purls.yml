@@ -1,0 +1,6 @@
+- pkg:maven/com.github.insanusmokrassar/TelegramBotBase@0.7.1b
+- pkg:maven/com.github.insanusmokrassar/TelegramBotBase@0.7.1b?classifier=sources
+- pkg:maven/com.github.insanusmokrassar/TelegramBotBase@0.7.3b
+- pkg:maven/com.github.insanusmokrassar/TelegramBotBase@0.7.3b?classifier=sources
+- pkg:maven/com.github.insanusmokrassar/TelegramBotBase@0.7b
+- pkg:maven/com.github.insanusmokrassar/TelegramBotBase@0.7b?classifier=sources

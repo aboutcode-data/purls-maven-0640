@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.flink/flink-shaded-jackson@2.7.9-2.0
+- pkg:maven/org.apache.flink/flink-shaded-jackson@2.7.9-3.0

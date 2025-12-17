@@ -14,3 +14,9 @@
 - pkg:maven/org.webjars.npm/flatpickr@3.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/flatpickr@4.1.4
 - pkg:maven/org.webjars.npm/flatpickr@4.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/flatpickr@4.3.2
+- pkg:maven/org.webjars.npm/flatpickr@4.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/flatpickr@4.4.4
+- pkg:maven/org.webjars.npm/flatpickr@4.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/flatpickr@4.4.6
+- pkg:maven/org.webjars.npm/flatpickr@4.4.6?classifier=sources

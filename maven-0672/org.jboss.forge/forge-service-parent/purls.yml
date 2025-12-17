@@ -24,3 +24,4 @@
 - pkg:maven/org.jboss.forge/forge-service-parent@1.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge/forge-service-parent@1.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.forge/forge-service-parent@1.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge/forge-service-parent@1.0.4.Final?classifier=source-release&type=zip

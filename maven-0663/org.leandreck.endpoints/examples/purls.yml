@@ -22,3 +22,5 @@
 - pkg:maven/org.leandreck.endpoints/examples@0.2.0?classifier=sources
 - pkg:maven/org.leandreck.endpoints/examples@0.3.0
 - pkg:maven/org.leandreck.endpoints/examples@0.3.0?classifier=sources
+- pkg:maven/org.leandreck.endpoints/examples@0.4.0
+- pkg:maven/org.leandreck.endpoints/examples@0.4.0?classifier=sources

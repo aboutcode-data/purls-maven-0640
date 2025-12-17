@@ -1,0 +1,2 @@
+- pkg:maven/com.revengemission.plugins/mybatis-plugins@0.1.0
+- pkg:maven/com.revengemission.plugins/mybatis-plugins@0.1.0?classifier=sources

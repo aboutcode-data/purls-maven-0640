@@ -1,0 +1,2 @@
+- pkg:maven/com.github.thecoldwine/sigrun@0.4.5
+- pkg:maven/com.github.thecoldwine/sigrun@0.4.5?classifier=sources

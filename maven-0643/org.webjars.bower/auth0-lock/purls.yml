@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.bower/auth0-lock@10.13.0?classifier=sources
 - pkg:maven/org.webjars.bower/auth0-lock@10.21.1
 - pkg:maven/org.webjars.bower/auth0-lock@10.21.1?classifier=sources
+- pkg:maven/org.webjars.bower/auth0-lock@11.2.3
+- pkg:maven/org.webjars.bower/auth0-lock@11.2.3?classifier=sources
 - pkg:maven/org.webjars.bower/auth0-lock@9.0.3
 - pkg:maven/org.webjars.bower/auth0-lock@9.0.3?classifier=sources
 - pkg:maven/org.webjars.bower/auth0-lock@9.2.1

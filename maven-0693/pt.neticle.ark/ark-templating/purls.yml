@@ -1,0 +1,4 @@
+- pkg:maven/pt.neticle.ark/ark-templating@0.1.0
+- pkg:maven/pt.neticle.ark/ark-templating@0.1.0?classifier=sources
+- pkg:maven/pt.neticle.ark/ark-templating@0.2.0
+- pkg:maven/pt.neticle.ark/ark-templating@0.2.0?classifier=sources

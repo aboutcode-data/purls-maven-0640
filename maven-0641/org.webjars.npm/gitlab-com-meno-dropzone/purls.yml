@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/gitlab-com-meno-dropzone@5.3.1
+- pkg:maven/org.webjars.npm/gitlab-com-meno-dropzone@5.3.1?classifier=sources

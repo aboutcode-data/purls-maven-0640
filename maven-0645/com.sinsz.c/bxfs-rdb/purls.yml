@@ -1,0 +1,4 @@
+- pkg:maven/com.sinsz.c/bxfs-rdb@1.r.1
+- pkg:maven/com.sinsz.c/bxfs-rdb@1.r.1?classifier=sources
+- pkg:maven/com.sinsz.c/bxfs-rdb@1.r.2
+- pkg:maven/com.sinsz.c/bxfs-rdb@1.r.2?classifier=sources

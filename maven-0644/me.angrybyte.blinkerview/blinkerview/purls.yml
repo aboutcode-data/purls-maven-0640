@@ -1,0 +1,4 @@
+- pkg:maven/me.angrybyte.blinkerview/blinkerview@0.9.0?classifier=sources
+- pkg:maven/me.angrybyte.blinkerview/blinkerview@0.9.0?type=aar
+- pkg:maven/me.angrybyte.blinkerview/blinkerview@1.0.0?classifier=sources
+- pkg:maven/me.angrybyte.blinkerview/blinkerview@1.0.0?type=aar

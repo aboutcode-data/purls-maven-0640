@@ -1,0 +1,6 @@
+- pkg:maven/org.scalaz/scalaz-core_2.13.0-M4@7.2.23
+- pkg:maven/org.scalaz/scalaz-core_2.13.0-M4@7.2.23?classifier=sources
+- pkg:maven/org.scalaz/scalaz-core_2.13.0-M4@7.2.24
+- pkg:maven/org.scalaz/scalaz-core_2.13.0-M4@7.2.24?classifier=sources
+- pkg:maven/org.scalaz/scalaz-core_2.13.0-M4@7.3.0-M23
+- pkg:maven/org.scalaz/scalaz-core_2.13.0-M4@7.3.0-M23?classifier=sources

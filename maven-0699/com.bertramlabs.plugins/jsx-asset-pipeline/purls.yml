@@ -47,6 +47,8 @@
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.0
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.0?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.1
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.10
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.10?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.1?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.2
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.2?classifier=sources
@@ -60,3 +62,11 @@
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.6?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.7
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.7?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.8
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.8?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.9
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.14.9?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.15.0
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@2.15.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@3.0.0
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@3.0.0?classifier=sources

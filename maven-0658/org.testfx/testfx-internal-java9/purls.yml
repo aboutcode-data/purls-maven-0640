@@ -1,5 +1,9 @@
 - pkg:maven/org.testfx/testfx-internal-java9@4.0.10-alpha
 - pkg:maven/org.testfx/testfx-internal-java9@4.0.10-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-internal-java9@4.0.11-alpha
+- pkg:maven/org.testfx/testfx-internal-java9@4.0.11-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-internal-java9@4.0.12-alpha
+- pkg:maven/org.testfx/testfx-internal-java9@4.0.12-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-internal-java9@4.0.8-alpha
 - pkg:maven/org.testfx/testfx-internal-java9@4.0.8-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-internal-java9@4.0.9-alpha

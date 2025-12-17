@@ -1,0 +1,2 @@
+- pkg:maven/io.electrum/suv-service-interface@1.0.0
+- pkg:maven/io.electrum/suv-service-interface@1.0.0?classifier=sources

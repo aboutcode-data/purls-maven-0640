@@ -4,3 +4,5 @@
 - pkg:maven/com.google.auto.service/auto-service@1.0-rc2?classifier=sources
 - pkg:maven/com.google.auto.service/auto-service@1.0-rc3
 - pkg:maven/com.google.auto.service/auto-service@1.0-rc3?classifier=sources
+- pkg:maven/com.google.auto.service/auto-service@1.0-rc4
+- pkg:maven/com.google.auto.service/auto-service@1.0-rc4?classifier=sources

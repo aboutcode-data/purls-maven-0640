@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.commonmark/commonmark.js@0.28.1
+- pkg:maven/org.webjars.bowergithub.commonmark/commonmark.js@0.28.1?classifier=sources

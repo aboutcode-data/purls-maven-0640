@@ -13,4 +13,12 @@
 - pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.1
 - pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.1.1
 - pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.1.1?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.1.2
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.1.2?classifier=sources
 - pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.1?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.2
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.2?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.3
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.3?classifier=sources
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.4
+- pkg:maven/net.wasdev.wlp.maven.plugins/liberty-maven-plugin@2.4?classifier=sources

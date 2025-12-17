@@ -1,6 +1,7 @@
 - pkg:maven/org.webjars/blockly@1173
 - pkg:maven/org.webjars/blockly@36eb0787cc5
 - pkg:maven/org.webjars/blockly@6909e38
+- pkg:maven/org.webjars/blockly@7679d22
 - pkg:maven/org.webjars/blockly@b35c0fbfa2
 - pkg:maven/org.webjars/blockly@b35c0fbfa2-1
 - pkg:maven/org.webjars/blockly@fdb2698d000

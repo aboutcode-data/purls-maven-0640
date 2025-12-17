@@ -1,0 +1,2 @@
+- pkg:maven/me.shib.java.lib/selenium-helper@0.0.1
+- pkg:maven/me.shib.java.lib/selenium-helper@0.0.1?classifier=sources

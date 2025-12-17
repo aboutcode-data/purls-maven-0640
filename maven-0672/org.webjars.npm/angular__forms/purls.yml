@@ -90,3 +90,9 @@
 - pkg:maven/org.webjars.npm/angular__forms@4.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/angular__forms@4.4.4
 - pkg:maven/org.webjars.npm/angular__forms@4.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/angular__forms@5.1.2
+- pkg:maven/org.webjars.npm/angular__forms@5.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/angular__forms@5.2.10
+- pkg:maven/org.webjars.npm/angular__forms@5.2.10?classifier=sources
+- pkg:maven/org.webjars.npm/angular__forms@5.2.3
+- pkg:maven/org.webjars.npm/angular__forms@5.2.3?classifier=sources

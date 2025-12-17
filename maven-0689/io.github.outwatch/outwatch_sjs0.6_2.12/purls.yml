@@ -42,3 +42,5 @@
 - pkg:maven/io.github.outwatch/outwatch_sjs0.6_2.12@0.9.3?classifier=sources
 - pkg:maven/io.github.outwatch/outwatch_sjs0.6_2.12@0.9.4
 - pkg:maven/io.github.outwatch/outwatch_sjs0.6_2.12@0.9.4?classifier=sources
+- pkg:maven/io.github.outwatch/outwatch_sjs0.6_2.12@1.0.0-RC2
+- pkg:maven/io.github.outwatch/outwatch_sjs0.6_2.12@1.0.0-RC2?classifier=sources

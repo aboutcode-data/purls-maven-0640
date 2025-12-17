@@ -138,6 +138,10 @@
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.32.1?type=war
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.32.2?classifier=sources
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.32.2?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.33.0?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.33.0?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.33.1?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.33.1?type=war
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.9.0?classifier=sources
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.9.0?type=war
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.9.1?classifier=sources
@@ -148,3 +152,15 @@
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.9.3?type=war
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.9.4?classifier=sources
 - pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@0.9.4?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.0?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.0?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.1?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.1?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.2?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.2?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.3?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.3?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.4?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.4?type=war
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.5?classifier=sources
+- pkg:maven/io.joynr.java.backend-services/domain-access-controller-servlet@1.0.5?type=war

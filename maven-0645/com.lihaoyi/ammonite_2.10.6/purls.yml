@@ -109,6 +109,12 @@
 - pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3
 - pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3-1-cd346fb
 - pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3-1-cd346fb?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3-6-05e8fb9
+- pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3-6-05e8fb9?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3-6-4896e9f
+- pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3-6-4896e9f?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3-7-1dada91
+- pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3-7-1dada91?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite_2.10.6@1.0.3?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite_2.10.6@COMMIT-0097dc5
 - pkg:maven/com.lihaoyi/ammonite_2.10.6@COMMIT-0097dc5?classifier=sources

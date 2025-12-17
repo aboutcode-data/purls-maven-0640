@@ -292,3 +292,5 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-test@1.4.0?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-test@1.5.0
 - pkg:maven/net.java.dev.activeobjects/activeobjects-test@1.5.0?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-test@2.0.0-m01
+- pkg:maven/net.java.dev.activeobjects/activeobjects-test@2.0.0-m01?classifier=sources

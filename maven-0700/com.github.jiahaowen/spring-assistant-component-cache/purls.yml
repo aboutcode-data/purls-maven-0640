@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jiahaowen/spring-assistant-component-cache@1.0
+- pkg:maven/com.github.jiahaowen/spring-assistant-component-cache@1.0?classifier=sources

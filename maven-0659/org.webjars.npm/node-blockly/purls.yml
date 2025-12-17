@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/node-blockly@1.0.35
+- pkg:maven/org.webjars.npm/node-blockly@1.0.35?classifier=sources

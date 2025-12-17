@@ -2,7 +2,11 @@
 - pkg:maven/org.mule.tests/mule-tests-performance@3.7.0
 - pkg:maven/org.mule.tests/mule-tests-performance@3.8.0
 - pkg:maven/org.mule.tests/mule-tests-performance@3.8.1
+- pkg:maven/org.mule.tests/mule-tests-performance@3.9.0
+- pkg:maven/org.mule.tests/mule-tests-performance@3.9.0?classifier=sources
 - pkg:maven/org.mule.tests/mule-tests-performance@4.0.0-BETA.4
 - pkg:maven/org.mule.tests/mule-tests-performance@4.0.0-BETA.4?classifier=sources
 - pkg:maven/org.mule.tests/mule-tests-performance@4.0.0-rc
 - pkg:maven/org.mule.tests/mule-tests-performance@4.0.0-rc?classifier=sources
+- pkg:maven/org.mule.tests/mule-tests-performance@4.1.1
+- pkg:maven/org.mule.tests/mule-tests-performance@4.1.1?classifier=sources

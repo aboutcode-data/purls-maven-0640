@@ -18,6 +18,10 @@
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.1.0?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.1.2
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.1.2?classifier=sources
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.10.0-for-import
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.10.0-for-import?classifier=sources
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.10.1-for-import
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.10.1-for-import?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.2.0
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.2.0?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.2.1
@@ -60,3 +64,9 @@
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.9.1-for-import?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.9.2-for-import
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@2.9.2-for-import?classifier=sources
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.0.0
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.0.0-for-dtc
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.0.0-for-dtc?classifier=sources
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.0.0?classifier=sources
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.1.0
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.flogger/google-extensions@0.1
+- pkg:maven/com.google.flogger/google-extensions@0.1?classifier=sources

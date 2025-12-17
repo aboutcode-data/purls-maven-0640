@@ -6,3 +6,7 @@
 - pkg:maven/com.github.tobato/fastdfs-client@1.25.3-RELEASE?classifier=sources
 - pkg:maven/com.github.tobato/fastdfs-client@1.25.4-RELEASE
 - pkg:maven/com.github.tobato/fastdfs-client@1.25.4-RELEASE?classifier=sources
+- pkg:maven/com.github.tobato/fastdfs-client@1.26.1-RELEASE
+- pkg:maven/com.github.tobato/fastdfs-client@1.26.1-RELEASE?classifier=sources
+- pkg:maven/com.github.tobato/fastdfs-client@1.26.2
+- pkg:maven/com.github.tobato/fastdfs-client@1.26.2?classifier=sources

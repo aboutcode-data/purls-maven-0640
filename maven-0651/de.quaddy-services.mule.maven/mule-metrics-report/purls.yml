@@ -1,0 +1,6 @@
+- pkg:maven/de.quaddy-services.mule.maven/mule-metrics-report@2018.3.3
+- pkg:maven/de.quaddy-services.mule.maven/mule-metrics-report@2018.3.3?classifier=sources
+- pkg:maven/de.quaddy-services.mule.maven/mule-metrics-report@2018.3.4
+- pkg:maven/de.quaddy-services.mule.maven/mule-metrics-report@2018.3.4?classifier=sources
+- pkg:maven/de.quaddy-services.mule.maven/mule-metrics-report@2018.3.5
+- pkg:maven/de.quaddy-services.mule.maven/mule-metrics-report@2018.3.5?classifier=sources

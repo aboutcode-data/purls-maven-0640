@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xenoby/utest_2.11@0.6.0
+- pkg:maven/com.github.xenoby/utest_2.11@0.6.0?classifier=sources

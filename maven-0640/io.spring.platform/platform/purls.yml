@@ -28,8 +28,14 @@
 - pkg:maven/io.spring.platform/platform@Athens-SR6
 - pkg:maven/io.spring.platform/platform@Brussels-RELEASE
 - pkg:maven/io.spring.platform/platform@Brussels-SR1
+- pkg:maven/io.spring.platform/platform@Brussels-SR10
 - pkg:maven/io.spring.platform/platform@Brussels-SR2
 - pkg:maven/io.spring.platform/platform@Brussels-SR3
 - pkg:maven/io.spring.platform/platform@Brussels-SR4
 - pkg:maven/io.spring.platform/platform@Brussels-SR5
 - pkg:maven/io.spring.platform/platform@Brussels-SR6
+- pkg:maven/io.spring.platform/platform@Brussels-SR7
+- pkg:maven/io.spring.platform/platform@Brussels-SR8
+- pkg:maven/io.spring.platform/platform@Brussels-SR9
+- pkg:maven/io.spring.platform/platform@Cairo-RELEASE
+- pkg:maven/io.spring.platform/platform@Cairo-SR1

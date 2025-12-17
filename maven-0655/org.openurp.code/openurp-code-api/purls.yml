@@ -17,6 +17,12 @@
 - pkg:maven/org.openurp.code/openurp-code-api@0.0.2
 - pkg:maven/org.openurp.code/openurp-code-api@0.0.20
 - pkg:maven/org.openurp.code/openurp-code-api@0.0.20?classifier=sources
+- pkg:maven/org.openurp.code/openurp-code-api@0.0.21
+- pkg:maven/org.openurp.code/openurp-code-api@0.0.21?classifier=sources
+- pkg:maven/org.openurp.code/openurp-code-api@0.0.22
+- pkg:maven/org.openurp.code/openurp-code-api@0.0.22?classifier=sources
+- pkg:maven/org.openurp.code/openurp-code-api@0.0.23
+- pkg:maven/org.openurp.code/openurp-code-api@0.0.23?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-api@0.0.2?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-api@0.0.3
 - pkg:maven/org.openurp.code/openurp-code-api@0.0.3?classifier=sources

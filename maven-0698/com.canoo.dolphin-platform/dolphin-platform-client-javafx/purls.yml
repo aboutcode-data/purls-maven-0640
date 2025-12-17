@@ -54,3 +54,5 @@
 - pkg:maven/com.canoo.dolphin-platform/dolphin-platform-client-javafx@0.8.9?classifier=sources
 - pkg:maven/com.canoo.dolphin-platform/dolphin-platform-client-javafx@0.9.0
 - pkg:maven/com.canoo.dolphin-platform/dolphin-platform-client-javafx@0.9.0?classifier=sources
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-client-javafx@1.0.0.CR5
+- pkg:maven/com.canoo.dolphin-platform/dolphin-platform-client-javafx@1.0.0.CR5?classifier=sources

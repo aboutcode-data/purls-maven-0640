@@ -1,0 +1,2 @@
+- pkg:maven/org.metaborg/pie.vfs@0.1.1
+- pkg:maven/org.metaborg/pie.vfs@0.1.1?classifier=sources

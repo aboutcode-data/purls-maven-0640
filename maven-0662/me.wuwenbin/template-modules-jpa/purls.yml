@@ -1,5 +1,17 @@
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.14.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.14.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.16.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.16.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.17.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.17.RELEASE?classifier=sources
 - pkg:maven/me.wuwenbin/template-modules-jpa@1.10.2.RELEASE
 - pkg:maven/me.wuwenbin/template-modules-jpa@1.10.2.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.6.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.6.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.7.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.10.7.RELEASE?classifier=sources
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.11.0.RELEASE
+- pkg:maven/me.wuwenbin/template-modules-jpa@1.11.0.RELEASE?classifier=sources
 - pkg:maven/me.wuwenbin/template-modules-jpa@1.8.0.RELEASE
 - pkg:maven/me.wuwenbin/template-modules-jpa@1.8.0.RELEASE?classifier=sources
 - pkg:maven/me.wuwenbin/template-modules-jpa@1.9.0.RELEASE

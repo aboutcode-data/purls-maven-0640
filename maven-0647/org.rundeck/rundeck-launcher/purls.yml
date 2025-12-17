@@ -1,5 +1,17 @@
 - pkg:maven/org.rundeck/rundeck-launcher@2.10.0?classifier=sources
 - pkg:maven/org.rundeck/rundeck-launcher@2.10.1?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.10.2?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.10.3?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.10.4?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.10.5?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.10.6?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.10.7?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.10.8?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.11.0-RC1
+- pkg:maven/org.rundeck/rundeck-launcher@2.11.0?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.11.1?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.11.2?classifier=sources
+- pkg:maven/org.rundeck/rundeck-launcher@2.11.3?classifier=sources
 - pkg:maven/org.rundeck/rundeck-launcher@2.5.1
 - pkg:maven/org.rundeck/rundeck-launcher@2.5.1?classifier=sources
 - pkg:maven/org.rundeck/rundeck-launcher@2.5.2

@@ -12,3 +12,9 @@
 - pkg:maven/io.github.scala-hamsters/macros_2.12@2.3.0?classifier=sources
 - pkg:maven/io.github.scala-hamsters/macros_2.12@2.3.1
 - pkg:maven/io.github.scala-hamsters/macros_2.12@2.3.1?classifier=sources
+- pkg:maven/io.github.scala-hamsters/macros_2.12@2.4.0
+- pkg:maven/io.github.scala-hamsters/macros_2.12@2.4.0?classifier=sources
+- pkg:maven/io.github.scala-hamsters/macros_2.12@2.5.0
+- pkg:maven/io.github.scala-hamsters/macros_2.12@2.5.0?classifier=sources
+- pkg:maven/io.github.scala-hamsters/macros_2.12@2.6.0
+- pkg:maven/io.github.scala-hamsters/macros_2.12@2.6.0?classifier=sources

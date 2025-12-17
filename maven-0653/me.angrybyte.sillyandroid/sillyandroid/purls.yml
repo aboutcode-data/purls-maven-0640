@@ -50,5 +50,9 @@
 - pkg:maven/me.angrybyte.sillyandroid/sillyandroid@0.9?type=aar
 - pkg:maven/me.angrybyte.sillyandroid/sillyandroid@1.00?classifier=sources
 - pkg:maven/me.angrybyte.sillyandroid/sillyandroid@1.00?type=aar
+- pkg:maven/me.angrybyte.sillyandroid/sillyandroid@1.1.1?classifier=sources
+- pkg:maven/me.angrybyte.sillyandroid/sillyandroid@1.1.1?type=aar
 - pkg:maven/me.angrybyte.sillyandroid/sillyandroid@1.1?classifier=sources
 - pkg:maven/me.angrybyte.sillyandroid/sillyandroid@1.1?type=aar
+- pkg:maven/me.angrybyte.sillyandroid/sillyandroid@1.2.0?classifier=sources
+- pkg:maven/me.angrybyte.sillyandroid/sillyandroid@1.2.0?type=aar

@@ -1,3 +1,4 @@
+- pkg:maven/au.com.agiledigital/play-rest-support_2.11@0.0.1
 - pkg:maven/au.com.agiledigital/play-rest-support_2.11@0.0.2
 - pkg:maven/au.com.agiledigital/play-rest-support_2.11@0.0.2?classifier=sources
 - pkg:maven/au.com.agiledigital/play-rest-support_2.11@0.0.3

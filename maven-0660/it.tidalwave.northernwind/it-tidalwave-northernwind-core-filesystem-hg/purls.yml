@@ -48,3 +48,5 @@
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-hg@1.1-ALPHA-37?classifier=sources
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-hg@1.1-ALPHA-38
 - pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-hg@1.1-ALPHA-38?classifier=sources
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-hg@1.1-ALPHA-39
+- pkg:maven/it.tidalwave.northernwind/it-tidalwave-northernwind-core-filesystem-hg@1.1-ALPHA-39?classifier=sources

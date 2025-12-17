@@ -40,3 +40,9 @@
 - pkg:maven/com.joyent.http-signature/jaxrs-client-signature@4.0.4?classifier=sources
 - pkg:maven/com.joyent.http-signature/jaxrs-client-signature@4.0.5
 - pkg:maven/com.joyent.http-signature/jaxrs-client-signature@4.0.5?classifier=sources
+- pkg:maven/com.joyent.http-signature/jaxrs-client-signature@4.0.6
+- pkg:maven/com.joyent.http-signature/jaxrs-client-signature@4.0.6?classifier=sources
+- pkg:maven/com.joyent.http-signature/jaxrs-client-signature@4.0.7
+- pkg:maven/com.joyent.http-signature/jaxrs-client-signature@4.0.7?classifier=sources
+- pkg:maven/com.joyent.http-signature/jaxrs-client-signature@4.0.8
+- pkg:maven/com.joyent.http-signature/jaxrs-client-signature@4.0.8?classifier=sources

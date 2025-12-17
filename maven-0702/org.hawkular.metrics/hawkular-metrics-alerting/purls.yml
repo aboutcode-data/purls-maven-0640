@@ -8,6 +8,10 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.1.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.10.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.10.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.11.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.11.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.12.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.12.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.2.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.2.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.21.3.Final
@@ -74,6 +78,8 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.27.5.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.27.6.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.27.6.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.27.7.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.27.7.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.28.0.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.28.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.28.1.Final
@@ -82,3 +88,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.28.2.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.28.3.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.28.3.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.28.4.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-alerting@0.28.4.Final?classifier=sources

@@ -6,3 +6,11 @@
 - pkg:maven/org.webjars.bower/vaadin-date-picker@2.0.5?classifier=sources
 - pkg:maven/org.webjars.bower/vaadin-date-picker@2.0.7
 - pkg:maven/org.webjars.bower/vaadin-date-picker@2.0.7?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-date-picker@3.0.0
+- pkg:maven/org.webjars.bower/vaadin-date-picker@3.0.0-alpha2
+- pkg:maven/org.webjars.bower/vaadin-date-picker@3.0.0-alpha2?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-date-picker@3.0.0-alpha5
+- pkg:maven/org.webjars.bower/vaadin-date-picker@3.0.0-alpha5?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-date-picker@3.0.0-alpha6
+- pkg:maven/org.webjars.bower/vaadin-date-picker@3.0.0-alpha6?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-date-picker@3.0.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/com.jpaulmorrison/drawfbp@2.13.18?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.13.20?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.13.22?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.13.23?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.13.24?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.13.2?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.13.3?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.13.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.javadelight/delight-strings@0.0.3
+- pkg:maven/org.javadelight/delight-strings@0.0.3?classifier=sources
+- pkg:maven/org.javadelight/delight-strings@0.0.8
+- pkg:maven/org.javadelight/delight-strings@0.0.8?classifier=sources

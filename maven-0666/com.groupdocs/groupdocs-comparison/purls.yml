@@ -1,3 +1,5 @@
 - pkg:maven/com.groupdocs/groupdocs-comparison@16.11.0?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-comparison@17.3.0?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-comparison@17.3.1?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-comparison@17.3.2?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-comparison@3.2.0?classifier=sources

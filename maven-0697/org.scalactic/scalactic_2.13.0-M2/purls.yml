@@ -1,2 +1,8 @@
 - pkg:maven/org.scalactic/scalactic_2.13.0-M2@3.0.4
 - pkg:maven/org.scalactic/scalactic_2.13.0-M2@3.0.4?classifier=sources
+- pkg:maven/org.scalactic/scalactic_2.13.0-M2@3.0.5
+- pkg:maven/org.scalactic/scalactic_2.13.0-M2@3.0.5?classifier=sources
+- pkg:maven/org.scalactic/scalactic_2.13.0-M2@3.1.0-SNAP6
+- pkg:maven/org.scalactic/scalactic_2.13.0-M2@3.1.0-SNAP6?classifier=sources
+- pkg:maven/org.scalactic/scalactic_2.13.0-M2@3.2.0-SNAP10
+- pkg:maven/org.scalactic/scalactic_2.13.0-M2@3.2.0-SNAP10?classifier=sources

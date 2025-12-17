@@ -1,0 +1,6 @@
+- pkg:maven/com.alibaba.android/virtual-compiler@0.0.0.1
+- pkg:maven/com.alibaba.android/virtual-compiler@0.0.0.1?classifier=sources
+- pkg:maven/com.alibaba.android/virtual-compiler@1.0.10
+- pkg:maven/com.alibaba.android/virtual-compiler@1.0.10?classifier=sources
+- pkg:maven/com.alibaba.android/virtual-compiler@1.0.7.1
+- pkg:maven/com.alibaba.android/virtual-compiler@1.0.7.1?classifier=sources

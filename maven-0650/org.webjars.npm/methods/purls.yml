@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/methods@0.1.0
+- pkg:maven/org.webjars.npm/methods@0.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/methods@1.0.1
 - pkg:maven/org.webjars.npm/methods@1.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/methods@1.1.0

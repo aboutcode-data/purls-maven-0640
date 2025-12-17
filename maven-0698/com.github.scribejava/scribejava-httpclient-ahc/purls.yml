@@ -22,3 +22,13 @@
 - pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@4.2.0?classifier=sources
 - pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.0.0
 - pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.0.0?classifier=sources
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.1.0
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.1.0?classifier=sources
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.2.0-java7again
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.2.0-java7again?classifier=sources
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.3.0
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.3.0?classifier=sources
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.4.0
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.4.0?classifier=sources
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.5.0
+- pkg:maven/com.github.scribejava/scribejava-httpclient-ahc@5.5.0?classifier=sources

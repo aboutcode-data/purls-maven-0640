@@ -86,3 +86,7 @@
 - pkg:maven/com.librato.metrics/dropwizard-metrics-librato@10.1.0.8?classifier=sources
 - pkg:maven/com.librato.metrics/dropwizard-metrics-librato@10.2.0.0
 - pkg:maven/com.librato.metrics/dropwizard-metrics-librato@10.2.0.0?classifier=sources
+- pkg:maven/com.librato.metrics/dropwizard-metrics-librato@10.2.0.1
+- pkg:maven/com.librato.metrics/dropwizard-metrics-librato@10.2.0.1?classifier=sources
+- pkg:maven/com.librato.metrics/dropwizard-metrics-librato@10.2.0.2
+- pkg:maven/com.librato.metrics/dropwizard-metrics-librato@10.2.0.2?classifier=sources

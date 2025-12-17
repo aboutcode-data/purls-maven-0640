@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.l0km/facedb-thriftservice@1.0.0
+- pkg:maven/com.gitee.l0km/facedb-thriftservice@1.0.0?classifier=sources

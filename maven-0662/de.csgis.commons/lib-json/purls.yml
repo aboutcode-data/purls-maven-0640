@@ -1,0 +1,2 @@
+- pkg:maven/de.csgis.commons/lib-json@1.1.2
+- pkg:maven/de.csgis.commons/lib-json@1.1.2?classifier=sources

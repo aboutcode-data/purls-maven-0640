@@ -1,0 +1,2 @@
+- pkg:maven/com.gdetotut/jundo-framework@1.15
+- pkg:maven/com.gdetotut/jundo-framework@1.15?classifier=sources

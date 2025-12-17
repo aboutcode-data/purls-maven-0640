@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.bookkeeper/circe-checksum@4.7.0?classifier=sources

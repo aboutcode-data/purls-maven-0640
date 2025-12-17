@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rockjam/play-json_2.10@2.7.0
+- pkg:maven/com.github.rockjam/play-json_2.10@2.7.0?classifier=sources

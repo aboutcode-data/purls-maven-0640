@@ -4,3 +4,9 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.701
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.701?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.702
+- pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.702?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.703
+- pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.703?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.753
+- pkg:maven/org.eclipse.platform/org.eclipse.sdk.examples@3.5.753?classifier=sources

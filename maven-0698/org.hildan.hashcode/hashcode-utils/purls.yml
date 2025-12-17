@@ -1,0 +1,2 @@
+- pkg:maven/org.hildan.hashcode/hashcode-utils@5.0.0
+- pkg:maven/org.hildan.hashcode/hashcode-utils@5.0.0?classifier=sources

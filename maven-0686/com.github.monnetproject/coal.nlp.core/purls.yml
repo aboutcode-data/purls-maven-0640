@@ -1,0 +1,2 @@
+- pkg:maven/com.github.monnetproject/coal.nlp.core@1.18.4
+- pkg:maven/com.github.monnetproject/coal.nlp.core@1.18.4?classifier=sources

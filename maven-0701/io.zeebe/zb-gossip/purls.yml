@@ -1,0 +1,6 @@
+- pkg:maven/io.zeebe/zb-gossip@0.7.0
+- pkg:maven/io.zeebe/zb-gossip@0.7.0?classifier=sources
+- pkg:maven/io.zeebe/zb-gossip@0.8.0
+- pkg:maven/io.zeebe/zb-gossip@0.8.0?classifier=sources
+- pkg:maven/io.zeebe/zb-gossip@0.9.0
+- pkg:maven/io.zeebe/zb-gossip@0.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.orbit.com.nimbusds/nimbus-jose-jwt@5.4.0.wso2v1
+- pkg:maven/org.wso2.orbit.com.nimbusds/nimbus-jose-jwt@5.8.0.wso2v1

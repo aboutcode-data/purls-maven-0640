@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/rc-trigger@1.7.2
 - pkg:maven/org.webjars.npm/rc-trigger@1.7.2?classifier=sources
+- pkg:maven/org.webjars.npm/rc-trigger@2.3.4
+- pkg:maven/org.webjars.npm/rc-trigger@2.3.4?classifier=sources

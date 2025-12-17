@@ -1,0 +1,2 @@
+- pkg:maven/org.restcomm.media.plugin.dtmf/media-plugin-dtmf-detector-goertzel@1.1.0
+- pkg:maven/org.restcomm.media.plugin.dtmf/media-plugin-dtmf-detector-goertzel@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fuwanguo/jedis.migu@2.8.2
+- pkg:maven/com.github.fuwanguo/jedis.migu@2.8.2?classifier=sources

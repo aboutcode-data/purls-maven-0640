@@ -1,0 +1,4 @@
+- pkg:maven/com.typesafe.akka/akka-http-spray-json_2.13.0-M3@10.1.0
+- pkg:maven/com.typesafe.akka/akka-http-spray-json_2.13.0-M3@10.1.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-http-spray-json_2.13.0-M3@10.1.1
+- pkg:maven/com.typesafe.akka/akka-http-spray-json_2.13.0-M3@10.1.1?classifier=sources

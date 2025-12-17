@@ -1,0 +1,2 @@
+- pkg:maven/com.hubspot.maven.plugins/copy-protos-maven-plugin@0.1
+- pkg:maven/com.hubspot.maven.plugins/copy-protos-maven-plugin@0.1?classifier=sources

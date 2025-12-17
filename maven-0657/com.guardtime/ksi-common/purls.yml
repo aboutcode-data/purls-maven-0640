@@ -6,6 +6,10 @@
 - pkg:maven/com.guardtime/ksi-common@4.1.18?classifier=sources
 - pkg:maven/com.guardtime/ksi-common@4.10.117
 - pkg:maven/com.guardtime/ksi-common@4.10.117?classifier=sources
+- pkg:maven/com.guardtime/ksi-common@4.10.119
+- pkg:maven/com.guardtime/ksi-common@4.10.119?classifier=sources
+- pkg:maven/com.guardtime/ksi-common@4.11.153
+- pkg:maven/com.guardtime/ksi-common@4.11.153?classifier=sources
 - pkg:maven/com.guardtime/ksi-common@4.2.32
 - pkg:maven/com.guardtime/ksi-common@4.2.32?classifier=sources
 - pkg:maven/com.guardtime/ksi-common@4.3.54

@@ -22,3 +22,8 @@
 - pkg:maven/nz.net.osnz.composite/composite-ebean@7.3
 - pkg:maven/nz.net.osnz.composite/composite-ebean@7.4
 - pkg:maven/nz.net.osnz.composite/composite-ebean@7.5
+- pkg:maven/nz.net.osnz.composite/composite-ebean@7.6
+- pkg:maven/nz.net.osnz.composite/composite-ebean@7.7
+- pkg:maven/nz.net.osnz.composite/composite-ebean@8.1
+- pkg:maven/nz.net.osnz.composite/composite-ebean@8.2
+- pkg:maven/nz.net.osnz.composite/composite-ebean@8.3

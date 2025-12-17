@@ -6,3 +6,11 @@
 - pkg:maven/org.mnode.ical4j/ical4j-connector@0.9.4.3?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j-connector@0.9.5
 - pkg:maven/org.mnode.ical4j/ical4j-connector@0.9.5?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-connector@0.9.6
+- pkg:maven/org.mnode.ical4j/ical4j-connector@0.9.6?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-connector@0.9.7
+- pkg:maven/org.mnode.ical4j/ical4j-connector@0.9.7?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-connector@1.0.0
+- pkg:maven/org.mnode.ical4j/ical4j-connector@1.0.0?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-connector@1.0.1
+- pkg:maven/org.mnode.ical4j/ical4j-connector@1.0.1?classifier=sources

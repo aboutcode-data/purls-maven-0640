@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.microsoft/tslib@1.9.0
+- pkg:maven/org.webjars.bowergithub.microsoft/tslib@1.9.0?classifier=sources

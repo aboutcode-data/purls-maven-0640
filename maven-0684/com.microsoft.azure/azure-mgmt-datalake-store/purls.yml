@@ -4,3 +4,7 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-datalake-store@1.0.0-beta1.2?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-datalake-store@1.0.0-beta1.3
 - pkg:maven/com.microsoft.azure/azure-mgmt-datalake-store@1.0.0-beta1.3?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-datalake-store@1.0.0-beta1.4
+- pkg:maven/com.microsoft.azure/azure-mgmt-datalake-store@1.0.0-beta1.4?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-datalake-store@1.0.0-beta1.5
+- pkg:maven/com.microsoft.azure/azure-mgmt-datalake-store@1.0.0-beta1.5?classifier=sources

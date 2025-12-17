@@ -1,3 +1,4 @@
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0
 - pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0-beta4
 - pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0-beta4?classifier=sources
 - pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0.beta1
@@ -6,3 +7,10 @@
 - pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0.beta2?classifier=sources
 - pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0.beta3
 - pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0.beta3?classifier=sources
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0.beta5
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0.beta5?classifier=sources
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0.beta6
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0.beta6?classifier=sources
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.1.0
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.1.0?classifier=sources

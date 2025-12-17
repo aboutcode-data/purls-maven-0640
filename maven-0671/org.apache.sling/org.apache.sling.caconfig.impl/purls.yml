@@ -16,6 +16,12 @@
 - pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.0
 - pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.10
+- pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.10?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.12
+- pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.12?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.2
 - pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.caconfig.impl@1.4.2?classifier=sources

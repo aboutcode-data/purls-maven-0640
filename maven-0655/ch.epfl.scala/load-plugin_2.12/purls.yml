@@ -1,0 +1,12 @@
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@0.1.0
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@0.1.0%2B2-496ac670
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@0.1.0%2B2-496ac670?classifier=sources
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@0.1.0?classifier=sources
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@22fb3e69
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@22fb3e69?classifier=sources
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@25c028e9
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@25c028e9?classifier=sources
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@66068835
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@66068835?classifier=sources
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@7c3c896d
+- pkg:maven/ch.epfl.scala/load-plugin_2.12@7c3c896d?classifier=sources

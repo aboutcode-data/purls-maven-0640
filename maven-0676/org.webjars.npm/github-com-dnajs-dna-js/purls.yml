@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-dnajs-dna-js@1.3.7
+- pkg:maven/org.webjars.npm/github-com-dnajs-dna-js@1.3.7?classifier=sources

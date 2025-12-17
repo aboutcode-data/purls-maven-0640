@@ -1,3 +1,5 @@
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ors@1.0.126
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ors@1.0.126?classifier=sources
 - pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ors@1.0.58
 - pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ors@1.0.58?classifier=sources
 - pkg:maven/net.anwiba.spatial/anwiba-spatial-data-ors@1.0.64

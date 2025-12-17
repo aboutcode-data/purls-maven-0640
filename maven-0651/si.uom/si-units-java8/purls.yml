@@ -18,3 +18,7 @@
 - pkg:maven/si.uom/si-units-java8@0.7.1
 - pkg:maven/si.uom/si-units-java8@0.7.1?classifier=sources
 - pkg:maven/si.uom/si-units-java8@0.7?classifier=sources
+- pkg:maven/si.uom/si-units-java8@0.8
+- pkg:maven/si.uom/si-units-java8@0.8?classifier=sources
+- pkg:maven/si.uom/si-units-java8@0.9
+- pkg:maven/si.uom/si-units-java8@0.9?classifier=sources

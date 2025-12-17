@@ -1,0 +1,2 @@
+- pkg:maven/com.github.techflavors/simple-message-converters@1.0.0
+- pkg:maven/com.github.techflavors/simple-message-converters@1.0.0?classifier=sources

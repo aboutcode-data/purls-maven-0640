@@ -12,3 +12,5 @@
 - pkg:maven/com.github.obase/obase-webc-yyudb@0.8.2?classifier=sources
 - pkg:maven/com.github.obase/obase-webc-yyudb@0.8.3
 - pkg:maven/com.github.obase/obase-webc-yyudb@0.8.3?classifier=sources
+- pkg:maven/com.github.obase/obase-webc-yyudb@1.2.0
+- pkg:maven/com.github.obase/obase-webc-yyudb@1.2.0?classifier=sources

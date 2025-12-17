@@ -1,0 +1,8 @@
+- pkg:maven/com.wuyushuo/wuyu-module-means@1.0.7
+- pkg:maven/com.wuyushuo/wuyu-module-means@1.0.7?classifier=sources
+- pkg:maven/com.wuyushuo/wuyu-module-means@1.1.1
+- pkg:maven/com.wuyushuo/wuyu-module-means@1.1.1?classifier=sources
+- pkg:maven/com.wuyushuo/wuyu-module-means@1.1.2
+- pkg:maven/com.wuyushuo/wuyu-module-means@1.1.2?classifier=sources
+- pkg:maven/com.wuyushuo/wuyu-module-means@1.2.0
+- pkg:maven/com.wuyushuo/wuyu-module-means@1.2.0?classifier=sources

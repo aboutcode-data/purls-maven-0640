@@ -17,6 +17,9 @@
 - pkg:maven/org.seedstack/web-archetype@16.7?classifier=sources
 - pkg:maven/org.seedstack/web-archetype@17.11.1?classifier=sources
 - pkg:maven/org.seedstack/web-archetype@17.11.2?classifier=sources
+- pkg:maven/org.seedstack/web-archetype@17.11.3?classifier=sources
 - pkg:maven/org.seedstack/web-archetype@17.11?classifier=sources
 - pkg:maven/org.seedstack/web-archetype@17.4?classifier=sources
 - pkg:maven/org.seedstack/web-archetype@17.7?classifier=sources
+- pkg:maven/org.seedstack/web-archetype@18.4.1?classifier=sources
+- pkg:maven/org.seedstack/web-archetype@18.4?classifier=sources

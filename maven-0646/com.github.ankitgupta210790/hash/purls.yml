@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ankitgupta210790/hash@1.0
+- pkg:maven/com.github.ankitgupta210790/hash@1.0?classifier=sources
+- pkg:maven/com.github.ankitgupta210790/hash@1.1
+- pkg:maven/com.github.ankitgupta210790/hash@1.1?classifier=sources

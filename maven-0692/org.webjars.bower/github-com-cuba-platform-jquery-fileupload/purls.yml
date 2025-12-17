@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-cuba-platform-jquery-fileupload@9.12.1
+- pkg:maven/org.webjars.bower/github-com-cuba-platform-jquery-fileupload@9.12.1?classifier=sources

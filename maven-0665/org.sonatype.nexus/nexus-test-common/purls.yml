@@ -75,6 +75,12 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.4-03?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.5-02
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.5-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.6-02
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.6-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.7-01
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.7-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.8-01
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.8-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.1?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.2
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.2-01
@@ -200,6 +206,10 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.0.2-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.1.0-04
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.1.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.10.0-04
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.10.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.11.0-01
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.11.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.2.0-01
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.2.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.2.1-01
@@ -224,3 +234,11 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.6.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.6.2-01
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.6.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.7.0-04
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.7.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.7.1-02
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.7.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.8.0-02
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.8.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.9.0-01
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.9.0-01?classifier=sources

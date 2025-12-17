@@ -1,0 +1,4 @@
+- pkg:maven/com.expedia.www/haystack-client-java-example-dropwizard@0.1.0
+- pkg:maven/com.expedia.www/haystack-client-java-example-dropwizard@0.1.0?classifier=sources
+- pkg:maven/com.expedia.www/haystack-client-java-example-dropwizard@0.1.1
+- pkg:maven/com.expedia.www/haystack-client-java-example-dropwizard@0.1.1?classifier=sources

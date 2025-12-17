@@ -1,0 +1,4 @@
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-qedm@3.5-20180302
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-qedm@3.5-20180302?classifier=sources
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-qedm@3.5.0
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-stu3-qedm@3.5.0?classifier=sources

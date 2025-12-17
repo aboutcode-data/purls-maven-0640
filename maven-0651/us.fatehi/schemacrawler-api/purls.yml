@@ -1,0 +1,2 @@
+- pkg:maven/us.fatehi/schemacrawler-api@14.16.04.01-java7
+- pkg:maven/us.fatehi/schemacrawler-api@14.16.04.01-java7?classifier=sources

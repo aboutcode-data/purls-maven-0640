@@ -1,0 +1,2 @@
+- pkg:maven/io.chrisdavenport/log4cats-log4s_sjs0.6_2.11@0.0.5
+- pkg:maven/io.chrisdavenport/log4cats-log4s_sjs0.6_2.11@0.0.5?classifier=sources

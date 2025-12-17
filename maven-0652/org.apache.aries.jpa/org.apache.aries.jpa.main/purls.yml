@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.main@2.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.main@2.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.main@2.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.main@2.7.0?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/io.mockk/mockk-agent-android@1.8?classifier=sources
+- pkg:maven/io.mockk/mockk-agent-android@1.8?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/com.frimastudio/slf4j-kotlin-extensions@1.0.0
 - pkg:maven/com.frimastudio/slf4j-kotlin-extensions@1.0.0?classifier=sources
+- pkg:maven/com.frimastudio/slf4j-kotlin-extensions@2.0.0
+- pkg:maven/com.frimastudio/slf4j-kotlin-extensions@2.0.0?classifier=sources

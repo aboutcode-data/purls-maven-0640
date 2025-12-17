@@ -1,0 +1,2 @@
+- pkg:maven/org.ctoolkit.archetype/ctoolkit-microservice-archetype@1.0?classifier=sources
+- pkg:maven/org.ctoolkit.archetype/ctoolkit-microservice-archetype@1.1?classifier=sources

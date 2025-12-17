@@ -1,0 +1,8 @@
+- pkg:maven/me.drakeet.multitype/multitype-kotlin@3.4.2-beta1?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype-kotlin@3.4.2-beta1?type=aar
+- pkg:maven/me.drakeet.multitype/multitype-kotlin@3.4.2-beta?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype-kotlin@3.4.2-beta?type=aar
+- pkg:maven/me.drakeet.multitype/multitype-kotlin@3.4.3?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype-kotlin@3.4.3?type=aar
+- pkg:maven/me.drakeet.multitype/multitype-kotlin@3.4.4?classifier=sources
+- pkg:maven/me.drakeet.multitype/multitype-kotlin@3.4.4?type=aar

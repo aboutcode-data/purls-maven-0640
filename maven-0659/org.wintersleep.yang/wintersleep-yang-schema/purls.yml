@@ -1,0 +1,8 @@
+- pkg:maven/org.wintersleep.yang/wintersleep-yang-schema@0.1
+- pkg:maven/org.wintersleep.yang/wintersleep-yang-schema@0.1?classifier=sources
+- pkg:maven/org.wintersleep.yang/wintersleep-yang-schema@0.2
+- pkg:maven/org.wintersleep.yang/wintersleep-yang-schema@0.2?classifier=sources
+- pkg:maven/org.wintersleep.yang/wintersleep-yang-schema@0.3
+- pkg:maven/org.wintersleep.yang/wintersleep-yang-schema@0.3.1
+- pkg:maven/org.wintersleep.yang/wintersleep-yang-schema@0.3.1?classifier=sources
+- pkg:maven/org.wintersleep.yang/wintersleep-yang-schema@0.3?classifier=sources

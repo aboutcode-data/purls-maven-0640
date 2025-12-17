@@ -1,2 +1,3 @@
 - pkg:maven/net.leadware/jpersistence-tools-tests-core@2.0
 - pkg:maven/net.leadware/jpersistence-tools-tests-core@2.1
+- pkg:maven/net.leadware/jpersistence-tools-tests-core@2.1.1

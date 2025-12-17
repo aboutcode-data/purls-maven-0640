@@ -2,3 +2,5 @@
 - pkg:maven/me.jeffshaw/digitalocean_2.12@4.0?classifier=sources
 - pkg:maven/me.jeffshaw/digitalocean_2.12@5.0
 - pkg:maven/me.jeffshaw/digitalocean_2.12@5.0?classifier=sources
+- pkg:maven/me.jeffshaw/digitalocean_2.12@6.0
+- pkg:maven/me.jeffshaw/digitalocean_2.12@6.0?classifier=sources

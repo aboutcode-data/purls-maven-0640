@@ -1,0 +1,2 @@
+- pkg:maven/com.seoduct/logback-slack-appender@1.0.0
+- pkg:maven/com.seoduct/logback-slack-appender@1.0.0?classifier=sources

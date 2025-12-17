@@ -10,3 +10,5 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.26-b09
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.26-b09?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.26?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.27
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.27?classifier=sources

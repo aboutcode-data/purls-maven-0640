@@ -1,0 +1,6 @@
+- pkg:maven/im.toss/http-auth-parser@0.1.0
+- pkg:maven/im.toss/http-auth-parser@0.1.0?classifier=sources
+- pkg:maven/im.toss/http-auth-parser@0.1.2
+- pkg:maven/im.toss/http-auth-parser@0.1.2?classifier=sources
+- pkg:maven/im.toss/http-auth-parser@v0.1.1
+- pkg:maven/im.toss/http-auth-parser@v0.1.1?classifier=sources

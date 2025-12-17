@@ -1,2 +1,4 @@
 - pkg:maven/com.github.veithen.visualwas/websphere-api-stubs@1.0.0
 - pkg:maven/com.github.veithen.visualwas/websphere-api-stubs@1.0.0?classifier=sources
+- pkg:maven/com.github.veithen.visualwas/websphere-api-stubs@2.0.0
+- pkg:maven/com.github.veithen.visualwas/websphere-api-stubs@2.0.0?classifier=sources

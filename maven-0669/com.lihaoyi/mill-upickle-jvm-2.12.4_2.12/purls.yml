@@ -1,0 +1,2 @@
+- pkg:maven/com.lihaoyi/mill-upickle-jvm-2.12.4_2.12@0.6.0-RC1
+- pkg:maven/com.lihaoyi/mill-upickle-jvm-2.12.4_2.12@0.6.0-RC1?classifier=sources

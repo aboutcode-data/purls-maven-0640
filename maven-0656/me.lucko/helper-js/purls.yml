@@ -1,0 +1,4 @@
+- pkg:maven/me.lucko/helper-js@1.1.0
+- pkg:maven/me.lucko/helper-js@1.1.0?classifier=sources
+- pkg:maven/me.lucko/helper-js@2.0.0
+- pkg:maven/me.lucko/helper-js@2.0.0?classifier=sources

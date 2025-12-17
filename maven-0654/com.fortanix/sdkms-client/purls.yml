@@ -1,0 +1,12 @@
+- pkg:maven/com.fortanix/sdkms-client@1.0.476
+- pkg:maven/com.fortanix/sdkms-client@1.0.476?classifier=sources
+- pkg:maven/com.fortanix/sdkms-client@1.2.524
+- pkg:maven/com.fortanix/sdkms-client@1.2.524?classifier=sources
+- pkg:maven/com.fortanix/sdkms-client@1.3.539
+- pkg:maven/com.fortanix/sdkms-client@1.3.539?classifier=sources
+- pkg:maven/com.fortanix/sdkms-client@1.4.569
+- pkg:maven/com.fortanix/sdkms-client@1.4.569?classifier=sources
+- pkg:maven/com.fortanix/sdkms-client@2.0.605
+- pkg:maven/com.fortanix/sdkms-client@2.0.605?classifier=sources
+- pkg:maven/com.fortanix/sdkms-client@2.1.633
+- pkg:maven/com.fortanix/sdkms-client@2.1.633?classifier=sources

@@ -90,3 +90,5 @@
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.20.1?type=war
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.20.2?classifier=sources
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.20.2?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.20.3?classifier=sources
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.20.3?type=war

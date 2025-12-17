@@ -1,0 +1,2 @@
+- pkg:maven/kim.pmj.develop/develop_tools@1.0
+- pkg:maven/kim.pmj.develop/develop_tools@1.0?classifier=sources

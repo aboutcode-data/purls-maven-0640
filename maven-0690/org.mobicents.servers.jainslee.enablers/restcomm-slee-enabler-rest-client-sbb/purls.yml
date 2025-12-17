@@ -266,3 +266,5 @@
 - pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-slee-enabler-rest-client-sbb@7.1.24?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-slee-enabler-rest-client-sbb@7.1.25
 - pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-slee-enabler-rest-client-sbb@7.1.25?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-slee-enabler-rest-client-sbb@7.2.0-113
+- pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-slee-enabler-rest-client-sbb@7.2.0-113?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.3.0?classifier=sources
 - pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.4.0
 - pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.4.0?classifier=sources
+- pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.5.7
+- pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.5.7?classifier=sources
+- pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.5.8
+- pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.5.8?classifier=sources
+- pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.5.9
+- pkg:maven/nz.co.senanque/madura-bundles-test-beans@4.5.9?classifier=sources

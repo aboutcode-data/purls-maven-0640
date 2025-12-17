@@ -1,0 +1,2 @@
+- pkg:maven/io.zeebe/zeebe-qa-long-running-tests@0.6.0
+- pkg:maven/io.zeebe/zeebe-qa-long-running-tests@0.7.0

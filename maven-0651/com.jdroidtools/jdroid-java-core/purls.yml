@@ -1,0 +1,4 @@
+- pkg:maven/com.jdroidtools/jdroid-java-core@0.16.0
+- pkg:maven/com.jdroidtools/jdroid-java-core@0.16.0?classifier=sources
+- pkg:maven/com.jdroidtools/jdroid-java-core@1.0.0
+- pkg:maven/com.jdroidtools/jdroid-java-core@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-0xfe-vexflow@1.2.14
+- pkg:maven/org.webjars.npm/github-com-0xfe-vexflow@1.2.14?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-0xfe-vexflow@1.2.84
+- pkg:maven/org.webjars.npm/github-com-0xfe-vexflow@1.2.84?classifier=sources

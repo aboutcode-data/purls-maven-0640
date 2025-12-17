@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/selenium-webdriver@2.53.3
+- pkg:maven/org.webjars.npm/selenium-webdriver@2.53.3?classifier=sources

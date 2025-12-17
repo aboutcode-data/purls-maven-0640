@@ -1,0 +1,6 @@
+- pkg:maven/de.idealo.kafka/spring-boot-starter-kafka-encryption@0.1-20180111
+- pkg:maven/de.idealo.kafka/spring-boot-starter-kafka-encryption@0.1-20180111?classifier=sources
+- pkg:maven/de.idealo.kafka/spring-boot-starter-kafka-encryption@0.1-20180112
+- pkg:maven/de.idealo.kafka/spring-boot-starter-kafka-encryption@0.1-20180112?classifier=sources
+- pkg:maven/de.idealo.kafka/spring-boot-starter-kafka-encryption@0.1-20180118
+- pkg:maven/de.idealo.kafka/spring-boot-starter-kafka-encryption@0.1-20180118?classifier=sources

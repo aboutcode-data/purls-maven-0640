@@ -119,6 +119,8 @@
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.26-b09
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.26-b09?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.26?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.27
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.27?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.3
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.3.1

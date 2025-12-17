@@ -1,0 +1,4 @@
+- pkg:maven/be.yildiz-games/common-libloader@1.0.0
+- pkg:maven/be.yildiz-games/common-libloader@1.0.0?classifier=sources
+- pkg:maven/be.yildiz-games/common-libloader@1.1.0
+- pkg:maven/be.yildiz-games/common-libloader@1.1.0?classifier=sources

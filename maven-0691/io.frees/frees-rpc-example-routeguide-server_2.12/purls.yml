@@ -1,0 +1,2 @@
+- pkg:maven/io.frees/frees-rpc-example-routeguide-server_2.12@0.13.3
+- pkg:maven/io.frees/frees-rpc-example-routeguide-server_2.12@0.13.3?classifier=sources
