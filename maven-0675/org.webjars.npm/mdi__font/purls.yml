@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/mdi__font@2.7.94
+- pkg:maven/org.webjars.npm/mdi__font@2.7.94?classifier=sources
+- pkg:maven/org.webjars.npm/mdi__font@2.8.94
+- pkg:maven/org.webjars.npm/mdi__font@2.8.94?classifier=sources

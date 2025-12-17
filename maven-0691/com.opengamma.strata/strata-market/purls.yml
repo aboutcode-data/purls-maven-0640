@@ -34,3 +34,9 @@
 - pkg:maven/com.opengamma.strata/strata-market@1.6.0?classifier=sources
 - pkg:maven/com.opengamma.strata/strata-market@1.7.0
 - pkg:maven/com.opengamma.strata/strata-market@1.7.0?classifier=sources
+- pkg:maven/com.opengamma.strata/strata-market@1.7.1
+- pkg:maven/com.opengamma.strata/strata-market@1.7.1?classifier=sources
+- pkg:maven/com.opengamma.strata/strata-market@2.0.0
+- pkg:maven/com.opengamma.strata/strata-market@2.0.0?classifier=sources
+- pkg:maven/com.opengamma.strata/strata-market@2.1.0
+- pkg:maven/com.opengamma.strata/strata-market@2.1.0?classifier=sources

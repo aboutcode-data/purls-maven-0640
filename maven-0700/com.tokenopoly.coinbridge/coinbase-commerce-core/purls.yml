@@ -4,3 +4,5 @@
 - pkg:maven/com.tokenopoly.coinbridge/coinbase-commerce-core@0.2.1-beta?classifier=sources
 - pkg:maven/com.tokenopoly.coinbridge/coinbase-commerce-core@0.2.2-beta
 - pkg:maven/com.tokenopoly.coinbridge/coinbase-commerce-core@0.2.2-beta?classifier=sources
+- pkg:maven/com.tokenopoly.coinbridge/coinbase-commerce-core@0.2.5-beta
+- pkg:maven/com.tokenopoly.coinbridge/coinbase-commerce-core@0.2.5-beta?classifier=sources

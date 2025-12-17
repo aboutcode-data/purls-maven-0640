@@ -1,0 +1,2 @@
+- pkg:maven/org.axonframework.extensions.springcloud/axon-distributed-commandbus-springcloud@4.0-RC1
+- pkg:maven/org.axonframework.extensions.springcloud/axon-distributed-commandbus-springcloud@4.0-RC1?classifier=sources

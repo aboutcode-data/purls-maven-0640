@@ -10,3 +10,6 @@
 - pkg:maven/org.webjars/materializecss@0.98.1
 - pkg:maven/org.webjars/materializecss@0.98.2
 - pkg:maven/org.webjars/materializecss@0.99.0
+- pkg:maven/org.webjars/materializecss@1.0.0
+- pkg:maven/org.webjars/materializecss@1.0.0-rc.1
+- pkg:maven/org.webjars/materializecss@1.0.0-rc.2

@@ -2,3 +2,7 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ua.core@1.0.500?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ua.core@1.1.0
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ua.core@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ua.core@1.1.100
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ua.core@1.1.100?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ua.core@1.1.200
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ua.core@1.1.200?classifier=sources

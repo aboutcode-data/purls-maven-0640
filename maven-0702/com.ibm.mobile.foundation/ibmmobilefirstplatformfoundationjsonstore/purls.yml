@@ -25,3 +25,9 @@
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationjsonstore@8.0.2018011817?type=aar
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationjsonstore@8.0.2018021610?classifier=sources
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationjsonstore@8.0.2018021610?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationjsonstore@8.0.2018032914?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationjsonstore@8.0.2018032914?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationjsonstore@8.0.2018040514?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationjsonstore@8.0.2018040514?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationjsonstore@8.0.2018070514?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationjsonstore@8.0.2018070514?type=aar

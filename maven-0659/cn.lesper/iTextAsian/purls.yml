@@ -1,0 +1,6 @@
+- pkg:maven/cn.lesper/iTextAsian@1.0
+- pkg:maven/cn.lesper/iTextAsian@1.0?classifier=sources
+- pkg:maven/cn.lesper/iTextAsian@2.0
+- pkg:maven/cn.lesper/iTextAsian@2.0?classifier=sources
+- pkg:maven/cn.lesper/iTextAsian@3.0
+- pkg:maven/cn.lesper/iTextAsian@3.0?classifier=sources

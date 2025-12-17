@@ -4,3 +4,7 @@
 - pkg:maven/com.testingsyndicate/hc-jmx@0.2?classifier=sources
 - pkg:maven/com.testingsyndicate/hc-jmx@0.3
 - pkg:maven/com.testingsyndicate/hc-jmx@0.3?classifier=sources
+- pkg:maven/com.testingsyndicate/hc-jmx@1.0.0
+- pkg:maven/com.testingsyndicate/hc-jmx@1.0.0?classifier=sources
+- pkg:maven/com.testingsyndicate/hc-jmx@2.0.0
+- pkg:maven/com.testingsyndicate/hc-jmx@2.0.0?classifier=sources

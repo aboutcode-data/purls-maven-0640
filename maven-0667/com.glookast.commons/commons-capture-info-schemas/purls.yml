@@ -10,3 +10,7 @@
 - pkg:maven/com.glookast.commons/commons-capture-info-schemas@1.5.5?classifier=sources
 - pkg:maven/com.glookast.commons/commons-capture-info-schemas@1.6.0
 - pkg:maven/com.glookast.commons/commons-capture-info-schemas@1.6.0?classifier=sources
+- pkg:maven/com.glookast.commons/commons-capture-info-schemas@2.0.0
+- pkg:maven/com.glookast.commons/commons-capture-info-schemas@2.0.0?classifier=sources
+- pkg:maven/com.glookast.commons/commons-capture-info-schemas@2.0.1
+- pkg:maven/com.glookast.commons/commons-capture-info-schemas@2.0.1?classifier=sources

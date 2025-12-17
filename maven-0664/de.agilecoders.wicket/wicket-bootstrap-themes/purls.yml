@@ -108,3 +108,17 @@
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@2.0.0?classifier=sources
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@2.0.1
 - pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@2.0.1?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@2.0.2
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@2.0.2?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@2.0.3
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@2.0.3?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@2.0.4
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@2.0.4?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@3.0.0-M1
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@3.0.0-M1?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@3.0.0-M2
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@3.0.0-M2?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@3.0.0-M3
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@3.0.0-M3?classifier=sources
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@3.0.0-M4
+- pkg:maven/de.agilecoders.wicket/wicket-bootstrap-themes@3.0.0-M4?classifier=sources

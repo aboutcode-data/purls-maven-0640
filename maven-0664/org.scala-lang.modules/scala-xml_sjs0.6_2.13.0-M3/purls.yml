@@ -1,2 +1,4 @@
 - pkg:maven/org.scala-lang.modules/scala-xml_sjs0.6_2.13.0-M3@1.1.0
 - pkg:maven/org.scala-lang.modules/scala-xml_sjs0.6_2.13.0-M3@1.1.0?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-xml_sjs0.6_2.13.0-M3@1.1.1
+- pkg:maven/org.scala-lang.modules/scala-xml_sjs0.6_2.13.0-M3@1.1.1?classifier=sources

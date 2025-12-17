@@ -12,3 +12,5 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-distribution@0.6.1?type=zip
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-distribution@0.6?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-distribution@0.6?type=zip
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-distribution@0.7?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-distribution@0.7?type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/edu.asu.diging/giles-eco-kafka-util@0.2
+- pkg:maven/edu.asu.diging/giles-eco-kafka-util@0.2?classifier=sources

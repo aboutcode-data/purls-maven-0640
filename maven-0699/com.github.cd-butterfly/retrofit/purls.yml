@@ -1,0 +1,8 @@
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.0-release?classifier=sources
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.0-release?type=aar
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.1?classifier=sources
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.1?type=aar
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.2?classifier=sources
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.2?type=aar
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.3?classifier=sources
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.3?type=aar

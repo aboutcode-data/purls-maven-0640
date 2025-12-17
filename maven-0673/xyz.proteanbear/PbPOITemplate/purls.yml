@@ -1,0 +1,2 @@
+- pkg:maven/xyz.proteanbear/PbPOITemplate@1.1.0
+- pkg:maven/xyz.proteanbear/PbPOITemplate@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.thalia.junit/postgres-rule@1.0.0
+- pkg:maven/de.thalia.junit/postgres-rule@1.0.0?classifier=sources

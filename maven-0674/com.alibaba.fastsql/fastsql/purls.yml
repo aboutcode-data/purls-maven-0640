@@ -2,3 +2,7 @@
 - pkg:maven/com.alibaba.fastsql/fastsql@2.0.0_preview_151?classifier=sources
 - pkg:maven/com.alibaba.fastsql/fastsql@2.0.0_preview_186
 - pkg:maven/com.alibaba.fastsql/fastsql@2.0.0_preview_186?classifier=sources
+- pkg:maven/com.alibaba.fastsql/fastsql@2.0.0_preview_540
+- pkg:maven/com.alibaba.fastsql/fastsql@2.0.0_preview_540?classifier=sources
+- pkg:maven/com.alibaba.fastsql/fastsql@2.0.0_preview_644
+- pkg:maven/com.alibaba.fastsql/fastsql@2.0.0_preview_644?classifier=sources

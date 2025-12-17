@@ -1,2 +1,4 @@
 - pkg:maven/com.kumuluz.ee.metrics/kumuluzee-metrics-logs@1.0.0
 - pkg:maven/com.kumuluz.ee.metrics/kumuluzee-metrics-logs@1.0.0?classifier=sources
+- pkg:maven/com.kumuluz.ee.metrics/kumuluzee-metrics-logs@1.1.1
+- pkg:maven/com.kumuluz.ee.metrics/kumuluzee-metrics-logs@1.1.1?classifier=sources

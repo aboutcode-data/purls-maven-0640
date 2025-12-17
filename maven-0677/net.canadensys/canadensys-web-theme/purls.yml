@@ -4,3 +4,5 @@
 - pkg:maven/net.canadensys/canadensys-web-theme@0.2?type=war
 - pkg:maven/net.canadensys/canadensys-web-theme@0.3?classifier=sources
 - pkg:maven/net.canadensys/canadensys-web-theme@0.3?type=war
+- pkg:maven/net.canadensys/canadensys-web-theme@0.4?classifier=sources
+- pkg:maven/net.canadensys/canadensys-web-theme@0.4?type=war

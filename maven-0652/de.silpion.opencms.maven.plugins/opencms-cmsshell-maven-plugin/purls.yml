@@ -1,0 +1,14 @@
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_2.0.0
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_2.0.0?classifier=sources
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_2.0.1
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_2.0.1?classifier=sources
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_2.0.2
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_2.0.2?classifier=sources
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_3.0.0
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_3.0.0?classifier=sources
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_3.0.2
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_3.0.2?classifier=sources
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_4.0.0
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_4.0.0?classifier=sources
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_4.0.2
+- pkg:maven/de.silpion.opencms.maven.plugins/opencms-cmsshell-maven-plugin@10_5_4.0.2?classifier=sources

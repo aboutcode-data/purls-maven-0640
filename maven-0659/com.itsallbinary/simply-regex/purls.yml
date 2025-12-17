@@ -1,0 +1,6 @@
+- pkg:maven/com.itsallbinary/simply-regex@1.0.0
+- pkg:maven/com.itsallbinary/simply-regex@1.0.0?classifier=sources
+- pkg:maven/com.itsallbinary/simply-regex@1.0.alpha.01
+- pkg:maven/com.itsallbinary/simply-regex@1.0.alpha.01?classifier=sources
+- pkg:maven/com.itsallbinary/simply-regex@1.1.0
+- pkg:maven/com.itsallbinary/simply-regex@1.1.0?classifier=sources

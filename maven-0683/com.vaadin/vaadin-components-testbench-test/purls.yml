@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin/vaadin-components-testbench-test@1.0.0?type=war
+- pkg:maven/com.vaadin/vaadin-components-testbench-test@2.0.0?type=war

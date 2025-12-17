@@ -1,3 +1,7 @@
+- pkg:maven/ch.epfl.scala/scalac-profiling_2.12@1.0.0
+- pkg:maven/ch.epfl.scala/scalac-profiling_2.12@1.0.0?classifier=sources
+- pkg:maven/ch.epfl.scala/scalac-profiling_2.12@3f7f7927
+- pkg:maven/ch.epfl.scala/scalac-profiling_2.12@3f7f7927?classifier=sources
 - pkg:maven/ch.epfl.scala/scalac-profiling_2.12@49ef8beb
 - pkg:maven/ch.epfl.scala/scalac-profiling_2.12@49ef8beb?classifier=sources
 - pkg:maven/ch.epfl.scala/scalac-profiling_2.12@6cac8b23

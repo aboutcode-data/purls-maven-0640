@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/pngjs@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/pngjs@2.3.1
 - pkg:maven/org.webjars.npm/pngjs@2.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/pngjs@3.3.3
+- pkg:maven/org.webjars.npm/pngjs@3.3.3?classifier=sources

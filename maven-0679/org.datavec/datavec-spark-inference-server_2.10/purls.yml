@@ -6,5 +6,7 @@
 - pkg:maven/org.datavec/datavec-spark-inference-server_2.10@0.9.1_spark_1?classifier=sources
 - pkg:maven/org.datavec/datavec-spark-inference-server_2.10@1.0.0-alpha_spark_1
 - pkg:maven/org.datavec/datavec-spark-inference-server_2.10@1.0.0-alpha_spark_1?classifier=sources
+- pkg:maven/org.datavec/datavec-spark-inference-server_2.10@1.0.0-beta2_spark_1
+- pkg:maven/org.datavec/datavec-spark-inference-server_2.10@1.0.0-beta2_spark_1?classifier=sources
 - pkg:maven/org.datavec/datavec-spark-inference-server_2.10@1.0.0-beta_spark_1
 - pkg:maven/org.datavec/datavec-spark-inference-server_2.10@1.0.0-beta_spark_1?classifier=sources

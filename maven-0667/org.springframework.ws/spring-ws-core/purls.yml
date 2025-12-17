@@ -82,7 +82,15 @@
 - pkg:maven/org.springframework.ws/spring-ws-core@2.4.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.ws/spring-ws-core@2.4.2.RELEASE
 - pkg:maven/org.springframework.ws/spring-ws-core@2.4.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ws/spring-ws-core@2.4.3.RELEASE
+- pkg:maven/org.springframework.ws/spring-ws-core@2.4.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.ws/spring-ws-core@3.0.0.RELEASE
 - pkg:maven/org.springframework.ws/spring-ws-core@3.0.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.ws/spring-ws-core@3.0.1.RELEASE
 - pkg:maven/org.springframework.ws/spring-ws-core@3.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ws/spring-ws-core@3.0.2.RELEASE
+- pkg:maven/org.springframework.ws/spring-ws-core@3.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ws/spring-ws-core@3.0.3.RELEASE
+- pkg:maven/org.springframework.ws/spring-ws-core@3.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ws/spring-ws-core@3.0.4.RELEASE
+- pkg:maven/org.springframework.ws/spring-ws-core@3.0.4.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.gate.plugins/modularpipelines@2.2
+- pkg:maven/uk.ac.gate.plugins/modularpipelines@2.2?classifier=sources

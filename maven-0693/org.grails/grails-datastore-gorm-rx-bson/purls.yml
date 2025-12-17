@@ -44,3 +44,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-rx-bson@6.1.4.RELEASE?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-rx-bson@6.1.5.RELEASE
 - pkg:maven/org.grails/grails-datastore-gorm-rx-bson@6.1.5.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-rx-bson@6.1.6.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-rx-bson@6.1.6.RELEASE?classifier=sources

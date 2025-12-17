@@ -1,0 +1,4 @@
+- pkg:maven/org.milyn.edi.unedifact/d16a-binding@1.7.0
+- pkg:maven/org.milyn.edi.unedifact/d16a-binding@1.7.0?classifier=sources
+- pkg:maven/org.milyn.edi.unedifact/d16a-binding@1.7.1.0
+- pkg:maven/org.milyn.edi.unedifact/d16a-binding@1.7.1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.guyincognito1986/couchdb-scala_2.12@1.0.2
+- pkg:maven/io.github.guyincognito1986/couchdb-scala_2.12@1.0.2?classifier=sources
+- pkg:maven/io.github.guyincognito1986/couchdb-scala_2.12@1.0.3
+- pkg:maven/io.github.guyincognito1986/couchdb-scala_2.12@1.0.3.1
+- pkg:maven/io.github.guyincognito1986/couchdb-scala_2.12@1.0.3.1?classifier=sources
+- pkg:maven/io.github.guyincognito1986/couchdb-scala_2.12@1.0.3?classifier=sources

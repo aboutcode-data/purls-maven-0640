@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.jdbc@2.1.0
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.jdbc@2.1.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/net.debasishg/redisclient_2.12@3.6?classifier=sources
 - pkg:maven/net.debasishg/redisclient_2.12@3.7
 - pkg:maven/net.debasishg/redisclient_2.12@3.7?classifier=sources
+- pkg:maven/net.debasishg/redisclient_2.12@3.8
+- pkg:maven/net.debasishg/redisclient_2.12@3.8?classifier=sources

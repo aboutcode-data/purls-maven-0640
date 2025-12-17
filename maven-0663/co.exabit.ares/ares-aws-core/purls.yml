@@ -1,0 +1,2 @@
+- pkg:maven/co.exabit.ares/ares-aws-core@1.0.0
+- pkg:maven/co.exabit.ares/ares-aws-core@1.0.0?classifier=sources

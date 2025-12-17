@@ -1,0 +1,2 @@
+- pkg:maven/com.gluonhq/aws-java-sdk-cognitoidentityprovider@2.6.19-b2
+- pkg:maven/com.gluonhq/aws-java-sdk-cognitoidentityprovider@2.6.19-b2?classifier=sources

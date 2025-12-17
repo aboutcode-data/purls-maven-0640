@@ -1,0 +1,2 @@
+- pkg:maven/com.redhat.engineering/srcclr@0.2
+- pkg:maven/com.redhat.engineering/srcclr@0.2?classifier=sources

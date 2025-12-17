@@ -4,3 +4,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.genericeditor@1.0.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.genericeditor@1.0.2
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.genericeditor@1.0.2?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.genericeditor@1.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.genericeditor@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.genericeditor@1.1.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.genericeditor@1.1.100?classifier=sources

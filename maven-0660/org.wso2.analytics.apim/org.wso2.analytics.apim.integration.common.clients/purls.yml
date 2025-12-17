@@ -26,5 +26,9 @@
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.clients@2.2.0-update2
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.clients@2.2.0-update2?classifier=sources
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.clients@2.2.0?classifier=sources
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.clients@2.5.0
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.clients@2.5.0-Alpha
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.clients@2.5.0-Alpha?classifier=sources
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.clients@2.5.0.Beta
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.clients@2.5.0.Beta?classifier=sources
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.clients@2.5.0?classifier=sources

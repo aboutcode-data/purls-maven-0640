@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/camel-case@0.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/camel-case@0.1.0
 - pkg:maven/org.webjars.npm/camel-case@0.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/camel-case@1.2.2
+- pkg:maven/org.webjars.npm/camel-case@1.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/camel-case@3.0.0
 - pkg:maven/org.webjars.npm/camel-case@3.0.0?classifier=sources

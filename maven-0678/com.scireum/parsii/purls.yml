@@ -24,3 +24,5 @@
 - pkg:maven/com.scireum/parsii@3.0?classifier=sources
 - pkg:maven/com.scireum/parsii@3.1
 - pkg:maven/com.scireum/parsii@3.1?classifier=sources
+- pkg:maven/com.scireum/parsii@4.0
+- pkg:maven/com.scireum/parsii@4.0?classifier=sources

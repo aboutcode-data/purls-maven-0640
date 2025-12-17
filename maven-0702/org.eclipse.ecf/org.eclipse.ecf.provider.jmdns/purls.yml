@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.jmdns@4.3.100?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.jmdns@4.3.200?classifier=sources

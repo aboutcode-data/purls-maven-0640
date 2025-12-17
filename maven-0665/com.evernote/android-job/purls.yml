@@ -92,3 +92,17 @@
 - pkg:maven/com.evernote/android-job@1.2.6?type=aar
 - pkg:maven/com.evernote/android-job@1.3.0-alpha01?classifier=sources
 - pkg:maven/com.evernote/android-job@1.3.0-alpha01?type=aar
+- pkg:maven/com.evernote/android-job@1.3.0-alpha02?classifier=sources
+- pkg:maven/com.evernote/android-job@1.3.0-alpha02?type=aar
+- pkg:maven/com.evernote/android-job@1.3.0-alpha03?classifier=sources
+- pkg:maven/com.evernote/android-job@1.3.0-alpha03?type=aar
+- pkg:maven/com.evernote/android-job@1.3.0-alpha04?classifier=sources
+- pkg:maven/com.evernote/android-job@1.3.0-alpha04?type=aar
+- pkg:maven/com.evernote/android-job@1.3.0-alpha05?classifier=sources
+- pkg:maven/com.evernote/android-job@1.3.0-alpha05?type=aar
+- pkg:maven/com.evernote/android-job@1.3.0-alpha06?classifier=sources
+- pkg:maven/com.evernote/android-job@1.3.0-alpha06?type=aar
+- pkg:maven/com.evernote/android-job@1.3.0-alpha07?classifier=sources
+- pkg:maven/com.evernote/android-job@1.3.0-alpha07?type=aar
+- pkg:maven/com.evernote/android-job@1.3.0-alpha08?classifier=sources
+- pkg:maven/com.evernote/android-job@1.3.0-alpha08?type=aar

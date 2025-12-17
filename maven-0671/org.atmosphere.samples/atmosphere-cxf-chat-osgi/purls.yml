@@ -4,6 +4,12 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.19?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.20
 - pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.20?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.26
+- pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.26?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.27
+- pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.27?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.28
+- pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.28?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.6
 - pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.6?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.8

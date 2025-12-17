@@ -38,3 +38,9 @@
 - pkg:maven/com.github.jknack/handlebars-maven-plugin-tests@4.0.6?type=war
 - pkg:maven/com.github.jknack/handlebars-maven-plugin-tests@4.0.7?classifier=sources
 - pkg:maven/com.github.jknack/handlebars-maven-plugin-tests@4.0.7?type=war
+- pkg:maven/com.github.jknack/handlebars-maven-plugin-tests@4.1.0?classifier=sources
+- pkg:maven/com.github.jknack/handlebars-maven-plugin-tests@4.1.0?type=war
+- pkg:maven/com.github.jknack/handlebars-maven-plugin-tests@4.1.1?classifier=sources
+- pkg:maven/com.github.jknack/handlebars-maven-plugin-tests@4.1.1?type=war
+- pkg:maven/com.github.jknack/handlebars-maven-plugin-tests@4.1.2?classifier=sources
+- pkg:maven/com.github.jknack/handlebars-maven-plugin-tests@4.1.2?type=war

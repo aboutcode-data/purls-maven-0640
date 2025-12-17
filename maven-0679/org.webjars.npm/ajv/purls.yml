@@ -20,3 +20,9 @@
 - pkg:maven/org.webjars.npm/ajv@6.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/ajv@6.5.0
 - pkg:maven/org.webjars.npm/ajv@6.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/ajv@6.5.1
+- pkg:maven/org.webjars.npm/ajv@6.5.1?classifier=sources
+- pkg:maven/org.webjars.npm/ajv@6.5.2
+- pkg:maven/org.webjars.npm/ajv@6.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/ajv@6.5.5
+- pkg:maven/org.webjars.npm/ajv@6.5.5?classifier=sources

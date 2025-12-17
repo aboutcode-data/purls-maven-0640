@@ -8,3 +8,5 @@
 - pkg:maven/com.jtelegram/jtelegrambotapi-core@3.6.1?classifier=sources
 - pkg:maven/com.jtelegram/jtelegrambotapi-core@3.6.3
 - pkg:maven/com.jtelegram/jtelegrambotapi-core@3.6.3?classifier=sources
+- pkg:maven/com.jtelegram/jtelegrambotapi-core@4.0.1
+- pkg:maven/com.jtelegram/jtelegrambotapi-core@4.0.1?classifier=sources

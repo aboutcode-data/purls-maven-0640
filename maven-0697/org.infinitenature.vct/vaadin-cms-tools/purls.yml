@@ -1,2 +1,4 @@
 - pkg:maven/org.infinitenature.vct/vaadin-cms-tools@0.0.2
 - pkg:maven/org.infinitenature.vct/vaadin-cms-tools@0.0.2?classifier=sources
+- pkg:maven/org.infinitenature.vct/vaadin-cms-tools@0.0.3
+- pkg:maven/org.infinitenature.vct/vaadin-cms-tools@0.0.3?classifier=sources

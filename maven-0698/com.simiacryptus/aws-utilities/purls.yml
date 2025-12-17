@@ -4,3 +4,5 @@
 - pkg:maven/com.simiacryptus/aws-utilities@1.4.20?classifier=sources
 - pkg:maven/com.simiacryptus/aws-utilities@1.4.23
 - pkg:maven/com.simiacryptus/aws-utilities@1.4.23?classifier=sources
+- pkg:maven/com.simiacryptus/aws-utilities@1.5.0
+- pkg:maven/com.simiacryptus/aws-utilities@1.5.0?classifier=sources

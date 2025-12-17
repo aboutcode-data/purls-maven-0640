@@ -1,1 +1,4 @@
+- pkg:maven/org.code-house.eaio-uuid.jackson/itests@2.8.11
 - pkg:maven/org.code-house.eaio-uuid.jackson/itests@2.8.7
+- pkg:maven/org.code-house.eaio-uuid.jackson/itests@2.8.8
+- pkg:maven/org.code-house.eaio-uuid.jackson/itests@2.8.9

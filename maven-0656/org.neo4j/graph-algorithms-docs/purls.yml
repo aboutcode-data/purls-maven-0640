@@ -1,2 +1,6 @@
 - pkg:maven/org.neo4j/graph-algorithms-docs@3.3.5.0
 - pkg:maven/org.neo4j/graph-algorithms-docs@3.4.0.0
+- pkg:maven/org.neo4j/graph-algorithms-docs@3.4.4.0
+- pkg:maven/org.neo4j/graph-algorithms-docs@3.4.7.0
+- pkg:maven/org.neo4j/graph-algorithms-docs@3.4.8.0
+- pkg:maven/org.neo4j/graph-algorithms-docs@3.5.0.0

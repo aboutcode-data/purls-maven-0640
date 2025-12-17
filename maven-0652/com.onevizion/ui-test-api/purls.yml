@@ -1,0 +1,2 @@
+- pkg:maven/com.onevizion/ui-test-api@8.92.1
+- pkg:maven/com.onevizion/ui-test-api@8.92.1?classifier=sources

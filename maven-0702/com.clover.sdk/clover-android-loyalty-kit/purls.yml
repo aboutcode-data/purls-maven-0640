@@ -1,0 +1,2 @@
+- pkg:maven/com.clover.sdk/clover-android-loyalty-kit@210.1?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-loyalty-kit@210.1?type=aar

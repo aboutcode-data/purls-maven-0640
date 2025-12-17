@@ -1,0 +1,2 @@
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.200704.0
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.200704.0?classifier=sources

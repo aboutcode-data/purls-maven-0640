@@ -1,0 +1,2 @@
+- pkg:maven/com.etolmach.spring/jcommander-spring-boot-starter@1.1
+- pkg:maven/com.etolmach.spring/jcommander-spring-boot-starter@1.1?classifier=sources

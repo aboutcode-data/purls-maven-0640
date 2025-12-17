@@ -282,6 +282,8 @@
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.20.30?type=war
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.20.31?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.20.31?type=war
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.20.32?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.20.32?type=war
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.20.3?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.20.3?type=war
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.20.4?classifier=sources
@@ -304,3 +306,13 @@
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.22.1?type=war
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.22.2?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-cditest@0.22.2?type=war
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.3?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.3?type=war
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.4?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.4?type=war
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.5?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.5?type=war
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.6?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.6?type=war
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.7?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-cditest@0.22.7?type=war

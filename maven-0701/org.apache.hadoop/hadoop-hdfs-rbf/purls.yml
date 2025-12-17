@@ -1,1 +1,6 @@
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-rbf@2.9.1
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-rbf@2.9.1?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-rbf@3.0.3
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-rbf@3.0.3?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-hdfs-rbf@3.1.0
+- pkg:maven/org.apache.hadoop/hadoop-hdfs-rbf@3.1.1

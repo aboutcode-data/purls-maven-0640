@@ -1,0 +1,4 @@
+- pkg:maven/app.myoss.cloud.maven.plugins/archetypes-maven-plugin@2.0.0.RELEASE
+- pkg:maven/app.myoss.cloud.maven.plugins/archetypes-maven-plugin@2.0.0.RELEASE?classifier=sources
+- pkg:maven/app.myoss.cloud.maven.plugins/archetypes-maven-plugin@2.0.1.RELEASE
+- pkg:maven/app.myoss.cloud.maven.plugins/archetypes-maven-plugin@2.0.1.RELEASE?classifier=sources

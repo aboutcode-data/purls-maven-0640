@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.bootstrap-vue/bootstrap-vue@2.0.0-rc.11
+- pkg:maven/org.webjars.bowergithub.bootstrap-vue/bootstrap-vue@2.0.0-rc.11?classifier=sources

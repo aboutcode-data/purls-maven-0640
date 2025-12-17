@@ -1,1 +1,2 @@
 - pkg:maven/com.jdroidtools/jdroid-android-google-maps@1.0.0?classifier=sources
+- pkg:maven/com.jdroidtools/jdroid-android-google-maps@2.0.0?classifier=sources

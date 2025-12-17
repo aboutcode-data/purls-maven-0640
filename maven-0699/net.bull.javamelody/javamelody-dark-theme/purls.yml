@@ -1,0 +1,2 @@
+- pkg:maven/net.bull.javamelody/javamelody-dark-theme@1.0
+- pkg:maven/net.bull.javamelody/javamelody-dark-theme@1.0?classifier=sources

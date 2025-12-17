@@ -2,3 +2,5 @@
 - pkg:maven/org.unlaxer/tinyExpression-parsetree@1.1.17?classifier=sources
 - pkg:maven/org.unlaxer/tinyExpression-parsetree@1.1.18
 - pkg:maven/org.unlaxer/tinyExpression-parsetree@1.1.18?classifier=sources
+- pkg:maven/org.unlaxer/tinyExpression-parsetree@1.1.19
+- pkg:maven/org.unlaxer/tinyExpression-parsetree@1.1.19?classifier=sources

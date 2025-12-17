@@ -3,4 +3,6 @@
 - pkg:maven/in.kncsolutions.dhelm.mathcal/dhelm-mathcal@1.0.2?classifier=sources
 - pkg:maven/in.kncsolutions.dhelm.mathcal/dhelm-mathcal@1.0.3
 - pkg:maven/in.kncsolutions.dhelm.mathcal/dhelm-mathcal@1.0.3?classifier=sources
+- pkg:maven/in.kncsolutions.dhelm.mathcal/dhelm-mathcal@1.0.4
+- pkg:maven/in.kncsolutions.dhelm.mathcal/dhelm-mathcal@1.0.4?classifier=sources
 - pkg:maven/in.kncsolutions.dhelm.mathcal/dhelm-mathcal@1.0?classifier=sources

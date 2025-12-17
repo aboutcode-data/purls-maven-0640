@@ -1,0 +1,8 @@
+- pkg:maven/cn.home1/log4j2-config-test@0.0.4.OSS
+- pkg:maven/cn.home1/log4j2-config-test@0.0.4.OSS?classifier=sources
+- pkg:maven/cn.home1/log4j2-config-test@0.0.5.OSS
+- pkg:maven/cn.home1/log4j2-config-test@0.0.5.OSS?classifier=sources
+- pkg:maven/cn.home1/log4j2-config-test@0.0.6.OSS
+- pkg:maven/cn.home1/log4j2-config-test@0.0.6.OSS?classifier=sources
+- pkg:maven/cn.home1/log4j2-config-test@0.0.7.OSS
+- pkg:maven/cn.home1/log4j2-config-test@0.0.7.OSS?classifier=sources

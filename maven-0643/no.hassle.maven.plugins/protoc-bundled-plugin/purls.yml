@@ -1,0 +1,2 @@
+- pkg:maven/no.hassle.maven.plugins/protoc-bundled-plugin@2.0.0
+- pkg:maven/no.hassle.maven.plugins/protoc-bundled-plugin@2.0.0?classifier=sources

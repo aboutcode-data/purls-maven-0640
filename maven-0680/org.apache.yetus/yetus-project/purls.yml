@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.yetus/yetus-project@0.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.yetus/yetus-project@0.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.yetus/yetus-project@0.7.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.yetus/yetus-project@0.8.0?classifier=source-release&type=zip

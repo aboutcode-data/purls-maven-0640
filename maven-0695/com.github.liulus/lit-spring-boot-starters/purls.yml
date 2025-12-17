@@ -1,0 +1,2 @@
+- pkg:maven/com.github.liulus/lit-spring-boot-starters@2.1
+- pkg:maven/com.github.liulus/lit-spring-boot-starters@2.1?classifier=sources

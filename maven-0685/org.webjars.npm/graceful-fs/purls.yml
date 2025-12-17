@@ -12,6 +12,8 @@
 - pkg:maven/org.webjars.npm/graceful-fs@4.1.10?classifier=sources
 - pkg:maven/org.webjars.npm/graceful-fs@4.1.11
 - pkg:maven/org.webjars.npm/graceful-fs@4.1.11?classifier=sources
+- pkg:maven/org.webjars.npm/graceful-fs@4.1.15
+- pkg:maven/org.webjars.npm/graceful-fs@4.1.15?classifier=sources
 - pkg:maven/org.webjars.npm/graceful-fs@4.1.2
 - pkg:maven/org.webjars.npm/graceful-fs@4.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/graceful-fs@4.1.3

@@ -1,0 +1,2 @@
+- pkg:maven/com.avides.springboot.testcontainer/springboot-testcontainer-activemq@0.1.0-RC1
+- pkg:maven/com.avides.springboot.testcontainer/springboot-testcontainer-activemq@0.1.0-RC1?classifier=sources

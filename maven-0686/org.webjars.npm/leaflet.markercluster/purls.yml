@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/leaflet.markercluster@0.5.0
+- pkg:maven/org.webjars.npm/leaflet.markercluster@0.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/leaflet.markercluster@1.0.0
 - pkg:maven/org.webjars.npm/leaflet.markercluster@1.0.0-rc.1.0
 - pkg:maven/org.webjars.npm/leaflet.markercluster@1.0.0-rc.1.0?classifier=sources

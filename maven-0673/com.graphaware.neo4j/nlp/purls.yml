@@ -6,5 +6,17 @@
 - pkg:maven/com.graphaware.neo4j/nlp@3.3.2.52.6?classifier=sources
 - pkg:maven/com.graphaware.neo4j/nlp@3.3.3.52.7
 - pkg:maven/com.graphaware.neo4j/nlp@3.3.3.52.7?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.0.52.10
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.0.52.10?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.0.52.11
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.0.52.11?classifier=sources
 - pkg:maven/com.graphaware.neo4j/nlp@3.4.0.52.8
 - pkg:maven/com.graphaware.neo4j/nlp@3.4.0.52.8?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.6.52.12
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.6.52.12?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.7.52.13
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.7.52.13?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.8.52.14
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.8.52.14?classifier=sources
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.9.52.15
+- pkg:maven/com.graphaware.neo4j/nlp@3.4.9.52.15?classifier=sources

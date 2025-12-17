@@ -1,0 +1,4 @@
+- pkg:maven/ch.squaredesk.nova/rest@6.0.0
+- pkg:maven/ch.squaredesk.nova/rest@6.0.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/rest@7.0.0
+- pkg:maven/ch.squaredesk.nova/rest@7.0.0?classifier=sources

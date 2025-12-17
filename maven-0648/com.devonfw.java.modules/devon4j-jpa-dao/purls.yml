@@ -1,0 +1,2 @@
+- pkg:maven/com.devonfw.java.modules/devon4j-jpa-dao@3.0.0-alpha.1
+- pkg:maven/com.devonfw.java.modules/devon4j-jpa-dao@3.0.0-alpha.1?classifier=sources

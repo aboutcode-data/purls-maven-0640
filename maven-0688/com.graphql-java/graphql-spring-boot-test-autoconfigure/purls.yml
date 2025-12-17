@@ -1,0 +1,2 @@
+- pkg:maven/com.graphql-java/graphql-spring-boot-test-autoconfigure@5.0.2
+- pkg:maven/com.graphql-java/graphql-spring-boot-test-autoconfigure@5.0.2?classifier=sources

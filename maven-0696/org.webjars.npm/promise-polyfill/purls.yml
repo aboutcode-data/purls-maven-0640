@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/promise-polyfill@2.0.2
 - pkg:maven/org.webjars.npm/promise-polyfill@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/promise-polyfill@3.1.0
+- pkg:maven/org.webjars.npm/promise-polyfill@3.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/promise-polyfill@6.0.2
 - pkg:maven/org.webjars.npm/promise-polyfill@6.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/promise-polyfill@6.1.0
@@ -8,3 +10,5 @@
 - pkg:maven/org.webjars.npm/promise-polyfill@7.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/promise-polyfill@7.1.2
 - pkg:maven/org.webjars.npm/promise-polyfill@7.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/promise-polyfill@8.1.0
+- pkg:maven/org.webjars.npm/promise-polyfill@8.1.0?classifier=sources

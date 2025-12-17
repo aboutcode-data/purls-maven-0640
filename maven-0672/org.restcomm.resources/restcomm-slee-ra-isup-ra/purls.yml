@@ -10,3 +10,7 @@
 - pkg:maven/org.restcomm.resources/restcomm-slee-ra-isup-ra@8.0.0-135?classifier=sources
 - pkg:maven/org.restcomm.resources/restcomm-slee-ra-isup-ra@8.0.0-137
 - pkg:maven/org.restcomm.resources/restcomm-slee-ra-isup-ra@8.0.0-137?classifier=sources
+- pkg:maven/org.restcomm.resources/restcomm-slee-ra-isup-ra@8.0.0-138
+- pkg:maven/org.restcomm.resources/restcomm-slee-ra-isup-ra@8.0.0-138?classifier=sources
+- pkg:maven/org.restcomm.resources/restcomm-slee-ra-isup-ra@8.0.0-139
+- pkg:maven/org.restcomm.resources/restcomm-slee-ra-isup-ra@8.0.0-139?classifier=sources

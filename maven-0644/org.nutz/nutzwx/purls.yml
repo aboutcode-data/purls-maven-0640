@@ -20,6 +20,12 @@
 - pkg:maven/org.nutz/nutzwx@1.r.63?classifier=sources
 - pkg:maven/org.nutz/nutzwx@1.r.65
 - pkg:maven/org.nutz/nutzwx@1.r.65?classifier=sources
+- pkg:maven/org.nutz/nutzwx@1.r.66
+- pkg:maven/org.nutz/nutzwx@1.r.66.r2
+- pkg:maven/org.nutz/nutzwx@1.r.66.r2?classifier=sources
+- pkg:maven/org.nutz/nutzwx@1.r.66.r3
+- pkg:maven/org.nutz/nutzwx@1.r.66.r3?classifier=sources
+- pkg:maven/org.nutz/nutzwx@1.r.66?classifier=sources
 - pkg:maven/org.nutz/nutzwx@2.1
 - pkg:maven/org.nutz/nutzwx@2.1?classifier=sources
 - pkg:maven/org.nutz/nutzwx@2.2

@@ -6,3 +6,5 @@
 - pkg:maven/com.esotericsoftware.spine/spine-libgdx@3.6.51.1?classifier=sources
 - pkg:maven/com.esotericsoftware.spine/spine-libgdx@3.6.52.1
 - pkg:maven/com.esotericsoftware.spine/spine-libgdx@3.6.52.1?classifier=sources
+- pkg:maven/com.esotericsoftware.spine/spine-libgdx@3.6.53.1
+- pkg:maven/com.esotericsoftware.spine/spine-libgdx@3.6.53.1?classifier=sources

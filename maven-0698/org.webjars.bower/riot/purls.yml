@@ -36,6 +36,8 @@
 - pkg:maven/org.webjars.bower/riot@3.1.0?classifier=sources
 - pkg:maven/org.webjars.bower/riot@3.1.1
 - pkg:maven/org.webjars.bower/riot@3.1.1?classifier=sources
+- pkg:maven/org.webjars.bower/riot@3.13.0
+- pkg:maven/org.webjars.bower/riot@3.13.0?classifier=sources
 - pkg:maven/org.webjars.bower/riot@3.2.0
 - pkg:maven/org.webjars.bower/riot@3.2.0?classifier=sources
 - pkg:maven/org.webjars.bower/riot@3.2.1

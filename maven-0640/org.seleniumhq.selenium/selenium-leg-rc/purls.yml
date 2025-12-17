@@ -50,6 +50,12 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.11.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.12.0
 - pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.12.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.13.0
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.13.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.14.0
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.14.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.141.0
+- pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.141.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.2.0
 - pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.2.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-leg-rc@3.3.0

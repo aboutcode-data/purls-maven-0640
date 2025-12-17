@@ -8,3 +8,5 @@
 - pkg:maven/com.intel.analytics.bigdl/bigdl-SPARK_1.5@0.4.0?classifier=sources
 - pkg:maven/com.intel.analytics.bigdl/bigdl-SPARK_1.5@0.5.0
 - pkg:maven/com.intel.analytics.bigdl/bigdl-SPARK_1.5@0.5.0?classifier=sources
+- pkg:maven/com.intel.analytics.bigdl/bigdl-SPARK_1.5@0.7.0
+- pkg:maven/com.intel.analytics.bigdl/bigdl-SPARK_1.5@0.7.0?classifier=sources

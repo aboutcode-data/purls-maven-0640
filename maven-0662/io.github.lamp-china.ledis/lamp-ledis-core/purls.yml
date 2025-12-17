@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lamp-china.ledis/lamp-ledis-core@0.0.2
+- pkg:maven/io.github.lamp-china.ledis/lamp-ledis-core@0.0.2?classifier=sources

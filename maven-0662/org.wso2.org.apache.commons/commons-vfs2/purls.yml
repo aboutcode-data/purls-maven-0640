@@ -2,3 +2,7 @@
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v1?classifier=sources
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v2
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v2?classifier=sources
+- pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v3
+- pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v3?classifier=sources
+- pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v4
+- pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v4?classifier=sources

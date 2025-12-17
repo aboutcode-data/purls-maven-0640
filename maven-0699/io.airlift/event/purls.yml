@@ -138,6 +138,16 @@
 - pkg:maven/io.airlift/event@0.168?classifier=sources
 - pkg:maven/io.airlift/event@0.169
 - pkg:maven/io.airlift/event@0.169?classifier=sources
+- pkg:maven/io.airlift/event@0.170
+- pkg:maven/io.airlift/event@0.170?classifier=sources
+- pkg:maven/io.airlift/event@0.171
+- pkg:maven/io.airlift/event@0.171?classifier=sources
+- pkg:maven/io.airlift/event@0.172
+- pkg:maven/io.airlift/event@0.172?classifier=sources
+- pkg:maven/io.airlift/event@0.173
+- pkg:maven/io.airlift/event@0.173?classifier=sources
+- pkg:maven/io.airlift/event@0.174
+- pkg:maven/io.airlift/event@0.174?classifier=sources
 - pkg:maven/io.airlift/event@0.74
 - pkg:maven/io.airlift/event@0.74?classifier=sources
 - pkg:maven/io.airlift/event@0.75

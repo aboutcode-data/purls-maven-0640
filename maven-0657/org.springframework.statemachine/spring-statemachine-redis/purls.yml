@@ -10,6 +10,8 @@
 - pkg:maven/org.springframework.statemachine/spring-statemachine-redis@1.2.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-redis@1.2.11.RELEASE
 - pkg:maven/org.springframework.statemachine/spring-statemachine-redis@1.2.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-redis@1.2.12.RELEASE
+- pkg:maven/org.springframework.statemachine/spring-statemachine-redis@1.2.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-redis@1.2.2.RELEASE
 - pkg:maven/org.springframework.statemachine/spring-statemachine-redis@1.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-redis@1.2.3.RELEASE

@@ -1,0 +1,2 @@
+- pkg:maven/org.skinny-framework.com.fasterxml.jackson.module/jackson-module-scala_2.13.0-M5@2.9.8-fork-20181014
+- pkg:maven/org.skinny-framework.com.fasterxml.jackson.module/jackson-module-scala_2.13.0-M5@2.9.8-fork-20181014?classifier=sources

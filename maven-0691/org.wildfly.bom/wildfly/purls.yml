@@ -8,3 +8,6 @@
 - pkg:maven/org.wildfly.bom/wildfly@13.0.0.Alpha2?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/wildfly@13.0.0.Alpha3?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/wildfly@13.0.0.Alpha5?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/wildfly@14.0.0.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/wildfly@14.0.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/wildfly@14.0.1.Final?classifier=source-release&type=zip

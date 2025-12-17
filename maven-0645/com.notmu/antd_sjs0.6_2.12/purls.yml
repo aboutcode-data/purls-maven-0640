@@ -1,0 +1,4 @@
+- pkg:maven/com.notmu/antd_sjs0.6_2.12@0.0.0.0.403
+- pkg:maven/com.notmu/antd_sjs0.6_2.12@0.0.0.0.403?classifier=sources
+- pkg:maven/com.notmu/antd_sjs0.6_2.12@0.0.0.0.407
+- pkg:maven/com.notmu/antd_sjs0.6_2.12@0.0.0.0.407?classifier=sources

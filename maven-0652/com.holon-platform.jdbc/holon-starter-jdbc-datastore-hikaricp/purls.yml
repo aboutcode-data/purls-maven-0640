@@ -7,3 +7,5 @@
 - pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-datastore-hikaricp@5.1.0
 - pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-datastore-hikaricp@5.1.1
 - pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-datastore-hikaricp@5.1.2
+- pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-datastore-hikaricp@5.1.3
+- pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-datastore-hikaricp@5.2.0-alpha1

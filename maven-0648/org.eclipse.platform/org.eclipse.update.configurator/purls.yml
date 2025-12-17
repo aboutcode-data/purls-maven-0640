@@ -1,2 +1,6 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.update.configurator@3.3.400
 - pkg:maven/org.eclipse.platform/org.eclipse.update.configurator@3.3.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.update.configurator@3.4.0
+- pkg:maven/org.eclipse.platform/org.eclipse.update.configurator@3.4.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.update.configurator@3.4.100
+- pkg:maven/org.eclipse.platform/org.eclipse.update.configurator@3.4.100?classifier=sources

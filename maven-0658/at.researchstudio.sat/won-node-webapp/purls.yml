@@ -1,0 +1,4 @@
+- pkg:maven/at.researchstudio.sat/won-node-webapp@0.2?classifier=sources
+- pkg:maven/at.researchstudio.sat/won-node-webapp@0.2?type=war
+- pkg:maven/at.researchstudio.sat/won-node-webapp@0.3?classifier=sources
+- pkg:maven/at.researchstudio.sat/won-node-webapp@0.3?type=war

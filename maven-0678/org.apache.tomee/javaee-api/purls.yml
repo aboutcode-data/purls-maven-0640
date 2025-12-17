@@ -4,3 +4,6 @@
 - pkg:maven/org.apache.tomee/javaee-api@7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/javaee-api@7.0?classifier=sources
 - pkg:maven/org.apache.tomee/javaee-api@7.0?type=zip
+- pkg:maven/org.apache.tomee/javaee-api@8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.tomee/javaee-api@8.0?classifier=sources
+- pkg:maven/org.apache.tomee/javaee-api@8.0?type=zip

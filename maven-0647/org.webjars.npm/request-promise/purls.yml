@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/request-promise@4.2.2
+- pkg:maven/org.webjars.npm/request-promise@4.2.2?classifier=sources

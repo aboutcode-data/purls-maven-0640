@@ -24,5 +24,9 @@
 - pkg:maven/io.github.scouter-project/scouter-agent-host@1.8.4?classifier=sources
 - pkg:maven/io.github.scouter-project/scouter-agent-host@1.8.6
 - pkg:maven/io.github.scouter-project/scouter-agent-host@1.8.6?classifier=sources
+- pkg:maven/io.github.scouter-project/scouter-agent-host@1.9.0
+- pkg:maven/io.github.scouter-project/scouter-agent-host@1.9.0?classifier=sources
+- pkg:maven/io.github.scouter-project/scouter-agent-host@2.0.0
+- pkg:maven/io.github.scouter-project/scouter-agent-host@2.0.0?classifier=sources
 - pkg:maven/io.github.scouter-project/scouter-agent-host@v1.8.0
 - pkg:maven/io.github.scouter-project/scouter-agent-host@v1.8.0?classifier=sources

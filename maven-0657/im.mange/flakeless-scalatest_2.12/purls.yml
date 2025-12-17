@@ -19,6 +19,8 @@
 - pkg:maven/im.mange/flakeless-scalatest_2.12@0.0.21?classifier=sources
 - pkg:maven/im.mange/flakeless-scalatest_2.12@0.0.22
 - pkg:maven/im.mange/flakeless-scalatest_2.12@0.0.22?classifier=sources
+- pkg:maven/im.mange/flakeless-scalatest_2.12@0.0.24
+- pkg:maven/im.mange/flakeless-scalatest_2.12@0.0.24?classifier=sources
 - pkg:maven/im.mange/flakeless-scalatest_2.12@0.0.2?classifier=sources
 - pkg:maven/im.mange/flakeless-scalatest_2.12@0.0.8
 - pkg:maven/im.mange/flakeless-scalatest_2.12@0.0.8?classifier=sources

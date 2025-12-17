@@ -1,0 +1,2 @@
+- pkg:maven/com.amazon.alexa/ask-sdk-interaction-model@0.1.0
+- pkg:maven/com.amazon.alexa/ask-sdk-interaction-model@0.1.0?classifier=sources

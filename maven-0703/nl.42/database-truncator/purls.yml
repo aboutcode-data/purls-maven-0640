@@ -13,4 +13,6 @@
 - pkg:maven/nl.42/database-truncator@0.5.0
 - pkg:maven/nl.42/database-truncator@0.5.0?classifier=sources
 - pkg:maven/nl.42/database-truncator@0.5.1
+- pkg:maven/nl.42/database-truncator@0.5.1.SPRING5
+- pkg:maven/nl.42/database-truncator@0.5.1.SPRING5?classifier=sources
 - pkg:maven/nl.42/database-truncator@0.5.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.r_osgi@3.5.600?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.r_osgi@3.6.200?classifier=sources

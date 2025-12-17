@@ -1,2 +1,6 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.0.400
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.0.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.0.600
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.0.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.0.700
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.0.700?classifier=sources

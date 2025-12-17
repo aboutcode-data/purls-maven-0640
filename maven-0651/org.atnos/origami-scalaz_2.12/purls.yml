@@ -6,3 +6,5 @@
 - pkg:maven/org.atnos/origami-scalaz_2.12@5.0.0-20180125131615-de1f0e6
 - pkg:maven/org.atnos/origami-scalaz_2.12@5.0.0-20180125131615-de1f0e6?classifier=sources
 - pkg:maven/org.atnos/origami-scalaz_2.12@5.0.0?classifier=sources
+- pkg:maven/org.atnos/origami-scalaz_2.12@5.0.1
+- pkg:maven/org.atnos/origami-scalaz_2.12@5.0.1?classifier=sources

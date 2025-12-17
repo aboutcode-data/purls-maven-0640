@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.johnzon/johnzon-jsonschema@1.1.10
+- pkg:maven/org.apache.johnzon/johnzon-jsonschema@1.1.10?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-jsonschema@1.1.8
+- pkg:maven/org.apache.johnzon/johnzon-jsonschema@1.1.8?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-jsonschema@1.1.9
+- pkg:maven/org.apache.johnzon/johnzon-jsonschema@1.1.9?classifier=sources

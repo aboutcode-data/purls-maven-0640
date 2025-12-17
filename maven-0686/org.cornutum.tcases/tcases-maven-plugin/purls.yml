@@ -24,3 +24,11 @@
 - pkg:maven/org.cornutum.tcases/tcases-maven-plugin@1.5.3?classifier=sources
 - pkg:maven/org.cornutum.tcases/tcases-maven-plugin@1.5.4
 - pkg:maven/org.cornutum.tcases/tcases-maven-plugin@1.5.4?classifier=sources
+- pkg:maven/org.cornutum.tcases/tcases-maven-plugin@2.0.0
+- pkg:maven/org.cornutum.tcases/tcases-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/org.cornutum.tcases/tcases-maven-plugin@2.1.0
+- pkg:maven/org.cornutum.tcases/tcases-maven-plugin@2.1.0?classifier=sources
+- pkg:maven/org.cornutum.tcases/tcases-maven-plugin@2.1.1
+- pkg:maven/org.cornutum.tcases/tcases-maven-plugin@2.1.1?classifier=sources
+- pkg:maven/org.cornutum.tcases/tcases-maven-plugin@2.1.2
+- pkg:maven/org.cornutum.tcases/tcases-maven-plugin@2.1.2?classifier=sources

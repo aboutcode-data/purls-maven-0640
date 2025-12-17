@@ -1,0 +1,2 @@
+- pkg:maven/me.lyh/magnolia_2.11@0.10.1-jto
+- pkg:maven/me.lyh/magnolia_2.11@0.10.1-jto?classifier=sources

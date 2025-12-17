@@ -1,3 +1,4 @@
+- pkg:maven/io.oopsie/oopsie-sdk-java@1.0
 - pkg:maven/io.oopsie/oopsie-sdk-java@1.0-RC1
 - pkg:maven/io.oopsie/oopsie-sdk-java@1.0-RC1?classifier=sources
 - pkg:maven/io.oopsie/oopsie-sdk-java@1.0-RC2
@@ -10,3 +11,4 @@
 - pkg:maven/io.oopsie/oopsie-sdk-java@1.0-RC5?classifier=sources
 - pkg:maven/io.oopsie/oopsie-sdk-java@1.0-RC6
 - pkg:maven/io.oopsie/oopsie-sdk-java@1.0-RC6?classifier=sources
+- pkg:maven/io.oopsie/oopsie-sdk-java@1.0?classifier=sources

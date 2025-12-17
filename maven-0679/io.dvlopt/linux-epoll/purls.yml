@@ -8,3 +8,5 @@
 - pkg:maven/io.dvlopt/linux-epoll@0.0.3?classifier=sources
 - pkg:maven/io.dvlopt/linux-epoll@0.0.4
 - pkg:maven/io.dvlopt/linux-epoll@0.0.4?classifier=sources
+- pkg:maven/io.dvlopt/linux-epoll@1.0.0
+- pkg:maven/io.dvlopt/linux-epoll@1.0.0?classifier=sources

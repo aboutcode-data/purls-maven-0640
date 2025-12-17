@@ -1,0 +1,2 @@
+- pkg:maven/com.github.andyglow/scala-jsonschema-api_2.12@0.0.8
+- pkg:maven/com.github.andyglow/scala-jsonschema-api_2.12@0.0.8?classifier=sources

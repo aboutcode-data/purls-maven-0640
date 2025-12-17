@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ryanholdren.typesafesql/typesafesql-maven-plugin@2018-06-16
+- pkg:maven/com.github.ryanholdren.typesafesql/typesafesql-maven-plugin@2018-06-16?classifier=sources

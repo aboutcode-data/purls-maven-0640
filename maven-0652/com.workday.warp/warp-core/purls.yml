@@ -1,0 +1,2 @@
+- pkg:maven/com.workday.warp/warp-core@1.0.0
+- pkg:maven/com.workday.warp/warp-core@1.0.0?classifier=sources

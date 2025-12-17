@@ -46,3 +46,7 @@
 - pkg:maven/no.nextgentel.oss.akka-tools/akka-tools-json-serializing_2.11@1.1.2?classifier=sources
 - pkg:maven/no.nextgentel.oss.akka-tools/akka-tools-json-serializing_2.11@2.5.0.0
 - pkg:maven/no.nextgentel.oss.akka-tools/akka-tools-json-serializing_2.11@2.5.0.0?classifier=sources
+- pkg:maven/no.nextgentel.oss.akka-tools/akka-tools-json-serializing_2.11@2.5.0.1
+- pkg:maven/no.nextgentel.oss.akka-tools/akka-tools-json-serializing_2.11@2.5.0.1?classifier=sources
+- pkg:maven/no.nextgentel.oss.akka-tools/akka-tools-json-serializing_2.11@2.5.0.2
+- pkg:maven/no.nextgentel.oss.akka-tools/akka-tools-json-serializing_2.11@2.5.0.2?classifier=sources

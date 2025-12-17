@@ -1,2 +1,6 @@
 - pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@0.4.0
 - pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@0.4.0?classifier=sources
+- pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@0.5.0
+- pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@0.5.0?classifier=sources
+- pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@0.6.0
+- pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@0.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/club.zhcs/distributed-job-example-boot@1.0
+- pkg:maven/club.zhcs/distributed-job-example-boot@1.0?classifier=sources

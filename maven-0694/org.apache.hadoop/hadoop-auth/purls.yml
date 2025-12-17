@@ -76,6 +76,8 @@
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.7.5?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.7.6
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.7.6?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-auth@2.7.7
+- pkg:maven/org.apache.hadoop/hadoop-auth@2.7.7?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.8.0
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.8.0?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.8.1
@@ -86,8 +88,12 @@
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.8.3?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.8.4
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.8.4?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-auth@2.8.5
+- pkg:maven/org.apache.hadoop/hadoop-auth@2.8.5?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.9.0
 - pkg:maven/org.apache.hadoop/hadoop-auth@2.9.0?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-auth@2.9.1
+- pkg:maven/org.apache.hadoop/hadoop-auth@2.9.1?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-auth@3.0.0
 - pkg:maven/org.apache.hadoop/hadoop-auth@3.0.0-alpha1
 - pkg:maven/org.apache.hadoop/hadoop-auth@3.0.0-alpha1?classifier=sources
@@ -104,5 +110,9 @@
 - pkg:maven/org.apache.hadoop/hadoop-auth@3.0.1?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-auth@3.0.2
 - pkg:maven/org.apache.hadoop/hadoop-auth@3.0.2?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-auth@3.0.3
+- pkg:maven/org.apache.hadoop/hadoop-auth@3.0.3?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-auth@3.1.0
 - pkg:maven/org.apache.hadoop/hadoop-auth@3.1.0?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-auth@3.1.1
+- pkg:maven/org.apache.hadoop/hadoop-auth@3.1.1?classifier=sources

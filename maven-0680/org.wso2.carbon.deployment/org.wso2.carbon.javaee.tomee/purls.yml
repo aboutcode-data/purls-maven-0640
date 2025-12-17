@@ -16,6 +16,8 @@
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.javaee.tomee@4.7.17?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.javaee.tomee@4.7.18
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.javaee.tomee@4.7.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.javaee.tomee@4.7.19
+- pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.javaee.tomee@4.7.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.javaee.tomee@4.7.7
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.javaee.tomee@4.7.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.deployment/org.wso2.carbon.javaee.tomee@4.7.8

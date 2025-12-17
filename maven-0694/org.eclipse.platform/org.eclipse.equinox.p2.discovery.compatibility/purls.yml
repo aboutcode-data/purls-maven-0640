@@ -2,3 +2,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.discovery.compatibility@1.0.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.discovery.compatibility@1.0.201
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.discovery.compatibility@1.0.201?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.discovery.compatibility@1.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.discovery.compatibility@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.discovery.compatibility@1.1.100
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.discovery.compatibility@1.1.100?classifier=sources

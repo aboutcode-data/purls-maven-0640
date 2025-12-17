@@ -1,2 +1,10 @@
 - pkg:maven/us.fatehi/schemacrawler-api@14.16.04.01-java7
 - pkg:maven/us.fatehi/schemacrawler-api@14.16.04.01-java7?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-api@15.01.02
+- pkg:maven/us.fatehi/schemacrawler-api@15.01.02?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-api@15.01.03
+- pkg:maven/us.fatehi/schemacrawler-api@15.01.03?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-api@15.01.04
+- pkg:maven/us.fatehi/schemacrawler-api@15.01.04?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-api@15.01.05
+- pkg:maven/us.fatehi/schemacrawler-api@15.01.05?classifier=sources

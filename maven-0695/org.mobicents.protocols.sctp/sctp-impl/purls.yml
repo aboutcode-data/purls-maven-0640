@@ -48,6 +48,8 @@
 - pkg:maven/org.mobicents.protocols.sctp/sctp-impl@2.0.0-164?classifier=sources
 - pkg:maven/org.mobicents.protocols.sctp/sctp-impl@2.0.0-165
 - pkg:maven/org.mobicents.protocols.sctp/sctp-impl@2.0.0-165?classifier=sources
+- pkg:maven/org.mobicents.protocols.sctp/sctp-impl@2.0.0-166
+- pkg:maven/org.mobicents.protocols.sctp/sctp-impl@2.0.0-166?classifier=sources
 - pkg:maven/org.mobicents.protocols.sctp/sctp-impl@2.0.0-37
 - pkg:maven/org.mobicents.protocols.sctp/sctp-impl@2.0.0-37?classifier=sources
 - pkg:maven/org.mobicents.protocols.sctp/sctp-impl@2.0.0-39

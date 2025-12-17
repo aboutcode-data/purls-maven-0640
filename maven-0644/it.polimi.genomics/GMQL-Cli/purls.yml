@@ -1,0 +1,2 @@
+- pkg:maven/it.polimi.genomics/GMQL-Cli@5.0
+- pkg:maven/it.polimi.genomics/GMQL-Cli@5.0?classifier=sources

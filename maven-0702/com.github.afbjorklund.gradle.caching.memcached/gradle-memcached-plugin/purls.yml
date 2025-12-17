@@ -1,0 +1,2 @@
+- pkg:maven/com.github.afbjorklund.gradle.caching.memcached/gradle-memcached-plugin@0.10
+- pkg:maven/com.github.afbjorklund.gradle.caching.memcached/gradle-memcached-plugin@0.10?classifier=sources

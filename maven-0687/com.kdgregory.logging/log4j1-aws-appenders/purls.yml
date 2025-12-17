@@ -1,0 +1,2 @@
+- pkg:maven/com.kdgregory.logging/log4j1-aws-appenders@2.0.0
+- pkg:maven/com.kdgregory.logging/log4j1-aws-appenders@2.0.0?classifier=sources

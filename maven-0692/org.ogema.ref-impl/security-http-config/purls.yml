@@ -1,0 +1,2 @@
+- pkg:maven/org.ogema.ref-impl/security-http-config@2.2.0
+- pkg:maven/org.ogema.ref-impl/security-http-config@2.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jakewharton/butterknife-runtime@9.0.0-rc1?classifier=sources
+- pkg:maven/com.jakewharton/butterknife-runtime@9.0.0-rc1?type=aar

@@ -1,3 +1,4 @@
+- pkg:maven/com.simperium.android/simperium@%3Cunknown%3E?type=aar
 - pkg:maven/com.simperium.android/simperium@0.4.10?type=aar
 - pkg:maven/com.simperium.android/simperium@0.4.11?type=aar
 - pkg:maven/com.simperium.android/simperium@0.4.12?type=aar
@@ -14,3 +15,4 @@
 - pkg:maven/com.simperium.android/simperium@0.6.7?type=aar
 - pkg:maven/com.simperium.android/simperium@0.6.8?type=aar
 - pkg:maven/com.simperium.android/simperium@0.6.9?type=aar
+- pkg:maven/com.simperium.android/simperium@0.7.0?type=aar

@@ -4,3 +4,5 @@
 - pkg:maven/com.github.harti2006/neo4j-server-maven-plugin@1.0.1
 - pkg:maven/com.github.harti2006/neo4j-server-maven-plugin@1.0.1?classifier=sources
 - pkg:maven/com.github.harti2006/neo4j-server-maven-plugin@1.0?classifier=sources
+- pkg:maven/com.github.harti2006/neo4j-server-maven-plugin@1.1
+- pkg:maven/com.github.harti2006/neo4j-server-maven-plugin@1.1?classifier=sources

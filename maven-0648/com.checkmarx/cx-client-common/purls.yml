@@ -1,0 +1,4 @@
+- pkg:maven/com.checkmarx/cx-client-common@8.80.0
+- pkg:maven/com.checkmarx/cx-client-common@8.80.0?classifier=sources
+- pkg:maven/com.checkmarx/cx-client-common@8.90.0
+- pkg:maven/com.checkmarx/cx-client-common@8.90.0?classifier=sources

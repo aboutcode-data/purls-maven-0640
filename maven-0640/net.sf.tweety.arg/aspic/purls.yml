@@ -1,5 +1,7 @@
 - pkg:maven/net.sf.tweety.arg/aspic@1.10
 - pkg:maven/net.sf.tweety.arg/aspic@1.10?classifier=sources
+- pkg:maven/net.sf.tweety.arg/aspic@1.11
+- pkg:maven/net.sf.tweety.arg/aspic@1.11?classifier=sources
 - pkg:maven/net.sf.tweety.arg/aspic@1.7
 - pkg:maven/net.sf.tweety.arg/aspic@1.7?classifier=sources
 - pkg:maven/net.sf.tweety.arg/aspic@1.8

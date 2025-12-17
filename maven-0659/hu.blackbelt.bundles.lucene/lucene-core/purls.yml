@@ -1,0 +1,2 @@
+- pkg:maven/hu.blackbelt.bundles.lucene/lucene-core@7.0.1_1
+- pkg:maven/hu.blackbelt.bundles.lucene/lucene-core@7.0.1_1?classifier=sources

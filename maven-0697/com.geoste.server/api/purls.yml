@@ -1,0 +1,4 @@
+- pkg:maven/com.geoste.server/api@1.19.11?classifier=sources
+- pkg:maven/com.geoste.server/api@1.19.12?classifier=sources
+- pkg:maven/com.geoste.server/api@1.19.13?classifier=sources
+- pkg:maven/com.geoste.server/api@1.19.14?classifier=sources

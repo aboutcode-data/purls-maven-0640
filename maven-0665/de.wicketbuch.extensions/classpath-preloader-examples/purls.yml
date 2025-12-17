@@ -1,0 +1,4 @@
+- pkg:maven/de.wicketbuch.extensions/classpath-preloader-examples@0.0.1.wicket7?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/classpath-preloader-examples@0.0.1.wicket7?type=war
+- pkg:maven/de.wicketbuch.extensions/classpath-preloader-examples@0.0.1.wicket8?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/classpath-preloader-examples@0.0.1.wicket8?type=war

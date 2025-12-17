@@ -12,6 +12,8 @@
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-amazon@0.11.1?classifier=sources
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-amazon@0.11.2
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-amazon@0.11.2?classifier=sources
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-amazon@0.11.3?classifier=sources
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-amazon@0.11.3?type=aar
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-amazon@0.3.0
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-amazon@0.3.0?classifier=sources
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-amazon@0.4.0

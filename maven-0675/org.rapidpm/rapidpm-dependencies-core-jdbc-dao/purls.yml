@@ -34,3 +34,11 @@
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.5.8?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.5.9
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.5.9?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.6.0
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.6.0?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.6.1
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.6.1?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.6.2
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.6.2?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.6.3
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-jdbc-dao@3.6.3?classifier=sources
