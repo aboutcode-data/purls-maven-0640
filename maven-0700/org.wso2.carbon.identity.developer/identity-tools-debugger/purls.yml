@@ -2,6 +2,7 @@
 - pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.5.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.5.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.5.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.5.13?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.5.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.5.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.5.3?classifier=source-release&type=zip

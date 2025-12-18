@@ -6,3 +6,4 @@
 - pkg:maven/fr.flowarg/flowupdater@1.4.3?classifier=sources
 - pkg:maven/fr.flowarg/flowupdater@1.4.4?classifier=sources
 - pkg:maven/fr.flowarg/flowupdater@1.5.0?classifier=sources
+- pkg:maven/fr.flowarg/flowupdater@1.5.1?classifier=sources

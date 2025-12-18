@@ -1,0 +1,6 @@
+- pkg:maven/io.github.zoujunjienb/rpc-register@1.0.0-RELEASE
+- pkg:maven/io.github.zoujunjienb/rpc-register@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.zoujunjienb/rpc-register@1.0.3-RELEASE
+- pkg:maven/io.github.zoujunjienb/rpc-register@1.0.3-RELEASE?classifier=sources
+- pkg:maven/io.github.zoujunjienb/rpc-register@1.0.4-RELEASE
+- pkg:maven/io.github.zoujunjienb/rpc-register@1.0.4-RELEASE?classifier=sources

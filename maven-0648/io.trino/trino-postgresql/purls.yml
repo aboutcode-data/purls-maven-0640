@@ -12,3 +12,5 @@
 - pkg:maven/io.trino/trino-postgresql@362?classifier=sources
 - pkg:maven/io.trino/trino-postgresql@363?classifier=sources
 - pkg:maven/io.trino/trino-postgresql@364?classifier=sources
+- pkg:maven/io.trino/trino-postgresql@365?classifier=sources
+- pkg:maven/io.trino/trino-postgresql@366?classifier=sources

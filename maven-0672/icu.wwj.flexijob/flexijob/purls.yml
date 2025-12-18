@@ -1,0 +1,4 @@
+- pkg:maven/icu.wwj.flexijob/flexijob@2021.11.25
+- pkg:maven/icu.wwj.flexijob/flexijob@2021.11.25?classifier=sources
+- pkg:maven/icu.wwj.flexijob/flexijob@3.0.1
+- pkg:maven/icu.wwj.flexijob/flexijob@3.0.1?classifier=sources

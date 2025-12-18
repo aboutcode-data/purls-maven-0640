@@ -1,0 +1,15 @@
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.2-debug?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.3-debug?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.4-debug?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.5-debug?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.6-debug?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.6-staging?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.6?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.7-debug?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.7-staging?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.8-debug?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.8-staging?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.8?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.9-debug?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.9-staging?classifier=sources
+- pkg:maven/buzz.getcoco/cocomediasdk-android@0.0.9?classifier=sources

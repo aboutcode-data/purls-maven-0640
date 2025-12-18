@@ -1,0 +1,2 @@
+- pkg:maven/dev.zhengxiang/kaptcha@2.3.2
+- pkg:maven/dev.zhengxiang/kaptcha@2.3.2?classifier=sources

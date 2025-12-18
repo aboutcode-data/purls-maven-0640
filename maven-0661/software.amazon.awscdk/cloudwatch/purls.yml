@@ -176,6 +176,16 @@
 - pkg:maven/software.amazon.awscdk/cloudwatch@1.130.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cloudwatch@1.131.0
 - pkg:maven/software.amazon.awscdk/cloudwatch@1.131.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.132.0
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.132.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.133.0
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.133.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.134.0
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.134.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.135.0
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.135.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.136.0
+- pkg:maven/software.amazon.awscdk/cloudwatch@1.136.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cloudwatch@1.14.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/cloudwatch@1.14.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/cloudwatch@1.15.0.DEVPREVIEW

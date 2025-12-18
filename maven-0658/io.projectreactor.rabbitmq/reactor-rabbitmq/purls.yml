@@ -24,6 +24,7 @@
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.4.6.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.4.7.RELEASE
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.4.7.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.4.8.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.0
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.0?classifier=sources
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.1
@@ -32,3 +33,4 @@
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.2?classifier=sources
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.3
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.3?classifier=sources
+- pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.4?classifier=sources

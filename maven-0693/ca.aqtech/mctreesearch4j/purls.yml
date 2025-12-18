@@ -4,3 +4,5 @@
 - pkg:maven/ca.aqtech/mctreesearch4j@0.0.2?classifier=sources
 - pkg:maven/ca.aqtech/mctreesearch4j@0.0.3
 - pkg:maven/ca.aqtech/mctreesearch4j@0.0.3?classifier=sources
+- pkg:maven/ca.aqtech/mctreesearch4j@0.0.4-dev
+- pkg:maven/ca.aqtech/mctreesearch4j@0.0.4-dev?classifier=sources

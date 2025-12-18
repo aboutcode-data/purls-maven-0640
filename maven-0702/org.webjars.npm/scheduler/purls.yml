@@ -50,3 +50,5 @@
 - pkg:maven/org.webjars.npm/scheduler@0.20.1?classifier=sources
 - pkg:maven/org.webjars.npm/scheduler@0.20.2
 - pkg:maven/org.webjars.npm/scheduler@0.20.2?classifier=sources
+- pkg:maven/org.webjars.npm/scheduler@0.21.0-alpha-e6be2d531
+- pkg:maven/org.webjars.npm/scheduler@0.21.0-alpha-e6be2d531?classifier=sources

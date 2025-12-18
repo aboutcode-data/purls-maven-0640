@@ -1,3 +1,6 @@
 - pkg:maven/io.vacco.orobas/orobas@0.1.0?classifier=sources
 - pkg:maven/io.vacco.orobas/orobas@0.2.0-MILESTONE-202107060631?classifier=sources
 - pkg:maven/io.vacco.orobas/orobas@0.2.0?classifier=sources
+- pkg:maven/io.vacco.orobas/orobas@0.2.1-MILESTONE-202111191632?classifier=sources
+- pkg:maven/io.vacco.orobas/orobas@0.2.1-MILESTONE-202111200556?classifier=sources
+- pkg:maven/io.vacco.orobas/orobas@0.2.1?classifier=sources

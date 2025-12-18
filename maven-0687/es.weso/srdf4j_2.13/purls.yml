@@ -6,3 +6,5 @@
 - pkg:maven/es.weso/srdf4j_2.13@0.1.103?classifier=sources
 - pkg:maven/es.weso/srdf4j_2.13@0.1.104
 - pkg:maven/es.weso/srdf4j_2.13@0.1.104?classifier=sources
+- pkg:maven/es.weso/srdf4j_2.13@0.1.105
+- pkg:maven/es.weso/srdf4j_2.13@0.1.105?classifier=sources

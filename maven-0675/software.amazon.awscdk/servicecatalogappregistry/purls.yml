@@ -68,6 +68,16 @@
 - pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.130.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.131.0
 - pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.131.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.132.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.132.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.133.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.133.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.134.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.134.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.135.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.135.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.136.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.136.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.86.0
 - pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.86.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/servicecatalogappregistry@1.87.0

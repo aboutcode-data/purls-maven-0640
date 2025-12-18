@@ -24,3 +24,5 @@
 - pkg:maven/com.hccake/ballcat-spring-boot-starter-easyexcel@0.3.0?classifier=sources
 - pkg:maven/com.hccake/ballcat-spring-boot-starter-easyexcel@0.4.0
 - pkg:maven/com.hccake/ballcat-spring-boot-starter-easyexcel@0.4.0?classifier=sources
+- pkg:maven/com.hccake/ballcat-spring-boot-starter-easyexcel@0.5.0
+- pkg:maven/com.hccake/ballcat-spring-boot-starter-easyexcel@0.5.0?classifier=sources

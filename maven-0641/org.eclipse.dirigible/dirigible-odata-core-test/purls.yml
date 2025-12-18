@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-odata-core-test@6.1.10
+- pkg:maven/org.eclipse.dirigible/dirigible-odata-core-test@6.1.10?classifier=sources

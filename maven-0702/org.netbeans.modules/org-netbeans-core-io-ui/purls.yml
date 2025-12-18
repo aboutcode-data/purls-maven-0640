@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-io-ui@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-io-ui@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-io-ui@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-io-ui@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-io-ui@RELEASE90?classifier=sources

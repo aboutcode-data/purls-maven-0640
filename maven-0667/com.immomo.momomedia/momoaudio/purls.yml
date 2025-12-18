@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.momomedia/momoaudio@3.2.1.202112161420?classifier=sources
+- pkg:maven/com.immomo.momomedia/momoaudio@3.2.1.202112161420?type=aar

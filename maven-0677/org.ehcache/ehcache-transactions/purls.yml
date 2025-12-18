@@ -8,6 +8,7 @@
 - pkg:maven/org.ehcache/ehcache-transactions@3.1.3?classifier=sources
 - pkg:maven/org.ehcache/ehcache-transactions@3.1.4
 - pkg:maven/org.ehcache/ehcache-transactions@3.1.4?classifier=sources
+- pkg:maven/org.ehcache/ehcache-transactions@3.10.0-alpha0?classifier=sources
 - pkg:maven/org.ehcache/ehcache-transactions@3.2.0
 - pkg:maven/org.ehcache/ehcache-transactions@3.2.0.beta1
 - pkg:maven/org.ehcache/ehcache-transactions@3.2.0.beta1?classifier=sources
@@ -66,3 +67,7 @@
 - pkg:maven/org.ehcache/ehcache-transactions@3.9.6?classifier=sources
 - pkg:maven/org.ehcache/ehcache-transactions@3.9.7
 - pkg:maven/org.ehcache/ehcache-transactions@3.9.7?classifier=sources
+- pkg:maven/org.ehcache/ehcache-transactions@3.9.8
+- pkg:maven/org.ehcache/ehcache-transactions@3.9.8?classifier=sources
+- pkg:maven/org.ehcache/ehcache-transactions@3.9.9
+- pkg:maven/org.ehcache/ehcache-transactions@3.9.9?classifier=sources

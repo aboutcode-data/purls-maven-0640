@@ -69,3 +69,4 @@
 - pkg:maven/com.alipay.sofa/isle-sofa-boot-starter@3.7.0
 - pkg:maven/com.alipay.sofa/isle-sofa-boot-starter@3.8.0
 - pkg:maven/com.alipay.sofa/isle-sofa-boot-starter@3.9.0
+- pkg:maven/com.alipay.sofa/isle-sofa-boot-starter@3.9.1

@@ -1,4 +1,6 @@
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@1.13.0
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@1.13.1
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@1.13.2
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@1.13.3
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@1.14.0
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@1.14.1

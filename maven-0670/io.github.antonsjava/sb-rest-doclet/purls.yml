@@ -1,0 +1,2 @@
+- pkg:maven/io.github.antonsjava/sb-rest-doclet@1.8
+- pkg:maven/io.github.antonsjava/sb-rest-doclet@1.8?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.ui_thread@0.0.24?classifier=sources
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.ui_thread@1.0.0-beta0001?classifier=sources
+- pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.ui_thread@1.0.0?classifier=sources

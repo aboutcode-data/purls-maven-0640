@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha.server/piranha-server-lite@21.12.0?classifier=sources
+- pkg:maven/cloud.piranha.server/piranha-server-lite@21.12.0?type=zip

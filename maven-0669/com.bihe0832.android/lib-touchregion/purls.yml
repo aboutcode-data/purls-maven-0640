@@ -2,4 +2,6 @@
 - pkg:maven/com.bihe0832.android/lib-touchregion@4.10.3?type=aar
 - pkg:maven/com.bihe0832.android/lib-touchregion@4.11.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-touchregion@4.12.7?type=aar
+- pkg:maven/com.bihe0832.android/lib-touchregion@4.14.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-touchregion@4.14.4?type=aar
 - pkg:maven/com.bihe0832.android/lib-touchregion@4.8.2?type=aar

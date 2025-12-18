@@ -6,3 +6,5 @@
 - pkg:maven/xyz.cofe/trambda-tcp@2.1?classifier=sources
 - pkg:maven/xyz.cofe/trambda-tcp@2.2
 - pkg:maven/xyz.cofe/trambda-tcp@2.2?classifier=sources
+- pkg:maven/xyz.cofe/trambda-tcp@2.3
+- pkg:maven/xyz.cofe/trambda-tcp@2.3?classifier=sources

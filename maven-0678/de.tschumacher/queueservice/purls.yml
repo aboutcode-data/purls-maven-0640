@@ -6,3 +6,5 @@
 - pkg:maven/de.tschumacher/queueservice@0.0.8?classifier=sources
 - pkg:maven/de.tschumacher/queueservice@0.0.9
 - pkg:maven/de.tschumacher/queueservice@0.0.9?classifier=sources
+- pkg:maven/de.tschumacher/queueservice@1.0.1
+- pkg:maven/de.tschumacher/queueservice@1.0.1?classifier=sources

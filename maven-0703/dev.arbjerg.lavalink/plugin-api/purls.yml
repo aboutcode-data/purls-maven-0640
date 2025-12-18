@@ -1,0 +1,6 @@
+- pkg:maven/dev.arbjerg.lavalink/plugin-api@0.1.0?classifier=sources
+- pkg:maven/dev.arbjerg.lavalink/plugin-api@0.2.0?classifier=sources
+- pkg:maven/dev.arbjerg.lavalink/plugin-api@0.3.0?classifier=sources
+- pkg:maven/dev.arbjerg.lavalink/plugin-api@0.5.0?classifier=sources
+- pkg:maven/dev.arbjerg.lavalink/plugin-api@0.6.0?classifier=sources
+- pkg:maven/dev.arbjerg.lavalink/plugin-api@0.7.0?classifier=sources

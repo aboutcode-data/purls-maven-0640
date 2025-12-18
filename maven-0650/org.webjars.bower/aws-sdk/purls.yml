@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bower/aws-sdk@2.1046.0
+- pkg:maven/org.webjars.bower/aws-sdk@2.1046.0?classifier=sources
 - pkg:maven/org.webjars.bower/aws-sdk@2.212.1
 - pkg:maven/org.webjars.bower/aws-sdk@2.212.1?classifier=sources
 - pkg:maven/org.webjars.bower/aws-sdk@2.43.0

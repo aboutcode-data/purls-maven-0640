@@ -6,5 +6,7 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-donpa@1.0.14?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-donpa@1.0.15
 - pkg:maven/com.antgroup.antchain.openapi/openapi-donpa@1.0.15?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-donpa@1.0.17
+- pkg:maven/com.antgroup.antchain.openapi/openapi-donpa@1.0.17?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-donpa@1.0.4
 - pkg:maven/com.antgroup.antchain.openapi/openapi-donpa@1.0.4?classifier=sources

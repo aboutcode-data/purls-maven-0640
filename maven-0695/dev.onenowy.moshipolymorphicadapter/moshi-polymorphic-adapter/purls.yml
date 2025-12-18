@@ -1,0 +1,2 @@
+- pkg:maven/dev.onenowy.moshipolymorphicadapter/moshi-polymorphic-adapter@0.1.0?classifier=sources
+- pkg:maven/dev.onenowy.moshipolymorphicadapter/moshi-polymorphic-adapter@0.1.1?classifier=sources

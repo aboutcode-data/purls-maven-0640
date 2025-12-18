@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bowergithub.flot/flot@3.2.10?classifier=sources
 - pkg:maven/org.webjars.bowergithub.flot/flot@3.2.13
 - pkg:maven/org.webjars.bowergithub.flot/flot@3.2.13?classifier=sources
+- pkg:maven/org.webjars.bowergithub.flot/flot@4.2.2
+- pkg:maven/org.webjars.bowergithub.flot/flot@4.2.2?classifier=sources

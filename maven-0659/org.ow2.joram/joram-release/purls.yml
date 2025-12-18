@@ -19,6 +19,7 @@
 - pkg:maven/org.ow2.joram/joram-release@5.17.4?classifier=src&type=zip
 - pkg:maven/org.ow2.joram/joram-release@5.17.5?classifier=src&type=zip
 - pkg:maven/org.ow2.joram/joram-release@5.17.6?classifier=src&type=zip
+- pkg:maven/org.ow2.joram/joram-release@5.18.0?classifier=src&type=zip
 - pkg:maven/org.ow2.joram/joram-release@5.7.1?classifier=src&type=zip
 - pkg:maven/org.ow2.joram/joram-release@5.8.0?classifier=src&type=zip
 - pkg:maven/org.ow2.joram/joram-release@5.8.1?classifier=src&type=zip

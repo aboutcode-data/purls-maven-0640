@@ -20,3 +20,5 @@
 - pkg:maven/org.bndtools/bndtools.builder@5.3.0?classifier=sources
 - pkg:maven/org.bndtools/bndtools.builder@6.0.0
 - pkg:maven/org.bndtools/bndtools.builder@6.0.0?classifier=sources
+- pkg:maven/org.bndtools/bndtools.builder@6.1.0
+- pkg:maven/org.bndtools/bndtools.builder@6.1.0?classifier=sources

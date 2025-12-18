@@ -24,3 +24,5 @@
 - pkg:maven/com.libutil/util@0.8.0?classifier=sources
 - pkg:maven/com.libutil/util@1.0.0
 - pkg:maven/com.libutil/util@1.0.0?classifier=sources
+- pkg:maven/com.libutil/util@1.1.0
+- pkg:maven/com.libutil/util@1.1.0?classifier=sources

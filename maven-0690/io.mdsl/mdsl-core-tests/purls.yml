@@ -1,1 +1,3 @@
 - pkg:maven/io.mdsl/mdsl-core-tests@5.1.2
+- pkg:maven/io.mdsl/mdsl-core-tests@5.4.3
+- pkg:maven/io.mdsl/mdsl-core-tests@5.4.4

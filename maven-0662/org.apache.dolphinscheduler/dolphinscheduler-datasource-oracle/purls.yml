@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-oracle@2.0.1
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-oracle@2.0.1?classifier=sources

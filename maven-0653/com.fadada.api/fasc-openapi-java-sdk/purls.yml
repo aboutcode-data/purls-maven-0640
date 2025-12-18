@@ -1,0 +1,2 @@
+- pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.0.0
+- pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.0.0?classifier=sources

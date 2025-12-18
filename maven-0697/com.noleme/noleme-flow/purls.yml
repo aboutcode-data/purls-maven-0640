@@ -12,3 +12,5 @@
 - pkg:maven/com.noleme/noleme-flow@0.14.2
 - pkg:maven/com.noleme/noleme-flow@0.14.2?classifier=sources
 - pkg:maven/com.noleme/noleme-flow@0.14?classifier=sources
+- pkg:maven/com.noleme/noleme-flow@0.15
+- pkg:maven/com.noleme/noleme-flow@0.15?classifier=sources

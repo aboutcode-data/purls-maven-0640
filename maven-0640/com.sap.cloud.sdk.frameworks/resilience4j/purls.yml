@@ -108,8 +108,16 @@
 - pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.55.1?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.56.0
 - pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.56.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.57.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.57.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.58.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.58.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.59.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.59.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.6.0
 - pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.6.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.60.0
+- pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.60.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.7.0
 - pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.7.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.frameworks/resilience4j@3.8.0

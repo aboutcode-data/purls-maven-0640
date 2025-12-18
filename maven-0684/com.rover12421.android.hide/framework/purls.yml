@@ -1,5 +1,7 @@
 - pkg:maven/com.rover12421.android.hide/framework@11.0.0_r17
 - pkg:maven/com.rover12421.android.hide/framework@11.0.0_r17?classifier=sources
+- pkg:maven/com.rover12421.android.hide/framework@12.0.0_r16
+- pkg:maven/com.rover12421.android.hide/framework@12.0.0_r16?classifier=sources
 - pkg:maven/com.rover12421.android.hide/framework@Lollipop_5.0_21
 - pkg:maven/com.rover12421.android.hide/framework@Lollipop_5.0_21?classifier=sources
 - pkg:maven/com.rover12421.android.hide/framework@Lollipop_5.1_22

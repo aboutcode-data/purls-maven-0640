@@ -5,3 +5,4 @@
 - pkg:maven/com.github.shynixn.blockball/bukkit-nms-117R1@6.25.4?classifier=sources
 - pkg:maven/com.github.shynixn.blockball/bukkit-nms-117R1@6.26.0?classifier=sources
 - pkg:maven/com.github.shynixn.blockball/bukkit-nms-117R1@6.27.0?classifier=sources
+- pkg:maven/com.github.shynixn.blockball/bukkit-nms-117R1@6.28.0?classifier=sources

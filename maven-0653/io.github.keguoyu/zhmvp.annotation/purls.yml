@@ -1,0 +1,4 @@
+- pkg:maven/io.github.keguoyu/zhmvp.annotation@0.0.10?classifier=sources
+- pkg:maven/io.github.keguoyu/zhmvp.annotation@0.0.7?classifier=sources
+- pkg:maven/io.github.keguoyu/zhmvp.annotation@0.0.8?classifier=sources
+- pkg:maven/io.github.keguoyu/zhmvp.annotation@0.0.9?classifier=sources

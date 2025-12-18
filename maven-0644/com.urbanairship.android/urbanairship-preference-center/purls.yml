@@ -1,3 +1,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-preference-center@15.0.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-preference-center@15.1.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-preference-center@16.0.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-preference-center@16.1.0?classifier=sources

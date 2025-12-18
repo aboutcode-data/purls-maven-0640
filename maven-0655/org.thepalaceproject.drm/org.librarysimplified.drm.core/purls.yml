@@ -1,1 +1,2 @@
 - pkg:maven/org.thepalaceproject.drm/org.librarysimplified.drm.core@1.2.4?classifier=sources
+- pkg:maven/org.thepalaceproject.drm/org.librarysimplified.drm.core@1.2.5?classifier=sources

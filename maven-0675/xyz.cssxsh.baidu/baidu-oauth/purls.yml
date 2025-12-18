@@ -1,0 +1,8 @@
+- pkg:maven/xyz.cssxsh.baidu/baidu-oauth@0.1.0-dev-14?classifier=sources
+- pkg:maven/xyz.cssxsh.baidu/baidu-oauth@0.1.0-dev-15?classifier=sources
+- pkg:maven/xyz.cssxsh.baidu/baidu-oauth@1.0.0?classifier=sources
+- pkg:maven/xyz.cssxsh.baidu/baidu-oauth@2.0.0?classifier=sources
+- pkg:maven/xyz.cssxsh.baidu/baidu-oauth@2.0.1?classifier=sources
+- pkg:maven/xyz.cssxsh.baidu/baidu-oauth@2.0.2?classifier=sources
+- pkg:maven/xyz.cssxsh.baidu/baidu-oauth@2.0.3?classifier=sources
+- pkg:maven/xyz.cssxsh.baidu/baidu-oauth@2.0.4?classifier=sources

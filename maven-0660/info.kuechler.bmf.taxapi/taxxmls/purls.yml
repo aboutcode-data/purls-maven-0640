@@ -2,3 +2,5 @@
 - pkg:maven/info.kuechler.bmf.taxapi/taxxmls@2020.0.0?classifier=sources
 - pkg:maven/info.kuechler.bmf.taxapi/taxxmls@2021.0.0
 - pkg:maven/info.kuechler.bmf.taxapi/taxxmls@2021.0.0?classifier=sources
+- pkg:maven/info.kuechler.bmf.taxapi/taxxmls@2022.0.0
+- pkg:maven/info.kuechler.bmf.taxapi/taxxmls@2022.0.0?classifier=sources

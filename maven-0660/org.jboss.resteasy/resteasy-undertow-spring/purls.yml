@@ -98,3 +98,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-undertow-spring@4.7.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-undertow-spring@4.7.3.Final
 - pkg:maven/org.jboss.resteasy/resteasy-undertow-spring@4.7.3.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-undertow-spring@4.7.4.Final
+- pkg:maven/org.jboss.resteasy/resteasy-undertow-spring@4.7.4.Final?classifier=sources

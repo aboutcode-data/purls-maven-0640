@@ -46,6 +46,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.test.util@4.0.2
 - pkg:maven/com.liferay/com.liferay.journal.test.util@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@4.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.test.util@4.0.3
+- pkg:maven/com.liferay/com.liferay.journal.test.util@4.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.test.util@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.test.util@5.0.0
 - pkg:maven/com.liferay/com.liferay.journal.test.util@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@5.0.0?classifier=sources-commercial
@@ -55,6 +58,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.test.util@5.0.2
 - pkg:maven/com.liferay/com.liferay.journal.test.util@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@5.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.test.util@5.0.3
+- pkg:maven/com.liferay/com.liferay.journal.test.util@5.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.test.util@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.test.util@6.0.0
 - pkg:maven/com.liferay/com.liferay.journal.test.util@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@6.0.0?classifier=sources-commercial
@@ -82,6 +88,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.test.util@6.1.0
 - pkg:maven/com.liferay/com.liferay.journal.test.util@6.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@6.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.test.util@6.1.1
+- pkg:maven/com.liferay/com.liferay.journal.test.util@6.1.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.test.util@6.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.test.util@7.0.0
 - pkg:maven/com.liferay/com.liferay.journal.test.util@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@7.0.0?classifier=sources-commercial
@@ -121,6 +130,9 @@
 - pkg:maven/com.liferay/com.liferay.journal.test.util@7.3.0
 - pkg:maven/com.liferay/com.liferay.journal.test.util@7.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@7.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.test.util@7.3.1
+- pkg:maven/com.liferay/com.liferay.journal.test.util@7.3.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.test.util@7.3.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.test.util@8.0.0
 - pkg:maven/com.liferay/com.liferay.journal.test.util@8.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@8.0.0?classifier=sources-commercial
@@ -142,3 +154,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.test.util@9.2.1
 - pkg:maven/com.liferay/com.liferay.journal.test.util@9.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@9.2.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.test.util@9.2.2
+- pkg:maven/com.liferay/com.liferay.journal.test.util@9.2.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.test.util@9.2.2?classifier=sources-commercial

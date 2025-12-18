@@ -42,4 +42,7 @@
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-core@11.0.32
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-core@11.0.36
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-core@11.0.38
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-core@11.0.39
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-core@11.0.41
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-core@11.0.42
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-core@11.0.9

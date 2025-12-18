@@ -57,6 +57,8 @@
 - pkg:maven/de.hhu.stups/eventbalg@2.9.29?classifier=sources
 - pkg:maven/de.hhu.stups/eventbalg@2.9.2?classifier=sources
 - pkg:maven/de.hhu.stups/eventbalg@2.9.3
+- pkg:maven/de.hhu.stups/eventbalg@2.9.30?classifier=sources
+- pkg:maven/de.hhu.stups/eventbalg@2.9.31?classifier=sources
 - pkg:maven/de.hhu.stups/eventbalg@2.9.3?classifier=sources
 - pkg:maven/de.hhu.stups/eventbalg@2.9.4
 - pkg:maven/de.hhu.stups/eventbalg@2.9.4?classifier=sources

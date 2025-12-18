@@ -142,6 +142,10 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.34.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.35.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.35.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.36.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.36.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.37.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.37.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.6.19
 - pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.6.19?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-transcribe@2.6.20

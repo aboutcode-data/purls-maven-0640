@@ -1,2 +1,4 @@
 - pkg:maven/com.github.tadukoo.parsing.code/TadukooJava@0.3.1-Alpha
 - pkg:maven/com.github.tadukoo.parsing.code/TadukooJava@0.3.1-Alpha?classifier=sources
+- pkg:maven/com.github.tadukoo.parsing.code/TadukooJava@0.3.2-Alpha
+- pkg:maven/com.github.tadukoo.parsing.code/TadukooJava@0.3.2-Alpha?classifier=sources

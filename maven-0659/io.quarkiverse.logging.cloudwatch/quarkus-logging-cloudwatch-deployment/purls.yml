@@ -28,3 +28,5 @@
 - pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch-deployment@3.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch-deployment@4.0.0
 - pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch-deployment@4.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch-deployment@4.0.1
+- pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch-deployment@4.0.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.6?type=war
 - pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.7?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.7?type=war
+- pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.5.0?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.5.0?type=war

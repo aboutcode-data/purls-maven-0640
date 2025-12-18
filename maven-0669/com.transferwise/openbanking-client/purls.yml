@@ -14,3 +14,6 @@
 - pkg:maven/com.transferwise/openbanking-client@6.0.0?classifier=sources
 - pkg:maven/com.transferwise/openbanking-client@7.0.0?classifier=sources
 - pkg:maven/com.transferwise/openbanking-client@7.0.1?classifier=sources
+- pkg:maven/com.transferwise/openbanking-client@7.2.0?classifier=sources
+- pkg:maven/com.transferwise/openbanking-client@7.2.1?classifier=sources
+- pkg:maven/com.transferwise/openbanking-client@7.2.2?classifier=sources

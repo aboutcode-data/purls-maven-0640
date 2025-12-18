@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-cdnjs@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-cdnjs@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-cdnjs@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-cdnjs@RELEASE126?classifier=sources

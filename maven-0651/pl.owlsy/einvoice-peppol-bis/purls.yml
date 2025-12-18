@@ -1,0 +1,2 @@
+- pkg:maven/pl.owlsy/einvoice-peppol-bis@0.0.1
+- pkg:maven/pl.owlsy/einvoice-peppol-bis@0.0.1?classifier=sources

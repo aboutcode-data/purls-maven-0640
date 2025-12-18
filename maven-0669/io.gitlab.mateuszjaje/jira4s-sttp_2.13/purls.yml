@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp_2.13@2.1.0
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp_2.13@2.1.0?classifier=sources

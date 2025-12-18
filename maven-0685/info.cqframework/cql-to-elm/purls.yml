@@ -21,3 +21,4 @@
 - pkg:maven/info.cqframework/cql-to-elm@1.5.2?classifier=sources
 - pkg:maven/info.cqframework/cql-to-elm@1.5.3?classifier=sources
 - pkg:maven/info.cqframework/cql-to-elm@1.5.4?classifier=sources
+- pkg:maven/info.cqframework/cql-to-elm@1.5.5?classifier=sources

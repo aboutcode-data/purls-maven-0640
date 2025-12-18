@@ -3,3 +3,5 @@
 - pkg:maven/org.tensorflow/tensorflow-lite-support@0.2.0-rc1?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite-support@0.2.0-rc2?type=aar
 - pkg:maven/org.tensorflow/tensorflow-lite-support@0.2.0?type=aar
+- pkg:maven/org.tensorflow/tensorflow-lite-support@0.3.0?type=aar
+- pkg:maven/org.tensorflow/tensorflow-lite-support@0.3.1?type=aar

@@ -1,1 +1,2 @@
 - pkg:maven/us.ihmc/ihmc-robot-description-test@0.21.2?classifier=sources
+- pkg:maven/us.ihmc/ihmc-robot-description-test@0.21.3?classifier=sources

@@ -4,7 +4,16 @@
 - pkg:maven/org.dddjava.jig/jig-core@2021.10.3?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2021.10.4?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2021.10.5?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2021.11.1.1?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2021.11.1?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2021.11.2?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2021.11.3.1?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2021.11.3.2?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2021.11.3?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2021.11.4?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2021.12.1?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2021.12.2.1?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2021.12.2?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2021.3.4.2?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2021.3.4.3?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2021.4.1.1?classifier=sources

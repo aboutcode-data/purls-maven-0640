@@ -1,0 +1,2 @@
+- pkg:maven/org.talend.cxf/crypto-config@8.0.1
+- pkg:maven/org.talend.cxf/crypto-config@8.0.1?classifier=sources

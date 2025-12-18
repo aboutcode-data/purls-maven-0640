@@ -24,3 +24,5 @@
 - pkg:maven/com.linecorp.bot/line-bot-parser@4.5.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-parser@4.6.0
 - pkg:maven/com.linecorp.bot/line-bot-parser@4.6.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-parser@4.7.0
+- pkg:maven/com.linecorp.bot/line-bot-parser@4.7.0?classifier=sources

@@ -6,3 +6,9 @@
 - pkg:maven/io.github.arkinator/mockserver-proxy-war@5.11.5?type=war
 - pkg:maven/io.github.arkinator/mockserver-proxy-war@5.11.6?classifier=sources
 - pkg:maven/io.github.arkinator/mockserver-proxy-war@5.11.6?type=war
+- pkg:maven/io.github.arkinator/mockserver-proxy-war@5.11.7?classifier=sources
+- pkg:maven/io.github.arkinator/mockserver-proxy-war@5.11.7?type=war
+- pkg:maven/io.github.arkinator/mockserver-proxy-war@5.11.8?classifier=sources
+- pkg:maven/io.github.arkinator/mockserver-proxy-war@5.11.8?type=war
+- pkg:maven/io.github.arkinator/mockserver-proxy-war@5.11.9?classifier=sources
+- pkg:maven/io.github.arkinator/mockserver-proxy-war@5.11.9?type=war

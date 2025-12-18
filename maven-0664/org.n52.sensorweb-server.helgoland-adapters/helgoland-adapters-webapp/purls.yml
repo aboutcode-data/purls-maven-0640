@@ -1,0 +1,2 @@
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-webapp@2.0.0-PR.2?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.helgoland-adapters/helgoland-adapters-webapp@2.0.0-PR.2?type=war

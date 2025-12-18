@@ -1,0 +1,12 @@
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@0.0.0%2B213-d0e19eb0
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@0.0.0%2B213-d0e19eb0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0%2B2-38078b62
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0%2B2-38078b62?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0%2B3-31f1d996
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0%2B3-31f1d996?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0%2B4-7d5ea1d8
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0%2B4-7d5ea1d8?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0%2B5-611fed18
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0%2B5-611fed18?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs1_3@13.0.0-M0?classifier=sources

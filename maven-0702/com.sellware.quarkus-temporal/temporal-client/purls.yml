@@ -16,3 +16,4 @@
 - pkg:maven/com.sellware.quarkus-temporal/temporal-client@1.13.1.7?classifier=sources
 - pkg:maven/com.sellware.quarkus-temporal/temporal-client@2.0.0
 - pkg:maven/com.sellware.quarkus-temporal/temporal-client@2.0.0?classifier=sources
+- pkg:maven/com.sellware.quarkus-temporal/temporal-client@2.0.1

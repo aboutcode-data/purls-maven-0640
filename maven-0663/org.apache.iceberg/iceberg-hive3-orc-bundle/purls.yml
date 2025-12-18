@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.iceberg/iceberg-hive3-orc-bundle@0.12.0
 - pkg:maven/org.apache.iceberg/iceberg-hive3-orc-bundle@0.12.0?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-hive3-orc-bundle@0.12.1
+- pkg:maven/org.apache.iceberg/iceberg-hive3-orc-bundle@0.12.1?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.artipie/management-api@0.4.8
 - pkg:maven/com.artipie/management-api@0.4.8?classifier=sources
 - pkg:maven/com.artipie/management-api@0.4?classifier=sources
+- pkg:maven/com.artipie/management-api@v0.4.9
+- pkg:maven/com.artipie/management-api@v0.4.9?classifier=sources

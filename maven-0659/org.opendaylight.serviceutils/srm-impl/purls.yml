@@ -53,3 +53,4 @@
 - pkg:maven/org.opendaylight.serviceutils/srm-impl@0.7.2
 - pkg:maven/org.opendaylight.serviceutils/srm-impl@0.7.2?classifier=sources
 - pkg:maven/org.opendaylight.serviceutils/srm-impl@0.7.3?classifier=sources
+- pkg:maven/org.opendaylight.serviceutils/srm-impl@0.8.1?classifier=sources

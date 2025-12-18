@@ -1,0 +1,2 @@
+- pkg:maven/cn.jdevelops/logs-cache-p6spy@2.0.1
+- pkg:maven/cn.jdevelops/logs-cache-p6spy@2.0.1?classifier=sources

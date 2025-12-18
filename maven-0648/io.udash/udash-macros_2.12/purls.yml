@@ -83,6 +83,14 @@
 - pkg:maven/io.udash/udash-macros_2.12@0.9.0-M21?classifier=sources
 - pkg:maven/io.udash/udash-macros_2.12@0.9.0-M22
 - pkg:maven/io.udash/udash-macros_2.12@0.9.0-M22?classifier=sources
+- pkg:maven/io.udash/udash-macros_2.12@0.9.0-M23
+- pkg:maven/io.udash/udash-macros_2.12@0.9.0-M23?classifier=sources
+- pkg:maven/io.udash/udash-macros_2.12@0.9.0-M24
+- pkg:maven/io.udash/udash-macros_2.12@0.9.0-M24?classifier=sources
+- pkg:maven/io.udash/udash-macros_2.12@0.9.0-M25
+- pkg:maven/io.udash/udash-macros_2.12@0.9.0-M25?classifier=sources
+- pkg:maven/io.udash/udash-macros_2.12@0.9.0-M26
+- pkg:maven/io.udash/udash-macros_2.12@0.9.0-M26?classifier=sources
 - pkg:maven/io.udash/udash-macros_2.12@0.9.0-M2?classifier=sources
 - pkg:maven/io.udash/udash-macros_2.12@0.9.0-M3
 - pkg:maven/io.udash/udash-macros_2.12@0.9.0-M3?classifier=sources

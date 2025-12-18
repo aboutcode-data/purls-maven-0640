@@ -2,3 +2,5 @@
 - pkg:maven/com.celadari/json-logic-scala_2.11@1.9.14?classifier=sources
 - pkg:maven/com.celadari/json-logic-scala_2.11@1.9.16
 - pkg:maven/com.celadari/json-logic-scala_2.11@1.9.16?classifier=sources
+- pkg:maven/com.celadari/json-logic-scala_2.11@2.0.0
+- pkg:maven/com.celadari/json-logic-scala_2.11@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.infilos/maven-github-action-demo@0.1.0
+- pkg:maven/com.infilos/maven-github-action-demo@0.1.0?classifier=sources

@@ -194,6 +194,12 @@
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@0.9.8?classifier=sources
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@0.9.9
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@0.9.9?classifier=sources
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@1.0.10
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@1.0.10?classifier=sources
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@1.0.11
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@1.0.11?classifier=sources
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@1.0.12
+- pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@1.0.12?classifier=sources
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@1.0.7
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@1.0.7?classifier=sources
 - pkg:maven/io.7mind.izumi/idealingua-v1-test-defs_2.12@1.0.8

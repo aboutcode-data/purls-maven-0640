@@ -70,3 +70,5 @@
 - pkg:maven/com.rajivprab/cava@2.0.9?classifier=sources
 - pkg:maven/com.rajivprab/cava@3.0.0
 - pkg:maven/com.rajivprab/cava@3.0.0?classifier=sources
+- pkg:maven/com.rajivprab/cava@3.0.1
+- pkg:maven/com.rajivprab/cava@3.0.1?classifier=sources

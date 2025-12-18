@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bld-commons/processor-jpa-servcie@1.1.0
+- pkg:maven/com.github.bld-commons/processor-jpa-servcie@1.1.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.0.0
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.0.0?classifier=sources
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.0.1
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.0.1?classifier=sources
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.0.2
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.0.2?classifier=sources
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.1.0
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.1.0?classifier=sources
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.1.1
+- pkg:maven/codes.quine.labo/recheck-unicode_sjs1_2.13@4.1.1?classifier=sources

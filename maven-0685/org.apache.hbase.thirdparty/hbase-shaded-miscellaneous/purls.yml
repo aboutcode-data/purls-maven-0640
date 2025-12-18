@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.hbase.thirdparty/hbase-shaded-miscellaneous@3.5.0?classifier=sources
 - pkg:maven/org.apache.hbase.thirdparty/hbase-shaded-miscellaneous@3.5.1
 - pkg:maven/org.apache.hbase.thirdparty/hbase-shaded-miscellaneous@3.5.1?classifier=sources
+- pkg:maven/org.apache.hbase.thirdparty/hbase-shaded-miscellaneous@4.0.0
+- pkg:maven/org.apache.hbase.thirdparty/hbase-shaded-miscellaneous@4.0.0?classifier=sources

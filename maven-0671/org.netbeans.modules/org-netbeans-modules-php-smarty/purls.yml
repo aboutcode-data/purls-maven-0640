@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-smarty@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-smarty@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-smarty@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-smarty@RELEASE126?classifier=sources

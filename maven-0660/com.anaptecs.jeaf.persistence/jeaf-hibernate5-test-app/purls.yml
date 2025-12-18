@@ -6,3 +6,5 @@
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.0?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.1
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.1?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.2
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.2?classifier=sources

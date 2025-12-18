@@ -196,6 +196,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-aws-ext@2.21.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-aws-ext@2.21.8
 - pkg:maven/org.apache.jackrabbit/jackrabbit-aws-ext@2.21.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-aws-ext@2.21.9
+- pkg:maven/org.apache.jackrabbit/jackrabbit-aws-ext@2.21.9?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-aws-ext@2.7.5
 - pkg:maven/org.apache.jackrabbit/jackrabbit-aws-ext@2.7.5?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-aws-ext@2.8.0

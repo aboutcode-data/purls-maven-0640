@@ -1,0 +1,2 @@
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-client-config@1.0.0-beta3
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-client-config@1.0.0-beta3?classifier=sources

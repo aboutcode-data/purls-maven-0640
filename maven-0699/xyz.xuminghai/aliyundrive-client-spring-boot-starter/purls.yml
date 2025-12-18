@@ -1,0 +1,8 @@
+- pkg:maven/xyz.xuminghai/aliyundrive-client-spring-boot-starter@0.0.4-alpha
+- pkg:maven/xyz.xuminghai/aliyundrive-client-spring-boot-starter@0.0.4-alpha?classifier=sources
+- pkg:maven/xyz.xuminghai/aliyundrive-client-spring-boot-starter@0.0.5-alpha
+- pkg:maven/xyz.xuminghai/aliyundrive-client-spring-boot-starter@0.0.5-alpha?classifier=sources
+- pkg:maven/xyz.xuminghai/aliyundrive-client-spring-boot-starter@0.0.6-alpha
+- pkg:maven/xyz.xuminghai/aliyundrive-client-spring-boot-starter@0.0.6-alpha?classifier=sources
+- pkg:maven/xyz.xuminghai/aliyundrive-client-spring-boot-starter@0.0.7-alpha
+- pkg:maven/xyz.xuminghai/aliyundrive-client-spring-boot-starter@0.0.7-alpha?classifier=sources

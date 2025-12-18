@@ -8,3 +8,5 @@
 - pkg:maven/io.github.mmdai/flood-spring-cloud-starter-comm@2.5.6.01
 - pkg:maven/io.github.mmdai/flood-spring-cloud-starter-comm@2.5.6.01?classifier=sources
 - pkg:maven/io.github.mmdai/flood-spring-cloud-starter-comm@2.5.6.0?classifier=sources
+- pkg:maven/io.github.mmdai/flood-spring-cloud-starter-comm@2.5.6.1
+- pkg:maven/io.github.mmdai/flood-spring-cloud-starter-comm@2.5.6.1?classifier=sources

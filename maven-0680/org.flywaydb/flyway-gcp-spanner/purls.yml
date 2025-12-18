@@ -34,3 +34,17 @@
 - pkg:maven/org.flywaydb/flyway-gcp-spanner@8.0.2-beta?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gcp-spanner@8.0.3-beta
 - pkg:maven/org.flywaydb/flyway-gcp-spanner@8.0.3-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.0.4-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.0.4-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.0.5-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.0.5-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.1.0-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.1.0-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.2.0-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.2.0-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.2.1-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.2.1-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.2.2-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.2.2-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.2.3-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.2.3-beta?classifier=sources

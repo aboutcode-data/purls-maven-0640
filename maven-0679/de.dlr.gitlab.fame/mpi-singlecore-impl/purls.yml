@@ -1,0 +1,4 @@
+- pkg:maven/de.dlr.gitlab.fame/mpi-singlecore-impl@1.0.0
+- pkg:maven/de.dlr.gitlab.fame/mpi-singlecore-impl@1.0.0?classifier=sources
+- pkg:maven/de.dlr.gitlab.fame/mpi-singlecore-impl@1.0.1
+- pkg:maven/de.dlr.gitlab.fame/mpi-singlecore-impl@1.0.1?classifier=sources

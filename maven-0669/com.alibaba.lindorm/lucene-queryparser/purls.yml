@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.lindorm/lucene-queryparser@8.9.0
+- pkg:maven/com.alibaba.lindorm/lucene-queryparser@8.9.0?classifier=sources

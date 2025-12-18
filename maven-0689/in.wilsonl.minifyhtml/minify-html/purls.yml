@@ -70,3 +70,11 @@
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.6.8?classifier=sources
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.6.9
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.6.9?classifier=sources
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.7.0
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.7.0?classifier=sources
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.7.1
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.7.1?classifier=sources
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.7.2
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.7.2?classifier=sources
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.8.0
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.8.0?classifier=sources

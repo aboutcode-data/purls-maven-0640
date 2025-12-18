@@ -1,0 +1,1 @@
+- pkg:maven/aws.sdk.kotlin/iottwinmaker@0.9.5-beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/asset-catalog-topic-connector@3.4
+- pkg:maven/org.odpi.egeria/asset-catalog-topic-connector@3.4?classifier=sources

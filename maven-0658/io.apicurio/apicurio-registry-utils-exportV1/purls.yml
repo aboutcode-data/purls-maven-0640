@@ -2,3 +2,5 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.0.1.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.0.2.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.0.2.Final?type=zip
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.1.4.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.1.4.Final?type=zip

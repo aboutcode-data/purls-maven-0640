@@ -6,3 +6,4 @@
 - pkg:maven/org.herasaf.xacml.core/herasaf-xacml-core@1.0.3.RELEASE?classifier=sources
 - pkg:maven/org.herasaf.xacml.core/herasaf-xacml-core@1.0.4.RELEASE
 - pkg:maven/org.herasaf.xacml.core/herasaf-xacml-core@1.0.4.RELEASE?classifier=sources
+- pkg:maven/org.herasaf.xacml.core/herasaf-xacml-core@2.0.2?classifier=sources
