@@ -1,0 +1,9 @@
+- pkg:maven/org.opendaylight.integration/feature-selector@0.2.0-Lithium?type=war
+- pkg:maven/org.opendaylight.integration/feature-selector@0.2.1-Lithium-SR1?classifier=sources
+- pkg:maven/org.opendaylight.integration/feature-selector@0.2.1-Lithium-SR1?type=war
+- pkg:maven/org.opendaylight.integration/feature-selector@0.2.2-Lithium-SR2?classifier=sources
+- pkg:maven/org.opendaylight.integration/feature-selector@0.2.2-Lithium-SR2?type=war
+- pkg:maven/org.opendaylight.integration/feature-selector@0.2.3-Lithium-SR3?classifier=sources
+- pkg:maven/org.opendaylight.integration/feature-selector@0.2.3-Lithium-SR3?type=war
+- pkg:maven/org.opendaylight.integration/feature-selector@0.2.4-Lithium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.integration/feature-selector@0.2.4-Lithium-SR4?type=war

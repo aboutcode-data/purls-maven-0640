@@ -1,2 +1,4 @@
 - pkg:maven/com.github.cafdataprocessing/util-email-content-segregation@2.0.0-5
 - pkg:maven/com.github.cafdataprocessing/util-email-content-segregation@2.0.0-5?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/util-email-content-segregation@2.1.0-234
+- pkg:maven/com.github.cafdataprocessing/util-email-content-segregation@2.1.0-234?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/com.addc/addc-svr-monitor@2.6.1
 - pkg:maven/com.addc/addc-svr-monitor@2.6.1?classifier=sources
 - pkg:maven/com.addc/addc-svr-monitor@2.6?classifier=sources
+- pkg:maven/com.addc/addc-svr-monitor@2.7
+- pkg:maven/com.addc/addc-svr-monitor@2.7?classifier=sources
+- pkg:maven/com.addc/addc-svr-monitor@2.8
+- pkg:maven/com.addc/addc-svr-monitor@2.8?classifier=sources

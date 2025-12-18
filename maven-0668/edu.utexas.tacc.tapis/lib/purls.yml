@@ -1,0 +1,2 @@
+- pkg:maven/edu.utexas.tacc.tapis/lib@1.0.2
+- pkg:maven/edu.utexas.tacc.tapis/lib@1.0.2?classifier=sources

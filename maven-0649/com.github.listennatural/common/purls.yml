@@ -1,0 +1,4 @@
+- pkg:maven/com.github.listennatural/common@0.02
+- pkg:maven/com.github.listennatural/common@0.02?classifier=sources
+- pkg:maven/com.github.listennatural/common@0.03
+- pkg:maven/com.github.listennatural/common@0.03?classifier=sources

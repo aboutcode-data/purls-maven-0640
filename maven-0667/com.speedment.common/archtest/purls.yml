@@ -1,0 +1,2 @@
+- pkg:maven/com.speedment.common/archtest@3.1.18
+- pkg:maven/com.speedment.common/archtest@3.1.18?classifier=sources

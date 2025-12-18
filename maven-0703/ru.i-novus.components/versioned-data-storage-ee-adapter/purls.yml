@@ -1,0 +1,2 @@
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.8
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.8?classifier=sources

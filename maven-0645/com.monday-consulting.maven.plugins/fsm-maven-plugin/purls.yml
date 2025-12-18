@@ -4,3 +4,5 @@
 - pkg:maven/com.monday-consulting.maven.plugins/fsm-maven-plugin@1.4.2?classifier=sources
 - pkg:maven/com.monday-consulting.maven.plugins/fsm-maven-plugin@1.5.0
 - pkg:maven/com.monday-consulting.maven.plugins/fsm-maven-plugin@1.5.1
+- pkg:maven/com.monday-consulting.maven.plugins/fsm-maven-plugin@1.5.2
+- pkg:maven/com.monday-consulting.maven.plugins/fsm-maven-plugin@1.5.3

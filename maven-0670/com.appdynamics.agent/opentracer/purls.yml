@@ -1,0 +1,2 @@
+- pkg:maven/com.appdynamics.agent/opentracer@4.5.13.27526
+- pkg:maven/com.appdynamics.agent/opentracer@4.5.13.27526?classifier=sources

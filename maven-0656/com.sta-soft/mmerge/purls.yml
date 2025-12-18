@@ -1,0 +1,10 @@
+- pkg:maven/com.sta-soft/mmerge@1.28
+- pkg:maven/com.sta-soft/mmerge@1.28?classifier=sources
+- pkg:maven/com.sta-soft/mmerge@1.29
+- pkg:maven/com.sta-soft/mmerge@1.29?classifier=sources
+- pkg:maven/com.sta-soft/mmerge@1.30
+- pkg:maven/com.sta-soft/mmerge@1.30?classifier=sources
+- pkg:maven/com.sta-soft/mmerge@1.31
+- pkg:maven/com.sta-soft/mmerge@1.31?classifier=sources
+- pkg:maven/com.sta-soft/mmerge@1.32
+- pkg:maven/com.sta-soft/mmerge@1.32?classifier=sources

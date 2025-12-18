@@ -109,3 +109,7 @@
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.humantask.humantaskweb@4.4.98?classifier=sources
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.humantask.humantaskweb@4.4.99?classifier=sources
 - pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.humantask.humantaskweb@4.4.9?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.humantask.humantaskweb@4.5.18?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.humantask.humantaskweb@4.5.19?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.humantask.humantaskweb@4.5.20?classifier=sources
+- pkg:maven/org.wso2.carbon.business-process/org.wso2.carbon.humantask.humantaskweb@4.5.21?classifier=sources

@@ -17,9 +17,12 @@
 - pkg:maven/com.shazam.fork/fork@2.2.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.0.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.1.0?classifier=sources
+- pkg:maven/com.shazam.fork/fork@3.10.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.2.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.3.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.4.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.5.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.6.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork@3.7.0?classifier=sources
+- pkg:maven/com.shazam.fork/fork@3.8.1?classifier=sources
+- pkg:maven/com.shazam.fork/fork@3.9.0?classifier=sources

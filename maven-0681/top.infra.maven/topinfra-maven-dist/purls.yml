@@ -20,3 +20,7 @@
 - pkg:maven/top.infra.maven/topinfra-maven-dist@1.1.0?type=zip
 - pkg:maven/top.infra.maven/topinfra-maven-dist@1.1.1?classifier=sources
 - pkg:maven/top.infra.maven/topinfra-maven-dist@1.1.1?type=zip
+- pkg:maven/top.infra.maven/topinfra-maven-dist@1.2.0?classifier=sources
+- pkg:maven/top.infra.maven/topinfra-maven-dist@1.2.0?type=zip
+- pkg:maven/top.infra.maven/topinfra-maven-dist@1.3.0?classifier=sources
+- pkg:maven/top.infra.maven/topinfra-maven-dist@1.3.0?type=zip

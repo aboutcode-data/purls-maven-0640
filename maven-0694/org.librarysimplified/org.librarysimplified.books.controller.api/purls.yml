@@ -1,0 +1,2 @@
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.controller.api@4.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.books.controller.api@4.0.0?type=aar

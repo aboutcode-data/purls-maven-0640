@@ -10,3 +10,5 @@
 - pkg:maven/com.haoxuer.discover/discover-common-user@2.2.8?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-common-user@2.3.0
 - pkg:maven/com.haoxuer.discover/discover-common-user@2.3.0?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-common-user@2.3.1
+- pkg:maven/com.haoxuer.discover/discover-common-user@2.3.1?classifier=sources

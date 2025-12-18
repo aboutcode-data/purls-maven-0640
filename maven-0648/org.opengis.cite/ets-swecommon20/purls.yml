@@ -2,3 +2,5 @@
 - pkg:maven/org.opengis.cite/ets-swecommon20@0.3?classifier=sources
 - pkg:maven/org.opengis.cite/ets-swecommon20@0.4
 - pkg:maven/org.opengis.cite/ets-swecommon20@0.4?classifier=sources
+- pkg:maven/org.opengis.cite/ets-swecommon20@0.5
+- pkg:maven/org.opengis.cite/ets-swecommon20@0.5?classifier=sources

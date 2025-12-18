@@ -2,6 +2,8 @@
 - pkg:maven/com.jakewharton/butterknife-compiler@10.0.0?classifier=sources
 - pkg:maven/com.jakewharton/butterknife-compiler@10.1.0
 - pkg:maven/com.jakewharton/butterknife-compiler@10.1.0?classifier=sources
+- pkg:maven/com.jakewharton/butterknife-compiler@10.2.0
+- pkg:maven/com.jakewharton/butterknife-compiler@10.2.0?classifier=sources
 - pkg:maven/com.jakewharton/butterknife-compiler@8.0.0
 - pkg:maven/com.jakewharton/butterknife-compiler@8.0.0?classifier=sources
 - pkg:maven/com.jakewharton/butterknife-compiler@8.0.1

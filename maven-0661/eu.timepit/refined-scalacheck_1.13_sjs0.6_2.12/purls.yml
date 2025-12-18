@@ -1,3 +1,5 @@
+- pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.10
+- pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.10?classifier=sources
 - pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.3
 - pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.3?classifier=sources
 - pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.4
@@ -10,3 +12,5 @@
 - pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.7?classifier=sources
 - pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.8
 - pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.8?classifier=sources
+- pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.9
+- pkg:maven/eu.timepit/refined-scalacheck_1.13_sjs0.6_2.12@0.9.9?classifier=sources

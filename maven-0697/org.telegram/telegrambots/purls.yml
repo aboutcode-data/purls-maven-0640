@@ -58,3 +58,7 @@
 - pkg:maven/org.telegram/telegrambots@4.3.1
 - pkg:maven/org.telegram/telegrambots@4.3.1?classifier=sources
 - pkg:maven/org.telegram/telegrambots@4.3?classifier=sources
+- pkg:maven/org.telegram/telegrambots@4.4.0
+- pkg:maven/org.telegram/telegrambots@4.4.0.1
+- pkg:maven/org.telegram/telegrambots@4.4.0.1?classifier=sources
+- pkg:maven/org.telegram/telegrambots@4.4.0?classifier=sources

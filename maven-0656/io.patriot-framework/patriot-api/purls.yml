@@ -1,2 +1,4 @@
 - pkg:maven/io.patriot-framework/patriot-api@1.1.0
 - pkg:maven/io.patriot-framework/patriot-api@1.1.0?classifier=sources
+- pkg:maven/io.patriot-framework/patriot-api@2.0.0
+- pkg:maven/io.patriot-framework/patriot-api@2.0.0?classifier=sources

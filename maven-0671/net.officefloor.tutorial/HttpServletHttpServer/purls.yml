@@ -10,6 +10,10 @@
 - pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.11.0?type=war
 - pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.12.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.12.0?type=war
+- pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.13.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.13.0?type=war
+- pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.14.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.14.0?type=war
 - pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.6.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.6.0?type=war
 - pkg:maven/net.officefloor.tutorial/HttpServletHttpServer@3.6.1?classifier=sources

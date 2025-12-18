@@ -16,3 +16,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.4.8?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.5.3
 - pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.5.3?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.5.4
+- pkg:maven/org.atmosphere.samples/atmosphere-cxf-chat-osgi@2.5.4?classifier=sources

@@ -4,3 +4,9 @@
 - pkg:maven/com.cognitect.aws/sqs@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sqs@736.2.496.0
 - pkg:maven/com.cognitect.aws/sqs@736.2.496.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sqs@742.2.515.0
+- pkg:maven/com.cognitect.aws/sqs@742.2.515.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sqs@742.2.519.0
+- pkg:maven/com.cognitect.aws/sqs@742.2.519.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sqs@747.2.533.0
+- pkg:maven/com.cognitect.aws/sqs@747.2.533.0?classifier=sources

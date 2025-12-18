@@ -21,4 +21,8 @@
 - pkg:maven/com.github.pinterest/kafkastats@0.2.4.7?classifier=sources
 - pkg:maven/com.github.pinterest/kafkastats@0.2.4.8
 - pkg:maven/com.github.pinterest/kafkastats@0.2.4.8?classifier=sources
+- pkg:maven/com.github.pinterest/kafkastats@0.2.4.9
+- pkg:maven/com.github.pinterest/kafkastats@0.2.4.9?classifier=sources
 - pkg:maven/com.github.pinterest/kafkastats@0.2.4?classifier=sources
+- pkg:maven/com.github.pinterest/kafkastats@0.3.0-rc.1
+- pkg:maven/com.github.pinterest/kafkastats@0.3.0-rc.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/bootstrap-switch@3.3.4
 - pkg:maven/org.webjars.npm/bootstrap-switch@3.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-switch@4.0.0-alpha.1
+- pkg:maven/org.webjars.npm/bootstrap-switch@4.0.0-alpha.1?classifier=sources

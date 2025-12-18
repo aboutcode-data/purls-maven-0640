@@ -1,1 +1,5 @@
 - pkg:maven/com.robotemi/sdk-china@0.10.40?type=aar
+- pkg:maven/com.robotemi/sdk-china@0.10.41?type=aar
+- pkg:maven/com.robotemi/sdk-china@0.10.42?type=aar
+- pkg:maven/com.robotemi/sdk-china@0.10.44?type=aar
+- pkg:maven/com.robotemi/sdk-china@0.10.45?type=aar

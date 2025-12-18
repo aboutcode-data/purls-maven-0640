@@ -1,3 +1,4 @@
+- pkg:maven/cc.redpen/redpen-distribution@1.10.3
 - pkg:maven/cc.redpen/redpen-distribution@1.4.1
 - pkg:maven/cc.redpen/redpen-distribution@1.4.2
 - pkg:maven/cc.redpen/redpen-distribution@1.4.3

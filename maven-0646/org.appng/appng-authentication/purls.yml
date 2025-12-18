@@ -2,3 +2,5 @@
 - pkg:maven/org.appng/appng-authentication@1.11.1?type=zip
 - pkg:maven/org.appng/appng-authentication@1.11.2?classifier=sources
 - pkg:maven/org.appng/appng-authentication@1.11.2?type=zip
+- pkg:maven/org.appng/appng-authentication@1.12.0?classifier=sources
+- pkg:maven/org.appng/appng-authentication@1.12.0?type=zip

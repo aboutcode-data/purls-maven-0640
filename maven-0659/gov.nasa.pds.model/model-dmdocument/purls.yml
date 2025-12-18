@@ -1,0 +1,6 @@
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@10.0.0
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@10.0.0?classifier=sources
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@10.1.0
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@10.1.0?classifier=sources
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@10.1.1
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@10.1.1?classifier=sources

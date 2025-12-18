@@ -51,3 +51,4 @@
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.4?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.5?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.6?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.7?classifier=sources

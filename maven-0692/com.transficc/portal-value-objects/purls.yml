@@ -2,3 +2,7 @@
 - pkg:maven/com.transficc/portal-value-objects@1.0.0?classifier=sources
 - pkg:maven/com.transficc/portal-value-objects@1.1.0
 - pkg:maven/com.transficc/portal-value-objects@1.1.0?classifier=sources
+- pkg:maven/com.transficc/portal-value-objects@2.0.0
+- pkg:maven/com.transficc/portal-value-objects@2.0.0?classifier=sources
+- pkg:maven/com.transficc/portal-value-objects@2.1.0
+- pkg:maven/com.transficc/portal-value-objects@2.1.0?classifier=sources

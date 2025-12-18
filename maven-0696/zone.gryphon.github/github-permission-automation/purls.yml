@@ -1,0 +1,4 @@
+- pkg:maven/zone.gryphon.github/github-permission-automation@1.0.5-80b3099
+- pkg:maven/zone.gryphon.github/github-permission-automation@1.0.5-80b3099?classifier=sources
+- pkg:maven/zone.gryphon.github/github-permission-automation@1.0.7-3d4fcc0
+- pkg:maven/zone.gryphon.github/github-permission-automation@1.0.7-3d4fcc0?classifier=sources

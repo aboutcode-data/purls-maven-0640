@@ -52,3 +52,5 @@
 - pkg:maven/org.apache.crunch/crunch-examples@0.9.0-hadoop2
 - pkg:maven/org.apache.crunch/crunch-examples@0.9.0-hadoop2?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-examples@0.9.0?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-examples@1.0.0
+- pkg:maven/org.apache.crunch/crunch-examples@1.0.0?classifier=sources

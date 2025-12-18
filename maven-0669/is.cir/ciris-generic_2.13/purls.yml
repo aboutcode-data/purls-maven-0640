@@ -1,0 +1,2 @@
+- pkg:maven/is.cir/ciris-generic_2.13@0.13.0-RC1
+- pkg:maven/is.cir/ciris-generic_2.13@0.13.0-RC1?classifier=sources

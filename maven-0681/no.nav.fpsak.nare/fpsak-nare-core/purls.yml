@@ -1,2 +1,10 @@
 - pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20181105115918_47dcace
 - pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20181105115918_47dcace?classifier=sources
+- pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20190920161214_4bd908d
+- pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20190920161214_4bd908d?classifier=sources
+- pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20190923165610_3799612
+- pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20190923165610_3799612?classifier=sources
+- pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20190926074400_b93d550
+- pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20190926074400_b93d550?classifier=sources
+- pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20190927090155_6951354
+- pkg:maven/no.nav.fpsak.nare/fpsak-nare-core@2.0_20190927090155_6951354?classifier=sources

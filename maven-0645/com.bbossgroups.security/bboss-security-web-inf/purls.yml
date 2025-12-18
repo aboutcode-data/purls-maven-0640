@@ -64,3 +64,7 @@
 - pkg:maven/com.bbossgroups.security/bboss-security-web-inf@5.1.1?classifier=sources
 - pkg:maven/com.bbossgroups.security/bboss-security-web-inf@5.1.2
 - pkg:maven/com.bbossgroups.security/bboss-security-web-inf@5.1.2?classifier=sources
+- pkg:maven/com.bbossgroups.security/bboss-security-web-inf@5.5.5
+- pkg:maven/com.bbossgroups.security/bboss-security-web-inf@5.5.5?classifier=sources
+- pkg:maven/com.bbossgroups.security/bboss-security-web-inf@5.5.7
+- pkg:maven/com.bbossgroups.security/bboss-security-web-inf@5.5.7?classifier=sources

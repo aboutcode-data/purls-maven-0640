@@ -38,6 +38,10 @@
 - pkg:maven/org.nutz/nutzwx@1.r.68.v20190516?classifier=sources
 - pkg:maven/org.nutz/nutzwx@1.r.68.v20190621
 - pkg:maven/org.nutz/nutzwx@1.r.68.v20190621?classifier=sources
+- pkg:maven/org.nutz/nutzwx@1.r.68.v20190731
+- pkg:maven/org.nutz/nutzwx@1.r.68.v20190731?classifier=sources
+- pkg:maven/org.nutz/nutzwx@1.r.68.v20191031
+- pkg:maven/org.nutz/nutzwx@1.r.68.v20191031?classifier=sources
 - pkg:maven/org.nutz/nutzwx@2.1
 - pkg:maven/org.nutz/nutzwx@2.1?classifier=sources
 - pkg:maven/org.nutz/nutzwx@2.2

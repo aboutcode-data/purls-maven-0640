@@ -1,0 +1,2 @@
+- pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.0.10
+- pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.0.10?classifier=sources

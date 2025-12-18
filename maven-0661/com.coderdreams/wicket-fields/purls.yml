@@ -1,0 +1,2 @@
+- pkg:maven/com.coderdreams/wicket-fields@1.0.0
+- pkg:maven/com.coderdreams/wicket-fields@1.0.0?classifier=sources

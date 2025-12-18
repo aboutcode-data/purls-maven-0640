@@ -1,0 +1,4 @@
+- pkg:maven/com.azure/azure-storage-blob-cryptography@12.0.0
+- pkg:maven/com.azure/azure-storage-blob-cryptography@12.0.0-preview.4
+- pkg:maven/com.azure/azure-storage-blob-cryptography@12.0.0-preview.4?classifier=sources
+- pkg:maven/com.azure/azure-storage-blob-cryptography@12.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ileler/spring-web-json-param@1.0
+- pkg:maven/io.github.ileler/spring-web-json-param@1.0?classifier=sources

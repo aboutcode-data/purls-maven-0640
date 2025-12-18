@@ -8,6 +8,10 @@
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.11.2?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.12.0
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.12.0?classifier=sources
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.13.0
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.13.0?classifier=sources
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.14.0
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.14.0?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.4.7
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.4.7?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.5.0

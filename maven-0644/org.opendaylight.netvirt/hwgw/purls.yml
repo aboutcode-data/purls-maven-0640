@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.netvirt/hwgw@1.2.3-Beryllium-SR2
+- pkg:maven/org.opendaylight.netvirt/hwgw@1.2.3-Beryllium-SR2?classifier=sources

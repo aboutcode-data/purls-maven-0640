@@ -30,3 +30,9 @@
 - pkg:maven/org.webjars.npm/scheduler@0.14.0-alpha.0
 - pkg:maven/org.webjars.npm/scheduler@0.14.0-alpha.0?classifier=sources
 - pkg:maven/org.webjars.npm/scheduler@0.14.0?classifier=sources
+- pkg:maven/org.webjars.npm/scheduler@0.15.0
+- pkg:maven/org.webjars.npm/scheduler@0.15.0?classifier=sources
+- pkg:maven/org.webjars.npm/scheduler@0.16.0
+- pkg:maven/org.webjars.npm/scheduler@0.16.0?classifier=sources
+- pkg:maven/org.webjars.npm/scheduler@0.16.2
+- pkg:maven/org.webjars.npm/scheduler@0.16.2?classifier=sources

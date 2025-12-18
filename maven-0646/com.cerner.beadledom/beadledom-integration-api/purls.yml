@@ -1,0 +1,2 @@
+- pkg:maven/com.cerner.beadledom/beadledom-integration-api@3.3
+- pkg:maven/com.cerner.beadledom/beadledom-integration-api@3.3?classifier=sources

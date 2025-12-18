@@ -8,3 +8,7 @@
 - pkg:maven/com.devonfw.java.modules/devon4j-jpa-dao@3.0.2?classifier=sources
 - pkg:maven/com.devonfw.java.modules/devon4j-jpa-dao@3.1.0
 - pkg:maven/com.devonfw.java.modules/devon4j-jpa-dao@3.1.0?classifier=sources
+- pkg:maven/com.devonfw.java.modules/devon4j-jpa-dao@3.1.1
+- pkg:maven/com.devonfw.java.modules/devon4j-jpa-dao@3.1.1?classifier=sources
+- pkg:maven/com.devonfw.java.modules/devon4j-jpa-dao@3.2.0
+- pkg:maven/com.devonfw.java.modules/devon4j-jpa-dao@3.2.0?classifier=sources

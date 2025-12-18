@@ -1,0 +1,4 @@
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.13@3.1.0
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.13@3.1.0-publishsonatype.a3d5a1d
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.13@3.1.0-publishsonatype.a3d5a1d?classifier=sources
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.13@3.1.0?classifier=sources

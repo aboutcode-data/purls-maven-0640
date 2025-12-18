@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.team.genericeditor.diff.extension@1.0.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.team.genericeditor.diff.extension@1.0.300
 - pkg:maven/org.eclipse.platform/org.eclipse.team.genericeditor.diff.extension@1.0.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.team.genericeditor.diff.extension@1.0.400
+- pkg:maven/org.eclipse.platform/org.eclipse.team.genericeditor.diff.extension@1.0.400?classifier=sources

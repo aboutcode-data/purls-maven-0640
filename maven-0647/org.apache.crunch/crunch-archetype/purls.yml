@@ -24,3 +24,4 @@
 - pkg:maven/org.apache.crunch/crunch-archetype@0.8.4?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-archetype@0.9.0-hadoop2?classifier=sources
 - pkg:maven/org.apache.crunch/crunch-archetype@0.9.0?classifier=sources
+- pkg:maven/org.apache.crunch/crunch-archetype@1.0.0?classifier=sources

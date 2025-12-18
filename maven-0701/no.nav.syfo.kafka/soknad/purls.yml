@@ -1,0 +1,10 @@
+- pkg:maven/no.nav.syfo.kafka/soknad@191a7a91c115dab0038a7063be52dfae34f76c3a
+- pkg:maven/no.nav.syfo.kafka/soknad@191a7a91c115dab0038a7063be52dfae34f76c3a?classifier=sources
+- pkg:maven/no.nav.syfo.kafka/soknad@406d24a7c97f510d5a49b379f0e172afc75a26fe
+- pkg:maven/no.nav.syfo.kafka/soknad@406d24a7c97f510d5a49b379f0e172afc75a26fe?classifier=sources
+- pkg:maven/no.nav.syfo.kafka/soknad@73f2313563ece69d207aeb397e099a826c560009
+- pkg:maven/no.nav.syfo.kafka/soknad@73f2313563ece69d207aeb397e099a826c560009?classifier=sources
+- pkg:maven/no.nav.syfo.kafka/soknad@bd56c603c1c1ef9e6a45920925c5049015b47dfb
+- pkg:maven/no.nav.syfo.kafka/soknad@bd56c603c1c1ef9e6a45920925c5049015b47dfb?classifier=sources
+- pkg:maven/no.nav.syfo.kafka/soknad@f69bf986a6970bd49262e3b82c303272e72e0168
+- pkg:maven/no.nav.syfo.kafka/soknad@f69bf986a6970bd49262e3b82c303272e72e0168?classifier=sources

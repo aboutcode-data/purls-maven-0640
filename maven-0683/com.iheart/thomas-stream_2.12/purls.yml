@@ -1,0 +1,4 @@
+- pkg:maven/com.iheart/thomas-stream_2.12@0.39
+- pkg:maven/com.iheart/thomas-stream_2.12@0.39?classifier=sources
+- pkg:maven/com.iheart/thomas-stream_2.12@0.40
+- pkg:maven/com.iheart/thomas-stream_2.12@0.40?classifier=sources

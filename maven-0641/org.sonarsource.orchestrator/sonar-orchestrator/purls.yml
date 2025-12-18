@@ -40,6 +40,8 @@
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator@3.25.0.2094?classifier=sources
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator@3.26.0.2111
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator@3.26.0.2111?classifier=sources
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator@3.27.0.2172
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator@3.27.0.2172?classifier=sources
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator@3.4.1
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator@3.4.1?classifier=sources
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator@3.5

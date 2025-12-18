@@ -1,0 +1,2 @@
+- pkg:maven/edu.umn.minitex.pdf/edu.umn.minitex.pdf.pdfviewer@0.1.0?classifier=sources
+- pkg:maven/edu.umn.minitex.pdf/edu.umn.minitex.pdf.pdfviewer@0.1.0?type=aar

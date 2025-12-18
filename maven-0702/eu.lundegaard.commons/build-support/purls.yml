@@ -1,0 +1,2 @@
+- pkg:maven/eu.lundegaard.commons/build-support@1.2.0
+- pkg:maven/eu.lundegaard.commons/build-support@1.2.0?classifier=sources

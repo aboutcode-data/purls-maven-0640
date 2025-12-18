@@ -28,6 +28,16 @@
 - pkg:maven/org.jbpm.contrib/repository-springboot@7.23.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-springboot@7.24.0.Final
 - pkg:maven/org.jbpm.contrib/repository-springboot@7.24.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.25.0.Final
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.25.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.26.0.Final
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.26.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.27.0.Final
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.27.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.28.0.Final
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.28.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.29.0.Final
+- pkg:maven/org.jbpm.contrib/repository-springboot@7.29.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-springboot@7.8.0.Final
 - pkg:maven/org.jbpm.contrib/repository-springboot@7.8.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/repository-springboot@7.9.0.Final

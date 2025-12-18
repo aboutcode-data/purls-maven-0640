@@ -1,4 +1,6 @@
 - pkg:maven/org.apache.kudu/kudu-test-utils@1.10.0
 - pkg:maven/org.apache.kudu/kudu-test-utils@1.10.0?classifier=sources
+- pkg:maven/org.apache.kudu/kudu-test-utils@1.11.0
+- pkg:maven/org.apache.kudu/kudu-test-utils@1.11.0?classifier=sources
 - pkg:maven/org.apache.kudu/kudu-test-utils@1.9.0
 - pkg:maven/org.apache.kudu/kudu-test-utils@1.9.0?classifier=sources

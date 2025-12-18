@@ -1,3 +1,11 @@
+- pkg:maven/com.wavefront/java-lib@2019-09.0
+- pkg:maven/com.wavefront/java-lib@2019-09.0?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2019-09.1
+- pkg:maven/com.wavefront/java-lib@2019-09.1?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2019-09.2
+- pkg:maven/com.wavefront/java-lib@2019-09.2?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2019-11.1
+- pkg:maven/com.wavefront/java-lib@2019-11.1?classifier=sources
 - pkg:maven/com.wavefront/java-lib@3.0
 - pkg:maven/com.wavefront/java-lib@3.0?classifier=sources
 - pkg:maven/com.wavefront/java-lib@3.1

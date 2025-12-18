@@ -1,0 +1,4 @@
+- pkg:maven/com.github.acsgh.spark.scala.converter.template/twirl_2.13@1.0.12
+- pkg:maven/com.github.acsgh.spark.scala.converter.template/twirl_2.13@1.0.12?classifier=sources
+- pkg:maven/com.github.acsgh.spark.scala.converter.template/twirl_2.13@1.1.0
+- pkg:maven/com.github.acsgh.spark.scala.converter.template/twirl_2.13@1.1.0?classifier=sources

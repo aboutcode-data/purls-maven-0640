@@ -1,2 +1,8 @@
 - pkg:maven/no.nav.fpsak.tidsserie/fpsak-tidsserie@2.0_20180831125757_006dad2
 - pkg:maven/no.nav.fpsak.tidsserie/fpsak-tidsserie@2.0_20180831125757_006dad2?classifier=sources
+- pkg:maven/no.nav.fpsak.tidsserie/fpsak-tidsserie@2.0_20190920104957_9cddd73
+- pkg:maven/no.nav.fpsak.tidsserie/fpsak-tidsserie@2.0_20190920104957_9cddd73?classifier=sources
+- pkg:maven/no.nav.fpsak.tidsserie/fpsak-tidsserie@2.0_20190923165807_724ef90
+- pkg:maven/no.nav.fpsak.tidsserie/fpsak-tidsserie@2.0_20190923165807_724ef90?classifier=sources
+- pkg:maven/no.nav.fpsak.tidsserie/fpsak-tidsserie@2.0_20190930103859_50bda41
+- pkg:maven/no.nav.fpsak.tidsserie/fpsak-tidsserie@2.0_20190930103859_50bda41?classifier=sources

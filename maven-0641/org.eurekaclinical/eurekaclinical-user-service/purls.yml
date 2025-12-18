@@ -66,3 +66,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-service@2.0-Alpha-2?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-service@2.0?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-service@2.0?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-service@2.2?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-service@2.2?type=war

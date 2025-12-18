@@ -24,3 +24,17 @@
 - pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC2?classifier=sources
 - pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC3
 - pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC3?classifier=sources
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC4
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC4?classifier=sources
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC5-3
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC5-3?classifier=sources
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC5-4
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC5-4?classifier=sources
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC6
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC6?classifier=sources
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC7
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC7?classifier=sources
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC8
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC8?classifier=sources
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC9
+- pkg:maven/dev.zio/zio-interop-monix_sjs0.6_2.11@3.0.0.0-RC9?classifier=sources

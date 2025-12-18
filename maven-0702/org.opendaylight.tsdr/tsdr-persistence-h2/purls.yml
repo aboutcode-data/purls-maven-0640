@@ -1,0 +1,7 @@
+- pkg:maven/org.opendaylight.tsdr/tsdr-persistence-h2@1.0-Lithium
+- pkg:maven/org.opendaylight.tsdr/tsdr-persistence-h2@1.0.1-Lithium-SR1
+- pkg:maven/org.opendaylight.tsdr/tsdr-persistence-h2@1.0.1-Lithium-SR1?classifier=sources
+- pkg:maven/org.opendaylight.tsdr/tsdr-persistence-h2@1.0.2-Lithium-SR2
+- pkg:maven/org.opendaylight.tsdr/tsdr-persistence-h2@1.0.2-Lithium-SR2?classifier=sources
+- pkg:maven/org.opendaylight.tsdr/tsdr-persistence-h2@1.0.3-Lithium-SR3
+- pkg:maven/org.opendaylight.tsdr/tsdr-persistence-h2@1.0.3-Lithium-SR3?classifier=sources

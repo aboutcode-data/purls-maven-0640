@@ -1,0 +1,4 @@
+- pkg:maven/com.dragishak/monocle-cats_2.13@1.3
+- pkg:maven/com.dragishak/monocle-cats_2.13@1.3-RC1
+- pkg:maven/com.dragishak/monocle-cats_2.13@1.3-RC1?classifier=sources
+- pkg:maven/com.dragishak/monocle-cats_2.13@1.3?classifier=sources

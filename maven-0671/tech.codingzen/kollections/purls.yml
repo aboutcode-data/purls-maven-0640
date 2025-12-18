@@ -1,0 +1,2 @@
+- pkg:maven/tech.codingzen/kollections@1.0.0
+- pkg:maven/tech.codingzen/kollections@1.0.0?classifier=sources

@@ -23,3 +23,5 @@
 - pkg:maven/net.java.dev.javacc/javacc@7.0.3?classifier=sources
 - pkg:maven/net.java.dev.javacc/javacc@7.0.4
 - pkg:maven/net.java.dev.javacc/javacc@7.0.4?classifier=sources
+- pkg:maven/net.java.dev.javacc/javacc@7.0.5
+- pkg:maven/net.java.dev.javacc/javacc@7.0.5?classifier=sources

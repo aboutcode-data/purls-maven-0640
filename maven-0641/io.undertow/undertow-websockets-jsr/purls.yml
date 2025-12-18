@@ -410,6 +410,8 @@
 - pkg:maven/io.undertow/undertow-websockets-jsr@1.4.26.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-websockets-jsr@1.4.27.Final
 - pkg:maven/io.undertow/undertow-websockets-jsr@1.4.27.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-websockets-jsr@1.4.28.Final
+- pkg:maven/io.undertow/undertow-websockets-jsr@1.4.28.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-websockets-jsr@1.4.3.Final
 - pkg:maven/io.undertow/undertow-websockets-jsr@1.4.3.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-websockets-jsr@1.4.4.Final
@@ -460,6 +462,16 @@
 - pkg:maven/io.undertow/undertow-websockets-jsr@2.0.21.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-websockets-jsr@2.0.22.Final
 - pkg:maven/io.undertow/undertow-websockets-jsr@2.0.22.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.23.Final
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.23.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.24.Final
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.24.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.25.Final
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.25.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.26.Final
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.26.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.27.Final
+- pkg:maven/io.undertow/undertow-websockets-jsr@2.0.27.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-websockets-jsr@2.0.3.Final
 - pkg:maven/io.undertow/undertow-websockets-jsr@2.0.3.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-websockets-jsr@2.0.4.Final

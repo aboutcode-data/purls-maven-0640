@@ -1,0 +1,4 @@
+- pkg:maven/com.cognitect.aws/lakeformation@741.2.507.0
+- pkg:maven/com.cognitect.aws/lakeformation@741.2.507.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lakeformation@746.2.533.0
+- pkg:maven/com.cognitect.aws/lakeformation@746.2.533.0?classifier=sources

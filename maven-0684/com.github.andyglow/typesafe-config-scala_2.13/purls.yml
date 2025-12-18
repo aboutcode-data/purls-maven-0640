@@ -1,0 +1,2 @@
+- pkg:maven/com.github.andyglow/typesafe-config-scala_2.13@1.0.1
+- pkg:maven/com.github.andyglow/typesafe-config-scala_2.13@1.0.1?classifier=sources

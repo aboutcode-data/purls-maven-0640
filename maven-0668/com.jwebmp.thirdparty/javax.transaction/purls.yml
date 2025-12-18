@@ -10,3 +10,5 @@
 - pkg:maven/com.jwebmp.thirdparty/javax.transaction@0.67.0.7?classifier=sources
 - pkg:maven/com.jwebmp.thirdparty/javax.transaction@0.67.0.9
 - pkg:maven/com.jwebmp.thirdparty/javax.transaction@0.67.0.9?classifier=sources
+- pkg:maven/com.jwebmp.thirdparty/javax.transaction@0.68.0.1
+- pkg:maven/com.jwebmp.thirdparty/javax.transaction@0.68.0.1?classifier=sources

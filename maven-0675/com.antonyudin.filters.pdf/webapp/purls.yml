@@ -1,0 +1,2 @@
+- pkg:maven/com.antonyudin.filters.pdf/webapp@1.0?classifier=sources
+- pkg:maven/com.antonyudin.filters.pdf/webapp@1.0?type=war

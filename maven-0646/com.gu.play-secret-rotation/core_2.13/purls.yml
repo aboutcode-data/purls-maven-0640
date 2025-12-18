@@ -1,0 +1,2 @@
+- pkg:maven/com.gu.play-secret-rotation/core_2.13@0.17
+- pkg:maven/com.gu.play-secret-rotation/core_2.13@0.17?classifier=sources

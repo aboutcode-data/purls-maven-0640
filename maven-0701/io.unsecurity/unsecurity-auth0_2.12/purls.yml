@@ -10,3 +10,13 @@
 - pkg:maven/io.unsecurity/unsecurity-auth0_2.12@0.25?classifier=sources
 - pkg:maven/io.unsecurity/unsecurity-auth0_2.12@0.26
 - pkg:maven/io.unsecurity/unsecurity-auth0_2.12@0.26?classifier=sources
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@0.27
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@0.27-M1
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@0.27-M1?classifier=sources
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@0.27?classifier=sources
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@0.28-M1
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@0.28-M1?classifier=sources
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@1.0
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@1.0?classifier=sources
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@2.0-M1
+- pkg:maven/io.unsecurity/unsecurity-auth0_2.12@2.0-M1?classifier=sources

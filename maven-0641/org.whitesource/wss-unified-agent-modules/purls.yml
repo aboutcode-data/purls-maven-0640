@@ -18,3 +18,5 @@
 - pkg:maven/org.whitesource/wss-unified-agent-modules@19.5.3.1?classifier=sources
 - pkg:maven/org.whitesource/wss-unified-agent-modules@19.6.1
 - pkg:maven/org.whitesource/wss-unified-agent-modules@19.6.1?classifier=sources
+- pkg:maven/org.whitesource/wss-unified-agent-modules@19.7.3
+- pkg:maven/org.whitesource/wss-unified-agent-modules@19.7.3?classifier=sources

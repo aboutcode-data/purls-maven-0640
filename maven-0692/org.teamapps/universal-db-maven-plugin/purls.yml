@@ -1,0 +1,2 @@
+- pkg:maven/org.teamapps/universal-db-maven-plugin@1.2
+- pkg:maven/org.teamapps/universal-db-maven-plugin@1.2?classifier=sources

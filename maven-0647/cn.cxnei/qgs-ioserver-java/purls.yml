@@ -1,0 +1,2 @@
+- pkg:maven/cn.cxnei/qgs-ioserver-java@1.2.5
+- pkg:maven/cn.cxnei/qgs-ioserver-java@1.2.5?classifier=sources

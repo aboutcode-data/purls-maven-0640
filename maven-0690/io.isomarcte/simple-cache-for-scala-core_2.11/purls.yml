@@ -2,3 +2,5 @@
 - pkg:maven/io.isomarcte/simple-cache-for-scala-core_2.11@0.0.14?classifier=sources
 - pkg:maven/io.isomarcte/simple-cache-for-scala-core_2.11@0.0.15
 - pkg:maven/io.isomarcte/simple-cache-for-scala-core_2.11@0.0.15?classifier=sources
+- pkg:maven/io.isomarcte/simple-cache-for-scala-core_2.11@1.0.0
+- pkg:maven/io.isomarcte/simple-cache-for-scala-core_2.11@1.0.0?classifier=sources

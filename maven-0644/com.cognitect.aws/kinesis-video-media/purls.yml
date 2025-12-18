@@ -6,3 +6,5 @@
 - pkg:maven/com.cognitect.aws/kinesis-video-media@707.2.408.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kinesis-video-media@726.2.480.0
 - pkg:maven/com.cognitect.aws/kinesis-video-media@726.2.480.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kinesis-video-media@746.2.533.0
+- pkg:maven/com.cognitect.aws/kinesis-video-media@746.2.533.0?classifier=sources

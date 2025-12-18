@@ -38,3 +38,5 @@
 - pkg:maven/de.sciss/fscape-macros_2.11@2.26.2?classifier=sources
 - pkg:maven/de.sciss/fscape-macros_2.11@2.27.0
 - pkg:maven/de.sciss/fscape-macros_2.11@2.27.0?classifier=sources
+- pkg:maven/de.sciss/fscape-macros_2.11@2.28.0
+- pkg:maven/de.sciss/fscape-macros_2.11@2.28.0?classifier=sources

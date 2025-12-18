@@ -36,6 +36,10 @@
 - pkg:maven/com.floragunn/dlic-search-guard-rest-api@5.3-6?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-rest-api@5.3-7
 - pkg:maven/com.floragunn/dlic-search-guard-rest-api@5.3-7?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-rest-api@5.3-9s
+- pkg:maven/com.floragunn/dlic-search-guard-rest-api@5.3-9s-withjackson
+- pkg:maven/com.floragunn/dlic-search-guard-rest-api@5.3-9s-withjackson?classifier=sources
+- pkg:maven/com.floragunn/dlic-search-guard-rest-api@5.3-9s?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-rest-api@6.0-20.0
 - pkg:maven/com.floragunn/dlic-search-guard-rest-api@6.0-20.0?classifier=sources
 - pkg:maven/com.floragunn/dlic-search-guard-rest-api@6.0-7.beta1

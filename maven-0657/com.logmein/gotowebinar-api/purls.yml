@@ -10,3 +10,5 @@
 - pkg:maven/com.logmein/gotowebinar-api@2.1.0?classifier=sources
 - pkg:maven/com.logmein/gotowebinar-api@2.1.1
 - pkg:maven/com.logmein/gotowebinar-api@2.1.1?classifier=sources
+- pkg:maven/com.logmein/gotowebinar-api@2.3.0
+- pkg:maven/com.logmein/gotowebinar-api@2.3.0?classifier=sources

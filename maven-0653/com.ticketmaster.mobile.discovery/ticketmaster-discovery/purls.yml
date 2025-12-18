@@ -1,0 +1,2 @@
+- pkg:maven/com.ticketmaster.mobile.discovery/ticketmaster-discovery@0.0.2.13?classifier=sources
+- pkg:maven/com.ticketmaster.mobile.discovery/ticketmaster-discovery@0.0.2.13?type=aar

@@ -1,3 +1,5 @@
+- pkg:maven/org.wso2.analytics.is/org.wso2.carbon.analytics.is.parent@5.10.0-m1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.analytics.is/org.wso2.carbon.analytics.is.parent@5.10.0-m2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.is/org.wso2.carbon.analytics.is.parent@5.7.0-beta2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.is/org.wso2.carbon.analytics.is.parent@5.7.0-beta3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.analytics.is/org.wso2.carbon.analytics.is.parent@5.7.0-beta4?classifier=source-release&type=zip

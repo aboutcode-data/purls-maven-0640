@@ -12,3 +12,5 @@
 - pkg:maven/com.roscopeco.moxy/moxy-junit5@0.92.2
 - pkg:maven/com.roscopeco.moxy/moxy-junit5@0.92.2?classifier=sources
 - pkg:maven/com.roscopeco.moxy/moxy-junit5@0.92?classifier=sources
+- pkg:maven/com.roscopeco.moxy/moxy-junit5@0.94.0
+- pkg:maven/com.roscopeco.moxy/moxy-junit5@0.94.0?classifier=sources

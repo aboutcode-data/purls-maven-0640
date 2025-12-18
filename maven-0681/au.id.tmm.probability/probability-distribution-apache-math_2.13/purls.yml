@@ -1,0 +1,4 @@
+- pkg:maven/au.id.tmm.probability/probability-distribution-apache-math_2.13@0.0.4
+- pkg:maven/au.id.tmm.probability/probability-distribution-apache-math_2.13@0.0.4?classifier=sources
+- pkg:maven/au.id.tmm.probability/probability-distribution-apache-math_2.13@0.1.0
+- pkg:maven/au.id.tmm.probability/probability-distribution-apache-math_2.13@0.1.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/findup-sync@0.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/findup-sync@2.0.0
 - pkg:maven/org.webjars.npm/findup-sync@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/findup-sync@3.0.0
+- pkg:maven/org.webjars.npm/findup-sync@3.0.0?classifier=sources

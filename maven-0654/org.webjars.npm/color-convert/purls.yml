@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/color-convert@1.9.2?classifier=sources
 - pkg:maven/org.webjars.npm/color-convert@1.9.3
 - pkg:maven/org.webjars.npm/color-convert@1.9.3?classifier=sources
+- pkg:maven/org.webjars.npm/color-convert@2.0.1
+- pkg:maven/org.webjars.npm/color-convert@2.0.1?classifier=sources

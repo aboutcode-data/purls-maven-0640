@@ -1,0 +1,2 @@
+- pkg:maven/fr.ggaly/cowsay4s-asciimojis_2.13@0.2.3
+- pkg:maven/fr.ggaly/cowsay4s-asciimojis_2.13@0.2.3?classifier=sources

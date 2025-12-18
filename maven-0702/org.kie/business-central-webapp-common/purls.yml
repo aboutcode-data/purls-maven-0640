@@ -18,3 +18,13 @@
 - pkg:maven/org.kie/business-central-webapp-common@7.23.0.Final?type=war
 - pkg:maven/org.kie/business-central-webapp-common@7.24.0.Final?classifier=sources
 - pkg:maven/org.kie/business-central-webapp-common@7.24.0.Final?type=war
+- pkg:maven/org.kie/business-central-webapp-common@7.25.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-webapp-common@7.25.0.Final?type=war
+- pkg:maven/org.kie/business-central-webapp-common@7.26.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-webapp-common@7.26.0.Final?type=war
+- pkg:maven/org.kie/business-central-webapp-common@7.27.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-webapp-common@7.27.0.Final?type=war
+- pkg:maven/org.kie/business-central-webapp-common@7.28.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-webapp-common@7.28.0.Final?type=war
+- pkg:maven/org.kie/business-central-webapp-common@7.29.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-webapp-common@7.29.0.Final?type=war

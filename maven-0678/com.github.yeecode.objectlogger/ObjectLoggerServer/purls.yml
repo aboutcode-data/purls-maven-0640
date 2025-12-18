@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yeecode.objectlogger/ObjectLoggerServer@3.0.1
+- pkg:maven/com.github.yeecode.objectlogger/ObjectLoggerServer@3.0.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.gitlab.siege-insights/r6tab-java-api-client@0.4-alpha?classifier=sources
 - pkg:maven/com.gitlab.siege-insights/r6tab-java-api-client@0.6-alpha
 - pkg:maven/com.gitlab.siege-insights/r6tab-java-api-client@0.6-alpha?classifier=sources
+- pkg:maven/com.gitlab.siege-insights/r6tab-java-api-client@0.7-alpha
+- pkg:maven/com.gitlab.siege-insights/r6tab-java-api-client@0.7-alpha?classifier=sources

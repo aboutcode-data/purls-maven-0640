@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zj-dreamly/dreamly-starter-develop@0.0.2
+- pkg:maven/com.github.zj-dreamly/dreamly-starter-develop@0.0.2?classifier=sources

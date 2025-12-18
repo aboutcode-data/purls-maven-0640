@@ -1,0 +1,2 @@
+- pkg:maven/io.siddhi.extension.io.hl7/siddhi-io-hl7@3.0.0
+- pkg:maven/io.siddhi.extension.io.hl7/siddhi-io-hl7@3.0.0?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/org.apache.oodt/radix-archetype@1.2.4?classifier=sources
 - pkg:maven/org.apache.oodt/radix-archetype@1.2.5?classifier=sources
 - pkg:maven/org.apache.oodt/radix-archetype@1.2?classifier=sources
+- pkg:maven/org.apache.oodt/radix-archetype@1.9?classifier=sources

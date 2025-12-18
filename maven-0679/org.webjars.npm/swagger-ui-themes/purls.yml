@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/swagger-ui-themes@2.0.0
+- pkg:maven/org.webjars.npm/swagger-ui-themes@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-ui-themes@3.0.0
 - pkg:maven/org.webjars.npm/swagger-ui-themes@3.0.0?classifier=sources

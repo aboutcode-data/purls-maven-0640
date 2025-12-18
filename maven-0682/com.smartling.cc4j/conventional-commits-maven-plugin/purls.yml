@@ -1,0 +1,6 @@
+- pkg:maven/com.smartling.cc4j/conventional-commits-maven-plugin@0.0.11
+- pkg:maven/com.smartling.cc4j/conventional-commits-maven-plugin@0.0.11?classifier=sources
+- pkg:maven/com.smartling.cc4j/conventional-commits-maven-plugin@0.1.0
+- pkg:maven/com.smartling.cc4j/conventional-commits-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/com.smartling.cc4j/conventional-commits-maven-plugin@0.1.2
+- pkg:maven/com.smartling.cc4j/conventional-commits-maven-plugin@0.1.2?classifier=sources

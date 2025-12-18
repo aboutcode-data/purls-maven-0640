@@ -14,6 +14,8 @@
 - pkg:maven/org.webjars.npm/serve-static@1.13.1?classifier=sources
 - pkg:maven/org.webjars.npm/serve-static@1.13.2
 - pkg:maven/org.webjars.npm/serve-static@1.13.2?classifier=sources
+- pkg:maven/org.webjars.npm/serve-static@1.14.1
+- pkg:maven/org.webjars.npm/serve-static@1.14.1?classifier=sources
 - pkg:maven/org.webjars.npm/serve-static@1.8.1
 - pkg:maven/org.webjars.npm/serve-static@1.8.1?classifier=sources
 - pkg:maven/org.webjars.npm/serve-static@1.9.3

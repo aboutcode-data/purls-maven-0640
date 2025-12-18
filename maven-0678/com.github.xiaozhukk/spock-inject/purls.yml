@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xiaozhukk/spock-inject@1.0.0
+- pkg:maven/com.github.xiaozhukk/spock-inject@1.0.0?classifier=sources

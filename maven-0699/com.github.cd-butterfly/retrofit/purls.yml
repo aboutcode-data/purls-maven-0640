@@ -6,3 +6,5 @@
 - pkg:maven/com.github.cd-butterfly/retrofit@1.0.2?type=aar
 - pkg:maven/com.github.cd-butterfly/retrofit@1.0.3?classifier=sources
 - pkg:maven/com.github.cd-butterfly/retrofit@1.0.3?type=aar
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.6?classifier=sources
+- pkg:maven/com.github.cd-butterfly/retrofit@1.0.6?type=aar

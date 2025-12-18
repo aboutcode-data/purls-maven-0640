@@ -1,2 +1,4 @@
 - pkg:maven/org.everit.authnr/org.everit.authnr.permissionchecker.ri.ecm@1.0.0
 - pkg:maven/org.everit.authnr/org.everit.authnr.permissionchecker.ri.ecm@1.0.0?classifier=sources
+- pkg:maven/org.everit.authnr/org.everit.authnr.permissionchecker.ri.ecm@2.0.0
+- pkg:maven/org.everit.authnr/org.everit.authnr.permissionchecker.ri.ecm@2.0.0?classifier=sources

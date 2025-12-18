@@ -1,1 +1,3 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE112?classifier=sources

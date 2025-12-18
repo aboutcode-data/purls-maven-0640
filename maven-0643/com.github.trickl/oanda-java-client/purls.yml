@@ -1,0 +1,6 @@
+- pkg:maven/com.github.trickl/oanda-java-client@untagged-7743fd31efeac462478d
+- pkg:maven/com.github.trickl/oanda-java-client@untagged-7743fd31efeac462478d?classifier=sources
+- pkg:maven/com.github.trickl/oanda-java-client@untagged-867bf76699172a4283a1
+- pkg:maven/com.github.trickl/oanda-java-client@untagged-867bf76699172a4283a1?classifier=sources
+- pkg:maven/com.github.trickl/oanda-java-client@untagged-86cbae0f213e47373f54
+- pkg:maven/com.github.trickl/oanda-java-client@untagged-86cbae0f213e47373f54?classifier=sources
