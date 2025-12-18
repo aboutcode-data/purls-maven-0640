@@ -1,2 +1,4 @@
 - pkg:maven/org.piax/piax-gtrans@3.1.0
 - pkg:maven/org.piax/piax-gtrans@3.1.0?classifier=sources
+- pkg:maven/org.piax/piax-gtrans@4.0
+- pkg:maven/org.piax/piax-gtrans@4.0?classifier=sources

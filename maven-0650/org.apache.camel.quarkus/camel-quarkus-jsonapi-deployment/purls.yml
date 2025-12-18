@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonapi-deployment@1.7.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonapi-deployment@1.8.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonapi-deployment@1.8.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonapi-deployment@1.8.1
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-jsonapi-deployment@1.8.1?classifier=sources

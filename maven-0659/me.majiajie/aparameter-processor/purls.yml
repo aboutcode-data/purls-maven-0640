@@ -1,0 +1,2 @@
+- pkg:maven/me.majiajie/aparameter-processor@1.0.0?classifier=sources
+- pkg:maven/me.majiajie/aparameter-processor@1.0.1?classifier=sources

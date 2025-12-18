@@ -40,3 +40,7 @@
 - pkg:maven/com.sun.xml.bind/jaxb-core@3.0.0-M5
 - pkg:maven/com.sun.xml.bind/jaxb-core@3.0.0-M5?classifier=sources
 - pkg:maven/com.sun.xml.bind/jaxb-core@3.0.0?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-core@3.0.1
+- pkg:maven/com.sun.xml.bind/jaxb-core@3.0.1?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-core@3.0.2-b01
+- pkg:maven/com.sun.xml.bind/jaxb-core@3.0.2-b01?classifier=sources

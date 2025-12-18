@@ -6,3 +6,9 @@
 - pkg:maven/io.trino/trino-testing@353?classifier=sources
 - pkg:maven/io.trino/trino-testing@354
 - pkg:maven/io.trino/trino-testing@354?classifier=sources
+- pkg:maven/io.trino/trino-testing@355
+- pkg:maven/io.trino/trino-testing@355?classifier=sources
+- pkg:maven/io.trino/trino-testing@356
+- pkg:maven/io.trino/trino-testing@356?classifier=sources
+- pkg:maven/io.trino/trino-testing@357
+- pkg:maven/io.trino/trino-testing@357?classifier=sources

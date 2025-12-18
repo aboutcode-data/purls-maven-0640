@@ -50,3 +50,5 @@
 - pkg:maven/edu.gemini/gsp-graphql-circe_2.13@0.0.43?classifier=sources
 - pkg:maven/edu.gemini/gsp-graphql-circe_2.13@0.0.44
 - pkg:maven/edu.gemini/gsp-graphql-circe_2.13@0.0.44?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-circe_2.13@0.0.45
+- pkg:maven/edu.gemini/gsp-graphql-circe_2.13@0.0.45?classifier=sources

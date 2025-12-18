@@ -1,0 +1,2 @@
+- pkg:maven/com.hb0730/commons-scm@2.1.2-RELEASE
+- pkg:maven/com.hb0730/commons-scm@2.1.2-RELEASE?classifier=sources

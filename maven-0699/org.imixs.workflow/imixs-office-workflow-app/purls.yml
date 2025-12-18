@@ -8,3 +8,7 @@
 - pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.3?type=war
 - pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.4?classifier=sources
 - pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.4?type=war
+- pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.5?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.5?type=war
+- pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.6?classifier=sources
+- pkg:maven/org.imixs.workflow/imixs-office-workflow-app@4.4.6?type=war

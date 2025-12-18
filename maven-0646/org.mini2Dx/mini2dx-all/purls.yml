@@ -30,3 +30,9 @@
 - pkg:maven/org.mini2Dx/mini2dx-all@2.0.0-alpha.47?classifier=sources
 - pkg:maven/org.mini2Dx/mini2dx-all@2.0.0-alpha.48
 - pkg:maven/org.mini2Dx/mini2dx-all@2.0.0-alpha.48?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-all@2.0.0-alpha.49
+- pkg:maven/org.mini2Dx/mini2dx-all@2.0.0-alpha.49?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-all@2.0.0-alpha.50
+- pkg:maven/org.mini2Dx/mini2dx-all@2.0.0-alpha.50?classifier=sources
+- pkg:maven/org.mini2Dx/mini2dx-all@2.0.0-alpha.51
+- pkg:maven/org.mini2Dx/mini2dx-all@2.0.0-alpha.51?classifier=sources

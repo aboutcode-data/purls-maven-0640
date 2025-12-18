@@ -1,0 +1,2 @@
+- pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@2.6.3?classifier=sources
+- pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@2.6.3?type=aar

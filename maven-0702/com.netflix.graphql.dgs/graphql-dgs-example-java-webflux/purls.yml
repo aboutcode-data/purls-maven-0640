@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-example-java-webflux@4.0.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-example-java-webflux@4.0.1?classifier=sources

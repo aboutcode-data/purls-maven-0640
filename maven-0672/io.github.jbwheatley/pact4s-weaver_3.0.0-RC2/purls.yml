@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jbwheatley/pact4s-weaver_3.0.0-RC2@0.0.1
+- pkg:maven/io.github.jbwheatley/pact4s-weaver_3.0.0-RC2@0.0.1?classifier=sources

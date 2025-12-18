@@ -1,0 +1,4 @@
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@4.0.2_for_spark_2.4
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@4.0.2_for_spark_2.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@4.0.2_for_spark_3
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@4.0.2_for_spark_3?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@8.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@9.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@9.0?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@9.1
+- pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@9.1?classifier=sources

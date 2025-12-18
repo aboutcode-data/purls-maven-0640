@@ -1,0 +1,2 @@
+- pkg:maven/com.brandongogetap/stickyheaders@0.6.2?classifier=sources
+- pkg:maven/com.brandongogetap/stickyheaders@0.6.2?type=aar

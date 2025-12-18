@@ -4,3 +4,5 @@
 - pkg:maven/cn.itlym/shoulder-starter-auth-server@0.4?classifier=sources
 - pkg:maven/cn.itlym/shoulder-starter-auth-server@0.5
 - pkg:maven/cn.itlym/shoulder-starter-auth-server@0.5?classifier=sources
+- pkg:maven/cn.itlym/shoulder-starter-auth-server@0.6
+- pkg:maven/cn.itlym/shoulder-starter-auth-server@0.6?classifier=sources

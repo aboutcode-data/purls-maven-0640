@@ -4,3 +4,5 @@
 - pkg:maven/ch.epfl.scala/scalafix-cli_2.12.13@0.9.26?classifier=sources
 - pkg:maven/ch.epfl.scala/scalafix-cli_2.12.13@0.9.27
 - pkg:maven/ch.epfl.scala/scalafix-cli_2.12.13@0.9.27?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-cli_2.12.13@0.9.28
+- pkg:maven/ch.epfl.scala/scalafix-cli_2.12.13@0.9.28?classifier=sources

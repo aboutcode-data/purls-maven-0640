@@ -8,3 +8,9 @@
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.common-jvm@0.4.31?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.common-jvm@0.4.32?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.pagination.ktor.common-jvm@0.4.33?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.common-jvm@0.4.34?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.common-jvm@0.4.35?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.common-jvm@0.4.36?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.common-jvm@0.5.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.common-jvm@0.5.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.pagination.ktor.common-jvm@0.5.2?classifier=sources

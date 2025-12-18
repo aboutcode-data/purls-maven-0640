@@ -1,0 +1,4 @@
+- pkg:maven/net.guerlab.sms/guerlab-sms-qcloud-v3-starter@1.10.0
+- pkg:maven/net.guerlab.sms/guerlab-sms-qcloud-v3-starter@1.10.0?classifier=sources
+- pkg:maven/net.guerlab.sms/guerlab-sms-qcloud-v3-starter@1.11.0
+- pkg:maven/net.guerlab.sms/guerlab-sms-qcloud-v3-starter@1.11.0?classifier=sources

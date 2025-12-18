@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lzj960515/easy-mock-core@0.0.1
+- pkg:maven/com.github.lzj960515/easy-mock-core@0.0.1?classifier=sources

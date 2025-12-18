@@ -62,3 +62,5 @@
 - pkg:maven/com.mparticle/java-sdk@2.4.0?classifier=sources
 - pkg:maven/com.mparticle/java-sdk@2.5.0
 - pkg:maven/com.mparticle/java-sdk@2.5.0?classifier=sources
+- pkg:maven/com.mparticle/java-sdk@2.6.0
+- pkg:maven/com.mparticle/java-sdk@2.6.0?classifier=sources

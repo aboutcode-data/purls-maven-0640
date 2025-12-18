@@ -1,2 +1,6 @@
 - pkg:maven/cloud.piranha.pages/piranha-pages-wasp-tests@21.1.0
 - pkg:maven/cloud.piranha.pages/piranha-pages-wasp-tests@21.1.0?classifier=sources
+- pkg:maven/cloud.piranha.pages/piranha-pages-wasp-tests@21.4.0
+- pkg:maven/cloud.piranha.pages/piranha-pages-wasp-tests@21.4.0?classifier=sources
+- pkg:maven/cloud.piranha.pages/piranha-pages-wasp-tests@21.5.0
+- pkg:maven/cloud.piranha.pages/piranha-pages-wasp-tests@21.5.0?classifier=sources

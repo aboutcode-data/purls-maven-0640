@@ -112,3 +112,7 @@
 - pkg:maven/com.j256.ormlite/ormlite-android@5.2?classifier=sources
 - pkg:maven/com.j256.ormlite/ormlite-android@5.3
 - pkg:maven/com.j256.ormlite/ormlite-android@5.3?classifier=sources
+- pkg:maven/com.j256.ormlite/ormlite-android@5.4
+- pkg:maven/com.j256.ormlite/ormlite-android@5.4?classifier=sources
+- pkg:maven/com.j256.ormlite/ormlite-android@5.5
+- pkg:maven/com.j256.ormlite/ormlite-android@5.5?classifier=sources

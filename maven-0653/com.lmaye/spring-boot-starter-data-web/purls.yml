@@ -1,0 +1,4 @@
+- pkg:maven/com.lmaye/spring-boot-starter-data-web@1.0.11-RELEASE
+- pkg:maven/com.lmaye/spring-boot-starter-data-web@1.0.11-RELEASE?classifier=sources
+- pkg:maven/com.lmaye/spring-boot-starter-data-web@1.0.12-RELEASE
+- pkg:maven/com.lmaye/spring-boot-starter-data-web@1.0.12-RELEASE?classifier=sources

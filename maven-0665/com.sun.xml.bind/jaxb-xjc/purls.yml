@@ -221,6 +221,8 @@
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@2.3.3-b02
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@2.3.3-b02?classifier=sources
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@2.3.3?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@2.3.4
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@2.3.4?classifier=sources
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@2.4.0-b180725.0644
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@2.4.0-b180725.0644?classifier=sources
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@2.4.0-b180830.0438
@@ -237,3 +239,7 @@
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@3.0.0-M5
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@3.0.0-M5?classifier=sources
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@3.0.0?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@3.0.1
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@3.0.1?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@3.0.2-b01
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@3.0.2-b01?classifier=sources

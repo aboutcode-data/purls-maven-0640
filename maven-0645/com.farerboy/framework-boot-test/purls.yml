@@ -1,0 +1,2 @@
+- pkg:maven/com.farerboy/framework-boot-test@0.0.10
+- pkg:maven/com.farerboy/framework-boot-test@0.0.10?classifier=sources

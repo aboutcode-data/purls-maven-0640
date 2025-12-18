@@ -1,0 +1,4 @@
+- pkg:maven/in.hocg.boot/test-spring-boot-autoconfigure@1.0.0
+- pkg:maven/in.hocg.boot/test-spring-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/in.hocg.boot/test-spring-boot-autoconfigure@1.0.1
+- pkg:maven/in.hocg.boot/test-spring-boot-autoconfigure@1.0.1?classifier=sources

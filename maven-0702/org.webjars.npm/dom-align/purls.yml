@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/dom-align@1.10.2?classifier=sources
 - pkg:maven/org.webjars.npm/dom-align@1.12.0
 - pkg:maven/org.webjars.npm/dom-align@1.12.0?classifier=sources
+- pkg:maven/org.webjars.npm/dom-align@1.12.2
+- pkg:maven/org.webjars.npm/dom-align@1.12.2?classifier=sources
 - pkg:maven/org.webjars.npm/dom-align@1.6.7
 - pkg:maven/org.webjars.npm/dom-align@1.6.7?classifier=sources
 - pkg:maven/org.webjars.npm/dom-align@1.8.0

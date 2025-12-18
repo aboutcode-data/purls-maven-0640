@@ -41,3 +41,5 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.7.48
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.7.49
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.7.50
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.7.51
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.collectiveController@1.7.52

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.conghuahuadan/superlayout@1.0.9?classifier=sources
+- pkg:maven/io.github.conghuahuadan/superlayout@1.0.9?type=aar

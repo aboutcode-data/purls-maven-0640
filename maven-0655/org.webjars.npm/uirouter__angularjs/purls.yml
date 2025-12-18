@@ -14,6 +14,8 @@
 - pkg:maven/org.webjars.npm/uirouter__angularjs@1.0.22?classifier=sources
 - pkg:maven/org.webjars.npm/uirouter__angularjs@1.0.26
 - pkg:maven/org.webjars.npm/uirouter__angularjs@1.0.26?classifier=sources
+- pkg:maven/org.webjars.npm/uirouter__angularjs@1.0.29
+- pkg:maven/org.webjars.npm/uirouter__angularjs@1.0.29?classifier=sources
 - pkg:maven/org.webjars.npm/uirouter__angularjs@1.0.6
 - pkg:maven/org.webjars.npm/uirouter__angularjs@1.0.6?classifier=sources
 - pkg:maven/org.webjars.npm/uirouter__angularjs@1.0.8

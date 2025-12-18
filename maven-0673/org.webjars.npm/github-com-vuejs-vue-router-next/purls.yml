@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-vuejs-vue-router-next@4.0.8
+- pkg:maven/org.webjars.npm/github-com-vuejs-vue-router-next@4.0.8?classifier=sources

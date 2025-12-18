@@ -132,3 +132,6 @@
 - pkg:maven/org.codehaus.plexus/plexus-archiver@4.2.4
 - pkg:maven/org.codehaus.plexus/plexus-archiver@4.2.4?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-archiver@4.2.4?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-archiver@4.2.5
+- pkg:maven/org.codehaus.plexus/plexus-archiver@4.2.5?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus-archiver@4.2.5?classifier=sources

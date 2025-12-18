@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/lucene4s-core_sjs1_3.0.0-RC1@1.11.0
+- pkg:maven/com.outr/lucene4s-core_sjs1_3.0.0-RC1@1.11.0?classifier=sources

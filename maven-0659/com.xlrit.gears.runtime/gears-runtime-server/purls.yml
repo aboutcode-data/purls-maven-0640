@@ -1,0 +1,4 @@
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-server@0.50
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-server@0.50?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-server@0.51.1
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-server@0.51.1?classifier=sources

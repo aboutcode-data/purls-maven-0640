@@ -1,0 +1,2 @@
+- pkg:maven/com.al333z/asyncapi-gen-protobuf-kafka_2.13@0.0.1
+- pkg:maven/com.al333z/asyncapi-gen-protobuf-kafka_2.13@0.0.1?classifier=sources

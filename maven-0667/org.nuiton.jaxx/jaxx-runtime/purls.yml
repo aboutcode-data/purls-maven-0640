@@ -124,6 +124,8 @@
 - pkg:maven/org.nuiton.jaxx/jaxx-runtime@2.44?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-runtime@2.45
 - pkg:maven/org.nuiton.jaxx/jaxx-runtime@2.45?classifier=sources
+- pkg:maven/org.nuiton.jaxx/jaxx-runtime@2.46
+- pkg:maven/org.nuiton.jaxx/jaxx-runtime@2.46?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-runtime@2.4?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-runtime@2.5
 - pkg:maven/org.nuiton.jaxx/jaxx-runtime@2.5.1

@@ -65,6 +65,9 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-netty@2.33
 - pkg:maven/org.glassfish.jersey.examples/helloworld-netty@2.33?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-netty@2.33?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-netty@2.34
+- pkg:maven/org.glassfish.jersey.examples/helloworld-netty@2.34?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/helloworld-netty@2.34?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-netty@3.0.0
 - pkg:maven/org.glassfish.jersey.examples/helloworld-netty@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.examples/helloworld-netty@3.0.0-M1?classifier=sources
@@ -77,3 +80,6 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-netty@3.0.1
 - pkg:maven/org.glassfish.jersey.examples/helloworld-netty@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-netty@3.0.1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-netty@3.0.2
+- pkg:maven/org.glassfish.jersey.examples/helloworld-netty@3.0.2?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/helloworld-netty@3.0.2?classifier=sources

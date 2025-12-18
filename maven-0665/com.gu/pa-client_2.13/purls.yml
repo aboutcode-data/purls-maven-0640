@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/pa-client_2.13@7.0.5
+- pkg:maven/com.gu/pa-client_2.13@7.0.5?classifier=sources

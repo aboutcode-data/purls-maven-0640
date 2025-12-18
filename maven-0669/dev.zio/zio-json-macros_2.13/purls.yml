@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-json-macros_2.13@0.1.5
+- pkg:maven/dev.zio/zio-json-macros_2.13@0.1.5?classifier=sources

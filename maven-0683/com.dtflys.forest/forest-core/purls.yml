@@ -114,3 +114,5 @@
 - pkg:maven/com.dtflys.forest/forest-core@1.5.0-RC7
 - pkg:maven/com.dtflys.forest/forest-core@1.5.0-RC7?classifier=sources
 - pkg:maven/com.dtflys.forest/forest-core@1.5.0?classifier=sources
+- pkg:maven/com.dtflys.forest/forest-core@1.5.1-BETA
+- pkg:maven/com.dtflys.forest/forest-core@1.5.1-BETA?classifier=sources

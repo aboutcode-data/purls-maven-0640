@@ -5,4 +5,6 @@
 - pkg:maven/com.obatis/obatis-office@1.0.1?classifier=sources
 - pkg:maven/com.obatis/obatis-office@1.0.2-release
 - pkg:maven/com.obatis/obatis-office@1.0.2-release?classifier=sources
+- pkg:maven/com.obatis/obatis-office@1.0.3
+- pkg:maven/com.obatis/obatis-office@1.0.3?classifier=sources
 - pkg:maven/com.obatis/obatis-office@1.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.4.35?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.4.36?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.5.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.5.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.5.2?classifier=sources

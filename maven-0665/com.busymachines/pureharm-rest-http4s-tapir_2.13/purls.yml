@@ -24,3 +24,5 @@
 - pkg:maven/com.busymachines/pureharm-rest-http4s-tapir_2.13@0.2.0?classifier=sources
 - pkg:maven/com.busymachines/pureharm-rest-http4s-tapir_2.13@0.3.0
 - pkg:maven/com.busymachines/pureharm-rest-http4s-tapir_2.13@0.3.0?classifier=sources
+- pkg:maven/com.busymachines/pureharm-rest-http4s-tapir_2.13@0.4.0
+- pkg:maven/com.busymachines/pureharm-rest-http4s-tapir_2.13@0.4.0?classifier=sources

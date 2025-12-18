@@ -2,3 +2,7 @@
 - pkg:maven/com.linkedin.calcite/calcite-spark@1.21.0.138?classifier=sources
 - pkg:maven/com.linkedin.calcite/calcite-spark@1.21.0.140
 - pkg:maven/com.linkedin.calcite/calcite-spark@1.21.0.140?classifier=sources
+- pkg:maven/com.linkedin.calcite/calcite-spark@1.21.0.142razhang-test
+- pkg:maven/com.linkedin.calcite/calcite-spark@1.21.0.142razhang-test?classifier=sources
+- pkg:maven/com.linkedin.calcite/calcite-spark@1.21.0.144
+- pkg:maven/com.linkedin.calcite/calcite-spark@1.21.0.144?classifier=sources

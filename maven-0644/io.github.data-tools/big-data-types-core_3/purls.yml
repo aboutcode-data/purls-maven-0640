@@ -1,0 +1,2 @@
+- pkg:maven/io.github.data-tools/big-data-types-core_3@0.3.5
+- pkg:maven/io.github.data-tools/big-data-types-core_3@0.3.5?classifier=sources

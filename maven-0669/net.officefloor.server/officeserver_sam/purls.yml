@@ -2,3 +2,9 @@
 - pkg:maven/net.officefloor.server/officeserver_sam@3.32.0?classifier=sources
 - pkg:maven/net.officefloor.server/officeserver_sam@3.33.0
 - pkg:maven/net.officefloor.server/officeserver_sam@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.server/officeserver_sam@3.34.0
+- pkg:maven/net.officefloor.server/officeserver_sam@3.34.0?classifier=sources
+- pkg:maven/net.officefloor.server/officeserver_sam@3.35.0
+- pkg:maven/net.officefloor.server/officeserver_sam@3.35.0?classifier=sources
+- pkg:maven/net.officefloor.server/officeserver_sam@3.36.0
+- pkg:maven/net.officefloor.server/officeserver_sam@3.36.0?classifier=sources

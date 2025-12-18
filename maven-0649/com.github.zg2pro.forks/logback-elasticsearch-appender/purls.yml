@@ -1,0 +1,4 @@
+- pkg:maven/com.github.zg2pro.forks/logback-elasticsearch-appender@1.7
+- pkg:maven/com.github.zg2pro.forks/logback-elasticsearch-appender@1.7?classifier=sources
+- pkg:maven/com.github.zg2pro.forks/logback-elasticsearch-appender@1.8
+- pkg:maven/com.github.zg2pro.forks/logback-elasticsearch-appender@1.8?classifier=sources

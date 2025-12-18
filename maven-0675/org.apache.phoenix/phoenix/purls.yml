@@ -3,6 +3,7 @@
 - pkg:maven/org.apache.phoenix/phoenix@3.0.0-incubating?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix@4.0.0-incubating?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix@4.16.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.phoenix/phoenix@4.16.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.phoenix/phoenix@4.4.0-HBase-0.98?classifier=source-release&type=zip
 - pkg:maven/org.apache.phoenix/phoenix@4.4.0-HBase-1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.phoenix/phoenix@4.4.0-HBase-1.1?classifier=source-release&type=zip

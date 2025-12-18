@@ -86,3 +86,5 @@
 - pkg:maven/pl.zankowski/iextrading4j-client@3.4.2?classifier=sources
 - pkg:maven/pl.zankowski/iextrading4j-client@3.4.3
 - pkg:maven/pl.zankowski/iextrading4j-client@3.4.3?classifier=sources
+- pkg:maven/pl.zankowski/iextrading4j-client@3.4.4
+- pkg:maven/pl.zankowski/iextrading4j-client@3.4.4?classifier=sources

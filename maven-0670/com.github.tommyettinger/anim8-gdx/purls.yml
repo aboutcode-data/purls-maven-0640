@@ -36,3 +36,4 @@
 - pkg:maven/com.github.tommyettinger/anim8-gdx@0.2.7?classifier=sources
 - pkg:maven/com.github.tommyettinger/anim8-gdx@0.2.8
 - pkg:maven/com.github.tommyettinger/anim8-gdx@0.2.8?classifier=sources
+- pkg:maven/com.github.tommyettinger/anim8-gdx@0.2.9?classifier=sources

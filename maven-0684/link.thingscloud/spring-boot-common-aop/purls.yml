@@ -4,3 +4,7 @@
 - pkg:maven/link.thingscloud/spring-boot-common-aop@1.1.0?classifier=sources
 - pkg:maven/link.thingscloud/spring-boot-common-aop@1.2.0
 - pkg:maven/link.thingscloud/spring-boot-common-aop@1.2.0?classifier=sources
+- pkg:maven/link.thingscloud/spring-boot-common-aop@1.3.0
+- pkg:maven/link.thingscloud/spring-boot-common-aop@1.3.0?classifier=sources
+- pkg:maven/link.thingscloud/spring-boot-common-aop@1.3.1
+- pkg:maven/link.thingscloud/spring-boot-common-aop@1.3.1?classifier=sources

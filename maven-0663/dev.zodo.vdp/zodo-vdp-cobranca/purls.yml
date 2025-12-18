@@ -1,0 +1,2 @@
+- pkg:maven/dev.zodo.vdp/zodo-vdp-cobranca@1.0.0
+- pkg:maven/dev.zodo.vdp/zodo-vdp-cobranca@1.0.0?classifier=sources

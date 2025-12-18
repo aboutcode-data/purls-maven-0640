@@ -1,0 +1,2 @@
+- pkg:maven/com.tnkfactory/framework@1.0.4?classifier=sources
+- pkg:maven/com.tnkfactory/framework@1.0.4?type=aar

@@ -10,6 +10,8 @@
 - pkg:maven/com.solacesystems/sol-jms@10.1.1?classifier=sources
 - pkg:maven/com.solacesystems/sol-jms@10.10.0
 - pkg:maven/com.solacesystems/sol-jms@10.10.0?classifier=sources
+- pkg:maven/com.solacesystems/sol-jms@10.11.0
+- pkg:maven/com.solacesystems/sol-jms@10.11.0?classifier=sources
 - pkg:maven/com.solacesystems/sol-jms@10.2.0
 - pkg:maven/com.solacesystems/sol-jms@10.2.0?classifier=sources
 - pkg:maven/com.solacesystems/sol-jms@10.2.1

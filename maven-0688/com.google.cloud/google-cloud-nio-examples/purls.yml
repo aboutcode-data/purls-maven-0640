@@ -59,6 +59,12 @@
 - pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.10?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.11
 - pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.11?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.12
+- pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.12?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.13
+- pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.13?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.14
+- pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.14?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.2
 - pkg:maven/com.google.cloud/google-cloud-nio-examples@0.122.2?classifier=sources

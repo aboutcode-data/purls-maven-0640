@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.oss/hadoop-aliyun@2.7.2
+- pkg:maven/com.aliyun.oss/hadoop-aliyun@2.7.2?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.opengis.cite/ets-wcs20@1.15?classifier=sources
 - pkg:maven/org.opengis.cite/ets-wcs20@1.16
 - pkg:maven/org.opengis.cite/ets-wcs20@1.16?classifier=sources
+- pkg:maven/org.opengis.cite/ets-wcs20@1.17
+- pkg:maven/org.opengis.cite/ets-wcs20@1.17?classifier=sources

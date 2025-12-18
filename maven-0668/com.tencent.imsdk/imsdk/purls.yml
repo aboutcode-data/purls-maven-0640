@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.imsdk/imsdk@5.1.56?classifier=sources
+- pkg:maven/com.tencent.imsdk/imsdk@5.1.62?classifier=sources

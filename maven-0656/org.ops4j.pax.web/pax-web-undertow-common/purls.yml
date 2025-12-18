@@ -1,1 +1,2 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-undertow-common@7.4.0
+- pkg:maven/org.ops4j.pax.web/pax-web-undertow-common@7.4.1

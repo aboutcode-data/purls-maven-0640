@@ -1,0 +1,2 @@
+- pkg:maven/fr.janalyse/janalyse-ssh_3@1.0.0
+- pkg:maven/fr.janalyse/janalyse-ssh_3@1.0.0?classifier=sources

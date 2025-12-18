@@ -2,3 +2,4 @@
 - pkg:maven/org.fujion.webjars/webjar-popperjs@1.14.7
 - pkg:maven/org.fujion.webjars/webjar-popperjs@1.16.1
 - pkg:maven/org.fujion.webjars/webjar-popperjs@2.8.3
+- pkg:maven/org.fujion.webjars/webjar-popperjs@2.8.3-10

@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/is-plain-object@2.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/is-plain-object@3.0.0
 - pkg:maven/org.webjars.npm/is-plain-object@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/is-plain-object@3.0.1
+- pkg:maven/org.webjars.npm/is-plain-object@3.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/is-plain-object@5.0.0
+- pkg:maven/org.webjars.npm/is-plain-object@5.0.0?classifier=sources

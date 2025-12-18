@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-redis-client-deployment-spi@2.0.0.Alpha3
+- pkg:maven/io.quarkus/quarkus-redis-client-deployment-spi@2.0.0.Alpha3?classifier=sources

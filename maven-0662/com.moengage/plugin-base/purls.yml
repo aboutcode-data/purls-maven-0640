@@ -2,3 +2,4 @@
 - pkg:maven/com.moengage/plugin-base@1.2.00?type=aar
 - pkg:maven/com.moengage/plugin-base@1.2.01?classifier=sources
 - pkg:maven/com.moengage/plugin-base@2.0.00?classifier=sources
+- pkg:maven/com.moengage/plugin-base@2.1.00?classifier=sources

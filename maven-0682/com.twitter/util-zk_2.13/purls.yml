@@ -38,3 +38,5 @@
 - pkg:maven/com.twitter/util-zk_2.13@21.2.0?classifier=sources
 - pkg:maven/com.twitter/util-zk_2.13@21.3.0
 - pkg:maven/com.twitter/util-zk_2.13@21.3.0?classifier=sources
+- pkg:maven/com.twitter/util-zk_2.13@21.4.0
+- pkg:maven/com.twitter/util-zk_2.13@21.4.0?classifier=sources

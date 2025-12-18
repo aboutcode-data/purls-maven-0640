@@ -18,3 +18,9 @@
 - pkg:maven/io.cloudslang/score-worker-monitor-api@0.3.230?classifier=sources
 - pkg:maven/io.cloudslang/score-worker-monitor-api@0.3.231
 - pkg:maven/io.cloudslang/score-worker-monitor-api@0.3.231?classifier=sources
+- pkg:maven/io.cloudslang/score-worker-monitor-api@0.3.233
+- pkg:maven/io.cloudslang/score-worker-monitor-api@0.3.233?classifier=sources
+- pkg:maven/io.cloudslang/score-worker-monitor-api@0.3.234
+- pkg:maven/io.cloudslang/score-worker-monitor-api@0.3.234?classifier=sources
+- pkg:maven/io.cloudslang/score-worker-monitor-api@0.3.235
+- pkg:maven/io.cloudslang/score-worker-monitor-api@0.3.235?classifier=sources

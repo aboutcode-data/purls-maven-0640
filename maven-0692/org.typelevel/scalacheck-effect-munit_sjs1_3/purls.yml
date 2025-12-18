@@ -1,0 +1,8 @@
+- pkg:maven/org.typelevel/scalacheck-effect-munit_sjs1_3@1.0-3-6f96562
+- pkg:maven/org.typelevel/scalacheck-effect-munit_sjs1_3@1.0-3-6f96562?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect-munit_sjs1_3@1.0-4-4ba0d05
+- pkg:maven/org.typelevel/scalacheck-effect-munit_sjs1_3@1.0-4-4ba0d05?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect-munit_sjs1_3@1.0-7-c4fce0c
+- pkg:maven/org.typelevel/scalacheck-effect-munit_sjs1_3@1.0-7-c4fce0c?classifier=sources
+- pkg:maven/org.typelevel/scalacheck-effect-munit_sjs1_3@1.0.2
+- pkg:maven/org.typelevel/scalacheck-effect-munit_sjs1_3@1.0.2?classifier=sources

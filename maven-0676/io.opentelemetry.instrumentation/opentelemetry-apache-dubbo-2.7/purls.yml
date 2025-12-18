@@ -3,3 +3,5 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-dubbo-2.7@0.17.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-dubbo-2.7@1.0.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-dubbo-2.7@1.0.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-dubbo-2.7@1.1.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-dubbo-2.7@1.2.0-alpha?classifier=sources

@@ -2,6 +2,7 @@
 - pkg:maven/io.tekniq/tekniq-rest@0.10.0?classifier=sources
 - pkg:maven/io.tekniq/tekniq-rest@0.11.0
 - pkg:maven/io.tekniq/tekniq-rest@0.11.0?classifier=sources
+- pkg:maven/io.tekniq/tekniq-rest@0.12.3?classifier=sources
 - pkg:maven/io.tekniq/tekniq-rest@0.2
 - pkg:maven/io.tekniq/tekniq-rest@0.2?classifier=sources
 - pkg:maven/io.tekniq/tekniq-rest@0.3

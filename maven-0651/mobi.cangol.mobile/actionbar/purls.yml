@@ -18,3 +18,4 @@
 - pkg:maven/mobi.cangol.mobile/actionbar@1.1.6?type=aar
 - pkg:maven/mobi.cangol.mobile/actionbar@1.1.8?classifier=sources
 - pkg:maven/mobi.cangol.mobile/actionbar@1.1.8?type=aar
+- pkg:maven/mobi.cangol.mobile/actionbar@1.2.3?classifier=sources

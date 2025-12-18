@@ -10,3 +10,5 @@
 - pkg:maven/org.caseine/caseine.vpl.tests.ManipulationDeTableaux@0.0.38?classifier=sources
 - pkg:maven/org.caseine/caseine.vpl.tests.ManipulationDeTableaux@0.0.41
 - pkg:maven/org.caseine/caseine.vpl.tests.ManipulationDeTableaux@0.0.41?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tests.ManipulationDeTableaux@0.0.44
+- pkg:maven/org.caseine/caseine.vpl.tests.ManipulationDeTableaux@0.0.44?classifier=sources

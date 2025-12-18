@@ -38,3 +38,5 @@
 - pkg:maven/com.toomuchcoding.jsonassert/jsonassert-assertj-java8@0.4.9?classifier=sources
 - pkg:maven/com.toomuchcoding.jsonassert/jsonassert-assertj-java8@0.5.0
 - pkg:maven/com.toomuchcoding.jsonassert/jsonassert-assertj-java8@0.5.0?classifier=sources
+- pkg:maven/com.toomuchcoding.jsonassert/jsonassert-assertj-java8@0.6.0
+- pkg:maven/com.toomuchcoding.jsonassert/jsonassert-assertj-java8@0.6.0?classifier=sources

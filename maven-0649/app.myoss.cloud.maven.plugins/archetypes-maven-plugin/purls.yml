@@ -26,3 +26,4 @@
 - pkg:maven/app.myoss.cloud.maven.plugins/archetypes-maven-plugin@2.1.8-RC1?classifier=sources
 - pkg:maven/app.myoss.cloud.maven.plugins/archetypes-maven-plugin@2.3.0.RELEASE
 - pkg:maven/app.myoss.cloud.maven.plugins/archetypes-maven-plugin@2.3.0.RELEASE?classifier=sources
+- pkg:maven/app.myoss.cloud.maven.plugins/archetypes-maven-plugin@2.3.1.RELEASE?classifier=sources

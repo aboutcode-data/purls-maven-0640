@@ -1,0 +1,2 @@
+- pkg:maven/io.github.506954774/redis-lock@1.0.0
+- pkg:maven/io.github.506954774/redis-lock@1.0.0?classifier=sources

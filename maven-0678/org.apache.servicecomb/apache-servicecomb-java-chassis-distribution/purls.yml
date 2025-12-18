@@ -15,3 +15,5 @@
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.1.6?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.2.0?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.2.1?classifier=src&type=zip
+- pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.2.2?classifier=src&type=zip
+- pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.2.3?classifier=src&type=zip

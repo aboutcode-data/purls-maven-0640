@@ -194,3 +194,9 @@
 - pkg:maven/com.zaber/motion-library@2.2.0-RC
 - pkg:maven/com.zaber/motion-library@2.2.0-RC?classifier=sources
 - pkg:maven/com.zaber/motion-library@2.2.0?classifier=sources
+- pkg:maven/com.zaber/motion-library@2.3.0-RC
+- pkg:maven/com.zaber/motion-library@2.3.0-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@2.3.1
+- pkg:maven/com.zaber/motion-library@2.3.1-RC
+- pkg:maven/com.zaber/motion-library@2.3.1-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@2.3.1?classifier=sources

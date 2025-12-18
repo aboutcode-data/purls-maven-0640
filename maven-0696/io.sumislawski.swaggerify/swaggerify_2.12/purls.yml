@@ -1,0 +1,2 @@
+- pkg:maven/io.sumislawski.swaggerify/swaggerify_2.12@0.3.2
+- pkg:maven/io.sumislawski.swaggerify/swaggerify_2.12@0.3.2?classifier=sources

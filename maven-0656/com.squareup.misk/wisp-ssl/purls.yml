@@ -1,0 +1,4 @@
+- pkg:maven/com.squareup.misk/wisp-ssl@0.17.0
+- pkg:maven/com.squareup.misk/wisp-ssl@0.17.0?classifier=sources
+- pkg:maven/com.squareup.misk/wisp-ssl@0.17.1
+- pkg:maven/com.squareup.misk/wisp-ssl@0.17.1?classifier=sources

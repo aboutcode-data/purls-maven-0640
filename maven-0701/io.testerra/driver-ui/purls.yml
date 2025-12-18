@@ -5,3 +5,7 @@
 - pkg:maven/io.testerra/driver-ui@1.0-RC-33
 - pkg:maven/io.testerra/driver-ui@1.0-RC-33?classifier=sources
 - pkg:maven/io.testerra/driver-ui@1.0-RC-34?classifier=sources
+- pkg:maven/io.testerra/driver-ui@1.0.0?classifier=sources
+- pkg:maven/io.testerra/driver-ui@1.1?classifier=sources
+- pkg:maven/io.testerra/driver-ui@2.0-RC-4?classifier=sources
+- pkg:maven/io.testerra/driver-ui@2.0-RC-5?classifier=sources

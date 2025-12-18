@@ -28,6 +28,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@7.15.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@7.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@7.17.0
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@7.18.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@7.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@7.4.0
@@ -50,6 +51,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@8.1.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@8.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@8.11.0
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@8.12.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@8.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@8.4.0

@@ -2,3 +2,7 @@
 - pkg:maven/pro.taskana/taskana-common-security@4.4.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-common-security@4.5.0
 - pkg:maven/pro.taskana/taskana-common-security@4.5.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-common-security@4.5.1
+- pkg:maven/pro.taskana/taskana-common-security@4.5.1?classifier=sources
+- pkg:maven/pro.taskana/taskana-common-security@4.6.0
+- pkg:maven/pro.taskana/taskana-common-security@4.6.0?classifier=sources

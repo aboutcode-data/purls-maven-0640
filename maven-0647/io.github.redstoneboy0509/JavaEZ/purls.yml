@@ -1,0 +1,4 @@
+- pkg:maven/io.github.redstoneboy0509/JavaEZ@1.0
+- pkg:maven/io.github.redstoneboy0509/JavaEZ@1.0?classifier=sources
+- pkg:maven/io.github.redstoneboy0509/JavaEZ@1.1
+- pkg:maven/io.github.redstoneboy0509/JavaEZ@1.1?classifier=sources

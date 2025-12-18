@@ -58,6 +58,12 @@
 - pkg:maven/net.officefloor.web/woof_test@3.32.0?classifier=sources
 - pkg:maven/net.officefloor.web/woof_test@3.33.0
 - pkg:maven/net.officefloor.web/woof_test@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.web/woof_test@3.34.0
+- pkg:maven/net.officefloor.web/woof_test@3.34.0?classifier=sources
+- pkg:maven/net.officefloor.web/woof_test@3.35.0
+- pkg:maven/net.officefloor.web/woof_test@3.35.0?classifier=sources
+- pkg:maven/net.officefloor.web/woof_test@3.36.0
+- pkg:maven/net.officefloor.web/woof_test@3.36.0?classifier=sources
 - pkg:maven/net.officefloor.web/woof_test@3.4.0
 - pkg:maven/net.officefloor.web/woof_test@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.web/woof_test@3.5.0

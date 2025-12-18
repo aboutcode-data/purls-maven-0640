@@ -1,0 +1,2 @@
+- pkg:maven/org.micro-manager.ndviewer/NDViewer@0.5.2
+- pkg:maven/org.micro-manager.ndviewer/NDViewer@0.5.2?classifier=sources

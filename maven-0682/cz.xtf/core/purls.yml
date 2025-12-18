@@ -1,0 +1,2 @@
+- pkg:maven/cz.xtf/core@0.21
+- pkg:maven/cz.xtf/core@0.21?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/chat.dim/DaoKeDao@0.6.8?classifier=sources
 - pkg:maven/chat.dim/DaoKeDao@0.6.9
 - pkg:maven/chat.dim/DaoKeDao@0.6.9?classifier=sources
+- pkg:maven/chat.dim/DaoKeDao@0.9.3
+- pkg:maven/chat.dim/DaoKeDao@0.9.3?classifier=sources

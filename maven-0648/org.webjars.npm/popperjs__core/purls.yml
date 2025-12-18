@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/popperjs__core@2.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/popperjs__core@2.9.1
 - pkg:maven/org.webjars.npm/popperjs__core@2.9.1?classifier=sources
+- pkg:maven/org.webjars.npm/popperjs__core@2.9.2
+- pkg:maven/org.webjars.npm/popperjs__core@2.9.2?classifier=sources

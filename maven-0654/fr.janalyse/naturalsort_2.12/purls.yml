@@ -6,3 +6,7 @@
 - pkg:maven/fr.janalyse/naturalsort_2.12@0.2.2?classifier=sources
 - pkg:maven/fr.janalyse/naturalsort_2.12@0.2.3
 - pkg:maven/fr.janalyse/naturalsort_2.12@0.2.3?classifier=sources
+- pkg:maven/fr.janalyse/naturalsort_2.12@1.0.0
+- pkg:maven/fr.janalyse/naturalsort_2.12@1.0.0?classifier=sources
+- pkg:maven/fr.janalyse/naturalsort_2.12@1.0.1
+- pkg:maven/fr.janalyse/naturalsort_2.12@1.0.1?classifier=sources

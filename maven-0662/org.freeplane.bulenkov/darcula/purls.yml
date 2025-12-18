@@ -1,0 +1,2 @@
+- pkg:maven/org.freeplane.bulenkov/darcula@2018.2
+- pkg:maven/org.freeplane.bulenkov/darcula@2018.2?classifier=sources

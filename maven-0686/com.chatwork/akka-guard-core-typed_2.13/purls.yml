@@ -2,3 +2,9 @@
 - pkg:maven/com.chatwork/akka-guard-core-typed_2.13@1.5.2?classifier=sources
 - pkg:maven/com.chatwork/akka-guard-core-typed_2.13@1.6.0
 - pkg:maven/com.chatwork/akka-guard-core-typed_2.13@1.6.0?classifier=sources
+- pkg:maven/com.chatwork/akka-guard-core-typed_2.13@1.6.3
+- pkg:maven/com.chatwork/akka-guard-core-typed_2.13@1.6.3?classifier=sources
+- pkg:maven/com.chatwork/akka-guard-core-typed_2.13@1.6.6
+- pkg:maven/com.chatwork/akka-guard-core-typed_2.13@1.6.6?classifier=sources
+- pkg:maven/com.chatwork/akka-guard-core-typed_2.13@1.6.7
+- pkg:maven/com.chatwork/akka-guard-core-typed_2.13@1.6.7?classifier=sources

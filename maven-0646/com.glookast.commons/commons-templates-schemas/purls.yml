@@ -16,3 +16,5 @@
 - pkg:maven/com.glookast.commons/commons-templates-schemas@3.0.0?classifier=sources
 - pkg:maven/com.glookast.commons/commons-templates-schemas@3.1.0
 - pkg:maven/com.glookast.commons/commons-templates-schemas@3.1.0?classifier=sources
+- pkg:maven/com.glookast.commons/commons-templates-schemas@3.1.2
+- pkg:maven/com.glookast.commons/commons-templates-schemas@3.1.2?classifier=sources

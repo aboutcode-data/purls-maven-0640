@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-tests@1.0.1
 - pkg:maven/com.oracle.coherence.spring/coherence-spring-tests@1.0.2
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-tests@3.0.0-M1
+- pkg:maven/com.oracle.coherence.spring/coherence-spring-tests@3.0.0-M1?classifier=sources

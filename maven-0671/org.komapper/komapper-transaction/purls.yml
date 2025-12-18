@@ -1,0 +1,9 @@
+- pkg:maven/org.komapper/komapper-transaction@0.10.0?classifier=sources
+- pkg:maven/org.komapper/komapper-transaction@0.3.0?classifier=sources
+- pkg:maven/org.komapper/komapper-transaction@0.4.0?classifier=sources
+- pkg:maven/org.komapper/komapper-transaction@0.5.0?classifier=sources
+- pkg:maven/org.komapper/komapper-transaction@0.6.1?classifier=sources
+- pkg:maven/org.komapper/komapper-transaction@0.7.0?classifier=sources
+- pkg:maven/org.komapper/komapper-transaction@0.8.0?classifier=sources
+- pkg:maven/org.komapper/komapper-transaction@0.9.0?classifier=sources
+- pkg:maven/org.komapper/komapper-transaction@v0.4.0?classifier=sources

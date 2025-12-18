@@ -1,0 +1,4 @@
+- pkg:maven/io.github.xanderwang/hook-epic@0.3.0?classifier=sources
+- pkg:maven/io.github.xanderwang/hook-epic@0.3.0?type=aar
+- pkg:maven/io.github.xanderwang/hook-epic@0.3.1?classifier=sources
+- pkg:maven/io.github.xanderwang/hook-epic@0.3.1?type=aar

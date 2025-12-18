@@ -40,3 +40,5 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.securityClient@1.1.48
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.securityClient@1.1.49
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.securityClient@1.1.50
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.securityClient@1.1.51
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.securityClient@1.1.52

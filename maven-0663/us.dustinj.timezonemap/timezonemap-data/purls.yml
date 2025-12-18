@@ -14,3 +14,5 @@
 - pkg:maven/us.dustinj.timezonemap/timezonemap-data@3.4?classifier=sources
 - pkg:maven/us.dustinj.timezonemap/timezonemap-data@4.0
 - pkg:maven/us.dustinj.timezonemap/timezonemap-data@4.0?classifier=sources
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@4.5
+- pkg:maven/us.dustinj.timezonemap/timezonemap-data@4.5?classifier=sources

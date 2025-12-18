@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.27.2?classifier=sources
 - pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.28.0
 - pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.28.0?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.28.2
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.28.2?classifier=sources

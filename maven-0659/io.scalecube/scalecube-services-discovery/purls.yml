@@ -68,6 +68,7 @@
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.1-RC8?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.12
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.12?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.13
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.13.RC1
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.13.RC1?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.13.RC2
@@ -80,6 +81,17 @@
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.13.RC5?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.13.RC6
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.13.RC6?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.13?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.14
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.14?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.15
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.15?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.17
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.17?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.18
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.18-test-RC1
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.18-test-RC1?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.10.18?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.2
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.2?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.10.3

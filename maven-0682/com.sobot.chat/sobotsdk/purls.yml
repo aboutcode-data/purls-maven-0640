@@ -1,0 +1,2 @@
+- pkg:maven/com.sobot.chat/sobotsdk@2.9.7.3?classifier=sources
+- pkg:maven/com.sobot.chat/sobotsdk@2.9.7?classifier=sources

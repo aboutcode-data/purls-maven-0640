@@ -1,3 +1,5 @@
+- pkg:maven/eu.l-space/types_2.13@0.0.12
+- pkg:maven/eu.l-space/types_2.13@0.0.12?classifier=sources
 - pkg:maven/eu.l-space/types_2.13@0.0.3
 - pkg:maven/eu.l-space/types_2.13@0.0.3?classifier=sources
 - pkg:maven/eu.l-space/types_2.13@0.0.4
@@ -12,3 +14,9 @@
 - pkg:maven/eu.l-space/types_2.13@0.0.4.6
 - pkg:maven/eu.l-space/types_2.13@0.0.4.6?classifier=sources
 - pkg:maven/eu.l-space/types_2.13@0.0.4?classifier=sources
+- pkg:maven/eu.l-space/types_2.13@0.1.0
+- pkg:maven/eu.l-space/types_2.13@0.1.0-RC3
+- pkg:maven/eu.l-space/types_2.13@0.1.0-RC3?classifier=sources
+- pkg:maven/eu.l-space/types_2.13@0.1.0?classifier=sources
+- pkg:maven/eu.l-space/types_2.13@0.1.1
+- pkg:maven/eu.l-space/types_2.13@0.1.1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@0.9.6
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@0.9.6?classifier=sources
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@0.9.7
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@0.9.7?classifier=sources
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@0.9.8
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@0.9.8?classifier=sources
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@0.9.9
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@0.9.9?classifier=sources
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@1.0.0
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@1.0.0?classifier=sources
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@1.0.1
+- pkg:maven/io.github.raphael28/hunter-debug-plugin@1.0.1?classifier=sources
