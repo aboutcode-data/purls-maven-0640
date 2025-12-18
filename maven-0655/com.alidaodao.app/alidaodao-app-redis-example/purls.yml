@@ -8,3 +8,5 @@
 - pkg:maven/com.alidaodao.app/alidaodao-app-redis-example@1.21.0?classifier=sources
 - pkg:maven/com.alidaodao.app/alidaodao-app-redis-example@1.22.0
 - pkg:maven/com.alidaodao.app/alidaodao-app-redis-example@1.22.0?classifier=sources
+- pkg:maven/com.alidaodao.app/alidaodao-app-redis-example@1.23.0
+- pkg:maven/com.alidaodao.app/alidaodao-app-redis-example@1.23.0?classifier=sources

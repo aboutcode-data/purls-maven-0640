@@ -103,6 +103,12 @@
 - pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.29?classifier=sources
 - pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.2?classifier=sources
 - pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.3
+- pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.31
+- pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.31?classifier=sources
+- pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.32
+- pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.32?classifier=sources
+- pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.33
+- pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.33?classifier=sources
 - pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.3?classifier=sources
 - pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.4
 - pkg:maven/de.adorsys.multibanking/multibanking-server@5.5.4?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/org.webjars.npm/tslib@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/tslib@2.3.0
 - pkg:maven/org.webjars.npm/tslib@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/tslib@2.3.1
+- pkg:maven/org.webjars.npm/tslib@2.3.1?classifier=sources

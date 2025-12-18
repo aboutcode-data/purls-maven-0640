@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/datatables.net-bs5@1.10.25
+- pkg:maven/org.webjars.npm/datatables.net-bs5@1.10.25?classifier=sources

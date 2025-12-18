@@ -28,6 +28,8 @@
 - pkg:maven/tk.zielony/carbon@0.16.0.1?type=aar
 - pkg:maven/tk.zielony/carbon@0.16.0?classifier=sources
 - pkg:maven/tk.zielony/carbon@0.16.0?type=aar
+- pkg:maven/tk.zielony/carbon@0.17.0?classifier=sources
+- pkg:maven/tk.zielony/carbon@0.17.0?type=aar
 - pkg:maven/tk.zielony/carbon@0.6.0?classifier=sources
 - pkg:maven/tk.zielony/carbon@0.6.0?type=aar
 - pkg:maven/tk.zielony/carbon@0.6.1?classifier=sources

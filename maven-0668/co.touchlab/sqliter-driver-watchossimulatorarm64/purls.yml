@@ -1,0 +1,2 @@
+- pkg:maven/co.touchlab/sqliter-driver-watchossimulatorarm64@1.0.10?classifier=sources
+- pkg:maven/co.touchlab/sqliter-driver-watchossimulatorarm64@1.0.9?classifier=sources

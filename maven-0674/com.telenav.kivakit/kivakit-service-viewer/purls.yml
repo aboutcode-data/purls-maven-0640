@@ -1,2 +1,4 @@
 - pkg:maven/com.telenav.kivakit/kivakit-service-viewer@0.9.8-beta
 - pkg:maven/com.telenav.kivakit/kivakit-service-viewer@0.9.8-beta?classifier=sources
+- pkg:maven/com.telenav.kivakit/kivakit-service-viewer@1.0.0
+- pkg:maven/com.telenav.kivakit/kivakit-service-viewer@1.0.0?classifier=sources

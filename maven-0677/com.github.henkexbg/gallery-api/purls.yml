@@ -16,3 +16,11 @@
 - pkg:maven/com.github.henkexbg/gallery-api@0.5.2?type=war
 - pkg:maven/com.github.henkexbg/gallery-api@0.5.3?classifier=sources
 - pkg:maven/com.github.henkexbg/gallery-api@0.5.3?type=war
+- pkg:maven/com.github.henkexbg/gallery-api@0.6.0?classifier=sources
+- pkg:maven/com.github.henkexbg/gallery-api@0.6.0?type=war
+- pkg:maven/com.github.henkexbg/gallery-api@0.8.0
+- pkg:maven/com.github.henkexbg/gallery-api@0.8.0?classifier=sources
+- pkg:maven/com.github.henkexbg/gallery-api@1.0.0
+- pkg:maven/com.github.henkexbg/gallery-api@1.0.0?classifier=sources
+- pkg:maven/com.github.henkexbg/gallery-api@1.0.1
+- pkg:maven/com.github.henkexbg/gallery-api@1.0.1?classifier=sources

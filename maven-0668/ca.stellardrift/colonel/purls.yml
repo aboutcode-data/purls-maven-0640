@@ -1,1 +1,2 @@
+- pkg:maven/ca.stellardrift/colonel@0.2.1?classifier=sources
 - pkg:maven/ca.stellardrift/colonel@0.2?classifier=sources

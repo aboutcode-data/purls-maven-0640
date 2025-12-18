@@ -1,0 +1,2 @@
+- pkg:maven/io.github.almawave.ps.batch.manager/bm-lib@0.1.4
+- pkg:maven/io.github.almawave.ps.batch.manager/bm-lib@0.1.4?classifier=sources

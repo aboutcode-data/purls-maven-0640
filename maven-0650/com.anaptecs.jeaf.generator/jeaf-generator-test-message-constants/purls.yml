@@ -7,3 +7,5 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.5.16
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.5.9
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.6.0
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.6.1
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.6.2

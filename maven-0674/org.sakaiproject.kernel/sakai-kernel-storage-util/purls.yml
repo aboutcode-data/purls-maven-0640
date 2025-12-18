@@ -76,6 +76,8 @@
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-storage-util@20.2?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-storage-util@20.3
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-storage-util@20.3?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-storage-util@20.4
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-storage-util@20.4?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-storage-util@21.0
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-storage-util@21.0?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-storage-util@21.1

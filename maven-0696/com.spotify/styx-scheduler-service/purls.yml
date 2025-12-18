@@ -569,6 +569,8 @@
 - pkg:maven/com.spotify/styx-scheduler-service@2.1.13
 - pkg:maven/com.spotify/styx-scheduler-service@2.1.130
 - pkg:maven/com.spotify/styx-scheduler-service@2.1.130?classifier=sources
+- pkg:maven/com.spotify/styx-scheduler-service@2.1.131
+- pkg:maven/com.spotify/styx-scheduler-service@2.1.131?classifier=sources
 - pkg:maven/com.spotify/styx-scheduler-service@2.1.13?classifier=sources
 - pkg:maven/com.spotify/styx-scheduler-service@2.1.14
 - pkg:maven/com.spotify/styx-scheduler-service@2.1.14?classifier=sources

@@ -8,3 +8,13 @@
 - pkg:maven/com.applovin.mediation/bytedance-adapter@3.5.1.1.0?type=aar
 - pkg:maven/com.applovin.mediation/bytedance-adapter@3.6.0.4.0?classifier=sources
 - pkg:maven/com.applovin.mediation/bytedance-adapter@3.6.0.4.0?type=aar
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.6.0.4.1?classifier=sources
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.6.0.4.1?type=aar
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.8.1.1.0?classifier=sources
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.8.1.1.0?type=aar
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.8.1.1.1?classifier=sources
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.8.1.1.1?type=aar
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.8.1.2.0?classifier=sources
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.8.1.2.0?type=aar
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.9.0.3.0?classifier=sources
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.9.0.3.0?type=aar

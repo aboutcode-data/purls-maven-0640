@@ -16,3 +16,5 @@
 - pkg:maven/co.luminositylabs.oss.arquillian.cube/luminositylabs-arquillian-cube@0.1.7?classifier=sources
 - pkg:maven/co.luminositylabs.oss.arquillian.cube/luminositylabs-arquillian-cube@0.1.8
 - pkg:maven/co.luminositylabs.oss.arquillian.cube/luminositylabs-arquillian-cube@0.1.8?classifier=sources
+- pkg:maven/co.luminositylabs.oss.arquillian.cube/luminositylabs-arquillian-cube@0.1.9
+- pkg:maven/co.luminositylabs.oss.arquillian.cube/luminositylabs-arquillian-cube@0.1.9?classifier=sources

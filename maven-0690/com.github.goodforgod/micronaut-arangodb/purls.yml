@@ -12,3 +12,8 @@
 - pkg:maven/com.github.goodforgod/micronaut-arangodb@2.1.1?classifier=sources
 - pkg:maven/com.github.goodforgod/micronaut-arangodb@2.1.2?classifier=sources
 - pkg:maven/com.github.goodforgod/micronaut-arangodb@2.2.0?classifier=sources
+- pkg:maven/com.github.goodforgod/micronaut-arangodb@2.2.1?classifier=sources
+- pkg:maven/com.github.goodforgod/micronaut-arangodb@2.3.0?classifier=sources
+- pkg:maven/com.github.goodforgod/micronaut-arangodb@2.4.0?classifier=sources
+- pkg:maven/com.github.goodforgod/micronaut-arangodb@2.4.1?classifier=sources
+- pkg:maven/com.github.goodforgod/micronaut-arangodb@3.0.0?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.skywalking/grpc-configuration-sync@8.4.0
 - pkg:maven/org.apache.skywalking/grpc-configuration-sync@8.5.0
 - pkg:maven/org.apache.skywalking/grpc-configuration-sync@8.6.0
+- pkg:maven/org.apache.skywalking/grpc-configuration-sync@8.7.0

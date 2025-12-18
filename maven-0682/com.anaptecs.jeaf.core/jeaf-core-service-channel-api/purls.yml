@@ -14,3 +14,5 @@
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-api@1.5.8?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-api@1.6.0
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-api@1.6.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-api@1.6.1
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-api@1.6.1?classifier=sources

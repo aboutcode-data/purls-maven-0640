@@ -1,1 +1,7 @@
 - pkg:maven/io.github.blackfireteam.msimsdk/msimsdk@1.0-alpha0?type=aar
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk@1.0-alpha238?classifier=sources
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk@1.0-alpha238?type=aar
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk@1.0-alpha250?classifier=sources
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk@1.0-alpha250?type=aar
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk@1.0-alpha253?classifier=sources
+- pkg:maven/io.github.blackfireteam.msimsdk/msimsdk@1.0-alpha253?type=aar

@@ -146,6 +146,8 @@
 - pkg:maven/com.google.apis/google-api-services-slides@v1-rev20210629-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-slides@v1-rev20210706-1.32.1
 - pkg:maven/com.google.apis/google-api-services-slides@v1-rev20210706-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-slides@v1-rev20210820-1.32.1
+- pkg:maven/com.google.apis/google-api-services-slides@v1-rev20210820-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-slides@v1-rev242-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-slides@v1-rev242-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-slides@v1-rev242-1.20.0

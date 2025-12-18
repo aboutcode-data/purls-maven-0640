@@ -1,0 +1,2 @@
+- pkg:maven/com.palantir.remoting3/http-clients@3.18.0
+- pkg:maven/com.palantir.remoting3/http-clients@3.18.0?classifier=sources

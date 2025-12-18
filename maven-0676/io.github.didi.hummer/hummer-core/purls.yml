@@ -8,3 +8,7 @@
 - pkg:maven/io.github.didi.hummer/hummer-core@0.3.22.4?type=aar
 - pkg:maven/io.github.didi.hummer/hummer-core@0.3.22?classifier=sources
 - pkg:maven/io.github.didi.hummer/hummer-core@0.3.22?type=aar
+- pkg:maven/io.github.didi.hummer/hummer-core@0.3.23?classifier=sources
+- pkg:maven/io.github.didi.hummer/hummer-core@0.3.23?type=aar
+- pkg:maven/io.github.didi.hummer/hummer-core@0.4.0?classifier=sources
+- pkg:maven/io.github.didi.hummer/hummer-core@0.4.1?classifier=sources

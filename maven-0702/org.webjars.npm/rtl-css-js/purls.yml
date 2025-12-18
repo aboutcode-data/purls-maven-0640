@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rtl-css-js@1.14.2
+- pkg:maven/org.webjars.npm/rtl-css-js@1.14.2?classifier=sources

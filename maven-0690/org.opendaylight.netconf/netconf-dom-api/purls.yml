@@ -6,6 +6,8 @@
 - pkg:maven/org.opendaylight.netconf/netconf-dom-api@1.13.2?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-dom-api@1.13.3
 - pkg:maven/org.opendaylight.netconf/netconf-dom-api@1.13.3?classifier=sources
+- pkg:maven/org.opendaylight.netconf/netconf-dom-api@1.13.4
+- pkg:maven/org.opendaylight.netconf/netconf-dom-api@1.13.4?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-dom-api@1.9.0
 - pkg:maven/org.opendaylight.netconf/netconf-dom-api@1.9.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-dom-api@1.9.1
@@ -18,3 +20,9 @@
 - pkg:maven/org.opendaylight.netconf/netconf-dom-api@1.9.4?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-dom-api@2.0.0
 - pkg:maven/org.opendaylight.netconf/netconf-dom-api@2.0.0?classifier=sources
+- pkg:maven/org.opendaylight.netconf/netconf-dom-api@2.0.1
+- pkg:maven/org.opendaylight.netconf/netconf-dom-api@2.0.1?classifier=sources
+- pkg:maven/org.opendaylight.netconf/netconf-dom-api@2.0.2
+- pkg:maven/org.opendaylight.netconf/netconf-dom-api@2.0.2?classifier=sources
+- pkg:maven/org.opendaylight.netconf/netconf-dom-api@2.0.3
+- pkg:maven/org.opendaylight.netconf/netconf-dom-api@2.0.3?classifier=sources

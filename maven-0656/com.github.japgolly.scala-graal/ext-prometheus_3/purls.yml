@@ -1,0 +1,2 @@
+- pkg:maven/com.github.japgolly.scala-graal/ext-prometheus_3@1.2.0
+- pkg:maven/com.github.japgolly.scala-graal/ext-prometheus_3@1.2.0?classifier=sources

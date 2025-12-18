@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.deep_feel/shoplus-sdk@1.0.0-RELEASE
+- pkg:maven/io.gitee.deep_feel/shoplus-sdk@1.0.0-RELEASE?classifier=sources

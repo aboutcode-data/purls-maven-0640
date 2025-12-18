@@ -7,3 +7,4 @@
 - pkg:maven/com.squareup.okio/okio-watchosx86@3.0.0-alpha.6?classifier=sources
 - pkg:maven/com.squareup.okio/okio-watchosx86@3.0.0-alpha.7?classifier=sources
 - pkg:maven/com.squareup.okio/okio-watchosx86@3.0.0-alpha.8?classifier=sources
+- pkg:maven/com.squareup.okio/okio-watchosx86@3.0.0-alpha.9?classifier=sources

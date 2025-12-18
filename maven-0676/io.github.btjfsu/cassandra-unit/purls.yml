@@ -1,0 +1,2 @@
+- pkg:maven/io.github.btjfsu/cassandra-unit@4.4.0.0
+- pkg:maven/io.github.btjfsu/cassandra-unit@4.4.0.0?classifier=sources

@@ -868,5 +868,13 @@
 - pkg:maven/com.guicedee.services/cache-api@1.1.1.9-jre15?classifier=sources
 - pkg:maven/com.guicedee.services/cache-api@1.1.1.9-jre16
 - pkg:maven/com.guicedee.services/cache-api@1.1.1.9-jre16?classifier=sources
+- pkg:maven/com.guicedee.services/cache-api@1.2.0.0-jre16
+- pkg:maven/com.guicedee.services/cache-api@1.2.0.0-jre16?classifier=sources
+- pkg:maven/com.guicedee.services/cache-api@1.2.0.1-jre11
+- pkg:maven/com.guicedee.services/cache-api@1.2.0.1-jre11?classifier=sources
+- pkg:maven/com.guicedee.services/cache-api@1.2.0.1-jre15
+- pkg:maven/com.guicedee.services/cache-api@1.2.0.1-jre15?classifier=sources
+- pkg:maven/com.guicedee.services/cache-api@1.2.0.1-jre16
+- pkg:maven/com.guicedee.services/cache-api@1.2.0.1-jre16?classifier=sources
 - pkg:maven/com.guicedee.services/cache-api@62
 - pkg:maven/com.guicedee.services/cache-api@62?classifier=sources

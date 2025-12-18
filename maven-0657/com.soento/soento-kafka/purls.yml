@@ -1,3 +1,5 @@
+- pkg:maven/com.soento/soento-kafka@1.2.10-RELEASE
+- pkg:maven/com.soento/soento-kafka@1.2.10-RELEASE?classifier=sources
 - pkg:maven/com.soento/soento-kafka@1.2.2-RELEASE
 - pkg:maven/com.soento/soento-kafka@1.2.2-RELEASE?classifier=sources
 - pkg:maven/com.soento/soento-kafka@1.2.3-RELEASE

@@ -1,2 +1,5 @@
 - pkg:maven/com.liferay/com.liferay.portlet.tck.bridge@1.0.0
 - pkg:maven/com.liferay/com.liferay.portlet.tck.bridge@1.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.tck.bridge@4.0.0
+- pkg:maven/com.liferay/com.liferay.portlet.tck.bridge@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.tck.bridge@4.0.0?classifier=sources-commercial

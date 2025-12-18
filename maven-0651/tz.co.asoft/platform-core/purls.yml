@@ -1,0 +1,2 @@
+- pkg:maven/tz.co.asoft/platform-core@0.0.10?classifier=sources
+- pkg:maven/tz.co.asoft/platform-core@1.4.0?classifier=sources

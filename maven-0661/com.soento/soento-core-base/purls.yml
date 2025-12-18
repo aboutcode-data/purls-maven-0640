@@ -1,0 +1,2 @@
+- pkg:maven/com.soento/soento-core-base@1.2.10-RELEASE
+- pkg:maven/com.soento/soento-core-base@1.2.10-RELEASE?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/ink.xiaobaibai/xiaobabai-admin@1.0
+- pkg:maven/ink.xiaobaibai/xiaobabai-admin@1.0?classifier=sources
+- pkg:maven/ink.xiaobaibai/xiaobabai-admin@2.0
+- pkg:maven/ink.xiaobaibai/xiaobabai-admin@2.0?classifier=sources
+- pkg:maven/ink.xiaobaibai/xiaobabai-admin@3.0
+- pkg:maven/ink.xiaobaibai/xiaobabai-admin@3.0?classifier=sources

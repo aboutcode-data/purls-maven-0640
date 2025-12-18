@@ -1,0 +1,2 @@
+- pkg:maven/io.automatiko.addons.services/automatiko-receive-email-addon@0.7.0
+- pkg:maven/io.automatiko.addons.services/automatiko-receive-email-addon@0.7.0?classifier=sources

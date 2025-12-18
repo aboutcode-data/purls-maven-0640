@@ -28,3 +28,15 @@
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.66?type=zip
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.67?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.67?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.68?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.68?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.69?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.69?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.70?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.70?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.71?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.71?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.72?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.72?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.73?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.73?type=zip

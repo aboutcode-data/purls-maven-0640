@@ -150,3 +150,7 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.8.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.9.0
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.9.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@2.0.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@2.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@2.1.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@2.1.0?classifier=sources

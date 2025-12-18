@@ -6,3 +6,7 @@
 - pkg:maven/org.webpieces/plugin-grpc-json@2.0.150?classifier=sources
 - pkg:maven/org.webpieces/plugin-grpc-json@2.0.151
 - pkg:maven/org.webpieces/plugin-grpc-json@2.0.151?classifier=sources
+- pkg:maven/org.webpieces/plugin-grpc-json@2.0.152
+- pkg:maven/org.webpieces/plugin-grpc-json@2.0.152?classifier=sources
+- pkg:maven/org.webpieces/plugin-grpc-json@2.1.0?classifier=sources
+- pkg:maven/org.webpieces/plugin-grpc-json@2.1.1?classifier=sources

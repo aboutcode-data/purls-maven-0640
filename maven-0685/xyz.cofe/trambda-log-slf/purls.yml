@@ -1,0 +1,2 @@
+- pkg:maven/xyz.cofe/trambda-log-slf@1.1
+- pkg:maven/xyz.cofe/trambda-log-slf@1.1?classifier=sources

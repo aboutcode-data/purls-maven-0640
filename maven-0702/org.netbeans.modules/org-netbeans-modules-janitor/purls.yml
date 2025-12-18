@@ -6,3 +6,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE125?classifier=sources

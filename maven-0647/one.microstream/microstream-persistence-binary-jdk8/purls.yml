@@ -2,3 +2,5 @@
 - pkg:maven/one.microstream/microstream-persistence-binary-jdk8@05.00.00-MS-GA?classifier=sources
 - pkg:maven/one.microstream/microstream-persistence-binary-jdk8@05.00.01-MS-GA
 - pkg:maven/one.microstream/microstream-persistence-binary-jdk8@05.00.01-MS-GA?classifier=sources
+- pkg:maven/one.microstream/microstream-persistence-binary-jdk8@05.00.02-MS-GA
+- pkg:maven/one.microstream/microstream-persistence-binary-jdk8@05.00.02-MS-GA?classifier=sources

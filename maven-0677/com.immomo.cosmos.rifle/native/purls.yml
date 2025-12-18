@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.rifle/native@1.2.0?classifier=sources
+- pkg:maven/com.immomo.cosmos.rifle/native@1.2.0?type=aar

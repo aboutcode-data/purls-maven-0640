@@ -11,3 +11,4 @@
 - pkg:maven/org.zkoss/zk-ee-eval-archetype-webapp-spring-jpa@8.5.0?classifier=sources
 - pkg:maven/org.zkoss/zk-ee-eval-archetype-webapp-spring-jpa@9.0.0?classifier=sources
 - pkg:maven/org.zkoss/zk-ee-eval-archetype-webapp-spring-jpa@9.5.0.3?classifier=sources
+- pkg:maven/org.zkoss/zk-ee-eval-archetype-webapp-spring-jpa@9.6.0?classifier=sources

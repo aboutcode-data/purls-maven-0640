@@ -6,3 +6,5 @@
 - pkg:maven/com.aoindustries/aoserv-backup-book@1.84.19?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-backup-book@1.84.2
 - pkg:maven/com.aoindustries/aoserv-backup-book@1.84.2?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-backup-book@1.85.0
+- pkg:maven/com.aoindustries/aoserv-backup-book@1.85.0?classifier=sources

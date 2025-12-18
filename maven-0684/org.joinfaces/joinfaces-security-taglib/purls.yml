@@ -74,6 +74,8 @@
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.0-m3?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.0-rc1
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.0-rc1?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.10
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.10?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.2
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.2?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.3
@@ -84,6 +86,8 @@
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.6?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.7
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.7?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.9
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.4.9?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.0
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.0-m2
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.0-m2?classifier=sources
@@ -92,3 +96,11 @@
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.0?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.1
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.1?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.3
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.3?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.4
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.5.4?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.6.0-m1
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.6.0-m1?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.6.0-m2
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@4.6.0-m2?classifier=sources

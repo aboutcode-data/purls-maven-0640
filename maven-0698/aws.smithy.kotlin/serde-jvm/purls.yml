@@ -1,0 +1,1 @@
+- pkg:maven/aws.smithy.kotlin/serde-jvm@0.4.0-alpha?classifier=sources

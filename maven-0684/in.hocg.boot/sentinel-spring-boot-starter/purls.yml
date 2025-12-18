@@ -1,0 +1,8 @@
+- pkg:maven/in.hocg.boot/sentinel-spring-boot-starter@1.0.13
+- pkg:maven/in.hocg.boot/sentinel-spring-boot-starter@1.0.13?classifier=sources
+- pkg:maven/in.hocg.boot/sentinel-spring-boot-starter@1.0.14
+- pkg:maven/in.hocg.boot/sentinel-spring-boot-starter@1.0.14?classifier=sources
+- pkg:maven/in.hocg.boot/sentinel-spring-boot-starter@1.0.15
+- pkg:maven/in.hocg.boot/sentinel-spring-boot-starter@1.0.15?classifier=sources
+- pkg:maven/in.hocg.boot/sentinel-spring-boot-starter@1.0.16
+- pkg:maven/in.hocg.boot/sentinel-spring-boot-starter@1.0.16?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/io.intercom.android/intercom-sdk-base@10.0.1?type=aar
 - pkg:maven/io.intercom.android/intercom-sdk-base@10.0.2?classifier=sources
 - pkg:maven/io.intercom.android/intercom-sdk-base@10.0.2?type=aar
+- pkg:maven/io.intercom.android/intercom-sdk-base@10.1.0?classifier=sources
+- pkg:maven/io.intercom.android/intercom-sdk-base@10.1.0?type=aar
 - pkg:maven/io.intercom.android/intercom-sdk-base@3.0.0-RC1?type=aar
 - pkg:maven/io.intercom.android/intercom-sdk-base@3.0.0-RC2?type=aar
 - pkg:maven/io.intercom.android/intercom-sdk-base@3.0.0-beta1?type=aar

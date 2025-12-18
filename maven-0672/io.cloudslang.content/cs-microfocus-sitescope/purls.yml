@@ -1,0 +1,2 @@
+- pkg:maven/io.cloudslang.content/cs-microfocus-sitescope@0.0.4
+- pkg:maven/io.cloudslang.content/cs-microfocus-sitescope@0.0.4?classifier=sources

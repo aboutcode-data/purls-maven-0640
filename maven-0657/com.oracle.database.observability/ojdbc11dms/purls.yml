@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.database.observability/ojdbc11dms@21.1.0.0
 - pkg:maven/com.oracle.database.observability/ojdbc11dms@21.1.0.0?classifier=sources
+- pkg:maven/com.oracle.database.observability/ojdbc11dms@21.3.0.0
+- pkg:maven/com.oracle.database.observability/ojdbc11dms@21.3.0.0?classifier=sources

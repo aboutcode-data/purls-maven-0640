@@ -1,0 +1,2 @@
+- pkg:maven/io.chrisdavenport/cats-time_3@0.4.0-RC1
+- pkg:maven/io.chrisdavenport/cats-time_3@0.4.0-RC1?classifier=sources

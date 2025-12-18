@@ -60,3 +60,7 @@
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.7.0?classifier=sources
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.8.0
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.8.0?classifier=sources
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.8.1
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.8.1?classifier=sources
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.8.2
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.8.2?classifier=sources

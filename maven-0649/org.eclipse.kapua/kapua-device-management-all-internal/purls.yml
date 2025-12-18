@@ -17,3 +17,6 @@
 - pkg:maven/org.eclipse.kapua/kapua-device-management-all-internal@1.4.2
 - pkg:maven/org.eclipse.kapua/kapua-device-management-all-internal@1.4.3
 - pkg:maven/org.eclipse.kapua/kapua-device-management-all-internal@1.4.4
+- pkg:maven/org.eclipse.kapua/kapua-device-management-all-internal@1.5.0
+- pkg:maven/org.eclipse.kapua/kapua-device-management-all-internal@1.5.1
+- pkg:maven/org.eclipse.kapua/kapua-device-management-all-internal@1.5.2

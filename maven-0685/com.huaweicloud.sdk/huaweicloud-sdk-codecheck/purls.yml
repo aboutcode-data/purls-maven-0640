@@ -64,3 +64,15 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.51?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.52
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.52?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.53
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.53?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.54
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.54?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.55
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.55?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.56
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.56?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.57
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.57?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.58
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-codecheck@3.0.58?classifier=sources

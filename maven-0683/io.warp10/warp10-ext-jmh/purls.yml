@@ -2,3 +2,5 @@
 - pkg:maven/io.warp10/warp10-ext-jmh@0.1.0?classifier=sources
 - pkg:maven/io.warp10/warp10-ext-jmh@0.1.1-uberjar?classifier=sources
 - pkg:maven/io.warp10/warp10-ext-jmh@0.1.1?classifier=sources
+- pkg:maven/io.warp10/warp10-ext-jmh@0.1.2-uberjar?classifier=sources
+- pkg:maven/io.warp10/warp10-ext-jmh@0.1.2?classifier=sources

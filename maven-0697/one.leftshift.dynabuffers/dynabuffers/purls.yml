@@ -13,3 +13,4 @@
 - pkg:maven/one.leftshift.dynabuffers/dynabuffers@2.3.1
 - pkg:maven/one.leftshift.dynabuffers/dynabuffers@2.3.1?classifier=sources
 - pkg:maven/one.leftshift.dynabuffers/dynabuffers@2.4.0?classifier=sources
+- pkg:maven/one.leftshift.dynabuffers/dynabuffers@2.5.0?classifier=sources

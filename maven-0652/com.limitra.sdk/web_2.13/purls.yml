@@ -10,3 +10,5 @@
 - pkg:maven/com.limitra.sdk/web_2.13@0.0.18?classifier=sources
 - pkg:maven/com.limitra.sdk/web_2.13@0.0.19
 - pkg:maven/com.limitra.sdk/web_2.13@0.0.19?classifier=sources
+- pkg:maven/com.limitra.sdk/web_2.13@0.0.20
+- pkg:maven/com.limitra.sdk/web_2.13@0.0.20?classifier=sources

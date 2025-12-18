@@ -1,0 +1,5 @@
+- pkg:maven/ca.solo-studios/slf4k@0.1.0?classifier=sources
+- pkg:maven/ca.solo-studios/slf4k@0.1.1?classifier=sources
+- pkg:maven/ca.solo-studios/slf4k@0.2.0?classifier=sources
+- pkg:maven/ca.solo-studios/slf4k@0.3.0?classifier=sources
+- pkg:maven/ca.solo-studios/slf4k@0.3.1?classifier=sources

@@ -28,3 +28,7 @@
 - pkg:maven/net.officefloor.persistence/officejdbc_hikari@3.37.0?classifier=sources
 - pkg:maven/net.officefloor.persistence/officejdbc_hikari@3.38.0
 - pkg:maven/net.officefloor.persistence/officejdbc_hikari@3.38.0?classifier=sources
+- pkg:maven/net.officefloor.persistence/officejdbc_hikari@3.39.0
+- pkg:maven/net.officefloor.persistence/officejdbc_hikari@3.39.0?classifier=sources
+- pkg:maven/net.officefloor.persistence/officejdbc_hikari@3.40.0
+- pkg:maven/net.officefloor.persistence/officejdbc_hikari@3.40.0?classifier=sources

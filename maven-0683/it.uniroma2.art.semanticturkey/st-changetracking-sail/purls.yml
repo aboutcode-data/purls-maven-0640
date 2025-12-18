@@ -1,5 +1,7 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@1.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@1.0?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@10.0
+- pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@10.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@2.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@2.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-changetracking-sail@3.0

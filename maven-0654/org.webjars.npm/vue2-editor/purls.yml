@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/vue2-editor@2.10.2
+- pkg:maven/org.webjars.npm/vue2-editor@2.10.2?classifier=sources
+- pkg:maven/org.webjars.npm/vue2-editor@2.10.3-ssr.3
+- pkg:maven/org.webjars.npm/vue2-editor@2.10.3-ssr.3?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/lightgallery@1.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/lightgallery@1.8.2
 - pkg:maven/org.webjars.npm/lightgallery@1.8.2?classifier=sources
+- pkg:maven/org.webjars.npm/lightgallery@2.2.1
+- pkg:maven/org.webjars.npm/lightgallery@2.2.1?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/xyz.ottr.lutra/lutra-restapi@0.6.10?classifier=sources
 - pkg:maven/xyz.ottr.lutra/lutra-restapi@0.6.10?type=war
+- pkg:maven/xyz.ottr.lutra/lutra-restapi@0.6.11?classifier=sources
+- pkg:maven/xyz.ottr.lutra/lutra-restapi@0.6.11?type=war
 - pkg:maven/xyz.ottr.lutra/lutra-restapi@0.6.9?classifier=sources
 - pkg:maven/xyz.ottr.lutra/lutra-restapi@0.6.9?type=war

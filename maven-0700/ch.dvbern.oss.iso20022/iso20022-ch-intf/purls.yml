@@ -1,0 +1,2 @@
+- pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-intf@4.3.0
+- pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-intf@4.3.0?classifier=sources

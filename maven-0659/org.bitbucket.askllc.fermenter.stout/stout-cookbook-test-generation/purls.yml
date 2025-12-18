@@ -1,1 +1,2 @@
 - pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-test-generation@2.2.0
+- pkg:maven/org.bitbucket.askllc.fermenter.stout/stout-cookbook-test-generation@2.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/io.bigconnect/web-google-cloud-actions@4.2.1
+- pkg:maven/io.bigconnect/web-google-cloud-actions@4.2.1?classifier=sources

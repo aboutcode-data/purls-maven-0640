@@ -1,6 +1,16 @@
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.10.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.10.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.11.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.11.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.11.1.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.11.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.6.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.6.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.7.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.7.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.8.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.8.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.9.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.9.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.9.1.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-norest@1.9.1.Final?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/nl.ngti/androscope@1.0-RC3?classifier=sources
 - pkg:maven/nl.ngti/androscope@1.0-RC4?classifier=sources
 - pkg:maven/nl.ngti/androscope@1.0?classifier=sources
+- pkg:maven/nl.ngti/androscope@1.1?classifier=sources

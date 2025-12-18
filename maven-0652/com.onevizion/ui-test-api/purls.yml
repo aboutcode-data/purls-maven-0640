@@ -100,6 +100,14 @@
 - pkg:maven/com.onevizion/ui-test-api@21.12.0?classifier=sources
 - pkg:maven/com.onevizion/ui-test-api@21.13.0
 - pkg:maven/com.onevizion/ui-test-api@21.13.0?classifier=sources
+- pkg:maven/com.onevizion/ui-test-api@21.14.0
+- pkg:maven/com.onevizion/ui-test-api@21.14.0?classifier=sources
+- pkg:maven/com.onevizion/ui-test-api@21.15.0
+- pkg:maven/com.onevizion/ui-test-api@21.15.0?classifier=sources
+- pkg:maven/com.onevizion/ui-test-api@21.16.0
+- pkg:maven/com.onevizion/ui-test-api@21.16.0?classifier=sources
+- pkg:maven/com.onevizion/ui-test-api@21.17.0
+- pkg:maven/com.onevizion/ui-test-api@21.17.0?classifier=sources
 - pkg:maven/com.onevizion/ui-test-api@21.2.0
 - pkg:maven/com.onevizion/ui-test-api@21.2.0?classifier=sources
 - pkg:maven/com.onevizion/ui-test-api@21.3.0

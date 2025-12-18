@@ -24,3 +24,9 @@
 - pkg:maven/de.sonallux.spotify/spotify-web-api-generator-open-api@2021.6.4?classifier=sources
 - pkg:maven/de.sonallux.spotify/spotify-web-api-generator-open-api@2021.6.8-beta.0
 - pkg:maven/de.sonallux.spotify/spotify-web-api-generator-open-api@2021.6.8-beta.0?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-generator-open-api@2021.7.20
+- pkg:maven/de.sonallux.spotify/spotify-web-api-generator-open-api@2021.7.20?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-generator-open-api@2021.8.15
+- pkg:maven/de.sonallux.spotify/spotify-web-api-generator-open-api@2021.8.15?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-generator-open-api@2021.8.23
+- pkg:maven/de.sonallux.spotify/spotify-web-api-generator-open-api@2021.8.23?classifier=sources

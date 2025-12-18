@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/types__mocha@8.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/types__mocha@8.2.0
 - pkg:maven/org.webjars.npm/types__mocha@8.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__mocha@9.0.0
+- pkg:maven/org.webjars.npm/types__mocha@9.0.0?classifier=sources

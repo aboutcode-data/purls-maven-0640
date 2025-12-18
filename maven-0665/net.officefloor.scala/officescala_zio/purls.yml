@@ -46,3 +46,7 @@
 - pkg:maven/net.officefloor.scala/officescala_zio@3.37.0?classifier=sources
 - pkg:maven/net.officefloor.scala/officescala_zio@3.38.0
 - pkg:maven/net.officefloor.scala/officescala_zio@3.38.0?classifier=sources
+- pkg:maven/net.officefloor.scala/officescala_zio@3.39.0
+- pkg:maven/net.officefloor.scala/officescala_zio@3.39.0?classifier=sources
+- pkg:maven/net.officefloor.scala/officescala_zio@3.40.0
+- pkg:maven/net.officefloor.scala/officescala_zio@3.40.0?classifier=sources

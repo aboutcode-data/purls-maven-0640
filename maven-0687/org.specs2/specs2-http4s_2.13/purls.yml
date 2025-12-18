@@ -1,2 +1,6 @@
 - pkg:maven/org.specs2/specs2-http4s_2.13@1.0.0
 - pkg:maven/org.specs2/specs2-http4s_2.13@1.0.0?classifier=sources
+- pkg:maven/org.specs2/specs2-http4s_2.13@1.1.0
+- pkg:maven/org.specs2/specs2-http4s_2.13@1.1.0-TRY-RELEASE-01
+- pkg:maven/org.specs2/specs2-http4s_2.13@1.1.0-TRY-RELEASE-01?classifier=sources
+- pkg:maven/org.specs2/specs2-http4s_2.13@1.1.0?classifier=sources

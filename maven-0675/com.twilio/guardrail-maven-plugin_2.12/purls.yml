@@ -56,3 +56,4 @@
 - pkg:maven/com.twilio/guardrail-maven-plugin_2.12@0.64.0
 - pkg:maven/com.twilio/guardrail-maven-plugin_2.12@0.64.2
 - pkg:maven/com.twilio/guardrail-maven-plugin_2.12@0.64.3
+- pkg:maven/com.twilio/guardrail-maven-plugin_2.12@0.64.5

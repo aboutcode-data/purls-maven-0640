@@ -2,3 +2,6 @@
 - pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.30.2?classifier=sources
 - pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.31.1?classifier=sources
 - pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.32.1?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.33.1?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.34.1?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.34.2?classifier=sources

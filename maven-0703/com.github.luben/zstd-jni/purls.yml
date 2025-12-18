@@ -214,3 +214,5 @@
 - pkg:maven/com.github.luben/zstd-jni@1.5.0-2?classifier=sources
 - pkg:maven/com.github.luben/zstd-jni@1.5.0-3
 - pkg:maven/com.github.luben/zstd-jni@1.5.0-3?classifier=sources
+- pkg:maven/com.github.luben/zstd-jni@1.5.0-4
+- pkg:maven/com.github.luben/zstd-jni@1.5.0-4?classifier=sources

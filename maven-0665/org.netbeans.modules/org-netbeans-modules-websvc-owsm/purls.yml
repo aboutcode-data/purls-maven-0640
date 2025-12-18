@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE125?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.jcgay.maven.color/maven-color-gossip@3.0.1
+- pkg:maven/fr.jcgay.maven.color/maven-color-gossip@3.0.1?classifier=sources

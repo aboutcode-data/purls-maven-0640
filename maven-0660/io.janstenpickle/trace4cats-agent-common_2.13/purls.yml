@@ -141,7 +141,16 @@
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.10.1%2B99-e293587b?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.10.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.11.0
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.11.0%2B79-d21ea0df
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.11.0%2B79-d21ea0df?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.11.0%2B80-21dd59d7
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.11.0%2B80-21dd59d7?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.11.0?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.11.1
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.11.1?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0%2B1-d8356e7f
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0%2B1-d8356e7f?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0-RC1
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0-RC1%2B1-87e48c7f
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0-RC1%2B1-87e48c7f?classifier=sources
@@ -200,6 +209,7 @@
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0-RC1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0-RC2
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0-RC2?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B106-b81743d5
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B106-b81743d5?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B108-28e83170

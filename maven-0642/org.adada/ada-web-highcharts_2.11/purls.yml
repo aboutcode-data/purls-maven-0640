@@ -1,0 +1,2 @@
+- pkg:maven/org.adada/ada-web-highcharts_2.11@0.9.0
+- pkg:maven/org.adada/ada-web-highcharts_2.11@0.9.0?classifier=sources

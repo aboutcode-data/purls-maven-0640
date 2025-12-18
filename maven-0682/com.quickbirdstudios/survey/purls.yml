@@ -1,0 +1,7 @@
+- pkg:maven/com.quickbirdstudios/survey@0.1.0?classifier=sources
+- pkg:maven/com.quickbirdstudios/survey@1.0.0?classifier=sources
+- pkg:maven/com.quickbirdstudios/survey@1.1.0?classifier=sources
+- pkg:maven/com.quickbirdstudios/survey@2.0.0-alpha-2?classifier=sources
+- pkg:maven/com.quickbirdstudios/survey@2.0.0-alpha-3?classifier=sources
+- pkg:maven/com.quickbirdstudios/survey@2.0.0-alpha-4?classifier=sources
+- pkg:maven/com.quickbirdstudios/survey@2.0.0-alpha?classifier=sources

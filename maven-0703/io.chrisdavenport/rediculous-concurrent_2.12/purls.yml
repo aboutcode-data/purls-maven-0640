@@ -1,0 +1,2 @@
+- pkg:maven/io.chrisdavenport/rediculous-concurrent_2.12@0.1.0-M1
+- pkg:maven/io.chrisdavenport/rediculous-concurrent_2.12@0.1.0-M1?classifier=sources

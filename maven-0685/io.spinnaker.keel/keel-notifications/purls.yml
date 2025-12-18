@@ -1,3 +1,9 @@
 - pkg:maven/io.spinnaker.keel/keel-notifications@0.196.0?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-notifications@0.196.1?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-notifications@0.197.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-notifications@0.197.1?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-notifications@0.198.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-notifications@0.199.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-notifications@0.199.1?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-notifications@0.200.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-notifications@0.201.0?classifier=sources

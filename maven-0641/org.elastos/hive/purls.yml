@@ -7,8 +7,11 @@
 - pkg:maven/org.elastos/hive@alpha-v2.0.31?classifier=sources
 - pkg:maven/org.elastos/hive@alpha-v2.0.32?classifier=sources
 - pkg:maven/org.elastos/hive@alpha-v2.1.1?classifier=sources
+- pkg:maven/org.elastos/hive@alpha-v2.3.1?classifier=sources
 - pkg:maven/org.elastos/hive@v2.0.27-pre?classifier=sources
 - pkg:maven/org.elastos/hive@v2.0.7-pre?classifier=sources
 - pkg:maven/org.elastos/hive@v2.2.0-pre?classifier=sources
 - pkg:maven/org.elastos/hive@v2.2.0?classifier=sources
 - pkg:maven/org.elastos/hive@v2.3.0?classifier=sources
+- pkg:maven/org.elastos/hive@v2.3.2?classifier=sources
+- pkg:maven/org.elastos/hive@v2.3.3?classifier=sources

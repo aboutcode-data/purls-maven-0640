@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nafg.simple-router/core_sjs1_3@0.2.0
+- pkg:maven/io.github.nafg.simple-router/core_sjs1_3@0.2.0?classifier=sources

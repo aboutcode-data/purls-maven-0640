@@ -1,2 +1,4 @@
 - pkg:maven/com.github.dotxyteam/metalizer@1.0.3
 - pkg:maven/com.github.dotxyteam/metalizer@1.0.3?classifier=sources
+- pkg:maven/com.github.dotxyteam/metalizer@3.4.0
+- pkg:maven/com.github.dotxyteam/metalizer@3.4.0?classifier=sources

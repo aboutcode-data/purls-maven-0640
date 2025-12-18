@@ -106,6 +106,8 @@
 - pkg:maven/org.openurp.code/openurp-code-api@0.22.2?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-api@0.23.0
 - pkg:maven/org.openurp.code/openurp-code-api@0.23.0?classifier=sources
+- pkg:maven/org.openurp.code/openurp-code-api@0.23.1
+- pkg:maven/org.openurp.code/openurp-code-api@0.23.1?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-api@0.3.0
 - pkg:maven/org.openurp.code/openurp-code-api@0.3.0?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-api@0.3.1

@@ -1,2 +1,7 @@
 - pkg:maven/me.jvt.cucumber/reporting-plugin@5.0.0
 - pkg:maven/me.jvt.cucumber/reporting-plugin@5.0.0?classifier=sources
+- pkg:maven/me.jvt.cucumber/reporting-plugin@5.1.0
+- pkg:maven/me.jvt.cucumber/reporting-plugin@5.1.0?classifier=sources
+- pkg:maven/me.jvt.cucumber/reporting-plugin@5.2.0
+- pkg:maven/me.jvt.cucumber/reporting-plugin@5.2.0?classifier=sources
+- pkg:maven/me.jvt.cucumber/reporting-plugin@5.2.1?classifier=sources

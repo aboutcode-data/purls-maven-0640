@@ -12,3 +12,7 @@
 - pkg:maven/org.odpi.egeria/asset-manager-topic-connectors@2.8?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-manager-topic-connectors@2.9
 - pkg:maven/org.odpi.egeria/asset-manager-topic-connectors@2.9?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-manager-topic-connectors@3.0
+- pkg:maven/org.odpi.egeria/asset-manager-topic-connectors@3.0?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-manager-topic-connectors@3.1
+- pkg:maven/org.odpi.egeria/asset-manager-topic-connectors@3.1?classifier=sources

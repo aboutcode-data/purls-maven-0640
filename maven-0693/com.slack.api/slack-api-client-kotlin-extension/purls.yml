@@ -12,6 +12,16 @@
 - pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.1.5?classifier=sources
 - pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.1.6
 - pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.1.6?classifier=sources
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.10.0
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.10.0-RC1
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.10.0-RC1?classifier=sources
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.10.0-RC2
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.10.0-RC2?classifier=sources
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.10.0?classifier=sources
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.11.0
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.11.0-RC1
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.11.0-RC1?classifier=sources
+- pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.11.0?classifier=sources
 - pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.2.0
 - pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.2.0-RC1
 - pkg:maven/com.slack.api/slack-api-client-kotlin-extension@1.2.0-RC1?classifier=sources

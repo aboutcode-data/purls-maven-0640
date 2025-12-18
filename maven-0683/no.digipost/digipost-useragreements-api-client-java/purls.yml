@@ -17,5 +17,7 @@
 - pkg:maven/no.digipost/digipost-useragreements-api-client-java@2.0.1-temp?classifier=sources
 - pkg:maven/no.digipost/digipost-useragreements-api-client-java@2.0.1?classifier=sources
 - pkg:maven/no.digipost/digipost-useragreements-api-client-java@2.0?classifier=sources
+- pkg:maven/no.digipost/digipost-useragreements-api-client-java@2.1.0
 - pkg:maven/no.digipost/digipost-useragreements-api-client-java@2.1.0-RC1
 - pkg:maven/no.digipost/digipost-useragreements-api-client-java@2.1.0-RC1?classifier=sources
+- pkg:maven/no.digipost/digipost-useragreements-api-client-java@2.1.0?classifier=sources

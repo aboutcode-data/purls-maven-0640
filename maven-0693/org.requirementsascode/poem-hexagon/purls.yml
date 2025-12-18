@@ -46,3 +46,4 @@
 - pkg:maven/org.requirementsascode/poem-hexagon@1.7?classifier=sources
 - pkg:maven/org.requirementsascode/poem-hexagon@1.8
 - pkg:maven/org.requirementsascode/poem-hexagon@1.8?classifier=sources
+- pkg:maven/org.requirementsascode/poem-hexagon@2.0?classifier=sources

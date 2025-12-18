@@ -1,0 +1,2 @@
+- pkg:maven/net.luohuasheng.bee/lhs-bee-proxy-rest@1.0.10
+- pkg:maven/net.luohuasheng.bee/lhs-bee-proxy-rest@1.0.10?classifier=sources
