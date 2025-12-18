@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-cdnjs@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-cdnjs@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-cdnjs@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-cdnjs@RELEASE113?classifier=sources

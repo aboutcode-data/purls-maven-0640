@@ -64,3 +64,5 @@
 - pkg:maven/org.webjars.npm/angular-aria@1.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/angular-aria@1.7.8
 - pkg:maven/org.webjars.npm/angular-aria@1.7.8?classifier=sources
+- pkg:maven/org.webjars.npm/angular-aria@1.7.9
+- pkg:maven/org.webjars.npm/angular-aria@1.7.9?classifier=sources

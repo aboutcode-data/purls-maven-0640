@@ -3,3 +3,6 @@
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-plugin@2.1.4
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-plugin@2.1.4?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-plugin@3.2.0
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-plugin@3.2.1
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-plugin@3.2.2
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-plugin@3.3.0

@@ -102,3 +102,9 @@
 - pkg:maven/com.github.michael-rapp/android-material-preferences@5.2.0?type=aar
 - pkg:maven/com.github.michael-rapp/android-material-preferences@5.2.1?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-material-preferences@5.2.1?type=aar
+- pkg:maven/com.github.michael-rapp/android-material-preferences@5.3.0?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-material-preferences@5.3.0?type=aar
+- pkg:maven/com.github.michael-rapp/android-material-preferences@5.3.1?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-material-preferences@5.3.1?type=aar
+- pkg:maven/com.github.michael-rapp/android-material-preferences@5.3.2?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-material-preferences@5.3.2?type=aar

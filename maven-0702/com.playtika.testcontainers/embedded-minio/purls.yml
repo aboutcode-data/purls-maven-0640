@@ -14,3 +14,13 @@
 - pkg:maven/com.playtika.testcontainers/embedded-minio@1.34?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-minio@1.35
 - pkg:maven/com.playtika.testcontainers/embedded-minio@1.35?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.36
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.36?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.37
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.37?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.38
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.38?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.39
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.39?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.40
+- pkg:maven/com.playtika.testcontainers/embedded-minio@1.40?classifier=sources

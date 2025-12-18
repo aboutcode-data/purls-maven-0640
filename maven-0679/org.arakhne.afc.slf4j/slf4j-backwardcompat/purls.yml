@@ -1,0 +1,2 @@
+- pkg:maven/org.arakhne.afc.slf4j/slf4j-backwardcompat@17.0
+- pkg:maven/org.arakhne.afc.slf4j/slf4j-backwardcompat@17.0?classifier=sources

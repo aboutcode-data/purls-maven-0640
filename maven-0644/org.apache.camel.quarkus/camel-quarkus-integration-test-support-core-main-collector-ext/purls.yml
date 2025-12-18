@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-support-core-main-collector-ext@1.0.0-M3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-support-core-main-collector-ext@1.0.0-M3?classifier=sources

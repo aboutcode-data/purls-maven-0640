@@ -6,5 +6,11 @@
 - pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.5.0-M1
 - pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.5.0-M1?classifier=sources
 - pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.5.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.6.0
 - pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.6.0-M1
 - pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.6.0-M1?classifier=sources
+- pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.6.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.6.1
+- pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.6.1-M1
+- pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.6.1-M1?classifier=sources
+- pkg:maven/com.snowplowanalytics/scala-maxmind-iplookups_2.12@0.6.1?classifier=sources

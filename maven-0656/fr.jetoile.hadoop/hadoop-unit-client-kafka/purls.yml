@@ -40,3 +40,5 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-kafka@3.5?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-kafka@3.6
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-kafka@3.6?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-kafka@3.7
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-client-kafka@3.7?classifier=sources

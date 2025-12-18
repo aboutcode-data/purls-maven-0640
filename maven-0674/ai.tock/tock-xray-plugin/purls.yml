@@ -1,0 +1,2 @@
+- pkg:maven/ai.tock/tock-xray-plugin@19.9.3
+- pkg:maven/ai.tock/tock-xray-plugin@19.9.3?classifier=sources

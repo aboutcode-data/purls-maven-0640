@@ -18,3 +18,5 @@
 - pkg:maven/com.yodo1/poseidon@0.3.6?classifier=sources
 - pkg:maven/com.yodo1/poseidon@0.3.7
 - pkg:maven/com.yodo1/poseidon@0.3.7?classifier=sources
+- pkg:maven/com.yodo1/poseidon@0.3.8
+- pkg:maven/com.yodo1/poseidon@0.3.8?classifier=sources

@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-kit@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-kit@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-kit@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-kit@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-kit@RELEASE90?classifier=sources

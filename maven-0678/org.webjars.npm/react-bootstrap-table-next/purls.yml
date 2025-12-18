@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/react-bootstrap-table-next@3.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/react-bootstrap-table-next@3.1.2
 - pkg:maven/org.webjars.npm/react-bootstrap-table-next@3.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/react-bootstrap-table-next@3.3.3
+- pkg:maven/org.webjars.npm/react-bootstrap-table-next@3.3.3?classifier=sources

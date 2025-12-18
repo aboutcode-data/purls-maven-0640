@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.core@0.12.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.core@0.12.800
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.core@0.12.800?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.core@0.12.900
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.core@0.12.900?classifier=sources

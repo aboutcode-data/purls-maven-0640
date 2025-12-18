@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hiwepy/soapui-template@1.0.2.RELEASE
+- pkg:maven/com.github.hiwepy/soapui-template@1.0.2.RELEASE?classifier=sources

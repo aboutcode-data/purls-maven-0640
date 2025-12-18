@@ -1,0 +1,2 @@
+- pkg:maven/com.republicate.modality/modality-core@1.0
+- pkg:maven/com.republicate.modality/modality-core@1.0?classifier=sources

@@ -82,3 +82,5 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@7.9.0.7583?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@7.9.1.7622
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@7.9.1.7622?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.0.0.9566
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.0.0.9566?classifier=sources

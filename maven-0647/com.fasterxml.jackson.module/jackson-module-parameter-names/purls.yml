@@ -6,6 +6,10 @@
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.10.0.pr3
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.10.0.pr3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.10.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.10.1
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.10.1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.10.2
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.10.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.4.0
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.4.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-parameter-names@2.4.1

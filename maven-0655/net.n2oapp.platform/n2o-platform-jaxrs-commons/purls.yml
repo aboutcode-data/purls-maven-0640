@@ -18,5 +18,13 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.18?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.19
 - pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.19?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.20
+- pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.20?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.21
+- pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.21?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.22
+- pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.22?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.23
+- pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.23?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.9
 - pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@2.9?classifier=sources

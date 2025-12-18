@@ -4,3 +4,5 @@
 - pkg:maven/com.35liuqi/Nuna-Web-mvc@0.0.2-preview?classifier=sources
 - pkg:maven/com.35liuqi/Nuna-Web-mvc@0.0.3-preview
 - pkg:maven/com.35liuqi/Nuna-Web-mvc@0.0.3-preview?classifier=sources
+- pkg:maven/com.35liuqi/Nuna-Web-mvc@1.0.4-preview
+- pkg:maven/com.35liuqi/Nuna-Web-mvc@1.0.4-preview?classifier=sources

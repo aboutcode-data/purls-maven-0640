@@ -18,3 +18,5 @@
 - pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@1.7.0?classifier=sources
 - pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@1.8.0
 - pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@1.8.0?classifier=sources
+- pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@1.9.0
+- pkg:maven/net.rakugakibox.spring.boot/orika-spring-boot-starter@1.9.0?classifier=sources

@@ -7,3 +7,7 @@
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.27.0.Final
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.28.0.Final
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.29.0.Final
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.30.0.Final
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.31.0.Final
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.32.0.Final
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.33.0.Final

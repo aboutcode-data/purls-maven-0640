@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.bower/bootswatch@3.3.7?classifier=sources
 - pkg:maven/org.webjars.bower/bootswatch@4.0.0-alpha.6
 - pkg:maven/org.webjars.bower/bootswatch@4.0.0-alpha.6?classifier=sources
+- pkg:maven/org.webjars.bower/bootswatch@4.4.1
+- pkg:maven/org.webjars.bower/bootswatch@4.4.1?classifier=sources

@@ -1,5 +1,11 @@
 - pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.1.0
 - pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.1.0?classifier=sources
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.10.0
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.10.0?classifier=sources
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.11.0
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.11.0?classifier=sources
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.12.0
+- pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.12.0?classifier=sources
 - pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.2.0
 - pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.2.0?classifier=sources
 - pkg:maven/org.lorislab.quarkus/jel-quarkus-log@0.3.0

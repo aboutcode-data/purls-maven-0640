@@ -8,3 +8,5 @@
 - pkg:maven/com.sta-soft/mmerge@1.31?classifier=sources
 - pkg:maven/com.sta-soft/mmerge@1.32
 - pkg:maven/com.sta-soft/mmerge@1.32?classifier=sources
+- pkg:maven/com.sta-soft/mmerge@1.33
+- pkg:maven/com.sta-soft/mmerge@1.33?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.dbhys/iaa-oidc-client@1.0.0-spring
+- pkg:maven/com.dbhys/iaa-oidc-client@1.0.0-spring?classifier=sources

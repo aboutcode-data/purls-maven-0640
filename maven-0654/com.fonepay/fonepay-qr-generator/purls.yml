@@ -1,0 +1,2 @@
+- pkg:maven/com.fonepay/fonepay-qr-generator@0.1-ALPHA
+- pkg:maven/com.fonepay/fonepay-qr-generator@0.1-ALPHA?classifier=sources

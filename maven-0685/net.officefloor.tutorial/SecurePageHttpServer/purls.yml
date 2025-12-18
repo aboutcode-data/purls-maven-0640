@@ -38,6 +38,12 @@
 - pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.13.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.14.0
 - pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.14.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.15.0
+- pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.15.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.16.0
+- pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.16.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.17.0
+- pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.17.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.2.0
 - pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.2.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/SecurePageHttpServer@3.3.0

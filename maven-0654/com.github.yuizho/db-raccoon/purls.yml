@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yuizho/db-raccoon@0.1.0
+- pkg:maven/com.github.yuizho/db-raccoon@0.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.exini/dicom-streams_2.12@0.10?classifier=sources
 - pkg:maven/com.exini/dicom-streams_2.12@0.11
 - pkg:maven/com.exini/dicom-streams_2.12@0.11?classifier=sources
+- pkg:maven/com.exini/dicom-streams_2.12@0.13
+- pkg:maven/com.exini/dicom-streams_2.12@0.13?classifier=sources

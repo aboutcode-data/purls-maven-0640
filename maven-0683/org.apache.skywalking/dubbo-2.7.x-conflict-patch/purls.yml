@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.skywalking/dubbo-2.7.x-conflict-patch@6.3.0?classifier=sources
 - pkg:maven/org.apache.skywalking/dubbo-2.7.x-conflict-patch@6.4.0
 - pkg:maven/org.apache.skywalking/dubbo-2.7.x-conflict-patch@6.4.0?classifier=sources
+- pkg:maven/org.apache.skywalking/dubbo-2.7.x-conflict-patch@6.5.0
+- pkg:maven/org.apache.skywalking/dubbo-2.7.x-conflict-patch@6.5.0?classifier=sources
+- pkg:maven/org.apache.skywalking/dubbo-2.7.x-conflict-patch@6.6.0
+- pkg:maven/org.apache.skywalking/dubbo-2.7.x-conflict-patch@6.6.0?classifier=sources

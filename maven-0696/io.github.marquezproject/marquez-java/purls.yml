@@ -1,5 +1,6 @@
 - pkg:maven/io.github.marquezproject/marquez-java@0.1.0
 - pkg:maven/io.github.marquezproject/marquez-java@0.1.0?classifier=sources
+- pkg:maven/io.github.marquezproject/marquez-java@0.2.0
 - pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.10
 - pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.10?classifier=sources
 - pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.2
@@ -18,3 +19,6 @@
 - pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.8?classifier=sources
 - pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.9
 - pkg:maven/io.github.marquezproject/marquez-java@0.2.0-rc.9?classifier=sources
+- pkg:maven/io.github.marquezproject/marquez-java@0.2.0?classifier=sources
+- pkg:maven/io.github.marquezproject/marquez-java@0.3.0
+- pkg:maven/io.github.marquezproject/marquez-java@0.3.0?classifier=sources

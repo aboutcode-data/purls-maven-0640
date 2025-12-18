@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/error-stack-parser@2.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/error-stack-parser@2.0.4
 - pkg:maven/org.webjars.npm/error-stack-parser@2.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/error-stack-parser@2.0.6
+- pkg:maven/org.webjars.npm/error-stack-parser@2.0.6?classifier=sources

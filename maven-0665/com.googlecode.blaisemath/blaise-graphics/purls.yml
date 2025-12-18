@@ -47,6 +47,10 @@
 - pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.24?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.25
 - pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.25?classifier=sources
+- pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.26
+- pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.26?classifier=sources
+- pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.27
+- pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.27?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.2?classifier=sources
 - pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.3-beta
 - pkg:maven/com.googlecode.blaisemath/blaise-graphics@2.2.3-beta?classifier=sources

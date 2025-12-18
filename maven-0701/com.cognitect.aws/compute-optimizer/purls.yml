@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/compute-optimizer@780.2.584.0
+- pkg:maven/com.cognitect.aws/compute-optimizer@780.2.584.0?classifier=sources

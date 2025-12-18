@@ -1,2 +1,6 @@
 - pkg:maven/ch.exense.step/step-api-reporting@1.0.0
 - pkg:maven/ch.exense.step/step-api-reporting@1.0.0?classifier=sources
+- pkg:maven/ch.exense.step/step-api-reporting@1.1.0
+- pkg:maven/ch.exense.step/step-api-reporting@1.1.0?classifier=sources
+- pkg:maven/ch.exense.step/step-api-reporting@1.1.1
+- pkg:maven/ch.exense.step/step-api-reporting@1.1.1?classifier=sources

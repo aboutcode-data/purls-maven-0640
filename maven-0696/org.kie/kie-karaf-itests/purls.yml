@@ -37,6 +37,10 @@
 - pkg:maven/org.kie/kie-karaf-itests@7.28.0.Final
 - pkg:maven/org.kie/kie-karaf-itests@7.29.0.Final
 - pkg:maven/org.kie/kie-karaf-itests@7.3.0.Final
+- pkg:maven/org.kie/kie-karaf-itests@7.30.0.Final
+- pkg:maven/org.kie/kie-karaf-itests@7.31.0.Final
+- pkg:maven/org.kie/kie-karaf-itests@7.32.0.Final
+- pkg:maven/org.kie/kie-karaf-itests@7.33.0.Final
 - pkg:maven/org.kie/kie-karaf-itests@7.4.0.Final
 - pkg:maven/org.kie/kie-karaf-itests@7.4.1.Final
 - pkg:maven/org.kie/kie-karaf-itests@7.5.0.Final

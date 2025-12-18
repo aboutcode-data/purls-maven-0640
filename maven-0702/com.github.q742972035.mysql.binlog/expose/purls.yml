@@ -1,0 +1,10 @@
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@0.0.0.1-SNAPSHOTS
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@0.0.0.1-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@0.0.0.2-SNAPSHOTS
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@0.0.0.2-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@0.0.0.3-SNAPSHOTS
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@0.0.0.3-SNAPSHOTS?classifier=sources
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@1.0.0?classifier=sources
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@1.0.1?classifier=sources
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@1.1.0
+- pkg:maven/com.github.q742972035.mysql.binlog/expose@1.1.0?classifier=sources

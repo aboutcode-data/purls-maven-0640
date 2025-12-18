@@ -1,2 +1,4 @@
 - pkg:maven/com.github.xuwei-k/msgpack4z-argonaut_2.13@0.5.3
 - pkg:maven/com.github.xuwei-k/msgpack4z-argonaut_2.13@0.5.3?classifier=sources
+- pkg:maven/com.github.xuwei-k/msgpack4z-argonaut_2.13@0.5.4
+- pkg:maven/com.github.xuwei-k/msgpack4z-argonaut_2.13@0.5.4?classifier=sources

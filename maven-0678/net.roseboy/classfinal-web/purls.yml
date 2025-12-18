@@ -1,0 +1,4 @@
+- pkg:maven/net.roseboy/classfinal-web@1.1.8
+- pkg:maven/net.roseboy/classfinal-web@1.1.8?classifier=sources
+- pkg:maven/net.roseboy/classfinal-web@1.1.9
+- pkg:maven/net.roseboy/classfinal-web@1.1.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.david-sledge/scalaioc_2.13@1.0.0-alpha.3
+- pkg:maven/io.github.david-sledge/scalaioc_2.13@1.0.0-alpha.3?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.sdl.delivery/iq-query-api@10.0.0-1012?classifier=sources
 - pkg:maven/com.sdl.delivery/iq-query-api@10.1.0-1015
 - pkg:maven/com.sdl.delivery/iq-query-api@10.1.0-1015?classifier=sources
+- pkg:maven/com.sdl.delivery/iq-query-api@10.1.1-1017
+- pkg:maven/com.sdl.delivery/iq-query-api@10.1.1-1017?classifier=sources

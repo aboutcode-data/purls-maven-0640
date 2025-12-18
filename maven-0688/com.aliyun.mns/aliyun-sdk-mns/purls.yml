@@ -33,4 +33,6 @@
 - pkg:maven/com.aliyun.mns/aliyun-sdk-mns@1.1.8.4?classifier=sources
 - pkg:maven/com.aliyun.mns/aliyun-sdk-mns@1.1.8.6
 - pkg:maven/com.aliyun.mns/aliyun-sdk-mns@1.1.8.6?classifier=sources
+- pkg:maven/com.aliyun.mns/aliyun-sdk-mns@1.1.8.8
+- pkg:maven/com.aliyun.mns/aliyun-sdk-mns@1.1.8.8?classifier=sources
 - pkg:maven/com.aliyun.mns/aliyun-sdk-mns@1.1.8?classifier=sources

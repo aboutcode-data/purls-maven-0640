@@ -44,3 +44,7 @@
 - pkg:maven/com.outworkers/util-samplers_2.12@0.51.0?classifier=sources
 - pkg:maven/com.outworkers/util-samplers_2.12@0.53.0
 - pkg:maven/com.outworkers/util-samplers_2.12@0.53.0?classifier=sources
+- pkg:maven/com.outworkers/util-samplers_2.12@0.55.0
+- pkg:maven/com.outworkers/util-samplers_2.12@0.55.0?classifier=sources
+- pkg:maven/com.outworkers/util-samplers_2.12@0.56.0
+- pkg:maven/com.outworkers/util-samplers_2.12@0.56.0?classifier=sources

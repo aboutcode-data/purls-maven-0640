@@ -64,3 +64,7 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-security-integration-shiro@3.4.1.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-security-integration-shiro@3.4.2.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-security-integration-shiro@3.4.2.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-security-integration-shiro@3.4.3.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-security-integration-shiro@3.4.3.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-security-integration-shiro@3.4.4.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-security-integration-shiro@3.4.4.Final?classifier=sources

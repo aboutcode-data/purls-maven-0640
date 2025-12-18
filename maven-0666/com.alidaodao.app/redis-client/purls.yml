@@ -1,0 +1,2 @@
+- pkg:maven/com.alidaodao.app/redis-client@1.0.2
+- pkg:maven/com.alidaodao.app/redis-client@1.0.2?classifier=sources

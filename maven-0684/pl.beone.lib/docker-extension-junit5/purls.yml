@@ -1,0 +1,2 @@
+- pkg:maven/pl.beone.lib/docker-extension-junit5@1.0.0
+- pkg:maven/pl.beone.lib/docker-extension-junit5@1.0.0?classifier=sources

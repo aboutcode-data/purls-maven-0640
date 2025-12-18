@@ -3,3 +3,7 @@
 - pkg:maven/com.robotemi/sdk-china@0.10.42?type=aar
 - pkg:maven/com.robotemi/sdk-china@0.10.44?type=aar
 - pkg:maven/com.robotemi/sdk-china@0.10.45?type=aar
+- pkg:maven/com.robotemi/sdk-china@0.10.46.1?type=aar
+- pkg:maven/com.robotemi/sdk-china@0.10.46?type=aar
+- pkg:maven/com.robotemi/sdk-china@0.10.48?type=aar
+- pkg:maven/com.robotemi/sdk-china@0.10.49?type=aar

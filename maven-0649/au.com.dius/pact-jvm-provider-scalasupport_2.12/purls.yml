@@ -94,3 +94,11 @@
 - pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.1?classifier=sources
 - pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.2
 - pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.2?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.3
+- pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.3?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.4
+- pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.4?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.5
+- pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.5?classifier=sources
+- pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.6
+- pkg:maven/au.com.dius/pact-jvm-provider-scalasupport_2.12@4.0.6?classifier=sources

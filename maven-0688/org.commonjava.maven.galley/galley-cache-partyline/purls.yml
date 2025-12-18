@@ -90,3 +90,7 @@
 - pkg:maven/org.commonjava.maven.galley/galley-cache-partyline@0.9.3.1?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cache-partyline@0.9.3?classifier=sources
 - pkg:maven/org.commonjava.maven.galley/galley-cache-partyline@0.9?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-cache-partyline@1.0
+- pkg:maven/org.commonjava.maven.galley/galley-cache-partyline@1.0?classifier=sources
+- pkg:maven/org.commonjava.maven.galley/galley-cache-partyline@1.1
+- pkg:maven/org.commonjava.maven.galley/galley-cache-partyline@1.1?classifier=sources

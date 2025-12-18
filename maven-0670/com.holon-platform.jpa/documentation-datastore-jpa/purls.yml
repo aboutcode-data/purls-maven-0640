@@ -34,3 +34,5 @@
 - pkg:maven/com.holon-platform.jpa/documentation-datastore-jpa@5.2.4?classifier=sources
 - pkg:maven/com.holon-platform.jpa/documentation-datastore-jpa@5.3.0
 - pkg:maven/com.holon-platform.jpa/documentation-datastore-jpa@5.3.0?classifier=sources
+- pkg:maven/com.holon-platform.jpa/documentation-datastore-jpa@5.4.0
+- pkg:maven/com.holon-platform.jpa/documentation-datastore-jpa@5.4.0?classifier=sources

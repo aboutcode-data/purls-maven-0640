@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hiwepy/jcaptcha-spring-boot-starter@1.0.2.RELEASE
+- pkg:maven/com.github.hiwepy/jcaptcha-spring-boot-starter@1.0.2.RELEASE?classifier=sources

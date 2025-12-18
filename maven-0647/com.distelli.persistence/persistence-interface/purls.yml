@@ -10,6 +10,8 @@
 - pkg:maven/com.distelli.persistence/persistence-interface@3.8.14?classifier=sources
 - pkg:maven/com.distelli.persistence/persistence-interface@3.8.15
 - pkg:maven/com.distelli.persistence/persistence-interface@3.8.15?classifier=sources
+- pkg:maven/com.distelli.persistence/persistence-interface@3.8.16
+- pkg:maven/com.distelli.persistence/persistence-interface@3.8.16?classifier=sources
 - pkg:maven/com.distelli.persistence/persistence-interface@3.8.8
 - pkg:maven/com.distelli.persistence/persistence-interface@3.8.8?classifier=sources
 - pkg:maven/com.distelli.persistence/persistence-interface@3.8.9

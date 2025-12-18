@@ -152,3 +152,11 @@
 - pkg:maven/com.mikepenz/iconics-core@4.0.1?type=aar
 - pkg:maven/com.mikepenz/iconics-core@4.0.2?classifier=sources
 - pkg:maven/com.mikepenz/iconics-core@4.0.2?type=aar
+- pkg:maven/com.mikepenz/iconics-core@5.0.0-a01?classifier=sources
+- pkg:maven/com.mikepenz/iconics-core@5.0.0-a01?type=aar
+- pkg:maven/com.mikepenz/iconics-core@5.0.0-a02?classifier=sources
+- pkg:maven/com.mikepenz/iconics-core@5.0.0-a02?type=aar
+- pkg:maven/com.mikepenz/iconics-core@5.0.0-a03?classifier=sources
+- pkg:maven/com.mikepenz/iconics-core@5.0.0-a03?type=aar
+- pkg:maven/com.mikepenz/iconics-core@5.0.0-a04?classifier=sources
+- pkg:maven/com.mikepenz/iconics-core@5.0.0-a04?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.jooq/jooq-test@3.12.4
+- pkg:maven/org.jooq/jooq-test@3.12.4?classifier=sources

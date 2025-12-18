@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mquery@3.2.2
+- pkg:maven/org.webjars.npm/mquery@3.2.2?classifier=sources

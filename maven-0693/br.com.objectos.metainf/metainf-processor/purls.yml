@@ -1,0 +1,2 @@
+- pkg:maven/br.com.objectos.metainf/metainf-processor@0.20.0
+- pkg:maven/br.com.objectos.metainf/metainf-processor@0.20.0?classifier=sources

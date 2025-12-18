@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.classic/zipkin-ui@2.12.12
+- pkg:maven/io.zipkin.classic/zipkin-ui@2.12.13

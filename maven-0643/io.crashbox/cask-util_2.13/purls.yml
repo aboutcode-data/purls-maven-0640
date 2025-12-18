@@ -1,0 +1,2 @@
+- pkg:maven/io.crashbox/cask-util_2.13@0.3.6-4-ff7687
+- pkg:maven/io.crashbox/cask-util_2.13@0.3.6-4-ff7687?classifier=sources

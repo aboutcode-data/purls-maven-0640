@@ -1,0 +1,2 @@
+- pkg:maven/com.mastfrog/simplevalidation-bunch-demo@1.14
+- pkg:maven/com.mastfrog/simplevalidation-bunch-demo@1.14?classifier=sources

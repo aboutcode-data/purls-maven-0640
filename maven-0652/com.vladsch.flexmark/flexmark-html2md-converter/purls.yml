@@ -22,3 +22,15 @@
 - pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.40?classifier=sources
 - pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.42
 - pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.42?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.44
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.44?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.46
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.46?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.48
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.48?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.50
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.50?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.60.0
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.60.0?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.60.2
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.60.2?classifier=sources

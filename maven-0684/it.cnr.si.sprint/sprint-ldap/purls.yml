@@ -1,0 +1,10 @@
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@2.3.16
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@2.3.16?classifier=sources
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@2.3.17
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@2.3.17?classifier=sources
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@2.3.18
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@2.3.18?classifier=sources
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@3.0.0
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@3.0.0?classifier=sources
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@3.0.1
+- pkg:maven/it.cnr.si.sprint/sprint-ldap@3.0.1?classifier=sources

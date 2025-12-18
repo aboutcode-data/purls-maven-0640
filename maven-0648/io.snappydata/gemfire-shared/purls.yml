@@ -38,5 +38,7 @@
 - pkg:maven/io.snappydata/gemfire-shared@1.6.3?classifier=sources
 - pkg:maven/io.snappydata/gemfire-shared@1.6.4
 - pkg:maven/io.snappydata/gemfire-shared@1.6.4?classifier=sources
+- pkg:maven/io.snappydata/gemfire-shared@1.6.5
+- pkg:maven/io.snappydata/gemfire-shared@1.6.5?classifier=sources
 - pkg:maven/io.snappydata/gemfire-shared@2.0-BETA
 - pkg:maven/io.snappydata/gemfire-shared@2.0-BETA?classifier=sources

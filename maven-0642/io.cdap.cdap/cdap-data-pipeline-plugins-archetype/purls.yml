@@ -1,1 +1,2 @@
 - pkg:maven/io.cdap.cdap/cdap-data-pipeline-plugins-archetype@6.0.0
+- pkg:maven/io.cdap.cdap/cdap-data-pipeline-plugins-archetype@6.1.1

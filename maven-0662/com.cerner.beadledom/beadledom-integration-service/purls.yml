@@ -1,2 +1,6 @@
 - pkg:maven/com.cerner.beadledom/beadledom-integration-service@3.3?classifier=sources
 - pkg:maven/com.cerner.beadledom/beadledom-integration-service@3.3?type=war
+- pkg:maven/com.cerner.beadledom/beadledom-integration-service@3.4?classifier=sources
+- pkg:maven/com.cerner.beadledom/beadledom-integration-service@3.4?type=war
+- pkg:maven/com.cerner.beadledom/beadledom-integration-service@3.5?classifier=sources
+- pkg:maven/com.cerner.beadledom/beadledom-integration-service@3.5?type=war

@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.kylin/kylin-server@3.0.0-alpha2?type=war
 - pkg:maven/org.apache.kylin/kylin-server@3.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-server@3.0.0-alpha?type=war
+- pkg:maven/org.apache.kylin/kylin-server@3.0.0?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-server@3.0.0?type=war

@@ -1,2 +1,4 @@
 - pkg:maven/com.jslsolucoes/properties@1.0.0
 - pkg:maven/com.jslsolucoes/properties@1.0.0?classifier=sources
+- pkg:maven/com.jslsolucoes/properties@1.0.33
+- pkg:maven/com.jslsolucoes/properties@1.0.33?classifier=sources

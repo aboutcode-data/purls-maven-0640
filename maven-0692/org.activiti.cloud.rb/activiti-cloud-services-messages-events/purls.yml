@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti.cloud.rb/activiti-cloud-services-messages-events@7.1.0.M6
+- pkg:maven/org.activiti.cloud.rb/activiti-cloud-services-messages-events@7.1.0.M6?classifier=sources

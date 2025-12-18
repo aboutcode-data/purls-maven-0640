@@ -455,3 +455,9 @@
 - pkg:maven/com.floragunn/search-guard-6@6.8.4-25.5-api
 - pkg:maven/com.floragunn/search-guard-6@6.8.4-25.5-api?classifier=sources
 - pkg:maven/com.floragunn/search-guard-6@6.8.4-25.5?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.8.5-25.5-api
+- pkg:maven/com.floragunn/search-guard-6@6.8.5-25.5-api?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.8.5-25.5?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.8.6-25.5-api
+- pkg:maven/com.floragunn/search-guard-6@6.8.6-25.5-api?classifier=sources
+- pkg:maven/com.floragunn/search-guard-6@6.8.6-25.5?classifier=sources

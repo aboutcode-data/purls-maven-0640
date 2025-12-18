@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/types__estree@0.0.38?classifier=sources
 - pkg:maven/org.webjars.npm/types__estree@0.0.39
 - pkg:maven/org.webjars.npm/types__estree@0.0.39?classifier=sources
+- pkg:maven/org.webjars.npm/types__estree@0.0.42
+- pkg:maven/org.webjars.npm/types__estree@0.0.42?classifier=sources

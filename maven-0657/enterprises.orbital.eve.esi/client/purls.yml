@@ -232,3 +232,5 @@
 - pkg:maven/enterprises.orbital.eve.esi/client@1.0.0.20191028?classifier=sources
 - pkg:maven/enterprises.orbital.eve.esi/client@1.0.0.20191104
 - pkg:maven/enterprises.orbital.eve.esi/client@1.0.0.20191104?classifier=sources
+- pkg:maven/enterprises.orbital.eve.esi/client@1.0.0.20191111
+- pkg:maven/enterprises.orbital.eve.esi/client@1.0.0.20191111?classifier=sources

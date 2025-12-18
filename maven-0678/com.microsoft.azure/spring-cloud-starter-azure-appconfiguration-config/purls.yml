@@ -1,3 +1,4 @@
+- pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0
 - pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0.M1
 - pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0.M1?classifier=sources
 - pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0.M2
@@ -8,3 +9,10 @@
 - pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0.M4?classifier=sources
 - pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0.M5
 - pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0.M5?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0.M6
+- pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0.M6?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.0?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.1
+- pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.1.1?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.2.1
+- pkg:maven/com.microsoft.azure/spring-cloud-starter-azure-appconfiguration-config@1.2.1?classifier=sources

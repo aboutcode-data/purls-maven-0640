@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.map/tencent-map-nav-record@1.0.0.1?type=aar
+- pkg:maven/com.tencent.map/tencent-map-nav-record@1.0.0.2?type=aar

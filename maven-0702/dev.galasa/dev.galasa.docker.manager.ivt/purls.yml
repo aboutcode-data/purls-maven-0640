@@ -1,0 +1,2 @@
+- pkg:maven/dev.galasa/dev.galasa.docker.manager.ivt@0.4.0
+- pkg:maven/dev.galasa/dev.galasa.docker.manager.ivt@0.4.0?classifier=sources

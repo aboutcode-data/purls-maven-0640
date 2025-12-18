@@ -1,0 +1,2 @@
+- pkg:maven/com.harium.keel/boofcv@0.34.0
+- pkg:maven/com.harium.keel/boofcv@0.34.0?classifier=sources

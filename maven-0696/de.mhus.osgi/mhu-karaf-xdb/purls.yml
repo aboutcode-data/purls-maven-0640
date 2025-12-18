@@ -22,3 +22,5 @@
 - pkg:maven/de.mhus.osgi/mhu-karaf-xdb@1.6.2?classifier=sources
 - pkg:maven/de.mhus.osgi/mhu-karaf-xdb@1.6.3
 - pkg:maven/de.mhus.osgi/mhu-karaf-xdb@1.6.3?classifier=sources
+- pkg:maven/de.mhus.osgi/mhu-karaf-xdb@6.4.0
+- pkg:maven/de.mhus.osgi/mhu-karaf-xdb@6.4.0?classifier=sources

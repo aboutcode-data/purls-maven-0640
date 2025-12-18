@@ -4,3 +4,4 @@
 - pkg:maven/com.ToxicBakery.logging/common-metadata@1.29.60?classifier=sources
 - pkg:maven/com.ToxicBakery.logging/common-metadata@1.30.70?classifier=sources
 - pkg:maven/com.ToxicBakery.logging/common-metadata@1.31.76?classifier=sources
+- pkg:maven/com.ToxicBakery.logging/common-metadata@1.34.109?classifier=sources

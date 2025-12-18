@@ -1,0 +1,2 @@
+- pkg:maven/pl.beone.promena.base/promena-core-application-model-akka@1.0.0
+- pkg:maven/pl.beone.promena.base/promena-core-application-model-akka@1.0.0?classifier=sources

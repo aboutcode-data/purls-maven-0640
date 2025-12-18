@@ -42,3 +42,5 @@
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@2.0.8?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@2.0.9
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@2.0.9?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@2.1.0
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-usage-statistics@2.1.0?classifier=sources

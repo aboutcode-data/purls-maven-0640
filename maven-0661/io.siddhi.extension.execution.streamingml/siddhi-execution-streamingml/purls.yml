@@ -7,3 +7,6 @@
 - pkg:maven/io.siddhi.extension.execution.streamingml/siddhi-execution-streamingml@2.0.3
 - pkg:maven/io.siddhi.extension.execution.streamingml/siddhi-execution-streamingml@2.0.3?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.execution.streamingml/siddhi-execution-streamingml@2.0.3?classifier=sources
+- pkg:maven/io.siddhi.extension.execution.streamingml/siddhi-execution-streamingml@2.0.4
+- pkg:maven/io.siddhi.extension.execution.streamingml/siddhi-execution-streamingml@2.0.4?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.execution.streamingml/siddhi-execution-streamingml@2.0.4?classifier=sources

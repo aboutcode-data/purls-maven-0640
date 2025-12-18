@@ -20,3 +20,5 @@
 - pkg:maven/com.manorrock.oyena/oyena-action@2.3.8.0?classifier=sources
 - pkg:maven/com.manorrock.oyena/oyena-action@2.3.9.0
 - pkg:maven/com.manorrock.oyena/oyena-action@2.3.9.0?classifier=sources
+- pkg:maven/com.manorrock.oyena/oyena-action@20.2.0
+- pkg:maven/com.manorrock.oyena/oyena-action@20.2.0?classifier=sources

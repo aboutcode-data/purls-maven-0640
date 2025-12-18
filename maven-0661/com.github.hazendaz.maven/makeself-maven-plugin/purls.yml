@@ -24,3 +24,5 @@
 - pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.1.4?classifier=sources
 - pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.1.5
 - pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.1.5?classifier=sources
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.2.0
+- pkg:maven/com.github.hazendaz.maven/makeself-maven-plugin@1.2.0?classifier=sources

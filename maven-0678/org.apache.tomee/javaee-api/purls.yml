@@ -10,6 +10,9 @@
 - pkg:maven/org.apache.tomee/javaee-api@8.0-2?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/javaee-api@8.0-2?classifier=sources
 - pkg:maven/org.apache.tomee/javaee-api@8.0-2?type=zip
+- pkg:maven/org.apache.tomee/javaee-api@8.0-3?classifier=source-release&type=zip
+- pkg:maven/org.apache.tomee/javaee-api@8.0-3?classifier=sources
+- pkg:maven/org.apache.tomee/javaee-api@8.0-3?type=zip
 - pkg:maven/org.apache.tomee/javaee-api@8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.tomee/javaee-api@8.0?classifier=sources
 - pkg:maven/org.apache.tomee/javaee-api@8.0?type=zip

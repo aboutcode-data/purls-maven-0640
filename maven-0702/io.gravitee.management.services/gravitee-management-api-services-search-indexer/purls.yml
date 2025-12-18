@@ -8,6 +8,13 @@
 - pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.13?classifier=sources
 - pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.14?classifier=sources
 - pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.15?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.16?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.17?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.18?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.19?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.20?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.21?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.22?classifier=sources
 - pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.3?classifier=sources
 - pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.4?classifier=sources
 - pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.25.5?classifier=sources
@@ -35,3 +42,7 @@
 - pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.29.4?classifier=sources
 - pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.29.5?classifier=sources
 - pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.29.6?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.30.0?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.30.1?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.30.2?classifier=sources
+- pkg:maven/io.gravitee.management.services/gravitee-management-api-services-search-indexer@1.30.3?classifier=sources

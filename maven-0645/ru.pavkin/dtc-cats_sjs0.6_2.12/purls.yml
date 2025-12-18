@@ -22,3 +22,7 @@
 - pkg:maven/ru.pavkin/dtc-cats_sjs0.6_2.12@2.2.0?classifier=sources
 - pkg:maven/ru.pavkin/dtc-cats_sjs0.6_2.12@2.3.0
 - pkg:maven/ru.pavkin/dtc-cats_sjs0.6_2.12@2.3.0?classifier=sources
+- pkg:maven/ru.pavkin/dtc-cats_sjs0.6_2.12@2.3.1
+- pkg:maven/ru.pavkin/dtc-cats_sjs0.6_2.12@2.3.1?classifier=sources
+- pkg:maven/ru.pavkin/dtc-cats_sjs0.6_2.12@2.4.0
+- pkg:maven/ru.pavkin/dtc-cats_sjs0.6_2.12@2.4.0?classifier=sources

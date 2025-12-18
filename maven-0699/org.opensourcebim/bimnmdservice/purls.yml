@@ -5,6 +5,8 @@
 - pkg:maven/org.opensourcebim/bimnmdservice@0.2
 - pkg:maven/org.opensourcebim/bimnmdservice@0.21?classifier=sources
 - pkg:maven/org.opensourcebim/bimnmdservice@0.22?classifier=sources
+- pkg:maven/org.opensourcebim/bimnmdservice@0.23?classifier=sources
+- pkg:maven/org.opensourcebim/bimnmdservice@0.24?classifier=sources
 - pkg:maven/org.opensourcebim/bimnmdservice@0.2?classifier=sources
 - pkg:maven/org.opensourcebim/bimnmdservice@0.7
 - pkg:maven/org.opensourcebim/bimnmdservice@0.7?classifier=sources

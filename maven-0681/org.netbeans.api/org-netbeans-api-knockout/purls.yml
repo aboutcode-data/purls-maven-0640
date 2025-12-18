@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-knockout@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-knockout@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-knockout@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-knockout@RELEASE113?classifier=sources

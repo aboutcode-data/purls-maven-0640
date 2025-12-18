@@ -6,3 +6,4 @@
 - pkg:maven/com.monday-consulting.maven.plugins/fsm-maven-plugin@1.5.1
 - pkg:maven/com.monday-consulting.maven.plugins/fsm-maven-plugin@1.5.2
 - pkg:maven/com.monday-consulting.maven.plugins/fsm-maven-plugin@1.5.3
+- pkg:maven/com.monday-consulting.maven.plugins/fsm-maven-plugin@1.6.0

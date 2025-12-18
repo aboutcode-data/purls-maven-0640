@@ -46,5 +46,13 @@
 - pkg:maven/org.springframework.session/spring-session-data-gemfire@2.1.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-data-gemfire@2.1.6.RELEASE
 - pkg:maven/org.springframework.session/spring-session-data-gemfire@2.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-data-gemfire@2.1.7.RELEASE
+- pkg:maven/org.springframework.session/spring-session-data-gemfire@2.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-data-gemfire@2.1.8.RELEASE
+- pkg:maven/org.springframework.session/spring-session-data-gemfire@2.1.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.session/spring-session-data-gemfire@2.2.0.RELEASE
 - pkg:maven/org.springframework.session/spring-session-data-gemfire@2.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-data-gemfire@2.2.1.RELEASE
+- pkg:maven/org.springframework.session/spring-session-data-gemfire@2.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.session/spring-session-data-gemfire@2.2.2.RELEASE
+- pkg:maven/org.springframework.session/spring-session-data-gemfire@2.2.2.RELEASE?classifier=sources

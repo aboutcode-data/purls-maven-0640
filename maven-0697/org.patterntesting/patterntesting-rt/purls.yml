@@ -40,3 +40,5 @@
 - pkg:maven/org.patterntesting/patterntesting-rt@1.7.2?classifier=sources
 - pkg:maven/org.patterntesting/patterntesting-rt@1.8.0
 - pkg:maven/org.patterntesting/patterntesting-rt@1.8.0?classifier=sources
+- pkg:maven/org.patterntesting/patterntesting-rt@2.0.0
+- pkg:maven/org.patterntesting/patterntesting-rt@2.0.0?classifier=sources

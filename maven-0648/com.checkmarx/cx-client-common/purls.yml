@@ -16,3 +16,5 @@
 - pkg:maven/com.checkmarx/cx-client-common@8.90.4?classifier=sources
 - pkg:maven/com.checkmarx/cx-client-common@8.90.5
 - pkg:maven/com.checkmarx/cx-client-common@8.90.5?classifier=sources
+- pkg:maven/com.checkmarx/cx-client-common@9.00.9
+- pkg:maven/com.checkmarx/cx-client-common@9.00.9?classifier=sources

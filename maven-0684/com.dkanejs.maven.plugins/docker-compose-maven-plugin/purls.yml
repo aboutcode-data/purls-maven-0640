@@ -22,3 +22,5 @@
 - pkg:maven/com.dkanejs.maven.plugins/docker-compose-maven-plugin@2.5.0?classifier=sources
 - pkg:maven/com.dkanejs.maven.plugins/docker-compose-maven-plugin@2.5.1
 - pkg:maven/com.dkanejs.maven.plugins/docker-compose-maven-plugin@2.5.1?classifier=sources
+- pkg:maven/com.dkanejs.maven.plugins/docker-compose-maven-plugin@3.0.0
+- pkg:maven/com.dkanejs.maven.plugins/docker-compose-maven-plugin@3.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.arakhne.afc.bootique/bootique-log4j@15.2?classifier=sources
 - pkg:maven/org.arakhne.afc.bootique/bootique-log4j@16.0
 - pkg:maven/org.arakhne.afc.bootique/bootique-log4j@16.0?classifier=sources
+- pkg:maven/org.arakhne.afc.bootique/bootique-log4j@17.0
+- pkg:maven/org.arakhne.afc.bootique/bootique-log4j@17.0?classifier=sources

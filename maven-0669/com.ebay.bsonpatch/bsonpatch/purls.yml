@@ -8,3 +8,5 @@
 - pkg:maven/com.ebay.bsonpatch/bsonpatch@0.4.3?classifier=sources
 - pkg:maven/com.ebay.bsonpatch/bsonpatch@0.4.4
 - pkg:maven/com.ebay.bsonpatch/bsonpatch@0.4.4?classifier=sources
+- pkg:maven/com.ebay.bsonpatch/bsonpatch@0.4.9
+- pkg:maven/com.ebay.bsonpatch/bsonpatch@0.4.9?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/ba.sake/hepek-play_2.12@0.4.0?classifier=sources
 - pkg:maven/ba.sake/hepek-play_2.12@0.4.1
 - pkg:maven/ba.sake/hepek-play_2.12@0.4.1?classifier=sources
+- pkg:maven/ba.sake/hepek-play_2.12@0.5.0
+- pkg:maven/ba.sake/hepek-play_2.12@0.5.0?classifier=sources
+- pkg:maven/ba.sake/hepek-play_2.12@0.6.0
+- pkg:maven/ba.sake/hepek-play_2.12@0.6.0?classifier=sources

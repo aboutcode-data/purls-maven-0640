@@ -120,3 +120,5 @@
 - pkg:maven/com.baidu/jprotobuf-rpc-core-test@3.5.8?classifier=sources
 - pkg:maven/com.baidu/jprotobuf-rpc-core-test@3.5.9
 - pkg:maven/com.baidu/jprotobuf-rpc-core-test@3.5.9?classifier=sources
+- pkg:maven/com.baidu/jprotobuf-rpc-core-test@4.1.0
+- pkg:maven/com.baidu/jprotobuf-rpc-core-test@4.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ca.islandora.alpaca/islandora-event-support@1.0.2
+- pkg:maven/ca.islandora.alpaca/islandora-event-support@1.0.2?classifier=sources

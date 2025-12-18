@@ -1,0 +1,6 @@
+- pkg:maven/fun.hereis.code/swagger-pdf@1.15.RLS
+- pkg:maven/fun.hereis.code/swagger-pdf@1.15.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/swagger-pdf@1.16.RLS
+- pkg:maven/fun.hereis.code/swagger-pdf@1.16.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/swagger-pdf@1.17.RLS
+- pkg:maven/fun.hereis.code/swagger-pdf@1.17.RLS?classifier=sources

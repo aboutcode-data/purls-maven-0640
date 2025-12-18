@@ -7,4 +7,10 @@
 - pkg:maven/com.addc/addc-svr-security@2.7
 - pkg:maven/com.addc/addc-svr-security@2.7?classifier=sources
 - pkg:maven/com.addc/addc-svr-security@2.8
+- pkg:maven/com.addc/addc-svr-security@2.8.1
+- pkg:maven/com.addc/addc-svr-security@2.8.1?classifier=sources
+- pkg:maven/com.addc/addc-svr-security@2.8.2
+- pkg:maven/com.addc/addc-svr-security@2.8.2?classifier=sources
+- pkg:maven/com.addc/addc-svr-security@2.8.3
+- pkg:maven/com.addc/addc-svr-security@2.8.3?classifier=sources
 - pkg:maven/com.addc/addc-svr-security@2.8?classifier=sources

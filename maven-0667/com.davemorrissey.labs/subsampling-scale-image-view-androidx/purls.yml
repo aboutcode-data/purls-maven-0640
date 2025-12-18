@@ -1,0 +1,2 @@
+- pkg:maven/com.davemorrissey.labs/subsampling-scale-image-view-androidx@3.10.0?classifier=sources
+- pkg:maven/com.davemorrissey.labs/subsampling-scale-image-view-androidx@3.10.0?type=aar

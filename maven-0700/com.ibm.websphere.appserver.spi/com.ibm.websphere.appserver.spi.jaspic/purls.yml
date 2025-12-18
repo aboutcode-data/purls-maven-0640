@@ -19,3 +19,6 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jaspic@1.1.32
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jaspic@1.1.33
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jaspic@1.1.34
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jaspic@1.1.35
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jaspic@1.1.36
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jaspic@1.1.37

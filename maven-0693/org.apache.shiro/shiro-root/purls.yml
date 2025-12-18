@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.shiro/shiro-root@1.4.0-RC2?classifier=source-release&type=zip
 - pkg:maven/org.apache.shiro/shiro-root@1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.shiro/shiro-root@1.4.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.shiro/shiro-root@1.4.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.shiro/shiro-root@1.5.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.shiro/shiro-root@1.5.1?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.4.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.4.0.RELEASE?classifier=sources

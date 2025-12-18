@@ -1,0 +1,2 @@
+- pkg:maven/com.byteblogs/byteblogs-data-boot-starter@0.0.2-RELEASE
+- pkg:maven/com.byteblogs/byteblogs-data-boot-starter@0.0.2-RELEASE?classifier=sources

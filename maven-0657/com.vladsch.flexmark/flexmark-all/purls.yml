@@ -135,6 +135,7 @@
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.42.0
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.42.10
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.42.12
+- pkg:maven/com.vladsch.flexmark/flexmark-all@0.42.14
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.42.2
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.42.4
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.42.6
@@ -154,3 +155,9 @@
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.50.4
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.50.40
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.50.42
+- pkg:maven/com.vladsch.flexmark/flexmark-all@0.50.44
+- pkg:maven/com.vladsch.flexmark/flexmark-all@0.50.46
+- pkg:maven/com.vladsch.flexmark/flexmark-all@0.50.48
+- pkg:maven/com.vladsch.flexmark/flexmark-all@0.50.50
+- pkg:maven/com.vladsch.flexmark/flexmark-all@0.60.0
+- pkg:maven/com.vladsch.flexmark/flexmark-all@0.60.2

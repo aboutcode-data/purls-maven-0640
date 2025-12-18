@@ -8,6 +8,8 @@
 - pkg:maven/uk.co.jhc/sqlest_2.12@0.8.13?classifier=sources
 - pkg:maven/uk.co.jhc/sqlest_2.12@0.8.14
 - pkg:maven/uk.co.jhc/sqlest_2.12@0.8.14?classifier=sources
+- pkg:maven/uk.co.jhc/sqlest_2.12@0.8.15
+- pkg:maven/uk.co.jhc/sqlest_2.12@0.8.15?classifier=sources
 - pkg:maven/uk.co.jhc/sqlest_2.12@0.8.6
 - pkg:maven/uk.co.jhc/sqlest_2.12@0.8.6?classifier=sources
 - pkg:maven/uk.co.jhc/sqlest_2.12@0.8.7

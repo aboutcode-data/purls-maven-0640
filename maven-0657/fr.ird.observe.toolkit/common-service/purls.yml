@@ -50,6 +50,8 @@
 - pkg:maven/fr.ird.observe.toolkit/common-service@3.7.2
 - pkg:maven/fr.ird.observe.toolkit/common-service@3.7.20
 - pkg:maven/fr.ird.observe.toolkit/common-service@3.7.20?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/common-service@3.7.21
+- pkg:maven/fr.ird.observe.toolkit/common-service@3.7.21?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-service@3.7.2?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-service@3.7.3
 - pkg:maven/fr.ird.observe.toolkit/common-service@3.7.3?classifier=sources
@@ -93,6 +95,14 @@
 - pkg:maven/fr.ird.observe.toolkit/common-service@4.19?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-service@4.1?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-service@4.2
+- pkg:maven/fr.ird.observe.toolkit/common-service@4.20
+- pkg:maven/fr.ird.observe.toolkit/common-service@4.20?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/common-service@4.21
+- pkg:maven/fr.ird.observe.toolkit/common-service@4.21?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/common-service@4.22
+- pkg:maven/fr.ird.observe.toolkit/common-service@4.22?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/common-service@4.23
+- pkg:maven/fr.ird.observe.toolkit/common-service@4.23?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-service@4.2?classifier=sources
 - pkg:maven/fr.ird.observe.toolkit/common-service@4.3
 - pkg:maven/fr.ird.observe.toolkit/common-service@4.3?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/io.gsonfire/gson-fire@1.8.4-alpha?classifier=sources
 - pkg:maven/io.gsonfire/gson-fire@1.9.0-alpha1
 - pkg:maven/io.gsonfire/gson-fire@1.9.0-alpha1?classifier=sources
+- pkg:maven/io.gsonfire/gson-fire@1.9.0-alpha2
+- pkg:maven/io.gsonfire/gson-fire@1.9.0-alpha2?classifier=sources

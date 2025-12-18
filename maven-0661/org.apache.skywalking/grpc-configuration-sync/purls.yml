@@ -1,3 +1,5 @@
 - pkg:maven/org.apache.skywalking/grpc-configuration-sync@6.2.0
 - pkg:maven/org.apache.skywalking/grpc-configuration-sync@6.3.0
 - pkg:maven/org.apache.skywalking/grpc-configuration-sync@6.4.0
+- pkg:maven/org.apache.skywalking/grpc-configuration-sync@6.5.0
+- pkg:maven/org.apache.skywalking/grpc-configuration-sync@6.6.0

@@ -1,2 +1,4 @@
 - pkg:maven/io.gridgo/gridgo-xrpc@0.7.0
 - pkg:maven/io.gridgo/gridgo-xrpc@0.7.0?classifier=sources
+- pkg:maven/io.gridgo/gridgo-xrpc@0.8.0
+- pkg:maven/io.gridgo/gridgo-xrpc@0.8.0?classifier=sources

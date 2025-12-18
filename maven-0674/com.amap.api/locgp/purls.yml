@@ -1,0 +1,2 @@
+- pkg:maven/com.amap.api/locgp@4.7.1
+- pkg:maven/com.amap.api/locgp@4.7.1?classifier=sources

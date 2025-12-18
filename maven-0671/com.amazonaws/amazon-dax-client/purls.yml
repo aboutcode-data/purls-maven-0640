@@ -10,3 +10,11 @@
 - pkg:maven/com.amazonaws/amazon-dax-client@1.0.202289.0?classifier=sources
 - pkg:maven/com.amazonaws/amazon-dax-client@1.0.204071.0
 - pkg:maven/com.amazonaws/amazon-dax-client@1.0.204071.0?classifier=sources
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.204963.0
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.204963.0?classifier=sources
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.205044.0
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.205044.0?classifier=sources
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.205747.0
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.205747.0?classifier=sources
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.205917.0
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.205917.0?classifier=sources

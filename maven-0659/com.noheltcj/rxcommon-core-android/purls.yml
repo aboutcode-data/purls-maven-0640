@@ -1,1 +1,2 @@
 - pkg:maven/com.noheltcj/rxcommon-core-android@0.6.0?classifier=sources
+- pkg:maven/com.noheltcj/rxcommon-core-android@0.6.1?classifier=sources
