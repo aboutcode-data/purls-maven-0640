@@ -1,2 +1,4 @@
+- pkg:maven/org.scala-sbt.jline/jline@2.14.7-sbt-42b717d4418374417765c7651dca69b1b75d8b84
+- pkg:maven/org.scala-sbt.jline/jline@2.14.7-sbt-42b717d4418374417765c7651dca69b1b75d8b84?classifier=sources
 - pkg:maven/org.scala-sbt.jline/jline@2.14.7-sbt-5e51b9d4f9631ebfa29753ce4accc57808e7fd6b
 - pkg:maven/org.scala-sbt.jline/jline@2.14.7-sbt-5e51b9d4f9631ebfa29753ce4accc57808e7fd6b?classifier=sources

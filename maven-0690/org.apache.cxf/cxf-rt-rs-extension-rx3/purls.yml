@@ -2,3 +2,9 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx3@3.2.14?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx3@3.3.7
 - pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx3@3.3.7?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx3@3.3.8
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx3@3.3.8?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx3@3.4.0
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx3@3.4.0?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx3@3.4.1
+- pkg:maven/org.apache.cxf/cxf-rt-rs-extension-rx3@3.4.1?classifier=sources

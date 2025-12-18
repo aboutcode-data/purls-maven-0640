@@ -1,0 +1,8 @@
+- pkg:maven/dev.forkhandles/result4k@0.18.0.0
+- pkg:maven/dev.forkhandles/result4k@0.18.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k@1.0.0.0
+- pkg:maven/dev.forkhandles/result4k@1.0.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k@1.1.0.0
+- pkg:maven/dev.forkhandles/result4k@1.1.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k@1.2.0.0
+- pkg:maven/dev.forkhandles/result4k@1.2.0.0?classifier=sources

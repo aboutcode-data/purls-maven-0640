@@ -1,0 +1,2 @@
+- pkg:maven/dk.danskebank.markets/lifecycle@0.0.1?classifier=sources
+- pkg:maven/dk.danskebank.markets/lifecycle@1.0.0?classifier=sources

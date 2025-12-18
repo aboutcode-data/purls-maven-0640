@@ -25,4 +25,12 @@
 - pkg:maven/cloud.testload/jmeter.pack-listener@2.0
 - pkg:maven/cloud.testload/jmeter.pack-listener@2.01
 - pkg:maven/cloud.testload/jmeter.pack-listener@2.01?classifier=sources
+- pkg:maven/cloud.testload/jmeter.pack-listener@2.03
+- pkg:maven/cloud.testload/jmeter.pack-listener@2.03?classifier=sources
+- pkg:maven/cloud.testload/jmeter.pack-listener@2.04
+- pkg:maven/cloud.testload/jmeter.pack-listener@2.04?classifier=sources
+- pkg:maven/cloud.testload/jmeter.pack-listener@2.06
+- pkg:maven/cloud.testload/jmeter.pack-listener@2.06?classifier=sources
+- pkg:maven/cloud.testload/jmeter.pack-listener@2.07
+- pkg:maven/cloud.testload/jmeter.pack-listener@2.07?classifier=sources
 - pkg:maven/cloud.testload/jmeter.pack-listener@2.0?classifier=sources

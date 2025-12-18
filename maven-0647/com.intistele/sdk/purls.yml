@@ -4,3 +4,5 @@
 - pkg:maven/com.intistele/sdk@1.7?classifier=sources
 - pkg:maven/com.intistele/sdk@1.8
 - pkg:maven/com.intistele/sdk@1.8?classifier=sources
+- pkg:maven/com.intistele/sdk@2.0
+- pkg:maven/com.intistele/sdk@2.0?classifier=sources

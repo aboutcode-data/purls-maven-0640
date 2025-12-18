@@ -1,0 +1,4 @@
+- pkg:maven/com.cankoluman/ioCSV@0.5
+- pkg:maven/com.cankoluman/ioCSV@0.52
+- pkg:maven/com.cankoluman/ioCSV@0.52?classifier=sources
+- pkg:maven/com.cankoluman/ioCSV@0.5?classifier=sources

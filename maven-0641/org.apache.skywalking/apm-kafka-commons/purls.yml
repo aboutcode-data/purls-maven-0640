@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-kafka-commons@8.2.0
+- pkg:maven/org.apache.skywalking/apm-kafka-commons@8.2.0?classifier=sources

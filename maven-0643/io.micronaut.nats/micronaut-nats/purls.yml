@@ -1,2 +1,5 @@
 - pkg:maven/io.micronaut.nats/micronaut-nats@1.0.0.RC1?classifier=sources
 - pkg:maven/io.micronaut.nats/micronaut-nats@1.0.0?classifier=sources
+- pkg:maven/io.micronaut.nats/micronaut-nats@1.0.1?classifier=sources
+- pkg:maven/io.micronaut.nats/micronaut-nats@2.0.0?classifier=sources
+- pkg:maven/io.micronaut.nats/micronaut-nats@2.1.0?classifier=sources

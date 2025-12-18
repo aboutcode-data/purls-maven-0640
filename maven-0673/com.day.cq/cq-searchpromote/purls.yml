@@ -1,0 +1,2 @@
+- pkg:maven/com.day.cq/cq-searchpromote@5.5.2?classifier=sources
+- pkg:maven/com.day.cq/cq-searchpromote@5.6.4?classifier=sources

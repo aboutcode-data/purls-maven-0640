@@ -97,6 +97,8 @@
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@6.0
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@6.0?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@6.1
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@6.10
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@6.10?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@6.1?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@6.2
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@6.2?classifier=sources
@@ -114,6 +116,8 @@
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@6.7?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@6.8
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@6.8?classifier=sources
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@6.9
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@6.9?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@7.0
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@7.0?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@7.1
@@ -136,3 +140,15 @@
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@7.7?classifier=sources
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@7.8
 - pkg:maven/de.adorsys.ledgers/xs2a-connector@7.8?classifier=sources
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@7.9
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@7.9?classifier=sources
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@8.0
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@8.0?classifier=sources
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@8.1
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@8.1?classifier=sources
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@8.2
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@8.2?classifier=sources
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@9.0
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@9.0?classifier=sources
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@9.1
+- pkg:maven/de.adorsys.ledgers/xs2a-connector@9.1?classifier=sources

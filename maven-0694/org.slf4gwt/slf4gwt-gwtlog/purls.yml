@@ -1,0 +1,2 @@
+- pkg:maven/org.slf4gwt/slf4gwt-gwtlog@1.1
+- pkg:maven/org.slf4gwt/slf4gwt-gwtlog@1.1?classifier=sources

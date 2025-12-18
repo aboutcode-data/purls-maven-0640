@@ -1,0 +1,2 @@
+- pkg:maven/com.github.spice-h2020/sparql.anything.engine@0.0.1
+- pkg:maven/com.github.spice-h2020/sparql.anything.engine@0.0.1?classifier=sources

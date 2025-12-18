@@ -1,2 +1,6 @@
 - pkg:maven/ai.djl.onnxruntime/onnxruntime-engine@0.6.0
 - pkg:maven/ai.djl.onnxruntime/onnxruntime-engine@0.6.0?classifier=sources
+- pkg:maven/ai.djl.onnxruntime/onnxruntime-engine@0.7.0
+- pkg:maven/ai.djl.onnxruntime/onnxruntime-engine@0.7.0?classifier=sources
+- pkg:maven/ai.djl.onnxruntime/onnxruntime-engine@0.8.0
+- pkg:maven/ai.djl.onnxruntime/onnxruntime-engine@0.8.0?classifier=sources

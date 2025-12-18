@@ -17,6 +17,10 @@
 - pkg:maven/org.trellisldp/trellis-amqp@0.14.1?classifier=sources
 - pkg:maven/org.trellisldp/trellis-amqp@0.14.2?classifier=sources
 - pkg:maven/org.trellisldp/trellis-amqp@0.15.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-amqp@0.16.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-amqp@0.16.1?classifier=sources
+- pkg:maven/org.trellisldp/trellis-amqp@0.16.2?classifier=sources
+- pkg:maven/org.trellisldp/trellis-amqp@0.16.3?classifier=sources
 - pkg:maven/org.trellisldp/trellis-amqp@0.2.0
 - pkg:maven/org.trellisldp/trellis-amqp@0.2.0?classifier=sources
 - pkg:maven/org.trellisldp/trellis-amqp@0.2.1

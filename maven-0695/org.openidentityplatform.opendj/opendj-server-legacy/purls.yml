@@ -1,0 +1,4 @@
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-legacy@4.4.7?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-legacy@4.4.7?type=zip
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-legacy@4.4.8?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-server-legacy@4.4.8?type=zip

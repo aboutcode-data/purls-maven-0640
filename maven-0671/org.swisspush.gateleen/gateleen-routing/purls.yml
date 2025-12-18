@@ -129,6 +129,8 @@
 - pkg:maven/org.swisspush.gateleen/gateleen-routing@1.1.56?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-routing@1.1.57
 - pkg:maven/org.swisspush.gateleen/gateleen-routing@1.1.57?classifier=sources
+- pkg:maven/org.swisspush.gateleen/gateleen-routing@1.1.58
+- pkg:maven/org.swisspush.gateleen/gateleen-routing@1.1.58?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-routing@1.1.5?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-routing@1.1.8
 - pkg:maven/org.swisspush.gateleen/gateleen-routing@1.1.8?classifier=sources

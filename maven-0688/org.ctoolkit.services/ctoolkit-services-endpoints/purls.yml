@@ -36,3 +36,11 @@
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.27?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.28
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.28?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.29
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.29?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.30
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.30?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.31
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.31?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.32
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.32?classifier=sources

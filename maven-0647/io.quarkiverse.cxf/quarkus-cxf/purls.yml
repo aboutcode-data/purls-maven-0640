@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf@0.1.0
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf@0.1.0?classifier=sources

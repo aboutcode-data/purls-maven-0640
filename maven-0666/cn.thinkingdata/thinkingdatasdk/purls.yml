@@ -50,5 +50,7 @@
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.5.2?classifier=sources
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.5.3
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.5.3?classifier=sources
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.6.0
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.6.0-preview
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.6.0-preview?classifier=sources
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.6.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/run.mydata/mydata-framework@1.0
 - pkg:maven/run.mydata/mydata-framework@1.0?classifier=sources
+- pkg:maven/run.mydata/mydata-framework@10.0.RELEASE
+- pkg:maven/run.mydata/mydata-framework@10.0.RELEASE?classifier=sources
 - pkg:maven/run.mydata/mydata-framework@2.0
 - pkg:maven/run.mydata/mydata-framework@2.0?classifier=sources
 - pkg:maven/run.mydata/mydata-framework@3.0
@@ -16,3 +18,7 @@
 - pkg:maven/run.mydata/mydata-framework@6.0?classifier=sources
 - pkg:maven/run.mydata/mydata-framework@7.0
 - pkg:maven/run.mydata/mydata-framework@7.0?classifier=sources
+- pkg:maven/run.mydata/mydata-framework@8.0
+- pkg:maven/run.mydata/mydata-framework@8.0?classifier=sources
+- pkg:maven/run.mydata/mydata-framework@9.0
+- pkg:maven/run.mydata/mydata-framework@9.0?classifier=sources

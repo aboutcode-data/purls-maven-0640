@@ -60,6 +60,8 @@
 - pkg:maven/com.assist4j.boot/assist4j-spring-boot-starter@1.0.48?classifier=sources
 - pkg:maven/com.assist4j.boot/assist4j-spring-boot-starter@1.0.49
 - pkg:maven/com.assist4j.boot/assist4j-spring-boot-starter@1.0.49?classifier=sources
+- pkg:maven/com.assist4j.boot/assist4j-spring-boot-starter@1.0.50
+- pkg:maven/com.assist4j.boot/assist4j-spring-boot-starter@1.0.50?classifier=sources
 - pkg:maven/com.assist4j.boot/assist4j-spring-boot-starter@1.1.10
 - pkg:maven/com.assist4j.boot/assist4j-spring-boot-starter@1.1.10?classifier=sources
 - pkg:maven/com.assist4j.boot/assist4j-spring-boot-starter@1.1.11

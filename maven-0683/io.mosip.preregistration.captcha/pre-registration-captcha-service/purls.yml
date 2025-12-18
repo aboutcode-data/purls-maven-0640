@@ -1,2 +1,6 @@
 - pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.0.9
 - pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.0.9?classifier=sources
+- pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.2
+- pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.2-rc2
+- pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.2-rc2?classifier=sources
+- pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.2?classifier=sources

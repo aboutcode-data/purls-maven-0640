@@ -1,0 +1,3 @@
+- pkg:maven/io.github.linuxforhealth/hl7v2-fhir-converter@1.0.0?classifier=sources
+- pkg:maven/io.github.linuxforhealth/hl7v2-fhir-converter@1.0.2-alpha?classifier=sources
+- pkg:maven/io.github.linuxforhealth/hl7v2-fhir-converter@v1.0.1-alpha?classifier=sources

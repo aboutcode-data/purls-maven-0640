@@ -168,3 +168,5 @@
 - pkg:maven/com.mikepenz/iconics-core@5.0.2?type=aar
 - pkg:maven/com.mikepenz/iconics-core@5.0.3?classifier=sources
 - pkg:maven/com.mikepenz/iconics-core@5.0.3?type=aar
+- pkg:maven/com.mikepenz/iconics-core@5.1.0?classifier=sources
+- pkg:maven/com.mikepenz/iconics-core@5.1.0?type=aar

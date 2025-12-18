@@ -1,0 +1,6 @@
+- pkg:maven/org.kie.kogito/mongodb-persistence-addon@0.15.0
+- pkg:maven/org.kie.kogito/mongodb-persistence-addon@0.15.0?classifier=sources
+- pkg:maven/org.kie.kogito/mongodb-persistence-addon@0.16.0
+- pkg:maven/org.kie.kogito/mongodb-persistence-addon@0.16.0?classifier=sources
+- pkg:maven/org.kie.kogito/mongodb-persistence-addon@0.17.0
+- pkg:maven/org.kie.kogito/mongodb-persistence-addon@0.17.0?classifier=sources

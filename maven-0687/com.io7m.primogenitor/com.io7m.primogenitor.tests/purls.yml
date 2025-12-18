@@ -2,3 +2,8 @@
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@4.0.0
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@4.0.1
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@5.0.0
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@6.0.0
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@6.0.0-beta0001
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@6.0.0-beta0002
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@6.0.0-beta0003
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@6.0.0-beta0004

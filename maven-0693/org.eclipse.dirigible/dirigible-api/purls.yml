@@ -25,3 +25,8 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-api@4.5.0
 - pkg:maven/org.eclipse.dirigible/dirigible-api@4.6.0
 - pkg:maven/org.eclipse.dirigible/dirigible-api@5.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api@5.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api@5.2.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api@5.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api@5.4.0
+- pkg:maven/org.eclipse.dirigible/dirigible-api@5.5.0

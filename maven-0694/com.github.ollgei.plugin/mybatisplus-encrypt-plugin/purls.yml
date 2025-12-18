@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ollgei.plugin/mybatisplus-encrypt-plugin@1.0.0
+- pkg:maven/com.github.ollgei.plugin/mybatisplus-encrypt-plugin@1.0.0?classifier=sources

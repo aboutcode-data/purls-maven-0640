@@ -120,3 +120,7 @@
 - pkg:maven/org.robolectric/shadows-multidex@4.4-beta-1
 - pkg:maven/org.robolectric/shadows-multidex@4.4-beta-1?classifier=sources
 - pkg:maven/org.robolectric/shadows-multidex@4.4?classifier=sources
+- pkg:maven/org.robolectric/shadows-multidex@4.5-alpha-1
+- pkg:maven/org.robolectric/shadows-multidex@4.5-alpha-1?classifier=sources
+- pkg:maven/org.robolectric/shadows-multidex@4.5-alpha-2?classifier=sources
+- pkg:maven/org.robolectric/shadows-multidex@4.5-alpha-3?classifier=sources

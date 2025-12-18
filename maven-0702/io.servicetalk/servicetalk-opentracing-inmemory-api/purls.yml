@@ -10,3 +10,6 @@
 - pkg:maven/io.servicetalk/servicetalk-opentracing-inmemory-api@0.29.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-opentracing-inmemory-api@0.30.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-opentracing-inmemory-api@0.31.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-opentracing-inmemory-api@0.32.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-opentracing-inmemory-api@0.33.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-opentracing-inmemory-api@0.34.0?classifier=sources

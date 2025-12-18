@@ -8,3 +8,6 @@
 - pkg:maven/org.odpi.egeria/design-model-client@1.8
 - pkg:maven/org.odpi.egeria/design-model-client@2.0
 - pkg:maven/org.odpi.egeria/design-model-client@2.1
+- pkg:maven/org.odpi.egeria/design-model-client@2.2
+- pkg:maven/org.odpi.egeria/design-model-client@2.3
+- pkg:maven/org.odpi.egeria/design-model-client@2.4

@@ -60,3 +60,5 @@
 - pkg:maven/com.centurylink.mdw/mdw-spring-boot@6.1.37?classifier=sources
 - pkg:maven/com.centurylink.mdw/mdw-spring-boot@6.1.38
 - pkg:maven/com.centurylink.mdw/mdw-spring-boot@6.1.38?classifier=sources
+- pkg:maven/com.centurylink.mdw/mdw-spring-boot@6.1.39
+- pkg:maven/com.centurylink.mdw/mdw-spring-boot@6.1.39?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/net.katsstuff/ackcord-lavaplayer-core_2.13@0.17.0-M2
 - pkg:maven/net.katsstuff/ackcord-lavaplayer-core_2.13@0.17.0-M2?classifier=sources
 - pkg:maven/net.katsstuff/ackcord-lavaplayer-core_2.13@0.17.0?classifier=sources
+- pkg:maven/net.katsstuff/ackcord-lavaplayer-core_2.13@0.17.1
+- pkg:maven/net.katsstuff/ackcord-lavaplayer-core_2.13@0.17.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/kollflitz_0.27@0.2.4
+- pkg:maven/de.sciss/kollflitz_0.27@0.2.4?classifier=sources

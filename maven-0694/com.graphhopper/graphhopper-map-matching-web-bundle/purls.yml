@@ -120,6 +120,10 @@
 - pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@1.0-prelmfix
 - pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@1.0-prelmfix?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@1.0?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@2.0
+- pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@2.0-pre3
+- pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@2.0-pre3?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@2.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@feature_1850_01
 - pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@feature_1850_01?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching-web-bundle@feature_1850_02

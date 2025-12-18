@@ -1,0 +1,6 @@
+- pkg:maven/com.github.yjgbg/jpa-plus-spring-boot-starter@2.3.4
+- pkg:maven/com.github.yjgbg/jpa-plus-spring-boot-starter@2.3.4?classifier=sources
+- pkg:maven/com.github.yjgbg/jpa-plus-spring-boot-starter@2.3.4_u001
+- pkg:maven/com.github.yjgbg/jpa-plus-spring-boot-starter@2.3.4_u001?classifier=sources
+- pkg:maven/com.github.yjgbg/jpa-plus-spring-boot-starter@2.3.5
+- pkg:maven/com.github.yjgbg/jpa-plus-spring-boot-starter@2.3.5?classifier=sources

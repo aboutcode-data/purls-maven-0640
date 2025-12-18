@@ -1,1 +1,5 @@
 - pkg:maven/io.mosip.admin/admin-service@1.0.6
+- pkg:maven/io.mosip.admin/admin-service@1.1.2
+- pkg:maven/io.mosip.admin/admin-service@1.1.2-rc2
+- pkg:maven/io.mosip.admin/admin-service@1.1.2-rc2?classifier=sources
+- pkg:maven/io.mosip.admin/admin-service@1.1.2?classifier=sources

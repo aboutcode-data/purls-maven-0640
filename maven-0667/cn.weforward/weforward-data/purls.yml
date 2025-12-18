@@ -1,0 +1,2 @@
+- pkg:maven/cn.weforward/weforward-data@1.1.0
+- pkg:maven/cn.weforward/weforward-data@1.1.0?classifier=sources

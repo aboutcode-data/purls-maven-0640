@@ -1,0 +1,4 @@
+- pkg:maven/com.polarquant.data/presto-spring-boot-autoconfigure@1.0.0.RELEASE
+- pkg:maven/com.polarquant.data/presto-spring-boot-autoconfigure@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.polarquant.data/presto-spring-boot-autoconfigure@1.0.1.RELEASE
+- pkg:maven/com.polarquant.data/presto-spring-boot-autoconfigure@1.0.1.RELEASE?classifier=sources

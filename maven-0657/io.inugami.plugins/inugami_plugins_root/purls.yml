@@ -1,0 +1,2 @@
+- pkg:maven/io.inugami.plugins/inugami_plugins_root@2.0.0
+- pkg:maven/io.inugami.plugins/inugami_plugins_root@2.0.0?classifier=sources

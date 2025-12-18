@@ -1,0 +1,4 @@
+- pkg:maven/org.hibernate.search/hibernate-search-v5migrationhelper-engine@6.0.0.Beta11
+- pkg:maven/org.hibernate.search/hibernate-search-v5migrationhelper-engine@6.0.0.Beta11?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-v5migrationhelper-engine@6.0.0.CR1
+- pkg:maven/org.hibernate.search/hibernate-search-v5migrationhelper-engine@6.0.0.CR1?classifier=sources

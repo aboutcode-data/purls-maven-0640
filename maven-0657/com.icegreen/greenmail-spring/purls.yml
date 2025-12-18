@@ -34,3 +34,5 @@
 - pkg:maven/com.icegreen/greenmail-spring@1.5.9?classifier=sources
 - pkg:maven/com.icegreen/greenmail-spring@1.6.0
 - pkg:maven/com.icegreen/greenmail-spring@1.6.0?classifier=sources
+- pkg:maven/com.icegreen/greenmail-spring@1.6.1
+- pkg:maven/com.icegreen/greenmail-spring@1.6.1?classifier=sources

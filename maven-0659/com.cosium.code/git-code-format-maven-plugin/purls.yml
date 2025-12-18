@@ -12,3 +12,5 @@
 - pkg:maven/com.cosium.code/git-code-format-maven-plugin@2.5?classifier=sources
 - pkg:maven/com.cosium.code/git-code-format-maven-plugin@2.6
 - pkg:maven/com.cosium.code/git-code-format-maven-plugin@2.6?classifier=sources
+- pkg:maven/com.cosium.code/git-code-format-maven-plugin@2.7
+- pkg:maven/com.cosium.code/git-code-format-maven-plugin@2.7?classifier=sources

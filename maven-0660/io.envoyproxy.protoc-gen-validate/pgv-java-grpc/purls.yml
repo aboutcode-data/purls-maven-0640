@@ -4,3 +4,7 @@
 - pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-java-grpc@0.2.0?classifier=sources
 - pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-java-grpc@0.3.0
 - pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-java-grpc@0.3.0?classifier=sources
+- pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-java-grpc@0.4.0
+- pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-java-grpc@0.4.0?classifier=sources
+- pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-java-grpc@0.4.1
+- pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-java-grpc@0.4.1?classifier=sources

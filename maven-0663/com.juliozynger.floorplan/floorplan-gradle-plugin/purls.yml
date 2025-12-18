@@ -1,2 +1,3 @@
 - pkg:maven/com.juliozynger.floorplan/floorplan-gradle-plugin@0.1?classifier=sources
 - pkg:maven/com.juliozynger.floorplan/floorplan-gradle-plugin@0.2?classifier=sources
+- pkg:maven/com.juliozynger.floorplan/floorplan-gradle-plugin@0.3?classifier=sources

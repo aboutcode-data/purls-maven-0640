@@ -1,2 +1,4 @@
 - pkg:maven/org.opencds.cqf.cql/engine.fhir@1.4.0
 - pkg:maven/org.opencds.cqf.cql/engine.fhir@1.4.0?classifier=sources
+- pkg:maven/org.opencds.cqf.cql/engine.fhir@1.5.0
+- pkg:maven/org.opencds.cqf.cql/engine.fhir@1.5.0?classifier=sources

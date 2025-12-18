@@ -24,3 +24,5 @@
 - pkg:maven/gov.nasa.pds.model/model-dmdocument@11.3.1?classifier=sources
 - pkg:maven/gov.nasa.pds.model/model-dmdocument@11.3.2
 - pkg:maven/gov.nasa.pds.model/model-dmdocument@11.3.2?classifier=sources
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@12.0.0
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@12.0.0?classifier=sources

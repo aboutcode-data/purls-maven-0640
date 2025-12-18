@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/ebs@789.2.613.0?classifier=sources
 - pkg:maven/com.cognitect.aws/ebs@802.2.713.0
 - pkg:maven/com.cognitect.aws/ebs@802.2.713.0?classifier=sources
+- pkg:maven/com.cognitect.aws/ebs@809.2.784.0
+- pkg:maven/com.cognitect.aws/ebs@809.2.784.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/link.thingscloud/spring-boot-common-aop@1.0.0-RELEASE
+- pkg:maven/link.thingscloud/spring-boot-common-aop@1.0.0-RELEASE?classifier=sources

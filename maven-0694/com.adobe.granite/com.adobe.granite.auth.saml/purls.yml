@@ -1,0 +1,3 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.auth.saml@0.1.14?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.auth.saml@0.1.18?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.auth.saml@0.2.2?classifier=sources

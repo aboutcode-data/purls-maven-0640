@@ -42,3 +42,5 @@
 - pkg:maven/com.gitee.w-whf.mybatis-generator-develop/CustomPlugin@2.1.5-RELEASE?classifier=sources
 - pkg:maven/com.gitee.w-whf.mybatis-generator-develop/CustomPlugin@2.1.6-RELEASE
 - pkg:maven/com.gitee.w-whf.mybatis-generator-develop/CustomPlugin@2.1.6-RELEASE?classifier=sources
+- pkg:maven/com.gitee.w-whf.mybatis-generator-develop/CustomPlugin@2.1.7-RELEASE
+- pkg:maven/com.gitee.w-whf.mybatis-generator-develop/CustomPlugin@2.1.7-RELEASE?classifier=sources

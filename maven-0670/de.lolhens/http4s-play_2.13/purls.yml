@@ -1,0 +1,2 @@
+- pkg:maven/de.lolhens/http4s-play_2.13@0.0.2
+- pkg:maven/de.lolhens/http4s-play_2.13@0.0.2?classifier=sources

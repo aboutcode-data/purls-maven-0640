@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/noty@2.3.8
 - pkg:maven/org.webjars.npm/noty@2.3.8?classifier=sources
+- pkg:maven/org.webjars.npm/noty@3.2.0-beta
+- pkg:maven/org.webjars.npm/noty@3.2.0-beta?classifier=sources

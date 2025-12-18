@@ -38,3 +38,5 @@
 - pkg:maven/io.prestosql.tempto/tempto-kafka@180?classifier=sources
 - pkg:maven/io.prestosql.tempto/tempto-kafka@181
 - pkg:maven/io.prestosql.tempto/tempto-kafka@181?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-kafka@182
+- pkg:maven/io.prestosql.tempto/tempto-kafka@182?classifier=sources

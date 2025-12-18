@@ -4,3 +4,7 @@
 - pkg:maven/edu.byu.hbll.box/box-kafka@2.2.2?classifier=sources
 - pkg:maven/edu.byu.hbll.box/box-kafka@2.2.3
 - pkg:maven/edu.byu.hbll.box/box-kafka@2.2.3?classifier=sources
+- pkg:maven/edu.byu.hbll.box/box-kafka@2.2.4
+- pkg:maven/edu.byu.hbll.box/box-kafka@2.2.4?classifier=sources
+- pkg:maven/edu.byu.hbll.box/box-kafka@2.2.5
+- pkg:maven/edu.byu.hbll.box/box-kafka@2.2.5?classifier=sources

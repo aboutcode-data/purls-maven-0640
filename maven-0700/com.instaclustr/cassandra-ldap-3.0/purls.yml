@@ -1,0 +1,2 @@
+- pkg:maven/com.instaclustr/cassandra-ldap-3.0@1.0.2
+- pkg:maven/com.instaclustr/cassandra-ldap-3.0@1.0.2?classifier=sources

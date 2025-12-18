@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/dom-scroll-into-view@1.2.1
 - pkg:maven/org.webjars.npm/dom-scroll-into-view@1.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/dom-scroll-into-view@2.0.1
+- pkg:maven/org.webjars.npm/dom-scroll-into-view@2.0.1?classifier=sources

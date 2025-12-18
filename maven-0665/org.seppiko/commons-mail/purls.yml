@@ -1,0 +1,4 @@
+- pkg:maven/org.seppiko/commons-mail@1.0.0.RELEASE
+- pkg:maven/org.seppiko/commons-mail@1.0.0.RELEASE?classifier=sources
+- pkg:maven/org.seppiko/commons-mail@1.0.1.RELEASE
+- pkg:maven/org.seppiko/commons-mail@1.0.1.RELEASE?classifier=sources

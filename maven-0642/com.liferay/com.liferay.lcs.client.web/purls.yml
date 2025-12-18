@@ -1,0 +1,9 @@
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.44
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.45
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.46
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.46?classifier=sources-commercial

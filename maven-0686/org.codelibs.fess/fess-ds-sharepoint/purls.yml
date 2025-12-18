@@ -1,0 +1,4 @@
+- pkg:maven/org.codelibs.fess/fess-ds-sharepoint@13.10.0
+- pkg:maven/org.codelibs.fess/fess-ds-sharepoint@13.10.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-sharepoint@13.9.0
+- pkg:maven/org.codelibs.fess/fess-ds-sharepoint@13.9.0?classifier=sources

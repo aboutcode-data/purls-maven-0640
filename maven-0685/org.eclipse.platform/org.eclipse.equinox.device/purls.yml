@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.0.800?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.0.900
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.0.900?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.device@1.1.0?classifier=sources

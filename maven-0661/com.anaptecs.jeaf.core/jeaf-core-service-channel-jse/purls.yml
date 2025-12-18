@@ -1,3 +1,5 @@
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-jse@1.5.13
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-jse@1.5.13?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-jse@1.5.4
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-jse@1.5.4?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-jse@1.5.6

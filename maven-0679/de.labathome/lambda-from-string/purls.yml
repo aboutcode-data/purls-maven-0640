@@ -1,0 +1,2 @@
+- pkg:maven/de.labathome/lambda-from-string@1.7.0
+- pkg:maven/de.labathome/lambda-from-string@1.7.0?classifier=sources

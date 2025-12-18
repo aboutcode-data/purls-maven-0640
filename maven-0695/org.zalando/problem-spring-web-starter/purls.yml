@@ -1,2 +1,5 @@
 - pkg:maven/org.zalando/problem-spring-web-starter@0.25.1
 - pkg:maven/org.zalando/problem-spring-web-starter@0.25.2
+- pkg:maven/org.zalando/problem-spring-web-starter@0.26.0
+- pkg:maven/org.zalando/problem-spring-web-starter@0.26.1
+- pkg:maven/org.zalando/problem-spring-web-starter@0.26.2

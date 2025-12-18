@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/cornerstone-tools@3.4.1
 - pkg:maven/org.webjars.npm/cornerstone-tools@3.4.1?classifier=sources
+- pkg:maven/org.webjars.npm/cornerstone-tools@4.21.1
+- pkg:maven/org.webjars.npm/cornerstone-tools@4.21.1?classifier=sources

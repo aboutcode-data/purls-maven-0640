@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.aries.cdi/org.apache.aries.cdi@1.0.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.cdi/org.apache.aries.cdi@1.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.cdi/org.apache.aries.cdi@1.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.cdi/org.apache.aries.cdi@1.1.2?classifier=source-release&type=zip

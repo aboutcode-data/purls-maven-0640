@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.crxde-support@2.3.12?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.crxde-support@2.3.14?classifier=sources

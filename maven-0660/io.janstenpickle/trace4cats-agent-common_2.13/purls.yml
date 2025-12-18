@@ -1,0 +1,4 @@
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B30-ddd7378e
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B30-ddd7378e?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B31-fbcb839e
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B31-fbcb839e?classifier=sources

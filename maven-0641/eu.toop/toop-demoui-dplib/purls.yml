@@ -1,3 +1,4 @@
+- pkg:maven/eu.toop/toop-demoui-dplib@2.0.0
 - pkg:maven/eu.toop/toop-demoui-dplib@2.0.0-beta4
 - pkg:maven/eu.toop/toop-demoui-dplib@2.0.0-beta4?classifier=sources
 - pkg:maven/eu.toop/toop-demoui-dplib@2.0.0-beta5
@@ -8,3 +9,8 @@
 - pkg:maven/eu.toop/toop-demoui-dplib@2.0.0-rc2?classifier=sources
 - pkg:maven/eu.toop/toop-demoui-dplib@2.0.0-rc3
 - pkg:maven/eu.toop/toop-demoui-dplib@2.0.0-rc3?classifier=sources
+- pkg:maven/eu.toop/toop-demoui-dplib@2.0.0?classifier=sources
+- pkg:maven/eu.toop/toop-demoui-dplib@2.1.0
+- pkg:maven/eu.toop/toop-demoui-dplib@2.1.0-1
+- pkg:maven/eu.toop/toop-demoui-dplib@2.1.0-1?classifier=sources
+- pkg:maven/eu.toop/toop-demoui-dplib@2.1.0?classifier=sources

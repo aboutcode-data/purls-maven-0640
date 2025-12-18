@@ -10,3 +10,5 @@
 - pkg:maven/org.rudogma/supertagged_sjs0.6_2.11@1.5?classifier=sources
 - pkg:maven/org.rudogma/supertagged_sjs0.6_2.11@2.0-RC1
 - pkg:maven/org.rudogma/supertagged_sjs0.6_2.11@2.0-RC1?classifier=sources
+- pkg:maven/org.rudogma/supertagged_sjs0.6_2.11@2.0-RC2
+- pkg:maven/org.rudogma/supertagged_sjs0.6_2.11@2.0-RC2?classifier=sources

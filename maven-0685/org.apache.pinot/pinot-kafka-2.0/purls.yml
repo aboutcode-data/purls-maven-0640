@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.pinot/pinot-kafka-2.0@0.3.0?classifier=sources
 - pkg:maven/org.apache.pinot/pinot-kafka-2.0@0.4.0
 - pkg:maven/org.apache.pinot/pinot-kafka-2.0@0.4.0?classifier=sources
+- pkg:maven/org.apache.pinot/pinot-kafka-2.0@0.5.0
+- pkg:maven/org.apache.pinot/pinot-kafka-2.0@0.5.0?classifier=sources
+- pkg:maven/org.apache.pinot/pinot-kafka-2.0@0.6.0
+- pkg:maven/org.apache.pinot/pinot-kafka-2.0@0.6.0?classifier=sources

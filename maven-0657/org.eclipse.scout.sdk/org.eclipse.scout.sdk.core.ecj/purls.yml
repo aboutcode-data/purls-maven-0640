@@ -13,6 +13,16 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.28?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.3
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.30.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.30.0?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.31.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.31.0?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.33.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.33.0?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.37.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.37.0?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.38.0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.38.0?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.3?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.6
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@10.0.6?classifier=sources

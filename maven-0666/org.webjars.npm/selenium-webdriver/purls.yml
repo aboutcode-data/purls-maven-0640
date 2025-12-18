@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/selenium-webdriver@2.52.0?classifier=sources
 - pkg:maven/org.webjars.npm/selenium-webdriver@2.53.3
 - pkg:maven/org.webjars.npm/selenium-webdriver@2.53.3?classifier=sources
+- pkg:maven/org.webjars.npm/selenium-webdriver@4.0.0-alpha.7
+- pkg:maven/org.webjars.npm/selenium-webdriver@4.0.0-alpha.7?classifier=sources

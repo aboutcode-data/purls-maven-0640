@@ -68,6 +68,8 @@
 - pkg:maven/com.iheart/lihua-crypt_2.12@0.34?classifier=sources
 - pkg:maven/com.iheart/lihua-crypt_2.12@0.35
 - pkg:maven/com.iheart/lihua-crypt_2.12@0.35?classifier=sources
+- pkg:maven/com.iheart/lihua-crypt_2.12@0.36
+- pkg:maven/com.iheart/lihua-crypt_2.12@0.36?classifier=sources
 - pkg:maven/com.iheart/lihua-crypt_2.12@0.6.2
 - pkg:maven/com.iheart/lihua-crypt_2.12@0.6.2?classifier=sources
 - pkg:maven/com.iheart/lihua-crypt_2.12@0.6.3

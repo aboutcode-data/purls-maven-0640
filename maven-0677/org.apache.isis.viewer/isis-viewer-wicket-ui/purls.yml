@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.isis.viewer/isis-viewer-wicket-ui@1.9.0?classifier=sources
 - pkg:maven/org.apache.isis.viewer/isis-viewer-wicket-ui@2.0.0-M3
 - pkg:maven/org.apache.isis.viewer/isis-viewer-wicket-ui@2.0.0-M3?classifier=sources
+- pkg:maven/org.apache.isis.viewer/isis-viewer-wicket-ui@2.0.0-M4
+- pkg:maven/org.apache.isis.viewer/isis-viewer-wicket-ui@2.0.0-M4?classifier=sources

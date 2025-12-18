@@ -1,0 +1,2 @@
+- pkg:maven/app.infoset/app.infoset.android@1.0.0?classifier=sources
+- pkg:maven/app.infoset/app.infoset.android@1.0.0?type=aar

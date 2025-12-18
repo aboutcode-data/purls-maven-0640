@@ -9,4 +9,12 @@
 - pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.61?classifier=sources
 - pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.62
 - pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.62?classifier=sources
+- pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.63
+- pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.63?classifier=sources
 - pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.6?classifier=sources
+- pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.7
+- pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.71
+- pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.71?classifier=sources
+- pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.72
+- pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.72?classifier=sources
+- pkg:maven/com.github.bryanser/BrAPI@Kt-1.0.7?classifier=sources

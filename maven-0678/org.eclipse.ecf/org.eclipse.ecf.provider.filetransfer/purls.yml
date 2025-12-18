@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.filetransfer@3.2.600?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.filetransfer@3.2.601?classifier=sources

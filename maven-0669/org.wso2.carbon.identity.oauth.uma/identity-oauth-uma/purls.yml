@@ -22,3 +22,8 @@
 - pkg:maven/org.wso2.carbon.identity.oauth.uma/identity-oauth-uma@1.2.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.oauth.uma/identity-oauth-uma@1.2.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.oauth.uma/identity-oauth-uma@1.2.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.oauth.uma/identity-oauth-uma@1.2.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.oauth.uma/identity-oauth-uma@1.2.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.oauth.uma/identity-oauth-uma@1.2.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.oauth.uma/identity-oauth-uma@1.2.6?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.oauth.uma/identity-oauth-uma@1.2.7?classifier=source-release&type=zip

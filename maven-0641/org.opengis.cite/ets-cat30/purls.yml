@@ -9,4 +9,6 @@
 - pkg:maven/org.opengis.cite/ets-cat30@1
 - pkg:maven/org.opengis.cite/ets-cat30@1.2
 - pkg:maven/org.opengis.cite/ets-cat30@1.2?classifier=sources
+- pkg:maven/org.opengis.cite/ets-cat30@1.3
+- pkg:maven/org.opengis.cite/ets-cat30@1.3?classifier=sources
 - pkg:maven/org.opengis.cite/ets-cat30@1?classifier=sources

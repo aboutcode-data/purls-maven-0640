@@ -1,0 +1,6 @@
+- pkg:maven/net.consensys.quorum.tessera/encryption-kalium@0.11.0
+- pkg:maven/net.consensys.quorum.tessera/encryption-kalium@0.11.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/encryption-kalium@1.0.0
+- pkg:maven/net.consensys.quorum.tessera/encryption-kalium@1.0.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/encryption-kalium@20.10.0
+- pkg:maven/net.consensys.quorum.tessera/encryption-kalium@20.10.0?classifier=sources

@@ -23,4 +23,6 @@
 - pkg:maven/io.sundr.examples/kubernetes-swagger@0.19.2
 - pkg:maven/io.sundr.examples/kubernetes-swagger@0.20.0
 - pkg:maven/io.sundr.examples/kubernetes-swagger@0.21.0
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.22.0
+- pkg:maven/io.sundr.examples/kubernetes-swagger@0.22.1
 - pkg:maven/io.sundr.examples/kubernetes-swagger@1.14.0

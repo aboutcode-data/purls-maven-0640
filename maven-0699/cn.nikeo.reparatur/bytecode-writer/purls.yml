@@ -1,0 +1,2 @@
+- pkg:maven/cn.nikeo.reparatur/bytecode-writer@1.0.0?classifier=sources
+- pkg:maven/cn.nikeo.reparatur/bytecode-writer@1.1.0?classifier=sources

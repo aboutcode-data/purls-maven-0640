@@ -13,3 +13,5 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mwe.core@1.5.2?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mwe.core@1.5.3.M3?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mwe.core@1.5.3?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mwe.core@1.6.0.M2?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mwe.core@1.6.0?classifier=sources

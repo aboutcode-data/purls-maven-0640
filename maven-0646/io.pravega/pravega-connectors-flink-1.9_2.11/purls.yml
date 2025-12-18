@@ -1,0 +1,2 @@
+- pkg:maven/io.pravega/pravega-connectors-flink-1.9_2.11@0.8.0
+- pkg:maven/io.pravega/pravega-connectors-flink-1.9_2.11@0.8.0?classifier=sources

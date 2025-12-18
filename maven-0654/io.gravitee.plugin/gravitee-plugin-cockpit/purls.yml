@@ -1,0 +1,4 @@
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-cockpit@1.14.0
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-cockpit@1.14.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-cockpit@1.15.0
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-cockpit@1.15.0?classifier=sources

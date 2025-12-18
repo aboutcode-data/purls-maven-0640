@@ -2,6 +2,8 @@
 - pkg:maven/io.prestosql.benchto/benchto-driver@0.10?classifier=sources
 - pkg:maven/io.prestosql.benchto/benchto-driver@0.11
 - pkg:maven/io.prestosql.benchto/benchto-driver@0.11?classifier=sources
+- pkg:maven/io.prestosql.benchto/benchto-driver@0.12
+- pkg:maven/io.prestosql.benchto/benchto-driver@0.12?classifier=sources
 - pkg:maven/io.prestosql.benchto/benchto-driver@0.7
 - pkg:maven/io.prestosql.benchto/benchto-driver@0.7?classifier=sources
 - pkg:maven/io.prestosql.benchto/benchto-driver@0.8

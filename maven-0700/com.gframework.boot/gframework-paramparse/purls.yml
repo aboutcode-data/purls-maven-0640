@@ -1,2 +1,6 @@
 - pkg:maven/com.gframework.boot/gframework-paramparse@1.0.0
 - pkg:maven/com.gframework.boot/gframework-paramparse@1.0.0?classifier=sources
+- pkg:maven/com.gframework.boot/gframework-paramparse@2.0.0-beta
+- pkg:maven/com.gframework.boot/gframework-paramparse@2.0.0-beta?classifier=sources
+- pkg:maven/com.gframework.boot/gframework-paramparse@2.1.0-beta
+- pkg:maven/com.gframework.boot/gframework-paramparse@2.1.0-beta?classifier=sources

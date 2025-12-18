@@ -1,0 +1,2 @@
+- pkg:maven/com.github.akabulniyazov/rest-api-arslan@1.0.0
+- pkg:maven/com.github.akabulniyazov/rest-api-arslan@1.0.0?classifier=sources

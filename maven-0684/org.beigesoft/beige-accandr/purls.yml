@@ -1,1 +1,2 @@
 - pkg:maven/org.beigesoft/beige-accandr@1.0?classifier=sources
+- pkg:maven/org.beigesoft/beige-accandr@1.1?classifier=sources

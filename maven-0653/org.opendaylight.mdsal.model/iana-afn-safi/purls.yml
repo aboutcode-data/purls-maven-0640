@@ -117,6 +117,10 @@
 - pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.13?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.14
 - pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.14?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.15
+- pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.15?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.16
+- pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.16?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.2
 - pkg:maven/org.opendaylight.mdsal.model/iana-afn-safi@2013.07.04.17.2?classifier=sources

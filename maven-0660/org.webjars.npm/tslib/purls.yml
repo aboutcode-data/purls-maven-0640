@@ -6,6 +6,10 @@
 - pkg:maven/org.webjars.npm/tslib@1.11.1?classifier=sources
 - pkg:maven/org.webjars.npm/tslib@1.13.0
 - pkg:maven/org.webjars.npm/tslib@1.13.0?classifier=sources
+- pkg:maven/org.webjars.npm/tslib@1.14.0
+- pkg:maven/org.webjars.npm/tslib@1.14.0?classifier=sources
+- pkg:maven/org.webjars.npm/tslib@1.14.1
+- pkg:maven/org.webjars.npm/tslib@1.14.1?classifier=sources
 - pkg:maven/org.webjars.npm/tslib@1.5.0
 - pkg:maven/org.webjars.npm/tslib@1.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/tslib@1.6.0
@@ -24,3 +28,9 @@
 - pkg:maven/org.webjars.npm/tslib@1.9.3?classifier=sources
 - pkg:maven/org.webjars.npm/tslib@2.0.0
 - pkg:maven/org.webjars.npm/tslib@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/tslib@2.0.1
+- pkg:maven/org.webjars.npm/tslib@2.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/tslib@2.0.2
+- pkg:maven/org.webjars.npm/tslib@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/tslib@2.0.3
+- pkg:maven/org.webjars.npm/tslib@2.0.3?classifier=sources

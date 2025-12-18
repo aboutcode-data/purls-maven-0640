@@ -41,6 +41,11 @@
 - pkg:maven/com.jpaulmorrison/drawfbp@2.19.5?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.20.0?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.20.10?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.20.12?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.20.13?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.20.15?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.20.16?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.20.17?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.20.1?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.20.3?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.20.4?classifier=sources

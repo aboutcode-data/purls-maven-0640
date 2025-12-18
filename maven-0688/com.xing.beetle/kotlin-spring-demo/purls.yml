@@ -1,0 +1,2 @@
+- pkg:maven/com.xing.beetle/kotlin-spring-demo@1.1
+- pkg:maven/com.xing.beetle/kotlin-spring-demo@1.1?classifier=sources

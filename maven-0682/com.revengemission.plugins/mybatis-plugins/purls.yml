@@ -30,3 +30,5 @@
 - pkg:maven/com.revengemission.plugins/mybatis-plugins@0.8.2?classifier=sources
 - pkg:maven/com.revengemission.plugins/mybatis-plugins@1.0.0
 - pkg:maven/com.revengemission.plugins/mybatis-plugins@1.0.0?classifier=sources
+- pkg:maven/com.revengemission.plugins/mybatis-plugins@1.1.0
+- pkg:maven/com.revengemission.plugins/mybatis-plugins@1.1.0?classifier=sources

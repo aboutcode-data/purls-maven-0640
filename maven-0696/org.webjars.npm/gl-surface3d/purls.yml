@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/gl-surface3d@1.4.6?classifier=sources
 - pkg:maven/org.webjars.npm/gl-surface3d@1.5.2
 - pkg:maven/org.webjars.npm/gl-surface3d@1.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/gl-surface3d@1.6.0
+- pkg:maven/org.webjars.npm/gl-surface3d@1.6.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.spring.ge.conventions/gradle-enterprise-conventions-core@0.0.5
 - pkg:maven/io.spring.ge.conventions/gradle-enterprise-conventions-core@0.0.5?classifier=sources
+- pkg:maven/io.spring.ge.conventions/gradle-enterprise-conventions-core@0.0.6
+- pkg:maven/io.spring.ge.conventions/gradle-enterprise-conventions-core@0.0.6?classifier=sources

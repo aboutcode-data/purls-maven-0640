@@ -14,3 +14,5 @@
 - pkg:maven/com.github.henkexbg/gallery-api@0.5.1?type=war
 - pkg:maven/com.github.henkexbg/gallery-api@0.5.2?classifier=sources
 - pkg:maven/com.github.henkexbg/gallery-api@0.5.2?type=war
+- pkg:maven/com.github.henkexbg/gallery-api@0.5.3?classifier=sources
+- pkg:maven/com.github.henkexbg/gallery-api@0.5.3?type=war

@@ -6,5 +6,7 @@
 - pkg:maven/org.webjars.npm/decamelize@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/decamelize@2.0.0
 - pkg:maven/org.webjars.npm/decamelize@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/decamelize@3.2.0
+- pkg:maven/org.webjars.npm/decamelize@3.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/decamelize@4.0.0
 - pkg:maven/org.webjars.npm/decamelize@4.0.0?classifier=sources
