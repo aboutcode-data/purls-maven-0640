@@ -1,0 +1,2 @@
+- pkg:maven/com.ms3-inc.tavros/camel-opentracing@3.7.1-002
+- pkg:maven/com.ms3-inc.tavros/camel-opentracing@3.7.1-002?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/com.github.scopt/scopt_native0.4.0-M2_2.11@3.7.2
 - pkg:maven/com.github.scopt/scopt_native0.4.0-M2_2.11@3.7.2?classifier=sources
+- pkg:maven/com.github.scopt/scopt_native0.4.0-M2_2.11@4.0.0
 - pkg:maven/com.github.scopt/scopt_native0.4.0-M2_2.11@4.0.0-RC2
 - pkg:maven/com.github.scopt/scopt_native0.4.0-M2_2.11@4.0.0-RC2?classifier=sources
+- pkg:maven/com.github.scopt/scopt_native0.4.0-M2_2.11@4.0.0?classifier=sources

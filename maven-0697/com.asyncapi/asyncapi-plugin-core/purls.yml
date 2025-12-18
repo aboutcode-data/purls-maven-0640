@@ -1,0 +1,2 @@
+- pkg:maven/com.asyncapi/asyncapi-plugin-core@1.0.0-EAP
+- pkg:maven/com.asyncapi/asyncapi-plugin-core@1.0.0-EAP?classifier=sources

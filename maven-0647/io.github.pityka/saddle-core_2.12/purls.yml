@@ -1,3 +1,4 @@
+- pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M10
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M10?classifier=sources
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M11
@@ -37,6 +38,8 @@
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M3
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M30
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M30?classifier=sources
+- pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M31
+- pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M31?classifier=sources
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M3?classifier=sources
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M4
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M4?classifier=sources
@@ -50,3 +53,8 @@
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M8?classifier=sources
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M9
 - pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0-M9?classifier=sources
+- pkg:maven/io.github.pityka/saddle-core_2.12@2.0.0?classifier=sources
+- pkg:maven/io.github.pityka/saddle-core_2.12@2.1.0
+- pkg:maven/io.github.pityka/saddle-core_2.12@2.1.0?classifier=sources
+- pkg:maven/io.github.pityka/saddle-core_2.12@2.2.0
+- pkg:maven/io.github.pityka/saddle-core_2.12@2.2.0?classifier=sources

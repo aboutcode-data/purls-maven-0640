@@ -1,0 +1,2 @@
+- pkg:maven/com.beirtipol/date-converters-joda@1.2
+- pkg:maven/com.beirtipol/date-converters-joda@1.2?classifier=sources

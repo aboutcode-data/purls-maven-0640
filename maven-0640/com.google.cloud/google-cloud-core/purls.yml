@@ -292,3 +292,5 @@
 - pkg:maven/com.google.cloud/google-cloud-core@1.93.9?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core@1.94.0
 - pkg:maven/com.google.cloud/google-cloud-core@1.94.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-core@1.94.1
+- pkg:maven/com.google.cloud/google-cloud-core@1.94.1?classifier=sources

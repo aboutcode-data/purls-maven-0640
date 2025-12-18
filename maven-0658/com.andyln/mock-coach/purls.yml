@@ -12,3 +12,5 @@
 - pkg:maven/com.andyln/mock-coach@3.1.0?classifier=sources
 - pkg:maven/com.andyln/mock-coach@4.0.0
 - pkg:maven/com.andyln/mock-coach@4.0.0?classifier=sources
+- pkg:maven/com.andyln/mock-coach@5.0.0
+- pkg:maven/com.andyln/mock-coach@5.0.0?classifier=sources

@@ -68,3 +68,5 @@
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-oci-objectstorage@2.0.2?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-oci-objectstorage@2.1.0
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-oci-objectstorage@2.1.0?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-oci-objectstorage@2.2.0
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-oci-objectstorage@2.2.0?classifier=sources

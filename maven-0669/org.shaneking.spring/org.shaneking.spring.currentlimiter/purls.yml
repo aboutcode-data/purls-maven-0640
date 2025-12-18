@@ -28,3 +28,5 @@
 - pkg:maven/org.shaneking.spring/org.shaneking.spring.currentlimiter@0.3.6?classifier=sources
 - pkg:maven/org.shaneking.spring/org.shaneking.spring.currentlimiter@0.3.7
 - pkg:maven/org.shaneking.spring/org.shaneking.spring.currentlimiter@0.3.7?classifier=sources
+- pkg:maven/org.shaneking.spring/org.shaneking.spring.currentlimiter@0.5.1
+- pkg:maven/org.shaneking.spring/org.shaneking.spring.currentlimiter@0.5.1?classifier=sources

@@ -118,7 +118,15 @@
 - pkg:maven/systems.manifold/manifold-text-test@2020.1.36
 - pkg:maven/systems.manifold/manifold-text-test@2020.1.37
 - pkg:maven/systems.manifold/manifold-text-test@2020.1.38
+- pkg:maven/systems.manifold/manifold-text-test@2020.1.39
 - pkg:maven/systems.manifold/manifold-text-test@2020.1.4
+- pkg:maven/systems.manifold/manifold-text-test@2020.1.40
+- pkg:maven/systems.manifold/manifold-text-test@2020.1.41
+- pkg:maven/systems.manifold/manifold-text-test@2020.1.42
+- pkg:maven/systems.manifold/manifold-text-test@2020.1.44
+- pkg:maven/systems.manifold/manifold-text-test@2020.1.45
+- pkg:maven/systems.manifold/manifold-text-test@2020.1.46
+- pkg:maven/systems.manifold/manifold-text-test@2020.1.47
 - pkg:maven/systems.manifold/manifold-text-test@2020.1.6
 - pkg:maven/systems.manifold/manifold-text-test@2020.1.7
 - pkg:maven/systems.manifold/manifold-text-test@2020.1.8

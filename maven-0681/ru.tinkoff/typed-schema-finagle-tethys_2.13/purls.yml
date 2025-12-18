@@ -16,3 +16,7 @@
 - pkg:maven/ru.tinkoff/typed-schema-finagle-tethys_2.13@0.12.6?classifier=sources
 - pkg:maven/ru.tinkoff/typed-schema-finagle-tethys_2.13@0.12.7
 - pkg:maven/ru.tinkoff/typed-schema-finagle-tethys_2.13@0.12.7?classifier=sources
+- pkg:maven/ru.tinkoff/typed-schema-finagle-tethys_2.13@0.13.0
+- pkg:maven/ru.tinkoff/typed-schema-finagle-tethys_2.13@0.13.0?classifier=sources
+- pkg:maven/ru.tinkoff/typed-schema-finagle-tethys_2.13@0.13.1
+- pkg:maven/ru.tinkoff/typed-schema-finagle-tethys_2.13@0.13.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.tweetyproject.lp/asp@1.19
+- pkg:maven/org.tweetyproject.lp/asp@1.19?classifier=sources

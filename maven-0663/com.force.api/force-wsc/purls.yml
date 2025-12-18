@@ -150,3 +150,7 @@
 - pkg:maven/com.force.api/force-wsc@49.3.0?classifier=sources
 - pkg:maven/com.force.api/force-wsc@50.0.0
 - pkg:maven/com.force.api/force-wsc@50.0.0?classifier=sources
+- pkg:maven/com.force.api/force-wsc@51.0.0?classifier=sources
+- pkg:maven/com.force.api/force-wsc@51.1.0?classifier=sources
+- pkg:maven/com.force.api/force-wsc@51.2.0
+- pkg:maven/com.force.api/force-wsc@51.2.0?classifier=sources

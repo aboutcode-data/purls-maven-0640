@@ -1,0 +1,16 @@
+- pkg:maven/com.artipie/management-api@0.1
+- pkg:maven/com.artipie/management-api@0.1.1
+- pkg:maven/com.artipie/management-api@0.1.1?classifier=sources
+- pkg:maven/com.artipie/management-api@0.1?classifier=sources
+- pkg:maven/com.artipie/management-api@0.2
+- pkg:maven/com.artipie/management-api@0.2.1
+- pkg:maven/com.artipie/management-api@0.2.1?classifier=sources
+- pkg:maven/com.artipie/management-api@0.2.2
+- pkg:maven/com.artipie/management-api@0.2.2?classifier=sources
+- pkg:maven/com.artipie/management-api@0.2?classifier=sources
+- pkg:maven/com.artipie/management-api@0.3
+- pkg:maven/com.artipie/management-api@0.3?classifier=sources
+- pkg:maven/com.artipie/management-api@0.4
+- pkg:maven/com.artipie/management-api@0.4.1
+- pkg:maven/com.artipie/management-api@0.4.1?classifier=sources
+- pkg:maven/com.artipie/management-api@0.4?classifier=sources

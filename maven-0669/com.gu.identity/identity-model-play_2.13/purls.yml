@@ -1,0 +1,6 @@
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.240
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.240?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.241
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.241?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.246-M1
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.246-M1?classifier=sources

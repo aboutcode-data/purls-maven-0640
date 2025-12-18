@@ -1,0 +1,2 @@
+- pkg:maven/com.malliina/logback-akka-streams_2.13@1.9.7
+- pkg:maven/com.malliina/logback-akka-streams_2.13@1.9.7?classifier=sources

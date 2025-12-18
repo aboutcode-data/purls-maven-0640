@@ -1,0 +1,2 @@
+- pkg:maven/com.esmartwave.analytics.androidsdk/TrackingSystemSDK@2.0.0?classifier=sources
+- pkg:maven/com.esmartwave.analytics.androidsdk/TrackingSystemSDK@2.0.0?type=aar

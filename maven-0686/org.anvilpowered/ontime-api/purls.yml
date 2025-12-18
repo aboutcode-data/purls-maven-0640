@@ -1,1 +1,2 @@
 - pkg:maven/org.anvilpowered/ontime-api@0.2?classifier=sources
+- pkg:maven/org.anvilpowered/ontime-api@0.3?classifier=sources

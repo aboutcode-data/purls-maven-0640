@@ -1,0 +1,2 @@
+- pkg:maven/org.jets3t/cockpit@0.9.7
+- pkg:maven/org.jets3t/cockpit@0.9.7?classifier=sources

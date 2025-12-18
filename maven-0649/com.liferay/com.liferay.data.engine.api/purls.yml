@@ -103,3 +103,6 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.api@3.5.3
 - pkg:maven/com.liferay/com.liferay.data.engine.api@3.5.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.api@3.5.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.api@3.5.4
+- pkg:maven/com.liferay/com.liferay.data.engine.api@3.5.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.api@3.5.4?classifier=sources-commercial

@@ -1,0 +1,2 @@
+- pkg:maven/com.hccake/ballcat-admin-websocket@0.0.7
+- pkg:maven/com.hccake/ballcat-admin-websocket@0.0.7?classifier=sources

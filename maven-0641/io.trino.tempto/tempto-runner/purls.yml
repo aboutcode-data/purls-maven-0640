@@ -1,0 +1,2 @@
+- pkg:maven/io.trino.tempto/tempto-runner@183
+- pkg:maven/io.trino.tempto/tempto-runner@183?classifier=sources

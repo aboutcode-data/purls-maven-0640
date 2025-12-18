@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/kareem@2.0.0-rc5
+- pkg:maven/org.webjars.npm/kareem@2.0.0-rc5?classifier=sources
 - pkg:maven/org.webjars.npm/kareem@2.3.1
 - pkg:maven/org.webjars.npm/kareem@2.3.1?classifier=sources

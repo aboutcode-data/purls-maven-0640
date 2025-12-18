@@ -1,0 +1,6 @@
+- pkg:maven/com.github.daddykotex/courier_3.0.0-M2@3.0.0-M2
+- pkg:maven/com.github.daddykotex/courier_3.0.0-M2@3.0.0-M2?classifier=sources
+- pkg:maven/com.github.daddykotex/courier_3.0.0-M2@3.0.0-M2a
+- pkg:maven/com.github.daddykotex/courier_3.0.0-M2@3.0.0-M2a?classifier=sources
+- pkg:maven/com.github.daddykotex/courier_3.0.0-M2@3.0.0-M3a
+- pkg:maven/com.github.daddykotex/courier_3.0.0-M2@3.0.0-M3a?classifier=sources

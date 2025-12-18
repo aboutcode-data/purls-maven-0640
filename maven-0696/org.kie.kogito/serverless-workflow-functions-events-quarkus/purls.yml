@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/serverless-workflow-functions-events-quarkus@1.1.0.Final
+- pkg:maven/org.kie.kogito/serverless-workflow-functions-events-quarkus@1.1.0.Final?classifier=sources

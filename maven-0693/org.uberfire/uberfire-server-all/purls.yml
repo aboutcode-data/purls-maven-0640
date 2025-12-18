@@ -125,3 +125,6 @@
 - pkg:maven/org.uberfire/uberfire-server-all@7.45.0.t20201014
 - pkg:maven/org.uberfire/uberfire-server-all@7.46.0.Final
 - pkg:maven/org.uberfire/uberfire-server-all@7.46.0.t20201030
+- pkg:maven/org.uberfire/uberfire-server-all@7.47.0.Final
+- pkg:maven/org.uberfire/uberfire-server-all@7.48.0.Final
+- pkg:maven/org.uberfire/uberfire-server-all@7.49.0.Final

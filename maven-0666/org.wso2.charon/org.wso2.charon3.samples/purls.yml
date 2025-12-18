@@ -132,5 +132,15 @@
 - pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.27?classifier=sources
 - pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.28
 - pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.28?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.29
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.29?classifier=sources
 - pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.3
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.30
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.30?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.31
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.31?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.32
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.32?classifier=sources
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.33
+- pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.33?classifier=sources
 - pkg:maven/org.wso2.charon/org.wso2.charon3.samples@3.3.3?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/org.corpus-tools/pepperModules-PAULAModules@1.2.2?classifier=sources
 - pkg:maven/org.corpus-tools/pepperModules-PAULAModules@1.2.3?classifier=sources
 - pkg:maven/org.corpus-tools/pepperModules-PAULAModules@1.2.4?classifier=sources
+- pkg:maven/org.corpus-tools/pepperModules-PAULAModules@1.3.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-mapping@0.1.9
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-mapping@0.1.9?classifier=sources
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-mapping@0.2.10
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-mapping@0.2.10?classifier=sources

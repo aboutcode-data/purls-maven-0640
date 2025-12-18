@@ -112,3 +112,6 @@
 - pkg:maven/com.liferay/com.liferay.journal.test.util@7.1.8
 - pkg:maven/com.liferay/com.liferay.journal.test.util@7.1.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.test.util@7.1.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.test.util@7.2.0
+- pkg:maven/com.liferay/com.liferay.journal.test.util@7.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.test.util@7.2.0?classifier=sources-commercial

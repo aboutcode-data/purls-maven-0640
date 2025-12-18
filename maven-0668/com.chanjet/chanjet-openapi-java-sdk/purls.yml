@@ -12,6 +12,8 @@
 - pkg:maven/com.chanjet/chanjet-openapi-java-sdk@1.0.1-RELEASE?classifier=sources
 - pkg:maven/com.chanjet/chanjet-openapi-java-sdk@1.0.10-RELEASE
 - pkg:maven/com.chanjet/chanjet-openapi-java-sdk@1.0.10-RELEASE?classifier=sources
+- pkg:maven/com.chanjet/chanjet-openapi-java-sdk@1.0.12-RELEASE
+- pkg:maven/com.chanjet/chanjet-openapi-java-sdk@1.0.12-RELEASE?classifier=sources
 - pkg:maven/com.chanjet/chanjet-openapi-java-sdk@1.0.2-RELEASE
 - pkg:maven/com.chanjet/chanjet-openapi-java-sdk@1.0.2-RELEASE?classifier=sources
 - pkg:maven/com.chanjet/chanjet-openapi-java-sdk@1.0.4-RELEASE

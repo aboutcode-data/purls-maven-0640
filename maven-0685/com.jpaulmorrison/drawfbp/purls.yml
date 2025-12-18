@@ -54,3 +54,6 @@
 - pkg:maven/com.jpaulmorrison/drawfbp@2.20.7?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.20.8?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@2.20.9?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.21.0?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.21.1?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@2.21.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.optaplanner/optaplanner-ide-config@8.0.0.Final
+- pkg:maven/org.optaplanner/optaplanner-ide-config@8.0.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-ide-config@8.1.0.Final
+- pkg:maven/org.optaplanner/optaplanner-ide-config@8.1.0.Final?classifier=sources

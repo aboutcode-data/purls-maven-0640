@@ -48,3 +48,5 @@
 - pkg:maven/org.eclipse.vorto/repository-api@0.12.6?classifier=sources
 - pkg:maven/org.eclipse.vorto/repository-api@0.9.0
 - pkg:maven/org.eclipse.vorto/repository-api@0.9.0?classifier=sources
+- pkg:maven/org.eclipse.vorto/repository-api@1.0.0
+- pkg:maven/org.eclipse.vorto/repository-api@1.0.0?classifier=sources

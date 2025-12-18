@@ -160,3 +160,17 @@
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.6.3-rc3
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.6.3-rc3?classifier=sources
 - pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.6.3?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.6.4
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.6.4?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.6.5
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.6.5?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.0
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.0-rc1
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.0-rc1?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.0?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.1
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.1?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.2
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.2?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.3
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp_2.11@2.7.3?classifier=sources

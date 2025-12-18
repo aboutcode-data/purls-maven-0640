@@ -16,3 +16,5 @@
 - pkg:maven/com.rover12421.android.hide/framework@Pie_9.0_28?classifier=sources
 - pkg:maven/com.rover12421.android.hide/framework@Q_10.0_29
 - pkg:maven/com.rover12421.android.hide/framework@Q_10.0_29?classifier=sources
+- pkg:maven/com.rover12421.android.hide/framework@R_11.0_30
+- pkg:maven/com.rover12421.android.hide/framework@R_11.0_30?classifier=sources

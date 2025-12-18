@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.mavenresolver/quarkus-maven-resolver-deployment@0.0.2
+- pkg:maven/io.quarkiverse.mavenresolver/quarkus-maven-resolver-deployment@0.0.2?classifier=sources

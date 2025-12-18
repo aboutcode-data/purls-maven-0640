@@ -10,5 +10,7 @@
 - pkg:maven/net.oneandone.stool/server@5.0.4?classifier=sources
 - pkg:maven/net.oneandone.stool/server@5.1.0
 - pkg:maven/net.oneandone.stool/server@5.1.0?classifier=sources
+- pkg:maven/net.oneandone.stool/server@5.1.1
+- pkg:maven/net.oneandone.stool/server@5.1.1?classifier=sources
 - pkg:maven/net.oneandone.stool/server@6.0.0
 - pkg:maven/net.oneandone.stool/server@6.0.0?classifier=sources

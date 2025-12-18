@@ -28,3 +28,4 @@
 - pkg:maven/com.razorpay/razorpay-java@1.3.7?classifier=sources
 - pkg:maven/com.razorpay/razorpay-java@1.3.8
 - pkg:maven/com.razorpay/razorpay-java@1.3.8?classifier=sources
+- pkg:maven/com.razorpay/razorpay-java@1.3.9?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/com.github.tadukoo.util/TadukooUtil@0.2-Alpha
 - pkg:maven/com.github.tadukoo.util/TadukooUtil@0.2-Alpha?classifier=sources
+- pkg:maven/com.github.tadukoo.util/TadukooUtil@0.2.1-Alpha
+- pkg:maven/com.github.tadukoo.util/TadukooUtil@0.2.1-Alpha?classifier=sources
+- pkg:maven/com.github.tadukoo.util/TadukooUtil@0.2.2-Alpha
+- pkg:maven/com.github.tadukoo.util/TadukooUtil@0.2.2-Alpha?classifier=sources
+- pkg:maven/com.github.tadukoo.util/TadukooUtil@0.3-Alpha
+- pkg:maven/com.github.tadukoo.util/TadukooUtil@0.3-Alpha?classifier=sources
+- pkg:maven/com.github.tadukoo.util/TadukooUtil@0.3.1-Alpha
+- pkg:maven/com.github.tadukoo.util/TadukooUtil@0.3.1-Alpha?classifier=sources

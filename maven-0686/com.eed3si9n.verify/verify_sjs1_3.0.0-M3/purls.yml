@@ -1,0 +1,6 @@
+- pkg:maven/com.eed3si9n.verify/verify_sjs1_3.0.0-M3@0.2.0
+- pkg:maven/com.eed3si9n.verify/verify_sjs1_3.0.0-M3@0.2.0?classifier=sources
+- pkg:maven/com.eed3si9n.verify/verify_sjs1_3.0.0-M3@1.0.0
+- pkg:maven/com.eed3si9n.verify/verify_sjs1_3.0.0-M3@1.0.0?classifier=sources
+- pkg:maven/com.eed3si9n.verify/verify_sjs1_3.0.0-M3@2.0.1
+- pkg:maven/com.eed3si9n.verify/verify_sjs1_3.0.0-M3@2.0.1?classifier=sources

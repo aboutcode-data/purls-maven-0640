@@ -176,6 +176,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.21.3?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.21.4
 - pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.21.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.21.5
+- pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.21.5?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.7.4
 - pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.7.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-data@2.7.5

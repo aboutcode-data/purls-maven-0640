@@ -44,3 +44,5 @@
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.31?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.32
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.32?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.33
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-endpoints@0.33?classifier=sources

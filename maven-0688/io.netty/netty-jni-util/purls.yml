@@ -1,0 +1,2 @@
+- pkg:maven/io.netty/netty-jni-util@0.0.2.Final
+- pkg:maven/io.netty/netty-jni-util@0.0.2.Final?classifier=sources

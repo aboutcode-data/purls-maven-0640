@@ -1,3 +1,4 @@
+- pkg:maven/com.mantledillusion.injection/hura-web@2.0.0
 - pkg:maven/com.mantledillusion.injection/hura-web@2.0.0.ALPHA1
 - pkg:maven/com.mantledillusion.injection/hura-web@2.0.0.ALPHA10
 - pkg:maven/com.mantledillusion.injection/hura-web@2.0.0.ALPHA10?classifier=sources
@@ -20,3 +21,4 @@
 - pkg:maven/com.mantledillusion.injection/hura-web@2.0.0.ALPHA9?classifier=sources
 - pkg:maven/com.mantledillusion.injection/hura-web@2.0.0.BETA1
 - pkg:maven/com.mantledillusion.injection/hura-web@2.0.0.BETA1?classifier=sources
+- pkg:maven/com.mantledillusion.injection/hura-web@2.0.0?classifier=sources

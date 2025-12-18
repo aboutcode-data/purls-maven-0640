@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.25.0
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.25.0?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.25.1
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.25.1?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.25.2
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.25.2?classifier=sources

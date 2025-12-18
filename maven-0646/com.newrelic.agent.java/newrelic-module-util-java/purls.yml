@@ -1,1 +1,2 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-module-util-java@2.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-module-util-java@2.1?classifier=sources

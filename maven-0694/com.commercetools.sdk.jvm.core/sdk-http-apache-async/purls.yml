@@ -124,6 +124,14 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.53.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.54.0
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.54.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.55.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.55.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.56.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.56.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.58.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.58.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.59.0
+- pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.59.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.6.0
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.6.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/sdk-http-apache-async@1.7.0

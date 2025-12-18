@@ -146,6 +146,8 @@
 - pkg:maven/cn.sylinx/hbatis-core@1.9.10.RELEASE?classifier=sources
 - pkg:maven/cn.sylinx/hbatis-core@1.9.11.RELEASE
 - pkg:maven/cn.sylinx/hbatis-core@1.9.11.RELEASE?classifier=sources
+- pkg:maven/cn.sylinx/hbatis-core@1.9.12.RELEASE
+- pkg:maven/cn.sylinx/hbatis-core@1.9.12.RELEASE?classifier=sources
 - pkg:maven/cn.sylinx/hbatis-core@1.9.2.1.RELEASE?classifier=sources
 - pkg:maven/cn.sylinx/hbatis-core@1.9.2.2.RELEASE
 - pkg:maven/cn.sylinx/hbatis-core@1.9.2.2.RELEASE?classifier=sources

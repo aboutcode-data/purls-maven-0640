@@ -4,3 +4,7 @@
 - pkg:maven/org.typelevel/coop_2.12@1.0-7a160eb?classifier=sources
 - pkg:maven/org.typelevel/coop_2.12@1.0.0-M1
 - pkg:maven/org.typelevel/coop_2.12@1.0.0-M1?classifier=sources
+- pkg:maven/org.typelevel/coop_2.12@1.0.0-M2
+- pkg:maven/org.typelevel/coop_2.12@1.0.0-M2?classifier=sources
+- pkg:maven/org.typelevel/coop_2.12@1.0.0-M3
+- pkg:maven/org.typelevel/coop_2.12@1.0.0-M3?classifier=sources

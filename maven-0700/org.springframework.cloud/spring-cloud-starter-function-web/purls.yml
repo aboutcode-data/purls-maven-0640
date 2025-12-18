@@ -18,6 +18,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.10.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.11.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.12.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.4.RELEASE
@@ -26,3 +27,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.7.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.8.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.0.9.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.1.0
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@3.1.1

@@ -1,0 +1,2 @@
+- pkg:maven/de.fhg.aisec.ids/idscp2-app-layer@0.1.0?classifier=sources
+- pkg:maven/de.fhg.aisec.ids/idscp2-app-layer@0.2.0?classifier=sources

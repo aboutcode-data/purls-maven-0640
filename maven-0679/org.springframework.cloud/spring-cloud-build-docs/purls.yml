@@ -66,3 +66,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@2.3.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@2.3.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@2.3.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-build-docs@3.0.0
+- pkg:maven/org.springframework.cloud/spring-cloud-build-docs@3.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-build-docs@3.0.1
+- pkg:maven/org.springframework.cloud/spring-cloud-build-docs@3.0.1?classifier=sources

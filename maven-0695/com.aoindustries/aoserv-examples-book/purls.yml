@@ -1,2 +1,4 @@
+- pkg:maven/com.aoindustries/aoserv-examples-book@1.84.12
+- pkg:maven/com.aoindustries/aoserv-examples-book@1.84.12?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-examples-book@1.84.2
 - pkg:maven/com.aoindustries/aoserv-examples-book@1.84.2?classifier=sources

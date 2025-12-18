@@ -1,0 +1,6 @@
+- pkg:maven/com.vaadin/collaboration-engine@2.0.0
+- pkg:maven/com.vaadin/collaboration-engine@2.0.0?classifier=sources
+- pkg:maven/com.vaadin/collaboration-engine@3.0.0
+- pkg:maven/com.vaadin/collaboration-engine@3.0.0?classifier=sources
+- pkg:maven/com.vaadin/collaboration-engine@3.0.1
+- pkg:maven/com.vaadin/collaboration-engine@3.0.1?classifier=sources

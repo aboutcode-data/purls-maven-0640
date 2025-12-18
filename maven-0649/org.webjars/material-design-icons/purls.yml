@@ -1,3 +1,5 @@
 - pkg:maven/org.webjars/material-design-icons@2.2.0
 - pkg:maven/org.webjars/material-design-icons@3.0.0
 - pkg:maven/org.webjars/material-design-icons@3.0.1
+- pkg:maven/org.webjars/material-design-icons@4.0.0
+- pkg:maven/org.webjars/material-design-icons@4.0.0?classifier=sources

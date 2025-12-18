@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/ddosbgp20180720@1.0.0
+- pkg:maven/com.aliyun/ddosbgp20180720@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/ddosbgp20180720@2.0.0
+- pkg:maven/com.aliyun/ddosbgp20180720@2.0.0?classifier=sources

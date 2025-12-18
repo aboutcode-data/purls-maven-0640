@@ -1,2 +1,6 @@
 - pkg:maven/net.n2oapp.framework.security/security-auth@4.17
 - pkg:maven/net.n2oapp.framework.security/security-auth@4.17?classifier=sources
+- pkg:maven/net.n2oapp.framework.security/security-auth@4.20
+- pkg:maven/net.n2oapp.framework.security/security-auth@4.20?classifier=sources
+- pkg:maven/net.n2oapp.framework.security/security-auth@5.0.0
+- pkg:maven/net.n2oapp.framework.security/security-auth@5.0.0?classifier=sources

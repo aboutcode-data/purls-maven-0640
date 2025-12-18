@@ -3,6 +3,10 @@
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.0
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.0?classifier=sources
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.1
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.10
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.10?classifier=sources
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.12
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.12?classifier=sources
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.1?classifier=sources
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.2
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.2?classifier=sources
@@ -20,3 +24,7 @@
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.8?classifier=sources
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.9
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.9?classifier=sources
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.4.0
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.4.0?classifier=sources
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.4.1
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.4.1?classifier=sources

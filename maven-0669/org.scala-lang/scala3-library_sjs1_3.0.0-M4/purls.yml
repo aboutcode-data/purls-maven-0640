@@ -1,0 +1,8 @@
+- pkg:maven/org.scala-lang/scala3-library_sjs1_3.0.0-M4@3.0.0-M4-bin-20210204-33ece58-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-library_sjs1_3.0.0-M4@3.0.0-M4-bin-20210204-33ece58-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scala3-library_sjs1_3.0.0-M4@3.0.0-M4-bin-20210204-406ff9d-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-library_sjs1_3.0.0-M4@3.0.0-M4-bin-20210204-406ff9d-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scala3-library_sjs1_3.0.0-M4@3.0.0-M4-bin-20210205-f42279d-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-library_sjs1_3.0.0-M4@3.0.0-M4-bin-20210205-f42279d-NIGHTLY?classifier=sources
+- pkg:maven/org.scala-lang/scala3-library_sjs1_3.0.0-M4@3.0.0-M4-bin-20210206-a63b1d1-NIGHTLY
+- pkg:maven/org.scala-lang/scala3-library_sjs1_3.0.0-M4@3.0.0-M4-bin-20210206-a63b1d1-NIGHTLY?classifier=sources

@@ -1,3 +1,6 @@
 - pkg:maven/net.consensys.quorum.tessera/tessera-simple@0.11.0
 - pkg:maven/net.consensys.quorum.tessera/tessera-simple@1.0.0
 - pkg:maven/net.consensys.quorum.tessera/tessera-simple@20.10.0
+- pkg:maven/net.consensys.quorum.tessera/tessera-simple@20.10.1
+- pkg:maven/net.consensys.quorum.tessera/tessera-simple@20.10.1-RC1
+- pkg:maven/net.consensys.quorum.tessera/tessera-simple@21.1.0

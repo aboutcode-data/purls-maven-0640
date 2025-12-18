@@ -1,0 +1,5 @@
+- pkg:maven/tz.co.asoft/theme-react@0.0.1?classifier=sources
+- pkg:maven/tz.co.asoft/theme-react@0.0.2?classifier=sources
+- pkg:maven/tz.co.asoft/theme-react@0.0.3?classifier=sources
+- pkg:maven/tz.co.asoft/theme-react@0.0.4?classifier=sources
+- pkg:maven/tz.co.asoft/theme-react@0.0.50?classifier=sources

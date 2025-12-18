@@ -1,0 +1,2 @@
+- pkg:maven/org.moditect.layrry/layrry-launcher@1.0.0.Alpha1
+- pkg:maven/org.moditect.layrry/layrry-launcher@1.0.0.Alpha1?classifier=sources

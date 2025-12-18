@@ -2,3 +2,5 @@
 - pkg:maven/com.rpiaggio/scalajs-react-hotkeys_sjs1_2.13@0.2.0?classifier=sources
 - pkg:maven/com.rpiaggio/scalajs-react-hotkeys_sjs1_2.13@0.3.0
 - pkg:maven/com.rpiaggio/scalajs-react-hotkeys_sjs1_2.13@0.3.0?classifier=sources
+- pkg:maven/com.rpiaggio/scalajs-react-hotkeys_sjs1_2.13@0.3.1
+- pkg:maven/com.rpiaggio/scalajs-react-hotkeys_sjs1_2.13@0.3.1?classifier=sources

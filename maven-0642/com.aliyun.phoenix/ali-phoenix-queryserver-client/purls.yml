@@ -42,3 +42,5 @@
 - pkg:maven/com.aliyun.phoenix/ali-phoenix-queryserver-client@5.2.1-HBase-2.x?classifier=sources
 - pkg:maven/com.aliyun.phoenix/ali-phoenix-queryserver-client@5.2.5-HBase-2.x
 - pkg:maven/com.aliyun.phoenix/ali-phoenix-queryserver-client@5.2.5-HBase-2.x?classifier=sources
+- pkg:maven/com.aliyun.phoenix/ali-phoenix-queryserver-client@5.2.5.1-HBase-2.x
+- pkg:maven/com.aliyun.phoenix/ali-phoenix-queryserver-client@5.2.5.1-HBase-2.x?classifier=sources

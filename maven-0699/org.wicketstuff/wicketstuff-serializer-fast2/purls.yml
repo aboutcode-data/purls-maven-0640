@@ -88,6 +88,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-fast2@8.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-fast2@8.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-fast2@8.10.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-fast2@8.11.0
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-fast2@8.11.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-fast2@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-fast2@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-fast2@8.3.0

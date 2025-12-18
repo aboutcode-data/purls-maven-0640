@@ -117,6 +117,14 @@
 - pkg:maven/com.playtika.testcontainers/testcontainers-common@1.84?classifier=sources
 - pkg:maven/com.playtika.testcontainers/testcontainers-common@1.85
 - pkg:maven/com.playtika.testcontainers/testcontainers-common@1.85?classifier=sources
+- pkg:maven/com.playtika.testcontainers/testcontainers-common@1.86
+- pkg:maven/com.playtika.testcontainers/testcontainers-common@1.86?classifier=sources
+- pkg:maven/com.playtika.testcontainers/testcontainers-common@1.89
+- pkg:maven/com.playtika.testcontainers/testcontainers-common@1.89?classifier=sources
 - pkg:maven/com.playtika.testcontainers/testcontainers-common@1.8?classifier=sources
 - pkg:maven/com.playtika.testcontainers/testcontainers-common@1.9
 - pkg:maven/com.playtika.testcontainers/testcontainers-common@1.9?classifier=sources
+- pkg:maven/com.playtika.testcontainers/testcontainers-common@2.0.0
+- pkg:maven/com.playtika.testcontainers/testcontainers-common@2.0.0?classifier=sources
+- pkg:maven/com.playtika.testcontainers/testcontainers-common@2.0.3
+- pkg:maven/com.playtika.testcontainers/testcontainers-common@2.0.3?classifier=sources

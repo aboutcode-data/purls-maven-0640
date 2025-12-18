@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solon.cloud.extend.slf4j@1.2.22
+- pkg:maven/org.noear/solon.cloud.extend.slf4j@1.2.22?classifier=sources

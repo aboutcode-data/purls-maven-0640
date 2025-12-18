@@ -8,3 +8,9 @@
 - pkg:maven/cn.easyproject/easybackup@3.1.0-RELEASE?classifier=sources
 - pkg:maven/cn.easyproject/easybackup@3.2.0-RELEASE
 - pkg:maven/cn.easyproject/easybackup@3.2.0-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easybackup@3.3.0-RELEASE
+- pkg:maven/cn.easyproject/easybackup@3.3.0-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easybackup@3.3.1-RELEASE
+- pkg:maven/cn.easyproject/easybackup@3.3.1-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easybackup@3.3.2-RELEASE
+- pkg:maven/cn.easyproject/easybackup@3.3.2-RELEASE?classifier=sources

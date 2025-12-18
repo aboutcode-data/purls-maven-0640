@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pjfanning/scala-faker_3.0.0-M3@0.5.2
+- pkg:maven/com.github.pjfanning/scala-faker_3.0.0-M3@0.5.2?classifier=sources

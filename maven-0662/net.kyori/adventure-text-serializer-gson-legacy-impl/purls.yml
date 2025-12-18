@@ -1,0 +1,2 @@
+- pkg:maven/net.kyori/adventure-text-serializer-gson-legacy-impl@4.3.0?classifier=sources
+- pkg:maven/net.kyori/adventure-text-serializer-gson-legacy-impl@4.4.0?classifier=sources

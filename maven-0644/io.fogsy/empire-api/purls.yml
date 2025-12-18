@@ -1,0 +1,2 @@
+- pkg:maven/io.fogsy/empire-api@1.9.14
+- pkg:maven/io.fogsy/empire-api@1.9.14?classifier=sources

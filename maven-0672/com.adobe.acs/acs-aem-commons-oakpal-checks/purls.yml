@@ -2,6 +2,9 @@
 - pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@4.0.0?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@4.1.0
 - pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@4.1.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@4.10.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@4.11.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@4.11.2?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@4.2.0
 - pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@4.2.0?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@4.2.2

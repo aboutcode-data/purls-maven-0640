@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha.http/piranha-http-embedded@21.1.0
+- pkg:maven/cloud.piranha.http/piranha-http-embedded@21.1.0?classifier=sources

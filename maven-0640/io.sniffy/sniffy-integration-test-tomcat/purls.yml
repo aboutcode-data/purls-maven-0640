@@ -10,3 +10,5 @@
 - pkg:maven/io.sniffy/sniffy-integration-test-tomcat@3.1.7?type=war
 - pkg:maven/io.sniffy/sniffy-integration-test-tomcat@3.1.8?classifier=sources
 - pkg:maven/io.sniffy/sniffy-integration-test-tomcat@3.1.8?type=war
+- pkg:maven/io.sniffy/sniffy-integration-test-tomcat@3.1.9?classifier=sources
+- pkg:maven/io.sniffy/sniffy-integration-test-tomcat@3.1.9?type=war

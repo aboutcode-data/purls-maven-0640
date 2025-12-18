@@ -10,3 +10,5 @@
 - pkg:maven/com.github.gurgendanielyan/connectorProcessor@2.3?classifier=sources
 - pkg:maven/com.github.gurgendanielyan/connectorProcessor@2.6
 - pkg:maven/com.github.gurgendanielyan/connectorProcessor@2.6?classifier=sources
+- pkg:maven/com.github.gurgendanielyan/connectorProcessor@2.7
+- pkg:maven/com.github.gurgendanielyan/connectorProcessor@2.7?classifier=sources

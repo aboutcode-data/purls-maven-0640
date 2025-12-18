@@ -135,6 +135,10 @@
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.14?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.15
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.15?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.16
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.16?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.17
+- pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.17?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.1?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.2
 - pkg:maven/com.sap.cloud.lm.sl.cf/com.sap.cloud.lm.sl.cf.persistence@1.73.2?classifier=sources

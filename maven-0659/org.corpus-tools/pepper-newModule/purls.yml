@@ -19,3 +19,4 @@
 - pkg:maven/org.corpus-tools/pepper-newModule@3.4.2?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-newModule@3.5.0?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-newModule@3.5.2?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-newModule@3.5.3?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@2.31?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@2.32
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@2.32?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@2.33
+- pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@2.33?classifier=sources

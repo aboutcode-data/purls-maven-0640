@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nithyanandauniversity.content_server/nu-content_server-gservices@1.0
+- pkg:maven/io.github.nithyanandauniversity.content_server/nu-content_server-gservices@1.0?classifier=sources

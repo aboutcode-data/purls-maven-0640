@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.microprofile.lra/microprofile-lra-tck@1.0-M2?classifier=sources
 - pkg:maven/org.eclipse.microprofile.lra/microprofile-lra-tck@1.0-RC1
 - pkg:maven/org.eclipse.microprofile.lra/microprofile-lra-tck@1.0-RC1?classifier=sources
+- pkg:maven/org.eclipse.microprofile.lra/microprofile-lra-tck@1.0-RC2
+- pkg:maven/org.eclipse.microprofile.lra/microprofile-lra-tck@1.0-RC2?classifier=sources

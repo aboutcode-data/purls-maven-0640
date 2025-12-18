@@ -1,0 +1,4 @@
+- pkg:maven/org.hibernate/hibernate-micrometer@5.4.26.Final
+- pkg:maven/org.hibernate/hibernate-micrometer@5.4.26.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-micrometer@5.4.27.Final
+- pkg:maven/org.hibernate/hibernate-micrometer@5.4.27.Final?classifier=sources

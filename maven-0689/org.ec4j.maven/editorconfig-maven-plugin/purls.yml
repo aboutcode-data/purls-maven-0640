@@ -10,3 +10,4 @@
 - pkg:maven/org.ec4j.maven/editorconfig-maven-plugin@0.0.8?classifier=sources
 - pkg:maven/org.ec4j.maven/editorconfig-maven-plugin@0.0.9?classifier=sources
 - pkg:maven/org.ec4j.maven/editorconfig-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/org.ec4j.maven/editorconfig-maven-plugin@0.1.1?classifier=sources

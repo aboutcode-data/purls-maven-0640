@@ -1,2 +1,4 @@
 - pkg:maven/ca.voidstarzero/isbd-parser@0.1.0?classifier=sources
 - pkg:maven/ca.voidstarzero/isbd-parser@1.0.0?classifier=sources
+- pkg:maven/ca.voidstarzero/isbd-parser@1.1.0?classifier=sources
+- pkg:maven/ca.voidstarzero/isbd-parser@1.1.1?classifier=sources

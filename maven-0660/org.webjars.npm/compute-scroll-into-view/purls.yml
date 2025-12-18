@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/compute-scroll-into-view@1.0.11?classifier=sources
 - pkg:maven/org.webjars.npm/compute-scroll-into-view@1.0.14
 - pkg:maven/org.webjars.npm/compute-scroll-into-view@1.0.14?classifier=sources
+- pkg:maven/org.webjars.npm/compute-scroll-into-view@1.0.16
+- pkg:maven/org.webjars.npm/compute-scroll-into-view@1.0.16?classifier=sources
 - pkg:maven/org.webjars.npm/compute-scroll-into-view@1.0.8
 - pkg:maven/org.webjars.npm/compute-scroll-into-view@1.0.8?classifier=sources

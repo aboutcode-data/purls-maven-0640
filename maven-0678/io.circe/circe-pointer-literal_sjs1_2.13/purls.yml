@@ -1,0 +1,2 @@
+- pkg:maven/io.circe/circe-pointer-literal_sjs1_2.13@0.14.0-M3
+- pkg:maven/io.circe/circe-pointer-literal_sjs1_2.13@0.14.0-M3?classifier=sources

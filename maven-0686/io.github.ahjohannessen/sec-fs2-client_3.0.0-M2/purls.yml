@@ -1,0 +1,8 @@
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3.0.0-M2@0.1.0-RC6
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3.0.0-M2@0.1.0-RC6?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3.0.0-M2@0.1.0-RC7
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3.0.0-M2@0.1.0-RC7?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3.0.0-M2@0.1.0-RC8
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3.0.0-M2@0.1.0-RC8?classifier=sources
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3.0.0-M2@0.1.0-RC9
+- pkg:maven/io.github.ahjohannessen/sec-fs2-client_3.0.0-M2@0.1.0-RC9?classifier=sources

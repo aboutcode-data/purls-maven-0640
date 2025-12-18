@@ -1,2 +1,4 @@
 - pkg:maven/org.dataone/d1_test_resources@2.3.0
 - pkg:maven/org.dataone/d1_test_resources@2.3.0?classifier=sources
+- pkg:maven/org.dataone/d1_test_resources@2.3.1
+- pkg:maven/org.dataone/d1_test_resources@2.3.1?classifier=sources

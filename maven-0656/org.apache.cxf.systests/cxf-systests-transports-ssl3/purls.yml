@@ -114,3 +114,5 @@
 - pkg:maven/org.apache.cxf.systests/cxf-systests-transports-ssl3@3.3.7?classifier=sources
 - pkg:maven/org.apache.cxf.systests/cxf-systests-transports-ssl3@3.3.8
 - pkg:maven/org.apache.cxf.systests/cxf-systests-transports-ssl3@3.3.8?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-transports-ssl3@3.3.9
+- pkg:maven/org.apache.cxf.systests/cxf-systests-transports-ssl3@3.3.9?classifier=sources

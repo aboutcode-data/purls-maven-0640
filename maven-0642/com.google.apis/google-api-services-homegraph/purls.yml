@@ -58,6 +58,8 @@
 - pkg:maven/com.google.apis/google-api-services-homegraph@v1-rev20200810-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-homegraph@v1-rev20200827-1.30.10
 - pkg:maven/com.google.apis/google-api-services-homegraph@v1-rev20200827-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-homegraph@v1-rev20200827-1.31.0
+- pkg:maven/com.google.apis/google-api-services-homegraph@v1-rev20200827-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-homegraph@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-homegraph@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-homegraph@v1-rev21-1.25.0

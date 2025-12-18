@@ -1,0 +1,2 @@
+- pkg:maven/com.truthbean.logger/jdk-common@0.4.0-RELEASE
+- pkg:maven/com.truthbean.logger/jdk-common@0.4.0-RELEASE?classifier=sources

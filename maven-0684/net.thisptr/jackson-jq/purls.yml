@@ -22,3 +22,5 @@
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20190925?classifier=sources
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20191208
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20191208?classifier=sources
+- pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20201123
+- pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20201123?classifier=sources

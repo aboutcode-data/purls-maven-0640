@@ -6,3 +6,5 @@
 - pkg:maven/uk.co.solong/gitlab-release-maven-plugin@1.2?classifier=sources
 - pkg:maven/uk.co.solong/gitlab-release-maven-plugin@1.4
 - pkg:maven/uk.co.solong/gitlab-release-maven-plugin@1.4?classifier=sources
+- pkg:maven/uk.co.solong/gitlab-release-maven-plugin@1.6
+- pkg:maven/uk.co.solong/gitlab-release-maven-plugin@1.6?classifier=sources

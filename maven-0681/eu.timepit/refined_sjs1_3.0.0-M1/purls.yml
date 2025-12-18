@@ -1,2 +1,4 @@
 - pkg:maven/eu.timepit/refined_sjs1_3.0.0-M1@0.9.18
 - pkg:maven/eu.timepit/refined_sjs1_3.0.0-M1@0.9.18?classifier=sources
+- pkg:maven/eu.timepit/refined_sjs1_3.0.0-M1@0.9.19
+- pkg:maven/eu.timepit/refined_sjs1_3.0.0-M1@0.9.19?classifier=sources

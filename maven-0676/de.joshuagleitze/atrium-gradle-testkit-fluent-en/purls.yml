@@ -1,1 +1,2 @@
 - pkg:maven/de.joshuagleitze/atrium-gradle-testkit-fluent-en@1.0.0?classifier=sources
+- pkg:maven/de.joshuagleitze/atrium-gradle-testkit-fluent-en@1.0.1?classifier=sources

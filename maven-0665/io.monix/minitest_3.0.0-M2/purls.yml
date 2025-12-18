@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/minitest_3.0.0-M2@2.9.1
+- pkg:maven/io.monix/minitest_3.0.0-M2@2.9.1?classifier=sources

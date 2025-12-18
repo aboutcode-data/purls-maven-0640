@@ -51,5 +51,11 @@
 - pkg:maven/com.deepoove/poi-tl@1.8.1?classifier=sources
 - pkg:maven/com.deepoove/poi-tl@1.8.2
 - pkg:maven/com.deepoove/poi-tl@1.8.2?classifier=sources
+- pkg:maven/com.deepoove/poi-tl@1.9.0
 - pkg:maven/com.deepoove/poi-tl@1.9.0-beta
+- pkg:maven/com.deepoove/poi-tl@1.9.0-beta1
+- pkg:maven/com.deepoove/poi-tl@1.9.0-beta1?classifier=sources
 - pkg:maven/com.deepoove/poi-tl@1.9.0-beta?classifier=sources
+- pkg:maven/com.deepoove/poi-tl@1.9.0?classifier=sources
+- pkg:maven/com.deepoove/poi-tl@1.9.1
+- pkg:maven/com.deepoove/poi-tl@1.9.1?classifier=sources

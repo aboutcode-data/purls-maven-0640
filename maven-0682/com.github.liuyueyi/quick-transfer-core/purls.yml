@@ -1,0 +1,2 @@
+- pkg:maven/com.github.liuyueyi/quick-transfer-core@0.1
+- pkg:maven/com.github.liuyueyi/quick-transfer-core@0.1?classifier=sources

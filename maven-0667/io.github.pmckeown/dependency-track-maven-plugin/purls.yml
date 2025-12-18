@@ -34,3 +34,7 @@
 - pkg:maven/io.github.pmckeown/dependency-track-maven-plugin@0.8.3?classifier=sources
 - pkg:maven/io.github.pmckeown/dependency-track-maven-plugin@0.8.6
 - pkg:maven/io.github.pmckeown/dependency-track-maven-plugin@0.8.6?classifier=sources
+- pkg:maven/io.github.pmckeown/dependency-track-maven-plugin@0.8.7
+- pkg:maven/io.github.pmckeown/dependency-track-maven-plugin@0.8.7?classifier=sources
+- pkg:maven/io.github.pmckeown/dependency-track-maven-plugin@0.8.8
+- pkg:maven/io.github.pmckeown/dependency-track-maven-plugin@0.8.8?classifier=sources

@@ -1,3 +1,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.34
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.35
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.36
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.38
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.39
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch.marvel.web@1.0.39?classifier=sources-commercial

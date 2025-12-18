@@ -6,3 +6,5 @@
 - pkg:maven/org.terrier/terrier-learning@5.2?classifier=sources
 - pkg:maven/org.terrier/terrier-learning@5.3
 - pkg:maven/org.terrier/terrier-learning@5.3?classifier=sources
+- pkg:maven/org.terrier/terrier-learning@5.4
+- pkg:maven/org.terrier/terrier-learning@5.4?classifier=sources

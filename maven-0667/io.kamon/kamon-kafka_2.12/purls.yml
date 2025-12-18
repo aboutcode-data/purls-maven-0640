@@ -1,3 +1,7 @@
+- pkg:maven/io.kamon/kamon-kafka_2.12@2.1.10
+- pkg:maven/io.kamon/kamon-kafka_2.12@2.1.10?classifier=sources
+- pkg:maven/io.kamon/kamon-kafka_2.12@2.1.11
+- pkg:maven/io.kamon/kamon-kafka_2.12@2.1.11?classifier=sources
 - pkg:maven/io.kamon/kamon-kafka_2.12@2.1.4
 - pkg:maven/io.kamon/kamon-kafka_2.12@2.1.4?classifier=sources
 - pkg:maven/io.kamon/kamon-kafka_2.12@2.1.5
@@ -8,3 +12,5 @@
 - pkg:maven/io.kamon/kamon-kafka_2.12@2.1.7?classifier=sources
 - pkg:maven/io.kamon/kamon-kafka_2.12@2.1.8
 - pkg:maven/io.kamon/kamon-kafka_2.12@2.1.8?classifier=sources
+- pkg:maven/io.kamon/kamon-kafka_2.12@2.1.9
+- pkg:maven/io.kamon/kamon-kafka_2.12@2.1.9?classifier=sources

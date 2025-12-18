@@ -1,0 +1,2 @@
+- pkg:maven/cn.dyaoming.common/common-web@0.0.5
+- pkg:maven/cn.dyaoming.common/common-web@0.0.5?classifier=sources

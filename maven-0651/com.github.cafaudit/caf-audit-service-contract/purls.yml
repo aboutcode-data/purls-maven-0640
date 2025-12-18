@@ -10,3 +10,5 @@
 - pkg:maven/com.github.cafaudit/caf-audit-service-contract@3.5.0-451?classifier=sources
 - pkg:maven/com.github.cafaudit/caf-audit-service-contract@3.6.0-546
 - pkg:maven/com.github.cafaudit/caf-audit-service-contract@3.6.0-546?classifier=sources
+- pkg:maven/com.github.cafaudit/caf-audit-service-contract@3.7.0-590
+- pkg:maven/com.github.cafaudit/caf-audit-service-contract@3.7.0-590?classifier=sources

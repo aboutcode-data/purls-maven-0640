@@ -14,3 +14,11 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.6.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.6.0_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.6.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.7.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.7.0_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.7.0_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.7.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.8.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.8.0_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.8.0_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-storage-queue@12.8.0_1?classifier=src&type=zip
