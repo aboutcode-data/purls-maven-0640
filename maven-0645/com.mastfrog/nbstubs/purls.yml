@@ -1,0 +1,2 @@
+- pkg:maven/com.mastfrog/nbstubs@1.13
+- pkg:maven/com.mastfrog/nbstubs@1.13?classifier=sources

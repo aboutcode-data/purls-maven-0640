@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@2.29
+- pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@2.29?classifier=sources

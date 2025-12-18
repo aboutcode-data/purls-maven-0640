@@ -4,6 +4,10 @@
 - pkg:maven/org.gridkit.jvmtool/sjk-cli@0.10?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-cli@0.11
 - pkg:maven/org.gridkit.jvmtool/sjk-cli@0.11?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/sjk-cli@0.12
+- pkg:maven/org.gridkit.jvmtool/sjk-cli@0.12?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/sjk-cli@0.13
+- pkg:maven/org.gridkit.jvmtool/sjk-cli@0.13?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-cli@0.3.9
 - pkg:maven/org.gridkit.jvmtool/sjk-cli@0.3.9?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-cli@0.4.0

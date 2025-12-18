@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.kurento/kurento-utils-bower@6.8.0
+- pkg:maven/org.webjars.bowergithub.kurento/kurento-utils-bower@6.8.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.kurento/kurento-utils-bower@6.9.0
+- pkg:maven/org.webjars.bowergithub.kurento/kurento-utils-bower@6.9.0?classifier=sources

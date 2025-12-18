@@ -123,3 +123,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.main@6.0.2
 - pkg:maven/org.apache.felix/org.apache.felix.main@6.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.main@6.0.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.main@6.0.3
+- pkg:maven/org.apache.felix/org.apache.felix.main@6.0.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.main@6.0.3?classifier=sources

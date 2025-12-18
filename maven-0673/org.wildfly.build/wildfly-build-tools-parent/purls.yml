@@ -1,4 +1,5 @@
 - pkg:maven/org.wildfly.build/wildfly-build-tools-parent@1.2.10.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.build/wildfly-build-tools-parent@1.2.11.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.build/wildfly-build-tools-parent@1.2.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.build/wildfly-build-tools-parent@1.2.4.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.build/wildfly-build-tools-parent@1.2.9.Final?classifier=source-release&type=zip

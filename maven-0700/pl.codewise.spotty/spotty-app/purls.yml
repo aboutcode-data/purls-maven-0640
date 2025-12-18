@@ -1,0 +1,2 @@
+- pkg:maven/pl.codewise.spotty/spotty-app@1.0.2
+- pkg:maven/pl.codewise.spotty/spotty-app@1.0.2?classifier=sources

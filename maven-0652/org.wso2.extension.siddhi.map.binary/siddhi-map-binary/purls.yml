@@ -1,3 +1,4 @@
+- pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.0
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.10
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.11
@@ -10,6 +11,7 @@
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.15
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.2
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.3
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.4
@@ -26,3 +28,5 @@
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.0.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.1.0
 - pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@1.1.1
+- pkg:maven/org.wso2.extension.siddhi.map.binary/siddhi-map-binary@2.0.0

@@ -11,6 +11,7 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.128?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.129?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.130?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.131?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.132?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.133?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.134?classifier=sources
@@ -167,6 +168,8 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.286?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.287?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.288?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.289?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.290?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.291?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.292?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.293?classifier=sources
@@ -370,3 +373,4 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.492?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.493?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.494?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.metrics.core.feature@2.0.495?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-variable-serializer@1.2.19
+- pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-variable-serializer@1.2.19?classifier=sources
+- pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-variable-serializer@1.2.20
+- pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-variable-serializer@1.2.20?classifier=sources
+- pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-variable-serializer@1.2.21
+- pkg:maven/io.holunda.taskpool/camunda-bpm-taskpool-variable-serializer@1.2.21?classifier=sources

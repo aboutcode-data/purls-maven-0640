@@ -1,0 +1,4 @@
+- pkg:maven/org.tenkiv.coral/coral-jvm@2.3.2.3
+- pkg:maven/org.tenkiv.coral/coral-jvm@2.3.2.3?classifier=sources
+- pkg:maven/org.tenkiv.coral/coral-jvm@2.3.4
+- pkg:maven/org.tenkiv.coral/coral-jvm@2.3.4?classifier=sources

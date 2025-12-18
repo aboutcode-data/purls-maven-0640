@@ -1,0 +1,6 @@
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.13@2.5.23
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.13@2.5.23?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.13@2.6.0-M3
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.13@2.6.0-M3?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.13@2.6.0-M4
+- pkg:maven/com.typesafe.akka/akka-persistence-query_2.13@2.6.0-M4?classifier=sources

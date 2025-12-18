@@ -5,3 +5,13 @@
 - pkg:maven/io.prestosql/presto-accumulo@304?classifier=sources
 - pkg:maven/io.prestosql/presto-accumulo@305?classifier=sources
 - pkg:maven/io.prestosql/presto-accumulo@306?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@307?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@308?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@309?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@310?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@311?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@312?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@313?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@314?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@315?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo@316?classifier=sources

@@ -38,6 +38,7 @@
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.28?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.29
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.29?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.3
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.30
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.30?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.31
@@ -58,6 +59,7 @@
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.38?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.39
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.39?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.4
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.40
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.40?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.41
@@ -76,3 +78,5 @@
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.0.9?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.1.0
 - pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.1.0?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@4.1.2
+- pkg:maven/org.wso2.extension.siddhi.map.json/siddhi-map-json@5.0.1

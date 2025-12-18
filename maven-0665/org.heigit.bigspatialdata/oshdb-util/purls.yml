@@ -1,0 +1,2 @@
+- pkg:maven/org.heigit.bigspatialdata/oshdb-util@0.5.1
+- pkg:maven/org.heigit.bigspatialdata/oshdb-util@0.5.1?classifier=sources

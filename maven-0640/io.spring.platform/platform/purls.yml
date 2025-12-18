@@ -35,6 +35,7 @@
 - pkg:maven/io.spring.platform/platform@Brussels-SR14
 - pkg:maven/io.spring.platform/platform@Brussels-SR15
 - pkg:maven/io.spring.platform/platform@Brussels-SR16
+- pkg:maven/io.spring.platform/platform@Brussels-SR17
 - pkg:maven/io.spring.platform/platform@Brussels-SR2
 - pkg:maven/io.spring.platform/platform@Brussels-SR3
 - pkg:maven/io.spring.platform/platform@Brussels-SR4
@@ -51,3 +52,4 @@
 - pkg:maven/io.spring.platform/platform@Cairo-SR5
 - pkg:maven/io.spring.platform/platform@Cairo-SR6
 - pkg:maven/io.spring.platform/platform@Cairo-SR7
+- pkg:maven/io.spring.platform/platform@Cairo-SR8

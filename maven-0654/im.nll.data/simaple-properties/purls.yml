@@ -1,0 +1,2 @@
+- pkg:maven/im.nll.data/simaple-properties@0.9.0
+- pkg:maven/im.nll.data/simaple-properties@0.9.0?classifier=sources

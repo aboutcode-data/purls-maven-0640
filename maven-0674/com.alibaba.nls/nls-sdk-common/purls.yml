@@ -10,3 +10,17 @@
 - pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.3-beta
 - pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.3-beta?classifier=sources
 - pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.3?classifier=sources
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.4-2019041210
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.4-2019041210?classifier=sources
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5-20190415
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5-20190415?classifier=sources
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5-20190416
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5-20190416?classifier=sources
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5-20190426
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5-20190426?classifier=sources
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5-20190517
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5-20190517?classifier=sources
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.0.5?classifier=sources
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.1.0
+- pkg:maven/com.alibaba.nls/nls-sdk-common@2.1.0?classifier=sources

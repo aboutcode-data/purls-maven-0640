@@ -16,3 +16,6 @@
 - pkg:maven/org.wildfly.bom/wildfly@15.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/wildfly@16.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/wildfly@16.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/wildfly@17.0.0.Beta1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/wildfly@17.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/wildfly@17.0.1.Final?classifier=source-release&type=zip

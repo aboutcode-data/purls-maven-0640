@@ -1,0 +1,2 @@
+- pkg:maven/com.ovoenergy/fs2-kafka-vulcan_2.13@0.20.0-M2
+- pkg:maven/com.ovoenergy/fs2-kafka-vulcan_2.13@0.20.0-M2?classifier=sources

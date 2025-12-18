@@ -38,3 +38,5 @@
 - pkg:maven/org.webjars/font-awesome@5.7.1
 - pkg:maven/org.webjars/font-awesome@5.7.2
 - pkg:maven/org.webjars/font-awesome@5.8.1
+- pkg:maven/org.webjars/font-awesome@5.8.2
+- pkg:maven/org.webjars/font-awesome@5.9.0

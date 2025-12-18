@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/shopify__react-compose@0.1.12
+- pkg:maven/org.webjars.npm/shopify__react-compose@0.1.12?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.github.felixgail/gplaymusic@0.3.6?classifier=sources
 - pkg:maven/com.github.felixgail/gplaymusic@0.3.7-Snapshot
 - pkg:maven/com.github.felixgail/gplaymusic@0.3.7-Snapshot?classifier=sources
+- pkg:maven/com.github.felixgail/gplaymusic@0.3.8
+- pkg:maven/com.github.felixgail/gplaymusic@0.3.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kravemir.gradle.sass/gradle-sass-plugin@1.2.4
+- pkg:maven/org.kravemir.gradle.sass/gradle-sass-plugin@1.2.4?classifier=sources

@@ -14,6 +14,10 @@
 - pkg:maven/org.apache.jena/jena-fuseki-server@2.6.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-fuseki-server@3.10.0
 - pkg:maven/org.apache.jena/jena-fuseki-server@3.10.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-fuseki-server@3.11.0
+- pkg:maven/org.apache.jena/jena-fuseki-server@3.11.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-fuseki-server@3.12.0
+- pkg:maven/org.apache.jena/jena-fuseki-server@3.12.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-fuseki-server@3.4.0
 - pkg:maven/org.apache.jena/jena-fuseki-server@3.4.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-fuseki-server@3.5.0

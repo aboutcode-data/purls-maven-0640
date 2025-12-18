@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/katex@0.6.0
 - pkg:maven/org.webjars.npm/katex@0.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/katex@0.7.0-pre
+- pkg:maven/org.webjars.npm/katex@0.7.0-pre?classifier=sources
 - pkg:maven/org.webjars.npm/katex@0.7.1
 - pkg:maven/org.webjars.npm/katex@0.7.1?classifier=sources
 - pkg:maven/org.webjars.npm/katex@0.8.3

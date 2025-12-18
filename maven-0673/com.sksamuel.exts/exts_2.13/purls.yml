@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.exts/exts_2.13@1.61.1
+- pkg:maven/com.sksamuel.exts/exts_2.13@1.61.1?classifier=sources

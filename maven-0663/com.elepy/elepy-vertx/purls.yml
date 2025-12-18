@@ -1,0 +1,8 @@
+- pkg:maven/com.elepy/elepy-vertx@2.0.0-beta-14
+- pkg:maven/com.elepy/elepy-vertx@2.0.0-beta-14?classifier=sources
+- pkg:maven/com.elepy/elepy-vertx@2.0.0-beta-15
+- pkg:maven/com.elepy/elepy-vertx@2.0.0-beta-15?classifier=sources
+- pkg:maven/com.elepy/elepy-vertx@2.0.0-beta-16
+- pkg:maven/com.elepy/elepy-vertx@2.0.0-beta-16?classifier=sources
+- pkg:maven/com.elepy/elepy-vertx@2.0.0-beta-17
+- pkg:maven/com.elepy/elepy-vertx@2.0.0-beta-17?classifier=sources

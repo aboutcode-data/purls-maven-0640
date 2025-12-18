@@ -1,0 +1,4 @@
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.18
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.18?classifier=sources
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.20
+- pkg:maven/com.vladsch.flexmark/flexmark-html2md-converter@0.50.20?classifier=sources

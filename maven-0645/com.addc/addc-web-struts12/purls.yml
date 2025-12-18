@@ -1,0 +1,3 @@
+- pkg:maven/com.addc/addc-web-struts12@2.5?type=war
+- pkg:maven/com.addc/addc-web-struts12@2.6.1?type=war
+- pkg:maven/com.addc/addc-web-struts12@2.6?type=war

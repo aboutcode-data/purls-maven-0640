@@ -6,3 +6,5 @@
 - pkg:maven/io.github.kicksolutions/mock-swagger-core@0.0.1-charlie?classifier=sources
 - pkg:maven/io.github.kicksolutions/mock-swagger-core@0.0.2-alpha
 - pkg:maven/io.github.kicksolutions/mock-swagger-core@0.0.2-alpha?classifier=sources
+- pkg:maven/io.github.kicksolutions/mock-swagger-core@0.0.2-beta
+- pkg:maven/io.github.kicksolutions/mock-swagger-core@0.0.2-beta?classifier=sources

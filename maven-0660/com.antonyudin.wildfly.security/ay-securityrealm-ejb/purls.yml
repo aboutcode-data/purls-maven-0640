@@ -1,0 +1,2 @@
+- pkg:maven/com.antonyudin.wildfly.security/ay-securityrealm-ejb@1.0
+- pkg:maven/com.antonyudin.wildfly.security/ay-securityrealm-ejb@1.0?classifier=sources

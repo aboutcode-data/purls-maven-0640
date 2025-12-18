@@ -1,0 +1,2 @@
+- pkg:maven/org.javastro.vodsl/vodslparser@0.4.0
+- pkg:maven/org.javastro.vodsl/vodslparser@0.4.0?classifier=sources

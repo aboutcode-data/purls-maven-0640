@@ -23,6 +23,8 @@
 - pkg:maven/ro.ghionoiu/tdl-client-java@0.22.2?classifier=sources
 - pkg:maven/ro.ghionoiu/tdl-client-java@0.24.0
 - pkg:maven/ro.ghionoiu/tdl-client-java@0.24.0?classifier=sources
+- pkg:maven/ro.ghionoiu/tdl-client-java@0.26.0
+- pkg:maven/ro.ghionoiu/tdl-client-java@0.26.0?classifier=sources
 - pkg:maven/ro.ghionoiu/tdl-client-java@0.3.0
 - pkg:maven/ro.ghionoiu/tdl-client-java@0.3.0?classifier=sources
 - pkg:maven/ro.ghionoiu/tdl-client-java@0.3.1

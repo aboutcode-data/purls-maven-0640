@@ -1,3 +1,11 @@
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.0.1.RELEASE
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.0.1.RELEASE?classifier=sources
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.0.2.RELEASE
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.0.2.RELEASE?classifier=sources
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.0.3.RELEASE
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.0.3.RELEASE?classifier=sources
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.0.4.RELEASE
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.0.4.RELEASE?classifier=sources
 - pkg:maven/cn.minsin/mutils-aliyun-sms@0.2.5
 - pkg:maven/cn.minsin/mutils-aliyun-sms@0.2.5?classifier=sources
 - pkg:maven/cn.minsin/mutils-aliyun-sms@0.2.6
@@ -22,3 +30,5 @@
 - pkg:maven/cn.minsin/mutils-aliyun-sms@0.3.5?classifier=sources
 - pkg:maven/cn.minsin/mutils-aliyun-sms@0.3.6
 - pkg:maven/cn.minsin/mutils-aliyun-sms@0.3.6?classifier=sources
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.3.7
+- pkg:maven/cn.minsin/mutils-aliyun-sms@0.3.7?classifier=sources

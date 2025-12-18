@@ -7,6 +7,14 @@
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.10?classifier=sources
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.11
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.11?classifier=sources
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.13
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.13?classifier=sources
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.14
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.14?classifier=sources
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.15
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.15?classifier=sources
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.16
+- pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.16?classifier=sources
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.1?classifier=sources
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.2
 - pkg:maven/cn.thinkingdata/thinkingdatasdk@1.1.2?classifier=sources

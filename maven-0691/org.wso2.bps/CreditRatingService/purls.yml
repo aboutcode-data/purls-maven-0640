@@ -1,0 +1,8 @@
+- pkg:maven/org.wso2.bps/CreditRatingService@3.5.0?classifier=sources
+- pkg:maven/org.wso2.bps/CreditRatingService@3.5.0?type=aar
+- pkg:maven/org.wso2.bps/CreditRatingService@3.5.1-beta?classifier=sources
+- pkg:maven/org.wso2.bps/CreditRatingService@3.5.1-beta?type=aar
+- pkg:maven/org.wso2.bps/CreditRatingService@3.5.1?classifier=sources
+- pkg:maven/org.wso2.bps/CreditRatingService@3.5.1?type=aar
+- pkg:maven/org.wso2.bps/CreditRatingService@3.6.0-alpha?classifier=sources
+- pkg:maven/org.wso2.bps/CreditRatingService@3.6.0-alpha?type=aar

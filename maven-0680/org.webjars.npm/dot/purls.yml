@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/dot@1.1.2
 - pkg:maven/org.webjars.npm/dot@1.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/dot@2.0.0-beta.0
+- pkg:maven/org.webjars.npm/dot@2.0.0-beta.0?classifier=sources

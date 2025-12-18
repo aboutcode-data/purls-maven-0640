@@ -36,3 +36,7 @@
 - pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-memcached-session-manager@9.3.24.v20180605?classifier=sources
 - pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-memcached-session-manager@9.3.25.v20180904
 - pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-memcached-session-manager@9.3.25.v20180904?classifier=sources
+- pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-memcached-session-manager@9.3.26.v20190403
+- pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-memcached-session-manager@9.3.26.v20190403?classifier=sources
+- pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-memcached-session-manager@9.3.27.v20190418
+- pkg:maven/org.eclipse.jetty.gcloud/jetty-gcloud-memcached-session-manager@9.3.27.v20190418?classifier=sources

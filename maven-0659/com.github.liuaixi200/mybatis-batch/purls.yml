@@ -1,0 +1,2 @@
+- pkg:maven/com.github.liuaixi200/mybatis-batch@1.0.0
+- pkg:maven/com.github.liuaixi200/mybatis-batch@1.0.0?classifier=sources

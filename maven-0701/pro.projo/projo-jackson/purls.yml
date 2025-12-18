@@ -1,0 +1,2 @@
+- pkg:maven/pro.projo/projo-jackson@1.1.0
+- pkg:maven/pro.projo/projo-jackson@1.1.0?classifier=sources

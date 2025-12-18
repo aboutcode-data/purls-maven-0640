@@ -41,6 +41,8 @@
 - pkg:maven/com.algolia/instantsearch-android@1.13.0?type=aar
 - pkg:maven/com.algolia/instantsearch-android@1.15.2?classifier=sources
 - pkg:maven/com.algolia/instantsearch-android@1.15.2?type=aar
+- pkg:maven/com.algolia/instantsearch-android@1.15.3?classifier=sources
+- pkg:maven/com.algolia/instantsearch-android@1.15.3?type=aar
 - pkg:maven/com.algolia/instantsearch-android@1.2.0?classifier=sources
 - pkg:maven/com.algolia/instantsearch-android@1.2.0?type=aar
 - pkg:maven/com.algolia/instantsearch-android@1.2.1?classifier=sources

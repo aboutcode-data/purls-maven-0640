@@ -1,1 +1,5 @@
 - pkg:maven/com.rosberry.android/AbstractRecycler@0.2.0?classifier=sources
+- pkg:maven/com.rosberry.android/AbstractRecycler@0.3.0?classifier=sources
+- pkg:maven/com.rosberry.android/AbstractRecycler@0.3.0?type=aar
+- pkg:maven/com.rosberry.android/AbstractRecycler@1.0.0?classifier=sources
+- pkg:maven/com.rosberry.android/AbstractRecycler@1.0.0?type=aar

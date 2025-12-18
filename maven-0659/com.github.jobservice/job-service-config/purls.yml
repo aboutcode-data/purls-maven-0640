@@ -4,3 +4,7 @@
 - pkg:maven/com.github.jobservice/job-service-config@2.5.0-284?classifier=sources
 - pkg:maven/com.github.jobservice/job-service-config@2.6.0-383
 - pkg:maven/com.github.jobservice/job-service-config@2.6.0-383?classifier=sources
+- pkg:maven/com.github.jobservice/job-service-config@2.7.0-440
+- pkg:maven/com.github.jobservice/job-service-config@2.7.0-440?classifier=sources
+- pkg:maven/com.github.jobservice/job-service-config@3.0.0-471
+- pkg:maven/com.github.jobservice/job-service-config@3.0.0-471?classifier=sources

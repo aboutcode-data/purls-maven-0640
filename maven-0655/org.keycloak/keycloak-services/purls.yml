@@ -198,3 +198,7 @@
 - pkg:maven/org.keycloak/keycloak-services@4.8.3.Final?classifier=sources
 - pkg:maven/org.keycloak/keycloak-services@5.0.0
 - pkg:maven/org.keycloak/keycloak-services@5.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-services@6.0.0
+- pkg:maven/org.keycloak/keycloak-services@6.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-services@6.0.1
+- pkg:maven/org.keycloak/keycloak-services@6.0.1?classifier=sources

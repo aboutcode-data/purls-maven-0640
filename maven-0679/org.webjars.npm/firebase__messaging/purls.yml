@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/firebase__messaging@0.3.15
+- pkg:maven/org.webjars.npm/firebase__messaging@0.3.15?classifier=sources

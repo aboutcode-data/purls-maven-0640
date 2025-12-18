@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.appserver.shade.log4j/log4j-shaded@1.2.17.wso2v1-m3
+- pkg:maven/org.wso2.appserver.shade.log4j/log4j-shaded@1.2.17.wso2v1-m3?classifier=sources

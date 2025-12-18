@@ -1,0 +1,2 @@
+- pkg:maven/com.github.minglie/ming-feign@0.0.20-RELEASE
+- pkg:maven/com.github.minglie/ming-feign@0.0.20-RELEASE?classifier=sources

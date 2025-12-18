@@ -75,8 +75,14 @@
 - pkg:maven/org.apache.camel/camel-blueprint@2.22.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@2.22.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@2.22.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-blueprint@2.22.4?classifier=sources
+- pkg:maven/org.apache.camel/camel-blueprint@2.22.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@2.23.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@2.23.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-blueprint@2.23.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-blueprint@2.23.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-blueprint@2.24.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-blueprint@2.24.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@2.4.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@2.5.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@2.6.0?classifier=sources
@@ -106,3 +112,7 @@
 - pkg:maven/org.apache.camel/camel-blueprint@3.0.0-M1?classifier=sources
 - pkg:maven/org.apache.camel/camel-blueprint@3.0.0-M2
 - pkg:maven/org.apache.camel/camel-blueprint@3.0.0-M2?classifier=sources
+- pkg:maven/org.apache.camel/camel-blueprint@3.0.0-M3
+- pkg:maven/org.apache.camel/camel-blueprint@3.0.0-M3?classifier=sources
+- pkg:maven/org.apache.camel/camel-blueprint@3.0.0-M4
+- pkg:maven/org.apache.camel/camel-blueprint@3.0.0-M4?classifier=sources

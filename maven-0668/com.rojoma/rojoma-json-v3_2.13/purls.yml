@@ -1,0 +1,2 @@
+- pkg:maven/com.rojoma/rojoma-json-v3_2.13@3.9.1
+- pkg:maven/com.rojoma/rojoma-json-v3_2.13@3.9.1?classifier=sources

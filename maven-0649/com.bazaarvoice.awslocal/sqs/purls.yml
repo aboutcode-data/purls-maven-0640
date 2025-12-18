@@ -2,3 +2,5 @@
 - pkg:maven/com.bazaarvoice.awslocal/sqs@1.3?classifier=sources
 - pkg:maven/com.bazaarvoice.awslocal/sqs@1.4
 - pkg:maven/com.bazaarvoice.awslocal/sqs@1.4?classifier=sources
+- pkg:maven/com.bazaarvoice.awslocal/sqs@2.0
+- pkg:maven/com.bazaarvoice.awslocal/sqs@2.0?classifier=sources

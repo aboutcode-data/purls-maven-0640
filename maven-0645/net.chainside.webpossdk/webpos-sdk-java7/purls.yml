@@ -1,0 +1,10 @@
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.0.0
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.0.0?classifier=sources
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.1.0
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.1.0?classifier=sources
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.2.0
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.2.0?classifier=sources
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.3.0
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.3.0?classifier=sources
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.4.0
+- pkg:maven/net.chainside.webpossdk/webpos-sdk-java7@1.4.0?classifier=sources

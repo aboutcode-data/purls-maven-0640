@@ -1,0 +1,11 @@
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.1.0
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.1.1
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.1.2
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.2.0
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.2.1
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.2.2
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.2.3
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.2.4
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.2.5
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.2.6
+- pkg:maven/org.wso2.carbon.devicemgt-plugins/org.wso2.carbon.device.mgt.iot.input.adapter.xmpp@2.2.7

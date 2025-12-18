@@ -34,3 +34,5 @@
 - pkg:maven/org.cache2k/cache2k-all@1.2.0.Final?classifier=sources
 - pkg:maven/org.cache2k/cache2k-all@1.2.1.Final
 - pkg:maven/org.cache2k/cache2k-all@1.2.1.Final?classifier=sources
+- pkg:maven/org.cache2k/cache2k-all@1.2.2.Final
+- pkg:maven/org.cache2k/cache2k-all@1.2.2.Final?classifier=sources

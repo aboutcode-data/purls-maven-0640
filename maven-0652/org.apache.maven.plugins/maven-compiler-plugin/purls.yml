@@ -62,3 +62,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.8.0
 - pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.8.0?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.8.1
+- pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.8.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-compiler-plugin@3.8.1?classifier=sources

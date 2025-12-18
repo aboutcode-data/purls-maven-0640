@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/treetable-scala_2.13@1.5.1
+- pkg:maven/de.sciss/treetable-scala_2.13@1.5.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.admin@5.0.12-alpha
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.admin@5.0.12-alpha2
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.admin@5.0.12-beta
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.admin@5.0.12-beta2
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.admin@5.1.0-alpha
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.admin@5.1.0-beta

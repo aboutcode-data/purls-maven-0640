@@ -54,3 +54,5 @@
 - pkg:maven/org.webjars/webjars-play_2.11@2.7.0-RC9
 - pkg:maven/org.webjars/webjars-play_2.11@2.7.0-RC9?classifier=sources
 - pkg:maven/org.webjars/webjars-play_2.11@2.7.0?classifier=sources
+- pkg:maven/org.webjars/webjars-play_2.11@2.7.3
+- pkg:maven/org.webjars/webjars-play_2.11@2.7.3?classifier=sources

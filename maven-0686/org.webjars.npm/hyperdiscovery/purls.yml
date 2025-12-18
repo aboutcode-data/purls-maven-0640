@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/hyperdiscovery@9.0.2
+- pkg:maven/org.webjars.npm/hyperdiscovery@9.0.2?classifier=sources

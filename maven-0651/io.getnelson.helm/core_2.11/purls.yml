@@ -2,6 +2,8 @@
 - pkg:maven/io.getnelson.helm/core_2.11@5.0.10?classifier=sources
 - pkg:maven/io.getnelson.helm/core_2.11@5.0.11
 - pkg:maven/io.getnelson.helm/core_2.11@5.0.11?classifier=sources
+- pkg:maven/io.getnelson.helm/core_2.11@5.0.12
+- pkg:maven/io.getnelson.helm/core_2.11@5.0.12?classifier=sources
 - pkg:maven/io.getnelson.helm/core_2.11@5.0.6
 - pkg:maven/io.getnelson.helm/core_2.11@5.0.6?classifier=sources
 - pkg:maven/io.getnelson.helm/core_2.11@5.0.9

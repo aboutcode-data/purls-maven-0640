@@ -4,3 +4,13 @@
 - pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha2?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha3
 - pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha3?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha4
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha4?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha5
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha5?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha6
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha6?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha7
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha7?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha8
+- pkg:maven/org.hibernate.search/hibernate-search-backend-elasticsearch@6.0.0.Alpha8?classifier=sources

@@ -51,6 +51,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.fsresource@2.1.14
 - pkg:maven/org.apache.sling/org.apache.sling.fsresource@2.1.14?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.fsresource@2.1.14?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.fsresource@2.1.16
+- pkg:maven/org.apache.sling/org.apache.sling.fsresource@2.1.16?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.fsresource@2.1.16?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.fsresource@2.1.2
 - pkg:maven/org.apache.sling/org.apache.sling.fsresource@2.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.fsresource@2.1.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/me.gaigeshen.wechat/wechat-pay@1.0.0
+- pkg:maven/me.gaigeshen.wechat/wechat-pay@1.0.0?classifier=sources
+- pkg:maven/me.gaigeshen.wechat/wechat-pay@1.1.0
+- pkg:maven/me.gaigeshen.wechat/wechat-pay@1.1.0?classifier=sources
+- pkg:maven/me.gaigeshen.wechat/wechat-pay@1.2.0
+- pkg:maven/me.gaigeshen.wechat/wechat-pay@1.2.0?classifier=sources

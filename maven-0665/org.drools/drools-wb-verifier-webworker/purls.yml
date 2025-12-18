@@ -14,3 +14,13 @@
 - pkg:maven/org.drools/drools-wb-verifier-webworker@7.18.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-wb-verifier-webworker@7.19.0.Final
 - pkg:maven/org.drools/drools-wb-verifier-webworker@7.19.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.20.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.20.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.21.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.21.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.22.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.22.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.23.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.23.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.24.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.24.0.Final?classifier=sources

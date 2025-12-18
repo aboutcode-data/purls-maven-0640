@@ -8,3 +8,7 @@
 - pkg:maven/io.wcm.qa/io.wcm.qa.galenium.core@0.1.20?classifier=sources
 - pkg:maven/io.wcm.qa/io.wcm.qa.galenium.core@0.1.22
 - pkg:maven/io.wcm.qa/io.wcm.qa.galenium.core@0.1.22?classifier=sources
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.core@1.0.0
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.core@1.0.0?classifier=sources
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.core@2.0.0
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.core@2.0.0?classifier=sources

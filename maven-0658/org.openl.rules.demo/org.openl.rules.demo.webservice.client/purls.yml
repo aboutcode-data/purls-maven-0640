@@ -58,6 +58,8 @@
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.18.3?type=war
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.18.4?classifier=sources
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.18.4?type=war
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.18.5?classifier=sources
+- pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.18.5?type=war
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.19.0?classifier=sources
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.19.0?type=war
 - pkg:maven/org.openl.rules.demo/org.openl.rules.demo.webservice.client@5.19.1.1?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/tech.schoolhelper/graphextension@0.4.3?type=aar
 - pkg:maven/tech.schoolhelper/graphextension@1.0.0?classifier=sources
 - pkg:maven/tech.schoolhelper/graphextension@1.0.0?type=aar
+- pkg:maven/tech.schoolhelper/graphextension@1.1.0-beta?classifier=sources
+- pkg:maven/tech.schoolhelper/graphextension@1.1.0-beta?type=aar
+- pkg:maven/tech.schoolhelper/graphextension@1.1.0?classifier=sources
+- pkg:maven/tech.schoolhelper/graphextension@1.1.0?type=aar

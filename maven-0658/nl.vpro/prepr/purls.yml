@@ -1,0 +1,8 @@
+- pkg:maven/nl.vpro/prepr@0.10.0
+- pkg:maven/nl.vpro/prepr@0.10.0?classifier=sources
+- pkg:maven/nl.vpro/prepr@0.11.0
+- pkg:maven/nl.vpro/prepr@0.11.0?classifier=sources
+- pkg:maven/nl.vpro/prepr@0.8.0
+- pkg:maven/nl.vpro/prepr@0.8.0?classifier=sources
+- pkg:maven/nl.vpro/prepr@0.9.0
+- pkg:maven/nl.vpro/prepr@0.9.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.wso2.extension.siddhi.store.cassandra/siddhi-store-cassandra@1.0.8?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.store.cassandra/siddhi-store-cassandra@1.1.0
 - pkg:maven/org.wso2.extension.siddhi.store.cassandra/siddhi-store-cassandra@1.1.0?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.store.cassandra/siddhi-store-cassandra@2.0.0
+- pkg:maven/org.wso2.extension.siddhi.store.cassandra/siddhi-store-cassandra@2.0.0?classifier=sources

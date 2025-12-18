@@ -1,0 +1,2 @@
+- pkg:maven/org.tenkiv.kuantify/kuantify-android-local@0.4.30.0?classifier=sources
+- pkg:maven/org.tenkiv.kuantify/kuantify-android-local@0.4.30.0?type=aar

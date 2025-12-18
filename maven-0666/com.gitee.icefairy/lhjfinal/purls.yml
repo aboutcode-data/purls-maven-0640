@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.icefairy/lhjfinal@3.9-release
+- pkg:maven/com.gitee.icefairy/lhjfinal@3.9-release?classifier=sources

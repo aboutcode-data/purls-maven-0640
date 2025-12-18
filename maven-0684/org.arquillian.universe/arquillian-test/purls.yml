@@ -20,3 +20,4 @@
 - pkg:maven/org.arquillian.universe/arquillian-test@1.1.15.2
 - pkg:maven/org.arquillian.universe/arquillian-test@1.2.0.0
 - pkg:maven/org.arquillian.universe/arquillian-test@1.2.0.1
+- pkg:maven/org.arquillian.universe/arquillian-test@1.2.0.2

@@ -1,0 +1,2 @@
+- pkg:maven/com.raven-computing/claymore@2.5.0
+- pkg:maven/com.raven-computing/claymore@2.5.0?classifier=sources

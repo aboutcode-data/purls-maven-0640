@@ -1,0 +1,2 @@
+- pkg:maven/net.kozelka.kapt/kapt-config@0.1.2
+- pkg:maven/net.kozelka.kapt/kapt-config@0.1.2?classifier=sources

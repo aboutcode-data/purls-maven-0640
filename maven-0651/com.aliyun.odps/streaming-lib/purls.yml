@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.odps/streaming-lib@3.3.8-public
+- pkg:maven/com.aliyun.odps/streaming-lib@3.3.8-public?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/react-bootstrap-table-next@1.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/react-bootstrap-table-next@2.0.0
 - pkg:maven/org.webjars.npm/react-bootstrap-table-next@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-bootstrap-table-next@3.1.1
+- pkg:maven/org.webjars.npm/react-bootstrap-table-next@3.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/react-bootstrap-table-next@3.1.2
+- pkg:maven/org.webjars.npm/react-bootstrap-table-next@3.1.2?classifier=sources

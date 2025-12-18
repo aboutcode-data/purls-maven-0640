@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon/config-creator@5.2.0-m3
+- pkg:maven/org.wso2.carbon/config-creator@5.2.0-m3?classifier=sources

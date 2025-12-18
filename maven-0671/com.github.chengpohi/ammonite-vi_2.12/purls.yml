@@ -1,0 +1,2 @@
+- pkg:maven/com.github.chengpohi/ammonite-vi_2.12@1.6.1
+- pkg:maven/com.github.chengpohi/ammonite-vi_2.12@1.6.1?classifier=sources

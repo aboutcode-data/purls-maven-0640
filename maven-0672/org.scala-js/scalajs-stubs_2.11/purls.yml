@@ -47,6 +47,10 @@
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.25?classifier=sources
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.26
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.26?classifier=sources
+- pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.27
+- pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.27?classifier=sources
+- pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.28
+- pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.28?classifier=sources
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.2?classifier=sources
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.3
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.3?classifier=sources
@@ -62,6 +66,7 @@
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.8?classifier=sources
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.9
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@0.6.9?classifier=sources
+- pkg:maven/org.scala-js/scalajs-stubs_2.11@1.0.0
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@1.0.0-M1
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@1.0.0-M1?classifier=sources
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@1.0.0-M2
@@ -74,3 +79,4 @@
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@1.0.0-M5?classifier=sources
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@1.0.0-RC1
 - pkg:maven/org.scala-js/scalajs-stubs_2.11@1.0.0-RC1?classifier=sources
+- pkg:maven/org.scala-js/scalajs-stubs_2.11@1.0.0?classifier=sources

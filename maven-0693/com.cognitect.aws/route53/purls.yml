@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/route53@683.2.375.0?classifier=sources
 - pkg:maven/com.cognitect.aws/route53@697.2.391.0
 - pkg:maven/com.cognitect.aws/route53@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/route53@718.2.442.0
+- pkg:maven/com.cognitect.aws/route53@718.2.442.0?classifier=sources

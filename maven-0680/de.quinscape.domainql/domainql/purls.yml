@@ -1,3 +1,5 @@
+- pkg:maven/de.quinscape.domainql/domainql@0.1.0
+- pkg:maven/de.quinscape.domainql/domainql@0.1.0?classifier=sources
 - pkg:maven/de.quinscape.domainql/domainql@0.10
 - pkg:maven/de.quinscape.domainql/domainql@0.10?classifier=sources
 - pkg:maven/de.quinscape.domainql/domainql@0.12
@@ -16,5 +18,7 @@
 - pkg:maven/de.quinscape.domainql/domainql@0.20?classifier=sources
 - pkg:maven/de.quinscape.domainql/domainql@0.21
 - pkg:maven/de.quinscape.domainql/domainql@0.21?classifier=sources
+- pkg:maven/de.quinscape.domainql/domainql@0.22
+- pkg:maven/de.quinscape.domainql/domainql@0.22?classifier=sources
 - pkg:maven/de.quinscape.domainql/domainql@0.9
 - pkg:maven/de.quinscape.domainql/domainql@0.9?classifier=sources

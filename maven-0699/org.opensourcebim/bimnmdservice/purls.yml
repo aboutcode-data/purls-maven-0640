@@ -1,0 +1,2 @@
+- pkg:maven/org.opensourcebim/bimnmdservice@0.2
+- pkg:maven/org.opensourcebim/bimnmdservice@0.2?classifier=sources

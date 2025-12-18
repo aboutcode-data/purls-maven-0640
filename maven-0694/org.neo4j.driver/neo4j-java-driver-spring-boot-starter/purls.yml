@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-spring-boot-starter@1.0.0-alpha02
+- pkg:maven/org.neo4j.driver/neo4j-java-driver-spring-boot-starter@1.0.0-alpha03

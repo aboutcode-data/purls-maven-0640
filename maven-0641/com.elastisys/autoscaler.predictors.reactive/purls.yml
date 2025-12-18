@@ -1,0 +1,2 @@
+- pkg:maven/com.elastisys/autoscaler.predictors.reactive@5.2.2
+- pkg:maven/com.elastisys/autoscaler.predictors.reactive@5.2.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.triology.versionName/war@1.0.2?classifier=sources
 - pkg:maven/de.triology.versionName/war@1.0.2?type=war
+- pkg:maven/de.triology.versionName/war@1.0.3?classifier=sources
+- pkg:maven/de.triology.versionName/war@1.0.3?type=war

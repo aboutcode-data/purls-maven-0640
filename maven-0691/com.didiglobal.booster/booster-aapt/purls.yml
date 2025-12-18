@@ -1,0 +1,2 @@
+- pkg:maven/com.didiglobal.booster/booster-aapt@0.1.4
+- pkg:maven/com.didiglobal.booster/booster-aapt@0.1.4?classifier=sources

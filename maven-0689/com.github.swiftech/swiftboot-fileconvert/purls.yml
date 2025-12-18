@@ -1,0 +1,2 @@
+- pkg:maven/com.github.swiftech/swiftboot-fileconvert@1.0.13
+- pkg:maven/com.github.swiftech/swiftboot-fileconvert@1.0.13?classifier=sources

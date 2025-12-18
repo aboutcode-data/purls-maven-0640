@@ -2,3 +2,9 @@
 - pkg:maven/ml.milkov/aws4cats-sqs_2.12@0.1.0?classifier=sources
 - pkg:maven/ml.milkov/aws4cats-sqs_2.12@0.2.0
 - pkg:maven/ml.milkov/aws4cats-sqs_2.12@0.2.0?classifier=sources
+- pkg:maven/ml.milkov/aws4cats-sqs_2.12@0.3.0
+- pkg:maven/ml.milkov/aws4cats-sqs_2.12@0.3.0?classifier=sources
+- pkg:maven/ml.milkov/aws4cats-sqs_2.12@0.4.0
+- pkg:maven/ml.milkov/aws4cats-sqs_2.12@0.4.0?classifier=sources
+- pkg:maven/ml.milkov/aws4cats-sqs_2.12@0.4.1
+- pkg:maven/ml.milkov/aws4cats-sqs_2.12@0.4.1?classifier=sources

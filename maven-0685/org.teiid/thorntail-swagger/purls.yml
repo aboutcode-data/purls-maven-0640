@@ -3,3 +3,4 @@
 - pkg:maven/org.teiid/thorntail-swagger@1.0.2
 - pkg:maven/org.teiid/thorntail-swagger@1.0.3
 - pkg:maven/org.teiid/thorntail-swagger@2.0.0
+- pkg:maven/org.teiid/thorntail-swagger@2.1.0

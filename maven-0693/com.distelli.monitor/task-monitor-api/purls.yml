@@ -2,6 +2,12 @@
 - pkg:maven/com.distelli.monitor/task-monitor-api@10.0.0?classifier=sources
 - pkg:maven/com.distelli.monitor/task-monitor-api@10.0.1
 - pkg:maven/com.distelli.monitor/task-monitor-api@10.0.1?classifier=sources
+- pkg:maven/com.distelli.monitor/task-monitor-api@10.0.2
+- pkg:maven/com.distelli.monitor/task-monitor-api@10.0.2?classifier=sources
+- pkg:maven/com.distelli.monitor/task-monitor-api@10.0.3
+- pkg:maven/com.distelli.monitor/task-monitor-api@10.0.3?classifier=sources
+- pkg:maven/com.distelli.monitor/task-monitor-api@10.0.4
+- pkg:maven/com.distelli.monitor/task-monitor-api@10.0.4?classifier=sources
 - pkg:maven/com.distelli.monitor/task-monitor-api@9.1.0
 - pkg:maven/com.distelli.monitor/task-monitor-api@9.1.0?classifier=sources
 - pkg:maven/com.distelli.monitor/task-monitor-api@9.10.0

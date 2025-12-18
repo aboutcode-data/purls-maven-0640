@@ -8,3 +8,11 @@
 - pkg:maven/com.cognitect.aws/dynamodb@695.2.389.0?classifier=sources
 - pkg:maven/com.cognitect.aws/dynamodb@697.2.391.0
 - pkg:maven/com.cognitect.aws/dynamodb@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dynamodb@717.2.443.0
+- pkg:maven/com.cognitect.aws/dynamodb@717.2.443.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dynamodb@718.2.443.0
+- pkg:maven/com.cognitect.aws/dynamodb@718.2.443.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dynamodb@722.2.470.0
+- pkg:maven/com.cognitect.aws/dynamodb@722.2.470.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dynamodb@726.2.484.0
+- pkg:maven/com.cognitect.aws/dynamodb@726.2.484.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/ai.evolv/ascend-android-sdk@0.5.0?classifier=sources
+- pkg:maven/ai.evolv/ascend-android-sdk@0.5.0?type=aar
+- pkg:maven/ai.evolv/ascend-android-sdk@0.6.0?classifier=sources
+- pkg:maven/ai.evolv/ascend-android-sdk@0.6.0?type=aar

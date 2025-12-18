@@ -1,2 +1,4 @@
 - pkg:maven/nl.demon.shadowland.freedumbytes.swingx/demo@2.4.0
 - pkg:maven/nl.demon.shadowland.freedumbytes.swingx/demo@2.4.0?classifier=sources
+- pkg:maven/nl.demon.shadowland.freedumbytes.swingx/demo@2.4.1
+- pkg:maven/nl.demon.shadowland.freedumbytes.swingx/demo@2.4.1?classifier=sources

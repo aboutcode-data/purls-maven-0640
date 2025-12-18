@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.brave.play/play-zipkin-tracing-akka_2.13.0-M5@3.0.0
+- pkg:maven/io.zipkin.brave.play/play-zipkin-tracing-akka_2.13.0-M5@3.0.0?classifier=sources

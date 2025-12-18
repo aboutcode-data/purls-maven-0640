@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rougsig/actions-dispatcher-compiler@2.0.1
+- pkg:maven/com.github.rougsig/actions-dispatcher-compiler@2.0.1?classifier=sources

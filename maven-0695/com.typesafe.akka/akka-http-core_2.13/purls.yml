@@ -1,0 +1,4 @@
+- pkg:maven/com.typesafe.akka/akka-http-core_2.13@10.1.8
+- pkg:maven/com.typesafe.akka/akka-http-core_2.13@10.1.8?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-http-core_2.13@10.1.9
+- pkg:maven/com.typesafe.akka/akka-http-core_2.13@10.1.9?classifier=sources

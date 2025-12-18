@@ -1,0 +1,4 @@
+- pkg:maven/org.scalatestplus/scalatestplus-junit_2.13.0-RC1@1.0.0-SNAP5
+- pkg:maven/org.scalatestplus/scalatestplus-junit_2.13.0-RC1@1.0.0-SNAP5?classifier=sources
+- pkg:maven/org.scalatestplus/scalatestplus-junit_2.13.0-RC1@1.0.0-SNAP6
+- pkg:maven/org.scalatestplus/scalatestplus-junit_2.13.0-RC1@1.0.0-SNAP6?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.discord4j/stores-chronicle@3.0.0.M4?classifier=sources
 - pkg:maven/com.discord4j/stores-chronicle@3.0.0.RC1?classifier=sources
 - pkg:maven/com.discord4j/stores-chronicle@3.0.0?classifier=sources
+- pkg:maven/com.discord4j/stores-chronicle@3.0.1?classifier=sources
+- pkg:maven/com.discord4j/stores-chronicle@3.0.2?classifier=sources

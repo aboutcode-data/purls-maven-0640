@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut/micronaut-views-velocity@1.2.0.RC1
+- pkg:maven/io.micronaut/micronaut-views-velocity@1.2.0.RC1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.thedocs/soyuz-validator@2.03?classifier=sources
 - pkg:maven/io.thedocs/soyuz-validator@3.0.2
 - pkg:maven/io.thedocs/soyuz-validator@3.0.2?classifier=sources
+- pkg:maven/io.thedocs/soyuz-validator@3.0.3
+- pkg:maven/io.thedocs/soyuz-validator@3.0.3?classifier=sources

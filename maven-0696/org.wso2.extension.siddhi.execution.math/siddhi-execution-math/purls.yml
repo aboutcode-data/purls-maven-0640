@@ -1,3 +1,4 @@
+- pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@4.0.0
 - pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@4.0.10
 - pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@4.0.10?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@4.0.11
@@ -36,3 +37,6 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@4.0.9?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@4.1.0
 - pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@4.1.0?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@4.1.2
+- pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@4.1.2?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.math/siddhi-execution-math@5.0.0

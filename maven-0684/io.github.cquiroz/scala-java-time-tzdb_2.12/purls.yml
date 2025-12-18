@@ -2,3 +2,7 @@
 - pkg:maven/io.github.cquiroz/scala-java-time-tzdb_2.12@2.0.0-M13_2018c?classifier=sources
 - pkg:maven/io.github.cquiroz/scala-java-time-tzdb_2.12@2.0.0-RC1_2018f
 - pkg:maven/io.github.cquiroz/scala-java-time-tzdb_2.12@2.0.0-RC1_2018f?classifier=sources
+- pkg:maven/io.github.cquiroz/scala-java-time-tzdb_2.12@2.0.0-RC2_2019a
+- pkg:maven/io.github.cquiroz/scala-java-time-tzdb_2.12@2.0.0-RC2_2019a?classifier=sources
+- pkg:maven/io.github.cquiroz/scala-java-time-tzdb_2.12@2.0.0-RC3_2019a
+- pkg:maven/io.github.cquiroz/scala-java-time-tzdb_2.12@2.0.0-RC3_2019a?classifier=sources

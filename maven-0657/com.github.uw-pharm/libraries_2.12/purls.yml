@@ -1,0 +1,4 @@
+- pkg:maven/com.github.uw-pharm/libraries_2.12@7792dd88
+- pkg:maven/com.github.uw-pharm/libraries_2.12@7792dd88?classifier=sources
+- pkg:maven/com.github.uw-pharm/libraries_2.12@fe8e80d3
+- pkg:maven/com.github.uw-pharm/libraries_2.12@fe8e80d3?classifier=sources

@@ -17,3 +17,8 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.23
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.24
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.25
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.26
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.27
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.28
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.29
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.30

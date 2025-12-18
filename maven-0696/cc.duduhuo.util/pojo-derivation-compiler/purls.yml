@@ -12,3 +12,5 @@
 - pkg:maven/cc.duduhuo.util/pojo-derivation-compiler@1.0.0.beta7
 - pkg:maven/cc.duduhuo.util/pojo-derivation-compiler@1.0.0.beta7?classifier=sources
 - pkg:maven/cc.duduhuo.util/pojo-derivation-compiler@1.0.0?classifier=sources
+- pkg:maven/cc.duduhuo.util/pojo-derivation-compiler@1.0.1
+- pkg:maven/cc.duduhuo.util/pojo-derivation-compiler@1.0.1?classifier=sources

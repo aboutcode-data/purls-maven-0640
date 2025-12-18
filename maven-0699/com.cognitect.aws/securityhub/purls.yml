@@ -2,3 +2,9 @@
 - pkg:maven/com.cognitect.aws/securityhub@673.2.365.0?classifier=sources
 - pkg:maven/com.cognitect.aws/securityhub@697.2.391.0
 - pkg:maven/com.cognitect.aws/securityhub@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/securityhub@715.2.434.0
+- pkg:maven/com.cognitect.aws/securityhub@715.2.434.0?classifier=sources
+- pkg:maven/com.cognitect.aws/securityhub@722.2.465.0
+- pkg:maven/com.cognitect.aws/securityhub@722.2.465.0?classifier=sources
+- pkg:maven/com.cognitect.aws/securityhub@726.2.481.0
+- pkg:maven/com.cognitect.aws/securityhub@726.2.481.0?classifier=sources

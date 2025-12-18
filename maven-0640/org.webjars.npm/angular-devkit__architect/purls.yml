@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/angular-devkit__architect@0.13.8
+- pkg:maven/org.webjars.npm/angular-devkit__architect@0.13.8?classifier=sources
 - pkg:maven/org.webjars.npm/angular-devkit__architect@0.6.8
 - pkg:maven/org.webjars.npm/angular-devkit__architect@0.6.8?classifier=sources
 - pkg:maven/org.webjars.npm/angular-devkit__architect@0.7.1

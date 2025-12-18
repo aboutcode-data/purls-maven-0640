@@ -4,3 +4,7 @@
 - pkg:maven/io.prestosql.tempto/tempto-kafka@1.52?classifier=sources
 - pkg:maven/io.prestosql.tempto/tempto-kafka@163
 - pkg:maven/io.prestosql.tempto/tempto-kafka@163?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-kafka@164
+- pkg:maven/io.prestosql.tempto/tempto-kafka@164?classifier=sources
+- pkg:maven/io.prestosql.tempto/tempto-kafka@165
+- pkg:maven/io.prestosql.tempto/tempto-kafka@165?classifier=sources

@@ -31,3 +31,5 @@
 - pkg:maven/org.glassfish.gmbal/gmbal@4.0.0-b002
 - pkg:maven/org.glassfish.gmbal/gmbal@4.0.0-b002?classifier=sources
 - pkg:maven/org.glassfish.gmbal/gmbal@4.0.0?classifier=sources
+- pkg:maven/org.glassfish.gmbal/gmbal@4.0.1
+- pkg:maven/org.glassfish.gmbal/gmbal@4.0.1?classifier=sources

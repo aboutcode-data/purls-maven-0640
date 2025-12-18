@@ -8,3 +8,4 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.tensorflow/siddhi-execution-tensorflow@1.0.7
 - pkg:maven/org.wso2.extension.siddhi.execution.tensorflow/siddhi-execution-tensorflow@1.0.8
 - pkg:maven/org.wso2.extension.siddhi.execution.tensorflow/siddhi-execution-tensorflow@1.1.0
+- pkg:maven/org.wso2.extension.siddhi.execution.tensorflow/siddhi-execution-tensorflow@2.0.0

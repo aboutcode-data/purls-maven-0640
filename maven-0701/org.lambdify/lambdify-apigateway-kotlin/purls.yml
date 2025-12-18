@@ -16,3 +16,7 @@
 - pkg:maven/org.lambdify/lambdify-apigateway-kotlin@0.7.2.Final?classifier=sources
 - pkg:maven/org.lambdify/lambdify-apigateway-kotlin@0.7.3.Final
 - pkg:maven/org.lambdify/lambdify-apigateway-kotlin@0.7.3.Final?classifier=sources
+- pkg:maven/org.lambdify/lambdify-apigateway-kotlin@0.8.0.Final
+- pkg:maven/org.lambdify/lambdify-apigateway-kotlin@0.8.0.Final?classifier=sources
+- pkg:maven/org.lambdify/lambdify-apigateway-kotlin@0.9.0.Final
+- pkg:maven/org.lambdify/lambdify-apigateway-kotlin@0.9.0.Final?classifier=sources

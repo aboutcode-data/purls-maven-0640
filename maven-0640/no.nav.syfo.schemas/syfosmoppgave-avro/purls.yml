@@ -1,0 +1,4 @@
+- pkg:maven/no.nav.syfo.schemas/syfosmoppgave-avro@785e8a93a3b881e89862035abe539c795c1222dd
+- pkg:maven/no.nav.syfo.schemas/syfosmoppgave-avro@785e8a93a3b881e89862035abe539c795c1222dd?classifier=sources
+- pkg:maven/no.nav.syfo.schemas/syfosmoppgave-avro@c8be932543e7356a34690ce7979d494c5d8516d8
+- pkg:maven/no.nav.syfo.schemas/syfosmoppgave-avro@c8be932543e7356a34690ce7979d494c5d8516d8?classifier=sources

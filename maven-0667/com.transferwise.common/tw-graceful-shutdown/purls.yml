@@ -1,0 +1,2 @@
+- pkg:maven/com.transferwise.common/tw-graceful-shutdown@1.2.2
+- pkg:maven/com.transferwise.common/tw-graceful-shutdown@1.2.2?classifier=sources

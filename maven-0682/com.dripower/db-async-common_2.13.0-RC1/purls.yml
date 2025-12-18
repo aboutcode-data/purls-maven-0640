@@ -1,0 +1,4 @@
+- pkg:maven/com.dripower/db-async-common_2.13.0-RC1@0.3.107
+- pkg:maven/com.dripower/db-async-common_2.13.0-RC1@0.3.107?classifier=sources
+- pkg:maven/com.dripower/db-async-common_2.13.0-RC1@0.3.108
+- pkg:maven/com.dripower/db-async-common_2.13.0-RC1@0.3.108?classifier=sources

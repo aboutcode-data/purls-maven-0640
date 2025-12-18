@@ -1,0 +1,2 @@
+- pkg:maven/edu.utah.bmi.nlp/easycie-gui@3.0.1
+- pkg:maven/edu.utah.bmi.nlp/easycie-gui@3.0.1?classifier=sources

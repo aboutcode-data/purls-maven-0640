@@ -1,2 +1,6 @@
 - pkg:maven/com.goldmansachs.jrpip/jrpip@4.0.0
 - pkg:maven/com.goldmansachs.jrpip/jrpip@4.0.0?classifier=sources
+- pkg:maven/com.goldmansachs.jrpip/jrpip@5.0.0
+- pkg:maven/com.goldmansachs.jrpip/jrpip@5.0.0?classifier=sources
+- pkg:maven/com.goldmansachs.jrpip/jrpip@5.1.0
+- pkg:maven/com.goldmansachs.jrpip/jrpip@5.1.0?classifier=sources

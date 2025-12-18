@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/babel__preset-env@7.3.4
 - pkg:maven/org.webjars.npm/babel__preset-env@7.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel__preset-env@7.4.5
+- pkg:maven/org.webjars.npm/babel__preset-env@7.4.5?classifier=sources

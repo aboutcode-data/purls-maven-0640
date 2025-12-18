@@ -1,0 +1,2 @@
+- pkg:maven/org.openpreservation.jhove.modules/tiff-hul@1.9.1
+- pkg:maven/org.openpreservation.jhove.modules/tiff-hul@1.9.1?classifier=sources

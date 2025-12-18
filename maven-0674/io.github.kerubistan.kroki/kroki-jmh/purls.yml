@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kerubistan.kroki/kroki-jmh@1.1
+- pkg:maven/io.github.kerubistan.kroki/kroki-jmh@1.1?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/jp.co.nohana/Laevatein@2.4.1?type=aar
 - pkg:maven/jp.co.nohana/Laevatein@2.5.0?classifier=sources
 - pkg:maven/jp.co.nohana/Laevatein@2.5.0?type=aar
+- pkg:maven/jp.co.nohana/Laevatein@3.0.0?classifier=sources
+- pkg:maven/jp.co.nohana/Laevatein@3.0.0?type=aar

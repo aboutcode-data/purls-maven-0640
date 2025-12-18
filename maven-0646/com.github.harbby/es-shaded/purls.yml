@@ -1,0 +1,4 @@
+- pkg:maven/com.github.harbby/es-shaded@5.6.0-1
+- pkg:maven/com.github.harbby/es-shaded@5.6.0-1?classifier=sources
+- pkg:maven/com.github.harbby/es-shaded@6.4.0-1
+- pkg:maven/com.github.harbby/es-shaded@6.4.0-1?classifier=sources

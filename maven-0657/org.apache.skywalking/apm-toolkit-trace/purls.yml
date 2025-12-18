@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-trace@6.0.0-GA
 - pkg:maven/org.apache.skywalking/apm-toolkit-trace@6.0.0-alpha
 - pkg:maven/org.apache.skywalking/apm-toolkit-trace@6.0.0-beta
+- pkg:maven/org.apache.skywalking/apm-toolkit-trace@6.1.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-trace@6.2.0
