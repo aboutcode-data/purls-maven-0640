@@ -6,3 +6,5 @@
 - pkg:maven/eu.hoefel/units@1.0.2?classifier=sources
 - pkg:maven/eu.hoefel/units@2.0.0
 - pkg:maven/eu.hoefel/units@2.0.0?classifier=sources
+- pkg:maven/eu.hoefel/units@2.1.0
+- pkg:maven/eu.hoefel/units@2.1.0?classifier=sources

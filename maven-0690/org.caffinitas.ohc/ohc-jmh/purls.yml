@@ -38,3 +38,5 @@
 - pkg:maven/org.caffinitas.ohc/ohc-jmh@0.6.1?classifier=sources
 - pkg:maven/org.caffinitas.ohc/ohc-jmh@0.7.0
 - pkg:maven/org.caffinitas.ohc/ohc-jmh@0.7.0?classifier=sources
+- pkg:maven/org.caffinitas.ohc/ohc-jmh@0.7.1
+- pkg:maven/org.caffinitas.ohc/ohc-jmh@0.7.1?classifier=sources

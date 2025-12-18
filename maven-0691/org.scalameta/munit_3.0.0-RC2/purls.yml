@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/munit_3.0.0-RC2@0.7.23
+- pkg:maven/org.scalameta/munit_3.0.0-RC2@0.7.23?classifier=sources

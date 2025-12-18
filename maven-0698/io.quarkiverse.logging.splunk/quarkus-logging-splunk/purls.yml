@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk@1.0.0
+- pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk@1.0.0?classifier=sources

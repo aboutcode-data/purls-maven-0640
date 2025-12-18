@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tzebrowski/obd-metrics@1.0.0
+- pkg:maven/io.github.tzebrowski/obd-metrics@1.0.0?classifier=sources

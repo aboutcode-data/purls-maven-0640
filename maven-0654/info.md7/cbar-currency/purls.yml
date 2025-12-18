@@ -1,2 +1,4 @@
 - pkg:maven/info.md7/cbar-currency@1.0
 - pkg:maven/info.md7/cbar-currency@1.0?classifier=sources
+- pkg:maven/info.md7/cbar-currency@1.1
+- pkg:maven/info.md7/cbar-currency@1.1?classifier=sources

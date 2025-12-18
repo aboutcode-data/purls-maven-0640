@@ -42,3 +42,5 @@
 - pkg:maven/com.hierynomus/sshj@0.29.0?classifier=sources
 - pkg:maven/com.hierynomus/sshj@0.30.0
 - pkg:maven/com.hierynomus/sshj@0.30.0?classifier=sources
+- pkg:maven/com.hierynomus/sshj@0.31.0
+- pkg:maven/com.hierynomus/sshj@0.31.0?classifier=sources

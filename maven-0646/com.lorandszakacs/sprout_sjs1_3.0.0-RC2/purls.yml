@@ -1,0 +1,2 @@
+- pkg:maven/com.lorandszakacs/sprout_sjs1_3.0.0-RC2@0.0.2
+- pkg:maven/com.lorandszakacs/sprout_sjs1_3.0.0-RC2@0.0.2?classifier=sources

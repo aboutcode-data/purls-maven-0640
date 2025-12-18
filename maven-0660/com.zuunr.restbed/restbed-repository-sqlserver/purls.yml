@@ -10,3 +10,5 @@
 - pkg:maven/com.zuunr.restbed/restbed-repository-sqlserver@1.0.0.M5-17d4831?classifier=sources
 - pkg:maven/com.zuunr.restbed/restbed-repository-sqlserver@1.0.0.M6-aa9fd2d
 - pkg:maven/com.zuunr.restbed/restbed-repository-sqlserver@1.0.0.M6-aa9fd2d?classifier=sources
+- pkg:maven/com.zuunr.restbed/restbed-repository-sqlserver@1.0.0.M7-59f711a
+- pkg:maven/com.zuunr.restbed/restbed-repository-sqlserver@1.0.0.M7-59f711a?classifier=sources

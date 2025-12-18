@@ -8,6 +8,14 @@
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha13?type=war
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha14?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha14?type=war
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha16?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha16?type=war
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha17?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha17?type=war
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha18?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha18?type=war
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha19?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha19?type=war
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha8?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha8?type=war
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha9?classifier=sources

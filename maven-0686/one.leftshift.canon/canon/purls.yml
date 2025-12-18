@@ -1,0 +1,2 @@
+- pkg:maven/one.leftshift.canon/canon@2.8.0
+- pkg:maven/one.leftshift.canon/canon@2.8.0?classifier=sources

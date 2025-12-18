@@ -2,3 +2,5 @@
 - pkg:maven/com.airlenet.netconf/yang-model@1.0.0?classifier=sources
 - pkg:maven/com.airlenet.netconf/yang-model@1.1.0
 - pkg:maven/com.airlenet.netconf/yang-model@1.1.0?classifier=sources
+- pkg:maven/com.airlenet.netconf/yang-model@2.0.0
+- pkg:maven/com.airlenet.netconf/yang-model@2.0.0?classifier=sources

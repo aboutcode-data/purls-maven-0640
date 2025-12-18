@@ -1,0 +1,2 @@
+- pkg:maven/org.ogc-schemas/iso19139-v_20060504@3.0.0
+- pkg:maven/org.ogc-schemas/iso19139-v_20060504@3.0.0?classifier=sources

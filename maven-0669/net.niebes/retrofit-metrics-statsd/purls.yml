@@ -1,3 +1,5 @@
+- pkg:maven/net.niebes/retrofit-metrics-statsd@1.10.0
+- pkg:maven/net.niebes/retrofit-metrics-statsd@1.10.0?classifier=sources
 - pkg:maven/net.niebes/retrofit-metrics-statsd@1.7.0
 - pkg:maven/net.niebes/retrofit-metrics-statsd@1.7.0?classifier=sources
 - pkg:maven/net.niebes/retrofit-metrics-statsd@1.7.1

@@ -41,3 +41,6 @@
 - pkg:maven/eu.binjr/binjr-adapter-csv@3.0.0-b02?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-csv@3.0.0-b04?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-csv@3.0.0-b06?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-csv@3.0.0-b07?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-csv@3.0.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-csv@3.0.1?classifier=sources

@@ -77,3 +77,10 @@
 - pkg:maven/com.bugsnag/bugsnag-android-ndk@5.5.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-ndk@5.5.1?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-ndk@5.5.2?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@5.6.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@5.6.1?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@5.6.2?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@5.7.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@5.7.1?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@5.8.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@5.9.0?classifier=sources

@@ -41,8 +41,12 @@
 - pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.27?classifier=sources
 - pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.28
 - pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.28?classifier=sources
+- pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.29
+- pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.29?classifier=sources
 - pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.2?classifier=sources
 - pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.3
+- pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.30
+- pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.30?classifier=sources
 - pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.3?classifier=sources
 - pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.4
 - pkg:maven/io.ultreia.java4all.http/http-maven-plugin@1.0.4?classifier=sources

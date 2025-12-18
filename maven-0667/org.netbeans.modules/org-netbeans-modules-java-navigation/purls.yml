@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-navigation@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-navigation@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-navigation@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-navigation@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-navigation@RELEASE90?classifier=sources

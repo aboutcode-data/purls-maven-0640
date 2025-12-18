@@ -75,6 +75,7 @@
 - pkg:maven/pl.droidsonroids.gif/android-gif-drawable@1.2.20?type=aar
 - pkg:maven/pl.droidsonroids.gif/android-gif-drawable@1.2.21?type=aar
 - pkg:maven/pl.droidsonroids.gif/android-gif-drawable@1.2.22?type=aar
+- pkg:maven/pl.droidsonroids.gif/android-gif-drawable@1.2.23?type=aar
 - pkg:maven/pl.droidsonroids.gif/android-gif-drawable@1.2.2?classifier=sources
 - pkg:maven/pl.droidsonroids.gif/android-gif-drawable@1.2.2?type=aar
 - pkg:maven/pl.droidsonroids.gif/android-gif-drawable@1.2.3?classifier=sources

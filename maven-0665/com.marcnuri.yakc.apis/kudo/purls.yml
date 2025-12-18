@@ -1,0 +1,2 @@
+- pkg:maven/com.marcnuri.yakc.apis/kudo@0.0.21
+- pkg:maven/com.marcnuri.yakc.apis/kudo@0.0.21?classifier=sources

@@ -19,6 +19,8 @@
 - pkg:maven/org.opencypher/expressions-9.0@9.0.20181129?classifier=sources
 - pkg:maven/org.opencypher/expressions-9.0@9.0.20190305
 - pkg:maven/org.opencypher/expressions-9.0@9.0.20190305?classifier=sources
+- pkg:maven/org.opencypher/expressions-9.0@9.0.20210312
+- pkg:maven/org.opencypher/expressions-9.0@9.0.20210312?classifier=sources
 - pkg:maven/org.opencypher/expressions-9.0@9.0.2?classifier=sources
 - pkg:maven/org.opencypher/expressions-9.0@9.0.3
 - pkg:maven/org.opencypher/expressions-9.0@9.0.3?classifier=sources

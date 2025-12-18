@@ -1,0 +1,2 @@
+- pkg:maven/com.optimizely.ab/android-sdk-event-handler@3.10.1?classifier=sources
+- pkg:maven/com.optimizely.ab/android-sdk-event-handler@MC-TEST-1?classifier=sources

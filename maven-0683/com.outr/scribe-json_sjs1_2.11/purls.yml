@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/scribe-json_sjs1_2.11@3.5.1
+- pkg:maven/com.outr/scribe-json_sjs1_2.11@3.5.1?classifier=sources

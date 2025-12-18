@@ -1,2 +1,4 @@
 - pkg:maven/com.refinitiv.ema/ema@3.6.0.0
 - pkg:maven/com.refinitiv.ema/ema@3.6.0.0?classifier=sources
+- pkg:maven/com.refinitiv.ema/ema@3.6.1.0
+- pkg:maven/com.refinitiv.ema/ema@3.6.1.0?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/com.aoindustries/aoserv-backup-book@1.84.12
 - pkg:maven/com.aoindustries/aoserv-backup-book@1.84.12?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-backup-book@1.84.17
+- pkg:maven/com.aoindustries/aoserv-backup-book@1.84.17?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-backup-book@1.84.2
 - pkg:maven/com.aoindustries/aoserv-backup-book@1.84.2?classifier=sources

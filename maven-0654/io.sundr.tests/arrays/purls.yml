@@ -12,3 +12,11 @@
 - pkg:maven/io.sundr.tests/arrays@0.24.1?classifier=sources
 - pkg:maven/io.sundr.tests/arrays@0.24.2
 - pkg:maven/io.sundr.tests/arrays@0.24.2?classifier=sources
+- pkg:maven/io.sundr.tests/arrays@0.24.3
+- pkg:maven/io.sundr.tests/arrays@0.24.3?classifier=sources
+- pkg:maven/io.sundr.tests/arrays@0.25.0
+- pkg:maven/io.sundr.tests/arrays@0.25.0?classifier=sources
+- pkg:maven/io.sundr.tests/arrays@0.25.1
+- pkg:maven/io.sundr.tests/arrays@0.25.1?classifier=sources
+- pkg:maven/io.sundr.tests/arrays@0.30.0
+- pkg:maven/io.sundr.tests/arrays@0.30.0?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@13.1.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@13.10.0
 - pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@13.10.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@13.11.0
+- pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@13.11.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@13.2.0
 - pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@13.2.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@13.3.0

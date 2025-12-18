@@ -1,0 +1,2 @@
+- pkg:maven/com.exasol/virtual-schema-shared-integration-tests@1.0.0
+- pkg:maven/com.exasol/virtual-schema-shared-integration-tests@1.0.0?classifier=sources

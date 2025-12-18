@@ -28,3 +28,5 @@
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-annotation-processor-java@0.27?classifier=sources
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-annotation-processor-java@0.28
 - pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-annotation-processor-java@0.28?classifier=sources
+- pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-annotation-processor-java@0.30
+- pkg:maven/com.github.manosbatsis.scrudbeans/scrudbeans-annotation-processor-java@0.30?classifier=sources

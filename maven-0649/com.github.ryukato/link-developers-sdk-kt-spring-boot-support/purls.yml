@@ -1,1 +1,2 @@
 - pkg:maven/com.github.ryukato/link-developers-sdk-kt-spring-boot-support@0.0.1?classifier=sources
+- pkg:maven/com.github.ryukato/link-developers-sdk-kt-spring-boot-support@0.0.2?classifier=sources

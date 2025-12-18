@@ -1,1 +1,2 @@
 - pkg:maven/org.jodd/jodd-util@6.0.0?classifier=sources
+- pkg:maven/org.jodd/jodd-util@6.0.1?classifier=sources

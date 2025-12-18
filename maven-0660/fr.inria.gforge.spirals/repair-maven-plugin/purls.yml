@@ -1,3 +1,5 @@
+- pkg:maven/fr.inria.gforge.spirals/repair-maven-plugin@0bf3bd6ffadf3638ee604b83053426c739aff1f7
+- pkg:maven/fr.inria.gforge.spirals/repair-maven-plugin@0bf3bd6ffadf3638ee604b83053426c739aff1f7?classifier=sources
 - pkg:maven/fr.inria.gforge.spirals/repair-maven-plugin@1.4
 - pkg:maven/fr.inria.gforge.spirals/repair-maven-plugin@1.5
 - pkg:maven/fr.inria.gforge.spirals/repair-maven-plugin@1.5.1

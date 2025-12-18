@@ -1,0 +1,2 @@
+- pkg:maven/com.loftechs.sdk/im@5.0.19?classifier=sources
+- pkg:maven/com.loftechs.sdk/im@5.0.20?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/com.github.lamba92/kotlingram-core-mingwx64@1.2.0?classifier=sources
+- pkg:maven/com.github.lamba92/kotlingram-core-mingwx64@1.2.2?classifier=sources
+- pkg:maven/com.github.lamba92/kotlingram-core-mingwx64@1.2.3?classifier=sources
+- pkg:maven/com.github.lamba92/kotlingram-core-mingwx64@1.2.5?classifier=sources
+- pkg:maven/com.github.lamba92/kotlingram-core-mingwx64@1.2.7?classifier=sources

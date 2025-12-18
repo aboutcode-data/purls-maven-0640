@@ -6,3 +6,5 @@
 - pkg:maven/net.sf.xmlform/xmlform-spring@1.2.2?classifier=sources
 - pkg:maven/net.sf.xmlform/xmlform-spring@2.0.0
 - pkg:maven/net.sf.xmlform/xmlform-spring@2.0.0?classifier=sources
+- pkg:maven/net.sf.xmlform/xmlform-spring@2.1.0
+- pkg:maven/net.sf.xmlform/xmlform-spring@2.1.0?classifier=sources

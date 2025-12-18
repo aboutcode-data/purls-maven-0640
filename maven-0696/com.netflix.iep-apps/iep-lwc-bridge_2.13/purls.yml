@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.iep-apps/iep-lwc-bridge_2.13@0.2.2
+- pkg:maven/com.netflix.iep-apps/iep-lwc-bridge_2.13@0.2.2?classifier=sources

@@ -27,3 +27,5 @@
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@3.6.0-02?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@3.6.0-03
 - pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@3.6.0-03?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@3.7.0
+- pkg:maven/org.codehaus.groovy/groovy-eclipse-compiler@3.7.0?classifier=sources

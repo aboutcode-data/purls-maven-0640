@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.d3/d3-color@1.2.0
 - pkg:maven/org.webjars.bowergithub.d3/d3-color@1.2.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.d3/d3-color@2.0.0
+- pkg:maven/org.webjars.bowergithub.d3/d3-color@2.0.0?classifier=sources

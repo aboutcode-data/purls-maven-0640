@@ -78,3 +78,5 @@
 - pkg:maven/net.lingala.zip4j/zip4j@2.6.3?classifier=sources
 - pkg:maven/net.lingala.zip4j/zip4j@2.6.4
 - pkg:maven/net.lingala.zip4j/zip4j@2.6.4?classifier=sources
+- pkg:maven/net.lingala.zip4j/zip4j@2.7.0
+- pkg:maven/net.lingala.zip4j/zip4j@2.7.0?classifier=sources

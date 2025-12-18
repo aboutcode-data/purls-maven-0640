@@ -126,6 +126,12 @@
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.49.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.5.0.Final
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.50.0.Final
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.50.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.51.0.Final
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.51.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.52.0.Final
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.52.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.6.0.Final
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-datasource-mgmt-wildfly@7.7.0.Final

@@ -4,3 +4,8 @@
 - pkg:maven/com.cloudinary/kotlin-url-gen@0.0.1-beta.1?classifier=sources
 - pkg:maven/com.cloudinary/kotlin-url-gen@0.0.1-beta.3
 - pkg:maven/com.cloudinary/kotlin-url-gen@0.0.1-beta.3?classifier=sources
+- pkg:maven/com.cloudinary/kotlin-url-gen@0.0.1-beta.4
+- pkg:maven/com.cloudinary/kotlin-url-gen@0.0.1-beta.4?classifier=sources
+- pkg:maven/com.cloudinary/kotlin-url-gen@0.0.1-beta.5?classifier=sources
+- pkg:maven/com.cloudinary/kotlin-url-gen@0.0.1-beta.6?classifier=sources
+- pkg:maven/com.cloudinary/kotlin-url-gen@1.0.0?classifier=sources

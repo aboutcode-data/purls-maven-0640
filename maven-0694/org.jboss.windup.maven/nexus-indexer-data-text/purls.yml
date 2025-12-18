@@ -7,4 +7,7 @@
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@20.11.05.Final?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@20.12.17.Final?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@21.01.14.Final?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@21.02.07.Final?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@21.03.07.Final?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@21.03.29.Final?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@7.0?type=zip

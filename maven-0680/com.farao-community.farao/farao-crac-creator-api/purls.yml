@@ -1,0 +1,2 @@
+- pkg:maven/com.farao-community.farao/farao-crac-creator-api@2.4.1
+- pkg:maven/com.farao-community.farao/farao-crac-creator-api@2.4.1?classifier=sources

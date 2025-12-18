@@ -40,3 +40,5 @@
 - pkg:maven/com.helger/ph-poi@5.0.7?classifier=sources
 - pkg:maven/com.helger/ph-poi@5.1.0
 - pkg:maven/com.helger/ph-poi@5.1.0?classifier=sources
+- pkg:maven/com.helger/ph-poi@5.2.0
+- pkg:maven/com.helger/ph-poi@5.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@10.0.0
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@10.0.0-RC2
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@10.0.0-RC2?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@10.0.0?classifier=sources

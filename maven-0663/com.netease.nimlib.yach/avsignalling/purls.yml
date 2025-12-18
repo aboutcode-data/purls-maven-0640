@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nimlib.yach/avsignalling@8.3.0?classifier=sources
+- pkg:maven/com.netease.nimlib.yach/avsignalling@8.3.0?type=aar

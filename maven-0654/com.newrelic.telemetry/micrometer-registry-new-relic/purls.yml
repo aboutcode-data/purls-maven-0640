@@ -15,3 +15,4 @@
 - pkg:maven/com.newrelic.telemetry/micrometer-registry-new-relic@0.5.0
 - pkg:maven/com.newrelic.telemetry/micrometer-registry-new-relic@0.5.0?classifier=sources
 - pkg:maven/com.newrelic.telemetry/micrometer-registry-new-relic@0.6.0?classifier=sources
+- pkg:maven/com.newrelic.telemetry/micrometer-registry-new-relic@0.7.0?classifier=sources

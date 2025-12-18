@@ -14,3 +14,5 @@
 - pkg:maven/net.oneandone.neberus/neberus-spring-webmvc@1.4.0?classifier=sources
 - pkg:maven/net.oneandone.neberus/neberus-spring-webmvc@2.0.0
 - pkg:maven/net.oneandone.neberus/neberus-spring-webmvc@2.0.0?classifier=sources
+- pkg:maven/net.oneandone.neberus/neberus-spring-webmvc@3.0.0-RC1
+- pkg:maven/net.oneandone.neberus/neberus-spring-webmvc@3.0.0-RC1?classifier=sources

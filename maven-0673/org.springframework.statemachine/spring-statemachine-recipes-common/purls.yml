@@ -68,3 +68,5 @@
 - pkg:maven/org.springframework.statemachine/spring-statemachine-recipes-common@2.3.0?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-recipes-common@2.4.0
 - pkg:maven/org.springframework.statemachine/spring-statemachine-recipes-common@2.4.0?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-recipes-common@3.0.0
+- pkg:maven/org.springframework.statemachine/spring-statemachine-recipes-common@3.0.0?classifier=sources

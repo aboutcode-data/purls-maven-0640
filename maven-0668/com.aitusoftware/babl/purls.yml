@@ -1,5 +1,6 @@
 - pkg:maven/com.aitusoftware/babl@0.1.0?classifier=sources
 - pkg:maven/com.aitusoftware/babl@0.10.0?classifier=sources
+- pkg:maven/com.aitusoftware/babl@0.11.0?classifier=sources
 - pkg:maven/com.aitusoftware/babl@0.2.0?classifier=sources
 - pkg:maven/com.aitusoftware/babl@0.3.0?classifier=sources
 - pkg:maven/com.aitusoftware/babl@0.4.0?classifier=sources

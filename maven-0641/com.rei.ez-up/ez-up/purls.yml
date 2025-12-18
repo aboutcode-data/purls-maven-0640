@@ -2,3 +2,4 @@
 - pkg:maven/com.rei.ez-up/ez-up@0.7.0?classifier=sources
 - pkg:maven/com.rei.ez-up/ez-up@1.0
 - pkg:maven/com.rei.ez-up/ez-up@1.0?classifier=sources
+- pkg:maven/com.rei.ez-up/ez-up@1.1?classifier=sources

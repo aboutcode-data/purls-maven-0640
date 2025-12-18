@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/conventional-changelog-preset-loader@2.3.4
+- pkg:maven/org.webjars.npm/conventional-changelog-preset-loader@2.3.4?classifier=sources

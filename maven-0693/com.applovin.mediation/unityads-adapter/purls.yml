@@ -1,0 +1,2 @@
+- pkg:maven/com.applovin.mediation/unityads-adapter@3.6.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/unityads-adapter@3.6.0.0?type=aar

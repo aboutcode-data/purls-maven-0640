@@ -26,3 +26,7 @@
 - pkg:maven/com.github.francis-pang/expense-tally-cli@69?classifier=sources
 - pkg:maven/com.github.francis-pang/expense-tally-cli@70
 - pkg:maven/com.github.francis-pang/expense-tally-cli@70?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-cli@71
+- pkg:maven/com.github.francis-pang/expense-tally-cli@71?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-cli@72
+- pkg:maven/com.github.francis-pang/expense-tally-cli@72?classifier=sources

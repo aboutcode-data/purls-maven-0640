@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hawkbit/hawkbit-update-server-azure@0.3.0M7
+- pkg:maven/org.eclipse.hawkbit/hawkbit-update-server-azure@0.3.0M7?classifier=sources

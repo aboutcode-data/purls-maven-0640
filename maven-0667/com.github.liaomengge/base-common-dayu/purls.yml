@@ -2,3 +2,5 @@
 - pkg:maven/com.github.liaomengge/base-common-dayu@1.1.5-RELEASE?classifier=sources
 - pkg:maven/com.github.liaomengge/base-common-dayu@1.1.8-RELEASE
 - pkg:maven/com.github.liaomengge/base-common-dayu@1.1.8-RELEASE?classifier=sources
+- pkg:maven/com.github.liaomengge/base-common-dayu@3.0.0.RELEASE
+- pkg:maven/com.github.liaomengge/base-common-dayu@3.0.0.RELEASE?classifier=sources

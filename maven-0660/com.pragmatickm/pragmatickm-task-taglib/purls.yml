@@ -10,3 +10,5 @@
 - pkg:maven/com.pragmatickm/pragmatickm-task-taglib@1.6.0?classifier=sources
 - pkg:maven/com.pragmatickm/pragmatickm-task-taglib@1.7.0
 - pkg:maven/com.pragmatickm/pragmatickm-task-taglib@1.7.0?classifier=sources
+- pkg:maven/com.pragmatickm/pragmatickm-task-taglib@1.7.1
+- pkg:maven/com.pragmatickm/pragmatickm-task-taglib@1.7.1?classifier=sources

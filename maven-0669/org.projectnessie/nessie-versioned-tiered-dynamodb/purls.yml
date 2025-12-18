@@ -1,0 +1,2 @@
+- pkg:maven/org.projectnessie/nessie-versioned-tiered-dynamodb@0.4.0
+- pkg:maven/org.projectnessie/nessie-versioned-tiered-dynamodb@0.4.0?classifier=sources

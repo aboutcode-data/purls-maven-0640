@@ -1,0 +1,16 @@
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.27
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.27?classifier=sources
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.28
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.28?classifier=sources
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.29
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.29?classifier=sources
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.30
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.30?classifier=sources
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.31
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.31?classifier=sources
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.32
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.32?classifier=sources
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.33
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.33?classifier=sources
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.34
+- pkg:maven/software.amazon.awssdk/lookoutmetrics@2.16.34?classifier=sources

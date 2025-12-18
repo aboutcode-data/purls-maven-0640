@@ -60,3 +60,5 @@
 - pkg:maven/com.spotify/folsom@1.7.3?classifier=sources
 - pkg:maven/com.spotify/folsom@1.7.4
 - pkg:maven/com.spotify/folsom@1.7.4?classifier=sources
+- pkg:maven/com.spotify/folsom@1.8.0
+- pkg:maven/com.spotify/folsom@1.8.0?classifier=sources

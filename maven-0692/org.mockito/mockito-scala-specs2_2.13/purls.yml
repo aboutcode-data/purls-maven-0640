@@ -85,8 +85,16 @@
 - pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.21?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.23
 - pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.23?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.25
+- pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.25?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.29
+- pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.29?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.2?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.3
+- pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.32
+- pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.32?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.33
+- pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.33?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.16.3?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.5.10
 - pkg:maven/org.mockito/mockito-scala-specs2_2.13@1.5.10?classifier=sources

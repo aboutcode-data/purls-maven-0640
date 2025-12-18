@@ -118,3 +118,5 @@
 - pkg:maven/info.archinnov/achilles-junit@6.0.3?classifier=sources
 - pkg:maven/info.archinnov/achilles-junit@6.0.4
 - pkg:maven/info.archinnov/achilles-junit@6.0.4?classifier=sources
+- pkg:maven/info.archinnov/achilles-junit@6.1.0
+- pkg:maven/info.archinnov/achilles-junit@6.1.0?classifier=sources

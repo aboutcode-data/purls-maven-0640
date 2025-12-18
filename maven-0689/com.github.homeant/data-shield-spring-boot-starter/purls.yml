@@ -1,2 +1,4 @@
 - pkg:maven/com.github.homeant/data-shield-spring-boot-starter@1.0-BATE
 - pkg:maven/com.github.homeant/data-shield-spring-boot-starter@1.0-BATE?classifier=sources
+- pkg:maven/com.github.homeant/data-shield-spring-boot-starter@1.0-RELEASE
+- pkg:maven/com.github.homeant/data-shield-spring-boot-starter@1.0-RELEASE?classifier=sources

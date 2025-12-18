@@ -110,6 +110,12 @@
 - pkg:maven/org.drools.testcoverage/kie-spring-test@7.49.0.Final?classifier=sources
 - pkg:maven/org.drools.testcoverage/kie-spring-test@7.5.0.Final
 - pkg:maven/org.drools.testcoverage/kie-spring-test@7.5.0.Final?classifier=sources
+- pkg:maven/org.drools.testcoverage/kie-spring-test@7.50.0.Final
+- pkg:maven/org.drools.testcoverage/kie-spring-test@7.50.0.Final?classifier=sources
+- pkg:maven/org.drools.testcoverage/kie-spring-test@7.51.0.Final
+- pkg:maven/org.drools.testcoverage/kie-spring-test@7.51.0.Final?classifier=sources
+- pkg:maven/org.drools.testcoverage/kie-spring-test@7.52.0.Final
+- pkg:maven/org.drools.testcoverage/kie-spring-test@7.52.0.Final?classifier=sources
 - pkg:maven/org.drools.testcoverage/kie-spring-test@7.6.0.Final
 - pkg:maven/org.drools.testcoverage/kie-spring-test@7.6.0.Final?classifier=sources
 - pkg:maven/org.drools.testcoverage/kie-spring-test@7.6.0.t022

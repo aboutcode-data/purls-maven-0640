@@ -1,1 +1,3 @@
 - pkg:maven/io.quee.mvp/quee-mvp@v1.0.0?type=aar
+- pkg:maven/io.quee.mvp/quee-mvp@v1.1.0?type=aar
+- pkg:maven/io.quee.mvp/quee-mvp@v1.1.1?type=aar

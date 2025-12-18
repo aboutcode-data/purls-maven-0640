@@ -22,3 +22,5 @@
 - pkg:maven/co.windly/limbo-recyclerview@3.0.8?type=aar
 - pkg:maven/co.windly/limbo-recyclerview@3.1.0?classifier=sources
 - pkg:maven/co.windly/limbo-recyclerview@3.1.0?type=aar
+- pkg:maven/co.windly/limbo-recyclerview@3.2.0?classifier=sources
+- pkg:maven/co.windly/limbo-recyclerview@3.2.0?type=aar

@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/domhandler@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/domhandler@4.0.0
 - pkg:maven/org.webjars.npm/domhandler@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/domhandler@4.1.0
+- pkg:maven/org.webjars.npm/domhandler@4.1.0?classifier=sources

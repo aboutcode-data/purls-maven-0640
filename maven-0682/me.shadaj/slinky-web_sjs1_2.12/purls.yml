@@ -143,4 +143,8 @@
 - pkg:maven/me.shadaj/slinky-web_sjs1_2.12@0.6.6%2B8-3244329c?classifier=sources
 - pkg:maven/me.shadaj/slinky-web_sjs1_2.12@0.6.6?classifier=sources
 - pkg:maven/me.shadaj/slinky-web_sjs1_2.12@0.6.7
+- pkg:maven/me.shadaj/slinky-web_sjs1_2.12@0.6.7%2B1-322e14a5
+- pkg:maven/me.shadaj/slinky-web_sjs1_2.12@0.6.7%2B1-322e14a5?classifier=sources
+- pkg:maven/me.shadaj/slinky-web_sjs1_2.12@0.6.7%2B2-fddd16ab
+- pkg:maven/me.shadaj/slinky-web_sjs1_2.12@0.6.7%2B2-fddd16ab?classifier=sources
 - pkg:maven/me.shadaj/slinky-web_sjs1_2.12@0.6.7?classifier=sources

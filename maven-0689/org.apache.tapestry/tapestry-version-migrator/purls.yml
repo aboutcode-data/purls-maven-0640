@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.tapestry/tapestry-version-migrator@5.7.0
+- pkg:maven/org.apache.tapestry/tapestry-version-migrator@5.7.0?classifier=sources
+- pkg:maven/org.apache.tapestry/tapestry-version-migrator@5.7.1
+- pkg:maven/org.apache.tapestry/tapestry-version-migrator@5.7.1?classifier=sources

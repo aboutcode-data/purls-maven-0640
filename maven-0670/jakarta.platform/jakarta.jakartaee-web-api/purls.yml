@@ -8,3 +8,5 @@
 - pkg:maven/jakarta.platform/jakarta.jakartaee-web-api@9.0.0-RC3
 - pkg:maven/jakarta.platform/jakarta.jakartaee-web-api@9.0.0-RC3?classifier=sources
 - pkg:maven/jakarta.platform/jakarta.jakartaee-web-api@9.0.0?classifier=sources
+- pkg:maven/jakarta.platform/jakarta.jakartaee-web-api@9.1.0-RC1
+- pkg:maven/jakarta.platform/jakarta.jakartaee-web-api@9.1.0-RC1?classifier=sources

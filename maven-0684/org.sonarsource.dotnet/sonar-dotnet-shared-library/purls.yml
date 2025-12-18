@@ -96,3 +96,9 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.16.0.25740?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.17.0.26580
 - pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.17.0.26580?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.18.0.27296
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.18.0.27296?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.19.0.28253
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.19.0.28253?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.20.0.28934
+- pkg:maven/org.sonarsource.dotnet/sonar-dotnet-shared-library@8.20.0.28934?classifier=sources

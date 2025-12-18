@@ -16,3 +16,4 @@
 - pkg:maven/com.atomgraph/client@3.0.16?classifier=sources
 - pkg:maven/com.atomgraph/client@3.0.21?classifier=sources
 - pkg:maven/com.atomgraph/client@3.0.22?classifier=sources
+- pkg:maven/com.atomgraph/client@3.0.27?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/com.github.rocketzly/lintpatch@3.6.1
+- pkg:maven/com.github.rocketzly/lintpatch@3.6.2?classifier=sources
+- pkg:maven/com.github.rocketzly/lintpatch@3.6.3?classifier=sources
+- pkg:maven/com.github.rocketzly/lintpatch@3.6.x?classifier=sources
+- pkg:maven/com.github.rocketzly/lintpatch@4.0.0?classifier=sources

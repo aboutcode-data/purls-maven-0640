@@ -1,0 +1,2 @@
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.4.1.1.2?classifier=sources
+- pkg:maven/com.applovin.mediation/bytedance-adapter@3.4.1.1.2?type=aar

@@ -1,0 +1,3 @@
+- pkg:maven/com.github.lamba92/kotlingram-bot-builder-metadata@1.1.2?classifier=sources
+- pkg:maven/com.github.lamba92/kotlingram-bot-builder-metadata@1.1.3?classifier=sources
+- pkg:maven/com.github.lamba92/kotlingram-bot-builder-metadata@1.1.5?classifier=sources

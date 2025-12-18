@@ -36,3 +36,7 @@
 - pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.6.0?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.7.0
 - pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.7.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.8.0
+- pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.8.0-magento242ee
+- pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.8.0-magento242ee?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.8.0?classifier=sources

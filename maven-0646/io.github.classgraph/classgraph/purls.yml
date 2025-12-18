@@ -166,6 +166,10 @@
 - pkg:maven/io.github.classgraph/classgraph@4.8.101?classifier=sources
 - pkg:maven/io.github.classgraph/classgraph@4.8.102
 - pkg:maven/io.github.classgraph/classgraph@4.8.102?classifier=sources
+- pkg:maven/io.github.classgraph/classgraph@4.8.103
+- pkg:maven/io.github.classgraph/classgraph@4.8.103?classifier=sources
+- pkg:maven/io.github.classgraph/classgraph@4.8.104
+- pkg:maven/io.github.classgraph/classgraph@4.8.104?classifier=sources
 - pkg:maven/io.github.classgraph/classgraph@4.8.10?classifier=sources
 - pkg:maven/io.github.classgraph/classgraph@4.8.11
 - pkg:maven/io.github.classgraph/classgraph@4.8.11?classifier=sources

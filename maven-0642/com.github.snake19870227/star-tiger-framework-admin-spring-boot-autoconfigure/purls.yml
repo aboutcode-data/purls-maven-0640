@@ -14,3 +14,5 @@
 - pkg:maven/com.github.snake19870227/star-tiger-framework-admin-spring-boot-autoconfigure@0.6.6?classifier=sources
 - pkg:maven/com.github.snake19870227/star-tiger-framework-admin-spring-boot-autoconfigure@0.6.7
 - pkg:maven/com.github.snake19870227/star-tiger-framework-admin-spring-boot-autoconfigure@0.6.7?classifier=sources
+- pkg:maven/com.github.snake19870227/star-tiger-framework-admin-spring-boot-autoconfigure@0.7.0
+- pkg:maven/com.github.snake19870227/star-tiger-framework-admin-spring-boot-autoconfigure@0.7.0?classifier=sources

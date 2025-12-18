@@ -26,3 +26,5 @@
 - pkg:maven/io.hekate/hekate-kubernetes@3.8.0?classifier=sources
 - pkg:maven/io.hekate/hekate-kubernetes@3.9.0
 - pkg:maven/io.hekate/hekate-kubernetes@3.9.0?classifier=sources
+- pkg:maven/io.hekate/hekate-kubernetes@4.0.0
+- pkg:maven/io.hekate/hekate-kubernetes@4.0.0?classifier=sources

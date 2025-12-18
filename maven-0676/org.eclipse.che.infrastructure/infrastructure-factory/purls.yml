@@ -4,3 +4,17 @@
 - pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.25.1?classifier=sources
 - pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.25.2
 - pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.25.2?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.26.0
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.26.0?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.26.1
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.26.1?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.26.2
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.26.2?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.27.0
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.27.0?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.27.1
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.27.1?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.27.2
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.27.2?classifier=sources
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.28.0
+- pkg:maven/org.eclipse.che.infrastructure/infrastructure-factory@7.28.0?classifier=sources

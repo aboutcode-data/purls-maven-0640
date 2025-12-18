@@ -208,6 +208,12 @@
 - pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.49.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.5.0.Final
 - pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.50.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.50.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.51.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.51.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.52.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.52.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.6.0.Final
 - pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.services/kie-wb-common-data-modeller-core@7.7.0.Final

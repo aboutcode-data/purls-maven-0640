@@ -6,3 +6,5 @@
 - pkg:maven/com.hivemq/hivemq-community-edition-embedded@2020.5?classifier=sources
 - pkg:maven/com.hivemq/hivemq-community-edition-embedded@2020.6
 - pkg:maven/com.hivemq/hivemq-community-edition-embedded@2020.6?classifier=sources
+- pkg:maven/com.hivemq/hivemq-community-edition-embedded@2021.1
+- pkg:maven/com.hivemq/hivemq-community-edition-embedded@2021.1?classifier=sources

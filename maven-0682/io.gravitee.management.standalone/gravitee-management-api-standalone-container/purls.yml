@@ -265,6 +265,8 @@
 - pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-container@1.25.25?classifier=sources
 - pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-container@1.25.26
 - pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-container@1.25.26?classifier=sources
+- pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-container@1.25.27
+- pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-container@1.25.27?classifier=sources
 - pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-container@1.25.2?classifier=sources
 - pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-container@1.25.3
 - pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-container@1.25.3?classifier=sources
