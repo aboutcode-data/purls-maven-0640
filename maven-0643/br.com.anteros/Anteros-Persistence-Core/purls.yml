@@ -139,6 +139,8 @@
 - pkg:maven/br.com.anteros/Anteros-Persistence-Core@1.0.8
 - pkg:maven/br.com.anteros/Anteros-Persistence-Core@1.0.82
 - pkg:maven/br.com.anteros/Anteros-Persistence-Core@1.0.82?classifier=sources
+- pkg:maven/br.com.anteros/Anteros-Persistence-Core@1.0.85
+- pkg:maven/br.com.anteros/Anteros-Persistence-Core@1.0.85?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Persistence-Core@1.0.8?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Persistence-Core@1.0.9
 - pkg:maven/br.com.anteros/Anteros-Persistence-Core@1.0.9?classifier=sources

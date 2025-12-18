@@ -52,3 +52,5 @@
 - pkg:maven/org.rapidpm/rapidpm-functional-reactive@01.00.03-RPM?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-functional-reactive@01.00.04-RPM
 - pkg:maven/org.rapidpm/rapidpm-functional-reactive@01.00.04-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-functional-reactive@01.00.07-RPM
+- pkg:maven/org.rapidpm/rapidpm-functional-reactive@01.00.07-RPM?classifier=sources

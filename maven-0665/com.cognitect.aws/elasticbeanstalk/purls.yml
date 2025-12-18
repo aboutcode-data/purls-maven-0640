@@ -12,3 +12,5 @@
 - pkg:maven/com.cognitect.aws/elasticbeanstalk@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/elasticbeanstalk@796.2.654.0
 - pkg:maven/com.cognitect.aws/elasticbeanstalk@796.2.654.0?classifier=sources
+- pkg:maven/com.cognitect.aws/elasticbeanstalk@801.2.691.0
+- pkg:maven/com.cognitect.aws/elasticbeanstalk@801.2.691.0?classifier=sources

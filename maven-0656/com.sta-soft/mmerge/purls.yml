@@ -10,3 +10,5 @@
 - pkg:maven/com.sta-soft/mmerge@1.32?classifier=sources
 - pkg:maven/com.sta-soft/mmerge@1.33
 - pkg:maven/com.sta-soft/mmerge@1.33?classifier=sources
+- pkg:maven/com.sta-soft/mmerge@1.34
+- pkg:maven/com.sta-soft/mmerge@1.34?classifier=sources

@@ -1,3 +1,8 @@
 - pkg:maven/com.thorstenmarx.webtools/experience-platform@5.0.0?type=war
 - pkg:maven/com.thorstenmarx.webtools/experience-platform@5.1.0?type=war
 - pkg:maven/com.thorstenmarx.webtools/experience-platform@5.1.1?type=war
+- pkg:maven/com.thorstenmarx.webtools/experience-platform@5.2.0?type=war
+- pkg:maven/com.thorstenmarx.webtools/experience-platform@5.2.1?type=war
+- pkg:maven/com.thorstenmarx.webtools/experience-platform@5.2.2?type=war
+- pkg:maven/com.thorstenmarx.webtools/experience-platform@5.2.4?type=war
+- pkg:maven/com.thorstenmarx.webtools/experience-platform@5.3.0?type=war

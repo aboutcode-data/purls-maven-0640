@@ -1,0 +1,6 @@
+- pkg:maven/org.opendaylight.netconf/shaded-sshd@1.7.3
+- pkg:maven/org.opendaylight.netconf/shaded-sshd@1.7.3?classifier=sources
+- pkg:maven/org.opendaylight.netconf/shaded-sshd@1.7.4
+- pkg:maven/org.opendaylight.netconf/shaded-sshd@1.7.4?classifier=sources
+- pkg:maven/org.opendaylight.netconf/shaded-sshd@1.8.2
+- pkg:maven/org.opendaylight.netconf/shaded-sshd@1.8.2?classifier=sources

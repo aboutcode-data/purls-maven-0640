@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.commons/commons-geometry-spherical@1.0-beta1
+- pkg:maven/org.apache.commons/commons-geometry-spherical@1.0-beta1?classifier=sources

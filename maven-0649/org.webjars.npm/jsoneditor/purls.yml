@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/jsoneditor@8.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/jsoneditor@8.6.4
 - pkg:maven/org.webjars.npm/jsoneditor@8.6.4?classifier=sources
+- pkg:maven/org.webjars.npm/jsoneditor@9.0.0
+- pkg:maven/org.webjars.npm/jsoneditor@9.0.0?classifier=sources

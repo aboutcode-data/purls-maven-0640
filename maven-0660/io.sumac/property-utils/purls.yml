@@ -1,0 +1,2 @@
+- pkg:maven/io.sumac/property-utils@0.0.7
+- pkg:maven/io.sumac/property-utils@0.0.7?classifier=sources

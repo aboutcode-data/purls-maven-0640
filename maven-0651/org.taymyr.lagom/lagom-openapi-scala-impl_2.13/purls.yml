@@ -1,1 +1,2 @@
 - pkg:maven/org.taymyr.lagom/lagom-openapi-scala-impl_2.13@1.1.0?classifier=sources
+- pkg:maven/org.taymyr.lagom/lagom-openapi-scala-impl_2.13@1.2.0?classifier=sources

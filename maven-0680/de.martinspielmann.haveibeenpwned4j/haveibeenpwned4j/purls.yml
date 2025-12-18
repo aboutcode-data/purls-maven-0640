@@ -2,3 +2,7 @@
 - pkg:maven/de.martinspielmann.haveibeenpwned4j/haveibeenpwned4j@1.0.0?classifier=sources
 - pkg:maven/de.martinspielmann.haveibeenpwned4j/haveibeenpwned4j@1.1.0
 - pkg:maven/de.martinspielmann.haveibeenpwned4j/haveibeenpwned4j@1.1.0?classifier=sources
+- pkg:maven/de.martinspielmann.haveibeenpwned4j/haveibeenpwned4j@2.0.0
+- pkg:maven/de.martinspielmann.haveibeenpwned4j/haveibeenpwned4j@2.0.0?classifier=sources
+- pkg:maven/de.martinspielmann.haveibeenpwned4j/haveibeenpwned4j@2.0.1
+- pkg:maven/de.martinspielmann.haveibeenpwned4j/haveibeenpwned4j@2.0.1?classifier=sources

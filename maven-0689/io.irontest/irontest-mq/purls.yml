@@ -22,6 +22,8 @@
 - pkg:maven/io.irontest/irontest-mq@0.13.0?classifier=sources
 - pkg:maven/io.irontest/irontest-mq@0.14.0
 - pkg:maven/io.irontest/irontest-mq@0.14.0?classifier=sources
+- pkg:maven/io.irontest/irontest-mq@0.15.0
+- pkg:maven/io.irontest/irontest-mq@0.15.0?classifier=sources
 - pkg:maven/io.irontest/irontest-mq@0.8.2
 - pkg:maven/io.irontest/irontest-mq@0.8.2?classifier=sources
 - pkg:maven/io.irontest/irontest-mq@0.9.0

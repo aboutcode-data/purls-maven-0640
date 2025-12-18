@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhanglei0325/log-plug-in@0.0.1
+- pkg:maven/com.github.zhanglei0325/log-plug-in@0.0.1?classifier=sources

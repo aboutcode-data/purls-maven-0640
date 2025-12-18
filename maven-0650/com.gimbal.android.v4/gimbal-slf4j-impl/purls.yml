@@ -8,3 +8,5 @@
 - pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.2.1?type=aar
 - pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.2.2?classifier=sources
 - pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.2.2?type=aar
+- pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.3.0?classifier=sources
+- pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.3.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/biz.netcentric.aem.tools.accesscontrolvalidator/accesscontrolvalidator-api@1.0.0
+- pkg:maven/biz.netcentric.aem.tools.accesscontrolvalidator/accesscontrolvalidator-api@1.0.0?classifier=sources

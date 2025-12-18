@@ -60,3 +60,5 @@
 - pkg:maven/com.byoutline.secretsauce/secretsaucekt@0.9.0?type=aar
 - pkg:maven/com.byoutline.secretsauce/secretsaucekt@0.9.0_2019-beta2?classifier=sources
 - pkg:maven/com.byoutline.secretsauce/secretsaucekt@0.9.0_2019-beta2?type=aar
+- pkg:maven/com.byoutline.secretsauce/secretsaucekt@1.0.0?classifier=sources
+- pkg:maven/com.byoutline.secretsauce/secretsaucekt@1.0.0?type=aar

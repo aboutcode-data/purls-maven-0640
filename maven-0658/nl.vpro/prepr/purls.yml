@@ -14,3 +14,9 @@
 - pkg:maven/nl.vpro/prepr@0.8.0?classifier=sources
 - pkg:maven/nl.vpro/prepr@0.9.0
 - pkg:maven/nl.vpro/prepr@0.9.0?classifier=sources
+- pkg:maven/nl.vpro/prepr@1.0.0
+- pkg:maven/nl.vpro/prepr@1.0.0?classifier=sources
+- pkg:maven/nl.vpro/prepr@1.0.1
+- pkg:maven/nl.vpro/prepr@1.0.1?classifier=sources
+- pkg:maven/nl.vpro/prepr@1.1.0
+- pkg:maven/nl.vpro/prepr@1.1.0?classifier=sources

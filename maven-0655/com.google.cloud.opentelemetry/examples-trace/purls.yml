@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud.opentelemetry/examples-trace@0.7.1
+- pkg:maven/com.google.cloud.opentelemetry/examples-trace@0.7.1?classifier=sources

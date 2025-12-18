@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cxf.fediz.systests/fediz-systests-tomcat@1.5.0
+- pkg:maven/org.apache.cxf.fediz.systests/fediz-systests-tomcat@1.5.0?classifier=sources

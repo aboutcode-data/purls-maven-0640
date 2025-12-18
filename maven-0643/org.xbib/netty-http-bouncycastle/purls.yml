@@ -3,3 +3,9 @@
 - pkg:maven/org.xbib/netty-http-bouncycastle@4.1.45.0
 - pkg:maven/org.xbib/netty-http-bouncycastle@4.1.45.0?classifier=sources
 - pkg:maven/org.xbib/netty-http-bouncycastle@4.1.49.1?classifier=sources
+- pkg:maven/org.xbib/netty-http-bouncycastle@4.1.50.1?classifier=sources
+- pkg:maven/org.xbib/netty-http-bouncycastle@4.1.51.0?classifier=sources
+- pkg:maven/org.xbib/netty-http-bouncycastle@4.1.51.1?classifier=sources
+- pkg:maven/org.xbib/netty-http-bouncycastle@4.1.51.2?classifier=sources
+- pkg:maven/org.xbib/netty-http-bouncycastle@4.1.51.3?classifier=sources
+- pkg:maven/org.xbib/netty-http-bouncycastle@4.1.51.4?classifier=sources

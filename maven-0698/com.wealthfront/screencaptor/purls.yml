@@ -1,0 +1,6 @@
+- pkg:maven/com.wealthfront/screencaptor@0.1.0?classifier=sources
+- pkg:maven/com.wealthfront/screencaptor@0.1.0?type=aar
+- pkg:maven/com.wealthfront/screencaptor@0.2.0?classifier=sources
+- pkg:maven/com.wealthfront/screencaptor@0.2.0?type=aar
+- pkg:maven/com.wealthfront/screencaptor@1.0.0?classifier=sources
+- pkg:maven/com.wealthfront/screencaptor@1.0.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.qcloud.oceanus/flink-java@1.10.1
+- pkg:maven/com.qcloud.oceanus/flink-java@1.10.1?classifier=sources

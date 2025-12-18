@@ -1,3 +1,6 @@
 - pkg:maven/org.odpi.egeria/governance-action-connectors@1.5
 - pkg:maven/org.odpi.egeria/governance-action-connectors@1.6
 - pkg:maven/org.odpi.egeria/governance-action-connectors@1.7
+- pkg:maven/org.odpi.egeria/governance-action-connectors@1.8
+- pkg:maven/org.odpi.egeria/governance-action-connectors@2.0
+- pkg:maven/org.odpi.egeria/governance-action-connectors@2.1

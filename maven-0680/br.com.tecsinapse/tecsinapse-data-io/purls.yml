@@ -26,3 +26,5 @@
 - pkg:maven/br.com.tecsinapse/tecsinapse-data-io@3.1.6?classifier=sources
 - pkg:maven/br.com.tecsinapse/tecsinapse-data-io@3.1.7
 - pkg:maven/br.com.tecsinapse/tecsinapse-data-io@3.1.7?classifier=sources
+- pkg:maven/br.com.tecsinapse/tecsinapse-data-io@3.1.8
+- pkg:maven/br.com.tecsinapse/tecsinapse-data-io@3.1.8?classifier=sources

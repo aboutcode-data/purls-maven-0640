@@ -1,0 +1,4 @@
+- pkg:maven/org.bndly.common.code/org.bndly.common.code.model@1.0.0
+- pkg:maven/org.bndly.common.code/org.bndly.common.code.model@1.0.0?classifier=sources
+- pkg:maven/org.bndly.common.code/org.bndly.common.code.model@1.0.1
+- pkg:maven/org.bndly.common.code/org.bndly.common.code.model@1.0.1?classifier=sources

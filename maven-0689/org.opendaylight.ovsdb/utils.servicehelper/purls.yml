@@ -11,6 +11,8 @@
 - pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.10.0?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.10.1
 - pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.10.1?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.10.2
+- pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.10.2?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.2.1-Beryllium
 - pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.2.1-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.2.2-Beryllium-SR1
@@ -81,3 +83,7 @@
 - pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.9.1?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.9.2
 - pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.9.2?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.9.3
+- pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.9.3?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.9.4
+- pkg:maven/org.opendaylight.ovsdb/utils.servicehelper@1.9.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/fast-csv__parse@4.3.1
+- pkg:maven/org.webjars.npm/fast-csv__parse@4.3.1?classifier=sources

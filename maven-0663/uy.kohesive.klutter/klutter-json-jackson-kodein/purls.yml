@@ -30,3 +30,5 @@
 - pkg:maven/uy.kohesive.klutter/klutter-json-jackson-kodein@2.5.3?classifier=sources
 - pkg:maven/uy.kohesive.klutter/klutter-json-jackson-kodein@2.6.0
 - pkg:maven/uy.kohesive.klutter/klutter-json-jackson-kodein@2.6.0?classifier=sources
+- pkg:maven/uy.kohesive.klutter/klutter-json-jackson-kodein@3.0.0
+- pkg:maven/uy.kohesive.klutter/klutter-json-jackson-kodein@3.0.0?classifier=sources

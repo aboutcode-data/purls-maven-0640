@@ -1,1 +1,4 @@
 - pkg:maven/org.netbeans.external/com-jcraft-jzlib@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.external/com-jcraft-jzlib@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.external/com-jcraft-jzlib@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.external/com-jcraft-jzlib@RELEASE120?classifier=sources

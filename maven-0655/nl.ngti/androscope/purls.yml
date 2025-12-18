@@ -1,0 +1,5 @@
+- pkg:maven/nl.ngti/androscope@1.0-RC1?classifier=sources
+- pkg:maven/nl.ngti/androscope@1.0-RC1?type=aar
+- pkg:maven/nl.ngti/androscope@1.0-RC2?classifier=sources
+- pkg:maven/nl.ngti/androscope@1.0-RC3?classifier=sources
+- pkg:maven/nl.ngti/androscope@1.0-RC4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-gpu-spark23_2.11@2.5.4
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-gpu-spark23_2.11@2.5.4?classifier=sources
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-gpu-spark23_2.11@2.5.5
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-gpu-spark23_2.11@2.5.5?classifier=sources

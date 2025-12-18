@@ -1,0 +1,2 @@
+- pkg:maven/com.jetbrains.hub/hub-client-all@2020.1.12352?classifier=sources
+- pkg:maven/com.jetbrains.hub/hub-client-all@2020.1.12358?classifier=sources

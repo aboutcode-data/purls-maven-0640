@@ -2,3 +2,4 @@
 - pkg:maven/io.siddhi.extension.io.email/siddhi-io-email-parent@2.0.3?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.email/siddhi-io-email-parent@2.0.4?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.io.email/siddhi-io-email-parent@2.0.5?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.email/siddhi-io-email-parent@2.0.6?classifier=source-release&type=zip

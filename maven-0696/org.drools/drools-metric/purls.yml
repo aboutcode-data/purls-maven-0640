@@ -1,0 +1,6 @@
+- pkg:maven/org.drools/drools-metric@7.41.0.Final
+- pkg:maven/org.drools/drools-metric@7.41.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-metric@7.41.0.t20200723
+- pkg:maven/org.drools/drools-metric@7.41.0.t20200723?classifier=sources
+- pkg:maven/org.drools/drools-metric@7.42.0.Final
+- pkg:maven/org.drools/drools-metric@7.42.0.Final?classifier=sources

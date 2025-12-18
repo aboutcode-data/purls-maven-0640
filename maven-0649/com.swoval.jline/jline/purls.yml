@@ -1,0 +1,2 @@
+- pkg:maven/com.swoval.jline/jline@2.14.7-sbt-8d4caeb87217c3a5f57b6884d28cfffcbe3edc86
+- pkg:maven/com.swoval.jline/jline@2.14.7-sbt-8d4caeb87217c3a5f57b6884d28cfffcbe3edc86?classifier=sources

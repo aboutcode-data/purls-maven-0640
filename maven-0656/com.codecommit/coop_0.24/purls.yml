@@ -1,0 +1,8 @@
+- pkg:maven/com.codecommit/coop_0.24@0.5-f521228
+- pkg:maven/com.codecommit/coop_0.24@0.5-f521228?classifier=sources
+- pkg:maven/com.codecommit/coop_0.24@0.5.0
+- pkg:maven/com.codecommit/coop_0.24@0.5.0?classifier=sources
+- pkg:maven/com.codecommit/coop_0.24@0.6.0
+- pkg:maven/com.codecommit/coop_0.24@0.6.0?classifier=sources
+- pkg:maven/com.codecommit/coop_0.24@0.6.1
+- pkg:maven/com.codecommit/coop_0.24@0.6.1?classifier=sources

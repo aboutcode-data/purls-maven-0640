@@ -50,3 +50,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation@4.4.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation@4.5.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation@4.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation@4.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation@4.6.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation@5.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-service-generation@5.0.0?classifier=sources

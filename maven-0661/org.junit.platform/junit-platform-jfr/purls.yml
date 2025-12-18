@@ -1,0 +1,1 @@
+- pkg:maven/org.junit.platform/junit-platform-jfr@1.7.0-RC1?classifier=sources

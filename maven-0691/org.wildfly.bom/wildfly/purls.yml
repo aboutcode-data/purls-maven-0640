@@ -22,3 +22,4 @@
 - pkg:maven/org.wildfly.bom/wildfly@18.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/wildfly@19.0.0.Beta1?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.bom/wildfly@19.0.0.Beta2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/wildfly@20.0.0.Final?classifier=source-release&type=zip

@@ -45,3 +45,5 @@
 - pkg:maven/com.yubico/yubico-util@1.6.1?classifier=sources
 - pkg:maven/com.yubico/yubico-util@1.6.2?classifier=sources
 - pkg:maven/com.yubico/yubico-util@1.6.3-RC1?classifier=sources
+- pkg:maven/com.yubico/yubico-util@1.6.3?classifier=sources
+- pkg:maven/com.yubico/yubico-util@1.6.4?classifier=sources

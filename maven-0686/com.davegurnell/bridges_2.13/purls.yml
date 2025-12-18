@@ -10,3 +10,7 @@
 - pkg:maven/com.davegurnell/bridges_2.13@0.20.3?classifier=sources
 - pkg:maven/com.davegurnell/bridges_2.13@0.21.0
 - pkg:maven/com.davegurnell/bridges_2.13@0.21.0?classifier=sources
+- pkg:maven/com.davegurnell/bridges_2.13@0.23.0
+- pkg:maven/com.davegurnell/bridges_2.13@0.23.0?classifier=sources
+- pkg:maven/com.davegurnell/bridges_2.13@0.24.0
+- pkg:maven/com.davegurnell/bridges_2.13@0.24.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.4.1.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.4.2.RELEASE
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.4.2.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.4.3.RELEASE
+- pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.4.3.RELEASE?classifier=sources

@@ -5,6 +5,7 @@
 - pkg:maven/org.cometd.javascript/cometd-examples-vanilla@3.1.11?type=war
 - pkg:maven/org.cometd.javascript/cometd-examples-vanilla@3.1.12?type=war
 - pkg:maven/org.cometd.javascript/cometd-examples-vanilla@3.1.13?type=war
+- pkg:maven/org.cometd.javascript/cometd-examples-vanilla@3.1.14?type=war
 - pkg:maven/org.cometd.javascript/cometd-examples-vanilla@3.1.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-examples-vanilla@3.1.2-BETA0?type=war
 - pkg:maven/org.cometd.javascript/cometd-examples-vanilla@3.1.2-BETA1?type=war
@@ -27,3 +28,4 @@
 - pkg:maven/org.cometd.javascript/cometd-examples-vanilla@4.0.5?type=war
 - pkg:maven/org.cometd.javascript/cometd-examples-vanilla@4.0.6?type=war
 - pkg:maven/org.cometd.javascript/cometd-examples-vanilla@4.0.7?type=war
+- pkg:maven/org.cometd.javascript/cometd-examples-vanilla@4.0.8?type=war

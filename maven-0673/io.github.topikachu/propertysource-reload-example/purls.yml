@@ -1,0 +1,8 @@
+- pkg:maven/io.github.topikachu/propertysource-reload-example@0.0.2
+- pkg:maven/io.github.topikachu/propertysource-reload-example@0.0.2?classifier=sources
+- pkg:maven/io.github.topikachu/propertysource-reload-example@0.0.3
+- pkg:maven/io.github.topikachu/propertysource-reload-example@0.0.3?classifier=sources
+- pkg:maven/io.github.topikachu/propertysource-reload-example@0.0.4
+- pkg:maven/io.github.topikachu/propertysource-reload-example@0.0.4?classifier=sources
+- pkg:maven/io.github.topikachu/propertysource-reload-example@0.0.6
+- pkg:maven/io.github.topikachu/propertysource-reload-example@0.0.6?classifier=sources

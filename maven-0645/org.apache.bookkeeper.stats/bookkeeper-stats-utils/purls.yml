@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.bookkeeper.stats/bookkeeper-stats-utils@4.10.0
 - pkg:maven/org.apache.bookkeeper.stats/bookkeeper-stats-utils@4.10.0?classifier=sources
+- pkg:maven/org.apache.bookkeeper.stats/bookkeeper-stats-utils@4.11.0
+- pkg:maven/org.apache.bookkeeper.stats/bookkeeper-stats-utils@4.11.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper.stats/bookkeeper-stats-utils@4.9.0
 - pkg:maven/org.apache.bookkeeper.stats/bookkeeper-stats-utils@4.9.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper.stats/bookkeeper-stats-utils@4.9.1

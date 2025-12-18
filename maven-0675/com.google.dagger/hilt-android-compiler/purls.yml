@@ -1,0 +1,8 @@
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.28-alpha
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.28-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.28.1-alpha
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.28.1-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.28.2-alpha
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.28.2-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.28.3-alpha
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.28.3-alpha?classifier=sources

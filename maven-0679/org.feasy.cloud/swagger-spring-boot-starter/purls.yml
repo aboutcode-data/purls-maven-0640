@@ -1,0 +1,2 @@
+- pkg:maven/org.feasy.cloud/swagger-spring-boot-starter@1.0-RELEASE
+- pkg:maven/org.feasy.cloud/swagger-spring-boot-starter@1.0-RELEASE?classifier=sources

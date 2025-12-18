@@ -10,3 +10,5 @@
 - pkg:maven/com.github.zakgof/velvetdb-serializer-elsa@0.7.0?classifier=sources
 - pkg:maven/com.github.zakgof/velvetdb-serializer-elsa@0.7.3
 - pkg:maven/com.github.zakgof/velvetdb-serializer-elsa@0.7.3?classifier=sources
+- pkg:maven/com.github.zakgof/velvetdb-serializer-elsa@0.9.0
+- pkg:maven/com.github.zakgof/velvetdb-serializer-elsa@0.9.0?classifier=sources

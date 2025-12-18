@@ -17,3 +17,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-starters-docs@Einstein.SR4
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-starters-docs@Einstein.SR5
 - pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-starters-docs@Einstein.SR6
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-starters-docs@Einstein.SR7
+- pkg:maven/org.springframework.cloud.stream.app/spring-cloud-stream-app-starters-docs@Einstein.SR8

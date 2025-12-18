@@ -18,3 +18,4 @@
 - pkg:maven/org.force66/BeanTester@1.0.0-rc.1
 - pkg:maven/org.force66/BeanTester@1.0.0-rc.1?classifier=sources
 - pkg:maven/org.force66/BeanTester@1.0.0?classifier=sources
+- pkg:maven/org.force66/BeanTester@1.0.1-rc1?classifier=sources

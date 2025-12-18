@@ -1,0 +1,2 @@
+- pkg:maven/com.diluv.diluvgradle/DiluvGradle@1.0.1
+- pkg:maven/com.diluv.diluvgradle/DiluvGradle@1.0.1?classifier=sources

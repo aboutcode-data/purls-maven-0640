@@ -26,3 +26,5 @@
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-zookeeper@2.6-beta3?classifier=sources
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-zookeeper@2.6-beta4
 - pkg:maven/org.lable.oss.uniqueid/uniqueid-zookeeper@2.6-beta4?classifier=sources
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-zookeeper@3.1
+- pkg:maven/org.lable.oss.uniqueid/uniqueid-zookeeper@3.1?classifier=sources

@@ -17,6 +17,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.junit.teleporter@1.0.20
 - pkg:maven/org.apache.sling/org.apache.sling.junit.teleporter@1.0.20?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.junit.teleporter@1.0.20?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.junit.teleporter@1.0.22
+- pkg:maven/org.apache.sling/org.apache.sling.junit.teleporter@1.0.22?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.junit.teleporter@1.0.22?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.junit.teleporter@1.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.junit.teleporter@1.0.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.junit.teleporter@1.0.4

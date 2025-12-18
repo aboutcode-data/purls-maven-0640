@@ -1,0 +1,2 @@
+- pkg:maven/io.kanaka/play-monadic-actions-scalaz_7-2_2.13@2.2.0
+- pkg:maven/io.kanaka/play-monadic-actions-scalaz_7-2_2.13@2.2.0?classifier=sources

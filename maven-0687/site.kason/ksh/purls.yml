@@ -4,3 +4,7 @@
 - pkg:maven/site.kason/ksh@1.1.0?classifier=sources
 - pkg:maven/site.kason/ksh@1.2.0
 - pkg:maven/site.kason/ksh@1.2.0?classifier=sources
+- pkg:maven/site.kason/ksh@2.0.0
+- pkg:maven/site.kason/ksh@2.0.0?classifier=sources
+- pkg:maven/site.kason/ksh@2.1.0
+- pkg:maven/site.kason/ksh@2.1.0?classifier=sources

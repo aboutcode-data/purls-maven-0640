@@ -1,0 +1,2 @@
+- pkg:maven/it.micegroup.voila.runtime/voila-runtime-quartz@1.0
+- pkg:maven/it.micegroup.voila.runtime/voila-runtime-quartz@1.0?classifier=sources

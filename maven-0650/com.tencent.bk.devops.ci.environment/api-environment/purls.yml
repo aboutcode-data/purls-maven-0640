@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.bk.devops.ci.environment/api-environment@1.1.2-RELEASE
+- pkg:maven/com.tencent.bk.devops.ci.environment/api-environment@1.1.2-RELEASE?classifier=sources

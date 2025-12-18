@@ -1,0 +1,13 @@
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.10?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.11?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.12?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.14?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.16?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.17?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.18?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.19?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.20?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.24?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.26?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.7?classifier=sources
+- pkg:maven/io.floodplain/floodplain-googlesheets@0.9.8?classifier=sources

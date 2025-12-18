@@ -1,0 +1,2 @@
+- pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.0.9
+- pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.0.9?classifier=sources

@@ -1,1 +1,6 @@
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@2.2.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@2.2.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@2.2.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@3.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@3.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@3.1.1?classifier=sources

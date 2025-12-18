@@ -1,2 +1,4 @@
 - pkg:maven/com.nike.fleam/fleam-aws-sqs_2.12@5.0.0
 - pkg:maven/com.nike.fleam/fleam-aws-sqs_2.12@5.0.0?classifier=sources
+- pkg:maven/com.nike.fleam/fleam-aws-sqs_2.12@6.0.0
+- pkg:maven/com.nike.fleam/fleam-aws-sqs_2.12@6.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.parapet/protobuf_2.12@0.0.1-RC3
+- pkg:maven/io.parapet/protobuf_2.12@0.0.1-RC3?classifier=sources

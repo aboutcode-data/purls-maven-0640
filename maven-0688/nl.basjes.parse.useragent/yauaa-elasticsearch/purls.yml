@@ -1,0 +1,4 @@
+- pkg:maven/nl.basjes.parse.useragent/yauaa-elasticsearch@5.18?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-elasticsearch@5.18?type=zip
+- pkg:maven/nl.basjes.parse.useragent/yauaa-elasticsearch@5.19?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-elasticsearch@5.19?type=zip

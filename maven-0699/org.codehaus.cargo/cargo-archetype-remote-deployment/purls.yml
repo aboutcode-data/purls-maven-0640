@@ -48,6 +48,10 @@
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.10?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.11?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.12?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.13?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.14?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.15?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.16?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.1?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.2?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.3?classifier=sources
@@ -57,3 +61,4 @@
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.7?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.8?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.7.9?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-archetype-remote-deployment@1.8.0?classifier=sources

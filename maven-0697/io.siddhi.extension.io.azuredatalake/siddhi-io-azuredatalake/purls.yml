@@ -1,0 +1,6 @@
+- pkg:maven/io.siddhi.extension.io.azuredatalake/siddhi-io-azuredatalake@1.0.0
+- pkg:maven/io.siddhi.extension.io.azuredatalake/siddhi-io-azuredatalake@1.0.0?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.azuredatalake/siddhi-io-azuredatalake@1.0.0?classifier=sources
+- pkg:maven/io.siddhi.extension.io.azuredatalake/siddhi-io-azuredatalake@1.0.1
+- pkg:maven/io.siddhi.extension.io.azuredatalake/siddhi-io-azuredatalake@1.0.1?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.azuredatalake/siddhi-io-azuredatalake@1.0.1?classifier=sources

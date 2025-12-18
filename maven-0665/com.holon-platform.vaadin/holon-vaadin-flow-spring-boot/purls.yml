@@ -40,3 +40,5 @@
 - pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@5.4.0?classifier=sources
 - pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@5.4.2
 - pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@5.4.2?classifier=sources
+- pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@5.5.0
+- pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@5.5.0?classifier=sources

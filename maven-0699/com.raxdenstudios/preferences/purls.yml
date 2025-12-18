@@ -1,0 +1,7 @@
+- pkg:maven/com.raxdenstudios/preferences@0.0.12?classifier=sources
+- pkg:maven/com.raxdenstudios/preferences@0.0.1?classifier=sources
+- pkg:maven/com.raxdenstudios/preferences@0.0.5?classifier=sources
+- pkg:maven/com.raxdenstudios/preferences@0.0.9?classifier=sources
+- pkg:maven/com.raxdenstudios/preferences@0.1.5?classifier=sources
+- pkg:maven/com.raxdenstudios/preferences@0.1.7?classifier=sources
+- pkg:maven/com.raxdenstudios/preferences@0.1.8?classifier=sources

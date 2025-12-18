@@ -4,3 +4,4 @@
 - pkg:maven/net.codebuilders/guno-extension@4.1.6.0?classifier=sources
 - pkg:maven/net.codebuilders/guno-extension@4.1.6.10
 - pkg:maven/net.codebuilders/guno-extension@4.1.6.10?classifier=sources
+- pkg:maven/net.codebuilders/guno-extension@4.1.6.12?classifier=sources

@@ -9,4 +9,6 @@
 - pkg:maven/com.yang-bo.dsl.keywords.akka.actor/receivemessage_sjs1_2.13@1.0.1
 - pkg:maven/com.yang-bo.dsl.keywords.akka.actor/receivemessage_sjs1_2.13@1.0.1%2B2-eca79a23
 - pkg:maven/com.yang-bo.dsl.keywords.akka.actor/receivemessage_sjs1_2.13@1.0.1%2B2-eca79a23?classifier=sources
+- pkg:maven/com.yang-bo.dsl.keywords.akka.actor/receivemessage_sjs1_2.13@1.0.1%2B3-c334a586
+- pkg:maven/com.yang-bo.dsl.keywords.akka.actor/receivemessage_sjs1_2.13@1.0.1%2B3-c334a586?classifier=sources
 - pkg:maven/com.yang-bo.dsl.keywords.akka.actor/receivemessage_sjs1_2.13@1.0.1?classifier=sources

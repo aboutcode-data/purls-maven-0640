@@ -1,0 +1,2 @@
+- pkg:maven/com.wizzdi/metamodel-inheritence-fix-processor@1.0.1
+- pkg:maven/com.wizzdi/metamodel-inheritence-fix-processor@1.0.1?classifier=sources

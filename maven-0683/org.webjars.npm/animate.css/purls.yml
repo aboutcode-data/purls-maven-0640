@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/animate.css@3.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/animate.css@4.0.0
 - pkg:maven/org.webjars.npm/animate.css@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/animate.css@4.1.0
+- pkg:maven/org.webjars.npm/animate.css@4.1.0?classifier=sources

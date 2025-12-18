@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE90?classifier=sources

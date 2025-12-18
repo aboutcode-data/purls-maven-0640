@@ -21,3 +21,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-javascript@4.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-javascript@4.4.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-javascript@4.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-javascript@4.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-group-javascript@5.0.0

@@ -120,3 +120,5 @@
 - pkg:maven/com.github.gekoh.yagen/yagen-agent-jar@5.3?classifier=sources
 - pkg:maven/com.github.gekoh.yagen/yagen-agent-jar@5.4
 - pkg:maven/com.github.gekoh.yagen/yagen-agent-jar@5.4?classifier=sources
+- pkg:maven/com.github.gekoh.yagen/yagen-agent-jar@5.5
+- pkg:maven/com.github.gekoh.yagen/yagen-agent-jar@5.5?classifier=sources

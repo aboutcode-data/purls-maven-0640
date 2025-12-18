@@ -1,0 +1,2 @@
+- pkg:maven/com.mastfrog/subscription@2.7.0
+- pkg:maven/com.mastfrog/subscription@2.7.0?classifier=sources

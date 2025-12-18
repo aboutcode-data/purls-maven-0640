@@ -2,3 +2,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-and-gradle-kit@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-and-gradle-kit@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-and-gradle-kit@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-and-gradle-kit@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-and-gradle-kit@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-and-gradle-kit@RELEASE120?classifier=sources

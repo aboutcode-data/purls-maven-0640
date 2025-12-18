@@ -28,3 +28,4 @@
 - pkg:maven/com.github.thepacific/adapter@2.2.0?type=aar
 - pkg:maven/com.github.thepacific/adapter@3.0.0?classifier=sources
 - pkg:maven/com.github.thepacific/adapter@3.0.0?type=aar
+- pkg:maven/com.github.thepacific/adapter@3.0.1?classifier=sources

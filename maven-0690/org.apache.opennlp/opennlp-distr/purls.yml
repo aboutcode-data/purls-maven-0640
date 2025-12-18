@@ -27,3 +27,5 @@
 - pkg:maven/org.apache.opennlp/opennlp-distr@1.9.1?classifier=src&type=zip
 - pkg:maven/org.apache.opennlp/opennlp-distr@1.9.2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.opennlp/opennlp-distr@1.9.2?classifier=src&type=zip
+- pkg:maven/org.apache.opennlp/opennlp-distr@1.9.3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.opennlp/opennlp-distr@1.9.3?classifier=src&type=zip

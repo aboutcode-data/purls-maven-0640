@@ -18,3 +18,5 @@
 - pkg:maven/com.cognitect.aws/kms@788.2.607.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kms@791.2.615.0
 - pkg:maven/com.cognitect.aws/kms@791.2.615.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kms@801.2.687.0
+- pkg:maven/com.cognitect.aws/kms@801.2.687.0?classifier=sources

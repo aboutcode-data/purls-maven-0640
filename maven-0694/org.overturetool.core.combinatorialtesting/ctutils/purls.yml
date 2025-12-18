@@ -60,3 +60,5 @@
 - pkg:maven/org.overturetool.core.combinatorialtesting/ctutils@2.7.2?classifier=sources
 - pkg:maven/org.overturetool.core.combinatorialtesting/ctutils@2.7.4
 - pkg:maven/org.overturetool.core.combinatorialtesting/ctutils@2.7.4?classifier=sources
+- pkg:maven/org.overturetool.core.combinatorialtesting/ctutils@3.0.0
+- pkg:maven/org.overturetool.core.combinatorialtesting/ctutils@3.0.0?classifier=sources

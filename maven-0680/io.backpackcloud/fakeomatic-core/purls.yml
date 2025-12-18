@@ -1,0 +1,4 @@
+- pkg:maven/io.backpackcloud/fakeomatic-core@0.10.0
+- pkg:maven/io.backpackcloud/fakeomatic-core@0.10.0?classifier=sources
+- pkg:maven/io.backpackcloud/fakeomatic-core@0.10.2
+- pkg:maven/io.backpackcloud/fakeomatic-core@0.10.2?classifier=sources

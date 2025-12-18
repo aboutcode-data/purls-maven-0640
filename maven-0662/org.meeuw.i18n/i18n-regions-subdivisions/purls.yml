@@ -10,3 +10,5 @@
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@0.5?classifier=sources
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@1.0.0
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@1.0.0?classifier=sources
+- pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@1.1.0
+- pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@1.1.0?classifier=sources

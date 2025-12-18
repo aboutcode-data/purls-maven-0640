@@ -1,0 +1,4 @@
+- pkg:maven/com.github.dmytromitin/auxify-shapeless_2.12@0.7
+- pkg:maven/com.github.dmytromitin/auxify-shapeless_2.12@0.7?classifier=sources
+- pkg:maven/com.github.dmytromitin/auxify-shapeless_2.12@0.8
+- pkg:maven/com.github.dmytromitin/auxify-shapeless_2.12@0.8?classifier=sources

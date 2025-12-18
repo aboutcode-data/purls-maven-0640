@@ -14,3 +14,5 @@
 - pkg:maven/org.heigit.bigspatialdata/oshdb-util@0.5.7?classifier=sources
 - pkg:maven/org.heigit.bigspatialdata/oshdb-util@0.5.8
 - pkg:maven/org.heigit.bigspatialdata/oshdb-util@0.5.8?classifier=sources
+- pkg:maven/org.heigit.bigspatialdata/oshdb-util@0.5.9
+- pkg:maven/org.heigit.bigspatialdata/oshdb-util@0.5.9?classifier=sources

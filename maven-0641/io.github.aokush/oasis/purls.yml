@@ -1,1 +1,2 @@
 - pkg:maven/io.github.aokush/oasis@1.0?classifier=sources
+- pkg:maven/io.github.aokush/oasis@1.1?classifier=sources

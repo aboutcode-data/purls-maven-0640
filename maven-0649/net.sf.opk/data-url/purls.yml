@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.opk/data-url@1.0
+- pkg:maven/net.sf.opk/data-url@1.0?classifier=sources

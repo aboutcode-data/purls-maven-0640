@@ -6,3 +6,9 @@
 - pkg:maven/com.andyln/mock-coach@2.0.0?classifier=sources
 - pkg:maven/com.andyln/mock-coach@2.0.1
 - pkg:maven/com.andyln/mock-coach@2.0.1?classifier=sources
+- pkg:maven/com.andyln/mock-coach@3.0.0
+- pkg:maven/com.andyln/mock-coach@3.0.0?classifier=sources
+- pkg:maven/com.andyln/mock-coach@3.1.0
+- pkg:maven/com.andyln/mock-coach@3.1.0?classifier=sources
+- pkg:maven/com.andyln/mock-coach@4.0.0
+- pkg:maven/com.andyln/mock-coach@4.0.0?classifier=sources

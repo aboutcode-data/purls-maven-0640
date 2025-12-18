@@ -28,3 +28,7 @@
 - pkg:maven/org.webjars.npm/rc-slider@8.6.7?classifier=sources
 - pkg:maven/org.webjars.npm/rc-slider@8.7.1
 - pkg:maven/org.webjars.npm/rc-slider@8.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/rc-slider@9.3.0
+- pkg:maven/org.webjars.npm/rc-slider@9.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-slider@9.3.1
+- pkg:maven/org.webjars.npm/rc-slider@9.3.1?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.infinispan.archetypes/store@11.0.1.Final
+- pkg:maven/org.infinispan.archetypes/store@11.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan.archetypes/store@11.0.2.Final
+- pkg:maven/org.infinispan.archetypes/store@11.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan.archetypes/store@11.0.3.Final
+- pkg:maven/org.infinispan.archetypes/store@11.0.3.Final?classifier=sources
+- pkg:maven/org.infinispan.archetypes/store@12.0.0.Dev01
+- pkg:maven/org.infinispan.archetypes/store@12.0.0.Dev01?classifier=sources
+- pkg:maven/org.infinispan.archetypes/store@12.0.0.Dev02
+- pkg:maven/org.infinispan.archetypes/store@12.0.0.Dev02?classifier=sources

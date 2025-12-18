@@ -1,0 +1,4 @@
+- pkg:maven/org.smallmind/web-json-doppelganger@3.6.0
+- pkg:maven/org.smallmind/web-json-doppelganger@3.6.0?classifier=sources
+- pkg:maven/org.smallmind/web-json-doppelganger@4.0.0
+- pkg:maven/org.smallmind/web-json-doppelganger@4.0.0?classifier=sources

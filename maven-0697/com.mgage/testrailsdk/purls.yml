@@ -1,2 +1,4 @@
 - pkg:maven/com.mgage/testrailsdk@1.3.2
 - pkg:maven/com.mgage/testrailsdk@1.3.2?classifier=sources
+- pkg:maven/com.mgage/testrailsdk@1.3.4
+- pkg:maven/com.mgage/testrailsdk@1.3.4?classifier=sources

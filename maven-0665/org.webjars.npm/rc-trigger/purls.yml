@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.npm/rc-trigger@3.0.0-rc.3?classifier=sources
 - pkg:maven/org.webjars.npm/rc-trigger@4.0.0-alpha.8
 - pkg:maven/org.webjars.npm/rc-trigger@4.0.0-alpha.8?classifier=sources
+- pkg:maven/org.webjars.npm/rc-trigger@4.3.0
+- pkg:maven/org.webjars.npm/rc-trigger@4.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-trigger@4.3.4
+- pkg:maven/org.webjars.npm/rc-trigger@4.3.4?classifier=sources

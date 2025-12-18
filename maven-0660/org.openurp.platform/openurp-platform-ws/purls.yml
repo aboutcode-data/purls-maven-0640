@@ -128,3 +128,15 @@
 - pkg:maven/org.openurp.platform/openurp-platform-ws@0.4.0?type=war
 - pkg:maven/org.openurp.platform/openurp-platform-ws@0.4.1?classifier=sources
 - pkg:maven/org.openurp.platform/openurp-platform-ws@0.4.1?type=war
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.0?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.0?type=war
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.1?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.1?type=war
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.2?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.2?type=war
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.3?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.3?type=war
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.4?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.4?type=war
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.5?classifier=sources
+- pkg:maven/org.openurp.platform/openurp-platform-ws@0.5.5?type=war

@@ -32,3 +32,5 @@
 - pkg:maven/com.github.wasiqb.coteafs/configs@2.1.4?classifier=sources
 - pkg:maven/com.github.wasiqb.coteafs/configs@2.2.0
 - pkg:maven/com.github.wasiqb.coteafs/configs@2.2.0?classifier=sources
+- pkg:maven/com.github.wasiqb.coteafs/configs@2.3.0
+- pkg:maven/com.github.wasiqb.coteafs/configs@2.3.0?classifier=sources

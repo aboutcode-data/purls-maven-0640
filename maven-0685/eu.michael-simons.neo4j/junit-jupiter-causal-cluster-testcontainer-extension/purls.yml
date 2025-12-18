@@ -1,5 +1,7 @@
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@1.0.0
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@1.0.0?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@2020.0.0
+- pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@2020.0.0?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@4.0.1.0
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@4.0.1.0?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@4.0.1.1

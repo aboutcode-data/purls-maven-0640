@@ -64,3 +64,5 @@
 - pkg:maven/com.bugsnag/bugsnag-android-ndk@4.9.3?type=aar
 - pkg:maven/com.bugsnag/bugsnag-android-ndk@5.0.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-ndk@5.0.0?type=aar
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@5.0.1?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-ndk@5.0.2?classifier=sources

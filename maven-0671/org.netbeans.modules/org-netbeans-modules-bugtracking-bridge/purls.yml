@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE90?classifier=sources

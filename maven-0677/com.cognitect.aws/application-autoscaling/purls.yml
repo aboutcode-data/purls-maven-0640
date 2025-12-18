@@ -28,3 +28,7 @@
 - pkg:maven/com.cognitect.aws/application-autoscaling@796.2.662.0?classifier=sources
 - pkg:maven/com.cognitect.aws/application-autoscaling@799.2.681.0
 - pkg:maven/com.cognitect.aws/application-autoscaling@799.2.681.0?classifier=sources
+- pkg:maven/com.cognitect.aws/application-autoscaling@806.v2.729.0
+- pkg:maven/com.cognitect.aws/application-autoscaling@806.v2.729.0?classifier=sources
+- pkg:maven/com.cognitect.aws/application-autoscaling@807.2.729.0
+- pkg:maven/com.cognitect.aws/application-autoscaling@807.2.729.0?classifier=sources

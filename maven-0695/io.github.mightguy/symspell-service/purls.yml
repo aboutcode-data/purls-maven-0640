@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mightguy/symspell-service@6.6.130
+- pkg:maven/io.github.mightguy/symspell-service@6.6.130?classifier=sources

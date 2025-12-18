@@ -10,3 +10,5 @@
 - pkg:maven/top.jfunc.report/imexporter@1.8.2.0
 - pkg:maven/top.jfunc.report/imexporter@1.8.2.0?classifier=sources
 - pkg:maven/top.jfunc.report/imexporter@1.8.2?classifier=sources
+- pkg:maven/top.jfunc.report/imexporter@1.8.3
+- pkg:maven/top.jfunc.report/imexporter@1.8.3?classifier=sources

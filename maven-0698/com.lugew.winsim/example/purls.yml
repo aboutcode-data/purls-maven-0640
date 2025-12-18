@@ -1,0 +1,2 @@
+- pkg:maven/com.lugew.winsim/example@1.0.1-RELEASE
+- pkg:maven/com.lugew.winsim/example@1.0.1-RELEASE?classifier=sources

@@ -22,5 +22,13 @@
 - pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.19?classifier=sources
 - pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.20
 - pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.20?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.21
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.21?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.22
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.22?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.23
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.23?classifier=sources
 - pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.8
 - pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@2.8?classifier=sources
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@3.0
+- pkg:maven/ru.i-novus.components/versioned-data-storage-ee-adapter@3.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/za.co.absa.hyperdrive/shared@3.2.2
+- pkg:maven/za.co.absa.hyperdrive/shared@3.2.2?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/shared@3.3.0
+- pkg:maven/za.co.absa.hyperdrive/shared@3.3.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/shared@4.0.0
+- pkg:maven/za.co.absa.hyperdrive/shared@4.0.0?classifier=sources

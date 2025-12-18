@@ -1,3 +1,5 @@
+- pkg:maven/io.syndesis.connector/connector-salesforce@1.10.0
+- pkg:maven/io.syndesis.connector/connector-salesforce@1.10.0?classifier=sources
 - pkg:maven/io.syndesis.connector/connector-salesforce@1.3.0
 - pkg:maven/io.syndesis.connector/connector-salesforce@1.3.0-20180308
 - pkg:maven/io.syndesis.connector/connector-salesforce@1.3.0-20180308?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.rbkmoney/shumaich-proto@1.36-e497baf
+- pkg:maven/com.rbkmoney/shumaich-proto@1.36-e497baf?classifier=sources
+- pkg:maven/com.rbkmoney/shumaich-proto@1.38-9f82af1
+- pkg:maven/com.rbkmoney/shumaich-proto@1.38-9f82af1?classifier=sources
+- pkg:maven/com.rbkmoney/shumaich-proto@1.40-be2c835
+- pkg:maven/com.rbkmoney/shumaich-proto@1.40-be2c835?classifier=sources

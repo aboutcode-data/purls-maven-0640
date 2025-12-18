@@ -1,0 +1,2 @@
+- pkg:maven/dk.cachet.detekt.extensions/detekt-verify-implementation@1.0.0-alpha.2?classifier=sources
+- pkg:maven/dk.cachet.detekt.extensions/detekt-verify-implementation@1.0.0?classifier=sources

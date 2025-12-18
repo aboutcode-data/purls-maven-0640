@@ -36,6 +36,8 @@
 - pkg:maven/com.softwaremill.diffx/diffx-specs2_2.13@0.3.27?classifier=sources
 - pkg:maven/com.softwaremill.diffx/diffx-specs2_2.13@0.3.28
 - pkg:maven/com.softwaremill.diffx/diffx-specs2_2.13@0.3.28?classifier=sources
+- pkg:maven/com.softwaremill.diffx/diffx-specs2_2.13@0.3.29
+- pkg:maven/com.softwaremill.diffx/diffx-specs2_2.13@0.3.29?classifier=sources
 - pkg:maven/com.softwaremill.diffx/diffx-specs2_2.13@0.3.4
 - pkg:maven/com.softwaremill.diffx/diffx-specs2_2.13@0.3.4?classifier=sources
 - pkg:maven/com.softwaremill.diffx/diffx-specs2_2.13@0.3.5

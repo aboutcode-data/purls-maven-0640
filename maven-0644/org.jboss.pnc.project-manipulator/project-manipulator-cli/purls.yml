@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pnc.project-manipulator/project-manipulator-cli@1.0.5
+- pkg:maven/org.jboss.pnc.project-manipulator/project-manipulator-cli@1.0.5?classifier=sources

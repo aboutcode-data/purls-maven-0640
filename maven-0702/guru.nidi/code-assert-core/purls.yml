@@ -1,0 +1,4 @@
+- pkg:maven/guru.nidi/code-assert-core@0.9.12
+- pkg:maven/guru.nidi/code-assert-core@0.9.12?classifier=sources
+- pkg:maven/guru.nidi/code-assert-core@0.9.13
+- pkg:maven/guru.nidi/code-assert-core@0.9.13?classifier=sources

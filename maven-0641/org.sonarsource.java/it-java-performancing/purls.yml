@@ -45,4 +45,8 @@
 - pkg:maven/org.sonarsource.java/it-java-performancing@6.1.0.20866
 - pkg:maven/org.sonarsource.java/it-java-performancing@6.2.0.21135
 - pkg:maven/org.sonarsource.java/it-java-performancing@6.3.0.21585
+- pkg:maven/org.sonarsource.java/it-java-performancing@6.3.2.22818
 - pkg:maven/org.sonarsource.java/it-java-performancing@6.4.0.21967
+- pkg:maven/org.sonarsource.java/it-java-performancing@6.5.0.22421
+- pkg:maven/org.sonarsource.java/it-java-performancing@6.5.1.22586
+- pkg:maven/org.sonarsource.java/it-java-performancing@6.6.0.22815

@@ -24,3 +24,5 @@
 - pkg:maven/net.ozwolf/dropwizard-raml-annotations@2.3.1?classifier=sources
 - pkg:maven/net.ozwolf/dropwizard-raml-annotations@3.0.0
 - pkg:maven/net.ozwolf/dropwizard-raml-annotations@3.0.0?classifier=sources
+- pkg:maven/net.ozwolf/dropwizard-raml-annotations@3.0.1
+- pkg:maven/net.ozwolf/dropwizard-raml-annotations@3.0.1?classifier=sources

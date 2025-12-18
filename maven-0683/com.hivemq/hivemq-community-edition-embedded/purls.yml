@@ -1,0 +1,4 @@
+- pkg:maven/com.hivemq/hivemq-community-edition-embedded@2020.3
+- pkg:maven/com.hivemq/hivemq-community-edition-embedded@2020.3?classifier=sources
+- pkg:maven/com.hivemq/hivemq-community-edition-embedded@2020.4
+- pkg:maven/com.hivemq/hivemq-community-edition-embedded@2020.4?classifier=sources

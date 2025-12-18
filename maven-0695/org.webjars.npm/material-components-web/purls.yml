@@ -128,3 +128,5 @@
 - pkg:maven/org.webjars.npm/material-components-web@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material-components-web@6.0.0
 - pkg:maven/org.webjars.npm/material-components-web@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material-components-web@7.0.0
+- pkg:maven/org.webjars.npm/material-components-web@7.0.0?classifier=sources

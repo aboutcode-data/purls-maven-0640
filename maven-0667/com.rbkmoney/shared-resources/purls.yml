@@ -1,0 +1,4 @@
+- pkg:maven/com.rbkmoney/shared-resources@0.3.7
+- pkg:maven/com.rbkmoney/shared-resources@0.3.7?classifier=sources
+- pkg:maven/com.rbkmoney/shared-resources@0.3.8
+- pkg:maven/com.rbkmoney/shared-resources@0.3.8?classifier=sources

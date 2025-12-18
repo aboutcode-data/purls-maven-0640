@@ -2,3 +2,5 @@
 - pkg:maven/nl.elec332.sdr.source/hackrfdriver@1.0-Alpha-j8-win?classifier=sources
 - pkg:maven/nl.elec332.sdr.source/hackrfdriver@1.0-Beta
 - pkg:maven/nl.elec332.sdr.source/hackrfdriver@1.0-Beta?classifier=sources
+- pkg:maven/nl.elec332.sdr.source/hackrfdriver@1.0.1-Beta
+- pkg:maven/nl.elec332.sdr.source/hackrfdriver@1.0.1-Beta?classifier=sources

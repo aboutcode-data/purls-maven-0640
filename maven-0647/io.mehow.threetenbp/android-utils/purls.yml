@@ -4,3 +4,4 @@
 - pkg:maven/io.mehow.threetenbp/android-utils@0.1.1?type=aar
 - pkg:maven/io.mehow.threetenbp/android-utils@0.2.0?classifier=sources
 - pkg:maven/io.mehow.threetenbp/android-utils@0.2.0?type=aar
+- pkg:maven/io.mehow.threetenbp/android-utils@0.2.1?classifier=sources

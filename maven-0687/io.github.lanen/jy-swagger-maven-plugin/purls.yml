@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lanen/jy-swagger-maven-plugin@1.0.1
+- pkg:maven/io.github.lanen/jy-swagger-maven-plugin@1.0.1?classifier=sources

@@ -22,3 +22,15 @@
 - pkg:maven/it.cnr.si/ace-client@2.3.25?classifier=sources
 - pkg:maven/it.cnr.si/ace-client@2.3.26
 - pkg:maven/it.cnr.si/ace-client@2.3.26?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@2.3.27
+- pkg:maven/it.cnr.si/ace-client@2.3.27?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@2.3.28
+- pkg:maven/it.cnr.si/ace-client@2.3.28?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@2.3.29
+- pkg:maven/it.cnr.si/ace-client@2.3.29?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@2.3.30
+- pkg:maven/it.cnr.si/ace-client@2.3.30?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@2.3.31
+- pkg:maven/it.cnr.si/ace-client@2.3.31?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@2.3.32
+- pkg:maven/it.cnr.si/ace-client@2.3.32?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.kichik.pecoff4j/pecoff4j@0.3.1
+- pkg:maven/com.kichik.pecoff4j/pecoff4j@0.3.1?classifier=sources

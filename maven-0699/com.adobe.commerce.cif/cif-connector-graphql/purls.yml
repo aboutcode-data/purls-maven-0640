@@ -22,3 +22,7 @@
 - pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@0.9.0?classifier=sources
 - pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.0.0
 - pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.0.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.1.0
+- pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.1.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.2.0
+- pkg:maven/com.adobe.commerce.cif/cif-connector-graphql@1.2.0?classifier=sources

@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.api/org-netbeans-swing-plaf@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-swing-plaf@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-swing-plaf@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-swing-plaf@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-swing-plaf@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-swing-plaf@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-swing-plaf@RELEASE90?classifier=sources

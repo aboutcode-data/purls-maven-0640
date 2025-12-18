@@ -28,3 +28,5 @@
 - pkg:maven/com.softwaremill.diffx/diffx-cats_2.13@0.3.27?classifier=sources
 - pkg:maven/com.softwaremill.diffx/diffx-cats_2.13@0.3.28
 - pkg:maven/com.softwaremill.diffx/diffx-cats_2.13@0.3.28?classifier=sources
+- pkg:maven/com.softwaremill.diffx/diffx-cats_2.13@0.3.29
+- pkg:maven/com.softwaremill.diffx/diffx-cats_2.13@0.3.29?classifier=sources

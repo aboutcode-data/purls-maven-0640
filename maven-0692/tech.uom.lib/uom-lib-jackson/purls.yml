@@ -7,4 +7,6 @@
 - pkg:maven/tech.uom.lib/uom-lib-jackson@1.2
 - pkg:maven/tech.uom.lib/uom-lib-jackson@1.2?classifier=sources
 - pkg:maven/tech.uom.lib/uom-lib-jackson@2.0
+- pkg:maven/tech.uom.lib/uom-lib-jackson@2.0.1
+- pkg:maven/tech.uom.lib/uom-lib-jackson@2.0.1?classifier=sources
 - pkg:maven/tech.uom.lib/uom-lib-jackson@2.0?classifier=sources

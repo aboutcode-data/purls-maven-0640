@@ -1,2 +1,4 @@
+- pkg:maven/com.sandinh/scala-rewrites_2.12@0.1.10-sd
+- pkg:maven/com.sandinh/scala-rewrites_2.12@0.1.10-sd?classifier=sources
 - pkg:maven/com.sandinh/scala-rewrites_2.12@1.0.0
 - pkg:maven/com.sandinh/scala-rewrites_2.12@1.0.0?classifier=sources
