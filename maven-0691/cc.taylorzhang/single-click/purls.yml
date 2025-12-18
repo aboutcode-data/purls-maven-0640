@@ -1,1 +1,2 @@
 - pkg:maven/cc.taylorzhang/single-click@1.0.0?classifier=sources
+- pkg:maven/cc.taylorzhang/single-click@1.1.0?classifier=sources

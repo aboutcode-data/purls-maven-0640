@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awsconstructs/alblambda@1.126.0
+- pkg:maven/software.amazon.awsconstructs/alblambda@1.126.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/alblambda@2.0.0-rc.2
+- pkg:maven/software.amazon.awsconstructs/alblambda@2.0.0-rc.2?classifier=sources

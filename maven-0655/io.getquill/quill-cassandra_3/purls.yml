@@ -1,0 +1,2 @@
+- pkg:maven/io.getquill/quill-cassandra_3@3.10.0.Beta1.6
+- pkg:maven/io.getquill/quill-cassandra_3@3.10.0.Beta1.6?classifier=sources

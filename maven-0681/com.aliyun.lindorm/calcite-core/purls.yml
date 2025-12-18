@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun.lindorm/calcite-core@1.26.0
+- pkg:maven/com.aliyun.lindorm/calcite-core@1.26.0?classifier=sources
+- pkg:maven/com.aliyun.lindorm/calcite-core@1.26.1
+- pkg:maven/com.aliyun.lindorm/calcite-core@1.26.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.scalameta/mtags_3.1.1-RC1@0.10.8
+- pkg:maven/org.scalameta/mtags_3.1.1-RC1@0.10.8?classifier=sources
+- pkg:maven/org.scalameta/mtags_3.1.1-RC1@0.10.9
+- pkg:maven/org.scalameta/mtags_3.1.1-RC1@0.10.9?classifier=sources

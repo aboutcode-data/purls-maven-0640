@@ -20,3 +20,5 @@
 - pkg:maven/com.j2mvc/j2mvc-framework-app@2.1.10?classifier=sources
 - pkg:maven/com.j2mvc/j2mvc-framework-app@2.1.11
 - pkg:maven/com.j2mvc/j2mvc-framework-app@2.1.11?classifier=sources
+- pkg:maven/com.j2mvc/j2mvc-framework-app@2.1.12
+- pkg:maven/com.j2mvc/j2mvc-framework-app@2.1.12?classifier=sources

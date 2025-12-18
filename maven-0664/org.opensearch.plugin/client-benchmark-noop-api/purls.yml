@@ -1,1 +1,2 @@
 - pkg:maven/org.opensearch.plugin/client-benchmark-noop-api@1.0.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/client-benchmark-noop-api@1.1.0?classifier=sources

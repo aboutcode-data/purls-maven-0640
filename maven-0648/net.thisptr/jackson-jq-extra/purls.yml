@@ -28,3 +28,7 @@
 - pkg:maven/net.thisptr/jackson-jq-extra@1.0.0-preview.20201123?classifier=sources
 - pkg:maven/net.thisptr/jackson-jq-extra@1.0.0-preview.20210610
 - pkg:maven/net.thisptr/jackson-jq-extra@1.0.0-preview.20210610?classifier=sources
+- pkg:maven/net.thisptr/jackson-jq-extra@1.0.0-preview.20210926
+- pkg:maven/net.thisptr/jackson-jq-extra@1.0.0-preview.20210926?classifier=sources
+- pkg:maven/net.thisptr/jackson-jq-extra@1.0.0-preview.20210928
+- pkg:maven/net.thisptr/jackson-jq-extra@1.0.0-preview.20210928?classifier=sources

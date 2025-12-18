@@ -1,0 +1,10 @@
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.0
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.0.1
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.0.1?classifier=sources
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.0.2
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.0.2?classifier=sources
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.0?classifier=sources
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.1
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.1?classifier=sources
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.2
+- pkg:maven/io.github.delta11/spring-socket-minimal-actuator@1.2?classifier=sources

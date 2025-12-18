@@ -2,3 +2,4 @@
 - pkg:maven/com.netflix.nebula/nebula-dependencies-comparison@0.1.6?classifier=sources
 - pkg:maven/com.netflix.nebula/nebula-dependencies-comparison@0.1.8
 - pkg:maven/com.netflix.nebula/nebula-dependencies-comparison@0.1.8?classifier=sources
+- pkg:maven/com.netflix.nebula/nebula-dependencies-comparison@0.2.1?classifier=sources

@@ -123,6 +123,8 @@
 - pkg:maven/io.javalin/javalin@3.13.10?classifier=sources
 - pkg:maven/io.javalin/javalin@3.13.11
 - pkg:maven/io.javalin/javalin@3.13.11?classifier=sources
+- pkg:maven/io.javalin/javalin@3.13.12
+- pkg:maven/io.javalin/javalin@3.13.12?classifier=sources
 - pkg:maven/io.javalin/javalin@3.13.1?classifier=sources
 - pkg:maven/io.javalin/javalin@3.13.2
 - pkg:maven/io.javalin/javalin@3.13.2?classifier=sources
@@ -180,3 +182,9 @@
 - pkg:maven/io.javalin/javalin@4.0.0.RC3
 - pkg:maven/io.javalin/javalin@4.0.0.RC3?classifier=sources
 - pkg:maven/io.javalin/javalin@4.0.0?classifier=sources
+- pkg:maven/io.javalin/javalin@4.0.1
+- pkg:maven/io.javalin/javalin@4.0.1?classifier=sources
+- pkg:maven/io.javalin/javalin@4.1.0
+- pkg:maven/io.javalin/javalin@4.1.0?classifier=sources
+- pkg:maven/io.javalin/javalin@4.1.1
+- pkg:maven/io.javalin/javalin@4.1.1?classifier=sources

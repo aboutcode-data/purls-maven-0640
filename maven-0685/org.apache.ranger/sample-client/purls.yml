@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.ranger/sample-client@2.1.0
+- pkg:maven/org.apache.ranger/sample-client@2.2.0

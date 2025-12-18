@@ -64,3 +64,5 @@
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle_2.12@2.3.0?classifier=sources
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle_2.12@21.6.0
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle_2.12@21.6.0?classifier=sources
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle_2.12@21.8.0
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle_2.12@21.8.0?classifier=sources

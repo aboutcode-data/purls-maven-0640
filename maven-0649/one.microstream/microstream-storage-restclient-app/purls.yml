@@ -4,3 +4,5 @@
 - pkg:maven/one.microstream/microstream-storage-restclient-app@05.00.01-MS-GA?classifier=sources
 - pkg:maven/one.microstream/microstream-storage-restclient-app@05.00.02-MS-GA
 - pkg:maven/one.microstream/microstream-storage-restclient-app@05.00.02-MS-GA?classifier=sources
+- pkg:maven/one.microstream/microstream-storage-restclient-app@06.00.00-MS-GA
+- pkg:maven/one.microstream/microstream-storage-restclient-app@06.00.00-MS-GA?classifier=sources

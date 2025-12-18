@@ -1,0 +1,2 @@
+- pkg:maven/gr.sergouniotis/wildfly-bootable-jaxrs-archetype@1.0.0?classifier=sources
+- pkg:maven/gr.sergouniotis/wildfly-bootable-jaxrs-archetype@1.0.1?classifier=sources

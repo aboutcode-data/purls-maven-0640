@@ -1,0 +1,2 @@
+- pkg:maven/io.altoo/akka-kryo-serialization-typed_3@2.3.0
+- pkg:maven/io.altoo/akka-kryo-serialization-typed_3@2.3.0?classifier=sources

@@ -40,4 +40,6 @@
 - pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@11.0.30
 - pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@11.0.31
 - pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@11.0.32
+- pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@11.0.36
+- pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@11.0.38
 - pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@11.0.9

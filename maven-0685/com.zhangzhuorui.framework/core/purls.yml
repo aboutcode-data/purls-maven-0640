@@ -1,0 +1,6 @@
+- pkg:maven/com.zhangzhuorui.framework/core@1.0
+- pkg:maven/com.zhangzhuorui.framework/core@1.0?classifier=sources
+- pkg:maven/com.zhangzhuorui.framework/core@1.1.RELEASE
+- pkg:maven/com.zhangzhuorui.framework/core@1.1.RELEASE?classifier=sources
+- pkg:maven/com.zhangzhuorui.framework/core@1.1.SNAPSHOTS
+- pkg:maven/com.zhangzhuorui.framework/core@1.1.SNAPSHOTS?classifier=sources

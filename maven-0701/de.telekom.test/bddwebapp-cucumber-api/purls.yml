@@ -1,0 +1,2 @@
+- pkg:maven/de.telekom.test/bddwebapp-cucumber-api@2.1
+- pkg:maven/de.telekom.test/bddwebapp-cucumber-api@2.1?classifier=sources

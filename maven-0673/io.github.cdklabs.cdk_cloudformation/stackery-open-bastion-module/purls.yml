@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/stackery-open-bastion-module@1.0.0-alpha.1
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/stackery-open-bastion-module@1.0.0-alpha.1?classifier=sources

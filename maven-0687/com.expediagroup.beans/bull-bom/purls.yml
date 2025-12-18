@@ -1,2 +1,4 @@
 - pkg:maven/com.expediagroup.beans/bull-bom@2.0.0-jdk11
+- pkg:maven/com.expediagroup.beans/bull-bom@2.0.1-jdk11
 - pkg:maven/com.expediagroup.beans/bull-bom@2.1.0
+- pkg:maven/com.expediagroup.beans/bull-bom@2.1.1

@@ -1,2 +1,6 @@
 - pkg:maven/org.beangle.security/beangle-security-cas_3@4.2.30
 - pkg:maven/org.beangle.security/beangle-security-cas_3@4.2.30?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-cas_3@4.2.31
+- pkg:maven/org.beangle.security/beangle-security-cas_3@4.2.31?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-cas_3@4.2.32
+- pkg:maven/org.beangle.security/beangle-security-cas_3@4.2.32?classifier=sources

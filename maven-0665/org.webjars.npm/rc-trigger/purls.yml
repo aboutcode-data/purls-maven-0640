@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/rc-trigger@4.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/rc-trigger@5.1.2
 - pkg:maven/org.webjars.npm/rc-trigger@5.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/rc-trigger@5.2.10
+- pkg:maven/org.webjars.npm/rc-trigger@5.2.10?classifier=sources

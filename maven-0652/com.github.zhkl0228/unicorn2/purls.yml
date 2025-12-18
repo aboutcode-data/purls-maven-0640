@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhkl0228/unicorn2@0.0.1-beta
+- pkg:maven/com.github.zhkl0228/unicorn2@0.0.1-beta?classifier=sources

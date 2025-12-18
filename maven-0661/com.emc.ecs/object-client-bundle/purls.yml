@@ -1,0 +1,2 @@
+- pkg:maven/com.emc.ecs/object-client-bundle@3.3.2
+- pkg:maven/com.emc.ecs/object-client-bundle@3.3.2?classifier=sources

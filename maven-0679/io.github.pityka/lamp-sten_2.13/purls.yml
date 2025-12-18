@@ -92,3 +92,11 @@
 - pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.59?classifier=sources
 - pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.60
 - pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.60?classifier=sources
+- pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.61
+- pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.61?classifier=sources
+- pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.62
+- pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.62?classifier=sources
+- pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.63
+- pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.63?classifier=sources
+- pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.64
+- pkg:maven/io.github.pityka/lamp-sten_2.13@0.0.64?classifier=sources

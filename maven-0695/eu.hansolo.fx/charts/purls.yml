@@ -31,3 +31,5 @@
 - pkg:maven/eu.hansolo.fx/charts@16.0.7?classifier=sources
 - pkg:maven/eu.hansolo.fx/charts@16.0.8?classifier=sources
 - pkg:maven/eu.hansolo.fx/charts@16.0.9?classifier=sources
+- pkg:maven/eu.hansolo.fx/charts@17.0.0?classifier=sources
+- pkg:maven/eu.hansolo.fx/charts@17.0.1?classifier=sources

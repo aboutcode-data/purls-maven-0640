@@ -1,0 +1,2 @@
+- pkg:maven/co.datadome.module/datadome-java-module@1.14
+- pkg:maven/co.datadome.module/datadome-java-module@1.14?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.odpi.egeria/egeria-connector-viya-4@2.11?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-connector-viya-4@3.3?classifier=sources

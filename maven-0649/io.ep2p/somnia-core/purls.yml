@@ -1,0 +1,2 @@
+- pkg:maven/io.ep2p/somnia-core@0.8.1-RELEASE
+- pkg:maven/io.ep2p/somnia-core@0.8.1-RELEASE?classifier=sources

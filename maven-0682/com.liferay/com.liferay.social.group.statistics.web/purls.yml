@@ -114,6 +114,12 @@
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.45
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.46
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.47
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.47?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.5
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@2.0.5?classifier=sources
@@ -210,6 +216,9 @@
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@3.0.33
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@3.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@3.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@3.0.34
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@3.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@3.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@3.0.4
@@ -324,6 +333,9 @@
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@4.0.37
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@4.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@4.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@4.0.38
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@4.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@4.0.38?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@4.0.4
@@ -402,6 +414,9 @@
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@5.0.27
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@5.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@5.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@5.0.28
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@5.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@5.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@5.0.3
@@ -449,3 +464,9 @@
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@6.0.7
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@6.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.group.statistics.web@6.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@6.0.8
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@6.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@6.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@6.0.9
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@6.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.group.statistics.web@6.0.9?classifier=sources-commercial

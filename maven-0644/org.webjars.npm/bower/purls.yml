@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/bower@1.7.1?classifier=sources
 - pkg:maven/org.webjars.npm/bower@1.7.9
 - pkg:maven/org.webjars.npm/bower@1.7.9?classifier=sources
+- pkg:maven/org.webjars.npm/bower@1.8.12
+- pkg:maven/org.webjars.npm/bower@1.8.12?classifier=sources

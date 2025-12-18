@@ -1,0 +1,2 @@
+- pkg:maven/net.ranides/assira.jdk11@2.7.0
+- pkg:maven/net.ranides/assira.jdk11@2.7.0?classifier=sources

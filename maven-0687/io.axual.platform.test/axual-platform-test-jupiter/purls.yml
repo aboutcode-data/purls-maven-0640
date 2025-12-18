@@ -6,6 +6,8 @@
 - pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.5.1?classifier=sources
 - pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.5.2
 - pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.5.2?classifier=sources
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.5.3
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.5.3?classifier=sources
 - pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.6.0
 - pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.6.0?classifier=sources
 - pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.6.1
@@ -14,3 +16,11 @@
 - pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.7.0?classifier=sources
 - pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.7.1
 - pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.7.1?classifier=sources
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.7.2
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.7.2?classifier=sources
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.7.3
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.7.3?classifier=sources
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.8.0
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.8.0-RC1
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.8.0-RC1?classifier=sources
+- pkg:maven/io.axual.platform.test/axual-platform-test-jupiter@5.8.0?classifier=sources

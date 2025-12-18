@@ -1,1 +1,2 @@
 - pkg:maven/dev.lcdsmao.jettheme/jettheme@1.0.0-alpha06?classifier=sources
+- pkg:maven/dev.lcdsmao.jettheme/jettheme@1.0.0?classifier=sources

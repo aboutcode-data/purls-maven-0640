@@ -29,6 +29,8 @@
 - pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.0
 - pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.0?classifier=sources
 - pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.1
+- pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.10
+- pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.10?classifier=sources
 - pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.1?classifier=sources
 - pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.2
 - pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.2?classifier=sources
@@ -40,3 +42,9 @@
 - pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.5?classifier=sources
 - pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.6
 - pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.6?classifier=sources
+- pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.7
+- pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.7?classifier=sources
+- pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.8
+- pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.8?classifier=sources
+- pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.9
+- pkg:maven/com.capitalone.dashboard/github-graphql-scm-collector@3.3.9?classifier=sources

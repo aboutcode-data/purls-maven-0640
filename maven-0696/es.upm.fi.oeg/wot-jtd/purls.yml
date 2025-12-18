@@ -8,3 +8,5 @@
 - pkg:maven/es.upm.fi.oeg/wot-jtd@0.2.2?classifier=sources
 - pkg:maven/es.upm.fi.oeg/wot-jtd@0.2.7
 - pkg:maven/es.upm.fi.oeg/wot-jtd@0.2.7?classifier=sources
+- pkg:maven/es.upm.fi.oeg/wot-jtd@0.2.8
+- pkg:maven/es.upm.fi.oeg/wot-jtd@0.2.8?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/dev.holt/java-time-literals_3@1.0.0
 - pkg:maven/dev.holt/java-time-literals_3@1.0.0?classifier=sources
+- pkg:maven/dev.holt/java-time-literals_3@1.1.0
+- pkg:maven/dev.holt/java-time-literals_3@1.1.0?classifier=sources

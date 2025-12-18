@@ -183,6 +183,8 @@
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.auth.valve@1.4.45?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.auth.valve@1.4.46
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.auth.valve@1.4.46?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.auth.valve@1.4.47
+- pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.auth.valve@1.4.47?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.auth.valve@1.4.4?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.auth.valve@1.4.5
 - pkg:maven/org.wso2.carbon.identity.auth.rest/org.wso2.carbon.identity.auth.valve@1.4.5?classifier=sources

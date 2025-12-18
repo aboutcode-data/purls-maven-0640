@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/canvas2pdf@1.0.7
+- pkg:maven/org.webjars.npm/canvas2pdf@1.0.7?classifier=sources

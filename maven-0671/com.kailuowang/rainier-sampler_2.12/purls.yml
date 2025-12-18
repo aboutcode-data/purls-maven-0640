@@ -1,2 +1,4 @@
 - pkg:maven/com.kailuowang/rainier-sampler_2.12@0.3.3-Kai
 - pkg:maven/com.kailuowang/rainier-sampler_2.12@0.3.3-Kai?classifier=sources
+- pkg:maven/com.kailuowang/rainier-sampler_2.12@0.3.4-Kai
+- pkg:maven/com.kailuowang/rainier-sampler_2.12@0.3.4-Kai?classifier=sources

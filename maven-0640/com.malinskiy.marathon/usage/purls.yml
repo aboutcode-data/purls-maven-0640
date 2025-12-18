@@ -12,3 +12,4 @@
 - pkg:maven/com.malinskiy.marathon/usage@0.6.2?classifier=sources
 - pkg:maven/com.malinskiy.marathon/usage@0.6.3?classifier=sources
 - pkg:maven/com.malinskiy.marathon/usage@0.6.4?classifier=sources
+- pkg:maven/com.malinskiy.marathon/usage@0.6.5?classifier=sources

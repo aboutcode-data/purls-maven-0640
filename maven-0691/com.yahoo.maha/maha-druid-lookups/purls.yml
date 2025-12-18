@@ -40,3 +40,5 @@
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.72?type=zip
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.73?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.73?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.75?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.75?type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.digidoc4j.dss/dss-jades@5.8.d4j.1
+- pkg:maven/org.digidoc4j.dss/dss-jades@5.8.d4j.1?classifier=sources

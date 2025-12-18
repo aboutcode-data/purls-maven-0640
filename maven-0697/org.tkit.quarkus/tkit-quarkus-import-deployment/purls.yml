@@ -1,2 +1,6 @@
 - pkg:maven/org.tkit.quarkus/tkit-quarkus-import-deployment@1.0.0
 - pkg:maven/org.tkit.quarkus/tkit-quarkus-import-deployment@1.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-import-deployment@1.1.0
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-import-deployment@1.1.0?classifier=sources
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-import-deployment@1.2.0
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-import-deployment@1.2.0?classifier=sources

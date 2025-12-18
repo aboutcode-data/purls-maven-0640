@@ -98,3 +98,5 @@
 - pkg:maven/org.kie/business-central-webapp-common@7.58.0.Final?type=war
 - pkg:maven/org.kie/business-central-webapp-common@7.59.0.Final?classifier=sources
 - pkg:maven/org.kie/business-central-webapp-common@7.59.0.Final?type=war
+- pkg:maven/org.kie/business-central-webapp-common@7.60.0.Final?classifier=sources
+- pkg:maven/org.kie/business-central-webapp-common@7.60.0.Final?type=war

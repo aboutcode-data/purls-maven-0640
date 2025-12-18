@@ -1,0 +1,8 @@
+- pkg:maven/org.yakworks/commons@7.0.8-v.34
+- pkg:maven/org.yakworks/commons@7.0.8-v.34?classifier=sources
+- pkg:maven/org.yakworks/commons@7.0.8-v.35
+- pkg:maven/org.yakworks/commons@7.0.8-v.35?classifier=sources
+- pkg:maven/org.yakworks/commons@7.0.8-v.36
+- pkg:maven/org.yakworks/commons@7.0.8-v.36?classifier=sources
+- pkg:maven/org.yakworks/commons@7.0.8-v.37
+- pkg:maven/org.yakworks/commons@7.0.8-v.37?classifier=sources

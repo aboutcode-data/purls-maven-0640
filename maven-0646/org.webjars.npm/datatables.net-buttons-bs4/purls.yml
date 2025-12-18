@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/datatables.net-buttons-bs4@1.7.1
+- pkg:maven/org.webjars.npm/datatables.net-buttons-bs4@1.7.1?classifier=sources

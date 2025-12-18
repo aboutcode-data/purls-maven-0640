@@ -1,0 +1,2 @@
+- pkg:maven/com.eidu/content-app-library@1.0.34?classifier=sources
+- pkg:maven/com.eidu/content-app-library@1.1.0?classifier=sources

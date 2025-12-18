@@ -10,3 +10,5 @@
 - pkg:maven/com.yahoo.bullet/bullet-pulsar@1.0.6?classifier=sources
 - pkg:maven/com.yahoo.bullet/bullet-pulsar@1.1.0
 - pkg:maven/com.yahoo.bullet/bullet-pulsar@1.1.0?classifier=sources
+- pkg:maven/com.yahoo.bullet/bullet-pulsar@1.1.1
+- pkg:maven/com.yahoo.bullet/bullet-pulsar@1.1.1?classifier=sources

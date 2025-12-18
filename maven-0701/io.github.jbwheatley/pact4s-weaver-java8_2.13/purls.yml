@@ -14,3 +14,5 @@
 - pkg:maven/io.github.jbwheatley/pact4s-weaver-java8_2.13@0.0.17?classifier=sources
 - pkg:maven/io.github.jbwheatley/pact4s-weaver-java8_2.13@0.0.18
 - pkg:maven/io.github.jbwheatley/pact4s-weaver-java8_2.13@0.0.18?classifier=sources
+- pkg:maven/io.github.jbwheatley/pact4s-weaver-java8_2.13@0.0.19
+- pkg:maven/io.github.jbwheatley/pact4s-weaver-java8_2.13@0.0.19?classifier=sources

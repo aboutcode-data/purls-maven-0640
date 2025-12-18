@@ -58,3 +58,7 @@
 - pkg:maven/com.credibledoc/iso-8583-packer@1.0.39?classifier=sources
 - pkg:maven/com.credibledoc/iso-8583-packer@1.0.40
 - pkg:maven/com.credibledoc/iso-8583-packer@1.0.40?classifier=sources
+- pkg:maven/com.credibledoc/iso-8583-packer@1.0.41
+- pkg:maven/com.credibledoc/iso-8583-packer@1.0.41?classifier=sources
+- pkg:maven/com.credibledoc/iso-8583-packer@1.0.42
+- pkg:maven/com.credibledoc/iso-8583-packer@1.0.42?classifier=sources

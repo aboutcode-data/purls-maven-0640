@@ -18,6 +18,10 @@
 - pkg:maven/com.immomo.wink/plugin@0.3.22?classifier=sources
 - pkg:maven/com.immomo.wink/plugin@0.3.23
 - pkg:maven/com.immomo.wink/plugin@0.3.23?classifier=sources
+- pkg:maven/com.immomo.wink/plugin@0.3.27
+- pkg:maven/com.immomo.wink/plugin@0.3.27?classifier=sources
+- pkg:maven/com.immomo.wink/plugin@0.3.30
+- pkg:maven/com.immomo.wink/plugin@0.3.30?classifier=sources
 - pkg:maven/com.immomo.wink/plugin@0.3.4
 - pkg:maven/com.immomo.wink/plugin@0.3.4?classifier=sources
 - pkg:maven/com.immomo.wink/plugin@0.3.6

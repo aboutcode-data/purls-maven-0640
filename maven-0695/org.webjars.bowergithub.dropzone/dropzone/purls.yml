@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.dropzone/dropzone@5.9.3
+- pkg:maven/org.webjars.bowergithub.dropzone/dropzone@5.9.3?classifier=sources

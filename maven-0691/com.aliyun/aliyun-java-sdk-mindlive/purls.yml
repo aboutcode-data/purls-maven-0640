@@ -1,3 +1,5 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-mindlive@0.0.16
+- pkg:maven/com.aliyun/aliyun-java-sdk-mindlive@0.0.16?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-mindlive@0.0.3-security
 - pkg:maven/com.aliyun/aliyun-java-sdk-mindlive@0.0.3-security?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-mindlive@0.0.5

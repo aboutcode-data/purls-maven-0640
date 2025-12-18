@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/iot-actions@1.130.0
+- pkg:maven/software.amazon.awscdk/iot-actions@1.130.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iot-actions@1.131.0
+- pkg:maven/software.amazon.awscdk/iot-actions@1.131.0?classifier=sources

@@ -47,6 +47,8 @@
 - pkg:maven/org.mini2Dx/miniscript-groovy@1.8.0
 - pkg:maven/org.mini2Dx/miniscript-groovy@1.8.0?classifier=sources
 - pkg:maven/org.mini2Dx/miniscript-groovy@1.8.1
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.8.10
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.8.10?classifier=sources
 - pkg:maven/org.mini2Dx/miniscript-groovy@1.8.1?classifier=sources
 - pkg:maven/org.mini2Dx/miniscript-groovy@1.8.2
 - pkg:maven/org.mini2Dx/miniscript-groovy@1.8.2?classifier=sources
@@ -62,3 +64,5 @@
 - pkg:maven/org.mini2Dx/miniscript-groovy@1.8.7?classifier=sources
 - pkg:maven/org.mini2Dx/miniscript-groovy@1.8.8
 - pkg:maven/org.mini2Dx/miniscript-groovy@1.8.8?classifier=sources
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.8.9
+- pkg:maven/org.mini2Dx/miniscript-groovy@1.8.9?classifier=sources

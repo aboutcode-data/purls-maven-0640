@@ -1,0 +1,4 @@
+- pkg:maven/com.tencent.edu/TRealTimePitchSDK@1.0.1.79?classifier=sources
+- pkg:maven/com.tencent.edu/TRealTimePitchSDK@1.0.1.79?type=aar
+- pkg:maven/com.tencent.edu/TRealTimePitchSDK@1.0.1.80?classifier=sources
+- pkg:maven/com.tencent.edu/TRealTimePitchSDK@1.0.1.80?type=aar

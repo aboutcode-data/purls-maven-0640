@@ -10,3 +10,9 @@
 - pkg:maven/fr.inrae.toulouse.metexplore/met4j-io@0.5.3?classifier=sources
 - pkg:maven/fr.inrae.toulouse.metexplore/met4j-io@0.5.4
 - pkg:maven/fr.inrae.toulouse.metexplore/met4j-io@0.5.4?classifier=sources
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-io@0.7.3
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-io@0.7.3?classifier=sources
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-io@0.7.4
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-io@0.7.4?classifier=sources
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-io@0.7.5
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-io@0.7.5?classifier=sources

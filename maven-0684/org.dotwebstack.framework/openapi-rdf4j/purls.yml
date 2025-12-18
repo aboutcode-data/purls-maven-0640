@@ -31,7 +31,15 @@
 - pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.4
 - pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.40
 - pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.41
+- pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.42
+- pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.43
+- pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.44
+- pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.45
+- pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.46
+- pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.47
+- pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.48
 - pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.5
+- pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.50
 - pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.6
 - pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.7
 - pkg:maven/org.dotwebstack.framework/openapi-rdf4j@0.3.8

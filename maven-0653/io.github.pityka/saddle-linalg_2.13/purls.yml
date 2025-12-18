@@ -8,3 +8,5 @@
 - pkg:maven/io.github.pityka/saddle-linalg_2.13@2.2.7?classifier=sources
 - pkg:maven/io.github.pityka/saddle-linalg_2.13@2.2.8
 - pkg:maven/io.github.pityka/saddle-linalg_2.13@2.2.8?classifier=sources
+- pkg:maven/io.github.pityka/saddle-linalg_2.13@3.0.0
+- pkg:maven/io.github.pityka/saddle-linalg_2.13@3.0.0?classifier=sources

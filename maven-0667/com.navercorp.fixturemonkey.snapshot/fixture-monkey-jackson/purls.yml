@@ -1,0 +1,11 @@
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.3.0-0549134?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.3.0-1243120?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.3.0-29cd457?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.3.0-d6571f6?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.3.0-fa8a64f?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.3.1-ae09333?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.3.1?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.3.2-78ba32a?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.3.2-8bb9dc4?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.4.0-1571e91?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey.snapshot/fixture-monkey-jackson@0.4.0-jqwik?classifier=sources

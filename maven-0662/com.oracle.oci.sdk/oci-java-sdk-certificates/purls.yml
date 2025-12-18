@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificates@2.8.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-certificates@2.8.0?classifier=sources

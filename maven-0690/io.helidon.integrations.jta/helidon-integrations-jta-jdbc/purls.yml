@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.integrations.jta/helidon-integrations-jta-jdbc@2.4.0
+- pkg:maven/io.helidon.integrations.jta/helidon-integrations-jta-jdbc@2.4.0?classifier=sources

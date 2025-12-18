@@ -38,6 +38,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@1.0.20
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@1.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@1.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@1.0.21
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@1.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@1.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@1.0.3
@@ -116,6 +119,15 @@
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.26
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.27
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.28
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.29
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@2.0.3
@@ -185,6 +197,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@3.0.23
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@3.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@3.0.24
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@3.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@3.0.3
@@ -232,3 +247,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@4.0.7
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@4.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@4.0.8
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@4.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@4.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@4.0.9
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@4.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.tags.selector.web@4.0.9?classifier=sources-commercial

@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/redisx-solon-plugin@1.5.43
+- pkg:maven/org.noear/redisx-solon-plugin@1.5.43?classifier=sources

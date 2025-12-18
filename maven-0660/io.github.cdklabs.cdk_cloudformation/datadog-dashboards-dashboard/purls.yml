@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/datadog-dashboards-dashboard@2.0.2-alpha.1
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/datadog-dashboards-dashboard@2.0.2-alpha.1?classifier=sources

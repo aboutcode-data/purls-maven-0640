@@ -76,3 +76,7 @@
 - pkg:maven/com.nordstrom.tools/testng-foundation@3.0.5-j7?classifier=sources
 - pkg:maven/com.nordstrom.tools/testng-foundation@3.0.5-j8
 - pkg:maven/com.nordstrom.tools/testng-foundation@3.0.5-j8?classifier=sources
+- pkg:maven/com.nordstrom.tools/testng-foundation@3.0.6-j7
+- pkg:maven/com.nordstrom.tools/testng-foundation@3.0.6-j7?classifier=sources
+- pkg:maven/com.nordstrom.tools/testng-foundation@3.0.6-j8
+- pkg:maven/com.nordstrom.tools/testng-foundation@3.0.6-j8?classifier=sources

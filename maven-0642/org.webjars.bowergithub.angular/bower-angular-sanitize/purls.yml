@@ -26,3 +26,7 @@
 - pkg:maven/org.webjars.bowergithub.angular/bower-angular-sanitize@1.7.7?classifier=sources
 - pkg:maven/org.webjars.bowergithub.angular/bower-angular-sanitize@1.7.8
 - pkg:maven/org.webjars.bowergithub.angular/bower-angular-sanitize@1.7.8?classifier=sources
+- pkg:maven/org.webjars.bowergithub.angular/bower-angular-sanitize@1.7.9
+- pkg:maven/org.webjars.bowergithub.angular/bower-angular-sanitize@1.7.9?classifier=sources
+- pkg:maven/org.webjars.bowergithub.angular/bower-angular-sanitize@1.8.2
+- pkg:maven/org.webjars.bowergithub.angular/bower-angular-sanitize@1.8.2?classifier=sources

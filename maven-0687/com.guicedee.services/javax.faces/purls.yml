@@ -876,5 +876,9 @@
 - pkg:maven/com.guicedee.services/javax.faces@1.2.0.1-jre15?classifier=sources
 - pkg:maven/com.guicedee.services/javax.faces@1.2.0.1-jre16
 - pkg:maven/com.guicedee.services/javax.faces@1.2.0.1-jre16?classifier=sources
+- pkg:maven/com.guicedee.services/javax.faces@1.2.0.2-jre16
+- pkg:maven/com.guicedee.services/javax.faces@1.2.0.2-jre16?classifier=sources
+- pkg:maven/com.guicedee.services/javax.faces@1.2.0.3-jre17-rc1
+- pkg:maven/com.guicedee.services/javax.faces@1.2.0.3-jre17-rc1?classifier=sources
 - pkg:maven/com.guicedee.services/javax.faces@62
 - pkg:maven/com.guicedee.services/javax.faces@62?classifier=sources

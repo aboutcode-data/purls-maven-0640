@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.fractal.juliac.adlet/juliac-adlet-tests-conf-mergectrl-tests@2.8
+- pkg:maven/org.ow2.fractal.juliac.adlet/juliac-adlet-tests-conf-mergectrl-tests@2.8?classifier=sources

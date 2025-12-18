@@ -58,6 +58,10 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@12.1.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@12.1.7.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@12.1.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.CR1
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.CR1?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.CR2
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.CR2?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.Dev02
@@ -66,6 +70,10 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.Dev03?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.Dev04
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.Dev04?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.0.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.1.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@13.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@2.0.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@2.0.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-embedded@2.0.0.Beta1

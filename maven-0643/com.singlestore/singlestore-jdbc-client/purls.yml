@@ -1,0 +1,2 @@
+- pkg:maven/com.singlestore/singlestore-jdbc-client@0.1.0-preview
+- pkg:maven/com.singlestore/singlestore-jdbc-client@0.1.0-preview?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.zhouzifei/mediaTool@1.0.1.RELEASES
+- pkg:maven/com.zhouzifei/mediaTool@1.0.1.RELEASES?classifier=sources
+- pkg:maven/com.zhouzifei/mediaTool@1.0.11.RELEASES
+- pkg:maven/com.zhouzifei/mediaTool@1.0.11.RELEASES?classifier=sources

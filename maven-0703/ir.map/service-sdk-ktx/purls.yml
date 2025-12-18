@@ -1,1 +1,2 @@
 - pkg:maven/ir.map/service-sdk-ktx@4.5.1?classifier=sources
+- pkg:maven/ir.map/service-sdk-ktx@4.5.2?classifier=sources

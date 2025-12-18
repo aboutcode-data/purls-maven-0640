@@ -1,2 +1,4 @@
 - pkg:maven/com.github.vhall.android.base/vhall-live-native-so@1.0.0?classifier=sources
 - pkg:maven/com.github.vhall.android.base/vhall-live-native-so@1.0.0?type=aar
+- pkg:maven/com.github.vhall.android.base/vhall-live-native-so@1.1.0?classifier=sources
+- pkg:maven/com.github.vhall.android.base/vhall-live-native-so@1.1.0?type=aar

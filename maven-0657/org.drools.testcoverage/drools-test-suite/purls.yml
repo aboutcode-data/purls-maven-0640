@@ -99,6 +99,7 @@
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.59.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.6.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.6.0.t022
+- pkg:maven/org.drools.testcoverage/drools-test-suite@7.60.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.7.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.8.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.9.0.Final

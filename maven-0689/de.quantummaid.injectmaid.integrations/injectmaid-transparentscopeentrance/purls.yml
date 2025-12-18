@@ -39,6 +39,8 @@
 - pkg:maven/de.quantummaid.injectmaid.integrations/injectmaid-transparentscopeentrance@0.1.17?classifier=sources
 - pkg:maven/de.quantummaid.injectmaid.integrations/injectmaid-transparentscopeentrance@0.1.18
 - pkg:maven/de.quantummaid.injectmaid.integrations/injectmaid-transparentscopeentrance@0.1.18?classifier=sources
+- pkg:maven/de.quantummaid.injectmaid.integrations/injectmaid-transparentscopeentrance@0.1.19
+- pkg:maven/de.quantummaid.injectmaid.integrations/injectmaid-transparentscopeentrance@0.1.19?classifier=sources
 - pkg:maven/de.quantummaid.injectmaid.integrations/injectmaid-transparentscopeentrance@0.1.1?classifier=sources
 - pkg:maven/de.quantummaid.injectmaid.integrations/injectmaid-transparentscopeentrance@0.1.2
 - pkg:maven/de.quantummaid.injectmaid.integrations/injectmaid-transparentscopeentrance@0.1.2?classifier=sources

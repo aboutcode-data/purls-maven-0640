@@ -1,6 +1,7 @@
 - pkg:maven/com.ibm.cloud/appconfiguration-android-sdk@0.0.1?classifier=sources
 - pkg:maven/com.ibm.cloud/appconfiguration-android-sdk@0.1.0?classifier=sources
 - pkg:maven/com.ibm.cloud/appconfiguration-android-sdk@0.1.1?classifier=sources
+- pkg:maven/com.ibm.cloud/appconfiguration-android-sdk@0.2.0?classifier=sources
 - pkg:maven/com.ibm.cloud/appconfiguration-android-sdk@1.2.0?classifier=sources
 - pkg:maven/com.ibm.cloud/appconfiguration-android-sdk@1.2.1?classifier=sources
 - pkg:maven/com.ibm.cloud/appconfiguration-android-sdk@2.0.0?classifier=sources

@@ -359,6 +359,16 @@
 - pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.47?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.4?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.5
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.55
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.55?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.56
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.56?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.57
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.57?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.58
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.58?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.59
+- pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.59?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.5?classifier=sources
 - pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.6
 - pkg:maven/it.cnr.si.sigla/sigla-backend@6.3.6?classifier=sources

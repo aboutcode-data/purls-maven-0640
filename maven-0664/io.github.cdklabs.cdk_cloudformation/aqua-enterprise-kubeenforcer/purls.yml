@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/aqua-enterprise-kubeenforcer@1.1.0-alpha.1
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/aqua-enterprise-kubeenforcer@1.1.0-alpha.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/nl.vv32.rcon/rcon@1.0.1?classifier=sources
 - pkg:maven/nl.vv32.rcon/rcon@1.0.2?classifier=sources
 - pkg:maven/nl.vv32.rcon/rcon@1.0.3?classifier=sources
+- pkg:maven/nl.vv32.rcon/rcon@1.1.0?classifier=sources

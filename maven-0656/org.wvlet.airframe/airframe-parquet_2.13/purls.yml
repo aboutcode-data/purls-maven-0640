@@ -1,3 +1,5 @@
+- pkg:maven/org.wvlet.airframe/airframe-parquet_2.13@21.10.0
+- pkg:maven/org.wvlet.airframe/airframe-parquet_2.13@21.10.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-parquet_2.13@21.5.0
 - pkg:maven/org.wvlet.airframe/airframe-parquet_2.13@21.5.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-parquet_2.13@21.5.1

@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter/finagle-postgresql_2.13@21.10.0
+- pkg:maven/com.twitter/finagle-postgresql_2.13@21.10.0?classifier=sources
+- pkg:maven/com.twitter/finagle-postgresql_2.13@21.9.0
+- pkg:maven/com.twitter/finagle-postgresql_2.13@21.9.0?classifier=sources

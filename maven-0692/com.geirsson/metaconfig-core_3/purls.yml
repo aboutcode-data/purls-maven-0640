@@ -1,0 +1,2 @@
+- pkg:maven/com.geirsson/metaconfig-core_3@0.9.15
+- pkg:maven/com.geirsson/metaconfig-core_3@0.9.15?classifier=sources

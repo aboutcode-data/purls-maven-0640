@@ -12,3 +12,5 @@
 - pkg:maven/com.datadoghq/sketches-java@0.6.1?classifier=sources
 - pkg:maven/com.datadoghq/sketches-java@0.7.0
 - pkg:maven/com.datadoghq/sketches-java@0.7.0?classifier=sources
+- pkg:maven/com.datadoghq/sketches-java@0.8.0?classifier=sources
+- pkg:maven/com.datadoghq/sketches-java@0.8.1?classifier=sources

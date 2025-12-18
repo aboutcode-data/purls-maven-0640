@@ -8,6 +8,8 @@
 - pkg:maven/org.komapper/komapper-codegen@0.15.2?classifier=sources
 - pkg:maven/org.komapper/komapper-codegen@0.16.0?classifier=sources
 - pkg:maven/org.komapper/komapper-codegen@0.17.0?classifier=sources
+- pkg:maven/org.komapper/komapper-codegen@0.18.0?classifier=sources
+- pkg:maven/org.komapper/komapper-codegen@0.19.0?classifier=sources
 - pkg:maven/org.komapper/komapper-codegen@0.6.1?classifier=sources
 - pkg:maven/org.komapper/komapper-codegen@0.7.0?classifier=sources
 - pkg:maven/org.komapper/komapper-codegen@0.8.0?classifier=sources

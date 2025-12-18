@@ -2,3 +2,5 @@
 - pkg:maven/com.github.bogdanovmn.httpclient.core/http-client-core@3.0.3?classifier=sources
 - pkg:maven/com.github.bogdanovmn.httpclient.core/http-client-core@3.0.4
 - pkg:maven/com.github.bogdanovmn.httpclient.core/http-client-core@3.0.4?classifier=sources
+- pkg:maven/com.github.bogdanovmn.httpclient.core/http-client-core@3.1.0
+- pkg:maven/com.github.bogdanovmn.httpclient.core/http-client-core@3.1.0?classifier=sources

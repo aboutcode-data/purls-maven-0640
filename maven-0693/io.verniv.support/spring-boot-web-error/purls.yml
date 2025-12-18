@@ -1,0 +1,2 @@
+- pkg:maven/io.verniv.support/spring-boot-web-error@1.0.0?classifier=sources
+- pkg:maven/io.verniv.support/spring-boot-web-error@1.0.1?classifier=sources

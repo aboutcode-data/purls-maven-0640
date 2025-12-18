@@ -40,3 +40,9 @@
 - pkg:maven/com.google.dagger/hilt-android-compiler@2.38.1
 - pkg:maven/com.google.dagger/hilt-android-compiler@2.38.1?classifier=sources
 - pkg:maven/com.google.dagger/hilt-android-compiler@2.38?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.39
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.39.1
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.39.1?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.39?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.40
+- pkg:maven/com.google.dagger/hilt-android-compiler@2.40?classifier=sources

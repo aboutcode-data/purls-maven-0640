@@ -6,3 +6,5 @@
 - pkg:maven/com.azure.spring/azure-spring-cloud-appconfiguration-config-web@2.0.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-appconfiguration-config-web@2.1.0
 - pkg:maven/com.azure.spring/azure-spring-cloud-appconfiguration-config-web@2.1.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-cloud-appconfiguration-config-web@2.1.1
+- pkg:maven/com.azure.spring/azure-spring-cloud-appconfiguration-config-web@2.1.1?classifier=sources

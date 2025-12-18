@@ -90,6 +90,8 @@
 - pkg:maven/org.webjars.npm/material__switch@11.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__switch@12.0.0
 - pkg:maven/org.webjars.npm/material__switch@12.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__switch@13.0.0
+- pkg:maven/org.webjars.npm/material__switch@13.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__switch@2.0.0
 - pkg:maven/org.webjars.npm/material__switch@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__switch@4.0.0

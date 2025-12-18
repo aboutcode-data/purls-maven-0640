@@ -2,3 +2,5 @@
 - pkg:maven/com.olekdia/android-common@3.5.12?classifier=sources
 - pkg:maven/com.olekdia/android-common@3.5.13?classifier=sources
 - pkg:maven/com.olekdia/android-common@3.5.14?classifier=sources
+- pkg:maven/com.olekdia/android-common@3.6.0?classifier=sources
+- pkg:maven/com.olekdia/android-common@3.7.0?classifier=sources

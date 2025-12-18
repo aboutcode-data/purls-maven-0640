@@ -1,0 +1,2 @@
+- pkg:maven/io.github.datenmuehle/german-holiday@1.0
+- pkg:maven/io.github.datenmuehle/german-holiday@1.0?classifier=sources

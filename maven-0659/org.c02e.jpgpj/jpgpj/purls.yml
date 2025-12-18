@@ -30,3 +30,5 @@
 - pkg:maven/org.c02e.jpgpj/jpgpj@1.0?classifier=sources
 - pkg:maven/org.c02e.jpgpj/jpgpj@1.1
 - pkg:maven/org.c02e.jpgpj/jpgpj@1.1?classifier=sources
+- pkg:maven/org.c02e.jpgpj/jpgpj@1.2
+- pkg:maven/org.c02e.jpgpj/jpgpj@1.2?classifier=sources

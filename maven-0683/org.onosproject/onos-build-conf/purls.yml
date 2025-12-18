@@ -215,6 +215,9 @@
 - pkg:maven/org.onosproject/onos-build-conf@2.5.2
 - pkg:maven/org.onosproject/onos-build-conf@2.5.2-b1
 - pkg:maven/org.onosproject/onos-build-conf@2.5.2-b2
+- pkg:maven/org.onosproject/onos-build-conf@2.5.3
+- pkg:maven/org.onosproject/onos-build-conf@2.5.4
+- pkg:maven/org.onosproject/onos-build-conf@2.5.5-rc1
 - pkg:maven/org.onosproject/onos-build-conf@2.6.0
 - pkg:maven/org.onosproject/onos-build-conf@2.6.0-rc3
 - pkg:maven/org.onosproject/onos-build-conf@2.6.0-rc4

@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-csv-generator-deployment@2.0.0
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-csv-generator-deployment@2.0.0.CR2
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-csv-generator-deployment@2.0.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-csv-generator-deployment@2.0.0?classifier=sources

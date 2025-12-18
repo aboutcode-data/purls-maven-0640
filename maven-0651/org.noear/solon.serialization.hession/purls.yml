@@ -335,6 +335,10 @@
 - pkg:maven/org.noear/solon.serialization.hession@1.5.30?classifier=sources
 - pkg:maven/org.noear/solon.serialization.hession@1.5.31
 - pkg:maven/org.noear/solon.serialization.hession@1.5.31?classifier=sources
+- pkg:maven/org.noear/solon.serialization.hession@1.5.32
+- pkg:maven/org.noear/solon.serialization.hession@1.5.32?classifier=sources
+- pkg:maven/org.noear/solon.serialization.hession@1.5.33
+- pkg:maven/org.noear/solon.serialization.hession@1.5.33?classifier=sources
 - pkg:maven/org.noear/solon.serialization.hession@1.5.3?classifier=sources
 - pkg:maven/org.noear/solon.serialization.hession@1.5.4
 - pkg:maven/org.noear/solon.serialization.hession@1.5.4?classifier=sources
