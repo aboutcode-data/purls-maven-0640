@@ -22,3 +22,5 @@
 - pkg:maven/com.salesforce.servicelibs/rxgrpc@0.9.0?classifier=sources
 - pkg:maven/com.salesforce.servicelibs/rxgrpc@1.0.0
 - pkg:maven/com.salesforce.servicelibs/rxgrpc@1.0.0?classifier=sources
+- pkg:maven/com.salesforce.servicelibs/rxgrpc@1.0.1
+- pkg:maven/com.salesforce.servicelibs/rxgrpc@1.0.1?classifier=sources

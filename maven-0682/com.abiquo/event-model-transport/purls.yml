@@ -60,3 +60,5 @@
 - pkg:maven/com.abiquo/event-model-transport@4.6.4?classifier=sources
 - pkg:maven/com.abiquo/event-model-transport@4.6.6
 - pkg:maven/com.abiquo/event-model-transport@4.6.6?classifier=sources
+- pkg:maven/com.abiquo/event-model-transport@4.6.7
+- pkg:maven/com.abiquo/event-model-transport@4.6.7?classifier=sources

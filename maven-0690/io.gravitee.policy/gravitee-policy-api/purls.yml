@@ -24,3 +24,7 @@
 - pkg:maven/io.gravitee.policy/gravitee-policy-api@1.5.0?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-api@1.6.0
 - pkg:maven/io.gravitee.policy/gravitee-policy-api@1.6.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-api@1.7.0
+- pkg:maven/io.gravitee.policy/gravitee-policy-api@1.7.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-api@1.8.0
+- pkg:maven/io.gravitee.policy/gravitee-policy-api@1.8.0?classifier=sources

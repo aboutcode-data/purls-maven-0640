@@ -1,0 +1,4 @@
+- pkg:maven/com.adobe.aem/aem-sdk-api@2020.5.3360.20200519T125155Z-200507
+- pkg:maven/com.adobe.aem/aem-sdk-api@2020.5.3360.20200519T125155Z-200507?classifier=sources
+- pkg:maven/com.adobe.aem/aem-sdk-api@2020.5.3375.20200520T082948Z-200507
+- pkg:maven/com.adobe.aem/aem-sdk-api@2020.5.3375.20200520T082948Z-200507?classifier=sources

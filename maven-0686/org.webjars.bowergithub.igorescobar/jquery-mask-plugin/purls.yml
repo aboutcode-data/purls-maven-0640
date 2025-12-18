@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.bowergithub.igorescobar/jquery-mask-plugin@1.14.1
+- pkg:maven/org.webjars.bowergithub.igorescobar/jquery-mask-plugin@1.14.13
+- pkg:maven/org.webjars.bowergithub.igorescobar/jquery-mask-plugin@1.14.13?classifier=sources
 - pkg:maven/org.webjars.bowergithub.igorescobar/jquery-mask-plugin@1.14.14
 - pkg:maven/org.webjars.bowergithub.igorescobar/jquery-mask-plugin@1.14.14?classifier=sources
 - pkg:maven/org.webjars.bowergithub.igorescobar/jquery-mask-plugin@1.14.15

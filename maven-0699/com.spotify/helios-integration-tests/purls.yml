@@ -353,6 +353,11 @@
 - pkg:maven/com.spotify/helios-integration-tests@0.9.267
 - pkg:maven/com.spotify/helios-integration-tests@0.9.270
 - pkg:maven/com.spotify/helios-integration-tests@0.9.271
+- pkg:maven/com.spotify/helios-integration-tests@0.9.272
+- pkg:maven/com.spotify/helios-integration-tests@0.9.274
+- pkg:maven/com.spotify/helios-integration-tests@0.9.275
+- pkg:maven/com.spotify/helios-integration-tests@0.9.276
+- pkg:maven/com.spotify/helios-integration-tests@0.9.277
 - pkg:maven/com.spotify/helios-integration-tests@0.9.3
 - pkg:maven/com.spotify/helios-integration-tests@0.9.42
 - pkg:maven/com.spotify/helios-integration-tests@0.9.44

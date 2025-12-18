@@ -1,0 +1,4 @@
+- pkg:maven/ph.samson.xdg/basedir-tests2_2.13@0.2
+- pkg:maven/ph.samson.xdg/basedir-tests2_2.13@0.2?classifier=sources
+- pkg:maven/ph.samson.xdg/basedir-tests2_2.13@0.3
+- pkg:maven/ph.samson.xdg/basedir-tests2_2.13@0.3?classifier=sources

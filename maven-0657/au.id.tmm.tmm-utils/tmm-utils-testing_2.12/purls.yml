@@ -8,3 +8,5 @@
 - pkg:maven/au.id.tmm.tmm-utils/tmm-utils-testing_2.12@0.3.3?classifier=sources
 - pkg:maven/au.id.tmm.tmm-utils/tmm-utils-testing_2.12@0.3.4
 - pkg:maven/au.id.tmm.tmm-utils/tmm-utils-testing_2.12@0.3.4?classifier=sources
+- pkg:maven/au.id.tmm.tmm-utils/tmm-utils-testing_2.12@0.3.5
+- pkg:maven/au.id.tmm.tmm-utils/tmm-utils-testing_2.12@0.3.5?classifier=sources

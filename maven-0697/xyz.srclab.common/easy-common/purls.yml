@@ -1,0 +1,2 @@
+- pkg:maven/xyz.srclab.common/easy-common@0.0.0?classifier=sources
+- pkg:maven/xyz.srclab.common/easy-common@1.0.0?classifier=sources

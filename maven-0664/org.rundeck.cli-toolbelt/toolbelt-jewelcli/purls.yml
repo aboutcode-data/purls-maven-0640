@@ -1,0 +1,2 @@
+- pkg:maven/org.rundeck.cli-toolbelt/toolbelt-jewelcli@0.2.10
+- pkg:maven/org.rundeck.cli-toolbelt/toolbelt-jewelcli@0.2.10?classifier=sources

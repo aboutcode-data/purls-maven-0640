@@ -7,3 +7,4 @@
 - pkg:maven/org.komamitsu/fluency-fluentd@2.3.2?classifier=sources
 - pkg:maven/org.komamitsu/fluency-fluentd@2.3.3?classifier=sources
 - pkg:maven/org.komamitsu/fluency-fluentd@2.4.0?classifier=sources
+- pkg:maven/org.komamitsu/fluency-fluentd@2.4.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/tiptap-commands@1.10.12
 - pkg:maven/org.webjars.npm/tiptap-commands@1.10.12?classifier=sources
+- pkg:maven/org.webjars.npm/tiptap-commands@1.12.5
+- pkg:maven/org.webjars.npm/tiptap-commands@1.12.5?classifier=sources

@@ -86,3 +86,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-zipkin@2.1.7.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-zipkin@2.2.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-zipkin@2.2.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-zipkin@2.2.2.RELEASE

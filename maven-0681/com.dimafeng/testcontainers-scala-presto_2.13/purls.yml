@@ -1,0 +1,6 @@
+- pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.36.0
+- pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.36.0?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.36.1
+- pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.36.1?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.37.0
+- pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.37.0?classifier=sources

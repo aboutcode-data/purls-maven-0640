@@ -8,3 +8,5 @@
 - pkg:maven/com.phenixrts.edgeauth/edge-auth@1.0.4?classifier=sources
 - pkg:maven/com.phenixrts.edgeauth/edge-auth@1.0.5
 - pkg:maven/com.phenixrts.edgeauth/edge-auth@1.0.5?classifier=sources
+- pkg:maven/com.phenixrts.edgeauth/edge-auth@1.2
+- pkg:maven/com.phenixrts.edgeauth/edge-auth@1.2?classifier=sources

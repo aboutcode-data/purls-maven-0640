@@ -1,0 +1,6 @@
+- pkg:maven/cn.weisoftware/WybUtils@1.0.0
+- pkg:maven/cn.weisoftware/WybUtils@1.0.0-RELEASE
+- pkg:maven/cn.weisoftware/WybUtils@1.0.0-RELEASE?classifier=sources
+- pkg:maven/cn.weisoftware/WybUtils@1.0.0?classifier=sources
+- pkg:maven/cn.weisoftware/WybUtils@1.0.1
+- pkg:maven/cn.weisoftware/WybUtils@1.0.1?classifier=sources

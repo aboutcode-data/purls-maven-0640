@@ -10,3 +10,10 @@
 - pkg:maven/org.danilopianini/jirf@0.2.0?classifier=sources
 - pkg:maven/org.danilopianini/jirf@0.2.1
 - pkg:maven/org.danilopianini/jirf@0.2.1?classifier=sources
+- pkg:maven/org.danilopianini/jirf@0.2.2?classifier=sources
+- pkg:maven/org.danilopianini/jirf@0.2.3?classifier=sources
+- pkg:maven/org.danilopianini/jirf@0.2.4?classifier=sources
+- pkg:maven/org.danilopianini/jirf@0.2.5-dev01%2Bafe9b19?classifier=sources
+- pkg:maven/org.danilopianini/jirf@0.2.5?classifier=sources
+- pkg:maven/org.danilopianini/jirf@0.2.6?classifier=sources
+- pkg:maven/org.danilopianini/jirf@0.2.7?classifier=sources

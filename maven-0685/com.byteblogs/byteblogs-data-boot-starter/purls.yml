@@ -1,2 +1,6 @@
 - pkg:maven/com.byteblogs/byteblogs-data-boot-starter@0.0.2-RELEASE
 - pkg:maven/com.byteblogs/byteblogs-data-boot-starter@0.0.2-RELEASE?classifier=sources
+- pkg:maven/com.byteblogs/byteblogs-data-boot-starter@0.0.3-RELEASE
+- pkg:maven/com.byteblogs/byteblogs-data-boot-starter@0.0.3-RELEASE?classifier=sources
+- pkg:maven/com.byteblogs/byteblogs-data-boot-starter@0.0.4-RELEASE
+- pkg:maven/com.byteblogs/byteblogs-data-boot-starter@0.0.4-RELEASE?classifier=sources

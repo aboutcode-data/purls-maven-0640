@@ -1,0 +1,4 @@
+- pkg:maven/co.windly/limbo-mvp@2.4.0?classifier=sources
+- pkg:maven/co.windly/limbo-mvp@2.4.0?type=aar
+- pkg:maven/co.windly/limbo-mvp@3.0.3?classifier=sources
+- pkg:maven/co.windly/limbo-mvp@3.0.3?type=aar

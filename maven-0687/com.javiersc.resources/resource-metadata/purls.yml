@@ -1,0 +1,2 @@
+- pkg:maven/com.javiersc.resources/resource-metadata@1.0.0?classifier=sources
+- pkg:maven/com.javiersc.resources/resource-metadata@2.0.0?classifier=sources

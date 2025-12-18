@@ -1,3 +1,5 @@
+- pkg:maven/com.checkmarx/cx-client-common@2020.2.11.SCA
+- pkg:maven/com.checkmarx/cx-client-common@2020.2.11.SCA?classifier=sources
 - pkg:maven/com.checkmarx/cx-client-common@8.80.0
 - pkg:maven/com.checkmarx/cx-client-common@8.80.0?classifier=sources
 - pkg:maven/com.checkmarx/cx-client-common@8.80.1

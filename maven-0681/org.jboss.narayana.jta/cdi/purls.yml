@@ -6,6 +6,8 @@
 - pkg:maven/org.jboss.narayana.jta/cdi@5.10.3.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jta/cdi@5.10.4.Final
 - pkg:maven/org.jboss.narayana.jta/cdi@5.10.4.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.jta/cdi@5.10.5.Final
+- pkg:maven/org.jboss.narayana.jta/cdi@5.10.5.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jta/cdi@5.9.2.Final
 - pkg:maven/org.jboss.narayana.jta/cdi@5.9.2.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jta/cdi@5.9.3.Final

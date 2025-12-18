@@ -16,3 +16,5 @@
 - pkg:maven/com.github.javaito/hcjf-bson@1.0?classifier=sources
 - pkg:maven/com.github.javaito/hcjf-bson@2.0.0
 - pkg:maven/com.github.javaito/hcjf-bson@2.0.0?classifier=sources
+- pkg:maven/com.github.javaito/hcjf-bson@2.0.1
+- pkg:maven/com.github.javaito/hcjf-bson@2.0.1?classifier=sources

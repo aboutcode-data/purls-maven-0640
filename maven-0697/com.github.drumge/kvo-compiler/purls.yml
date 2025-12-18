@@ -27,3 +27,9 @@
 - pkg:maven/com.github.drumge/kvo-compiler@0.2.7-kotlin.5
 - pkg:maven/com.github.drumge/kvo-compiler@0.2.7-kotlin.5?classifier=sources
 - pkg:maven/com.github.drumge/kvo-compiler@0.2.7-kotlin?classifier=sources
+- pkg:maven/com.github.drumge/kvo-compiler@0.5.0
+- pkg:maven/com.github.drumge/kvo-compiler@0.5.0?classifier=sources
+- pkg:maven/com.github.drumge/kvo-compiler@0.5.1
+- pkg:maven/com.github.drumge/kvo-compiler@0.5.1?classifier=sources
+- pkg:maven/com.github.drumge/kvo-compiler@0.5.2
+- pkg:maven/com.github.drumge/kvo-compiler@0.5.2?classifier=sources

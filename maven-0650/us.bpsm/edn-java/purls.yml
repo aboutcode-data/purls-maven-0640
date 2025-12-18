@@ -18,3 +18,5 @@
 - pkg:maven/us.bpsm/edn-java@0.5.0?classifier=sources
 - pkg:maven/us.bpsm/edn-java@0.6.0
 - pkg:maven/us.bpsm/edn-java@0.6.0?classifier=sources
+- pkg:maven/us.bpsm/edn-java@0.7.1
+- pkg:maven/us.bpsm/edn-java@0.7.1?classifier=sources

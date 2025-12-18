@@ -58,3 +58,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-green@3.5.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-green@3.5.1
 - pkg:maven/com.aliyun/aliyun-java-sdk-green@3.5.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-green@3.5.2
+- pkg:maven/com.aliyun/aliyun-java-sdk-green@3.5.2?classifier=sources

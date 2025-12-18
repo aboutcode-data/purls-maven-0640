@@ -8,3 +8,5 @@
 - pkg:maven/com.github.veithen.visualwas/websphere-api-stubs@2.2.0?classifier=sources
 - pkg:maven/com.github.veithen.visualwas/websphere-api-stubs@3.0.0
 - pkg:maven/com.github.veithen.visualwas/websphere-api-stubs@3.0.0?classifier=sources
+- pkg:maven/com.github.veithen.visualwas/websphere-api-stubs@4.0.0
+- pkg:maven/com.github.veithen.visualwas/websphere-api-stubs@4.0.0?classifier=sources

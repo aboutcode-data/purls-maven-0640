@@ -1,0 +1,2 @@
+- pkg:maven/net.lecousin.framework/xml@0.3.0
+- pkg:maven/net.lecousin.framework/xml@0.3.0?classifier=sources

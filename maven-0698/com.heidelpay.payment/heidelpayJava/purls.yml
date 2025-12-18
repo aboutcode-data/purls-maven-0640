@@ -34,3 +34,7 @@
 - pkg:maven/com.heidelpay.payment/heidelpayJava@1.5.1.0?classifier=sources
 - pkg:maven/com.heidelpay.payment/heidelpayJava@1.6.0.0
 - pkg:maven/com.heidelpay.payment/heidelpayJava@1.6.0.0?classifier=sources
+- pkg:maven/com.heidelpay.payment/heidelpayJava@1.7.0.0
+- pkg:maven/com.heidelpay.payment/heidelpayJava@1.7.0.0?classifier=sources
+- pkg:maven/com.heidelpay.payment/heidelpayJava@1.8.0.0
+- pkg:maven/com.heidelpay.payment/heidelpayJava@1.8.0.0?classifier=sources

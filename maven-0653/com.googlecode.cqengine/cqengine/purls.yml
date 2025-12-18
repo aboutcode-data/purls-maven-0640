@@ -88,3 +88,5 @@
 - pkg:maven/com.googlecode.cqengine/cqengine@3.3.0?classifier=sources
 - pkg:maven/com.googlecode.cqengine/cqengine@3.4.0
 - pkg:maven/com.googlecode.cqengine/cqengine@3.4.0?classifier=sources
+- pkg:maven/com.googlecode.cqengine/cqengine@3.5.0
+- pkg:maven/com.googlecode.cqengine/cqengine@3.5.0?classifier=sources

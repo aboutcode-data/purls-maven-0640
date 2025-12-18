@@ -72,3 +72,5 @@
 - pkg:maven/zone.gryphon.ignore/smoketest@0.20.93-c220945?classifier=sources
 - pkg:maven/zone.gryphon.ignore/smoketest@0.20.94-f7d782a
 - pkg:maven/zone.gryphon.ignore/smoketest@0.20.94-f7d782a?classifier=sources
+- pkg:maven/zone.gryphon.ignore/smoketest@0.20.95-5914d8c
+- pkg:maven/zone.gryphon.ignore/smoketest@0.20.95-5914d8c?classifier=sources

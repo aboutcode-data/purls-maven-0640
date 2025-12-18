@@ -1,0 +1,2 @@
+- pkg:maven/com.wix/accord-scalatest_sjs1_2.13@0.7.6
+- pkg:maven/com.wix/accord-scalatest_sjs1_2.13@0.7.6?classifier=sources

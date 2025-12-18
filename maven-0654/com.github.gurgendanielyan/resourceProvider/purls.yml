@@ -8,3 +8,7 @@
 - pkg:maven/com.github.gurgendanielyan/resourceProvider@0.7?type=aar
 - pkg:maven/com.github.gurgendanielyan/resourceProvider@0.8?classifier=sources
 - pkg:maven/com.github.gurgendanielyan/resourceProvider@0.8?type=aar
+- pkg:maven/com.github.gurgendanielyan/resourceProvider@1.3?classifier=sources
+- pkg:maven/com.github.gurgendanielyan/resourceProvider@1.3?type=aar
+- pkg:maven/com.github.gurgendanielyan/resourceProvider@1.4?classifier=sources
+- pkg:maven/com.github.gurgendanielyan/resourceProvider@1.4?type=aar

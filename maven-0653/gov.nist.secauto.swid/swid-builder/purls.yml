@@ -1,0 +1,2 @@
+- pkg:maven/gov.nist.secauto.swid/swid-builder@0.6.1
+- pkg:maven/gov.nist.secauto.swid/swid-builder@0.6.1?classifier=sources

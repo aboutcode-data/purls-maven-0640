@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hnishar.konstruk/kinesisfirehoses3kinesisanalytics@0.8.0
+- pkg:maven/com.github.hnishar.konstruk/kinesisfirehoses3kinesisanalytics@0.8.0?classifier=sources

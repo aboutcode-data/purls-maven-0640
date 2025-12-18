@@ -54,3 +54,7 @@
 - pkg:maven/com.github.qq275860560/github-qq275860560-common@20200107?classifier=sources
 - pkg:maven/com.github.qq275860560/github-qq275860560-common@20200113
 - pkg:maven/com.github.qq275860560/github-qq275860560-common@20200113?classifier=sources
+- pkg:maven/com.github.qq275860560/github-qq275860560-common@20200401
+- pkg:maven/com.github.qq275860560/github-qq275860560-common@20200401?classifier=sources
+- pkg:maven/com.github.qq275860560/github-qq275860560-common@20200518
+- pkg:maven/com.github.qq275860560/github-qq275860560-common@20200518?classifier=sources

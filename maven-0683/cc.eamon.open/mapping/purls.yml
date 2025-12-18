@@ -6,3 +6,7 @@
 - pkg:maven/cc.eamon.open/mapping@1.0.0?classifier=sources
 - pkg:maven/cc.eamon.open/mapping@1.0.1-ALPHA
 - pkg:maven/cc.eamon.open/mapping@1.0.1-ALPHA?classifier=sources
+- pkg:maven/cc.eamon.open/mapping@1.0.2-ALPHA
+- pkg:maven/cc.eamon.open/mapping@1.0.2-ALPHA?classifier=sources
+- pkg:maven/cc.eamon.open/mapping@1.0.3-ALPHA
+- pkg:maven/cc.eamon.open/mapping@1.0.3-ALPHA?classifier=sources

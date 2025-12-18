@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.akka/akka-stream-kafka-cluster-sharding_2.13@2.0.3
+- pkg:maven/com.typesafe.akka/akka-stream-kafka-cluster-sharding_2.13@2.0.3?classifier=sources

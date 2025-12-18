@@ -14,3 +14,5 @@
 - pkg:maven/br.com.digix/editordedocumento@2.2.3?classifier=sources
 - pkg:maven/br.com.digix/editordedocumento@2.2.4
 - pkg:maven/br.com.digix/editordedocumento@2.2.4?classifier=sources
+- pkg:maven/br.com.digix/editordedocumento@2.2.5
+- pkg:maven/br.com.digix/editordedocumento@2.2.5?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/net.mostlyoriginal.artemis-odb/contrib-plugin-profiler@2.3.0?classifier=sources
 - pkg:maven/net.mostlyoriginal.artemis-odb/contrib-plugin-profiler@2.4.0
 - pkg:maven/net.mostlyoriginal.artemis-odb/contrib-plugin-profiler@2.4.0?classifier=sources
+- pkg:maven/net.mostlyoriginal.artemis-odb/contrib-plugin-profiler@2.5.0
+- pkg:maven/net.mostlyoriginal.artemis-odb/contrib-plugin-profiler@2.5.0?classifier=sources

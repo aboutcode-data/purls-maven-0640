@@ -4,6 +4,8 @@
 - pkg:maven/nl.sidnlabs/dnslib@0.1.4?classifier=sources
 - pkg:maven/nl.sidnlabs/dnslib@0.2.0
 - pkg:maven/nl.sidnlabs/dnslib@0.2.0?classifier=sources
+- pkg:maven/nl.sidnlabs/dnslib@0.2.10
+- pkg:maven/nl.sidnlabs/dnslib@0.2.10?classifier=sources
 - pkg:maven/nl.sidnlabs/dnslib@0.2.8
 - pkg:maven/nl.sidnlabs/dnslib@0.2.8?classifier=sources
 - pkg:maven/nl.sidnlabs/dnslib@0.2.9

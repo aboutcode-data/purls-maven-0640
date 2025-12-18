@@ -1,0 +1,2 @@
+- pkg:maven/cn.aghost/fastdfs-client-java@1.29.0
+- pkg:maven/cn.aghost/fastdfs-client-java@1.29.0?classifier=sources

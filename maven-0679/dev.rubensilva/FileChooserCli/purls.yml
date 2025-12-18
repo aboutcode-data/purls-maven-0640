@@ -1,0 +1,12 @@
+- pkg:maven/dev.rubensilva/FileChooserCli@1.0
+- pkg:maven/dev.rubensilva/FileChooserCli@1.0.0
+- pkg:maven/dev.rubensilva/FileChooserCli@1.0.0?classifier=sources
+- pkg:maven/dev.rubensilva/FileChooserCli@1.0.1
+- pkg:maven/dev.rubensilva/FileChooserCli@1.0.1?classifier=sources
+- pkg:maven/dev.rubensilva/FileChooserCli@1.0?classifier=sources
+- pkg:maven/dev.rubensilva/FileChooserCli@1.1.0
+- pkg:maven/dev.rubensilva/FileChooserCli@1.1.0?classifier=sources
+- pkg:maven/dev.rubensilva/FileChooserCli@1.2.0
+- pkg:maven/dev.rubensilva/FileChooserCli@1.2.0?classifier=sources
+- pkg:maven/dev.rubensilva/FileChooserCli@1.3.0
+- pkg:maven/dev.rubensilva/FileChooserCli@1.3.0?classifier=sources

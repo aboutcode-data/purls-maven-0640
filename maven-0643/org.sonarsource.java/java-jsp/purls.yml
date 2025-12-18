@@ -1,0 +1,4 @@
+- pkg:maven/org.sonarsource.java/java-jsp@6.3.0.21585
+- pkg:maven/org.sonarsource.java/java-jsp@6.3.0.21585?classifier=sources
+- pkg:maven/org.sonarsource.java/java-jsp@6.4.0.21967
+- pkg:maven/org.sonarsource.java/java-jsp@6.4.0.21967?classifier=sources

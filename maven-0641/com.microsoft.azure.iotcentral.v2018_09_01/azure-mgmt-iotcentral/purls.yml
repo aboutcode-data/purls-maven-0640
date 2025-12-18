@@ -6,3 +6,5 @@
 - pkg:maven/com.microsoft.azure.iotcentral.v2018_09_01/azure-mgmt-iotcentral@1.0.0-beta-2?classifier=sources
 - pkg:maven/com.microsoft.azure.iotcentral.v2018_09_01/azure-mgmt-iotcentral@1.0.0-beta?classifier=sources
 - pkg:maven/com.microsoft.azure.iotcentral.v2018_09_01/azure-mgmt-iotcentral@1.0.0?classifier=sources
+- pkg:maven/com.microsoft.azure.iotcentral.v2018_09_01/azure-mgmt-iotcentral@1.0.1
+- pkg:maven/com.microsoft.azure.iotcentral.v2018_09_01/azure-mgmt-iotcentral@1.0.1?classifier=sources

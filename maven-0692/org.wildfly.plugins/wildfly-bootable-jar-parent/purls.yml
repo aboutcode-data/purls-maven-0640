@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.plugins/wildfly-bootable-jar-parent@1.0.0.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.plugins/wildfly-bootable-jar-parent@1.0.0.Alpha2?classifier=source-release&type=zip

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/github-com-select2-select2@4.0.5?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-select2-select2@4.0.6-rc.1
 - pkg:maven/org.webjars.npm/github-com-select2-select2@4.0.6-rc.1?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-select2-select2@4.1.0-beta.1
+- pkg:maven/org.webjars.npm/github-com-select2-select2@4.1.0-beta.1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/io.methvin/directory-watcher-better-files_2.13@0.9.10
+- pkg:maven/io.methvin/directory-watcher-better-files_2.13@0.9.10?classifier=sources
 - pkg:maven/io.methvin/directory-watcher-better-files_2.13@0.9.6
 - pkg:maven/io.methvin/directory-watcher-better-files_2.13@0.9.6?classifier=sources
 - pkg:maven/io.methvin/directory-watcher-better-files_2.13@0.9.7

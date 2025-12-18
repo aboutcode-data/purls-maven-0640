@@ -2,3 +2,5 @@
 - pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.0.0?classifier=sources
 - pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.1.0
 - pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.1.0?classifier=sources
+- pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.2.0
+- pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.2.0?classifier=sources

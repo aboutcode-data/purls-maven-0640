@@ -1,0 +1,2 @@
+- pkg:maven/eu.doppel-helix.netbeans.plugin.nb-ldap-explorer/ssl_certificate_exception@0.14?classifier=sources
+- pkg:maven/eu.doppel-helix.netbeans.plugin.nb-ldap-explorer/ssl_certificate_exception@0.15?classifier=sources

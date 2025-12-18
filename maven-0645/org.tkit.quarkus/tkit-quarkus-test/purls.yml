@@ -4,3 +4,12 @@
 - pkg:maven/org.tkit.quarkus/tkit-quarkus-test@0.2.0?classifier=sources
 - pkg:maven/org.tkit.quarkus/tkit-quarkus-test@0.3.0
 - pkg:maven/org.tkit.quarkus/tkit-quarkus-test@0.3.0?classifier=sources
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-test@1.0.0
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-test@1.1.0
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-test@1.2.0
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-test@1.3.0
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-test@1.3.0?classifier=sources
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-test@1.4.0
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-test@1.4.0?classifier=sources
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-test@1.5.0
+- pkg:maven/org.tkit.quarkus/tkit-quarkus-test@1.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/metro-babel-register@0.54.1
+- pkg:maven/org.webjars.npm/metro-babel-register@0.54.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-metadata@0.9.28?classifier=sources
 - pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-metadata@0.9.29?classifier=sources
+- pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-metadata@0.9.30?classifier=sources
+- pkg:maven/io.fluidsonic.stdlib/fluid-stdlib-metadata@0.9.31?classifier=sources

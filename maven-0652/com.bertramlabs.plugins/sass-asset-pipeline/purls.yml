@@ -146,3 +146,5 @@
 - pkg:maven/com.bertramlabs.plugins/sass-asset-pipeline@3.0.8?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/sass-asset-pipeline@3.0.9
 - pkg:maven/com.bertramlabs.plugins/sass-asset-pipeline@3.0.9?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/sass-asset-pipeline@3.1.0
+- pkg:maven/com.bertramlabs.plugins/sass-asset-pipeline@3.1.0?classifier=sources

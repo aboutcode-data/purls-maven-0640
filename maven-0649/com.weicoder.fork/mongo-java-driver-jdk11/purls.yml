@@ -1,0 +1,2 @@
+- pkg:maven/com.weicoder.fork/mongo-java-driver-jdk11@3.12.2
+- pkg:maven/com.weicoder.fork/mongo-java-driver-jdk11@3.12.2?classifier=sources

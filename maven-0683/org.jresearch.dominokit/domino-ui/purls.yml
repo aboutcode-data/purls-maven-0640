@@ -24,7 +24,17 @@
 - pkg:maven/org.jresearch.dominokit/domino-ui@1.0.121?classifier=sources
 - pkg:maven/org.jresearch.dominokit/domino-ui@1.0.122?classifier=sources
 - pkg:maven/org.jresearch.dominokit/domino-ui@1.0.123?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.124?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.125?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.126?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.127?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.128?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.129?classifier=sources
 - pkg:maven/org.jresearch.dominokit/domino-ui@1.0.12?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.130?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.131?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.132?classifier=sources
+- pkg:maven/org.jresearch.dominokit/domino-ui@1.0.133?classifier=sources
 - pkg:maven/org.jresearch.dominokit/domino-ui@1.0.13?classifier=sources
 - pkg:maven/org.jresearch.dominokit/domino-ui@1.0.14?classifier=sources
 - pkg:maven/org.jresearch.dominokit/domino-ui@1.0.15?classifier=sources

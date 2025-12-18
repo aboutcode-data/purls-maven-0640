@@ -6,3 +6,5 @@
 - pkg:maven/tk.labyrinth/expresso-lang@1.0.4c?classifier=sources
 - pkg:maven/tk.labyrinth/expresso-lang@1.0.5
 - pkg:maven/tk.labyrinth/expresso-lang@1.0.5?classifier=sources
+- pkg:maven/tk.labyrinth/expresso-lang@1.1.0
+- pkg:maven/tk.labyrinth/expresso-lang@1.1.0?classifier=sources

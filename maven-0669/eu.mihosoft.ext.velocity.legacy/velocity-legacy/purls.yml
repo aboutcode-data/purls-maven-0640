@@ -1,2 +1,4 @@
 - pkg:maven/eu.mihosoft.ext.velocity.legacy/velocity-legacy@1.7.1
 - pkg:maven/eu.mihosoft.ext.velocity.legacy/velocity-legacy@1.7.1?classifier=sources
+- pkg:maven/eu.mihosoft.ext.velocity.legacy/velocity-legacy@1.7.4
+- pkg:maven/eu.mihosoft.ext.velocity.legacy/velocity-legacy@1.7.4?classifier=sources

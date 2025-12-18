@@ -55,3 +55,8 @@
 - pkg:maven/com.rosette.elasticsearch/rosette-elasticsearch-plugin@7.4.2.0?classifier=sources
 - pkg:maven/com.rosette.elasticsearch/rosette-elasticsearch-plugin@7.5.0.0?classifier=sources
 - pkg:maven/com.rosette.elasticsearch/rosette-elasticsearch-plugin@7.5.1.0?classifier=sources
+- pkg:maven/com.rosette.elasticsearch/rosette-elasticsearch-plugin@7.5.2.0?classifier=sources
+- pkg:maven/com.rosette.elasticsearch/rosette-elasticsearch-plugin@7.6.0.0?classifier=sources
+- pkg:maven/com.rosette.elasticsearch/rosette-elasticsearch-plugin@7.6.1.0?classifier=sources
+- pkg:maven/com.rosette.elasticsearch/rosette-elasticsearch-plugin@7.6.2.0?classifier=sources
+- pkg:maven/com.rosette.elasticsearch/rosette-elasticsearch-plugin@7.7.0.0?classifier=sources

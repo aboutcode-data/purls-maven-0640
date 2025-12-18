@@ -1,1 +1,7 @@
 - pkg:maven/club.gclmit/chaos-spring-boot-starter@1.0.0
+- pkg:maven/club.gclmit/chaos-spring-boot-starter@1.4.10.RELEASE
+- pkg:maven/club.gclmit/chaos-spring-boot-starter@1.4.10.RELEASE?classifier=sources
+- pkg:maven/club.gclmit/chaos-spring-boot-starter@1.4.8.RELEASE
+- pkg:maven/club.gclmit/chaos-spring-boot-starter@1.4.8.RELEASE?classifier=sources
+- pkg:maven/club.gclmit/chaos-spring-boot-starter@1.4.9.RELEASE
+- pkg:maven/club.gclmit/chaos-spring-boot-starter@1.4.9.RELEASE?classifier=sources

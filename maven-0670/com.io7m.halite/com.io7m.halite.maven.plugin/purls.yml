@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.halite/com.io7m.halite.maven.plugin@0.0.1
+- pkg:maven/com.io7m.halite/com.io7m.halite.maven.plugin@0.0.1?classifier=sources

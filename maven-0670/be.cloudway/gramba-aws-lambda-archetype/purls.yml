@@ -1,0 +1,1 @@
+- pkg:maven/be.cloudway/gramba-aws-lambda-archetype@0.0.5?classifier=sources

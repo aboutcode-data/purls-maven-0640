@@ -1,0 +1,2 @@
+- pkg:maven/org.lorislab.quarkus/barn-sql-client@0.1.0
+- pkg:maven/org.lorislab.quarkus/barn-sql-client@0.1.0?classifier=sources

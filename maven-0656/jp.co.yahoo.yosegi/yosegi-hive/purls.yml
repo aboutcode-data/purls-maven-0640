@@ -14,3 +14,5 @@
 - pkg:maven/jp.co.yahoo.yosegi/yosegi-hive@0.9.3_hive-1.2.1000.2.6.4.0-91?classifier=sources
 - pkg:maven/jp.co.yahoo.yosegi/yosegi-hive@0.9.4_hive-1.2.1000.2.6.4.0-91
 - pkg:maven/jp.co.yahoo.yosegi/yosegi-hive@0.9.4_hive-1.2.1000.2.6.4.0-91?classifier=sources
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-hive@0.9.5_hive-1.2.1000.2.6.4.0-91
+- pkg:maven/jp.co.yahoo.yosegi/yosegi-hive@0.9.5_hive-1.2.1000.2.6.4.0-91?classifier=sources

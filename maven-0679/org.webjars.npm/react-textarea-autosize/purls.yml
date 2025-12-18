@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/react-textarea-autosize@3.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-textarea-autosize@5.1.0
 - pkg:maven/org.webjars.npm/react-textarea-autosize@5.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-textarea-autosize@7.1.0
+- pkg:maven/org.webjars.npm/react-textarea-autosize@7.1.0?classifier=sources

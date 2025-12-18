@@ -10,3 +10,13 @@
 - pkg:maven/com.thorstenmarx.webtools/webtools-tracking@4.1.0?classifier=sources
 - pkg:maven/com.thorstenmarx.webtools/webtools-tracking@4.2.0
 - pkg:maven/com.thorstenmarx.webtools/webtools-tracking@4.2.0?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@4.3.0
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@4.3.0?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@4.3.1
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@4.3.1?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@5.0.0
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@5.0.0?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@5.1.0
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@5.1.0?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@5.1.1
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracking@5.1.1?classifier=sources

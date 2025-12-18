@@ -2,3 +2,4 @@
 - pkg:maven/org.xbib/netty-http-bouncycastle@4.1.44.2?classifier=sources
 - pkg:maven/org.xbib/netty-http-bouncycastle@4.1.45.0
 - pkg:maven/org.xbib/netty-http-bouncycastle@4.1.45.0?classifier=sources
+- pkg:maven/org.xbib/netty-http-bouncycastle@4.1.49.1?classifier=sources

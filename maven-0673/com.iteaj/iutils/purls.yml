@@ -14,3 +14,7 @@
 - pkg:maven/com.iteaj/iutils@1.1.2-release?classifier=sources
 - pkg:maven/com.iteaj/iutils@1.1.4
 - pkg:maven/com.iteaj/iutils@1.1.4?classifier=sources
+- pkg:maven/com.iteaj/iutils@1.1.7
+- pkg:maven/com.iteaj/iutils@1.1.7?classifier=sources
+- pkg:maven/com.iteaj/iutils@1.1.9
+- pkg:maven/com.iteaj/iutils@1.1.9?classifier=sources

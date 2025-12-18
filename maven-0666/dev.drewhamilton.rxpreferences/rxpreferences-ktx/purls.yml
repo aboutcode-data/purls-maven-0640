@@ -1,2 +1,4 @@
 - pkg:maven/dev.drewhamilton.rxpreferences/rxpreferences-ktx@3.0.0-beta01?classifier=sources
 - pkg:maven/dev.drewhamilton.rxpreferences/rxpreferences-ktx@3.0.0-beta01?type=aar
+- pkg:maven/dev.drewhamilton.rxpreferences/rxpreferences-ktx@3.0.0?classifier=sources
+- pkg:maven/dev.drewhamilton.rxpreferences/rxpreferences-ktx@3.0.0?type=aar

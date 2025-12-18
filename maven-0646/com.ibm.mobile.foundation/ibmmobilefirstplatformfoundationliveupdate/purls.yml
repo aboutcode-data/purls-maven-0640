@@ -1,2 +1,4 @@
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationliveupdate@8.0.0?classifier=sources
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationliveupdate@8.0.0?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationliveupdate@8.0.202003051505?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundationliveupdate@8.0.202003051505?type=aar

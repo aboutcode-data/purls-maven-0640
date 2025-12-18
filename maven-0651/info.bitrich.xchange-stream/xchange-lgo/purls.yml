@@ -1,0 +1,2 @@
+- pkg:maven/info.bitrich.xchange-stream/xchange-lgo@4.4.1
+- pkg:maven/info.bitrich.xchange-stream/xchange-lgo@4.4.1?classifier=sources

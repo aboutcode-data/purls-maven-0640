@@ -10,3 +10,7 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-mopub@1.3.0?type=aar
 - pkg:maven/com.yandex.ads.mediation/mobileads-mopub@1.4.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-mopub@1.4.0?type=aar
+- pkg:maven/com.yandex.ads.mediation/mobileads-mopub@1.5.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-mopub@1.5.0?type=aar
+- pkg:maven/com.yandex.ads.mediation/mobileads-mopub@1.6.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-mopub@1.6.0?type=aar

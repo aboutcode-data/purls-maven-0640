@@ -1,0 +1,2 @@
+- pkg:maven/io.github.michaelt293/union-dotty_0.24@0.1.0
+- pkg:maven/io.github.michaelt293/union-dotty_0.24@0.1.0?classifier=sources

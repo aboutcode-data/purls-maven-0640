@@ -12,6 +12,8 @@
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.13.0?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.14.0
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.14.0?classifier=sources
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.15.0
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.15.0?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.4.7
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.4.7?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.5.0
@@ -28,3 +30,5 @@
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@1.9.0?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@2.0.0
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@2.0.0?classifier=sources
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@2.1.0
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@2.1.0?classifier=sources

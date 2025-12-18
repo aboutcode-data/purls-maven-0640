@@ -1,0 +1,2 @@
+- pkg:maven/com.weicoder.fork/httpclient5-jdk11@5.0
+- pkg:maven/com.weicoder.fork/httpclient5-jdk11@5.0?classifier=sources

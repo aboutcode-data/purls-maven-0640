@@ -1,0 +1,8 @@
+- pkg:maven/com.sporniket.testing/sporniket-testing-utils@20.04.00
+- pkg:maven/com.sporniket.testing/sporniket-testing-utils@20.04.00?classifier=sources
+- pkg:maven/com.sporniket.testing/sporniket-testing-utils@20.04.01
+- pkg:maven/com.sporniket.testing/sporniket-testing-utils@20.04.01?classifier=sources
+- pkg:maven/com.sporniket.testing/sporniket-testing-utils@20.04.02
+- pkg:maven/com.sporniket.testing/sporniket-testing-utils@20.04.02?classifier=sources
+- pkg:maven/com.sporniket.testing/sporniket-testing-utils@20.05.00
+- pkg:maven/com.sporniket.testing/sporniket-testing-utils@20.05.00?classifier=sources

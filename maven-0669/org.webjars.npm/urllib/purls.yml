@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/urllib@2.34.0
 - pkg:maven/org.webjars.npm/urllib@2.34.0?classifier=sources
+- pkg:maven/org.webjars.npm/urllib@2.34.2
+- pkg:maven/org.webjars.npm/urllib@2.34.2?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.12.0?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.12.1
 - pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.12.1?classifier=sources
+- pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.12.2
+- pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.12.2?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.4.0
 - pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.4.0?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.4.1
@@ -50,3 +52,7 @@
 - pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.9.1?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.9.2
 - pkg:maven/org.litote.kmongo/kmongo-flapdoodle@3.9.2?classifier=sources
+- pkg:maven/org.litote.kmongo/kmongo-flapdoodle@4.0.0
+- pkg:maven/org.litote.kmongo/kmongo-flapdoodle@4.0.0?classifier=sources
+- pkg:maven/org.litote.kmongo/kmongo-flapdoodle@4.0.1
+- pkg:maven/org.litote.kmongo/kmongo-flapdoodle@4.0.1?classifier=sources

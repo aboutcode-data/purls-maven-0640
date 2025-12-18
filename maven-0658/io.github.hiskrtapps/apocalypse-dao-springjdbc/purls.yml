@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hiskrtapps/apocalypse-dao-springjdbc@0.0.2
+- pkg:maven/io.github.hiskrtapps/apocalypse-dao-springjdbc@0.0.2?classifier=sources

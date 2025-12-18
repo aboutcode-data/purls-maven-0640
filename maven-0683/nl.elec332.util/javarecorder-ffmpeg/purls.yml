@@ -1,0 +1,2 @@
+- pkg:maven/nl.elec332.util/javarecorder-ffmpeg@0.1-Alpha
+- pkg:maven/nl.elec332.util/javarecorder-ffmpeg@0.1-Alpha?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.slyang520/module-web@0.0.1
 - pkg:maven/io.github.slyang520/module-web@0.0.1?classifier=sources
+- pkg:maven/io.github.slyang520/module-web@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.github.slyang520/module-web@1.2.0.RELEASE?classifier=sources

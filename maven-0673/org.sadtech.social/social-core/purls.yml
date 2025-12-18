@@ -1,0 +1,2 @@
+- pkg:maven/org.sadtech.social/social-core@0.7.0-RELEASE
+- pkg:maven/org.sadtech.social/social-core@0.7.0-RELEASE?classifier=sources

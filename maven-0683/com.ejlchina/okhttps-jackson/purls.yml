@@ -1,0 +1,6 @@
+- pkg:maven/com.ejlchina/okhttps-jackson@2.0.0
+- pkg:maven/com.ejlchina/okhttps-jackson@2.0.0.RC
+- pkg:maven/com.ejlchina/okhttps-jackson@2.0.0.RC?classifier=sources
+- pkg:maven/com.ejlchina/okhttps-jackson@2.0.0?classifier=sources
+- pkg:maven/com.ejlchina/okhttps-jackson@2.0.1
+- pkg:maven/com.ejlchina/okhttps-jackson@2.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.sanda/apifi@0.0.3
+- pkg:maven/dev.sanda/apifi@0.0.3?classifier=sources

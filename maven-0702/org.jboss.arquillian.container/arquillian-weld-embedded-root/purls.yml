@@ -3,3 +3,5 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-weld-embedded-root@2.0.0.Beta5?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.container/arquillian-weld-embedded-root@2.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.container/arquillian-weld-embedded-root@2.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.container/arquillian-weld-embedded-root@2.1.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.container/arquillian-weld-embedded-root@3.0.0.Alpha1?classifier=source-release&type=zip

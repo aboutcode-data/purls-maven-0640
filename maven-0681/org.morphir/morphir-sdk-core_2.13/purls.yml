@@ -1,0 +1,8 @@
+- pkg:maven/org.morphir/morphir-sdk-core_2.13@0.0.3
+- pkg:maven/org.morphir/morphir-sdk-core_2.13@0.0.3?classifier=sources
+- pkg:maven/org.morphir/morphir-sdk-core_2.13@0.0.7
+- pkg:maven/org.morphir/morphir-sdk-core_2.13@0.0.7?classifier=sources
+- pkg:maven/org.morphir/morphir-sdk-core_2.13@0.0.9-3-db0cc6c
+- pkg:maven/org.morphir/morphir-sdk-core_2.13@0.0.9-3-db0cc6c?classifier=sources
+- pkg:maven/org.morphir/morphir-sdk-core_2.13@0.0.9-4-1479ea9
+- pkg:maven/org.morphir/morphir-sdk-core_2.13@0.0.9-4-1479ea9?classifier=sources

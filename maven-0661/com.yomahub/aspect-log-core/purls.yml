@@ -1,0 +1,2 @@
+- pkg:maven/com.yomahub/aspect-log-core@1.2
+- pkg:maven/com.yomahub/aspect-log-core@1.2?classifier=sources

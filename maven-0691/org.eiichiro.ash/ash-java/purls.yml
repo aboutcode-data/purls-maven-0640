@@ -2,3 +2,5 @@
 - pkg:maven/org.eiichiro.ash/ash-java@0.0.1?classifier=sources
 - pkg:maven/org.eiichiro.ash/ash-java@0.0.2
 - pkg:maven/org.eiichiro.ash/ash-java@0.0.2?classifier=sources
+- pkg:maven/org.eiichiro.ash/ash-java@0.0.4
+- pkg:maven/org.eiichiro.ash/ash-java@0.0.4?classifier=sources

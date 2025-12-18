@@ -1,0 +1,4 @@
+- pkg:maven/org.kie/ha-core-infra@7.34.0.Final
+- pkg:maven/org.kie/ha-core-infra@7.34.0.Final?classifier=sources
+- pkg:maven/org.kie/ha-core-infra@7.35.0.Final
+- pkg:maven/org.kie/ha-core-infra@7.35.0.Final?classifier=sources

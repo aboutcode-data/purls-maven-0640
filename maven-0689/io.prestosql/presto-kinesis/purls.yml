@@ -9,3 +9,6 @@
 - pkg:maven/io.prestosql/presto-kinesis@328?classifier=sources
 - pkg:maven/io.prestosql/presto-kinesis@329?classifier=sources
 - pkg:maven/io.prestosql/presto-kinesis@330?classifier=sources
+- pkg:maven/io.prestosql/presto-kinesis@331?classifier=sources
+- pkg:maven/io.prestosql/presto-kinesis@332?classifier=sources
+- pkg:maven/io.prestosql/presto-kinesis@333?classifier=sources

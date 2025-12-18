@@ -4,3 +4,7 @@
 - pkg:maven/org.apache.kylin/kylin-stream-core@3.0.0-alpha2?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-stream-core@3.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-stream-core@3.0.0?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-stream-core@3.0.1
+- pkg:maven/org.apache.kylin/kylin-stream-core@3.0.1?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-stream-core@3.0.2
+- pkg:maven/org.apache.kylin/kylin-stream-core@3.0.2?classifier=sources

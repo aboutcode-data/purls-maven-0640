@@ -30,3 +30,5 @@
 - pkg:maven/com.vendasta/business.v1@3.0.0?classifier=sources
 - pkg:maven/com.vendasta/business.v1@3.1.0
 - pkg:maven/com.vendasta/business.v1@3.1.0?classifier=sources
+- pkg:maven/com.vendasta/business.v1@3.2.0
+- pkg:maven/com.vendasta/business.v1@3.2.0?classifier=sources

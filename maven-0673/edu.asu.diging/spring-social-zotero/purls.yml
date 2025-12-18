@@ -1,2 +1,6 @@
 - pkg:maven/edu.asu.diging/spring-social-zotero@0.1
 - pkg:maven/edu.asu.diging/spring-social-zotero@0.1?classifier=sources
+- pkg:maven/edu.asu.diging/spring-social-zotero@0.2
+- pkg:maven/edu.asu.diging/spring-social-zotero@0.2?classifier=sources
+- pkg:maven/edu.asu.diging/spring-social-zotero@0.4
+- pkg:maven/edu.asu.diging/spring-social-zotero@0.4?classifier=sources

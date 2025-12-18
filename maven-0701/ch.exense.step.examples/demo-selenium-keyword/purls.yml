@@ -1,0 +1,4 @@
+- pkg:maven/ch.exense.step.examples/demo-selenium-keyword@1.1.3
+- pkg:maven/ch.exense.step.examples/demo-selenium-keyword@1.1.3?classifier=sources
+- pkg:maven/ch.exense.step.examples/demo-selenium-keyword@3.13.0
+- pkg:maven/ch.exense.step.examples/demo-selenium-keyword@3.13.0?classifier=sources

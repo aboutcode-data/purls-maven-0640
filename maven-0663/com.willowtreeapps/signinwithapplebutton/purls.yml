@@ -2,3 +2,5 @@
 - pkg:maven/com.willowtreeapps/signinwithapplebutton@0.1?type=aar
 - pkg:maven/com.willowtreeapps/signinwithapplebutton@0.2?classifier=sources
 - pkg:maven/com.willowtreeapps/signinwithapplebutton@0.2?type=aar
+- pkg:maven/com.willowtreeapps/signinwithapplebutton@0.3?classifier=sources
+- pkg:maven/com.willowtreeapps/signinwithapplebutton@0.3?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/site.tanghy/tanghy-test@1.0
+- pkg:maven/site.tanghy/tanghy-test@1.0?classifier=sources

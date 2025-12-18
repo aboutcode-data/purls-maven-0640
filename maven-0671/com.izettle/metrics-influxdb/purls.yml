@@ -34,3 +34,5 @@
 - pkg:maven/com.izettle/metrics-influxdb@1.2.2?classifier=sources
 - pkg:maven/com.izettle/metrics-influxdb@1.2.3
 - pkg:maven/com.izettle/metrics-influxdb@1.2.3?classifier=sources
+- pkg:maven/com.izettle/metrics-influxdb@1.3.2
+- pkg:maven/com.izettle/metrics-influxdb@1.3.2?classifier=sources

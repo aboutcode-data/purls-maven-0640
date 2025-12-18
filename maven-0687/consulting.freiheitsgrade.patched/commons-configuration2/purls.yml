@@ -1,0 +1,2 @@
+- pkg:maven/consulting.freiheitsgrade.patched/commons-configuration2@2.7
+- pkg:maven/consulting.freiheitsgrade.patched/commons-configuration2@2.7?classifier=sources

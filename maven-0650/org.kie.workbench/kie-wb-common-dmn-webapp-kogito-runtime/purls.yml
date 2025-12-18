@@ -6,3 +6,13 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.32.0.Final?type=war
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.33.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.33.0.Final?type=war
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.34.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.34.0.Final?type=war
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.35.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.35.0.Final?type=war
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.36.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.36.0.Final?type=war
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.36.1.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.36.1.Final?type=war
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.37.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-runtime@7.37.0.Final?type=war

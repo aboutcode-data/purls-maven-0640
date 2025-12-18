@@ -1,2 +1,4 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-gotone@2.4.2
+- pkg:maven/cn.com.antcloud.api/antcloud-api-gotone@2.4.2?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-gotone@3.0.1
 - pkg:maven/cn.com.antcloud.api/antcloud-api-gotone@3.0.1?classifier=sources

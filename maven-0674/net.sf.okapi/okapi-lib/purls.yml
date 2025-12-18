@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.okapi/okapi-lib@0.38
 - pkg:maven/net.sf.okapi/okapi-lib@0.38?classifier=sources
+- pkg:maven/net.sf.okapi/okapi-lib@1.39.0
+- pkg:maven/net.sf.okapi/okapi-lib@1.39.0?classifier=sources

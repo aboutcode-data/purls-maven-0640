@@ -1,0 +1,2 @@
+- pkg:maven/net.adeptropolis/frogspawn@1.0?classifier=sources
+- pkg:maven/net.adeptropolis/frogspawn@1.1.0?classifier=sources

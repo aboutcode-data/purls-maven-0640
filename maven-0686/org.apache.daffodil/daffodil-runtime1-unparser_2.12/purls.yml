@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.daffodil/daffodil-runtime1-unparser_2.12@2.4.0?classifier=sources
 - pkg:maven/org.apache.daffodil/daffodil-runtime1-unparser_2.12@2.5.0
 - pkg:maven/org.apache.daffodil/daffodil-runtime1-unparser_2.12@2.5.0?classifier=sources
+- pkg:maven/org.apache.daffodil/daffodil-runtime1-unparser_2.12@2.6.0
+- pkg:maven/org.apache.daffodil/daffodil-runtime1-unparser_2.12@2.6.0?classifier=sources
