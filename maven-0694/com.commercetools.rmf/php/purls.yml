@@ -4,6 +4,8 @@
 - pkg:maven/com.commercetools.rmf/php@0.1.5?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@0.1.6?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@0.1.7?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@0.1.8?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@0.1.9?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20210309094853?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20210309100320?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20210310125139?classifier=sources
@@ -33,3 +35,10 @@
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20210507202614?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20210511072257?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20210511121759?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20210621132028?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20210621151315?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20210622124436?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20210625150639?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20210625173218?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20210712085643?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20210713205323?classifier=sources

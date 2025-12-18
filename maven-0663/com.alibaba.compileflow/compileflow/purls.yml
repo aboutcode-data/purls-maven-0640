@@ -4,3 +4,7 @@
 - pkg:maven/com.alibaba.compileflow/compileflow@1.0.0-RC2
 - pkg:maven/com.alibaba.compileflow/compileflow@1.0.0-RC2?classifier=sources
 - pkg:maven/com.alibaba.compileflow/compileflow@1.0.0?classifier=sources
+- pkg:maven/com.alibaba.compileflow/compileflow@1.1.0-Beta1
+- pkg:maven/com.alibaba.compileflow/compileflow@1.1.0-Beta1?classifier=sources
+- pkg:maven/com.alibaba.compileflow/compileflow@1.1.0-Beta2
+- pkg:maven/com.alibaba.compileflow/compileflow@1.1.0-Beta2?classifier=sources

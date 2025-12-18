@@ -1,0 +1,8 @@
+- pkg:maven/io.github.solf/nullanno@0.1.0
+- pkg:maven/io.github.solf/nullanno@0.1.0?classifier=sources
+- pkg:maven/io.github.solf/nullanno@1.0.0
+- pkg:maven/io.github.solf/nullanno@1.0.0?classifier=sources
+- pkg:maven/io.github.solf/nullanno@1.1.0
+- pkg:maven/io.github.solf/nullanno@1.1.0?classifier=sources
+- pkg:maven/io.github.solf/nullanno@2.0.0
+- pkg:maven/io.github.solf/nullanno@2.0.0?classifier=sources

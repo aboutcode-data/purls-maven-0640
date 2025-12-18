@@ -2,3 +2,5 @@
 - pkg:maven/com.nervepoint/identity4j-as400@1.0.4?classifier=sources
 - pkg:maven/com.nervepoint/identity4j-as400@1.1.0
 - pkg:maven/com.nervepoint/identity4j-as400@1.1.0?classifier=sources
+- pkg:maven/com.nervepoint/identity4j-as400@1.2.0
+- pkg:maven/com.nervepoint/identity4j-as400@1.2.0?classifier=sources

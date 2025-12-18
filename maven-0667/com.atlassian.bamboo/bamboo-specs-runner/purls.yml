@@ -169,4 +169,7 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner@8.0.0-BDEV-16109-m01?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner@8.0.0-BDEV-16109-m02?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner@8.0.0-m02?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-runner@8.0.0-m03?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-runner@8.0.0-m04?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs-runner@8.0.0-rc1?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs-runner@8.0.0-rc2?classifier=sources

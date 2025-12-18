@@ -1,0 +1,4 @@
+- pkg:maven/com.eeeffff/mybatis-generator-maven-plugin@1.0.5
+- pkg:maven/com.eeeffff/mybatis-generator-maven-plugin@1.0.5?classifier=sources
+- pkg:maven/com.eeeffff/mybatis-generator-maven-plugin@1.0.6
+- pkg:maven/com.eeeffff/mybatis-generator-maven-plugin@1.0.6?classifier=sources

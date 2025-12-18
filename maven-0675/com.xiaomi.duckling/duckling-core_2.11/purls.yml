@@ -1,0 +1,10 @@
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@1.2.1D
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@1.2.1D?classifier=sources
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@1.2.2D
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@1.2.2D?classifier=sources
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@1.2.3D
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@1.2.3D?classifier=sources
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@1.2D
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@1.2D?classifier=sources
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@schema-1.0D
+- pkg:maven/com.xiaomi.duckling/duckling-core_2.11@schema-1.0D?classifier=sources

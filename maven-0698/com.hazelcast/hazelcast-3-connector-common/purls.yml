@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast/hazelcast-3-connector-common@5.0-BETA-1
+- pkg:maven/com.hazelcast/hazelcast-3-connector-common@5.0-BETA-1?classifier=sources

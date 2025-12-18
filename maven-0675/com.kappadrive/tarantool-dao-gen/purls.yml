@@ -1,0 +1,2 @@
+- pkg:maven/com.kappadrive/tarantool-dao-gen@0.1.0-rc.1?classifier=sources
+- pkg:maven/com.kappadrive/tarantool-dao-gen@0.1.0?classifier=sources

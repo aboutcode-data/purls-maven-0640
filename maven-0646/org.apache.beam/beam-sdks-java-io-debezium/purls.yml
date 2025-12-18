@@ -1,1 +1,3 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-debezium@2.29.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-debezium@2.30.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-debezium@2.31.0?classifier=sources

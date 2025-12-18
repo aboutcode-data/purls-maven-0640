@@ -1,0 +1,6 @@
+- pkg:maven/io.github.qq877693928/fast-annotation@1.4.0
+- pkg:maven/io.github.qq877693928/fast-annotation@1.4.0?classifier=sources
+- pkg:maven/io.github.qq877693928/fast-annotation@2.0.0
+- pkg:maven/io.github.qq877693928/fast-annotation@2.0.0?classifier=sources
+- pkg:maven/io.github.qq877693928/fast-annotation@2.1.0
+- pkg:maven/io.github.qq877693928/fast-annotation@2.1.0?classifier=sources

@@ -29,3 +29,4 @@
 - pkg:maven/org.alluxio/alluxio-assembly-server@2.5.0-1
 - pkg:maven/org.alluxio/alluxio-assembly-server@2.5.0-2
 - pkg:maven/org.alluxio/alluxio-assembly-server@2.5.0-3
+- pkg:maven/org.alluxio/alluxio-assembly-server@2.6.0

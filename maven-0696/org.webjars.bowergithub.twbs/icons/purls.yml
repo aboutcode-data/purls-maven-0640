@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.twbs/icons@1.0.0-alpha2
 - pkg:maven/org.webjars.bowergithub.twbs/icons@1.0.0-alpha2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.twbs/icons@1.0.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.twbs/icons@1.5.0
+- pkg:maven/org.webjars.bowergithub.twbs/icons@1.5.0?classifier=sources

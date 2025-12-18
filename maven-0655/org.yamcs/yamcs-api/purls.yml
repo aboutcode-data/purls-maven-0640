@@ -113,6 +113,8 @@
 - pkg:maven/org.yamcs/yamcs-api@5.1.4?classifier=sources
 - pkg:maven/org.yamcs/yamcs-api@5.2.0?classifier=sources
 - pkg:maven/org.yamcs/yamcs-api@5.2.1?classifier=sources
+- pkg:maven/org.yamcs/yamcs-api@5.2.2?classifier=sources
+- pkg:maven/org.yamcs/yamcs-api@5.2.3?classifier=sources
 - pkg:maven/org.yamcs/yamcs-api@5.3.0?classifier=sources
 - pkg:maven/org.yamcs/yamcs-api@5.3.1?classifier=sources
 - pkg:maven/org.yamcs/yamcs-api@5.3.2?classifier=sources
@@ -126,3 +128,6 @@
 - pkg:maven/org.yamcs/yamcs-api@5.4.3?classifier=sources
 - pkg:maven/org.yamcs/yamcs-api@5.4.4?classifier=sources
 - pkg:maven/org.yamcs/yamcs-api@5.4.5?classifier=sources
+- pkg:maven/org.yamcs/yamcs-api@5.5.0?classifier=sources
+- pkg:maven/org.yamcs/yamcs-api@5.5.1?classifier=sources
+- pkg:maven/org.yamcs/yamcs-api@5.5.2?classifier=sources

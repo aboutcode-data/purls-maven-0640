@@ -225,6 +225,9 @@
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.35
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@2.0.36
+- pkg:maven/com.liferay/com.liferay.sync.web@2.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.web@2.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.4
@@ -321,6 +324,9 @@
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.32
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@3.0.33
+- pkg:maven/com.liferay/com.liferay.sync.web@3.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.web@3.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.4
@@ -396,6 +402,9 @@
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.27
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@4.0.28
+- pkg:maven/com.liferay/com.liferay.sync.web@4.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.web@4.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.3
@@ -428,3 +437,12 @@
 - pkg:maven/com.liferay/com.liferay.sync.web@5.0.2
 - pkg:maven/com.liferay/com.liferay.sync.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@5.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@5.0.3
+- pkg:maven/com.liferay/com.liferay.sync.web@5.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.web@5.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@5.0.4
+- pkg:maven/com.liferay/com.liferay.sync.web@5.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.web@5.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@5.0.5
+- pkg:maven/com.liferay/com.liferay.sync.web@5.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.web@5.0.5?classifier=sources-commercial

@@ -1,0 +1,4 @@
+- pkg:maven/cool.lazy-cat/orm-api-spring-boot-starter@1.0.0
+- pkg:maven/cool.lazy-cat/orm-api-spring-boot-starter@1.0.0.Final
+- pkg:maven/cool.lazy-cat/orm-api-spring-boot-starter@1.0.0.Final?classifier=sources
+- pkg:maven/cool.lazy-cat/orm-api-spring-boot-starter@1.0.0?classifier=sources

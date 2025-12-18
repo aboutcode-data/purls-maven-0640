@@ -1,0 +1,2 @@
+- pkg:maven/com.palantir.javaformat/idea-plugin@2.1.0?classifier=sources
+- pkg:maven/com.palantir.javaformat/idea-plugin@2.2.0?classifier=sources

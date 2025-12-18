@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.jackrabbit/oak-jackrabbit-api@1.36?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-jackrabbit-api@1.38.0
 - pkg:maven/org.apache.jackrabbit/oak-jackrabbit-api@1.38.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-jackrabbit-api@1.40.0
+- pkg:maven/org.apache.jackrabbit/oak-jackrabbit-api@1.40.0?classifier=sources

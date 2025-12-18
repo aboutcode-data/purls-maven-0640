@@ -28,3 +28,4 @@
 - pkg:maven/com.bagtag.ebt-library/ebt-library@1.6.7?classifier=sources
 - pkg:maven/com.bagtag.ebt-library/ebt-library@1.6.8?classifier=sources
 - pkg:maven/com.bagtag.ebt-library/ebt-library@1.6.9?classifier=sources
+- pkg:maven/com.bagtag.ebt-library/ebt-library@1.8.0?classifier=sources

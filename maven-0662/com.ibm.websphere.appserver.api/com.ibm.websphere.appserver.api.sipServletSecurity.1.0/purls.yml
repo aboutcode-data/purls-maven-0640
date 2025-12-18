@@ -41,3 +41,5 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.sipServletSecurity.1.0@1.0.50
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.sipServletSecurity.1.0@1.0.51
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.sipServletSecurity.1.0@1.0.52
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.sipServletSecurity.1.0@1.0.53
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.sipServletSecurity.1.0@1.0.54

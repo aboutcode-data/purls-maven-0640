@@ -22,3 +22,5 @@
 - pkg:maven/com.amazonaws/amazon-dax-client@1.0.208233.0?classifier=sources
 - pkg:maven/com.amazonaws/amazon-dax-client@1.0.221844.0
 - pkg:maven/com.amazonaws/amazon-dax-client@1.0.221844.0?classifier=sources
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.230341.0
+- pkg:maven/com.amazonaws/amazon-dax-client@1.0.230341.0?classifier=sources

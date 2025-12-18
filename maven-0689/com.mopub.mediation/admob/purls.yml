@@ -37,3 +37,5 @@
 - pkg:maven/com.mopub.mediation/admob@20.0.0.1?type=aar
 - pkg:maven/com.mopub.mediation/admob@20.0.0.2?type=aar
 - pkg:maven/com.mopub.mediation/admob@20.1.0.0?type=aar
+- pkg:maven/com.mopub.mediation/admob@20.2.0.0?type=aar
+- pkg:maven/com.mopub.mediation/admob@20.2.0.1?type=aar

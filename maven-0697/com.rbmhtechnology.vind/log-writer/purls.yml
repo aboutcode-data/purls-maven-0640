@@ -204,3 +204,5 @@
 - pkg:maven/com.rbmhtechnology.vind/log-writer@3.1.8?classifier=sources
 - pkg:maven/com.rbmhtechnology.vind/log-writer@3.1.9
 - pkg:maven/com.rbmhtechnology.vind/log-writer@3.1.9?classifier=sources
+- pkg:maven/com.rbmhtechnology.vind/log-writer@3.2.0
+- pkg:maven/com.rbmhtechnology.vind/log-writer@3.2.0?classifier=sources

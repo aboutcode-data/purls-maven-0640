@@ -1,0 +1,4 @@
+- pkg:maven/com.github.clarkstore/os-common-feign@0.3.23
+- pkg:maven/com.github.clarkstore/os-common-feign@0.3.23?classifier=sources
+- pkg:maven/com.github.clarkstore/os-common-feign@0.3.27
+- pkg:maven/com.github.clarkstore/os-common-feign@0.3.27?classifier=sources

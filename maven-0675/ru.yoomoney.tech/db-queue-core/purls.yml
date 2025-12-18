@@ -1,1 +1,2 @@
 - pkg:maven/ru.yoomoney.tech/db-queue-core@12.0.0?classifier=sources
+- pkg:maven/ru.yoomoney.tech/db-queue-core@12.1.0?classifier=sources

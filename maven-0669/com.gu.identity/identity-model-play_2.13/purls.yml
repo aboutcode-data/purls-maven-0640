@@ -8,3 +8,5 @@
 - pkg:maven/com.gu.identity/identity-model-play_2.13@3.246?classifier=sources
 - pkg:maven/com.gu.identity/identity-model-play_2.13@3.247
 - pkg:maven/com.gu.identity/identity-model-play_2.13@3.247?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.248
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.248?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.phoenix/phoenix@4.4.0-HBase-1.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.phoenix/phoenix@5.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.phoenix/phoenix@5.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.phoenix/phoenix@5.1.2?classifier=source-release&type=zip

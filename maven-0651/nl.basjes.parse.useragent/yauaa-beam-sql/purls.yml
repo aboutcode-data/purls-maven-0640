@@ -2,3 +2,5 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@5.22?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@5.23
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@5.23?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@6.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@6.0?classifier=sources

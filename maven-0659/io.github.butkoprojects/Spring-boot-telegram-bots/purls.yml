@@ -1,0 +1,2 @@
+- pkg:maven/io.github.butkoprojects/Spring-boot-telegram-bots@1.0.26
+- pkg:maven/io.github.butkoprojects/Spring-boot-telegram-bots@1.0.26?classifier=sources

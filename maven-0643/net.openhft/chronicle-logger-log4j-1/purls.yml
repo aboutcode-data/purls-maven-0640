@@ -34,3 +34,5 @@
 - pkg:maven/net.openhft/chronicle-logger-log4j-1@4.21ea40?classifier=sources
 - pkg:maven/net.openhft/chronicle-logger-log4j-1@4.21ea60
 - pkg:maven/net.openhft/chronicle-logger-log4j-1@4.21ea60?classifier=sources
+- pkg:maven/net.openhft/chronicle-logger-log4j-1@4.21ea80
+- pkg:maven/net.openhft/chronicle-logger-log4j-1@4.21ea80?classifier=sources

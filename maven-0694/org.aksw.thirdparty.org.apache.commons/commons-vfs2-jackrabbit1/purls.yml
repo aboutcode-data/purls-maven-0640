@@ -1,0 +1,2 @@
+- pkg:maven/org.aksw.thirdparty.org.apache.commons/commons-vfs2-jackrabbit1@2.9.0-805-1
+- pkg:maven/org.aksw.thirdparty.org.apache.commons/commons-vfs2-jackrabbit1@2.9.0-805-1?classifier=sources

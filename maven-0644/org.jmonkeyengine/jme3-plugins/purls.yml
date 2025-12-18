@@ -54,3 +54,5 @@
 - pkg:maven/org.jmonkeyengine/jme3-plugins@3.4.0-beta3?classifier=sources
 - pkg:maven/org.jmonkeyengine/jme3-plugins@3.4.0-beta4
 - pkg:maven/org.jmonkeyengine/jme3-plugins@3.4.0-beta4?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-plugins@3.4.0-stable
+- pkg:maven/org.jmonkeyengine/jme3-plugins@3.4.0-stable?classifier=sources

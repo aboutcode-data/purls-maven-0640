@@ -1,0 +1,2 @@
+- pkg:maven/com.google.caliper/caliper-core@1.0-beta-3
+- pkg:maven/com.google.caliper/caliper-core@1.0-beta-3?classifier=sources

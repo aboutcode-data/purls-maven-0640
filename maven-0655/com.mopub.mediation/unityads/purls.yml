@@ -22,3 +22,4 @@
 - pkg:maven/com.mopub.mediation/unityads@3.6.0.2?type=aar
 - pkg:maven/com.mopub.mediation/unityads@3.7.1.0?type=aar
 - pkg:maven/com.mopub.mediation/unityads@3.7.1.1?type=aar
+- pkg:maven/com.mopub.mediation/unityads@3.7.2.0?type=aar

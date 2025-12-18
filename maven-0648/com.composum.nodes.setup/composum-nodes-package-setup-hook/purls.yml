@@ -14,3 +14,7 @@
 - pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@2.6.2?classifier=sources
 - pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@2.6.3
 - pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@2.6.3?classifier=sources
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@2.6.4
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@2.6.4?classifier=sources
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@2.6.5
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@2.6.5?classifier=sources

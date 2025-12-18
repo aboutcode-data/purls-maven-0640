@@ -1,0 +1,2 @@
+- pkg:maven/io.github.venafi/vcert-java@0.6.2
+- pkg:maven/io.github.venafi/vcert-java@0.6.2?classifier=sources

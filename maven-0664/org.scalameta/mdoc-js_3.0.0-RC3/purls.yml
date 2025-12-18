@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/mdoc-js_3.0.0-RC3@2.2.22
+- pkg:maven/org.scalameta/mdoc-js_3.0.0-RC3@2.2.22?classifier=sources

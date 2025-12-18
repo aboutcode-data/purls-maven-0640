@@ -14,3 +14,7 @@
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@1.0.7
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@1.0.8
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@1.0.9
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@1.1.0
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@1.1.1
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@1.1.2
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@1.1.3

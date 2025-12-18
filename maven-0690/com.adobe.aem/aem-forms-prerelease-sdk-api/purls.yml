@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2021.06.14.00
+- pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2021.06.14.00?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.10.Final
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.10.Final?classifier=sources
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.11.Final
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.11.Final?classifier=sources
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.6.Final
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.6.Final?classifier=sources
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.7.Final
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.7.Final?classifier=sources
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.8.Final
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.8.Final?classifier=sources
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.9.Final
+- pkg:maven/com.impactupgrade/nucleus-engine@3.3.9.Final?classifier=sources
+- pkg:maven/com.impactupgrade/nucleus-engine@3.4.0-beta-1
+- pkg:maven/com.impactupgrade/nucleus-engine@3.4.0-beta-1?classifier=sources

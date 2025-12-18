@@ -50,3 +50,4 @@
 - pkg:maven/com.appsflyer/segment-android-integration@6.2.0?type=aar
 - pkg:maven/com.appsflyer/segment-android-integration@6.2.3?type=aar
 - pkg:maven/com.appsflyer/segment-android-integration@6.3.0?type=aar
+- pkg:maven/com.appsflyer/segment-android-integration@6.3.2?type=aar

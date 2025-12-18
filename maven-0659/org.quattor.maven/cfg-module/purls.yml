@@ -94,3 +94,5 @@
 - pkg:maven/org.quattor.maven/cfg-module@1.58?classifier=sources
 - pkg:maven/org.quattor.maven/cfg-module@1.59
 - pkg:maven/org.quattor.maven/cfg-module@1.59?classifier=sources
+- pkg:maven/org.quattor.maven/cfg-module@1.60
+- pkg:maven/org.quattor.maven/cfg-module@1.60?classifier=sources

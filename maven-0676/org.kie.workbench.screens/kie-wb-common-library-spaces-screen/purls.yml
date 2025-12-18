@@ -37,3 +37,5 @@
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.52.0.Final
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.53.0.Final
 - pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.54.0.Final
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.55.0.Final
+- pkg:maven/org.kie.workbench.screens/kie-wb-common-library-spaces-screen@7.56.0.Final

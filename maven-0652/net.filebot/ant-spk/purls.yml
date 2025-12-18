@@ -3,4 +3,6 @@
 - pkg:maven/net.filebot/ant-spk@0.6
 - pkg:maven/net.filebot/ant-spk@0.6?classifier=sources
 - pkg:maven/net.filebot/ant-spk@0.7
+- pkg:maven/net.filebot/ant-spk@0.7.1
+- pkg:maven/net.filebot/ant-spk@0.7.1?classifier=sources
 - pkg:maven/net.filebot/ant-spk@0.7?classifier=sources

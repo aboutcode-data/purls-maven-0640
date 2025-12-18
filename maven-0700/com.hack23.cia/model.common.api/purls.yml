@@ -140,3 +140,5 @@
 - pkg:maven/com.hack23.cia/model.common.api@2021.4.24?classifier=sources
 - pkg:maven/com.hack23.cia/model.common.api@2021.5.23
 - pkg:maven/com.hack23.cia/model.common.api@2021.5.23?classifier=sources
+- pkg:maven/com.hack23.cia/model.common.api@2021.6.20
+- pkg:maven/com.hack23.cia/model.common.api@2021.6.20?classifier=sources

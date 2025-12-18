@@ -82,3 +82,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.5.2
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.5.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.5.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.5.4
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.5.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.jsp@2.5.4?classifier=sources

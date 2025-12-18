@@ -20,6 +20,8 @@
 - pkg:maven/com.playtika.testcontainers/embedded-clickhouse@1.89?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.0
 - pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.0?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.10
+- pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.10?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.3
 - pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.3?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.4
@@ -32,3 +34,5 @@
 - pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.7?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.8
 - pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.8?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.9
+- pkg:maven/com.playtika.testcontainers/embedded-clickhouse@2.0.9?classifier=sources

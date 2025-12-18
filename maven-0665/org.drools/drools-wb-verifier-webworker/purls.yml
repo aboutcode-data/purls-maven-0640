@@ -94,3 +94,7 @@
 - pkg:maven/org.drools/drools-wb-verifier-webworker@7.53.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-wb-verifier-webworker@7.54.0.Final
 - pkg:maven/org.drools/drools-wb-verifier-webworker@7.54.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.55.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.55.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.56.0.Final
+- pkg:maven/org.drools/drools-wb-verifier-webworker@7.56.0.Final?classifier=sources

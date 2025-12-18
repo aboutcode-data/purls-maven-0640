@@ -68,6 +68,14 @@
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.137?classifier=sources
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.138
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.138?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.139
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.139?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.140
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.140?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.141
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.141?classifier=sources
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.142
+- pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.142?classifier=sources
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.68
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.68?classifier=sources
 - pkg:maven/de.quantummaid.httpmaid.integrations/httpmaid-awslambda-websocket@0.9.69

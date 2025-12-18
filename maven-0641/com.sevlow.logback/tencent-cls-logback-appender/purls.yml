@@ -4,3 +4,5 @@
 - pkg:maven/com.sevlow.logback/tencent-cls-logback-appender@1.0.1?classifier=sources
 - pkg:maven/com.sevlow.logback/tencent-cls-logback-appender@1.0.2
 - pkg:maven/com.sevlow.logback/tencent-cls-logback-appender@1.0.2?classifier=sources
+- pkg:maven/com.sevlow.logback/tencent-cls-logback-appender@1.0.3
+- pkg:maven/com.sevlow.logback/tencent-cls-logback-appender@1.0.3?classifier=sources

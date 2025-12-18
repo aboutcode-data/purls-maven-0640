@@ -16,3 +16,5 @@
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/org.wso2.carbon.identity.authenticator.iwa.ui@5.4.1?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/org.wso2.carbon.identity.authenticator.iwa.ui@5.4.2
 - pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/org.wso2.carbon.identity.authenticator.iwa.ui@5.4.2?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/org.wso2.carbon.identity.authenticator.iwa.ui@5.4.3
+- pkg:maven/org.wso2.carbon.identity.carbon.auth.iwa/org.wso2.carbon.identity.authenticator.iwa.ui@5.4.3?classifier=sources

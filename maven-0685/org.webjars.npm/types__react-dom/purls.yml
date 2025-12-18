@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.npm/types__react-dom@16.9.3?classifier=sources
 - pkg:maven/org.webjars.npm/types__react-dom@16.9.4
 - pkg:maven/org.webjars.npm/types__react-dom@16.9.4?classifier=sources
+- pkg:maven/org.webjars.npm/types__react-dom@17.0.9
+- pkg:maven/org.webjars.npm/types__react-dom@17.0.9?classifier=sources

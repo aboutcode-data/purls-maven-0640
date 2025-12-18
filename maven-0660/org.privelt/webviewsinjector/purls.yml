@@ -1,1 +1,2 @@
 - pkg:maven/org.privelt/webviewsinjector@2.1.6?classifier=sources
+- pkg:maven/org.privelt/webviewsinjector@2.1.7?classifier=sources

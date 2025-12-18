@@ -1,2 +1,4 @@
 - pkg:maven/org.gjgr.pig/pig-chivalrous-thrift@0.0.1.20200202G
 - pkg:maven/org.gjgr.pig/pig-chivalrous-thrift@0.0.1.20200202G?classifier=sources
+- pkg:maven/org.gjgr.pig/pig-chivalrous-thrift@0.0.1.20201207G
+- pkg:maven/org.gjgr.pig/pig-chivalrous-thrift@0.0.1.20201207G?classifier=sources

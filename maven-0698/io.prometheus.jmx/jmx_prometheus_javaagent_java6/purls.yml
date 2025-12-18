@@ -1,0 +1,4 @@
+- pkg:maven/io.prometheus.jmx/jmx_prometheus_javaagent_java6@0.16.0
+- pkg:maven/io.prometheus.jmx/jmx_prometheus_javaagent_java6@0.16.0?classifier=sources
+- pkg:maven/io.prometheus.jmx/jmx_prometheus_javaagent_java6@0.16.1
+- pkg:maven/io.prometheus.jmx/jmx_prometheus_javaagent_java6@0.16.1?classifier=sources

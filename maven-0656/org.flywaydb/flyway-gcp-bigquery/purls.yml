@@ -1,0 +1,6 @@
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@7.11.0-beta
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@7.11.0-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@7.11.1-beta
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@7.11.1-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@7.11.2-beta
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@7.11.2-beta?classifier=sources

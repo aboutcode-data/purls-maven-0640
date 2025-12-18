@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.tuweni/tuweni-merkle-trie@0.9.0?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-merkle-trie@1.0.0?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-merkle-trie@1.1.0?classifier=sources
+- pkg:maven/org.apache.tuweni/tuweni-merkle-trie@2.0.0?classifier=sources

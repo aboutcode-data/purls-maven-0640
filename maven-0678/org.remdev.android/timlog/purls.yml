@@ -1,0 +1,2 @@
+- pkg:maven/org.remdev.android/timlog@1.0.0?classifier=sources
+- pkg:maven/org.remdev.android/timlog@1.0.0?type=aar

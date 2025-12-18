@@ -1,7 +1,17 @@
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.1-beta
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.1-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.1-tcq
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.1-tcq-alpha-1
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.1-tcq-alpha-1?classifier=sources
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.1-tcq?classifier=sources
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.2-beta
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.2-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.2-tcq
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.2-tcq-alpha
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.2-tcq-alpha?classifier=sources
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.2-tcq?classifier=sources
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.3-tcq
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.3-tcq?classifier=sources
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.4-beta
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.4-beta?classifier=sources
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.0.5-beta
@@ -24,3 +34,5 @@
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.1.5-beta?classifier=sources
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.1.6-beta
 - pkg:maven/com.testvagrant.optimus/optimus-lite@0.1.6-beta?classifier=sources
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.1.7-beta
+- pkg:maven/com.testvagrant.optimus/optimus-lite@0.1.7-beta?classifier=sources

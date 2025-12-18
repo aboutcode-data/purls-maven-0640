@@ -1,2 +1,4 @@
 - pkg:maven/ch.epfl.scala/scalafix-reflect_2.13.6@0.9.28
 - pkg:maven/ch.epfl.scala/scalafix-reflect_2.13.6@0.9.28?classifier=sources
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.13.6@0.9.29
+- pkg:maven/ch.epfl.scala/scalafix-reflect_2.13.6@0.9.29?classifier=sources

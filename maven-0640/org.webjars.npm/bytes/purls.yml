@@ -10,5 +10,7 @@
 - pkg:maven/org.webjars.npm/bytes@2.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/bytes@2.4.0
 - pkg:maven/org.webjars.npm/bytes@2.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/bytes@2.5.0
+- pkg:maven/org.webjars.npm/bytes@2.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/bytes@3.1.0
 - pkg:maven/org.webjars.npm/bytes@3.1.0?classifier=sources

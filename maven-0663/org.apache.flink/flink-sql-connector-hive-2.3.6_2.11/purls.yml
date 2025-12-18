@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.flink/flink-sql-connector-hive-2.3.6_2.11@1.12.4?classifier=sources
 - pkg:maven/org.apache.flink/flink-sql-connector-hive-2.3.6_2.11@1.13.0
 - pkg:maven/org.apache.flink/flink-sql-connector-hive-2.3.6_2.11@1.13.0?classifier=sources
+- pkg:maven/org.apache.flink/flink-sql-connector-hive-2.3.6_2.11@1.13.1
+- pkg:maven/org.apache.flink/flink-sql-connector-hive-2.3.6_2.11@1.13.1?classifier=sources

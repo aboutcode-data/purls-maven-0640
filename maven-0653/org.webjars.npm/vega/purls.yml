@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/vega@5.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/vega@5.13.0
 - pkg:maven/org.webjars.npm/vega@5.13.0?classifier=sources
+- pkg:maven/org.webjars.npm/vega@5.20.2
+- pkg:maven/org.webjars.npm/vega@5.20.2?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/net.nlacombe/nl-jsonfeed@0.2.1?classifier=sources
+- pkg:maven/net.nlacombe/nl-jsonfeed@1.0.0?classifier=sources

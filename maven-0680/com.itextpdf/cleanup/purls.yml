@@ -15,3 +15,4 @@
 - pkg:maven/com.itextpdf/cleanup@2.0.5
 - pkg:maven/com.itextpdf/cleanup@2.0.5?classifier=sources
 - pkg:maven/com.itextpdf/cleanup@2.0.6?classifier=sources
+- pkg:maven/com.itextpdf/cleanup@2.0.7?classifier=sources

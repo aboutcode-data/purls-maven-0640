@@ -12,3 +12,5 @@
 - pkg:maven/com.kaltura.playkit/playkitproviders@4.14.2?type=aar
 - pkg:maven/com.kaltura.playkit/playkitproviders@4.14.3?classifier=sources
 - pkg:maven/com.kaltura.playkit/playkitproviders@4.14.3?type=aar
+- pkg:maven/com.kaltura.playkit/playkitproviders@4.15.0?classifier=sources
+- pkg:maven/com.kaltura.playkit/playkitproviders@4.15.0?type=aar

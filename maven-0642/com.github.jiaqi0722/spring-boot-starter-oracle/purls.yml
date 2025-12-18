@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jiaqi0722/spring-boot-starter-oracle@1.1.1
+- pkg:maven/com.github.jiaqi0722/spring-boot-starter-oracle@1.1.1?classifier=sources

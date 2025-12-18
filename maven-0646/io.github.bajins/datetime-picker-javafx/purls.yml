@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bajins/datetime-picker-javafx@1.0.0
+- pkg:maven/io.github.bajins/datetime-picker-javafx@1.0.0?classifier=sources

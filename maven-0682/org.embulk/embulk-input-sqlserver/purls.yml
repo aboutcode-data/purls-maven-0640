@@ -1,0 +1,2 @@
+- pkg:maven/org.embulk/embulk-input-sqlserver@0.12.1?classifier=sources
+- pkg:maven/org.embulk/embulk-input-sqlserver@0.12.2?classifier=sources

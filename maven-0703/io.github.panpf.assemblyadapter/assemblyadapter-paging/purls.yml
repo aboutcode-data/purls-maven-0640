@@ -1,1 +1,2 @@
 - pkg:maven/io.github.panpf.assemblyadapter/assemblyadapter-paging@3.5.0?classifier=sources
+- pkg:maven/io.github.panpf.assemblyadapter/assemblyadapter-paging@3.6.0?classifier=sources

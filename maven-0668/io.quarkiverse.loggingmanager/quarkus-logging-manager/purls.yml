@@ -12,3 +12,5 @@
 - pkg:maven/io.quarkiverse.loggingmanager/quarkus-logging-manager@1.1.2?classifier=sources
 - pkg:maven/io.quarkiverse.loggingmanager/quarkus-logging-manager@1.1.3
 - pkg:maven/io.quarkiverse.loggingmanager/quarkus-logging-manager@1.1.3?classifier=sources
+- pkg:maven/io.quarkiverse.loggingmanager/quarkus-logging-manager@2.0.0
+- pkg:maven/io.quarkiverse.loggingmanager/quarkus-logging-manager@2.0.0?classifier=sources

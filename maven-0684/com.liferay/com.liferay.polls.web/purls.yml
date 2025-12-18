@@ -216,6 +216,9 @@
 - pkg:maven/com.liferay/com.liferay.polls.web@3.0.32
 - pkg:maven/com.liferay/com.liferay.polls.web@3.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.web@3.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.web@3.0.33
+- pkg:maven/com.liferay/com.liferay.polls.web@3.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.web@3.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.polls.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.polls.web@3.0.4
@@ -312,6 +315,9 @@
 - pkg:maven/com.liferay/com.liferay.polls.web@4.0.32
 - pkg:maven/com.liferay/com.liferay.polls.web@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.web@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.web@4.0.33
+- pkg:maven/com.liferay/com.liferay.polls.web@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.web@4.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.polls.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.polls.web@4.0.4
@@ -399,6 +405,9 @@
 - pkg:maven/com.liferay/com.liferay.polls.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.polls.web@5.0.3
+- pkg:maven/com.liferay/com.liferay.polls.web@5.0.30
+- pkg:maven/com.liferay/com.liferay.polls.web@5.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.web@5.0.30?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.polls.web@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.web@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.polls.web@5.0.4
@@ -428,3 +437,12 @@
 - pkg:maven/com.liferay/com.liferay.polls.web@6.0.2
 - pkg:maven/com.liferay/com.liferay.polls.web@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.polls.web@6.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.web@6.0.3
+- pkg:maven/com.liferay/com.liferay.polls.web@6.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.web@6.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.web@6.0.4
+- pkg:maven/com.liferay/com.liferay.polls.web@6.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.web@6.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.polls.web@6.0.5
+- pkg:maven/com.liferay/com.liferay.polls.web@6.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.polls.web@6.0.5?classifier=sources-commercial

@@ -1,1 +1,2 @@
 - pkg:maven/tz.co.asoft/kotlinx-serialization-mapper-watchosarm64@0.0.70?classifier=sources
+- pkg:maven/tz.co.asoft/kotlinx-serialization-mapper-watchosarm64@0.0.71?classifier=sources

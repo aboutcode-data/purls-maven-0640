@@ -8,3 +8,5 @@
 - pkg:maven/com.placetopay/java-placetopay@1.0.7?classifier=sources
 - pkg:maven/com.placetopay/java-placetopay@1.0.8
 - pkg:maven/com.placetopay/java-placetopay@1.0.8?classifier=sources
+- pkg:maven/com.placetopay/java-placetopay@2.0.0?classifier=sources
+- pkg:maven/com.placetopay/java-placetopay@2.0.1?classifier=sources

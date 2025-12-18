@@ -3,3 +3,6 @@
 - pkg:maven/com.senspark.ee/notification@2.7.2?classifier=sources
 - pkg:maven/com.senspark.ee/notification@2.7.3?classifier=sources
 - pkg:maven/com.senspark.ee/notification@2.7.4?classifier=sources
+- pkg:maven/com.senspark.ee/notification@2.8.0?classifier=sources
+- pkg:maven/com.senspark.ee/notification@2.8.1?classifier=sources
+- pkg:maven/com.senspark.ee/notification@2.9.0?classifier=sources

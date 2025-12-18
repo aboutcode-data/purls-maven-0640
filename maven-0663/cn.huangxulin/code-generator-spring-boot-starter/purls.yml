@@ -1,0 +1,9 @@
+- pkg:maven/cn.huangxulin/code-generator-spring-boot-starter@3.1.1
+- pkg:maven/cn.huangxulin/code-generator-spring-boot-starter@3.1.1.M1
+- pkg:maven/cn.huangxulin/code-generator-spring-boot-starter@3.1.1.M1?classifier=sources
+- pkg:maven/cn.huangxulin/code-generator-spring-boot-starter@3.1.1.M2
+- pkg:maven/cn.huangxulin/code-generator-spring-boot-starter@3.1.1.M2?classifier=sources
+- pkg:maven/cn.huangxulin/code-generator-spring-boot-starter@3.1.1.M3
+- pkg:maven/cn.huangxulin/code-generator-spring-boot-starter@3.1.1.M4
+- pkg:maven/cn.huangxulin/code-generator-spring-boot-starter@3.1.1.M5
+- pkg:maven/cn.huangxulin/code-generator-spring-boot-starter@3.1.1?classifier=sources

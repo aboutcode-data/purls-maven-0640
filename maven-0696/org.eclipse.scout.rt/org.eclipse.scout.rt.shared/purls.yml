@@ -64,6 +64,14 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.14?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.15
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.15?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.18
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.18?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.19
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.19?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.20
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.20?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.24
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.24?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.3
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.shared@11.0.9

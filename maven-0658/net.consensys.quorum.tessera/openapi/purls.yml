@@ -1,0 +1,2 @@
+- pkg:maven/net.consensys.quorum.tessera/openapi@0.0.6?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/openapi@21.7.0?classifier=sources

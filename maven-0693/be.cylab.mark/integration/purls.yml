@@ -32,3 +32,7 @@
 - pkg:maven/be.cylab.mark/integration@2.2.1
 - pkg:maven/be.cylab.mark/integration@2.2.2
 - pkg:maven/be.cylab.mark/integration@2.3.0
+- pkg:maven/be.cylab.mark/integration@2.5.0
+- pkg:maven/be.cylab.mark/integration@2.5.1
+- pkg:maven/be.cylab.mark/integration@2.5.2
+- pkg:maven/be.cylab.mark/integration@2.5.3

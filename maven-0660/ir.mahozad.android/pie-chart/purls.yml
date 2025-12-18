@@ -1,1 +1,4 @@
 - pkg:maven/ir.mahozad.android/pie-chart@0.1.0?classifier=sources
+- pkg:maven/ir.mahozad.android/pie-chart@0.2.0?classifier=sources
+- pkg:maven/ir.mahozad.android/pie-chart@0.3.0?classifier=sources
+- pkg:maven/ir.mahozad.android/pie-chart@0.4.0?classifier=sources

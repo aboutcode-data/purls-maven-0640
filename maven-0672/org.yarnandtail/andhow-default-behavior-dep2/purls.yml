@@ -1,0 +1,2 @@
+- pkg:maven/org.yarnandtail/andhow-default-behavior-dep2@0.4.1
+- pkg:maven/org.yarnandtail/andhow-default-behavior-dep2@0.4.1?classifier=sources

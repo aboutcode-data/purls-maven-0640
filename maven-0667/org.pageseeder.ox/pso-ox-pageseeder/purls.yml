@@ -2,3 +2,4 @@
 - pkg:maven/org.pageseeder.ox/pso-ox-pageseeder@2.2.62?classifier=sources
 - pkg:maven/org.pageseeder.ox/pso-ox-pageseeder@2.2.63?classifier=sources
 - pkg:maven/org.pageseeder.ox/pso-ox-pageseeder@2.2.64?classifier=sources
+- pkg:maven/org.pageseeder.ox/pso-ox-pageseeder@2.2.65?classifier=sources

@@ -54,5 +54,7 @@
 - pkg:maven/org.webjars.npm/node-releases@1.1.71?classifier=sources
 - pkg:maven/org.webjars.npm/node-releases@1.1.72
 - pkg:maven/org.webjars.npm/node-releases@1.1.72?classifier=sources
+- pkg:maven/org.webjars.npm/node-releases@1.1.73
+- pkg:maven/org.webjars.npm/node-releases@1.1.73?classifier=sources
 - pkg:maven/org.webjars.npm/node-releases@1.1.8
 - pkg:maven/org.webjars.npm/node-releases@1.1.8?classifier=sources

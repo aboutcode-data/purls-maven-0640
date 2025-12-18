@@ -84,3 +84,5 @@
 - pkg:maven/net.jangaroo/jangaroo-browser@4.0.54?classifier=sources
 - pkg:maven/net.jangaroo/jangaroo-browser@4.0.55?classifier=sources
 - pkg:maven/net.jangaroo/jangaroo-browser@4.1.0-alpha-1?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-browser@4.1.0-alpha-2?classifier=sources
+- pkg:maven/net.jangaroo/jangaroo-browser@4.1.0?classifier=sources

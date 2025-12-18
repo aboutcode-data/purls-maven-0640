@@ -1,0 +1,4 @@
+- pkg:maven/dev.profunktor/redis4cats-effects_3@0.14.0
+- pkg:maven/dev.profunktor/redis4cats-effects_3@0.14.0?classifier=sources
+- pkg:maven/dev.profunktor/redis4cats-effects_3@1.0.0
+- pkg:maven/dev.profunktor/redis4cats-effects_3@1.0.0?classifier=sources

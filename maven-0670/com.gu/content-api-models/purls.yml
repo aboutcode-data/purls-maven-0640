@@ -137,6 +137,7 @@
 - pkg:maven/com.gu/content-api-models@16.1.0-RC1
 - pkg:maven/com.gu/content-api-models@16.2.0-RC1
 - pkg:maven/com.gu/content-api-models@17.0.0
+- pkg:maven/com.gu/content-api-models@17.1.0
 - pkg:maven/com.gu/content-api-models@8.1.2
 - pkg:maven/com.gu/content-api-models@8.1.2?classifier=sources
 - pkg:maven/com.gu/content-api-models@8.10

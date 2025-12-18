@@ -1,0 +1,2 @@
+- pkg:maven/com.teragrep/jla_06@1.0.1
+- pkg:maven/com.teragrep/jla_06@1.0.1?classifier=sources

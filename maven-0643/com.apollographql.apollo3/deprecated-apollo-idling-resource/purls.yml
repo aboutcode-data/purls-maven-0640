@@ -1,0 +1,4 @@
+- pkg:maven/com.apollographql.apollo3/deprecated-apollo-idling-resource@3.0.0-alpha01?classifier=sources
+- pkg:maven/com.apollographql.apollo3/deprecated-apollo-idling-resource@3.0.0-alpha02?classifier=sources
+- pkg:maven/com.apollographql.apollo3/deprecated-apollo-idling-resource@3.0.0-dev13?classifier=sources
+- pkg:maven/com.apollographql.apollo3/deprecated-apollo-idling-resource@3.0.0-dev14?classifier=sources
