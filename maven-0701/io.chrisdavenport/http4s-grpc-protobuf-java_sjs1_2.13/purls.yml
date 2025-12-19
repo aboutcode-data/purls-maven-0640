@@ -6,3 +6,13 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.22.2%2B0.0.3?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.22.3%2B0.0.4
 - pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.22.3%2B0.0.4?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.22.3%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.22.3%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.22.4%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.22.4%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.23.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.23.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.23.1%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.23.1%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.23.2%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-protobuf-java_sjs1_2.13@3.23.2%2B0.0.5?classifier=sources

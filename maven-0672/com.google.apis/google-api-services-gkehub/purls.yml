@@ -90,6 +90,10 @@
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1-rev20230329-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1-rev20230407-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1-rev20230407-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1-rev20230414-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1-rev20230414-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1-rev20230424-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1-rev20230424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20210305-1.31.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20210305-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20210315-1.31.0
@@ -200,6 +204,10 @@
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20230329-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20230407-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20230407-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20230414-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20230414-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20230424-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha-rev20230424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha2-rev20210305-1.31.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha2-rev20210305-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha2-rev20210315-1.31.0
@@ -258,6 +266,8 @@
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha2-rev20230310-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha2-rev20230407-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha2-rev20230407-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha2-rev20230424-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1alpha2-rev20230424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20210315-1.31.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20210315-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20210322-1.31.0
@@ -348,6 +358,10 @@
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20230329-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20230407-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20230407-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20230414-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20230414-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20230424-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1beta-rev20230424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta1-rev20210305-1.31.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta1-rev20210305-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta1-rev20210315-1.31.0
@@ -404,6 +418,8 @@
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta1-rev20230310-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta1-rev20230407-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v1beta1-rev20230407-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1beta1-rev20230424-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkehub@v1beta1-rev20230424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v2alpha-rev20220204-1.32.1
 - pkg:maven/com.google.apis/google-api-services-gkehub@v2alpha-rev20220204-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v2alpha-rev20220303-1.32.1
@@ -416,3 +432,5 @@
 - pkg:maven/com.google.apis/google-api-services-gkehub@v2alpha-rev20220401-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkehub@v2alpha-rev20230310-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gkehub@v2alpha-rev20230310-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkehub@v2alpha-rev20230424-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkehub@v2alpha-rev20230424-2.0.0?classifier=sources

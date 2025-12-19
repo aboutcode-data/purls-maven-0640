@@ -24,4 +24,9 @@
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@22.12.14.Final?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@23.03.15.Final?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@23.03.23.Final?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@23.05.15.Final?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@23.05.17.Final?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@23.05.18.Final?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@23.05.25.Final?type=zip
+- pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@23.05.31.Final?type=zip
 - pkg:maven/org.jboss.windup.maven/nexus-indexer-data-text@7.0?type=zip

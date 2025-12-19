@@ -2,3 +2,4 @@
 - pkg:maven/io.nrbtech.rxandroidble/rxandroidble@2.0.0?classifier=sources
 - pkg:maven/io.nrbtech.rxandroidble/rxandroidble@2.1.0?classifier=sources
 - pkg:maven/io.nrbtech.rxandroidble/rxandroidble@2.2.0?classifier=sources
+- pkg:maven/io.nrbtech.rxandroidble/rxandroidble@2.2.1?classifier=sources

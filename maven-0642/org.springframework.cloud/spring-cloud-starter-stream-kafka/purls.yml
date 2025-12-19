@@ -77,6 +77,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-stream-kafka@3.2.5
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-stream-kafka@3.2.6
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-stream-kafka@3.2.7
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-stream-kafka@3.2.8
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-stream-kafka@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-stream-kafka@4.0.1
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-stream-kafka@4.0.2
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-stream-kafka@4.0.3

@@ -52,3 +52,17 @@
 - pkg:maven/com.gitee.feizns/dynamic@3.5-RELEASE?classifier=sources
 - pkg:maven/com.gitee.feizns/dynamic@3.6-RELEASE
 - pkg:maven/com.gitee.feizns/dynamic@3.6-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@3.7-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@3.7-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@3.8-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@3.8-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@3.9-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@3.9-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@4.0-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@4.0-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@4.1-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@4.1-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@4.2-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@4.2-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@4.4-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@4.4-RELEASE?classifier=sources

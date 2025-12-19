@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/preact-render-to-string@5.2.6
+- pkg:maven/org.webjars.npm/preact-render-to-string@5.2.6?classifier=sources
+- pkg:maven/org.webjars.npm/preact-render-to-string@6.0.0
 - pkg:maven/org.webjars.npm/preact-render-to-string@6.0.0-experimental.0
 - pkg:maven/org.webjars.npm/preact-render-to-string@6.0.0-experimental.0?classifier=sources
+- pkg:maven/org.webjars.npm/preact-render-to-string@6.0.0?classifier=sources

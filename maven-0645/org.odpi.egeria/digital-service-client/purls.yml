@@ -5,3 +5,4 @@
 - pkg:maven/org.odpi.egeria/digital-service-client@3.15
 - pkg:maven/org.odpi.egeria/digital-service-client@3.15?classifier=sources
 - pkg:maven/org.odpi.egeria/digital-service-client@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/digital-service-client@4.1?classifier=sources

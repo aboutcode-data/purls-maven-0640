@@ -96,3 +96,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-client-admin@2.9.4?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-client-admin@2.9.5
 - pkg:maven/org.apache.pulsar/pulsar-client-admin@2.9.5?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-client-admin@3.0.0
+- pkg:maven/org.apache.pulsar/pulsar-client-admin@3.0.0?classifier=sources

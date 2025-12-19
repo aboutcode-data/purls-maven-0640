@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.modelkit@2.5.1
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.modelkit@2.5.1?classifier=sources

@@ -89,6 +89,9 @@
 - pkg:maven/com.onfido.api.client/onfido-api-client@16.1.0?classifier=sources
 - pkg:maven/com.onfido.api.client/onfido-api-client@16.2.0?classifier=sources
 - pkg:maven/com.onfido.api.client/onfido-api-client@16.3.0?classifier=sources
+- pkg:maven/com.onfido.api.client/onfido-api-client@16.3.1?classifier=sources
+- pkg:maven/com.onfido.api.client/onfido-api-client@16.3.2?classifier=sources
+- pkg:maven/com.onfido.api.client/onfido-api-client@17.0.0?classifier=sources
 - pkg:maven/com.onfido.api.client/onfido-api-client@2.0.0
 - pkg:maven/com.onfido.api.client/onfido-api-client@2.0.0?classifier=sources
 - pkg:maven/com.onfido.api.client/onfido-api-client@2.1.0

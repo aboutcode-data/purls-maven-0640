@@ -6,3 +6,7 @@
 - pkg:maven/org.jeyzer/jeyzer-demo-shared@2.2?classifier=sources
 - pkg:maven/org.jeyzer/jeyzer-demo-shared@2.3
 - pkg:maven/org.jeyzer/jeyzer-demo-shared@2.3?classifier=sources
+- pkg:maven/org.jeyzer/jeyzer-demo-shared@3.0
+- pkg:maven/org.jeyzer/jeyzer-demo-shared@3.0?classifier=sources
+- pkg:maven/org.jeyzer/jeyzer-demo-shared@3.1
+- pkg:maven/org.jeyzer/jeyzer-demo-shared@3.1?classifier=sources

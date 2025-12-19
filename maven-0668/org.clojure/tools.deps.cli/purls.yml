@@ -10,3 +10,7 @@
 - pkg:maven/org.clojure/tools.deps.cli@0.9.30?classifier=sources
 - pkg:maven/org.clojure/tools.deps.cli@0.9.35
 - pkg:maven/org.clojure/tools.deps.cli@0.9.35?classifier=sources
+- pkg:maven/org.clojure/tools.deps.cli@0.9.41
+- pkg:maven/org.clojure/tools.deps.cli@0.9.41?classifier=sources
+- pkg:maven/org.clojure/tools.deps.cli@0.9.43
+- pkg:maven/org.clojure/tools.deps.cli@0.9.43?classifier=sources

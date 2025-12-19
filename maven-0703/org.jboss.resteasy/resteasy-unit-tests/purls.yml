@@ -18,6 +18,7 @@
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.4.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.5.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.6.Final
+- pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.7.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.0.0.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.0.1.Final
@@ -33,3 +34,4 @@
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.1.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.2.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.3.Final
+- pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.4.Final

@@ -24,3 +24,5 @@
 - pkg:maven/org.webjars.npm/vscode-languageserver-types@3.17.2?classifier=sources
 - pkg:maven/org.webjars.npm/vscode-languageserver-types@3.17.3-next.1
 - pkg:maven/org.webjars.npm/vscode-languageserver-types@3.17.3-next.1?classifier=sources
+- pkg:maven/org.webjars.npm/vscode-languageserver-types@3.17.4-next.0
+- pkg:maven/org.webjars.npm/vscode-languageserver-types@3.17.4-next.0?classifier=sources

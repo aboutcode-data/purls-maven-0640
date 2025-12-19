@@ -31,6 +31,10 @@
 - pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.15.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.16.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.17.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.17.1?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.17.2?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.17.3?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.17.4?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.2.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.3.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-pushprovider-xiaomi@5.3.1?classifier=sources

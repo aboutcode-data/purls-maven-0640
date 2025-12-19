@@ -24,3 +24,13 @@
 - pkg:maven/com.pulumi/auth0@2.19.0-alpha.1679412869%2Bf901e9d9?classifier=sources
 - pkg:maven/com.pulumi/auth0@2.19.0-alpha.1679557424%2Bb493ba34?classifier=sources
 - pkg:maven/com.pulumi/auth0@2.19.0-alpha.1680907897%2B27cc23f0?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.19.0-alpha.1681926962%2B9ea134f5?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.19.0-alpha.1682378998%2B4c53bba5?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.19.0-alpha.1682698712%2Beafc4342?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.19.0-alpha.1682710214%2Bb042a2e0?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.19.0-alpha.1683051868%2B3ddb8450?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.19.0-alpha.1683053108%2B96f77653?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.19.0?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.20.0-alpha.1683264042%2B308d9cd5?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.20.0-alpha.1683350240%2B8b2354fb?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.20.0-alpha.1683609460%2Bbb9463d0?classifier=sources

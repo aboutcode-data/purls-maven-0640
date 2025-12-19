@@ -1,0 +1,2 @@
+- pkg:maven/ai.h2o/daimojo@2.7.12.25
+- pkg:maven/ai.h2o/daimojo@2.7.12.25?classifier=sources

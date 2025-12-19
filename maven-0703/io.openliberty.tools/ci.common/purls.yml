@@ -36,6 +36,8 @@
 - pkg:maven/io.openliberty.tools/ci.common@1.8.22?classifier=sources
 - pkg:maven/io.openliberty.tools/ci.common@1.8.23
 - pkg:maven/io.openliberty.tools/ci.common@1.8.23?classifier=sources
+- pkg:maven/io.openliberty.tools/ci.common@1.8.24
+- pkg:maven/io.openliberty.tools/ci.common@1.8.24?classifier=sources
 - pkg:maven/io.openliberty.tools/ci.common@1.8.2?classifier=sources
 - pkg:maven/io.openliberty.tools/ci.common@1.8.3
 - pkg:maven/io.openliberty.tools/ci.common@1.8.3?classifier=sources

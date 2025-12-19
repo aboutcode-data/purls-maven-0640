@@ -1,1 +1,4 @@
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-test-adapter@1.0.8-beta
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-test-adapter@1.0.9-beta
 - pkg:maven/org.dromara.dynamictp/dynamic-tp-test-adapter@1.1.0-beta
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-test-adapter@1.1.3

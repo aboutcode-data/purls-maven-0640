@@ -265,5 +265,7 @@
 - pkg:maven/org.openjfx/javafx-web@20.0.1
 - pkg:maven/org.openjfx/javafx-web@20.0.1?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@20?classifier=sources
+- pkg:maven/org.openjfx/javafx-web@21-ea%2B17
+- pkg:maven/org.openjfx/javafx-web@21-ea%2B17?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B5
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B5?classifier=sources

@@ -30,6 +30,14 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.1
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.1?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.2
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.2?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.3
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.3?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.4
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.4?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.5
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.20.5?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.8.0
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.8.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.8.1

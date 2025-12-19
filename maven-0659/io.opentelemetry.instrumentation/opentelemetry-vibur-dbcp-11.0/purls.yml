@@ -14,3 +14,5 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-vibur-dbcp-11.0@1.23.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-vibur-dbcp-11.0@1.24.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-vibur-dbcp-11.0@1.25.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-vibur-dbcp-11.0@1.25.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-vibur-dbcp-11.0@1.26.0-alpha?classifier=sources

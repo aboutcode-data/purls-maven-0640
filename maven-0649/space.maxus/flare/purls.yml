@@ -1,0 +1,4 @@
+- pkg:maven/space.maxus/flare@0.3.1?classifier=sources
+- pkg:maven/space.maxus/flare@0.4.0?classifier=sources
+- pkg:maven/space.maxus/flare@0.9.0?classifier=sources
+- pkg:maven/space.maxus/flare@1.0.0?classifier=sources

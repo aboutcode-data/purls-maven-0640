@@ -4,3 +4,5 @@
 - pkg:maven/org.phoebus/save-and-restore-common@4.7.0?classifier=sources
 - pkg:maven/org.phoebus/save-and-restore-common@4.7.1
 - pkg:maven/org.phoebus/save-and-restore-common@4.7.1?classifier=sources
+- pkg:maven/org.phoebus/save-and-restore-common@4.7.2
+- pkg:maven/org.phoebus/save-and-restore-common@4.7.2?classifier=sources

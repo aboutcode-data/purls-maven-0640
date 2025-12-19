@@ -54,3 +54,5 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-core@1.1.7?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-core@1.1.8-jdk17
 - pkg:maven/tech.mhuang.pacebox/pacebox-core@1.1.8-jdk17?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-core@1.1.9-jdk17
+- pkg:maven/tech.mhuang.pacebox/pacebox-core@1.1.9-jdk17?classifier=sources

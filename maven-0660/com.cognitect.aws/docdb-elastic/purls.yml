@@ -1,2 +1,4 @@
 - pkg:maven/com.cognitect.aws/docdb-elastic@825.2.1266.0
 - pkg:maven/com.cognitect.aws/docdb-elastic@825.2.1266.0?classifier=sources
+- pkg:maven/com.cognitect.aws/docdb-elastic@847.2.1365.0
+- pkg:maven/com.cognitect.aws/docdb-elastic@847.2.1365.0?classifier=sources

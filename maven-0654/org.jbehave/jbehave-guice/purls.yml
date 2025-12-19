@@ -293,4 +293,6 @@
 - pkg:maven/org.jbehave/jbehave-guice@5.0
 - pkg:maven/org.jbehave/jbehave-guice@5.0?classifier=sources
 - pkg:maven/org.jbehave/jbehave-guice@5.1
+- pkg:maven/org.jbehave/jbehave-guice@5.1.1
+- pkg:maven/org.jbehave/jbehave-guice@5.1.1?classifier=sources
 - pkg:maven/org.jbehave/jbehave-guice@5.1?classifier=sources

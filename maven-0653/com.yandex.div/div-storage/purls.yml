@@ -19,6 +19,8 @@
 - pkg:maven/com.yandex.div/div-storage@23.7.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@24.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@24.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@24.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@24.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@7.0.0?classifier=sources

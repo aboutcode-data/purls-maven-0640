@@ -5,4 +5,6 @@
 - pkg:maven/io.github.astrapi69/swing-tree-component@2.1?classifier=sources
 - pkg:maven/io.github.astrapi69/swing-tree-component@2.2?classifier=sources
 - pkg:maven/io.github.astrapi69/swing-tree-component@2.3?classifier=sources
+- pkg:maven/io.github.astrapi69/swing-tree-component@2.4?classifier=sources
+- pkg:maven/io.github.astrapi69/swing-tree-component@2.5?classifier=sources
 - pkg:maven/io.github.astrapi69/swing-tree-component@2?classifier=sources

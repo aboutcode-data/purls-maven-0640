@@ -334,3 +334,5 @@
 - pkg:maven/org.scalameta/trees_2.11@4.7.6?classifier=sources
 - pkg:maven/org.scalameta/trees_2.11@4.7.7
 - pkg:maven/org.scalameta/trees_2.11@4.7.7?classifier=sources
+- pkg:maven/org.scalameta/trees_2.11@4.7.8
+- pkg:maven/org.scalameta/trees_2.11@4.7.8?classifier=sources

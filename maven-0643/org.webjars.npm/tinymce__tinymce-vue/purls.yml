@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/tinymce__tinymce-vue@1.0.8?classifier=sources
 - pkg:maven/org.webjars.npm/tinymce__tinymce-vue@4.0.0
 - pkg:maven/org.webjars.npm/tinymce__tinymce-vue@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/tinymce__tinymce-vue@5.1.0
+- pkg:maven/org.webjars.npm/tinymce__tinymce-vue@5.1.0?classifier=sources

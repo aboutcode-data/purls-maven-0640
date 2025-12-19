@@ -1,0 +1,2 @@
+- pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.10
+- pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.10?classifier=sources

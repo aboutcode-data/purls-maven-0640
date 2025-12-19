@@ -14,3 +14,10 @@
 - pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@4.0.0?classifier=sources
 - pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@5.0.0-M1?classifier=sources
 - pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@5.0.0-M2?classifier=sources
+- pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@5.0.0-M3?classifier=sources
+- pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@5.0.0-M4?classifier=sources
+- pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@5.0.0-M5?classifier=sources
+- pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@5.0.0-M6?classifier=sources
+- pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@5.0.0-M7?classifier=sources
+- pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@5.0.0-M8?classifier=sources
+- pkg:maven/io.micronaut.r2dbc/micronaut-r2dbc-core@5.0.0-M9?classifier=sources

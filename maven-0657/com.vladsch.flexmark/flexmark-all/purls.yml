@@ -182,3 +182,5 @@
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.62.0
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.62.2
 - pkg:maven/com.vladsch.flexmark/flexmark-all@0.64.0
+- pkg:maven/com.vladsch.flexmark/flexmark-all@0.64.2
+- pkg:maven/com.vladsch.flexmark/flexmark-all@0.64.4

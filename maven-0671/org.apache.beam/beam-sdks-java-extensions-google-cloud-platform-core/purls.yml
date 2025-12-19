@@ -60,6 +60,8 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core@2.44.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core@2.45.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core@2.46.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core@2.47.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core@2.48.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core@2.5.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core@2.6.0
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-google-cloud-platform-core@2.6.0?classifier=sources

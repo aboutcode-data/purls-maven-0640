@@ -19,3 +19,4 @@
 - pkg:maven/org.odpi.egeria/digital-architecture-topic-connectors@3.9
 - pkg:maven/org.odpi.egeria/digital-architecture-topic-connectors@3.9?classifier=sources
 - pkg:maven/org.odpi.egeria/digital-architecture-topic-connectors@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/digital-architecture-topic-connectors@4.1?classifier=sources

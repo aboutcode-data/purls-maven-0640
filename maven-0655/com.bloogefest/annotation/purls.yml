@@ -3,3 +3,5 @@
 - pkg:maven/com.bloogefest/annotation@1.0.0?classifier=sources
 - pkg:maven/com.bloogefest/annotation@1.0.1-RC1?classifier=sources
 - pkg:maven/com.bloogefest/annotation@1.0.1?classifier=sources
+- pkg:maven/com.bloogefest/annotation@2.0.0-RC1?classifier=sources
+- pkg:maven/com.bloogefest/annotation@2.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.cognitect.aws/controltower@823.2.1216.0
 - pkg:maven/com.cognitect.aws/controltower@823.2.1216.0?classifier=sources
+- pkg:maven/com.cognitect.aws/controltower@847.2.1365.0
+- pkg:maven/com.cognitect.aws/controltower@847.2.1365.0?classifier=sources

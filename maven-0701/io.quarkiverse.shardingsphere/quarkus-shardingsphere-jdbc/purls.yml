@@ -10,7 +10,9 @@
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@1.0.1?classifier=sources
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@1.0.2
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@1.0.2?classifier=sources
+- pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.0.0
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.0.0.CR1
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.0.0.CR1?classifier=sources
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.0.0.CR2
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.0.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.0.0?classifier=sources

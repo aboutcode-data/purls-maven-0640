@@ -36,3 +36,5 @@
 - pkg:maven/com.ensarsarajcic.neovim.java/api-explorer@0.4.5?classifier=sources
 - pkg:maven/com.ensarsarajcic.neovim.java/api-explorer@0.4.6
 - pkg:maven/com.ensarsarajcic.neovim.java/api-explorer@0.4.6?classifier=sources
+- pkg:maven/com.ensarsarajcic.neovim.java/api-explorer@0.5.0
+- pkg:maven/com.ensarsarajcic.neovim.java/api-explorer@0.5.0?classifier=sources

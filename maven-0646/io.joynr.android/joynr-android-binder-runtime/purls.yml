@@ -70,3 +70,4 @@
 - pkg:maven/io.joynr.android/joynr-android-binder-runtime@1.21.7?classifier=sources
 - pkg:maven/io.joynr.android/joynr-android-binder-runtime@1.21.9?classifier=sources
 - pkg:maven/io.joynr.android/joynr-android-binder-runtime@1.22.0?classifier=sources
+- pkg:maven/io.joynr.android/joynr-android-binder-runtime@1.23.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/unocss__preset-mini@0.52.1
+- pkg:maven/org.webjars.npm/unocss__preset-mini@0.52.1?classifier=sources
+- pkg:maven/org.webjars.npm/unocss__preset-mini@0.52.3
+- pkg:maven/org.webjars.npm/unocss__preset-mini@0.52.3?classifier=sources
+- pkg:maven/org.webjars.npm/unocss__preset-mini@0.52.7
+- pkg:maven/org.webjars.npm/unocss__preset-mini@0.52.7?classifier=sources

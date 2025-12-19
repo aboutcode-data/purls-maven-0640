@@ -10,3 +10,7 @@
 - pkg:maven/org.codelibs.fess/fess-crawler-playwright@14.6.3?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-playwright@14.7.0
 - pkg:maven/org.codelibs.fess/fess-crawler-playwright@14.7.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-crawler-playwright@14.8.0
+- pkg:maven/org.codelibs.fess/fess-crawler-playwright@14.8.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-crawler-playwright@14.8.1
+- pkg:maven/org.codelibs.fess/fess-crawler-playwright@14.8.1?classifier=sources

@@ -94,3 +94,7 @@
 - pkg:maven/pl.morgwai.base/servlet-scopes@9.3-jakarta?classifier=sources
 - pkg:maven/pl.morgwai.base/servlet-scopes@9.3-javax
 - pkg:maven/pl.morgwai.base/servlet-scopes@9.3-javax?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-scopes@9.4-jakarta
+- pkg:maven/pl.morgwai.base/servlet-scopes@9.4-jakarta?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-scopes@9.4-javax
+- pkg:maven/pl.morgwai.base/servlet-scopes@9.4-javax?classifier=sources

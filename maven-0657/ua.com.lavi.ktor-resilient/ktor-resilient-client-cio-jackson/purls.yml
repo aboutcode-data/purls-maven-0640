@@ -1,1 +1,2 @@
 - pkg:maven/ua.com.lavi.ktor-resilient/ktor-resilient-client-cio-jackson@0.1.1?classifier=sources
+- pkg:maven/ua.com.lavi.ktor-resilient/ktor-resilient-client-cio-jackson@0.1.2?classifier=sources

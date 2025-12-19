@@ -288,6 +288,8 @@
 - pkg:maven/org.openl/org.openl.grammars@5.26.6?classifier=sources
 - pkg:maven/org.openl/org.openl.grammars@5.26.7
 - pkg:maven/org.openl/org.openl.grammars@5.26.7?classifier=sources
+- pkg:maven/org.openl/org.openl.grammars@5.26.8
+- pkg:maven/org.openl/org.openl.grammars@5.26.8?classifier=sources
 - pkg:maven/org.openl/org.openl.grammars@5.7.0
 - pkg:maven/org.openl/org.openl.grammars@5.7.0?classifier=sources
 - pkg:maven/org.openl/org.openl.grammars@5.7.1

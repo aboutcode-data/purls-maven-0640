@@ -66,6 +66,8 @@
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.134?type=zip
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.135?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.135?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.136?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.136?type=zip
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.53?type=zip
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.54?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/it.osys/jaxrs-odata@1.2.8?classifier=sources
 - pkg:maven/it.osys/jaxrs-odata@1.2.9
 - pkg:maven/it.osys/jaxrs-odata@1.2.9?classifier=sources
+- pkg:maven/it.osys/jaxrs-odata@2.0.0
+- pkg:maven/it.osys/jaxrs-odata@2.0.0?classifier=sources

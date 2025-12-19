@@ -1,3 +1,5 @@
 - pkg:maven/info.cqframework/engine-jaxb@2.5.0?classifier=sources
 - pkg:maven/info.cqframework/engine-jaxb@2.6.0?classifier=sources
 - pkg:maven/info.cqframework/engine-jaxb@2.7.0?classifier=sources
+- pkg:maven/info.cqframework/engine-jaxb@2.8.0?classifier=sources
+- pkg:maven/info.cqframework/engine-jaxb@2.9.0?classifier=sources

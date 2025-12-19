@@ -1,0 +1,8 @@
+- pkg:maven/io.github.michelin/spring-kafka-streams-commons@1.0.0-beta
+- pkg:maven/io.github.michelin/spring-kafka-streams-commons@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.michelin/spring-kafka-streams-commons@1.0.1-beta
+- pkg:maven/io.github.michelin/spring-kafka-streams-commons@1.0.1-beta?classifier=sources
+- pkg:maven/io.github.michelin/spring-kafka-streams-commons@2.0.0-beta
+- pkg:maven/io.github.michelin/spring-kafka-streams-commons@2.0.0-beta?classifier=sources
+- pkg:maven/io.github.michelin/spring-kafka-streams-commons@2.0.1-beta
+- pkg:maven/io.github.michelin/spring-kafka-streams-commons@2.0.1-beta?classifier=sources

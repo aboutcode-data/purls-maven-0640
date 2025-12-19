@@ -1,0 +1,2 @@
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-webrtcstorage@2.68.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-webrtcstorage@2.68.0?type=aar

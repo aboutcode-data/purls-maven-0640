@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.lyo.oslc4j.core/lyo-core-model@5.1.0-alpha
+- pkg:maven/org.eclipse.lyo.oslc4j.core/lyo-core-model@5.1.0-alpha?classifier=sources

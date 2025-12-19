@@ -1,0 +1,2 @@
+- pkg:maven/io.github.holmofy/spring-data-r2dbc-criteria-example@3.0.5
+- pkg:maven/io.github.holmofy/spring-data-r2dbc-criteria-example@3.0.5?classifier=sources

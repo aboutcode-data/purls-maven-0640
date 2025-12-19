@@ -249,3 +249,4 @@
 - pkg:maven/com.solutionappliance/sacore@2.9.9
 - pkg:maven/com.solutionappliance/sacore@2.9.9?classifier=sources
 - pkg:maven/com.solutionappliance/sacore@3.0.0?classifier=sources
+- pkg:maven/com.solutionappliance/sacore@3.0.1?classifier=sources

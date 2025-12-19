@@ -11,3 +11,5 @@
 - pkg:maven/de.westnordost/countryboundaries@1.5
 - pkg:maven/de.westnordost/countryboundaries@1.5?classifier=sources
 - pkg:maven/de.westnordost/countryboundaries@1.6?classifier=sources
+- pkg:maven/de.westnordost/countryboundaries@2.0?classifier=sources
+- pkg:maven/de.westnordost/countryboundaries@2.1?classifier=sources

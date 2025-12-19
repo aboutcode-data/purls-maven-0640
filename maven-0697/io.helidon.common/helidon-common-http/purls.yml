@@ -47,6 +47,8 @@
 - pkg:maven/io.helidon.common/helidon-common-http@1.4.11?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-http@1.4.12
 - pkg:maven/io.helidon.common/helidon-common-http@1.4.12?classifier=sources
+- pkg:maven/io.helidon.common/helidon-common-http@1.4.13
+- pkg:maven/io.helidon.common/helidon-common-http@1.4.13?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-http@1.4.1?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-http@1.4.2
 - pkg:maven/io.helidon.common/helidon-common-http@1.4.2?classifier=sources
@@ -122,6 +124,8 @@
 - pkg:maven/io.helidon.common/helidon-common-http@2.5.6?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-http@2.6.0
 - pkg:maven/io.helidon.common/helidon-common-http@2.6.0?classifier=sources
+- pkg:maven/io.helidon.common/helidon-common-http@2.6.1
+- pkg:maven/io.helidon.common/helidon-common-http@2.6.1?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-http@3.0.0
 - pkg:maven/io.helidon.common/helidon-common-http@3.0.0-M1
 - pkg:maven/io.helidon.common/helidon-common-http@3.0.0-M1?classifier=sources
@@ -144,6 +148,8 @@
 - pkg:maven/io.helidon.common/helidon-common-http@3.1.2?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-http@3.2.0
 - pkg:maven/io.helidon.common/helidon-common-http@3.2.0?classifier=sources
+- pkg:maven/io.helidon.common/helidon-common-http@3.2.1
+- pkg:maven/io.helidon.common/helidon-common-http@3.2.1?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-http@4.0.0-ALPHA1
 - pkg:maven/io.helidon.common/helidon-common-http@4.0.0-ALPHA1?classifier=sources
 - pkg:maven/io.helidon.common/helidon-common-http@4.0.0-ALPHA2

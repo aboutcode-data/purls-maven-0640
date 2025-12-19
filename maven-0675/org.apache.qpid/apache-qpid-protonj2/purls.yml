@@ -3,6 +3,7 @@
 - pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M12?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M13?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M14?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M15?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M3?classifier=src&type=tar.gz

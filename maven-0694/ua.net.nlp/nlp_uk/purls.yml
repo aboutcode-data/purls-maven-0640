@@ -1,2 +1,3 @@
 - pkg:maven/ua.net.nlp/nlp_uk@3.1.0?classifier=sources
 - pkg:maven/ua.net.nlp/nlp_uk@3.2.1?classifier=sources
+- pkg:maven/ua.net.nlp/nlp_uk@3.2.2?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/org.rdlinux/ez-mybatis-expand@0.4.2.RS?classifier=sources
 - pkg:maven/org.rdlinux/ez-mybatis-expand@0.4.3.RS
 - pkg:maven/org.rdlinux/ez-mybatis-expand@0.4.3.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-expand@0.4.4.RS
+- pkg:maven/org.rdlinux/ez-mybatis-expand@0.4.4.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-expand@0.4.5.RS
+- pkg:maven/org.rdlinux/ez-mybatis-expand@0.4.5.RS?classifier=sources

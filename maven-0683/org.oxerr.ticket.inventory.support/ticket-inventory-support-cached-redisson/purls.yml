@@ -1,0 +1,2 @@
+- pkg:maven/org.oxerr.ticket.inventory.support/ticket-inventory-support-cached-redisson@0.0.1
+- pkg:maven/org.oxerr.ticket.inventory.support/ticket-inventory-support-cached-redisson@0.0.1?classifier=sources

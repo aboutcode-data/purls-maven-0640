@@ -310,3 +310,7 @@
 - pkg:maven/io.airlift/event@228?classifier=sources
 - pkg:maven/io.airlift/event@229
 - pkg:maven/io.airlift/event@229?classifier=sources
+- pkg:maven/io.airlift/event@230
+- pkg:maven/io.airlift/event@230?classifier=sources
+- pkg:maven/io.airlift/event@231
+- pkg:maven/io.airlift/event@231?classifier=sources

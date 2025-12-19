@@ -16,3 +16,5 @@
 - pkg:maven/com.tcdng.unify/unify-common@2.1.59?classifier=sources
 - pkg:maven/com.tcdng.unify/unify-common@2.1.60
 - pkg:maven/com.tcdng.unify/unify-common@2.1.60?classifier=sources
+- pkg:maven/com.tcdng.unify/unify-common@2.1.61
+- pkg:maven/com.tcdng.unify/unify-common@2.1.61?classifier=sources
