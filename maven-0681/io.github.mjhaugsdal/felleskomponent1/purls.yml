@@ -1,0 +1,8 @@
+- pkg:maven/io.github.mjhaugsdal/felleskomponent1@1.0.0
+- pkg:maven/io.github.mjhaugsdal/felleskomponent1@1.0.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/felleskomponent1@2.0.0
+- pkg:maven/io.github.mjhaugsdal/felleskomponent1@2.0.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/felleskomponent1@3.0.0
+- pkg:maven/io.github.mjhaugsdal/felleskomponent1@3.0.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/felleskomponent1@4.0.0
+- pkg:maven/io.github.mjhaugsdal/felleskomponent1@4.0.0?classifier=sources

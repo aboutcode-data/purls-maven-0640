@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-tools@0.3.0
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-tools@0.3.0?classifier=sources

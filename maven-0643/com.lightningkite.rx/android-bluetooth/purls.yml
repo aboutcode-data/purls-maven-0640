@@ -1,0 +1,2 @@
+- pkg:maven/com.lightningkite.rx/android-bluetooth@1.0.5?classifier=sources
+- pkg:maven/com.lightningkite.rx/android-bluetooth@1.0.6?classifier=sources

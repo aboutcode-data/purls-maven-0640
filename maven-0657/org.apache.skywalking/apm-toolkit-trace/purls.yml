@@ -21,6 +21,7 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-trace@8.12.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-trace@8.13.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-trace@8.14.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-trace@8.15.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-trace@8.2.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-trace@8.3.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-trace@8.4.0

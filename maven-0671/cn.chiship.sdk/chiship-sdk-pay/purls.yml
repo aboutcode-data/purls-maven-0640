@@ -12,3 +12,5 @@
 - pkg:maven/cn.chiship.sdk/chiship-sdk-pay@1.9.4?classifier=sources
 - pkg:maven/cn.chiship.sdk/chiship-sdk-pay@2.1.1
 - pkg:maven/cn.chiship.sdk/chiship-sdk-pay@2.1.1?classifier=sources
+- pkg:maven/cn.chiship.sdk/chiship-sdk-pay@2.3.1
+- pkg:maven/cn.chiship.sdk/chiship-sdk-pay@2.3.1?classifier=sources

@@ -14,6 +14,7 @@
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.18.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.19.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.2.0?classifier=sources
+- pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.20.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.3.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.3.1?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.3.2?classifier=sources
@@ -28,3 +29,4 @@
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.7.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.8.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@2.9.0?classifier=sources
+- pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@3.0.0?classifier=sources

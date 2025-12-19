@@ -21,6 +21,8 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@10.0.13?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@10.0.14
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@10.0.14?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@10.0.15
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@10.0.15?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@10.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@10.0.2
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@10.0.2?classifier=sources
@@ -59,6 +61,8 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@11.0.13?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@11.0.14
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@11.0.14?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@11.0.15
+- pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@11.0.15?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@11.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@11.0.2
 - pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@11.0.2?classifier=sources

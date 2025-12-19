@@ -1,0 +1,4 @@
+- pkg:maven/build.buf/protobuf-javalite@3.22.2
+- pkg:maven/build.buf/protobuf-javalite@3.22.2?classifier=sources
+- pkg:maven/build.buf/protobuf-javalite@3.22.3
+- pkg:maven/build.buf/protobuf-javalite@3.22.3?classifier=sources

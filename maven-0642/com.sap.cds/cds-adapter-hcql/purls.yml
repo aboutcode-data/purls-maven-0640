@@ -2,3 +2,7 @@
 - pkg:maven/com.sap.cds/cds-adapter-hcql@1.32.0?classifier=sources
 - pkg:maven/com.sap.cds/cds-adapter-hcql@1.32.1
 - pkg:maven/com.sap.cds/cds-adapter-hcql@1.32.1?classifier=sources
+- pkg:maven/com.sap.cds/cds-adapter-hcql@1.33.0
+- pkg:maven/com.sap.cds/cds-adapter-hcql@1.33.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-adapter-hcql@1.33.1
+- pkg:maven/com.sap.cds/cds-adapter-hcql@1.33.1?classifier=sources

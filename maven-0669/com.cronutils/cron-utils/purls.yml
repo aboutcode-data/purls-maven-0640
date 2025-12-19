@@ -106,3 +106,5 @@
 - pkg:maven/com.cronutils/cron-utils@9.1.8?classifier=sources
 - pkg:maven/com.cronutils/cron-utils@9.2.0
 - pkg:maven/com.cronutils/cron-utils@9.2.0?classifier=sources
+- pkg:maven/com.cronutils/cron-utils@9.2.1
+- pkg:maven/com.cronutils/cron-utils@9.2.1?classifier=sources

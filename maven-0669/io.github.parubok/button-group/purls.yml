@@ -1,0 +1,2 @@
+- pkg:maven/io.github.parubok/button-group@1.5
+- pkg:maven/io.github.parubok/button-group@1.5?classifier=sources

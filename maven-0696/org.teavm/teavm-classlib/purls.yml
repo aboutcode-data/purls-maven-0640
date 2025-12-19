@@ -29,3 +29,4 @@
 - pkg:maven/org.teavm/teavm-classlib@0.7.0
 - pkg:maven/org.teavm/teavm-classlib@0.7.0?classifier=sources
 - pkg:maven/org.teavm/teavm-classlib@0.8.0?classifier=sources
+- pkg:maven/org.teavm/teavm-classlib@0.8.1?classifier=sources

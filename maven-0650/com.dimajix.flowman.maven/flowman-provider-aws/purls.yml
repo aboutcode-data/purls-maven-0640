@@ -1,0 +1,2 @@
+- pkg:maven/com.dimajix.flowman.maven/flowman-provider-aws@0.1.0
+- pkg:maven/com.dimajix.flowman.maven/flowman-provider-aws@0.1.0?classifier=sources

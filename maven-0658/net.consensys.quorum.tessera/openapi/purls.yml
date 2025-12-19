@@ -14,3 +14,4 @@
 - pkg:maven/net.consensys.quorum.tessera/openapi@22.1.7?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/openapi@22.10.0?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/openapi@22.10.1?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/openapi@23.4.0?classifier=sources

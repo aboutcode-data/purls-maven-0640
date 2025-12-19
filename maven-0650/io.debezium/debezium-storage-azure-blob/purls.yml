@@ -1,0 +1,4 @@
+- pkg:maven/io.debezium/debezium-storage-azure-blob@2.2.0.Beta1
+- pkg:maven/io.debezium/debezium-storage-azure-blob@2.2.0.Beta1?classifier=sources
+- pkg:maven/io.debezium/debezium-storage-azure-blob@2.2.0.CR1
+- pkg:maven/io.debezium/debezium-storage-azure-blob@2.2.0.CR1?classifier=sources

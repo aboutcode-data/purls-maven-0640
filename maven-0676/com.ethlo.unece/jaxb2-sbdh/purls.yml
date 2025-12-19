@@ -1,2 +1,4 @@
 - pkg:maven/com.ethlo.unece/jaxb2-sbdh@1.0.0
 - pkg:maven/com.ethlo.unece/jaxb2-sbdh@1.0.0?classifier=sources
+- pkg:maven/com.ethlo.unece/jaxb2-sbdh@1.1.0
+- pkg:maven/com.ethlo.unece/jaxb2-sbdh@1.1.0?classifier=sources

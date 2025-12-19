@@ -530,6 +530,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.22.RELEASE_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.22.RELEASE_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.22.RELEASE_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.23.RELEASE_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.23.RELEASE_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.23.RELEASE_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.23.RELEASE_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.3.RELEASE_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.3.RELEASE_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.2.3.RELEASE_1?classifier=src&type=tar.gz
@@ -626,6 +630,14 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.24_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.24_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.24_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.25_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.25_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.25_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.25_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.26_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.26_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.26_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.26_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.2_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.2_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@5.3.2_1?classifier=src&type=tar.gz
@@ -670,3 +682,11 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.4_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.4_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.4_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.6_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.6_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.6_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.7_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.7_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.7_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.spring-beans@6.0.7_1?classifier=src&type=zip

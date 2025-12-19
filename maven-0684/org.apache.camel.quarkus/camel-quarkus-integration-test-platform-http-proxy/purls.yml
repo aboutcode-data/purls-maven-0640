@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy@2.13.2
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy@2.13.2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy@2.13.3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy@2.13.3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy@2.16.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy@2.16.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-platform-http-proxy@3.0.0-M1

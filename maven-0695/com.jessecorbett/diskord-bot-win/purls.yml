@@ -1,1 +1,2 @@
 - pkg:maven/com.jessecorbett/diskord-bot-win@3.0.2?classifier=sources
+- pkg:maven/com.jessecorbett/diskord-bot-win@4.0.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/io.apicurio/apicurio-codegen@1.0.7.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-codegen@1.0.8.Final
 - pkg:maven/io.apicurio/apicurio-codegen@1.0.8.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-codegen@1.1.0.RC1
+- pkg:maven/io.apicurio/apicurio-codegen@1.1.0.RC1?classifier=sources

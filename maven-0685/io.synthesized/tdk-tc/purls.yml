@@ -5,4 +5,6 @@
 - pkg:maven/io.synthesized/tdk-tc@1.02?classifier=sources
 - pkg:maven/io.synthesized/tdk-tc@1.03
 - pkg:maven/io.synthesized/tdk-tc@1.03?classifier=sources
+- pkg:maven/io.synthesized/tdk-tc@1.04
+- pkg:maven/io.synthesized/tdk-tc@1.04?classifier=sources
 - pkg:maven/io.synthesized/tdk-tc@1.0?classifier=sources

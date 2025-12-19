@@ -1,3 +1,8 @@
+- pkg:maven/me.proton.core/crypto-validator@10.0.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator@10.1.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator@10.2.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator@10.2.1?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator@10.3.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator@5.2.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator@5.2.1?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator@5.2.2?classifier=sources
@@ -46,6 +51,10 @@
 - pkg:maven/me.proton.core/crypto-validator@9.15.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator@9.16.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator@9.16.1?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator@9.17.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator@9.17.1?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator@9.18.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator@9.19.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator@9.2.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator@9.2.1?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator@9.2.2?classifier=sources

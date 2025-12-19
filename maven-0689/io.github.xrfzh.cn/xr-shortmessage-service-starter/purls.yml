@@ -1,2 +1,12 @@
 - pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.2-RELEASE
 - pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.2-RELEASE?classifier=sources
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.3-RELEASE
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.3-RELEASE?classifier=sources
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.4-RELEASE
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.4-RELEASE?classifier=sources
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.5-RELEASE
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.5-RELEASE?classifier=sources
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.6-RELEASE
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.6-RELEASE?classifier=sources
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.7-RELEASE
+- pkg:maven/io.github.xrfzh.cn/xr-shortmessage-service-starter@2.8.7-RELEASE?classifier=sources

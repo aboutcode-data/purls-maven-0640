@@ -10,3 +10,4 @@
 - pkg:maven/org.spdx/spdx-spreadsheet-store@1.1.2?classifier=sources
 - pkg:maven/org.spdx/spdx-spreadsheet-store@1.1.3?classifier=sources
 - pkg:maven/org.spdx/spdx-spreadsheet-store@1.1.4?classifier=sources
+- pkg:maven/org.spdx/spdx-spreadsheet-store@1.1.5?classifier=sources

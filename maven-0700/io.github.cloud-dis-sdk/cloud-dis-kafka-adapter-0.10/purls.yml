@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cloud-dis-sdk/cloud-dis-kafka-adapter-0.10@1.2.18
+- pkg:maven/io.github.cloud-dis-sdk/cloud-dis-kafka-adapter-0.10@1.2.18?classifier=sources

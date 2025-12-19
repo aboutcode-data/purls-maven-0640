@@ -269,6 +269,9 @@
 - pkg:maven/com.liferay/com.liferay.questions.web@1.0.90
 - pkg:maven/com.liferay/com.liferay.questions.web@1.0.90?classifier=sources
 - pkg:maven/com.liferay/com.liferay.questions.web@1.0.90?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.questions.web@1.0.91
+- pkg:maven/com.liferay/com.liferay.questions.web@1.0.91?classifier=sources
+- pkg:maven/com.liferay/com.liferay.questions.web@1.0.91?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.questions.web@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.questions.web@1.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.questions.web@2.0.0
@@ -512,6 +515,12 @@
 - pkg:maven/com.liferay/com.liferay.questions.web@2.0.81
 - pkg:maven/com.liferay/com.liferay.questions.web@2.0.81?classifier=sources
 - pkg:maven/com.liferay/com.liferay.questions.web@2.0.81?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.questions.web@2.0.82
+- pkg:maven/com.liferay/com.liferay.questions.web@2.0.82?classifier=sources
+- pkg:maven/com.liferay/com.liferay.questions.web@2.0.82?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.questions.web@2.0.83
+- pkg:maven/com.liferay/com.liferay.questions.web@2.0.83?classifier=sources
+- pkg:maven/com.liferay/com.liferay.questions.web@2.0.83?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.questions.web@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.questions.web@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.questions.web@2.0.9

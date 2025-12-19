@@ -386,6 +386,8 @@
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.7.1?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.7.2
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.7.2?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.7.3
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.7.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.0
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.0?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.1
@@ -427,6 +429,10 @@
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.29?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.3
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.30
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.30?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.31
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.31?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.4
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@1.8.4?classifier=sources
@@ -442,3 +448,7 @@
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@2.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@2.0.1
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@2.0.1?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@2.0.2
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@2.0.2?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@2.0.4
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.tenant.resource.manager@2.0.4?classifier=sources

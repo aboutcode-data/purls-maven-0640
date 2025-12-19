@@ -1,0 +1,2 @@
+- pkg:maven/de.skuzzle.test/snapshot-tests-json@1.10.0?classifier=sources
+- pkg:maven/de.skuzzle.test/snapshot-tests-json@1.10.1?classifier=sources

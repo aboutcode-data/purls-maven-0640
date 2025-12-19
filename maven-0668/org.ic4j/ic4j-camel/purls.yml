@@ -12,3 +12,7 @@
 - pkg:maven/org.ic4j/ic4j-camel@0.6.18-BETA4
 - pkg:maven/org.ic4j/ic4j-camel@0.6.18-BETA4?classifier=sources
 - pkg:maven/org.ic4j/ic4j-camel@0.6.18?classifier=sources
+- pkg:maven/org.ic4j/ic4j-camel@0.6.19
+- pkg:maven/org.ic4j/ic4j-camel@0.6.19.1
+- pkg:maven/org.ic4j/ic4j-camel@0.6.19.1?classifier=sources
+- pkg:maven/org.ic4j/ic4j-camel@0.6.19?classifier=sources

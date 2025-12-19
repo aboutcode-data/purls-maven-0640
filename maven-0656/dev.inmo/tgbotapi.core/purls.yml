@@ -107,3 +107,4 @@
 - pkg:maven/dev.inmo/tgbotapi.core@6.0.3?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.core@6.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.core@7.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.core@7.0.1?classifier=sources

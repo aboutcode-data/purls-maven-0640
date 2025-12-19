@@ -4,3 +4,4 @@
 - pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-common@3.0.0.Alpha5
 - pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-common@3.0.0.Alpha6
 - pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-common@3.0.0.Alpha7
+- pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-common@3.0.0.CR1

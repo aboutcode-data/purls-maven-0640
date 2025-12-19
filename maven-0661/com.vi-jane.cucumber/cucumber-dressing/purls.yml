@@ -1,0 +1,2 @@
+- pkg:maven/com.vi-jane.cucumber/cucumber-dressing@1.0.8
+- pkg:maven/com.vi-jane.cucumber/cucumber-dressing@1.0.8?classifier=sources

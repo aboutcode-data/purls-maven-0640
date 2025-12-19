@@ -138,6 +138,8 @@
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.19.7?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.19.8
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.19.8?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-timesten@16.19.9
+- pkg:maven/us.fatehi/schemacrawler-timesten@16.19.9?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.2.2
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.2.2?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.2.3

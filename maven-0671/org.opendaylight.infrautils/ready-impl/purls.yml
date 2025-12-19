@@ -128,7 +128,10 @@
 - pkg:maven/org.opendaylight.infrautils/ready-impl@4.0.3?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/ready-impl@4.0.4
 - pkg:maven/org.opendaylight.infrautils/ready-impl@4.0.4?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/ready-impl@4.0.5
+- pkg:maven/org.opendaylight.infrautils/ready-impl@4.0.5?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/ready-impl@5.0.0?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/ready-impl@5.0.1?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/ready-impl@5.0.2?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/ready-impl@5.0.3?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/ready-impl@5.0.4?classifier=sources

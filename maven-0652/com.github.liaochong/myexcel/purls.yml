@@ -223,4 +223,6 @@
 - pkg:maven/com.github.liaochong/myexcel@4.3.0.RC2?classifier=sources
 - pkg:maven/com.github.liaochong/myexcel@4.3.0.RC3
 - pkg:maven/com.github.liaochong/myexcel@4.3.0.RC3?classifier=sources
+- pkg:maven/com.github.liaochong/myexcel@4.3.0.RC4
+- pkg:maven/com.github.liaochong/myexcel@4.3.0.RC4?classifier=sources
 - pkg:maven/com.github.liaochong/myexcel@4.3.0.RC?classifier=sources

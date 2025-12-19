@@ -2,3 +2,5 @@
 - pkg:maven/io.github.diverse-project.k3/fr.inria.diverse.k3.al.annotationprocessor@3.3.1?classifier=sources
 - pkg:maven/io.github.diverse-project.k3/fr.inria.diverse.k3.al.annotationprocessor@4.0.1
 - pkg:maven/io.github.diverse-project.k3/fr.inria.diverse.k3.al.annotationprocessor@4.0.1?classifier=sources
+- pkg:maven/io.github.diverse-project.k3/fr.inria.diverse.k3.al.annotationprocessor@4.1.0
+- pkg:maven/io.github.diverse-project.k3/fr.inria.diverse.k3.al.annotationprocessor@4.1.0?classifier=sources

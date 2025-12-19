@@ -30,6 +30,8 @@
 - pkg:maven/io.automatiko.workflow/automatiko-workflow-compiler@0.21.0?classifier=sources
 - pkg:maven/io.automatiko.workflow/automatiko-workflow-compiler@0.22.0
 - pkg:maven/io.automatiko.workflow/automatiko-workflow-compiler@0.22.0?classifier=sources
+- pkg:maven/io.automatiko.workflow/automatiko-workflow-compiler@0.23.0
+- pkg:maven/io.automatiko.workflow/automatiko-workflow-compiler@0.23.0?classifier=sources
 - pkg:maven/io.automatiko.workflow/automatiko-workflow-compiler@0.3.0
 - pkg:maven/io.automatiko.workflow/automatiko-workflow-compiler@0.3.0?classifier=sources
 - pkg:maven/io.automatiko.workflow/automatiko-workflow-compiler@0.4.0

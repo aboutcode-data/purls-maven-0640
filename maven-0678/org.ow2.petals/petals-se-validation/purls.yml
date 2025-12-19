@@ -17,3 +17,4 @@
 - pkg:maven/org.ow2.petals/petals-se-validation@1.5.3?classifier=sources
 - pkg:maven/org.ow2.petals/petals-se-validation@1.5.4?classifier=sources
 - pkg:maven/org.ow2.petals/petals-se-validation@1.6.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-validation@1.7.0?classifier=sources

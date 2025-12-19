@@ -94,6 +94,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.service@4.0.20
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.service@4.0.20?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.service@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.service@4.0.21
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.service@4.0.21?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.service@4.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.service@4.0.8
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.service@4.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.bom.service@4.0.8?classifier=sources-commercial

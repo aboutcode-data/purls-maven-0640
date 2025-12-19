@@ -11,3 +11,4 @@
 - pkg:maven/com.svenjacobs.reveal/reveal-shapes@0.0.8?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-shapes@0.0.9?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-shapes@1.0.0?classifier=sources
+- pkg:maven/com.svenjacobs.reveal/reveal-shapes@1.0.1?classifier=sources

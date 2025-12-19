@@ -1,1 +1,2 @@
+- pkg:maven/net.iriscan/biometric-sdk-android-debug@0.2.3?classifier=sources
 - pkg:maven/net.iriscan/biometric-sdk-android-debug@0.2?classifier=sources

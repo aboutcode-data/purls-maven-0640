@@ -1,0 +1,1 @@
+- pkg:maven/com.segment.analytics.kotlin.destinations/quantcast@1.0.0?classifier=sources

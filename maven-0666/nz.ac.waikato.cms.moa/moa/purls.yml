@@ -32,3 +32,5 @@
 - pkg:maven/nz.ac.waikato.cms.moa/moa@2020.12.0?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.moa/moa@2021.07.0
 - pkg:maven/nz.ac.waikato.cms.moa/moa@2021.07.0?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2023.04.0
+- pkg:maven/nz.ac.waikato.cms.moa/moa@2023.04.0?classifier=sources

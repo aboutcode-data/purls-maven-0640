@@ -35,6 +35,7 @@
 - pkg:maven/com.sksamuel.scrimage/scrimage-core@4.0.31?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-core@4.0.32?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-core@4.0.33?classifier=sources
+- pkg:maven/com.sksamuel.scrimage/scrimage-core@4.0.34?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-core@4.0.3?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-core@4.0.4?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-core@4.0.5?classifier=sources

@@ -140,6 +140,12 @@
 - pkg:maven/com.wavefront/java-lib@2023-01.31?classifier=sources
 - pkg:maven/com.wavefront/java-lib@2023-02.1
 - pkg:maven/com.wavefront/java-lib@2023-02.1?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2023-04.1
+- pkg:maven/com.wavefront/java-lib@2023-04.1?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2023-04.2
+- pkg:maven/com.wavefront/java-lib@2023-04.2?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2023-04.3
+- pkg:maven/com.wavefront/java-lib@2023-04.3?classifier=sources
 - pkg:maven/com.wavefront/java-lib@3.0
 - pkg:maven/com.wavefront/java-lib@3.0?classifier=sources
 - pkg:maven/com.wavefront/java-lib@3.1

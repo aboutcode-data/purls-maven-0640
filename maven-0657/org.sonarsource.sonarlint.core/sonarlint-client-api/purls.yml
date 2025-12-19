@@ -121,3 +121,4 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-client-api@8.13.1.60852?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-client-api@8.14.0.63103?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-client-api@8.15.0.65216?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-client-api@8.16.0.67686?classifier=sources

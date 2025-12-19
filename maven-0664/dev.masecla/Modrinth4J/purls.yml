@@ -4,3 +4,7 @@
 - pkg:maven/dev.masecla/Modrinth4J@2.0.0?classifier=sources
 - pkg:maven/dev.masecla/Modrinth4J@2.0.1
 - pkg:maven/dev.masecla/Modrinth4J@2.0.1?classifier=sources
+- pkg:maven/dev.masecla/Modrinth4J@2.1.0
+- pkg:maven/dev.masecla/Modrinth4J@2.1.0?classifier=sources
+- pkg:maven/dev.masecla/Modrinth4J@2.2.0
+- pkg:maven/dev.masecla/Modrinth4J@2.2.0?classifier=sources

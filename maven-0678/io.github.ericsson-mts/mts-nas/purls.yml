@@ -9,6 +9,8 @@
 - pkg:maven/io.github.ericsson-mts/mts-nas@0.0.13?classifier=sources
 - pkg:maven/io.github.ericsson-mts/mts-nas@0.0.14
 - pkg:maven/io.github.ericsson-mts/mts-nas@0.0.14?classifier=sources
+- pkg:maven/io.github.ericsson-mts/mts-nas@0.0.15
+- pkg:maven/io.github.ericsson-mts/mts-nas@0.0.15?classifier=sources
 - pkg:maven/io.github.ericsson-mts/mts-nas@0.0.1?classifier=sources
 - pkg:maven/io.github.ericsson-mts/mts-nas@0.0.3
 - pkg:maven/io.github.ericsson-mts/mts-nas@0.0.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/tech.decentro.in.collections/decentro-in-collections-java-sdk@1.0.0
+- pkg:maven/tech.decentro.in.collections/decentro-in-collections-java-sdk@1.0.0?classifier=sources
+- pkg:maven/tech.decentro.in.collections/decentro-in-collections-java-sdk@1.1.0
+- pkg:maven/tech.decentro.in.collections/decentro-in-collections-java-sdk@1.1.0?classifier=sources

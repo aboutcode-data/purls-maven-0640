@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-polygonplanet-encoding-js@1.0.30
+- pkg:maven/org.webjars.bower/github-com-polygonplanet-encoding-js@1.0.30?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-polygonplanet-encoding-js@2.0.0
+- pkg:maven/org.webjars.bower/github-com-polygonplanet-encoding-js@2.0.0?classifier=sources

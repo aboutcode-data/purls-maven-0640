@@ -1,0 +1,2 @@
+- pkg:maven/ch.unibas.cs.gravis/scalismo-hdf5-json_3@0.1-RC1
+- pkg:maven/ch.unibas.cs.gravis/scalismo-hdf5-json_3@0.1-RC1?classifier=sources

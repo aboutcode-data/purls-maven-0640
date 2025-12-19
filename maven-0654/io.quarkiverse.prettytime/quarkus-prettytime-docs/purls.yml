@@ -4,6 +4,7 @@
 - pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@0.2.3
 - pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@1.0.0
 - pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@1.0.1
+- pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@2.0.0
 - pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@2.0.0.Alpha1
 - pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@2.0.0.Alpha2
 - pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@2.0.0.Alpha3

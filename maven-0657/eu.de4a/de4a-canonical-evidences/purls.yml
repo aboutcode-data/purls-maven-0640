@@ -8,6 +8,8 @@
 - pkg:maven/eu.de4a/de4a-canonical-evidences@0.2.13?classifier=sources
 - pkg:maven/eu.de4a/de4a-canonical-evidences@0.2.14
 - pkg:maven/eu.de4a/de4a-canonical-evidences@0.2.14?classifier=sources
+- pkg:maven/eu.de4a/de4a-canonical-evidences@0.2.15
+- pkg:maven/eu.de4a/de4a-canonical-evidences@0.2.15?classifier=sources
 - pkg:maven/eu.de4a/de4a-canonical-evidences@0.2.3
 - pkg:maven/eu.de4a/de4a-canonical-evidences@0.2.3?classifier=sources
 - pkg:maven/eu.de4a/de4a-canonical-evidences@0.2.4

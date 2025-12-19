@@ -1,5 +1,6 @@
 - pkg:maven/cn.starrys/starry-mail@1.0.1?classifier=sources
 - pkg:maven/cn.starrys/starry-mail@2.7.7?classifier=sources
+- pkg:maven/cn.starrys/starry-mail@2.7.9?classifier=sources
 - pkg:maven/cn.starrys/starry-mail@3.0.2?classifier=sources
 - pkg:maven/cn.starrys/starry-mail@3.0.3?classifier=sources
 - pkg:maven/cn.starrys/starry-mail@3.1.0?classifier=sources

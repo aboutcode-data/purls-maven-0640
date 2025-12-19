@@ -1,2 +1,4 @@
 - pkg:maven/io.github.rui8832/fastdfs-client-java@1.29-20211022
 - pkg:maven/io.github.rui8832/fastdfs-client-java@1.29-20211022?classifier=sources
+- pkg:maven/io.github.rui8832/fastdfs-client-java@1.30-20230328
+- pkg:maven/io.github.rui8832/fastdfs-client-java@1.30-20230328?classifier=sources

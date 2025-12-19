@@ -1,3 +1,5 @@
 - pkg:maven/kr.jclab.netty/netty-transport-native-iocp@0.0.1?classifier=sources
 - pkg:maven/kr.jclab.netty/netty-transport-native-iocp@0.0.2?classifier=sources
 - pkg:maven/kr.jclab.netty/netty-transport-native-iocp@0.0.3?classifier=sources
+- pkg:maven/kr.jclab.netty/netty-transport-native-iocp@0.0.4-rc5?classifier=sources
+- pkg:maven/kr.jclab.netty/netty-transport-native-iocp@0.0.4?classifier=sources

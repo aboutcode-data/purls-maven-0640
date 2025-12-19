@@ -15,6 +15,7 @@
 - pkg:maven/co.early.fore/fore-jv-android-adapters@1.5.18?classifier=sources
 - pkg:maven/co.early.fore/fore-jv-android-adapters@1.5.19?classifier=sources
 - pkg:maven/co.early.fore/fore-jv-android-adapters@1.5.1?classifier=sources
+- pkg:maven/co.early.fore/fore-jv-android-adapters@1.5.20?classifier=sources
 - pkg:maven/co.early.fore/fore-jv-android-adapters@1.5.2?classifier=sources
 - pkg:maven/co.early.fore/fore-jv-android-adapters@1.5.3?classifier=sources
 - pkg:maven/co.early.fore/fore-jv-android-adapters@1.5.4?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-util@1.19.1?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-util@1.20.0
 - pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-util@1.20.0?classifier=sources
+- pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-util@1.21.0
+- pkg:maven/org.apache.nifi.minifi/minifi-c2-provider-util@1.21.0?classifier=sources

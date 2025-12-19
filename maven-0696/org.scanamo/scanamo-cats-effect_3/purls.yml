@@ -1,2 +1,4 @@
 - pkg:maven/org.scanamo/scanamo-cats-effect_3@1.0.0-M23
 - pkg:maven/org.scanamo/scanamo-cats-effect_3@1.0.0-M23?classifier=sources
+- pkg:maven/org.scanamo/scanamo-cats-effect_3@1.0.0-M24
+- pkg:maven/org.scanamo/scanamo-cats-effect_3@1.0.0-M24?classifier=sources

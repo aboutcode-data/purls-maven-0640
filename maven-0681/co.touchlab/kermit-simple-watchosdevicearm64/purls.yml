@@ -1,1 +1,2 @@
 - pkg:maven/co.touchlab/kermit-simple-watchosdevicearm64@2.0.0-RC3?classifier=sources
+- pkg:maven/co.touchlab/kermit-simple-watchosdevicearm64@2.0.0-RC4?classifier=sources

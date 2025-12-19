@@ -2,6 +2,8 @@
 - pkg:maven/io.github.antonsjava/sb-rest-doclet@1.10?classifier=sources
 - pkg:maven/io.github.antonsjava/sb-rest-doclet@1.11
 - pkg:maven/io.github.antonsjava/sb-rest-doclet@1.11?classifier=sources
+- pkg:maven/io.github.antonsjava/sb-rest-doclet@1.12
+- pkg:maven/io.github.antonsjava/sb-rest-doclet@1.12?classifier=sources
 - pkg:maven/io.github.antonsjava/sb-rest-doclet@1.8
 - pkg:maven/io.github.antonsjava/sb-rest-doclet@1.8?classifier=sources
 - pkg:maven/io.github.antonsjava/sb-rest-doclet@1.9

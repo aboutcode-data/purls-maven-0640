@@ -10,6 +10,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-storage@4.5.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-storage@4.6.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-storage@4.6.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-storage@4.7.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-storage@5.0.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-storage@5.0.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-storage@6.0.0-beta.2

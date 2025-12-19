@@ -2,3 +2,9 @@
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-bot-spring-boot-starter@0.0.50?classifier=sources
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-bot-spring-boot-starter@0.0.51
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-bot-spring-boot-starter@0.0.51?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-bot-spring-boot-starter@0.0.53
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-bot-spring-boot-starter@0.0.53?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-bot-spring-boot-starter@0.0.54
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-bot-spring-boot-starter@0.0.54?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-bot-spring-boot-starter@0.0.55
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-bot-spring-boot-starter@0.0.55?classifier=sources

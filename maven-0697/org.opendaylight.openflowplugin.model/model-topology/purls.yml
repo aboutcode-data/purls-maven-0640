@@ -8,3 +8,4 @@
 - pkg:maven/org.opendaylight.openflowplugin.model/model-topology@0.15.0?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.model/model-topology@0.15.1?classifier=sources
 - pkg:maven/org.opendaylight.openflowplugin.model/model-topology@0.15.2?classifier=sources
+- pkg:maven/org.opendaylight.openflowplugin.model/model-topology@0.16.0?classifier=sources

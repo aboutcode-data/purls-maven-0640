@@ -20,6 +20,8 @@
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.9
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.9?classifier=sources
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.2.0
+- pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.2.0-2-g17c6ced
+- pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.2.0-2-g17c6ced?classifier=sources
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.2.0-2-g6db3e1f
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.2.0-2-g6db3e1f?classifier=sources
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.2.0?classifier=sources

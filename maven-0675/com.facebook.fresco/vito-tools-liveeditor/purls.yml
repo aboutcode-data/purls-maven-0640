@@ -1,1 +1,2 @@
 - pkg:maven/com.facebook.fresco/vito-tools-liveeditor@2.6.0-alpha?classifier=sources
+- pkg:maven/com.facebook.fresco/vito-tools-liveeditor@3.0.0?classifier=sources
