@@ -54,3 +54,7 @@
 - pkg:maven/com.helger/ph-db-jdbc@6.7.3?classifier=sources
 - pkg:maven/com.helger/ph-db-jdbc@6.7.4
 - pkg:maven/com.helger/ph-db-jdbc@6.7.4?classifier=sources
+- pkg:maven/com.helger/ph-db-jdbc@7.0.0
+- pkg:maven/com.helger/ph-db-jdbc@7.0.0?classifier=sources
+- pkg:maven/com.helger/ph-db-jdbc@7.0.1
+- pkg:maven/com.helger/ph-db-jdbc@7.0.1?classifier=sources

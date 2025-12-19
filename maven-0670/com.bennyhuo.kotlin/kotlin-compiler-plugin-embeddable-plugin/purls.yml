@@ -1,1 +1,3 @@
 - pkg:maven/com.bennyhuo.kotlin/kotlin-compiler-plugin-embeddable-plugin@1.7.10.0?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/kotlin-compiler-plugin-embeddable-plugin@1.8.0.0?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/kotlin-compiler-plugin-embeddable-plugin@1.8.1?classifier=sources

@@ -40,3 +40,7 @@
 - pkg:maven/com.gu.identity/identity-model-play_2.13@4.6?classifier=sources
 - pkg:maven/com.gu.identity/identity-model-play_2.13@4.7
 - pkg:maven/com.gu.identity/identity-model-play_2.13@4.7?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.8
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.8?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.9
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.9?classifier=sources

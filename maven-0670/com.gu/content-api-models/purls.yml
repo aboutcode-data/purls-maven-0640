@@ -152,7 +152,10 @@
 - pkg:maven/com.gu/content-api-models@17.4.0
 - pkg:maven/com.gu/content-api-models@17.4.0-beta.0
 - pkg:maven/com.gu/content-api-models@17.4.2
+- pkg:maven/com.gu/content-api-models@17.4.3
+- pkg:maven/com.gu/content-api-models@17.5.0
 - pkg:maven/com.gu/content-api-models@17.5.0-beta.0
+- pkg:maven/com.gu/content-api-models@17.5.1
 - pkg:maven/com.gu/content-api-models@17.6.0-beta.0
 - pkg:maven/com.gu/content-api-models@8.1.2
 - pkg:maven/com.gu/content-api-models@8.1.2?classifier=sources

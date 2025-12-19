@@ -78,3 +78,5 @@
 - pkg:maven/com.sap.cloud.security/resourceserver-security-spring-boot-starter@2.13.3?classifier=sources
 - pkg:maven/com.sap.cloud.security/resourceserver-security-spring-boot-starter@2.13.4
 - pkg:maven/com.sap.cloud.security/resourceserver-security-spring-boot-starter@2.13.4?classifier=sources
+- pkg:maven/com.sap.cloud.security/resourceserver-security-spring-boot-starter@2.13.5
+- pkg:maven/com.sap.cloud.security/resourceserver-security-spring-boot-starter@2.13.5?classifier=sources

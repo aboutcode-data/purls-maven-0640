@@ -86,3 +86,14 @@
 - pkg:maven/com.github.kyuubiran/EzXHelper@1.0.1?classifier=sources
 - pkg:maven/com.github.kyuubiran/EzXHelper@1.0.2?classifier=sources
 - pkg:maven/com.github.kyuubiran/EzXHelper@1.0.3?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-RC1?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-RC2?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-RC3?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-RC4?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-RC5?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-RC6?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-RC7?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-alpha01?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-alpha02?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-alpha03?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.0-alpha04?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@0.4.1-MILESTONE-202112261007?classifier=sources
 - pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@0.5.0-MILESTONE-202201020234?classifier=sources
 - pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@0.5.0-MILESTONE-202201020316?classifier=sources
+- pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@0.6.0?classifier=sources
+- pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@0.6.1?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/de.fhg.aisec.ids/idscp2-ra-cmc@0.14.1?classifier=sources
+- pkg:maven/de.fhg.aisec.ids/idscp2-ra-cmc@0.17.0?classifier=sources
 - pkg:maven/de.fhg.aisec.ids/idscp2-ra-cmc@0.8.0?classifier=sources
 - pkg:maven/de.fhg.aisec.ids/idscp2-ra-cmc@0.8.1.1?classifier=sources
 - pkg:maven/de.fhg.aisec.ids/idscp2-ra-cmc@0.8.1?classifier=sources

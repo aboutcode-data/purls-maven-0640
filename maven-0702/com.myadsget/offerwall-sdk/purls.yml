@@ -12,3 +12,8 @@
 - pkg:maven/com.myadsget/offerwall-sdk@3.12.6.11?classifier=sources
 - pkg:maven/com.myadsget/offerwall-sdk@3.12.6.12?classifier=sources
 - pkg:maven/com.myadsget/offerwall-sdk@3.12.6.13?classifier=sources
+- pkg:maven/com.myadsget/offerwall-sdk@3.12.6.14?classifier=sources
+- pkg:maven/com.myadsget/offerwall-sdk@3.12.6.15?classifier=sources
+- pkg:maven/com.myadsget/offerwall-sdk@3.12.6.16?classifier=sources
+- pkg:maven/com.myadsget/offerwall-sdk@3.12.6.17?classifier=sources
+- pkg:maven/com.myadsget/offerwall-sdk@3.12.6.19?classifier=sources

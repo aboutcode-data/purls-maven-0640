@@ -266,6 +266,10 @@
 - pkg:maven/com.zaber/motion-library@2.15.2?classifier=sources
 - pkg:maven/com.zaber/motion-library@2.15.3
 - pkg:maven/com.zaber/motion-library@2.15.3?classifier=sources
+- pkg:maven/com.zaber/motion-library@2.15.4
+- pkg:maven/com.zaber/motion-library@2.15.4-RC
+- pkg:maven/com.zaber/motion-library@2.15.4-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@2.15.4?classifier=sources
 - pkg:maven/com.zaber/motion-library@2.2.0
 - pkg:maven/com.zaber/motion-library@2.2.0-RC
 - pkg:maven/com.zaber/motion-library@2.2.0-RC?classifier=sources
@@ -326,3 +330,11 @@
 - pkg:maven/com.zaber/motion-library@2.9.1-RC
 - pkg:maven/com.zaber/motion-library@2.9.1-RC?classifier=sources
 - pkg:maven/com.zaber/motion-library@2.9.1?classifier=sources
+- pkg:maven/com.zaber/motion-library@3.0.0
+- pkg:maven/com.zaber/motion-library@3.0.0-RC
+- pkg:maven/com.zaber/motion-library@3.0.0-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@3.0.0?classifier=sources
+- pkg:maven/com.zaber/motion-library@3.0.1
+- pkg:maven/com.zaber/motion-library@3.0.1-RC
+- pkg:maven/com.zaber/motion-library@3.0.1-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@3.0.1?classifier=sources

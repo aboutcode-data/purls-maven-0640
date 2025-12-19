@@ -1,0 +1,2 @@
+- pkg:maven/org.casbin/aviator@5.1.4-fix
+- pkg:maven/org.casbin/aviator@5.1.4-fix?classifier=sources

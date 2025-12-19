@@ -1,0 +1,2 @@
+- pkg:maven/cn.zvo.log/log-framework-springboot@1.0
+- pkg:maven/cn.zvo.log/log-framework-springboot@1.0?classifier=sources

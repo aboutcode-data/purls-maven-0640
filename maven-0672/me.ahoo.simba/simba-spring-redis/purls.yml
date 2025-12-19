@@ -5,3 +5,5 @@
 - pkg:maven/me.ahoo.simba/simba-spring-redis@0.5.0?classifier=sources
 - pkg:maven/me.ahoo.simba/simba-spring-redis@0.5.2?classifier=sources
 - pkg:maven/me.ahoo.simba/simba-spring-redis@0.5.5?classifier=sources
+- pkg:maven/me.ahoo.simba/simba-spring-redis@0.6.0?classifier=sources
+- pkg:maven/me.ahoo.simba/simba-spring-redis@0.6.2?classifier=sources

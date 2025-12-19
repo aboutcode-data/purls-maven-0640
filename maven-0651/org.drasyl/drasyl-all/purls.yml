@@ -1,3 +1,4 @@
+- pkg:maven/org.drasyl/drasyl-all@0.10.0
 - pkg:maven/org.drasyl/drasyl-all@0.4.0
 - pkg:maven/org.drasyl/drasyl-all@0.4.1
 - pkg:maven/org.drasyl/drasyl-all@0.5.0

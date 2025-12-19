@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pnoker/dc3-driver-sdk@2022.2.3
+- pkg:maven/io.github.pnoker/dc3-driver-sdk@2022.2.3?classifier=sources

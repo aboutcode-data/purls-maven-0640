@@ -1,4 +1,6 @@
 - pkg:maven/com.ritense.valtimo/temporary-resource-storage@10.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/temporary-resource-storage@10.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/temporary-resource-storage@10.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/temporary-resource-storage@9.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/temporary-resource-storage@9.18.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/temporary-resource-storage@9.19.0?classifier=sources

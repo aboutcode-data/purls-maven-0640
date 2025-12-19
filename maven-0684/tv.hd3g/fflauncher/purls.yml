@@ -20,6 +20,10 @@
 - pkg:maven/tv.hd3g/fflauncher@10.0.0?classifier=sources
 - pkg:maven/tv.hd3g/fflauncher@10.1.0
 - pkg:maven/tv.hd3g/fflauncher@10.1.0?classifier=sources
+- pkg:maven/tv.hd3g/fflauncher@11.0.0
+- pkg:maven/tv.hd3g/fflauncher@11.0.0?classifier=sources
+- pkg:maven/tv.hd3g/fflauncher@11.1.0
+- pkg:maven/tv.hd3g/fflauncher@11.1.0?classifier=sources
 - pkg:maven/tv.hd3g/fflauncher@2.0.0
 - pkg:maven/tv.hd3g/fflauncher@2.0.0?classifier=sources
 - pkg:maven/tv.hd3g/fflauncher@2.0.1

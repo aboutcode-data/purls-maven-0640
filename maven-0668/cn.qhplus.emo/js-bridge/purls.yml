@@ -1,3 +1,5 @@
 - pkg:maven/cn.qhplus.emo/js-bridge@0.2.0?classifier=sources
 - pkg:maven/cn.qhplus.emo/js-bridge@0.2.1?classifier=sources
 - pkg:maven/cn.qhplus.emo/js-bridge@0.3.0?classifier=sources
+- pkg:maven/cn.qhplus.emo/js-bridge@0.4.0?classifier=sources
+- pkg:maven/cn.qhplus.emo/js-bridge@0.5.0?classifier=sources

@@ -2,6 +2,7 @@
 - pkg:maven/com.adevinta.android/leku@10.0.1?classifier=sources
 - pkg:maven/com.adevinta.android/leku@10.0.2?classifier=sources
 - pkg:maven/com.adevinta.android/leku@10.0.3?classifier=sources
+- pkg:maven/com.adevinta.android/leku@10.1.0?classifier=sources
 - pkg:maven/com.adevinta.android/leku@9.0.0?classifier=sources
 - pkg:maven/com.adevinta.android/leku@9.1.0?classifier=sources
 - pkg:maven/com.adevinta.android/leku@9.1.1?classifier=sources

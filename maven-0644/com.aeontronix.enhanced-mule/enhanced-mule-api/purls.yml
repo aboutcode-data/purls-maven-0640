@@ -4,3 +4,5 @@
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-api@1.0.0-beta4?classifier=sources
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-api@1.0.0-beta5
 - pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-api@1.0.0-beta5?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-api@1.0.0-beta8
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-api@1.0.0-beta8?classifier=sources

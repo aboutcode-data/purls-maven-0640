@@ -1,1 +1,2 @@
 - pkg:maven/net.iriscan/biometric-sdk@0.1?classifier=sources
+- pkg:maven/net.iriscan/biometric-sdk@0.2?classifier=sources

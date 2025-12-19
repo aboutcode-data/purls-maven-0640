@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/jsweet-maven-plugin@3.1.1.RedHat
+- pkg:maven/io.apicurio/jsweet-maven-plugin@3.1.1.RedHat?classifier=sources

@@ -1,0 +1,7 @@
+- pkg:maven/net.kigawa.kutil/kutil-unit@3.0.0
+- pkg:maven/net.kigawa.kutil/kutil-unit@3.0.0?classifier=sources
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.0.0
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.0.0?classifier=sources
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.0.1
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.0.2
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.0.3

@@ -6,4 +6,9 @@
 - pkg:maven/com.pulumi/linode@3.11.0-alpha.1663281870%2B42d76d6b?classifier=sources
 - pkg:maven/com.pulumi/linode@3.11.0-alpha.1663342657%2B56bafe94?classifier=sources
 - pkg:maven/com.pulumi/linode@3.11.0-alpha.1668645061%2B1cf0d2ed?classifier=sources
+- pkg:maven/com.pulumi/linode@3.11.0-alpha.1674502934%2B6cae85c2?classifier=sources
+- pkg:maven/com.pulumi/linode@3.11.0-alpha.1675048667%2B8cf68cbf?classifier=sources
+- pkg:maven/com.pulumi/linode@3.11.0-alpha.1675107440%2Bdc418205?classifier=sources
+- pkg:maven/com.pulumi/linode@3.11.0?classifier=sources
+- pkg:maven/com.pulumi/linode@3.12.0-alpha.1675870919%2Bd51ee956?classifier=sources
 - pkg:maven/com.pulumi/linode@3.9.1?classifier=sources

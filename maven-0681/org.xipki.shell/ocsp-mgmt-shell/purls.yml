@@ -40,3 +40,5 @@
 - pkg:maven/org.xipki.shell/ocsp-mgmt-shell@5.3.9?classifier=sources
 - pkg:maven/org.xipki.shell/ocsp-mgmt-shell@6.0.0
 - pkg:maven/org.xipki.shell/ocsp-mgmt-shell@6.0.0?classifier=sources
+- pkg:maven/org.xipki.shell/ocsp-mgmt-shell@6.1.0
+- pkg:maven/org.xipki.shell/ocsp-mgmt-shell@6.1.0?classifier=sources

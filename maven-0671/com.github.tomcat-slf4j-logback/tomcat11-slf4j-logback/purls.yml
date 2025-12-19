@@ -1,0 +1,1 @@
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat11-slf4j-logback@11.0.0-M1?classifier=sources

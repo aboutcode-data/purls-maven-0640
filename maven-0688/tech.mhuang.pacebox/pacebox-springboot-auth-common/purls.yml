@@ -78,3 +78,7 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-auth-common@2022.0.0.0?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-auth-common@2022.0.0.1
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-auth-common@2022.0.0.1?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-auth-common@2022.0.0.2
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-auth-common@2022.0.0.2?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-auth-common@2022.0.1.0
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-auth-common@2022.0.1.0?classifier=sources

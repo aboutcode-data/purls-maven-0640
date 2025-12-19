@@ -1,0 +1,2 @@
+- pkg:maven/eu.ostrzyciel.jelly/jelly-integration-tests_3@0.0.3
+- pkg:maven/eu.ostrzyciel.jelly/jelly-integration-tests_3@0.0.3?classifier=sources

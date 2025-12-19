@@ -180,3 +180,7 @@
 - pkg:maven/com.proofpoint.platform/reporting-prometheus@2.76?classifier=sources
 - pkg:maven/com.proofpoint.platform/reporting-prometheus@2.77
 - pkg:maven/com.proofpoint.platform/reporting-prometheus@2.77?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@2.78
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@2.78?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@2.83
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@2.83?classifier=sources

@@ -95,4 +95,10 @@
 - pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.1?classifier=sources
 - pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.2
 - pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.2?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.3
+- pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.3?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.4
+- pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.4?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.5
+- pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.5?classifier=sources
 - pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2?classifier=sources

@@ -24,6 +24,10 @@
 - pkg:maven/com.calendarfx/view@11.12.2?classifier=sources
 - pkg:maven/com.calendarfx/view@11.12.3
 - pkg:maven/com.calendarfx/view@11.12.3?classifier=sources
+- pkg:maven/com.calendarfx/view@11.12.4
+- pkg:maven/com.calendarfx/view@11.12.4?classifier=sources
+- pkg:maven/com.calendarfx/view@11.12.5
+- pkg:maven/com.calendarfx/view@11.12.5?classifier=sources
 - pkg:maven/com.calendarfx/view@11.5.0
 - pkg:maven/com.calendarfx/view@11.5.0?classifier=sources
 - pkg:maven/com.calendarfx/view@11.6.1

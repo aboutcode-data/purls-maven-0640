@@ -1,0 +1,14 @@
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.1
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.1.RELEASE
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.1.RELEASE?classifier=sources
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.1?classifier=sources
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.2.RELEASE
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.2.RELEASE?classifier=sources
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.3.RELEASE
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.3.RELEASE?classifier=sources
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.6
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.6.RELEASE
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.6.RELEASE?classifier=sources
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.6?classifier=sources
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.8.RELEASE
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@0.8.RELEASE?classifier=sources

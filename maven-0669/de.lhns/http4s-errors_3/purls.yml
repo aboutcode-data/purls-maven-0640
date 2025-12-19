@@ -1,0 +1,2 @@
+- pkg:maven/de.lhns/http4s-errors_3@0.5.1
+- pkg:maven/de.lhns/http4s-errors_3@0.5.1?classifier=sources

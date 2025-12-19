@@ -44,3 +44,5 @@
 - pkg:maven/no.priv.bang.servlet/servlet.frontend@1.6.2?classifier=sources
 - pkg:maven/no.priv.bang.servlet/servlet.frontend@1.6.3
 - pkg:maven/no.priv.bang.servlet/servlet.frontend@1.6.3?classifier=sources
+- pkg:maven/no.priv.bang.servlet/servlet.frontend@1.6.4
+- pkg:maven/no.priv.bang.servlet/servlet.frontend@1.6.4?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.jeremylong/nvd-lib@1.0.0?classifier=sources
+- pkg:maven/io.github.jeremylong/nvd-lib@1.0.1?classifier=sources

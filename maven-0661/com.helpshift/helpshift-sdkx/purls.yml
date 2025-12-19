@@ -4,3 +4,4 @@
 - pkg:maven/com.helpshift/helpshift-sdkx@10.0.2?type=aar
 - pkg:maven/com.helpshift/helpshift-sdkx@10.1.0?type=aar
 - pkg:maven/com.helpshift/helpshift-sdkx@10.2.0?type=aar
+- pkg:maven/com.helpshift/helpshift-sdkx@10.2.1?type=aar

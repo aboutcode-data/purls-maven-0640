@@ -54,3 +54,5 @@
 - pkg:maven/io.github.fvarrui/javapackager@1.6.6?classifier=sources
 - pkg:maven/io.github.fvarrui/javapackager@1.6.7
 - pkg:maven/io.github.fvarrui/javapackager@1.6.7?classifier=sources
+- pkg:maven/io.github.fvarrui/javapackager@1.7.0
+- pkg:maven/io.github.fvarrui/javapackager@1.7.0?classifier=sources

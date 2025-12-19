@@ -1,0 +1,2 @@
+- pkg:maven/cn.zvo.email/email@1.0
+- pkg:maven/cn.zvo.email/email@1.0?classifier=sources

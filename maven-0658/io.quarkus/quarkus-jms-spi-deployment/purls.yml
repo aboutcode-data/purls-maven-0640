@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-jms-spi-deployment@2.16.2.Final
+- pkg:maven/io.quarkus/quarkus-jms-spi-deployment@2.16.2.Final?classifier=sources

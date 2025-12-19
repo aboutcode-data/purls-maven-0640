@@ -10,3 +10,5 @@
 - pkg:maven/org.jamgo/jamgo-identity-services@5.0.0?classifier=sources
 - pkg:maven/org.jamgo/jamgo-identity-services@6.0.0
 - pkg:maven/org.jamgo/jamgo-identity-services@6.0.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-identity-services@7.0.0-M1
+- pkg:maven/org.jamgo/jamgo-identity-services@7.0.0-M1?classifier=sources

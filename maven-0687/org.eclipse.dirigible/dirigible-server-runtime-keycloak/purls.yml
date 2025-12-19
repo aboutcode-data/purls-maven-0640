@@ -318,3 +318,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-server-runtime-keycloak@6.3.9?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-server-runtime-keycloak@7.0.0
 - pkg:maven/org.eclipse.dirigible/dirigible-server-runtime-keycloak@7.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime-keycloak@7.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime-keycloak@7.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime-keycloak@7.1.1
+- pkg:maven/org.eclipse.dirigible/dirigible-server-runtime-keycloak@7.1.1?classifier=sources

@@ -32,6 +32,12 @@
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.11f?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.11g
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.11g?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.12
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.12?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.12a
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.12a?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.12b
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.12b?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.7
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.7?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.8

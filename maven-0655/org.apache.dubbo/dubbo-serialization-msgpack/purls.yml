@@ -16,3 +16,7 @@
 - pkg:maven/org.apache.dubbo/dubbo-serialization-msgpack@2.7.19?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-serialization-msgpack@2.7.20
 - pkg:maven/org.apache.dubbo/dubbo-serialization-msgpack@2.7.20?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-serialization-msgpack@2.7.21
+- pkg:maven/org.apache.dubbo/dubbo-serialization-msgpack@2.7.21?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-serialization-msgpack@2.7.22
+- pkg:maven/org.apache.dubbo/dubbo-serialization-msgpack@2.7.22?classifier=sources

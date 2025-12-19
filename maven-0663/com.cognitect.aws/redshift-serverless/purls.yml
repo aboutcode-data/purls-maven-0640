@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/redshift-serverless@822.2.1181.0?classifier=sources
 - pkg:maven/com.cognitect.aws/redshift-serverless@825.2.1268.0
 - pkg:maven/com.cognitect.aws/redshift-serverless@825.2.1268.0?classifier=sources
+- pkg:maven/com.cognitect.aws/redshift-serverless@835.2.1307.0
+- pkg:maven/com.cognitect.aws/redshift-serverless@835.2.1307.0?classifier=sources

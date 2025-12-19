@@ -1,0 +1,2 @@
+- pkg:maven/org.axonframework.extensions.mongo/axon-mongo-spring-boot-autoconfigure@4.7.0
+- pkg:maven/org.axonframework.extensions.mongo/axon-mongo-spring-boot-autoconfigure@4.7.0?classifier=sources

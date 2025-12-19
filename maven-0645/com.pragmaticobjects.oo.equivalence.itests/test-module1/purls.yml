@@ -1,0 +1,2 @@
+- pkg:maven/com.pragmaticobjects.oo.equivalence.itests/test-module1@0.1.5
+- pkg:maven/com.pragmaticobjects.oo.equivalence.itests/test-module1@0.1.5?classifier=sources

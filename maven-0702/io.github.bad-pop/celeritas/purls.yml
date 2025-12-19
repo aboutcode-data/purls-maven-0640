@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bad-pop/celeritas@1.0.0-SB2
+- pkg:maven/io.github.bad-pop/celeritas@1.0.0-SB2?classifier=sources

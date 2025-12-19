@@ -1,0 +1,6 @@
+- pkg:maven/org.ndviet/test-libraries-webui@23.1.22
+- pkg:maven/org.ndviet/test-libraries-webui@23.1.22?classifier=sources
+- pkg:maven/org.ndviet/test-libraries-webui@23.1.23
+- pkg:maven/org.ndviet/test-libraries-webui@23.1.23?classifier=sources
+- pkg:maven/org.ndviet/test-libraries-webui@23.2.2
+- pkg:maven/org.ndviet/test-libraries-webui@23.2.2?classifier=sources

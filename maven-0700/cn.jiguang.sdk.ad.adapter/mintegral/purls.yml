@@ -12,3 +12,7 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/mintegral@16.2.37.09201?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/mintegral@16.2.67.10281?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/mintegral@16.2.67.10281?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/mintegral@16.3.27.12271?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/mintegral@16.3.27.12271?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/mintegral@16.3.27.12272?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/mintegral@16.3.27.12272?type=aar

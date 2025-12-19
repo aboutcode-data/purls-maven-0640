@@ -1,0 +1,2 @@
+- pkg:maven/com.inrupt/inrupt-rdf-wrapping-rdf4j@0.1.4
+- pkg:maven/com.inrupt/inrupt-rdf-wrapping-rdf4j@0.1.4?classifier=sources

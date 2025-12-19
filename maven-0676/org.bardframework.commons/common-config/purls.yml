@@ -48,3 +48,5 @@
 - pkg:maven/org.bardframework.commons/common-config@1.6.16?classifier=sources
 - pkg:maven/org.bardframework.commons/common-config@1.7.1
 - pkg:maven/org.bardframework.commons/common-config@1.7.1?classifier=sources
+- pkg:maven/org.bardframework.commons/common-config@1.9.1
+- pkg:maven/org.bardframework.commons/common-config@1.9.1?classifier=sources

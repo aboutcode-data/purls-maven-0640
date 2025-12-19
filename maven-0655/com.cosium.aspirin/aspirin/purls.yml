@@ -1,0 +1,6 @@
+- pkg:maven/com.cosium.aspirin/aspirin@0.11.00
+- pkg:maven/com.cosium.aspirin/aspirin@0.11.00?classifier=sources
+- pkg:maven/com.cosium.aspirin/aspirin@0.12.00
+- pkg:maven/com.cosium.aspirin/aspirin@0.12.00?classifier=sources
+- pkg:maven/com.cosium.aspirin/aspirin@0.12.01
+- pkg:maven/com.cosium.aspirin/aspirin@0.12.01?classifier=sources

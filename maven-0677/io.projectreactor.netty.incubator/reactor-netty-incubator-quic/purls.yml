@@ -4,6 +4,7 @@
 - pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.0.13?classifier=sources
 - pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.0.14?classifier=sources
 - pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.0.15?classifier=sources
+- pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.0.16?classifier=sources
 - pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.0.1?classifier=sources
 - pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.0.2?classifier=sources
 - pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.0.3?classifier=sources
@@ -15,3 +16,4 @@
 - pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.0.9?classifier=sources
 - pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.1.0?classifier=sources
 - pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.1.1?classifier=sources
+- pkg:maven/io.projectreactor.netty.incubator/reactor-netty-incubator-quic@0.1.2?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.clickhouse/clickhouse-client@0.3.2-test3
 - pkg:maven/com.clickhouse/clickhouse-client@0.3.2-test3?classifier=sources
 - pkg:maven/com.clickhouse/clickhouse-client@0.3.2?classifier=sources
+- pkg:maven/com.clickhouse/clickhouse-client@0.4.0
+- pkg:maven/com.clickhouse/clickhouse-client@0.4.0?classifier=sources

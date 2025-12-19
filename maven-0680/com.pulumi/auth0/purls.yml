@@ -6,3 +6,7 @@
 - pkg:maven/com.pulumi/auth0@2.14.0-alpha.1663340940%2B995577ff?classifier=sources
 - pkg:maven/com.pulumi/auth0@2.14.0-alpha.1666810964%2B26d92b9e?classifier=sources
 - pkg:maven/com.pulumi/auth0@2.14.0?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.15.0-alpha.1673415604%2Bec910b66?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.15.0-alpha.1673555771%2Bd2d3b0dd?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.15.0-alpha.1673561988%2B1ed2a2b0?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.15.0?classifier=sources

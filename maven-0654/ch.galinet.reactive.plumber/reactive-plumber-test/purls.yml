@@ -1,0 +1,2 @@
+- pkg:maven/ch.galinet.reactive.plumber/reactive-plumber-test@0.25.1
+- pkg:maven/ch.galinet.reactive.plumber/reactive-plumber-test@0.25.1?classifier=sources

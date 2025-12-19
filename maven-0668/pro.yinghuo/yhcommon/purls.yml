@@ -1,2 +1,4 @@
 - pkg:maven/pro.yinghuo/yhcommon@1.0-RELEASE
 - pkg:maven/pro.yinghuo/yhcommon@1.0-RELEASE?classifier=sources
+- pkg:maven/pro.yinghuo/yhcommon@1.1-RELEASE
+- pkg:maven/pro.yinghuo/yhcommon@1.1-RELEASE?classifier=sources

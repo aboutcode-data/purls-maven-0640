@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-zephyr-junit5@1.0.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-zephyr-junit5@1.0.0?classifier=sources

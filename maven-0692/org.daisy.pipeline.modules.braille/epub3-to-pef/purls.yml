@@ -34,3 +34,5 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@5.0.1?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@6.0.0
 - pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@6.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@6.0.1
+- pkg:maven/org.daisy.pipeline.modules.braille/epub3-to-pef@6.0.1?classifier=sources
