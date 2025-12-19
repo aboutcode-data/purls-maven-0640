@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/esbuild-windows-64@0.15.13
+- pkg:maven/org.webjars.npm/esbuild-windows-64@0.15.13?classifier=sources

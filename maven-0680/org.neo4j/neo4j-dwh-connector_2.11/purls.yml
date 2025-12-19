@@ -1,2 +1,4 @@
 - pkg:maven/org.neo4j/neo4j-dwh-connector_2.11@1.0.0_for_spark_2.4
 - pkg:maven/org.neo4j/neo4j-dwh-connector_2.11@1.0.0_for_spark_2.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-dwh-connector_2.11@1.0.1_for_spark_2.4
+- pkg:maven/org.neo4j/neo4j-dwh-connector_2.11@1.0.1_for_spark_2.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.telenav.lexakai/lexakai-library@1.0.20
+- pkg:maven/com.telenav.lexakai/lexakai-library@1.0.20?classifier=sources

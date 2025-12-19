@@ -1,2 +1,4 @@
+- pkg:maven/br.gov.lexml/lexml-renderer-pdf@0.4.10
+- pkg:maven/br.gov.lexml/lexml-renderer-pdf@0.4.10?classifier=sources
 - pkg:maven/br.gov.lexml/lexml-renderer-pdf@0.4.9
 - pkg:maven/br.gov.lexml/lexml-renderer-pdf@0.4.9?classifier=sources

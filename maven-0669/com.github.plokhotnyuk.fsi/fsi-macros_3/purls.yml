@@ -1,2 +1,4 @@
 - pkg:maven/com.github.plokhotnyuk.fsi/fsi-macros_3@0.6.2
 - pkg:maven/com.github.plokhotnyuk.fsi/fsi-macros_3@0.6.2?classifier=sources
+- pkg:maven/com.github.plokhotnyuk.fsi/fsi-macros_3@0.6.3
+- pkg:maven/com.github.plokhotnyuk.fsi/fsi-macros_3@0.6.3?classifier=sources

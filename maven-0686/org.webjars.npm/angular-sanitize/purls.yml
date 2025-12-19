@@ -96,3 +96,5 @@
 - pkg:maven/org.webjars.npm/angular-sanitize@1.8.1?classifier=sources
 - pkg:maven/org.webjars.npm/angular-sanitize@1.8.2
 - pkg:maven/org.webjars.npm/angular-sanitize@1.8.2?classifier=sources
+- pkg:maven/org.webjars.npm/angular-sanitize@1.8.3
+- pkg:maven/org.webjars.npm/angular-sanitize@1.8.3?classifier=sources

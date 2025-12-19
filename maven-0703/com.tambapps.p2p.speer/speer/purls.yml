@@ -1,0 +1,2 @@
+- pkg:maven/com.tambapps.p2p.speer/speer@1.2
+- pkg:maven/com.tambapps.p2p.speer/speer@1.2?classifier=sources

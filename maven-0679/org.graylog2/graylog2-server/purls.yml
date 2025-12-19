@@ -467,3 +467,5 @@
 - pkg:maven/org.graylog2/graylog2-server@4.3.7?classifier=sources
 - pkg:maven/org.graylog2/graylog2-server@4.3.8
 - pkg:maven/org.graylog2/graylog2-server@4.3.8?classifier=sources
+- pkg:maven/org.graylog2/graylog2-server@4.3.9
+- pkg:maven/org.graylog2/graylog2-server@4.3.9?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.heigit.ohsome/oshdb-oshpbf-parser@0.7.1?classifier=sources
 - pkg:maven/org.heigit.ohsome/oshdb-oshpbf-parser@0.7.2
 - pkg:maven/org.heigit.ohsome/oshdb-oshpbf-parser@0.7.2?classifier=sources
+- pkg:maven/org.heigit.ohsome/oshdb-oshpbf-parser@1.0.0
+- pkg:maven/org.heigit.ohsome/oshdb-oshpbf-parser@1.0.0?classifier=sources

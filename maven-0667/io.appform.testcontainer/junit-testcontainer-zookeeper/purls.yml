@@ -4,3 +4,5 @@
 - pkg:maven/io.appform.testcontainer/junit-testcontainer-zookeeper@1.0.11?classifier=sources
 - pkg:maven/io.appform.testcontainer/junit-testcontainer-zookeeper@1.0.12
 - pkg:maven/io.appform.testcontainer/junit-testcontainer-zookeeper@1.0.12?classifier=sources
+- pkg:maven/io.appform.testcontainer/junit-testcontainer-zookeeper@1.0.14
+- pkg:maven/io.appform.testcontainer/junit-testcontainer-zookeeper@1.0.14?classifier=sources

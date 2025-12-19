@@ -1,5 +1,7 @@
 - pkg:maven/org.bytedeco/fftw-platform@3.3.10-1.5.7
 - pkg:maven/org.bytedeco/fftw-platform@3.3.10-1.5.7?classifier=sources
+- pkg:maven/org.bytedeco/fftw-platform@3.3.10-1.5.8
+- pkg:maven/org.bytedeco/fftw-platform@3.3.10-1.5.8?classifier=sources
 - pkg:maven/org.bytedeco/fftw-platform@3.3.8-1.5
 - pkg:maven/org.bytedeco/fftw-platform@3.3.8-1.5.1
 - pkg:maven/org.bytedeco/fftw-platform@3.3.8-1.5.1?classifier=sources

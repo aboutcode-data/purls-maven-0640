@@ -37,6 +37,9 @@
 - pkg:maven/com.liferay/com.liferay.layout.test.util@1.0.9
 - pkg:maven/com.liferay/com.liferay.layout.test.util@1.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.test.util@1.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.test.util@10.0.0
+- pkg:maven/com.liferay/com.liferay.layout.test.util@10.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.test.util@10.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.test.util@2.0.0
 - pkg:maven/com.liferay/com.liferay.layout.test.util@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.test.util@2.0.0?classifier=sources-commercial
@@ -106,6 +109,9 @@
 - pkg:maven/com.liferay/com.liferay.layout.test.util@6.2.0
 - pkg:maven/com.liferay/com.liferay.layout.test.util@6.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.test.util@6.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.test.util@6.3.0
+- pkg:maven/com.liferay/com.liferay.layout.test.util@6.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.test.util@6.3.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.test.util@7.0.0
 - pkg:maven/com.liferay/com.liferay.layout.test.util@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.test.util@7.0.0?classifier=sources-commercial

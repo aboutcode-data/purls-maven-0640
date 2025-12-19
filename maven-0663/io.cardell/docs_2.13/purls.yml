@@ -1,0 +1,4 @@
+- pkg:maven/io.cardell/docs_2.13@0.1.4
+- pkg:maven/io.cardell/docs_2.13@0.1.4-RC2
+- pkg:maven/io.cardell/docs_2.13@0.1.4-RC2?classifier=sources
+- pkg:maven/io.cardell/docs_2.13@0.1.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.baicaixiaozhan/http-message-converter@1.0.0
+- pkg:maven/io.gitee.baicaixiaozhan/http-message-converter@1.0.0?classifier=sources

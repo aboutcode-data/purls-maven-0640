@@ -1,6 +1,8 @@
 - pkg:maven/org.lucee/ehcache@2.10.1
 - pkg:maven/org.lucee/ehcache@2.10.3
 - pkg:maven/org.lucee/ehcache@2.10.4
+- pkg:maven/org.lucee/ehcache@2.10.9.2
+- pkg:maven/org.lucee/ehcache@2.10.9.2?classifier=sources
 - pkg:maven/org.lucee/ehcache@2.5.2
 - pkg:maven/org.lucee/ehcache@2.7.0
 - pkg:maven/org.lucee/ehcache@2.7.8

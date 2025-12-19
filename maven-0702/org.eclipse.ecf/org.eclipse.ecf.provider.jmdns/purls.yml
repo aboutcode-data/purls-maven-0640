@@ -2,3 +2,4 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.jmdns@4.3.200?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.jmdns@4.3.300?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.jmdns@4.3.301?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.jmdns@4.3.302?classifier=sources

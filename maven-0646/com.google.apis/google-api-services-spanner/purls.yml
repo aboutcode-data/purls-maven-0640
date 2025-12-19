@@ -312,6 +312,12 @@
 - pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20220906-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20220916-2.0.0
 - pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20220916-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20221018-2.0.0
+- pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20221018-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20221102-2.0.0
+- pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20221102-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20221108-2.0.0
+- pkg:maven/com.google.apis/google-api-services-spanner@v1-rev20221108-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-spanner@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-spanner@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-spanner@v1-rev21-1.21.0

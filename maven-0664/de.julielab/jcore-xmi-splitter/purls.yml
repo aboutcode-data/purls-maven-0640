@@ -10,3 +10,5 @@
 - pkg:maven/de.julielab/jcore-xmi-splitter@2.3.4?classifier=sources
 - pkg:maven/de.julielab/jcore-xmi-splitter@2.3.5
 - pkg:maven/de.julielab/jcore-xmi-splitter@2.3.5?classifier=sources
+- pkg:maven/de.julielab/jcore-xmi-splitter@2.4.0
+- pkg:maven/de.julielab/jcore-xmi-splitter@2.4.0?classifier=sources

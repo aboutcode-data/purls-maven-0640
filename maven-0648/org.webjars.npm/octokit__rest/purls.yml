@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/octokit__rest@16.28.7?classifier=sources
 - pkg:maven/org.webjars.npm/octokit__rest@17.0.0-beta.3
 - pkg:maven/org.webjars.npm/octokit__rest@17.0.0-beta.3?classifier=sources
+- pkg:maven/org.webjars.npm/octokit__rest@18.12.0
+- pkg:maven/org.webjars.npm/octokit__rest@18.12.0?classifier=sources

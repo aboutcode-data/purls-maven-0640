@@ -1,2 +1,4 @@
 - pkg:maven/cn.taketoday/today-jdbc@1.0.0.RELEASE
 - pkg:maven/cn.taketoday/today-jdbc@1.0.0.RELEASE?classifier=sources
+- pkg:maven/cn.taketoday/today-jdbc@4.0.0-Draft.1
+- pkg:maven/cn.taketoday/today-jdbc@4.0.0-Draft.1?classifier=sources

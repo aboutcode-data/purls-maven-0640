@@ -1,2 +1,3 @@
 - pkg:maven/org.logevents/logevents-junit5-demo@0.3.4
 - pkg:maven/org.logevents/logevents-junit5-demo@0.4.1
+- pkg:maven/org.logevents/logevents-junit5-demo@0.4.2

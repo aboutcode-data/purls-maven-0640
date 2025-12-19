@@ -1,2 +1,4 @@
 - pkg:maven/com.bailizhang.lynxdb/lynxdb-spring-boot-starter@2022.0.0-alpha
 - pkg:maven/com.bailizhang.lynxdb/lynxdb-spring-boot-starter@2022.0.0-alpha?classifier=sources
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-spring-boot-starter@2022.0.1-alpha
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-spring-boot-starter@2022.0.1-alpha?classifier=sources

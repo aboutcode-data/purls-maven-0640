@@ -18,3 +18,4 @@
 - pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.47?type=aar
 - pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.48?type=aar
 - pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.49?type=aar
+- pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.50?type=aar

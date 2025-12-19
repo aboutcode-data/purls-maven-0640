@@ -1,0 +1,4 @@
+- pkg:maven/com.myunidays/kiterable@0.0.12?classifier=sources
+- pkg:maven/com.myunidays/kiterable@0.0.14?classifier=sources
+- pkg:maven/com.myunidays/kiterable@0.0.1?classifier=sources
+- pkg:maven/com.myunidays/kiterable@0.0.3?classifier=sources

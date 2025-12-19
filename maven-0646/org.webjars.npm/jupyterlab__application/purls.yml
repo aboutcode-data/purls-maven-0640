@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jupyterlab__application@4.0.0-alpha.15
+- pkg:maven/org.webjars.npm/jupyterlab__application@4.0.0-alpha.15?classifier=sources

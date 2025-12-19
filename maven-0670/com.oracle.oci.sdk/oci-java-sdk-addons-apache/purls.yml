@@ -251,6 +251,10 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.44.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.45.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.46.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.47.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.48.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.49.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.49.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.5.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.6.0
@@ -260,3 +264,7 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.8.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.8.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@2.9.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@3.0.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@3.0.0-beta1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@3.0.0-beta2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-apache@3.0.1

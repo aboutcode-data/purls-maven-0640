@@ -145,6 +145,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@4.2.7
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@4.2.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@4.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@4.2.9
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@4.2.9?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@4.2.9?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@5.0.0?classifier=sources-commercial
@@ -160,6 +163,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@5.0.4
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@5.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@5.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@5.0.8
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@5.0.8?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@6.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@6.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@6.0.0?classifier=sources-commercial
@@ -287,6 +293,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.3
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.34
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.34?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.35
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.35?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.initializer.util@8.0.4

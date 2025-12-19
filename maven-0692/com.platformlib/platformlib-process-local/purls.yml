@@ -3,4 +3,5 @@
 - pkg:maven/com.platformlib/platformlib-process-local@0.1.3?classifier=sources
 - pkg:maven/com.platformlib/platformlib-process-local@0.1.4?classifier=sources
 - pkg:maven/com.platformlib/platformlib-process-local@0.1.6?classifier=sources
+- pkg:maven/com.platformlib/platformlib-process-local@0.1.7?classifier=sources
 - pkg:maven/com.platformlib/platformlib-process-local@0.1?classifier=sources

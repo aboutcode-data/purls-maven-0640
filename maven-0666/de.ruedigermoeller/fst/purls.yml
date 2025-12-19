@@ -175,3 +175,4 @@
 - pkg:maven/de.ruedigermoeller/fst@3.0.2?classifier=sources
 - pkg:maven/de.ruedigermoeller/fst@3.0.3-jdk17?classifier=sources
 - pkg:maven/de.ruedigermoeller/fst@3.0.3?classifier=sources
+- pkg:maven/de.ruedigermoeller/fst@3.0.4-jdk17?classifier=sources

@@ -1,3 +1,7 @@
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@10.0
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@10.0?classifier=sources
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@10.1
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@10.1?classifier=sources
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@2.0
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@2.0?classifier=sources
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@2.1

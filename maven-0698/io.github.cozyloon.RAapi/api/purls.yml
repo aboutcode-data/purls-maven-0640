@@ -1,0 +1,4 @@
+- pkg:maven/io.github.cozyloon.RAapi/api@1.0-a
+- pkg:maven/io.github.cozyloon.RAapi/api@1.0-a?classifier=sources
+- pkg:maven/io.github.cozyloon.RAapi/api@1.1-a
+- pkg:maven/io.github.cozyloon.RAapi/api@1.1-a?classifier=sources

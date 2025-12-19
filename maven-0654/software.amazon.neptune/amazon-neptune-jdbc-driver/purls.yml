@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.neptune/amazon-neptune-jdbc-driver@3.0.0?classifier=sources

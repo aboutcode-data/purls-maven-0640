@@ -14,6 +14,8 @@
 - pkg:maven/org.wso2.siddhi/siddhi-query-compiler@3.2.7?classifier=sources
 - pkg:maven/org.wso2.siddhi/siddhi-query-compiler@3.2.8
 - pkg:maven/org.wso2.siddhi/siddhi-query-compiler@3.2.8?classifier=sources
+- pkg:maven/org.wso2.siddhi/siddhi-query-compiler@3.2.9
+- pkg:maven/org.wso2.siddhi/siddhi-query-compiler@3.2.9?classifier=sources
 - pkg:maven/org.wso2.siddhi/siddhi-query-compiler@4.0.0
 - pkg:maven/org.wso2.siddhi/siddhi-query-compiler@4.0.0-M100
 - pkg:maven/org.wso2.siddhi/siddhi-query-compiler@4.0.0-M100?classifier=sources

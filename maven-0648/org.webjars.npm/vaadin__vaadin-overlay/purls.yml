@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vaadin__vaadin-overlay@23.3.0-beta1
+- pkg:maven/org.webjars.npm/vaadin__vaadin-overlay@23.3.0-beta1?classifier=sources

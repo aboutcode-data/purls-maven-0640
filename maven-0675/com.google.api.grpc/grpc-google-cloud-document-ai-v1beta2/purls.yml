@@ -72,6 +72,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.19.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.19.3
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.19.3?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.19.4
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.19.4?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.19.5
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.19.5?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.2.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.2.1
@@ -80,6 +84,12 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.2.3?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.2.4
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.2.4?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.20.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.20.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.21.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.21.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.22.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.22.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.3.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-document-ai-v1beta2@0.3.2

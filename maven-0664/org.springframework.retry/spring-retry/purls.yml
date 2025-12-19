@@ -39,3 +39,5 @@
 - pkg:maven/org.springframework.retry/spring-retry@1.3.3?classifier=sources
 - pkg:maven/org.springframework.retry/spring-retry@1.3.4
 - pkg:maven/org.springframework.retry/spring-retry@1.3.4?classifier=sources
+- pkg:maven/org.springframework.retry/spring-retry@2.0.0
+- pkg:maven/org.springframework.retry/spring-retry@2.0.0?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/io.github.uuverifiers/ostrich_2.13@1.1
 - pkg:maven/io.github.uuverifiers/ostrich_2.13@1.1?classifier=sources
 - pkg:maven/io.github.uuverifiers/ostrich_2.13@1.2
+- pkg:maven/io.github.uuverifiers/ostrich_2.13@1.2.1
+- pkg:maven/io.github.uuverifiers/ostrich_2.13@1.2.1?classifier=sources
 - pkg:maven/io.github.uuverifiers/ostrich_2.13@1.2?classifier=sources

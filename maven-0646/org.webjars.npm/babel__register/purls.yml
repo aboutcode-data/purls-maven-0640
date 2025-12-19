@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/babel__register@7.11.5
 - pkg:maven/org.webjars.npm/babel__register@7.11.5?classifier=sources
+- pkg:maven/org.webjars.npm/babel__register@7.18.9
+- pkg:maven/org.webjars.npm/babel__register@7.18.9?classifier=sources
 - pkg:maven/org.webjars.npm/babel__register@7.9.0
 - pkg:maven/org.webjars.npm/babel__register@7.9.0?classifier=sources

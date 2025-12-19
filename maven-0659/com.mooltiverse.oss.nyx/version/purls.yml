@@ -79,6 +79,8 @@
 - pkg:maven/com.mooltiverse.oss.nyx/version@1.2.1-hotfix110.3?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/version@1.2.1-hotfix110.4?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/version@1.2.1?classifier=sources
+- pkg:maven/com.mooltiverse.oss.nyx/version@1.2.2-hotfix116.1?classifier=sources
+- pkg:maven/com.mooltiverse.oss.nyx/version@1.2.2?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/version@unspecified?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/version@v0.0.2-alpha.1?classifier=sources
 - pkg:maven/com.mooltiverse.oss.nyx/version@v0.0.2-alpha.2?classifier=sources

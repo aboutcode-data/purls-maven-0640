@@ -8,3 +8,5 @@
 - pkg:maven/com.cankoluman/ioCSV@0.62?classifier=sources
 - pkg:maven/com.cankoluman/ioCSV@0.65
 - pkg:maven/com.cankoluman/ioCSV@0.65?classifier=sources
+- pkg:maven/com.cankoluman/ioCSV@0.67
+- pkg:maven/com.cankoluman/ioCSV@0.67?classifier=sources

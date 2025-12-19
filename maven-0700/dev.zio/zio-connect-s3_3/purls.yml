@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-connect-s3_3@0.3.0
+- pkg:maven/dev.zio/zio-connect-s3_3@0.3.0?classifier=sources

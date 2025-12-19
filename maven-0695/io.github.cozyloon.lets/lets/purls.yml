@@ -8,3 +8,5 @@
 - pkg:maven/io.github.cozyloon.lets/lets@1.6.0?classifier=sources
 - pkg:maven/io.github.cozyloon.lets/lets@1.7.0
 - pkg:maven/io.github.cozyloon.lets/lets@1.7.0?classifier=sources
+- pkg:maven/io.github.cozyloon.lets/lets@1.8.0
+- pkg:maven/io.github.cozyloon.lets/lets@1.8.0?classifier=sources

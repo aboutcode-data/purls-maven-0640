@@ -1,0 +1,2 @@
+- pkg:maven/org.moeaframework/gd@1.0?classifier=sources
+- pkg:maven/org.moeaframework/gd@1.1?classifier=sources

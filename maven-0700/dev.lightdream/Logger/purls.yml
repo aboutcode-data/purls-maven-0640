@@ -1,2 +1,5 @@
 - pkg:maven/dev.lightdream/Logger@2.4.5
 - pkg:maven/dev.lightdream/Logger@2.4.7
+- pkg:maven/dev.lightdream/Logger@2.4.8
+- pkg:maven/dev.lightdream/Logger@2.4.9
+- pkg:maven/dev.lightdream/Logger@2.5.0

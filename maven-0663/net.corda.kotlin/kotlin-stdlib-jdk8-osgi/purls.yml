@@ -2,3 +2,5 @@
 - pkg:maven/net.corda.kotlin/kotlin-stdlib-jdk8-osgi@1.4.21?classifier=sources
 - pkg:maven/net.corda.kotlin/kotlin-stdlib-jdk8-osgi@1.7.10
 - pkg:maven/net.corda.kotlin/kotlin-stdlib-jdk8-osgi@1.7.10?classifier=sources
+- pkg:maven/net.corda.kotlin/kotlin-stdlib-jdk8-osgi@1.7.21
+- pkg:maven/net.corda.kotlin/kotlin-stdlib-jdk8-osgi@1.7.21?classifier=sources

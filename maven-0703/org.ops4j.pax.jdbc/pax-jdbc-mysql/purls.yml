@@ -58,3 +58,5 @@
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-mysql@1.5.3?classifier=sources
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-mysql@1.5.4
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-mysql@1.5.4?classifier=sources
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-mysql@1.5.5
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-mysql@1.5.5?classifier=sources

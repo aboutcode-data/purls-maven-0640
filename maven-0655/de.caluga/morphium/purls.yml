@@ -266,3 +266,4 @@
 - pkg:maven/de.caluga/morphium@4.2.9?classifier=sources
 - pkg:maven/de.caluga/morphium@5.0.0-ALPHA?classifier=sources
 - pkg:maven/de.caluga/morphium@5.0.0-BETA?classifier=sources
+- pkg:maven/de.caluga/morphium@5.0.0?classifier=sources

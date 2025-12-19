@@ -1,3 +1,17 @@
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10a
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10a?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10b
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10b?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10d
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10d?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10e
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10e?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10f
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10f?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10g
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.10g?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.7
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.7?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.8
@@ -14,3 +28,9 @@
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.9d?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.9e
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.9e?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.9f
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.9f?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.9g
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.9g?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.9h
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.9h?classifier=sources

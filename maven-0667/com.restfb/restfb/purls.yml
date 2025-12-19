@@ -206,6 +206,8 @@
 - pkg:maven/com.restfb/restfb@2.9.0?classifier=sources
 - pkg:maven/com.restfb/restfb@2022.1.0
 - pkg:maven/com.restfb/restfb@2022.1.0?classifier=sources
+- pkg:maven/com.restfb/restfb@2022.10.0
+- pkg:maven/com.restfb/restfb@2022.10.0?classifier=sources
 - pkg:maven/com.restfb/restfb@2022.2.0
 - pkg:maven/com.restfb/restfb@2022.2.0?classifier=sources
 - pkg:maven/com.restfb/restfb@2022.3.0

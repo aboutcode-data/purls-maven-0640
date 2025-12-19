@@ -1,3 +1,5 @@
+- pkg:maven/org.wso2.carbon.callhome/callhome@4.4.x_1.0.10
+- pkg:maven/org.wso2.carbon.callhome/callhome@4.4.x_1.0.10?classifier=sources
 - pkg:maven/org.wso2.carbon.callhome/callhome@4.4.x_1.0.2
 - pkg:maven/org.wso2.carbon.callhome/callhome@4.4.x_1.0.2?classifier=sources
 - pkg:maven/org.wso2.carbon.callhome/callhome@4.4.x_1.0.4
@@ -40,6 +42,8 @@
 - pkg:maven/org.wso2.carbon.callhome/callhome@4.6.x_1.0.7?classifier=sources
 - pkg:maven/org.wso2.carbon.callhome/callhome@5.x.x_1.0.10
 - pkg:maven/org.wso2.carbon.callhome/callhome@5.x.x_1.0.10?classifier=sources
+- pkg:maven/org.wso2.carbon.callhome/callhome@5.x.x_1.0.11
+- pkg:maven/org.wso2.carbon.callhome/callhome@5.x.x_1.0.11?classifier=sources
 - pkg:maven/org.wso2.carbon.callhome/callhome@5.x.x_1.0.2
 - pkg:maven/org.wso2.carbon.callhome/callhome@5.x.x_1.0.2?classifier=sources
 - pkg:maven/org.wso2.carbon.callhome/callhome@5.x.x_1.0.4

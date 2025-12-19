@@ -22,3 +22,7 @@
 - pkg:maven/net.pwall.log/log-front-kotlin@4.0?classifier=sources
 - pkg:maven/net.pwall.log/log-front-kotlin@5.0
 - pkg:maven/net.pwall.log/log-front-kotlin@5.0?classifier=sources
+- pkg:maven/net.pwall.log/log-front-kotlin@5.1
+- pkg:maven/net.pwall.log/log-front-kotlin@5.1.2
+- pkg:maven/net.pwall.log/log-front-kotlin@5.1.2?classifier=sources
+- pkg:maven/net.pwall.log/log-front-kotlin@5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.mccue/json.decode.alpha@0.0.1?classifier=sources
+- pkg:maven/dev.mccue/json.decode.alpha@0.0.2?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/aws-sdk__util-utf8-node@3.109.0
 - pkg:maven/org.webjars.npm/aws-sdk__util-utf8-node@3.109.0?classifier=sources
+- pkg:maven/org.webjars.npm/aws-sdk__util-utf8-node@3.188.0
+- pkg:maven/org.webjars.npm/aws-sdk__util-utf8-node@3.188.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk__util-utf8-node@3.6.1
 - pkg:maven/org.webjars.npm/aws-sdk__util-utf8-node@3.6.1?classifier=sources

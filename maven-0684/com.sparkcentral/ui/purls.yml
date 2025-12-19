@@ -50,3 +50,7 @@
 - pkg:maven/com.sparkcentral/ui@4.0.0?type=aar
 - pkg:maven/com.sparkcentral/ui@4.1.0?type=aar
 - pkg:maven/com.sparkcentral/ui@4.2.0?type=aar
+- pkg:maven/com.sparkcentral/ui@5.0.0?type=aar
+- pkg:maven/com.sparkcentral/ui@5.0.1?type=aar
+- pkg:maven/com.sparkcentral/ui@5.0.2?type=aar
+- pkg:maven/com.sparkcentral/ui@5.1.1?type=aar

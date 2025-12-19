@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pnoker/dc3-common-base@2022.1.0
+- pkg:maven/io.github.pnoker/dc3-common-base@2022.1.0?classifier=sources

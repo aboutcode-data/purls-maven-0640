@@ -1,0 +1,4 @@
+- pkg:maven/io.github.alexarchambault.scala-cli.signing/shared_3@0.1.12
+- pkg:maven/io.github.alexarchambault.scala-cli.signing/shared_3@0.1.12?classifier=sources
+- pkg:maven/io.github.alexarchambault.scala-cli.signing/shared_3@0.1.13
+- pkg:maven/io.github.alexarchambault.scala-cli.signing/shared_3@0.1.13?classifier=sources

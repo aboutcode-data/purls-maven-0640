@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/free-style@2.5.1
 - pkg:maven/org.webjars.npm/free-style@2.5.1?classifier=sources
+- pkg:maven/org.webjars.npm/free-style@3.1.0
+- pkg:maven/org.webjars.npm/free-style@3.1.0?classifier=sources

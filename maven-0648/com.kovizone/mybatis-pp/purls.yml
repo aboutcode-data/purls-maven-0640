@@ -1,0 +1,2 @@
+- pkg:maven/com.kovizone/mybatis-pp@3.5.2-1?classifier=sources
+- pkg:maven/com.kovizone/mybatis-pp@3.5.2?classifier=sources

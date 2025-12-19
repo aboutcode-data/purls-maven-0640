@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-impala-jdbc-2.6.x-plugin@8.13.0
+- pkg:maven/org.apache.skywalking/apm-impala-jdbc-2.6.x-plugin@8.13.0?classifier=sources

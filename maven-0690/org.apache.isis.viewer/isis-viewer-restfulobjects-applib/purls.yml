@@ -13,6 +13,8 @@
 - pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-applib@2.0.0-M7?classifier=sources
 - pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-applib@2.0.0-M8
 - pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-applib@2.0.0-M8?classifier=sources
+- pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-applib@2.0.0-M9
+- pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-applib@2.0.0-M9?classifier=sources
 - pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-applib@2.0.0?classifier=sources
 - pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-applib@2.1.0
 - pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-applib@2.1.0?classifier=sources

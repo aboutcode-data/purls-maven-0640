@@ -12,6 +12,12 @@
 - pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M15?classifier=sources
 - pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M16
 - pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M16?classifier=sources
+- pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M17
+- pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M17?classifier=sources
+- pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M18
+- pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M18?classifier=sources
+- pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M19
+- pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M19?classifier=sources
 - pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M3
 - pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M3?classifier=sources
 - pkg:maven/build.bleep/bleep-tasks_2.13@0.0.1-M4
