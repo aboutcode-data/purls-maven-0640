@@ -85,6 +85,8 @@
 - pkg:maven/com.almis.awe/awe-testing@4.6.0
 - pkg:maven/com.almis.awe/awe-testing@4.6.0?classifier=sources
 - pkg:maven/com.almis.awe/awe-testing@4.6.1
+- pkg:maven/com.almis.awe/awe-testing@4.6.10
+- pkg:maven/com.almis.awe/awe-testing@4.6.10?classifier=sources
 - pkg:maven/com.almis.awe/awe-testing@4.6.1?classifier=sources
 - pkg:maven/com.almis.awe/awe-testing@4.6.2
 - pkg:maven/com.almis.awe/awe-testing@4.6.2?classifier=sources
@@ -100,3 +102,5 @@
 - pkg:maven/com.almis.awe/awe-testing@4.6.7?classifier=sources
 - pkg:maven/com.almis.awe/awe-testing@4.6.8
 - pkg:maven/com.almis.awe/awe-testing@4.6.8?classifier=sources
+- pkg:maven/com.almis.awe/awe-testing@4.6.9
+- pkg:maven/com.almis.awe/awe-testing@4.6.9?classifier=sources

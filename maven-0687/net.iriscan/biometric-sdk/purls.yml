@@ -8,3 +8,4 @@
 - pkg:maven/net.iriscan/biometric-sdk@0.3.3?classifier=sources
 - pkg:maven/net.iriscan/biometric-sdk@0.3.4?classifier=sources
 - pkg:maven/net.iriscan/biometric-sdk@0.3.5?classifier=sources
+- pkg:maven/net.iriscan/biometric-sdk@0.4.0?classifier=sources

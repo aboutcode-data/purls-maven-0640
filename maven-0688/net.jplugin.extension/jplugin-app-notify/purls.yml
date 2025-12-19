@@ -1,0 +1,2 @@
+- pkg:maven/net.jplugin.extension/jplugin-app-notify@3.0.0
+- pkg:maven/net.jplugin.extension/jplugin-app-notify@3.0.0?classifier=sources

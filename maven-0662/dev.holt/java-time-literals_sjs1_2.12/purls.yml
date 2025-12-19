@@ -4,3 +4,5 @@
 - pkg:maven/dev.holt/java-time-literals_sjs1_2.12@1.0.0?classifier=sources
 - pkg:maven/dev.holt/java-time-literals_sjs1_2.12@1.1.0
 - pkg:maven/dev.holt/java-time-literals_sjs1_2.12@1.1.0?classifier=sources
+- pkg:maven/dev.holt/java-time-literals_sjs1_2.12@1.1.1
+- pkg:maven/dev.holt/java-time-literals_sjs1_2.12@1.1.1?classifier=sources

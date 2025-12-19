@@ -8,3 +8,6 @@
 - pkg:maven/com.io7m.certusine/com.io7m.certusine.documentation@0.0.7?classifier=sources
 - pkg:maven/com.io7m.certusine/com.io7m.certusine.documentation@0.0.8?classifier=sources
 - pkg:maven/com.io7m.certusine/com.io7m.certusine.documentation@0.0.9?classifier=sources
+- pkg:maven/com.io7m.certusine/com.io7m.certusine.documentation@1.0.0?classifier=sources
+- pkg:maven/com.io7m.certusine/com.io7m.certusine.documentation@1.1.0?classifier=sources
+- pkg:maven/com.io7m.certusine/com.io7m.certusine.documentation@2.0.0?classifier=sources

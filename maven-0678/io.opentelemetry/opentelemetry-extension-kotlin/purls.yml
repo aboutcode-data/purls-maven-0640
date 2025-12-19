@@ -40,6 +40,7 @@
 - pkg:maven/io.opentelemetry/opentelemetry-extension-kotlin@1.24.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-kotlin@1.25.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-kotlin@1.26.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-extension-kotlin@1.27.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-kotlin@1.3.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-kotlin@1.4.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-extension-kotlin@1.4.1?classifier=sources

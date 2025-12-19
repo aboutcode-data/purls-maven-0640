@@ -144,8 +144,12 @@
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.37.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.38.0
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.38.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.39.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.39.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.4.0
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.4.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.40.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.40.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.5.0
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.5.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.6.0

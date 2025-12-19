@@ -53,6 +53,14 @@
 - pkg:maven/com.google.cloud/google-cloud-channel@3.2.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-channel@3.20.0
 - pkg:maven/com.google.cloud/google-cloud-channel@3.20.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-channel@3.21.0
+- pkg:maven/com.google.cloud/google-cloud-channel@3.21.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-channel@3.22.0
+- pkg:maven/com.google.cloud/google-cloud-channel@3.22.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-channel@3.23.0
+- pkg:maven/com.google.cloud/google-cloud-channel@3.23.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-channel@3.24.0
+- pkg:maven/com.google.cloud/google-cloud-channel@3.24.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-channel@3.3.0
 - pkg:maven/com.google.cloud/google-cloud-channel@3.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-channel@3.3.1

@@ -6,3 +6,5 @@
 - pkg:maven/fr.janalyse/json2props_2.12@0.5.2?classifier=sources
 - pkg:maven/fr.janalyse/json2props_2.12@1.0.0
 - pkg:maven/fr.janalyse/json2props_2.12@1.0.0?classifier=sources
+- pkg:maven/fr.janalyse/json2props_2.12@1.0.1
+- pkg:maven/fr.janalyse/json2props_2.12@1.0.1?classifier=sources

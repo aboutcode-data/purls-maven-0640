@@ -4,3 +4,4 @@
 - pkg:maven/io.github.luca992.multiplatform-swiftpackage/io.github.luca992.multiplatform-swiftpackage.gradle.plugin@2.0.5-arm64?classifier=sources
 - pkg:maven/io.github.luca992.multiplatform-swiftpackage/io.github.luca992.multiplatform-swiftpackage.gradle.plugin@2.1.0?classifier=sources
 - pkg:maven/io.github.luca992.multiplatform-swiftpackage/io.github.luca992.multiplatform-swiftpackage.gradle.plugin@2.1.1?classifier=sources
+- pkg:maven/io.github.luca992.multiplatform-swiftpackage/io.github.luca992.multiplatform-swiftpackage.gradle.plugin@2.1.2?classifier=sources

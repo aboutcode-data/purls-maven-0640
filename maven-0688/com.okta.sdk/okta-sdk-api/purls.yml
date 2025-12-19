@@ -52,6 +52,14 @@
 - pkg:maven/com.okta.sdk/okta-sdk-api@10.2.2?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-api@10.3.0
 - pkg:maven/com.okta.sdk/okta-sdk-api@10.3.0?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-api@11.0.0
+- pkg:maven/com.okta.sdk/okta-sdk-api@11.0.0?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-api@11.0.2
+- pkg:maven/com.okta.sdk/okta-sdk-api@11.0.2?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-api@11.0.3
+- pkg:maven/com.okta.sdk/okta-sdk-api@11.0.3?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-api@12.0.0
+- pkg:maven/com.okta.sdk/okta-sdk-api@12.0.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-api@2.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-api@2.0.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-api@2.0.1
@@ -90,5 +98,7 @@
 - pkg:maven/com.okta.sdk/okta-sdk-api@8.2.2?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-api@8.2.3
 - pkg:maven/com.okta.sdk/okta-sdk-api@8.2.3?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-api@8.2.4
+- pkg:maven/com.okta.sdk/okta-sdk-api@8.2.4?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-api@9.0.0-beta
 - pkg:maven/com.okta.sdk/okta-sdk-api@9.0.0-beta?classifier=sources

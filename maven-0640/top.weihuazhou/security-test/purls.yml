@@ -1,0 +1,4 @@
+- pkg:maven/top.weihuazhou/security-test@1.0.0-release
+- pkg:maven/top.weihuazhou/security-test@1.0.0-release?classifier=sources
+- pkg:maven/top.weihuazhou/security-test@2.1.0-release
+- pkg:maven/top.weihuazhou/security-test@2.1.0-release?classifier=sources

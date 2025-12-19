@@ -2,3 +2,5 @@
 - pkg:maven/org.glassfish.woodstock/woodstock-webui-jsf@5.0.0?classifier=sources
 - pkg:maven/org.glassfish.woodstock/woodstock-webui-jsf@6.0.0
 - pkg:maven/org.glassfish.woodstock/woodstock-webui-jsf@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.woodstock/woodstock-webui-jsf@6.0.1
+- pkg:maven/org.glassfish.woodstock/woodstock-webui-jsf@6.0.1?classifier=sources

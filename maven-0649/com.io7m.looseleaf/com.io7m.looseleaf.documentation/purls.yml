@@ -6,3 +6,7 @@
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.documentation@0.0.3?type=zip
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.documentation@0.0.4?classifier=sources
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.documentation@0.0.4?type=zip
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.documentation@1.0.0?classifier=sources
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.documentation@1.0.0?type=zip
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.documentation@1.1.0?classifier=sources
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.documentation@1.1.0?type=zip

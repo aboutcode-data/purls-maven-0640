@@ -111,8 +111,14 @@
 - pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.27?classifier=sources
 - pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.28
 - pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.28?classifier=sources
+- pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.29
+- pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.29?classifier=sources
 - pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.2?classifier=sources
 - pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.3
+- pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.30
+- pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.30?classifier=sources
+- pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.31
+- pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.31?classifier=sources
 - pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.3?classifier=sources
 - pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.4
 - pkg:maven/com.ganshane.specs/vx-protocol@8.0.22.4?classifier=sources

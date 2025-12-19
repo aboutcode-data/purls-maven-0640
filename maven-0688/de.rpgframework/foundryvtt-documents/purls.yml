@@ -1,0 +1,2 @@
+- pkg:maven/de.rpgframework/foundryvtt-documents@9.249
+- pkg:maven/de.rpgframework/foundryvtt-documents@9.249?classifier=sources

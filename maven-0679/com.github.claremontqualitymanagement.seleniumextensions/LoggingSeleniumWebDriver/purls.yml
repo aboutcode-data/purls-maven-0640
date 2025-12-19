@@ -1,0 +1,4 @@
+- pkg:maven/com.github.claremontqualitymanagement.seleniumextensions/LoggingSeleniumWebDriver@1.3.2
+- pkg:maven/com.github.claremontqualitymanagement.seleniumextensions/LoggingSeleniumWebDriver@1.3.2?classifier=sources
+- pkg:maven/com.github.claremontqualitymanagement.seleniumextensions/LoggingSeleniumWebDriver@1.4.0
+- pkg:maven/com.github.claremontqualitymanagement.seleniumextensions/LoggingSeleniumWebDriver@1.4.0?classifier=sources

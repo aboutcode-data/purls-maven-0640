@@ -1,0 +1,4 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/awscommunity-applicationautoscaling-scheduledaction@1.3.0-alpha.7
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/awscommunity-applicationautoscaling-scheduledaction@1.3.0-alpha.7?classifier=sources
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/awscommunity-applicationautoscaling-scheduledaction@1.4.0-alpha.7
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/awscommunity-applicationautoscaling-scheduledaction@1.4.0-alpha.7?classifier=sources

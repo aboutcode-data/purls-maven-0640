@@ -198,6 +198,8 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/rest-plugin@19.0.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/rest-plugin@19.0.2
 - pkg:maven/ru.sbtqa.tag.pagefactory/rest-plugin@19.0.2?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/rest-plugin@20.0.2
+- pkg:maven/ru.sbtqa.tag.pagefactory/rest-plugin@20.0.2?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/rest-plugin@4.0.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/rest-plugin@4.0.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/rest-plugin@4.1.0

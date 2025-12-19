@@ -1,0 +1,4 @@
+- pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.5.0-preview
+- pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.5.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.5.1-preview
+- pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.5.1-preview?classifier=sources

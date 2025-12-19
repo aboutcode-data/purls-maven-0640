@@ -28,3 +28,11 @@
 - pkg:maven/org.ehrbase.openehr/application@0.26.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/application@0.27.0
 - pkg:maven/org.ehrbase.openehr/application@0.27.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/application@0.27.1
+- pkg:maven/org.ehrbase.openehr/application@0.27.1?classifier=sources
+- pkg:maven/org.ehrbase.openehr/application@0.27.2
+- pkg:maven/org.ehrbase.openehr/application@0.27.2?classifier=sources
+- pkg:maven/org.ehrbase.openehr/application@0.27.3
+- pkg:maven/org.ehrbase.openehr/application@0.27.3?classifier=sources
+- pkg:maven/org.ehrbase.openehr/application@0.27.4
+- pkg:maven/org.ehrbase.openehr/application@0.27.4?classifier=sources

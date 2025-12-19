@@ -52,3 +52,7 @@
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-reflect-asm@5.2.6?classifier=sources
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-reflect-asm@5.2.7
 - pkg:maven/io.github.bes2008.solution.langx/langx-java-reflect-asm@5.2.7?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-reflect-asm@5.2.8
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-reflect-asm@5.2.8?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-reflect-asm@5.2.9
+- pkg:maven/io.github.bes2008.solution.langx/langx-java-reflect-asm@5.2.9?classifier=sources

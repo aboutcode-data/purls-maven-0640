@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.jaxb/jaxb-maven-plugin-testing@2.0.2
+- pkg:maven/org.jvnet.jaxb/jaxb-maven-plugin-testing@2.0.2?classifier=sources

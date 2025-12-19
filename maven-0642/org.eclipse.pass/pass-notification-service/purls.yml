@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.pass/pass-notification-service@0.7.0
+- pkg:maven/org.eclipse.pass/pass-notification-service@0.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.geolykt.starloader/reversible-access-setter@1.0.0
+- pkg:maven/de.geolykt.starloader/reversible-access-setter@1.0.0?classifier=sources

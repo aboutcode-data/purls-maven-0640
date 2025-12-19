@@ -22,3 +22,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-client-runtime@3.3.3
 - pkg:maven/org.apache.hadoop/hadoop-client-runtime@3.3.4
 - pkg:maven/org.apache.hadoop/hadoop-client-runtime@3.3.5
+- pkg:maven/org.apache.hadoop/hadoop-client-runtime@3.3.6

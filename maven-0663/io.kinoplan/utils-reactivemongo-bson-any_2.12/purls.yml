@@ -30,6 +30,8 @@
 - pkg:maven/io.kinoplan/utils-reactivemongo-bson-any_2.12@0.0.24?classifier=sources
 - pkg:maven/io.kinoplan/utils-reactivemongo-bson-any_2.12@0.0.25
 - pkg:maven/io.kinoplan/utils-reactivemongo-bson-any_2.12@0.0.25?classifier=sources
+- pkg:maven/io.kinoplan/utils-reactivemongo-bson-any_2.12@0.0.26
+- pkg:maven/io.kinoplan/utils-reactivemongo-bson-any_2.12@0.0.26?classifier=sources
 - pkg:maven/io.kinoplan/utils-reactivemongo-bson-any_2.12@0.0.7
 - pkg:maven/io.kinoplan/utils-reactivemongo-bson-any_2.12@0.0.7?classifier=sources
 - pkg:maven/io.kinoplan/utils-reactivemongo-bson-any_2.12@0.0.8

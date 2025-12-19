@@ -1,0 +1,2 @@
+- pkg:maven/com.suriyaprakhash/dependency-maven-plugin@0.0.21
+- pkg:maven/com.suriyaprakhash/dependency-maven-plugin@0.0.21?classifier=sources

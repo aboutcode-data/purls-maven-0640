@@ -1,0 +1,2 @@
+- pkg:maven/me.proton.core/account-recovery-dagger@11.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-dagger@12.0.0?classifier=sources

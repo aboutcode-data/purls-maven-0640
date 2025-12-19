@@ -30,6 +30,12 @@
 - pkg:maven/com.mdsol/mauth-authenticator-apachehttp@10.0.3?classifier=sources
 - pkg:maven/com.mdsol/mauth-authenticator-apachehttp@10.1.0
 - pkg:maven/com.mdsol/mauth-authenticator-apachehttp@10.1.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-authenticator-apachehttp@11.0.0
+- pkg:maven/com.mdsol/mauth-authenticator-apachehttp@11.0.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-authenticator-apachehttp@12.0.0
+- pkg:maven/com.mdsol/mauth-authenticator-apachehttp@12.0.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-authenticator-apachehttp@13.0.0
+- pkg:maven/com.mdsol/mauth-authenticator-apachehttp@13.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-authenticator-apachehttp@2.0.0
 - pkg:maven/com.mdsol/mauth-authenticator-apachehttp@2.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-authenticator-apachehttp@2.0.1

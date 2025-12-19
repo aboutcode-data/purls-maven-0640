@@ -14,3 +14,5 @@
 - pkg:maven/com.itemis/fluffyj.memory@1.5.0?classifier=sources
 - pkg:maven/com.itemis/fluffyj.memory@1.6.0
 - pkg:maven/com.itemis/fluffyj.memory@1.6.0?classifier=sources
+- pkg:maven/com.itemis/fluffyj.memory@1.7.0
+- pkg:maven/com.itemis/fluffyj.memory@1.7.0?classifier=sources

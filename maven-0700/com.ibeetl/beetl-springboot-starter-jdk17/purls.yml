@@ -10,3 +10,7 @@
 - pkg:maven/com.ibeetl/beetl-springboot-starter-jdk17@3.15.3.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl-springboot-starter-jdk17@3.15.4.RELEASE
 - pkg:maven/com.ibeetl/beetl-springboot-starter-jdk17@3.15.4.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl-springboot-starter-jdk17@3.15.5.RELEASE
+- pkg:maven/com.ibeetl/beetl-springboot-starter-jdk17@3.15.5.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl-springboot-starter-jdk17@3.15.6.RELEASE
+- pkg:maven/com.ibeetl/beetl-springboot-starter-jdk17@3.15.6.RELEASE?classifier=sources

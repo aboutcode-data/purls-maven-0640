@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.ank_code/ak-open-payment-wx@0.1
+- pkg:maven/io.gitee.ank_code/ak-open-payment-wx@0.11
+- pkg:maven/io.gitee.ank_code/ak-open-payment-wx@0.11?classifier=sources
+- pkg:maven/io.gitee.ank_code/ak-open-payment-wx@0.1?classifier=sources

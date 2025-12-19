@@ -40,3 +40,5 @@
 - pkg:maven/io.github.jeff-zou/flink-connector-redis@1.2.7?classifier=sources
 - pkg:maven/io.github.jeff-zou/flink-connector-redis@1.2.8
 - pkg:maven/io.github.jeff-zou/flink-connector-redis@1.2.8?classifier=sources
+- pkg:maven/io.github.jeff-zou/flink-connector-redis@1.2.9
+- pkg:maven/io.github.jeff-zou/flink-connector-redis@1.2.9?classifier=sources

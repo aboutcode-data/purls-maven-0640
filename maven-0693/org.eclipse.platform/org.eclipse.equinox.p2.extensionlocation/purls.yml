@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.extensionlocation@1.4.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.extensionlocation@1.4.100
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.extensionlocation@1.4.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.extensionlocation@1.5.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.extensionlocation@1.5.0?classifier=sources

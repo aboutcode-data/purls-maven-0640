@@ -8,6 +8,8 @@
 - pkg:maven/me.proton.core/presentation-compose@10.6.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@10.7.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@10.7.1?classifier=sources
+- pkg:maven/me.proton.core/presentation-compose@11.0.0?classifier=sources
+- pkg:maven/me.proton.core/presentation-compose@12.0.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@5.0.0?classifier=sources

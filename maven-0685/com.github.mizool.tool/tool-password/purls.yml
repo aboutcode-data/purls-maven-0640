@@ -20,3 +20,7 @@
 - pkg:maven/com.github.mizool.tool/tool-password@0.50?classifier=sources
 - pkg:maven/com.github.mizool.tool/tool-password@0.51
 - pkg:maven/com.github.mizool.tool/tool-password@0.51?classifier=sources
+- pkg:maven/com.github.mizool.tool/tool-password@0.52
+- pkg:maven/com.github.mizool.tool/tool-password@0.52?classifier=sources
+- pkg:maven/com.github.mizool.tool/tool-password@1.0
+- pkg:maven/com.github.mizool.tool/tool-password@1.0?classifier=sources

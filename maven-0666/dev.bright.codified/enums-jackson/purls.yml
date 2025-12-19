@@ -1,0 +1,3 @@
+- pkg:maven/dev.bright.codified/enums-jackson@1.6.21.2?classifier=sources
+- pkg:maven/dev.bright.codified/enums-jackson@1.8.22.1?classifier=sources
+- pkg:maven/dev.bright.codified/enums-jackson@1.8.22.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.jplugin/jplugin-mvc@2.5.0
 - pkg:maven/net.jplugin/jplugin-mvc@2.5.0?classifier=sources
+- pkg:maven/net.jplugin/jplugin-mvc@3.0.0
+- pkg:maven/net.jplugin/jplugin-mvc@3.0.0?classifier=sources

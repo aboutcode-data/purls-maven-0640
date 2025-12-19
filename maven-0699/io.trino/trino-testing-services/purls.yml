@@ -120,3 +120,7 @@
 - pkg:maven/io.trino/trino-testing-services@417?classifier=sources
 - pkg:maven/io.trino/trino-testing-services@418
 - pkg:maven/io.trino/trino-testing-services@418?classifier=sources
+- pkg:maven/io.trino/trino-testing-services@419
+- pkg:maven/io.trino/trino-testing-services@419?classifier=sources
+- pkg:maven/io.trino/trino-testing-services@420
+- pkg:maven/io.trino/trino-testing-services@420?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/dev.atchison/mariadb-cdc@1.0.4.2?classifier=sources

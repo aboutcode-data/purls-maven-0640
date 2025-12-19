@@ -14,3 +14,5 @@
 - pkg:maven/com.exasol/ci-isolation-aws@1.0.3?classifier=sources
 - pkg:maven/com.exasol/ci-isolation-aws@2.0.0
 - pkg:maven/com.exasol/ci-isolation-aws@2.0.0?classifier=sources
+- pkg:maven/com.exasol/ci-isolation-aws@2.0.1
+- pkg:maven/com.exasol/ci-isolation-aws@2.0.1?classifier=sources

@@ -4,3 +4,6 @@
 - pkg:maven/com.gitlab.pointlessbox/no-null@2.1.0?classifier=sources
 - pkg:maven/com.gitlab.pointlessbox/no-null@3.0.0?classifier=sources
 - pkg:maven/com.gitlab.pointlessbox/no-null@4.0.0?classifier=sources
+- pkg:maven/com.gitlab.pointlessbox/no-null@4.1.0?classifier=sources
+- pkg:maven/com.gitlab.pointlessbox/no-null@4.2.0?classifier=sources
+- pkg:maven/com.gitlab.pointlessbox/no-null@4.3.0?classifier=sources

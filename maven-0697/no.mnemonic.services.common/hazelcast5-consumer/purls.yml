@@ -16,3 +16,7 @@
 - pkg:maven/no.mnemonic.services.common/hazelcast5-consumer@0.3.48?classifier=sources
 - pkg:maven/no.mnemonic.services.common/hazelcast5-consumer@0.3.49
 - pkg:maven/no.mnemonic.services.common/hazelcast5-consumer@0.3.49?classifier=sources
+- pkg:maven/no.mnemonic.services.common/hazelcast5-consumer@0.3.50
+- pkg:maven/no.mnemonic.services.common/hazelcast5-consumer@0.3.50?classifier=sources
+- pkg:maven/no.mnemonic.services.common/hazelcast5-consumer@0.3.51
+- pkg:maven/no.mnemonic.services.common/hazelcast5-consumer@0.3.51?classifier=sources

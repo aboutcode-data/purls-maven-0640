@@ -82,5 +82,7 @@
 - pkg:maven/io.continual/continualIam@0.2.47?classifier=sources
 - pkg:maven/io.continual/continualIam@0.2.48
 - pkg:maven/io.continual/continualIam@0.2.48?classifier=sources
+- pkg:maven/io.continual/continualIam@0.2.49
+- pkg:maven/io.continual/continualIam@0.2.49?classifier=sources
 - pkg:maven/io.continual/continualIam@0.2.9
 - pkg:maven/io.continual/continualIam@0.2.9?classifier=sources

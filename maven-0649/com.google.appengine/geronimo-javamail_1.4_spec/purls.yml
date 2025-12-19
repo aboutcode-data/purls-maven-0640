@@ -13,6 +13,8 @@
 - pkg:maven/com.google.appengine/geronimo-javamail_1.4_spec@1.4.4-2.0.13?classifier=sources
 - pkg:maven/com.google.appengine/geronimo-javamail_1.4_spec@1.4.4-2.0.14
 - pkg:maven/com.google.appengine/geronimo-javamail_1.4_spec@1.4.4-2.0.14?classifier=sources
+- pkg:maven/com.google.appengine/geronimo-javamail_1.4_spec@1.4.4-2.0.15
+- pkg:maven/com.google.appengine/geronimo-javamail_1.4_spec@1.4.4-2.0.16
 - pkg:maven/com.google.appengine/geronimo-javamail_1.4_spec@1.4.4-2.0.8
 - pkg:maven/com.google.appengine/geronimo-javamail_1.4_spec@1.4.4-2.0.8?classifier=sources
 - pkg:maven/com.google.appengine/geronimo-javamail_1.4_spec@1.4.4?classifier=sources

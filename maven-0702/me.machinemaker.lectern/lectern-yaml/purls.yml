@@ -1,1 +1,2 @@
 - pkg:maven/me.machinemaker.lectern/lectern-yaml@0.2.1?classifier=sources
+- pkg:maven/me.machinemaker.lectern/lectern-yaml@0.3.0?classifier=sources

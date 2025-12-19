@@ -142,3 +142,5 @@
 - pkg:maven/com.sap.cds.repackaged/odata-v4-lib@1.8.3?classifier=sources
 - pkg:maven/com.sap.cds.repackaged/odata-v4-lib@1.9.0
 - pkg:maven/com.sap.cds.repackaged/odata-v4-lib@1.9.0?classifier=sources
+- pkg:maven/com.sap.cds.repackaged/odata-v4-lib@2.0.1
+- pkg:maven/com.sap.cds.repackaged/odata-v4-lib@2.0.1?classifier=sources

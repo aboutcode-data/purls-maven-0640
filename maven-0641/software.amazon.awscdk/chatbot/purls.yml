@@ -234,6 +234,8 @@
 - pkg:maven/software.amazon.awscdk/chatbot@1.202.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/chatbot@1.203.0
 - pkg:maven/software.amazon.awscdk/chatbot@1.203.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/chatbot@1.204.0
+- pkg:maven/software.amazon.awscdk/chatbot@1.204.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/chatbot@1.28.0
 - pkg:maven/software.amazon.awscdk/chatbot@1.28.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/chatbot@1.29.0

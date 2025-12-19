@@ -26,3 +26,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director@2.5.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director@2.5.400
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director@2.5.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director@2.6.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.director@2.6.0?classifier=sources

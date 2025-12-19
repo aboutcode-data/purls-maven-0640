@@ -1,2 +1,4 @@
 - pkg:maven/net.stickycode.plugins/frontmatter-maven-plugin@1.2
 - pkg:maven/net.stickycode.plugins/frontmatter-maven-plugin@1.2?classifier=sources
+- pkg:maven/net.stickycode.plugins/frontmatter-maven-plugin@1.5
+- pkg:maven/net.stickycode.plugins/frontmatter-maven-plugin@1.5?classifier=sources

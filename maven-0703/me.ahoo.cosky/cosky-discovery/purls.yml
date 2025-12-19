@@ -59,3 +59,6 @@
 - pkg:maven/me.ahoo.cosky/cosky-discovery@3.3.7?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-discovery@3.3.8?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-discovery@3.3.9?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-discovery@4.0.0-M1?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-discovery@4.0.0?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-discovery@4.0.1?classifier=sources

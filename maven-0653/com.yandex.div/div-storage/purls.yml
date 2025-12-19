@@ -21,6 +21,15 @@
 - pkg:maven/com.yandex.div/div-storage@24.1.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@24.2.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@24.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@25.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@25.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@25.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@25.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@25.4.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@25.4.1?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@25.5.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@25.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@25.7.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-storage@7.0.0?classifier=sources

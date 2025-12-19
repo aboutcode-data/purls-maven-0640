@@ -306,3 +306,4 @@
 - pkg:maven/name.remal/gradle-plugins-kotlin-dsl@1.8.2?classifier=sources
 - pkg:maven/name.remal/gradle-plugins-kotlin-dsl@1.8.3?classifier=sources
 - pkg:maven/name.remal/gradle-plugins-kotlin-dsl@1.8.4?classifier=sources
+- pkg:maven/name.remal/gradle-plugins-kotlin-dsl@1.9.0?classifier=sources

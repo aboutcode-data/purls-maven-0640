@@ -135,6 +135,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.0-225-fc68d1b?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.0?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.1
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.10
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.10?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.1?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.2
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.2?classifier=sources
@@ -146,6 +148,16 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.5?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.6
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.6?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.7
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.7?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.8
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.8?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.9
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.17.9?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.18.0-528-d32916a
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.18.0-528-d32916a?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.18.0-595-e8a6dc6
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.18.0-595-e8a6dc6?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.9.0
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.9.0?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_sjs1_3@0.9.1

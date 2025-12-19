@@ -1,0 +1,2 @@
+- pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc-spring-boot-starter@1.0
+- pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc-spring-boot-starter@1.0?classifier=sources

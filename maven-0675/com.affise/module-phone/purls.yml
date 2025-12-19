@@ -1,1 +1,2 @@
 - pkg:maven/com.affise/module-phone@1.5.4?classifier=sources
+- pkg:maven/com.affise/module-phone@1.5.5?classifier=sources

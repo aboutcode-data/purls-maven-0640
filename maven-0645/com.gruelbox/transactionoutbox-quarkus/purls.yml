@@ -1,2 +1,6 @@
 - pkg:maven/com.gruelbox/transactionoutbox-quarkus@5.2.337
 - pkg:maven/com.gruelbox/transactionoutbox-quarkus@5.2.337?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-quarkus@5.2.360
+- pkg:maven/com.gruelbox/transactionoutbox-quarkus@5.2.360?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-quarkus@5.3.370
+- pkg:maven/com.gruelbox/transactionoutbox-quarkus@5.3.370?classifier=sources

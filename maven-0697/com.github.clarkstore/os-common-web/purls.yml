@@ -16,6 +16,8 @@
 - pkg:maven/com.github.clarkstore/os-common-web@0.17.7?classifier=sources
 - pkg:maven/com.github.clarkstore/os-common-web@0.17.8
 - pkg:maven/com.github.clarkstore/os-common-web@0.17.8?classifier=sources
+- pkg:maven/com.github.clarkstore/os-common-web@0.17.9
+- pkg:maven/com.github.clarkstore/os-common-web@0.17.9?classifier=sources
 - pkg:maven/com.github.clarkstore/os-common-web@0.3.27
 - pkg:maven/com.github.clarkstore/os-common-web@0.3.27?classifier=sources
 - pkg:maven/com.github.clarkstore/os-common-web@0.4.0
@@ -168,3 +170,5 @@
 - pkg:maven/com.github.clarkstore/os-common-web@0.8.7?classifier=sources
 - pkg:maven/com.github.clarkstore/os-common-web@0.8.8
 - pkg:maven/com.github.clarkstore/os-common-web@0.8.8?classifier=sources
+- pkg:maven/com.github.clarkstore/os-common-web@0.8.9
+- pkg:maven/com.github.clarkstore/os-common-web@0.8.9?classifier=sources

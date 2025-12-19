@@ -1,2 +1,4 @@
 - pkg:maven/org.neo4j/neo4j-query-router@5.8.0
 - pkg:maven/org.neo4j/neo4j-query-router@5.8.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-query-router@5.9.0
+- pkg:maven/org.neo4j/neo4j-query-router@5.9.0?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/kr.jadekim/cosmos-proto-java@0.44.8?classifier=sources
 - pkg:maven/kr.jadekim/cosmos-proto-java@0.46.11?classifier=sources
 - pkg:maven/kr.jadekim/cosmos-proto-java@0.47.1?classifier=sources
+- pkg:maven/kr.jadekim/cosmos-proto-java@0.47.2.1?classifier=sources
+- pkg:maven/kr.jadekim/cosmos-proto-java@0.47.2.3?classifier=sources
 - pkg:maven/kr.jadekim/cosmos-proto-java@0.47.2?classifier=sources

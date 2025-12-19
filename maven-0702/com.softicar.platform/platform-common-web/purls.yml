@@ -61,3 +61,12 @@
 - pkg:maven/com.softicar.platform/platform-common-web@41.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-web@41.1.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-web@42.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@43.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@43.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@44.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@45.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@45.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@45.0.2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@46.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@47.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@48.0.0?classifier=sources

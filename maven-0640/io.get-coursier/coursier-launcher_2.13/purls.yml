@@ -172,3 +172,5 @@
 - pkg:maven/io.get-coursier/coursier-launcher_2.13@2.1.3?classifier=sources
 - pkg:maven/io.get-coursier/coursier-launcher_2.13@2.1.4
 - pkg:maven/io.get-coursier/coursier-launcher_2.13@2.1.4?classifier=sources
+- pkg:maven/io.get-coursier/coursier-launcher_2.13@2.1.5
+- pkg:maven/io.get-coursier/coursier-launcher_2.13@2.1.5?classifier=sources

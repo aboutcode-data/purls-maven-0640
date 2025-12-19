@@ -1,2 +1,3 @@
 - pkg:maven/com.baidubce.mediasdk/baiduPlayerSDK-full-advance@3.0.0?type=aar
 - pkg:maven/com.baidubce.mediasdk/baiduPlayerSDK-full-advance@3.5.0?type=aar
+- pkg:maven/com.baidubce.mediasdk/baiduPlayerSDK-full-advance@3.6.0?type=aar

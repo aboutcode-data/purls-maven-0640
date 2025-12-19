@@ -168,3 +168,5 @@
 - pkg:maven/software.amazon.awscdk/iot-actions@1.202.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/iot-actions@1.203.0
 - pkg:maven/software.amazon.awscdk/iot-actions@1.203.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iot-actions@1.204.0
+- pkg:maven/software.amazon.awscdk/iot-actions@1.204.0?classifier=sources

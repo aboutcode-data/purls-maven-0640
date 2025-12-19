@@ -6,3 +6,7 @@
 - pkg:maven/dev.evo.kafka-es/kafka-es-runner@0.3.0-rc-5?classifier=sources
 - pkg:maven/dev.evo.kafka-es/kafka-es-runner@0.3.0-rc-6?classifier=sources
 - pkg:maven/dev.evo.kafka-es/kafka-es-runner@0.3.0-rc-7?classifier=sources
+- pkg:maven/dev.evo.kafka-es/kafka-es-runner@0.3.0?classifier=sources
+- pkg:maven/dev.evo.kafka-es/kafka-es-runner@0.3.1?classifier=sources
+- pkg:maven/dev.evo.kafka-es/kafka-es-runner@0.3.2?classifier=sources
+- pkg:maven/dev.evo.kafka-es/kafka-es-runner@0.3.3?classifier=sources
