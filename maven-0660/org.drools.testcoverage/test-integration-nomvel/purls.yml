@@ -30,3 +30,5 @@
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.25.0.Beta
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.26.0.Beta
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.27.0.Beta
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.28.0.Beta
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.29.0.Final

@@ -226,6 +226,16 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.41.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.41.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.41.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.42.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.42.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.43.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.43.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.44.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.44.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.45.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.45.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.46.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.46.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.5.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagement@2.5.1

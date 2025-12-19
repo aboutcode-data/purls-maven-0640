@@ -37,3 +37,5 @@
 - pkg:maven/com.google.cloud.sql/cloud-sql-connector-r2dbc-core@1.6.2?classifier=sources
 - pkg:maven/com.google.cloud.sql/cloud-sql-connector-r2dbc-core@1.6.3
 - pkg:maven/com.google.cloud.sql/cloud-sql-connector-r2dbc-core@1.6.3?classifier=sources
+- pkg:maven/com.google.cloud.sql/cloud-sql-connector-r2dbc-core@1.7.0
+- pkg:maven/com.google.cloud.sql/cloud-sql-connector-r2dbc-core@1.7.0?classifier=sources

@@ -321,6 +321,8 @@
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.0.7
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.0.7?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.1
+- pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.10
+- pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.10?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.2
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.2?classifier=sources
@@ -334,8 +336,12 @@
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.6?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.7
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.8
+- pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.8?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.9
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.99-rc0803
 - pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.99-rc0803?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.10.1.9?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.11.0-rc-202204132205
 - pkg:maven/io.streamnative/pulsar-config-validation@2.11.0-rc-202204132205?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.11.0-rc-202204142207
@@ -390,6 +396,8 @@
 - pkg:maven/io.streamnative/pulsar-config-validation@2.11.0-rc-202205082205?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.11.0.0-rc2
 - pkg:maven/io.streamnative/pulsar-config-validation@2.11.0.0-rc2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.11.0.0-rc3
+- pkg:maven/io.streamnative/pulsar-config-validation@2.11.0.0-rc3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.7.0.6-patch-3-1
 - pkg:maven/io.streamnative/pulsar-config-validation@2.7.0.6-patch-3-1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.7.1.4
@@ -720,6 +728,8 @@
 - pkg:maven/io.streamnative/pulsar-config-validation@2.8.3.8?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.8.4.0-rc1
 - pkg:maven/io.streamnative/pulsar-config-validation@2.8.4.0-rc1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.8.4.1
+- pkg:maven/io.streamnative/pulsar-config-validation@2.8.4.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.0-candidate-4
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.0-candidate-4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.0-rc-202106092205
@@ -1031,6 +1041,14 @@
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.0
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.0?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.1
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.10
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.10?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.11
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.11?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.12
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.12?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.13
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.13?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.2
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.2?classifier=sources
@@ -1044,6 +1062,10 @@
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.6?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.7
 - pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.8
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.8?classifier=sources
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.9
+- pkg:maven/io.streamnative/pulsar-config-validation@2.9.3.9?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@v2.8.0-rc-202106091140
 - pkg:maven/io.streamnative/pulsar-config-validation@v2.8.0-rc-202106091140?classifier=sources
 - pkg:maven/io.streamnative/pulsar-config-validation@v2.8.0-rc-202106121853

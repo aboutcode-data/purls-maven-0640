@@ -1,0 +1,1 @@
+- pkg:maven/io.github.fstaudt.helm/helm-values-shared@0.3.0?classifier=sources

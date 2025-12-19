@@ -1,0 +1,2 @@
+- pkg:maven/dev.chrisbanes.paparazzi/paparazzi-agent@1.1.0-sdk33-alpha01?classifier=sources
+- pkg:maven/dev.chrisbanes.paparazzi/paparazzi-agent@1.1.0-sdk33-alpha02?classifier=sources

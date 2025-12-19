@@ -21,3 +21,8 @@
 - pkg:maven/io.trino/trino-delta-lake@393?classifier=sources
 - pkg:maven/io.trino/trino-delta-lake@394?classifier=sources
 - pkg:maven/io.trino/trino-delta-lake@395?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@396?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@397?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@398?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@399?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@400?classifier=sources

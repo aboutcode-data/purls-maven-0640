@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/datadog__browser-core@2.2.1
 - pkg:maven/org.webjars.npm/datadog__browser-core@2.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/datadog__browser-core@4.21.2
+- pkg:maven/org.webjars.npm/datadog__browser-core@4.21.2?classifier=sources

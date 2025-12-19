@@ -59,3 +59,5 @@
 - pkg:maven/com.scalyr/scalyr-client@7.00.00-beta?classifier=sources
 - pkg:maven/com.scalyr/scalyr-client@7.00.01-beta
 - pkg:maven/com.scalyr/scalyr-client@7.00.01-beta?classifier=sources
+- pkg:maven/com.scalyr/scalyr-client@7.00.02-beta
+- pkg:maven/com.scalyr/scalyr-client@7.00.02-beta?classifier=sources

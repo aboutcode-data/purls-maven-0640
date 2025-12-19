@@ -1,0 +1,2 @@
+- pkg:maven/org.truenewx.tnxjeex.payment/tnxjeex-payment-gateway-alipay@2.6.1
+- pkg:maven/org.truenewx.tnxjeex.payment/tnxjeex-payment-gateway-alipay@2.6.1?classifier=sources

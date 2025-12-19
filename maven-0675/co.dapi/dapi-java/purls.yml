@@ -24,5 +24,9 @@
 - pkg:maven/co.dapi/dapi-java@1.4.2?classifier=sources
 - pkg:maven/co.dapi/dapi-java@1.4.3
 - pkg:maven/co.dapi/dapi-java@1.4.3?classifier=sources
+- pkg:maven/co.dapi/dapi-java@1.4.4
+- pkg:maven/co.dapi/dapi-java@1.4.4?classifier=sources
 - pkg:maven/co.dapi/dapi-java@1.5.0
 - pkg:maven/co.dapi/dapi-java@1.5.0?classifier=sources
+- pkg:maven/co.dapi/dapi-java@1.5.1
+- pkg:maven/co.dapi/dapi-java@1.5.1?classifier=sources

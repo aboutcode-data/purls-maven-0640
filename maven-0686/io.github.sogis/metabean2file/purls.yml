@@ -35,5 +35,7 @@
 - pkg:maven/io.github.sogis/metabean2file@1.0.57?classifier=sources
 - pkg:maven/io.github.sogis/metabean2file@1.0.58?classifier=sources
 - pkg:maven/io.github.sogis/metabean2file@1.0.59?classifier=sources
+- pkg:maven/io.github.sogis/metabean2file@1.0.60?classifier=sources
+- pkg:maven/io.github.sogis/metabean2file@1.0.61?classifier=sources
 - pkg:maven/io.github.sogis/metabean2file@1.0.8?classifier=sources
 - pkg:maven/io.github.sogis/metabean2file@1.0.9?classifier=sources

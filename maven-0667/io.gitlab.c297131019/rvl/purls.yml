@@ -1,1 +1,3 @@
 - pkg:maven/io.gitlab.c297131019/rvl@1.0.0?classifier=sources
+- pkg:maven/io.gitlab.c297131019/rvl@1.1.0?classifier=sources
+- pkg:maven/io.gitlab.c297131019/rvl@1.2.0?classifier=sources

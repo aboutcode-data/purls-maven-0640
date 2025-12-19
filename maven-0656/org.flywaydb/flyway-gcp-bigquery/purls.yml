@@ -122,3 +122,7 @@
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.2.3-beta?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.3.0-beta
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.3.0-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.3.1-beta
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.3.1-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.4.0-beta
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.4.0-beta?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/io.apicurio/apicurio-codegen@1.0.1.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-codegen@1.0.11.Final
 - pkg:maven/io.apicurio/apicurio-codegen@1.0.11.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-codegen@1.0.12.Final
+- pkg:maven/io.apicurio/apicurio-codegen@1.0.12.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-codegen@1.0.2.Final
 - pkg:maven/io.apicurio/apicurio-codegen@1.0.2.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-codegen@1.0.3.Final

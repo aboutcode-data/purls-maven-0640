@@ -10,3 +10,5 @@
 - pkg:maven/de.gesellix/testutil@2022-04-21T11-30-00?classifier=sources
 - pkg:maven/de.gesellix/testutil@2022-06-19T12-35-00?classifier=sources
 - pkg:maven/de.gesellix/testutil@2022-07-25T19-40-00?classifier=sources
+- pkg:maven/de.gesellix/testutil@2022-09-30T19-52-00?classifier=sources
+- pkg:maven/de.gesellix/testutil@2022-10-03T21-18-00?classifier=sources

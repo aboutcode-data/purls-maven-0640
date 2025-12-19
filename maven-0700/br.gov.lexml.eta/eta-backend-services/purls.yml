@@ -4,3 +4,5 @@
 - pkg:maven/br.gov.lexml.eta/eta-backend-services@0.0.3?classifier=sources
 - pkg:maven/br.gov.lexml.eta/eta-backend-services@0.0.5
 - pkg:maven/br.gov.lexml.eta/eta-backend-services@0.0.5?classifier=sources
+- pkg:maven/br.gov.lexml.eta/eta-backend-services@0.0.6
+- pkg:maven/br.gov.lexml.eta/eta-backend-services@0.0.6?classifier=sources

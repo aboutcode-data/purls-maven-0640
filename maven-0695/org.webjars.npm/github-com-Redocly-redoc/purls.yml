@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-Redocly-redoc@2.0.0
 - pkg:maven/org.webjars.npm/github-com-Redocly-redoc@2.0.0-rc.29
 - pkg:maven/org.webjars.npm/github-com-Redocly-redoc@2.0.0-rc.29?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-Redocly-redoc@2.0.0?classifier=sources

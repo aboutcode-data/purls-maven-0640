@@ -1,0 +1,2 @@
+- pkg:maven/io.continual/cpKafka@0.2.35
+- pkg:maven/io.continual/cpKafka@0.2.35?classifier=sources

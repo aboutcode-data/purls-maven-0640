@@ -48,3 +48,5 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-elasticsearch@7.4.0?type=zip
 - pkg:maven/nl.basjes.parse.useragent/yauaa-elasticsearch@7.5.0?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-elasticsearch@7.5.0?type=zip
+- pkg:maven/nl.basjes.parse.useragent/yauaa-elasticsearch@7.6.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-elasticsearch@7.6.0?type=zip

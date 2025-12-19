@@ -170,3 +170,7 @@
 - pkg:maven/cn.renlm.plugins/My-Plugin@2.4.4?classifier=sources
 - pkg:maven/cn.renlm.plugins/My-Plugin@2.4.5
 - pkg:maven/cn.renlm.plugins/My-Plugin@2.4.5?classifier=sources
+- pkg:maven/cn.renlm.plugins/My-Plugin@2.5.1
+- pkg:maven/cn.renlm.plugins/My-Plugin@2.5.1?classifier=sources
+- pkg:maven/cn.renlm.plugins/My-Plugin@2.5.2
+- pkg:maven/cn.renlm.plugins/My-Plugin@2.5.2?classifier=sources

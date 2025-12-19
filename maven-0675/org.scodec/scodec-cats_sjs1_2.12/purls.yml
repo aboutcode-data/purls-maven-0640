@@ -12,3 +12,5 @@
 - pkg:maven/org.scodec/scodec-cats_sjs1_2.12@1.1.0-RC3
 - pkg:maven/org.scodec/scodec-cats_sjs1_2.12@1.1.0-RC3?classifier=sources
 - pkg:maven/org.scodec/scodec-cats_sjs1_2.12@1.1.0?classifier=sources
+- pkg:maven/org.scodec/scodec-cats_sjs1_2.12@1.2.0
+- pkg:maven/org.scodec/scodec-cats_sjs1_2.12@1.2.0?classifier=sources

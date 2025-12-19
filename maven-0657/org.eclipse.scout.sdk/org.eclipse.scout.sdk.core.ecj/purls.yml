@@ -114,3 +114,5 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@12.0.29
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@12.0.29?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@12.0.2?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@12.0.33
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.ecj@12.0.33?classifier=sources

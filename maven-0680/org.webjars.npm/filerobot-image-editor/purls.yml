@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/filerobot-image-editor@4.3.7
+- pkg:maven/org.webjars.npm/filerobot-image-editor@4.3.7?classifier=sources

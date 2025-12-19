@@ -3,3 +3,4 @@
 - pkg:maven/io.github.985892345/mirai-hotfix@1.4?classifier=sources
 - pkg:maven/io.github.985892345/mirai-hotfix@1.5.0?classifier=sources
 - pkg:maven/io.github.985892345/mirai-hotfix@1.5.1?classifier=sources
+- pkg:maven/io.github.985892345/mirai-hotfix@2.0.0?classifier=sources

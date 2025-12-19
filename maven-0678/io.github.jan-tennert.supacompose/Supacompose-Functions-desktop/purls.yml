@@ -1,0 +1,3 @@
+- pkg:maven/io.github.jan-tennert.supacompose/Supacompose-Functions-desktop@0.4.0-beta-2?classifier=sources
+- pkg:maven/io.github.jan-tennert.supacompose/Supacompose-Functions-desktop@0.4.0-beta?classifier=sources
+- pkg:maven/io.github.jan-tennert.supacompose/Supacompose-Functions-desktop@0.4.0?classifier=sources

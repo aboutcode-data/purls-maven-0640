@@ -26,6 +26,8 @@
 - pkg:maven/io.github.deweyjose/graphqlcodegen-maven-plugin@1.22?classifier=sources
 - pkg:maven/io.github.deweyjose/graphqlcodegen-maven-plugin@1.23
 - pkg:maven/io.github.deweyjose/graphqlcodegen-maven-plugin@1.23?classifier=sources
+- pkg:maven/io.github.deweyjose/graphqlcodegen-maven-plugin@1.24
+- pkg:maven/io.github.deweyjose/graphqlcodegen-maven-plugin@1.24?classifier=sources
 - pkg:maven/io.github.deweyjose/graphqlcodegen-maven-plugin@1.4
 - pkg:maven/io.github.deweyjose/graphqlcodegen-maven-plugin@1.4?classifier=sources
 - pkg:maven/io.github.deweyjose/graphqlcodegen-maven-plugin@1.5

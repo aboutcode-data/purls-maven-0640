@@ -11,3 +11,4 @@
 - pkg:maven/pl.allegro.mobile/utils-jvm@0.2.9?classifier=sources
 - pkg:maven/pl.allegro.mobile/utils-jvm@0.3.0?classifier=sources
 - pkg:maven/pl.allegro.mobile/utils-jvm@1.0.0?classifier=sources
+- pkg:maven/pl.allegro.mobile/utils-jvm@1.1.0?classifier=sources

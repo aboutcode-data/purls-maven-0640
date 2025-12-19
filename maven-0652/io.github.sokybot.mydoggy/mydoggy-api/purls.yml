@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sokybot.mydoggy/mydoggy-api@1.5.1
+- pkg:maven/io.github.sokybot.mydoggy/mydoggy-api@1.5.1?classifier=sources

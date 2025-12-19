@@ -1,0 +1,14 @@
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-3c7bdac
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-3c7bdac?classifier=sources
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-70bf67b
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-70bf67b?classifier=sources
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-755e1f2
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-755e1f2?classifier=sources
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-ab1026e
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-ab1026e?classifier=sources
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-e7dd9a7
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.0-e7dd9a7?classifier=sources
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.1.0
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.1.0?classifier=sources
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.1.1
+- pkg:maven/com.armanbilge/epollcat_native0.4_3@0.1.1?classifier=sources

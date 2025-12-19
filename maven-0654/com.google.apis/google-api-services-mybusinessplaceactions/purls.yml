@@ -12,3 +12,5 @@
 - pkg:maven/com.google.apis/google-api-services-mybusinessplaceactions@v1-rev20220813-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-mybusinessplaceactions@v1-rev20220824-2.0.0
 - pkg:maven/com.google.apis/google-api-services-mybusinessplaceactions@v1-rev20220824-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-mybusinessplaceactions@v1-rev20220928-2.0.0
+- pkg:maven/com.google.apis/google-api-services-mybusinessplaceactions@v1-rev20220928-2.0.0?classifier=sources

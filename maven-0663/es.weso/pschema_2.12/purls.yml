@@ -1,0 +1,4 @@
+- pkg:maven/es.weso/pschema_2.12@0.1.4
+- pkg:maven/es.weso/pschema_2.12@0.1.4?classifier=sources
+- pkg:maven/es.weso/pschema_2.12@0.1.5
+- pkg:maven/es.weso/pschema_2.12@0.1.5?classifier=sources

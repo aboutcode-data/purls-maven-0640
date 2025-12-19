@@ -47,6 +47,7 @@
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-cbor-provider@2.13.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-cbor-provider@2.13.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-cbor-provider@2.13.4?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-cbor-provider@2.14.0-rc1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-cbor-provider@2.3.2
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-cbor-provider@2.3.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jaxrs/jackson-jaxrs-cbor-provider@2.3.3

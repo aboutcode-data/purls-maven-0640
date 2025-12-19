@@ -1,0 +1,2 @@
+- pkg:maven/com.wl4g/infra-opencv@3.0.0
+- pkg:maven/com.wl4g/infra-opencv@3.0.0?classifier=sources

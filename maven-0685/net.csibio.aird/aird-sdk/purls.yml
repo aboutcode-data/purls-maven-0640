@@ -28,3 +28,5 @@
 - pkg:maven/net.csibio.aird/aird-sdk@2.0.3.1
 - pkg:maven/net.csibio.aird/aird-sdk@2.0.3.1?classifier=sources
 - pkg:maven/net.csibio.aird/aird-sdk@2.0.3?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@2.0.4
+- pkg:maven/net.csibio.aird/aird-sdk@2.0.4?classifier=sources

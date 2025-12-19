@@ -116,6 +116,8 @@
 - pkg:maven/org.eclipse.californium/element-connector@2.7.2?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector@2.7.3
 - pkg:maven/org.eclipse.californium/element-connector@2.7.3?classifier=sources
+- pkg:maven/org.eclipse.californium/element-connector@2.7.4
+- pkg:maven/org.eclipse.californium/element-connector@2.7.4?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector@3.0.0
 - pkg:maven/org.eclipse.californium/element-connector@3.0.0-M1
 - pkg:maven/org.eclipse.californium/element-connector@3.0.0-M1?classifier=sources
@@ -144,3 +146,5 @@
 - pkg:maven/org.eclipse.californium/element-connector@3.5.0?classifier=sources
 - pkg:maven/org.eclipse.californium/element-connector@3.6.0
 - pkg:maven/org.eclipse.californium/element-connector@3.6.0?classifier=sources
+- pkg:maven/org.eclipse.californium/element-connector@3.7.0
+- pkg:maven/org.eclipse.californium/element-connector@3.7.0?classifier=sources

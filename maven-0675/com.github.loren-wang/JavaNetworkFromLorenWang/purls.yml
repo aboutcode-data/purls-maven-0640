@@ -1,4 +1,6 @@
 - pkg:maven/com.github.loren-wang/JavaNetworkFromLorenWang@1.0.5
 - pkg:maven/com.github.loren-wang/JavaNetworkFromLorenWang@1.0.5-alpha02
 - pkg:maven/com.github.loren-wang/JavaNetworkFromLorenWang@1.0.5-alpha02?classifier=sources
+- pkg:maven/com.github.loren-wang/JavaNetworkFromLorenWang@1.0.5-alpha03
+- pkg:maven/com.github.loren-wang/JavaNetworkFromLorenWang@1.0.5-alpha03?classifier=sources
 - pkg:maven/com.github.loren-wang/JavaNetworkFromLorenWang@1.0.5?classifier=sources

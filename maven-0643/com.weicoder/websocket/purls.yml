@@ -140,3 +140,5 @@
 - pkg:maven/com.weicoder/websocket@3.5.4-jdk8
 - pkg:maven/com.weicoder/websocket@3.5.4-jdk8?classifier=sources
 - pkg:maven/com.weicoder/websocket@3.5.4?classifier=sources
+- pkg:maven/com.weicoder/websocket@3.5.5
+- pkg:maven/com.weicoder/websocket@3.5.5?classifier=sources

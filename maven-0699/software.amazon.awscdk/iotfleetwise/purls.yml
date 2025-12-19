@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/iotfleetwise@1.176.0
+- pkg:maven/software.amazon.awscdk/iotfleetwise@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotfleetwise@1.177.0
+- pkg:maven/software.amazon.awscdk/iotfleetwise@1.177.0?classifier=sources

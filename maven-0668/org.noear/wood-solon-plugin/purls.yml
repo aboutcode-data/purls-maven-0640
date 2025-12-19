@@ -1,0 +1,4 @@
+- pkg:maven/org.noear/wood-solon-plugin@1.10.7
+- pkg:maven/org.noear/wood-solon-plugin@1.10.7?classifier=sources
+- pkg:maven/org.noear/wood-solon-plugin@1.10.8-M1
+- pkg:maven/org.noear/wood-solon-plugin@1.10.8-M1?classifier=sources

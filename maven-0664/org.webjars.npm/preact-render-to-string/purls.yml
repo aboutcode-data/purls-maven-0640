@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/preact-render-to-string@6.0.0-experimental.0
+- pkg:maven/org.webjars.npm/preact-render-to-string@6.0.0-experimental.0?classifier=sources

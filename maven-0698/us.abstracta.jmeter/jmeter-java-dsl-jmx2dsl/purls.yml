@@ -54,3 +54,7 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64.3
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64.3?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.65
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.65?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@1.0
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@1.0?classifier=sources

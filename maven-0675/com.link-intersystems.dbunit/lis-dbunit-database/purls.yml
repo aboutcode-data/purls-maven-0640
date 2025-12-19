@@ -1,0 +1,2 @@
+- pkg:maven/com.link-intersystems.dbunit/lis-dbunit-database@1.2.0
+- pkg:maven/com.link-intersystems.dbunit/lis-dbunit-database@1.2.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.tram.core/eventuate-tram-spring-reactive-optimistic-locking@0.31.0.RELEASE?classifier=sources

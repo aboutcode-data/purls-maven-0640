@@ -36,3 +36,9 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-filestore-v1beta1@0.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-filestore-v1beta1@0.6.2
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-filestore-v1beta1@0.6.2?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-filestore-v1beta1@0.6.3
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-filestore-v1beta1@0.6.3?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-filestore-v1beta1@0.6.4
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-filestore-v1beta1@0.6.4?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-filestore-v1beta1@0.6.5
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-filestore-v1beta1@0.6.5?classifier=sources

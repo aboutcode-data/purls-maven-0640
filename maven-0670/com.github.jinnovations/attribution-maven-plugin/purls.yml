@@ -14,3 +14,5 @@
 - pkg:maven/com.github.jinnovations/attribution-maven-plugin@0.9.7?classifier=sources
 - pkg:maven/com.github.jinnovations/attribution-maven-plugin@0.9.8
 - pkg:maven/com.github.jinnovations/attribution-maven-plugin@0.9.8?classifier=sources
+- pkg:maven/com.github.jinnovations/attribution-maven-plugin@0.9.9
+- pkg:maven/com.github.jinnovations/attribution-maven-plugin@0.9.9?classifier=sources

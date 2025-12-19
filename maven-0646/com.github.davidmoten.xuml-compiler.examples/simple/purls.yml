@@ -1,0 +1,2 @@
+- pkg:maven/com.github.davidmoten.xuml-compiler.examples/simple@0.5.0
+- pkg:maven/com.github.davidmoten.xuml-compiler.examples/simple@0.5.0?classifier=sources

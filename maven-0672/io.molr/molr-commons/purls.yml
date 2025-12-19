@@ -15,6 +15,8 @@
 - pkg:maven/io.molr/molr-commons@0.3.14?classifier=sources
 - pkg:maven/io.molr/molr-commons@0.3.15
 - pkg:maven/io.molr/molr-commons@0.3.15?classifier=sources
+- pkg:maven/io.molr/molr-commons@0.3.17
+- pkg:maven/io.molr/molr-commons@0.3.17?classifier=sources
 - pkg:maven/io.molr/molr-commons@0.3.1?classifier=sources
 - pkg:maven/io.molr/molr-commons@0.3.2
 - pkg:maven/io.molr/molr-commons@0.3.2?classifier=sources

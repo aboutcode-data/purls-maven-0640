@@ -1,0 +1,10 @@
+- pkg:maven/io.github.cozyloon.lets/lets@1.3.0
+- pkg:maven/io.github.cozyloon.lets/lets@1.3.0?classifier=sources
+- pkg:maven/io.github.cozyloon.lets/lets@1.4.0
+- pkg:maven/io.github.cozyloon.lets/lets@1.4.0?classifier=sources
+- pkg:maven/io.github.cozyloon.lets/lets@1.5.0
+- pkg:maven/io.github.cozyloon.lets/lets@1.5.0?classifier=sources
+- pkg:maven/io.github.cozyloon.lets/lets@1.6.0
+- pkg:maven/io.github.cozyloon.lets/lets@1.6.0?classifier=sources
+- pkg:maven/io.github.cozyloon.lets/lets@1.7.0
+- pkg:maven/io.github.cozyloon.lets/lets@1.7.0?classifier=sources

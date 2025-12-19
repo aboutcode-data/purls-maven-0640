@@ -6,3 +6,5 @@
 - pkg:maven/nl.inl.blacklab/blacklab-convert-and-tag-indexer@2.3.1?classifier=sources
 - pkg:maven/nl.inl.blacklab/blacklab-convert-and-tag-indexer@3.0.0
 - pkg:maven/nl.inl.blacklab/blacklab-convert-and-tag-indexer@3.0.0?classifier=sources
+- pkg:maven/nl.inl.blacklab/blacklab-convert-and-tag-indexer@3.0.1
+- pkg:maven/nl.inl.blacklab/blacklab-convert-and-tag-indexer@3.0.1?classifier=sources

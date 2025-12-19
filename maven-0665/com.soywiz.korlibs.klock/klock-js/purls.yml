@@ -47,3 +47,5 @@
 - pkg:maven/com.soywiz.korlibs.klock/klock-js@3.0.0-Beta?classifier=sources
 - pkg:maven/com.soywiz.korlibs.klock/klock-js@3.0.0?classifier=sources
 - pkg:maven/com.soywiz.korlibs.klock/klock-js@3.0.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.klock/klock-js@3.1.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.klock/klock-js@3.2.0?classifier=sources

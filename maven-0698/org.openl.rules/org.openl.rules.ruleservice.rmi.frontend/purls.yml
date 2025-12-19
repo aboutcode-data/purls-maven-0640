@@ -197,6 +197,8 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.25.12?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.25.13
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.25.13?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.25.14
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.25.14?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.25.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.25.2
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.25.2?classifier=sources
@@ -218,3 +220,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.26.0?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.26.1
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.26.1?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.26.2
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.rmi.frontend@5.26.2?classifier=sources

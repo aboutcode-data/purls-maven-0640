@@ -95,6 +95,7 @@
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.14.1?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.15.0?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.15.1?classifier=sources
+- pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.15.2?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.3.0
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.3.0?classifier=sources
 - pkg:maven/com.aliyun.oss/aliyun-sdk-oss@3.4.0

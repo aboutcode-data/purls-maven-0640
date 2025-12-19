@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.isis.extensions/isis-extensions-exceldownload-wicket-ui@2.0.0-M8
+- pkg:maven/org.apache.isis.extensions/isis-extensions-exceldownload-wicket-ui@2.0.0-M8?classifier=sources

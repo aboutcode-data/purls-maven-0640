@@ -1,3 +1,5 @@
+- pkg:maven/de.focus-shift/jollyday-jaxb@0.10.0
+- pkg:maven/de.focus-shift/jollyday-jaxb@0.10.0?classifier=sources
 - pkg:maven/de.focus-shift/jollyday-jaxb@0.6.0
 - pkg:maven/de.focus-shift/jollyday-jaxb@0.6.0?classifier=sources
 - pkg:maven/de.focus-shift/jollyday-jaxb@0.6.1

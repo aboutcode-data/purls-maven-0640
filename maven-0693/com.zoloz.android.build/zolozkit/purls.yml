@@ -16,3 +16,5 @@
 - pkg:maven/com.zoloz.android.build/zolozkit@1.2.7.220726210653?type=aar
 - pkg:maven/com.zoloz.android.build/zolozkit@1.2.8.220817145238?type=aar
 - pkg:maven/com.zoloz.android.build/zolozkit@1.2.8.220830150028?type=aar
+- pkg:maven/com.zoloz.android.build/zolozkit@1.2.9.220916142343?type=aar
+- pkg:maven/com.zoloz.android.build/zolozkit@1.2.9.221014103813?type=aar

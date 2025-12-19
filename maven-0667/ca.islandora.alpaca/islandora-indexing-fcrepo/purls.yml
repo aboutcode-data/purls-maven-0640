@@ -23,3 +23,4 @@
 - pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@1.0.5
 - pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@1.0.5?classifier=sources
 - pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@2.0.0?classifier=sources
+- pkg:maven/ca.islandora.alpaca/islandora-indexing-fcrepo@2.2.0?classifier=sources

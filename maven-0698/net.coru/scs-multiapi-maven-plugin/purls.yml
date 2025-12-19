@@ -86,3 +86,7 @@
 - pkg:maven/net.coru/scs-multiapi-maven-plugin@3.0.3?classifier=sources
 - pkg:maven/net.coru/scs-multiapi-maven-plugin@3.2.0
 - pkg:maven/net.coru/scs-multiapi-maven-plugin@3.2.0?classifier=sources
+- pkg:maven/net.coru/scs-multiapi-maven-plugin@4.1.0
+- pkg:maven/net.coru/scs-multiapi-maven-plugin@4.1.0?classifier=sources
+- pkg:maven/net.coru/scs-multiapi-maven-plugin@4.1.1
+- pkg:maven/net.coru/scs-multiapi-maven-plugin@4.1.1?classifier=sources

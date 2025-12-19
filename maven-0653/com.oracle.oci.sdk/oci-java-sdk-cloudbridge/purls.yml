@@ -1,0 +1,6 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.44.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.44.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.45.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.45.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.46.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.46.0?classifier=sources

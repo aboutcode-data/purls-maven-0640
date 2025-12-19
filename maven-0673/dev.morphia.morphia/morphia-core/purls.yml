@@ -48,3 +48,5 @@
 - pkg:maven/dev.morphia.morphia/morphia-core@2.2.7?classifier=sources
 - pkg:maven/dev.morphia.morphia/morphia-core@2.2.8
 - pkg:maven/dev.morphia.morphia/morphia-core@2.2.8?classifier=sources
+- pkg:maven/dev.morphia.morphia/morphia-core@2.2.9
+- pkg:maven/dev.morphia.morphia/morphia-core@2.2.9?classifier=sources

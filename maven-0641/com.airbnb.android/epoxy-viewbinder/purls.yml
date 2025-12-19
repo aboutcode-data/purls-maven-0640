@@ -9,3 +9,4 @@
 - pkg:maven/com.airbnb.android/epoxy-viewbinder@5.0.0-beta03?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-viewbinder@5.0.0-beta04?classifier=sources
 - pkg:maven/com.airbnb.android/epoxy-viewbinder@5.0.0-beta05?classifier=sources
+- pkg:maven/com.airbnb.android/epoxy-viewbinder@5.0.0?classifier=sources

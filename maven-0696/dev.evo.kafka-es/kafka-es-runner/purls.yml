@@ -1,0 +1,2 @@
+- pkg:maven/dev.evo.kafka-es/kafka-es-runner@0.3.0-beta-2?classifier=sources
+- pkg:maven/dev.evo.kafka-es/kafka-es-runner@0.3.0-rc-1?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/tv.hd3g/fflauncher@8.0.1?classifier=sources
 - pkg:maven/tv.hd3g/fflauncher@8.0.2
 - pkg:maven/tv.hd3g/fflauncher@8.0.2?classifier=sources
+- pkg:maven/tv.hd3g/fflauncher@9.0.0
+- pkg:maven/tv.hd3g/fflauncher@9.0.0?classifier=sources

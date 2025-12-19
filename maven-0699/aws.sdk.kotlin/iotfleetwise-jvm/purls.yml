@@ -1,0 +1,1 @@
+- pkg:maven/aws.sdk.kotlin/iotfleetwise-jvm@0.17.7-beta?classifier=sources

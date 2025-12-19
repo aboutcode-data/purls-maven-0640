@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M6?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M8?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-protonj2@1.0.0-M9?classifier=src&type=tar.gz

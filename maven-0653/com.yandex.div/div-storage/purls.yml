@@ -1,0 +1,4 @@
+- pkg:maven/com.yandex.div/div-storage@5.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@6.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@7.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-storage@8.0.0?classifier=sources

@@ -1,0 +1,7 @@
+- pkg:maven/com.intsoftdev/sdknrstations-android-debug@0.61?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-android-debug@0.623?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-android-debug@0.624?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-android-debug@0.62?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-android-debug@1.0?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-android-debug@1.1?classifier=sources
+- pkg:maven/com.intsoftdev/sdknrstations-android-debug@1.23?classifier=sources

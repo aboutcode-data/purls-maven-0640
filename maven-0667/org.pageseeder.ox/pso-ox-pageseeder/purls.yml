@@ -18,3 +18,5 @@
 - pkg:maven/org.pageseeder.ox/pso-ox-pageseeder@2.2.78?classifier=sources
 - pkg:maven/org.pageseeder.ox/pso-ox-pageseeder@2.2.79?classifier=sources
 - pkg:maven/org.pageseeder.ox/pso-ox-pageseeder@2.2.80?classifier=sources
+- pkg:maven/org.pageseeder.ox/pso-ox-pageseeder@2.2.81?classifier=sources
+- pkg:maven/org.pageseeder.ox/pso-ox-pageseeder@2.2.82?classifier=sources

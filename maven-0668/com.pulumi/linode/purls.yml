@@ -3,4 +3,6 @@
 - pkg:maven/com.pulumi/linode@3.10.0?classifier=sources
 - pkg:maven/com.pulumi/linode@3.10.1?classifier=sources
 - pkg:maven/com.pulumi/linode@3.11.0-alpha.1661884590%2Bc1fa7142?classifier=sources
+- pkg:maven/com.pulumi/linode@3.11.0-alpha.1663281870%2B42d76d6b?classifier=sources
+- pkg:maven/com.pulumi/linode@3.11.0-alpha.1663342657%2B56bafe94?classifier=sources
 - pkg:maven/com.pulumi/linode@3.9.1?classifier=sources

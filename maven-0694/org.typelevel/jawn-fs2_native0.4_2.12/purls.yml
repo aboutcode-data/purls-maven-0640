@@ -1,0 +1,6 @@
+- pkg:maven/org.typelevel/jawn-fs2_native0.4_2.12@2.2.0-129-fdba7f4
+- pkg:maven/org.typelevel/jawn-fs2_native0.4_2.12@2.2.0-129-fdba7f4?classifier=sources
+- pkg:maven/org.typelevel/jawn-fs2_native0.4_2.12@2.3.0
+- pkg:maven/org.typelevel/jawn-fs2_native0.4_2.12@2.3.0?classifier=sources
+- pkg:maven/org.typelevel/jawn-fs2_native0.4_2.12@2.4.0
+- pkg:maven/org.typelevel/jawn-fs2_native0.4_2.12@2.4.0?classifier=sources

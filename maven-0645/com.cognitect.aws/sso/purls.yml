@@ -6,3 +6,5 @@
 - pkg:maven/com.cognitect.aws/sso@822.2.1193.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sso@822.2.1205.0
 - pkg:maven/com.cognitect.aws/sso@822.2.1205.0?classifier=sources
+- pkg:maven/com.cognitect.aws/sso@823.2.1216.0
+- pkg:maven/com.cognitect.aws/sso@823.2.1216.0?classifier=sources

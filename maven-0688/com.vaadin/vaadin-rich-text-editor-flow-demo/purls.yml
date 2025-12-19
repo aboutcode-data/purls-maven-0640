@@ -31,7 +31,11 @@
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.14?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.15?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.16?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.17?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.18?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.19?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.20?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@14.8.4?classifier=sources
@@ -100,6 +104,9 @@
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@22.0.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@22.0.20?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@22.0.21?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@22.0.22?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@22.0.23?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@22.0.24?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@22.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@22.0.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@22.0.4?classifier=sources
@@ -115,6 +122,7 @@
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@23.0.13?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@23.0.14?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@23.0.15?classifier=sources
+- pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@23.0.16?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@23.0.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@23.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-rich-text-editor-flow-demo@23.0.3?classifier=sources

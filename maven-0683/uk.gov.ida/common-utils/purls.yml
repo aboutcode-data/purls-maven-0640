@@ -12,3 +12,10 @@
 - pkg:maven/uk.gov.ida/common-utils@2.0.0-404?classifier=sources
 - pkg:maven/uk.gov.ida/common-utils@2.0.0-405?classifier=sources
 - pkg:maven/uk.gov.ida/common-utils@2.0.0-406?classifier=sources
+- pkg:maven/uk.gov.ida/common-utils@2.0.0-407?classifier=sources
+- pkg:maven/uk.gov.ida/common-utils@2.0.0-408?classifier=sources
+- pkg:maven/uk.gov.ida/common-utils@2.0.0-409?classifier=sources
+- pkg:maven/uk.gov.ida/common-utils@2.0.0-410?classifier=sources
+- pkg:maven/uk.gov.ida/common-utils@2.0.0-411?classifier=sources
+- pkg:maven/uk.gov.ida/common-utils@2.0.0-412?classifier=sources
+- pkg:maven/uk.gov.ida/common-utils@2.0.0-413?classifier=sources

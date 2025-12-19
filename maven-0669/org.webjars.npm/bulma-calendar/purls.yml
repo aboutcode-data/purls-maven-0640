@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/bulma-calendar@6.0.8?classifier=sources
 - pkg:maven/org.webjars.npm/bulma-calendar@6.0.9
 - pkg:maven/org.webjars.npm/bulma-calendar@6.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/bulma-calendar@6.1.18
+- pkg:maven/org.webjars.npm/bulma-calendar@6.1.18?classifier=sources

@@ -60,8 +60,12 @@
 - pkg:maven/org.burningwave/tools@0.10.117?classifier=sources
 - pkg:maven/org.burningwave/tools@0.10.118
 - pkg:maven/org.burningwave/tools@0.10.118?classifier=sources
+- pkg:maven/org.burningwave/tools@0.10.119
+- pkg:maven/org.burningwave/tools@0.10.119?classifier=sources
 - pkg:maven/org.burningwave/tools@0.10.11?classifier=sources
 - pkg:maven/org.burningwave/tools@0.10.12
+- pkg:maven/org.burningwave/tools@0.10.120
+- pkg:maven/org.burningwave/tools@0.10.120?classifier=sources
 - pkg:maven/org.burningwave/tools@0.10.12?classifier=sources
 - pkg:maven/org.burningwave/tools@0.10.13
 - pkg:maven/org.burningwave/tools@0.10.13?classifier=sources
