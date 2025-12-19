@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE130?classifier=sources

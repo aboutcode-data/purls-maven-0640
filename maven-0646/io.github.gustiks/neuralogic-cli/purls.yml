@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gustiks/neuralogic-cli@0.3.0
+- pkg:maven/io.github.gustiks/neuralogic-cli@0.3.0?classifier=sources

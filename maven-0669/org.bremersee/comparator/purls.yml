@@ -32,3 +32,5 @@
 - pkg:maven/org.bremersee/comparator@2.5.0?classifier=sources
 - pkg:maven/org.bremersee/comparator@3.0.0
 - pkg:maven/org.bremersee/comparator@3.0.0?classifier=sources
+- pkg:maven/org.bremersee/comparator@3.1.0
+- pkg:maven/org.bremersee/comparator@3.1.0?classifier=sources

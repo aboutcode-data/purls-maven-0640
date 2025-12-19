@@ -24,3 +24,7 @@
 - pkg:maven/com.gitlab.cdc-java.office/cdc-office-ss-csv@0.14.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.office/cdc-office-ss-csv@0.15.0
 - pkg:maven/com.gitlab.cdc-java.office/cdc-office-ss-csv@0.15.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-ss-csv@0.20.0
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-ss-csv@0.20.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-ss-csv@0.21.0
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-ss-csv@0.21.0?classifier=sources

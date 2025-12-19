@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-delta-lake@373?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@374?classifier=sources

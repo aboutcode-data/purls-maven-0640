@@ -2,3 +2,4 @@
 - pkg:maven/org.jboss.resteasy.spring/resteasy-integration-tests-spring-unit@2.0.0.Alpha1
 - pkg:maven/org.jboss.resteasy.spring/resteasy-integration-tests-spring-unit@2.0.0.Beta1
 - pkg:maven/org.jboss.resteasy.spring/resteasy-integration-tests-spring-unit@2.0.0.Final
+- pkg:maven/org.jboss.resteasy.spring/resteasy-integration-tests-spring-unit@3.0.0.Alpha1

@@ -1,1 +1,2 @@
+- pkg:maven/io.github.astrapi69/swing-tree-component@1.1?classifier=sources
 - pkg:maven/io.github.astrapi69/swing-tree-component@1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.hazelcast/quarkus-test-hazelcast@1.2.0?classifier=sources
 - pkg:maven/com.hazelcast/quarkus-test-hazelcast@2.0.0
 - pkg:maven/com.hazelcast/quarkus-test-hazelcast@2.0.0?classifier=sources
+- pkg:maven/com.hazelcast/quarkus-test-hazelcast@3.0.0
+- pkg:maven/com.hazelcast/quarkus-test-hazelcast@3.0.0?classifier=sources

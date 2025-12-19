@@ -106,6 +106,8 @@
 - pkg:maven/com.wavefront/java-lib@2021-03.2?classifier=sources
 - pkg:maven/com.wavefront/java-lib@2021-12.1
 - pkg:maven/com.wavefront/java-lib@2021-12.1?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2022-02.1
+- pkg:maven/com.wavefront/java-lib@2022-02.1?classifier=sources
 - pkg:maven/com.wavefront/java-lib@3.0
 - pkg:maven/com.wavefront/java-lib@3.0?classifier=sources
 - pkg:maven/com.wavefront/java-lib@3.1

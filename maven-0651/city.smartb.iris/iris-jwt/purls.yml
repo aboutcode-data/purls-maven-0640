@@ -1,1 +1,2 @@
 - pkg:maven/city.smartb.iris/iris-jwt@0.1.0?classifier=sources
+- pkg:maven/city.smartb.iris/iris-jwt@0.3.0?classifier=sources

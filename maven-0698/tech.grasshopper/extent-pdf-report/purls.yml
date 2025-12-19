@@ -24,3 +24,9 @@
 - pkg:maven/tech.grasshopper/extent-pdf-report@1.7.4?classifier=sources
 - pkg:maven/tech.grasshopper/extent-pdf-report@1.8.0
 - pkg:maven/tech.grasshopper/extent-pdf-report@1.8.0?classifier=sources
+- pkg:maven/tech.grasshopper/extent-pdf-report@2.0.0
+- pkg:maven/tech.grasshopper/extent-pdf-report@2.0.0?classifier=sources
+- pkg:maven/tech.grasshopper/extent-pdf-report@2.1.0
+- pkg:maven/tech.grasshopper/extent-pdf-report@2.1.0?classifier=sources
+- pkg:maven/tech.grasshopper/extent-pdf-report@2.1.1
+- pkg:maven/tech.grasshopper/extent-pdf-report@2.1.1?classifier=sources

@@ -2,3 +2,10 @@
 - pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@0.0.2?classifier=sources
 - pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@0.0.3?classifier=sources
 - pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@0.1.0?classifier=sources
+- pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@0.2.0?classifier=sources
+- pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@1.0.0?classifier=sources
+- pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@1.1.0?classifier=sources
+- pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@1.2.0?classifier=sources
+- pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@1.3.0?classifier=sources
+- pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@1.4.0?classifier=sources
+- pkg:maven/io.github.gianluigip/spectacle-dsl-jvm@2.0.0?classifier=sources

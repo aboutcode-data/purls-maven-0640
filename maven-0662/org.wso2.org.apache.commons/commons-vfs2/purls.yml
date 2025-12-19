@@ -18,3 +18,5 @@
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v8?classifier=sources
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v9
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2-wso2v9?classifier=sources
+- pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2.0-wso2v12
+- pkg:maven/org.wso2.org.apache.commons/commons-vfs2@2.2.0-wso2v12?classifier=sources

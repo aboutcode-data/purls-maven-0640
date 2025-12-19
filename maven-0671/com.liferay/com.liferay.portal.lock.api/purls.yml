@@ -247,3 +247,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.lock.api@6.3.0
 - pkg:maven/com.liferay/com.liferay.portal.lock.api@6.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.lock.api@6.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.lock.api@7.0.0
+- pkg:maven/com.liferay/com.liferay.portal.lock.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.lock.api@7.0.0?classifier=sources-commercial

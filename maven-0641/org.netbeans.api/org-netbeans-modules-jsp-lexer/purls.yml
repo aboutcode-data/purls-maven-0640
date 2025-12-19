@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jsp-lexer@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jsp-lexer@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jsp-lexer@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jsp-lexer@RELEASE130?classifier=sources

@@ -78,6 +78,10 @@
 - pkg:maven/com.vaadin/vaadin-button-flow@14.8.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-button-flow@14.8.3
 - pkg:maven/com.vaadin/vaadin-button-flow@14.8.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-button-flow@14.8.4
+- pkg:maven/com.vaadin/vaadin-button-flow@14.8.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-button-flow@14.8.5
+- pkg:maven/com.vaadin/vaadin-button-flow@14.8.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-button-flow@18.0.0
 - pkg:maven/com.vaadin/vaadin-button-flow@18.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-button-flow@18.0.1
@@ -176,6 +180,14 @@
 - pkg:maven/com.vaadin/vaadin-button-flow@22.0.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-button-flow@22.0.4
 - pkg:maven/com.vaadin/vaadin-button-flow@22.0.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-button-flow@22.0.5
+- pkg:maven/com.vaadin/vaadin-button-flow@22.0.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-button-flow@22.0.6
+- pkg:maven/com.vaadin/vaadin-button-flow@22.0.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-button-flow@22.0.7
+- pkg:maven/com.vaadin/vaadin-button-flow@22.0.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-button-flow@23.0.0
+- pkg:maven/com.vaadin/vaadin-button-flow@23.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-button-flow@3.0.0
 - pkg:maven/com.vaadin/vaadin-button-flow@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-button-flow@3.1.0

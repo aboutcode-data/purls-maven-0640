@@ -98,3 +98,5 @@
 - pkg:maven/edu.berkeley.cs/chisel-iotesters_2.12@2.5.0-RC2
 - pkg:maven/edu.berkeley.cs/chisel-iotesters_2.12@2.5.0-RC2?classifier=sources
 - pkg:maven/edu.berkeley.cs/chisel-iotesters_2.12@2.5.0?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel-iotesters_2.12@2.5.1
+- pkg:maven/edu.berkeley.cs/chisel-iotesters_2.12@2.5.1?classifier=sources

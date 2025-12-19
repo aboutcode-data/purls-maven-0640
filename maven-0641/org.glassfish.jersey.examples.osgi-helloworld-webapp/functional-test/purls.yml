@@ -1,3 +1,4 @@
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/functional-test@2.33?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/functional-test@2.34?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/functional-test@2.35?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples.osgi-helloworld-webapp/functional-test@3.0.4?classifier=project-src&type=zip

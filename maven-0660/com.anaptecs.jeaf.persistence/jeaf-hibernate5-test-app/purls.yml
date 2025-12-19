@@ -14,3 +14,7 @@
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.4?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.5
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.5?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.6
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.6?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.7
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-hibernate5-test-app@1.6.7?classifier=sources

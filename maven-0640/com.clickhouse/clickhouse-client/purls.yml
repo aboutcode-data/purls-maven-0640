@@ -3,6 +3,14 @@
 - pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch1?classifier=sources
 - pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch2
 - pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch2?classifier=sources
+- pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch3
+- pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch3?classifier=sources
+- pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch4
+- pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch4?classifier=sources
+- pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch5
+- pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch5?classifier=sources
+- pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch6
+- pkg:maven/com.clickhouse/clickhouse-client@0.3.2-patch6?classifier=sources
 - pkg:maven/com.clickhouse/clickhouse-client@0.3.2-test1
 - pkg:maven/com.clickhouse/clickhouse-client@0.3.2-test1?classifier=sources
 - pkg:maven/com.clickhouse/clickhouse-client@0.3.2-test2

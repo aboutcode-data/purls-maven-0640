@@ -7,3 +7,5 @@
 - pkg:maven/com.tink/service@0.6.7?classifier=sources
 - pkg:maven/com.tink/service@0.6.8?classifier=sources
 - pkg:maven/com.tink/service@0.7.0?classifier=sources
+- pkg:maven/com.tink/service@0.8.0?classifier=sources
+- pkg:maven/com.tink/service@0.8.1?classifier=sources

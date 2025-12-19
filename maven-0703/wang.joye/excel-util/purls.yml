@@ -1,2 +1,4 @@
 - pkg:maven/wang.joye/excel-util@0.0.1
 - pkg:maven/wang.joye/excel-util@0.0.1?classifier=sources
+- pkg:maven/wang.joye/excel-util@0.0.2
+- pkg:maven/wang.joye/excel-util@0.0.2?classifier=sources

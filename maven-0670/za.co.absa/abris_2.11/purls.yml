@@ -39,3 +39,7 @@
 - pkg:maven/za.co.absa/abris_2.11@4.2.0?classifier=sources
 - pkg:maven/za.co.absa/abris_2.11@5.0.0
 - pkg:maven/za.co.absa/abris_2.11@5.0.0?classifier=sources
+- pkg:maven/za.co.absa/abris_2.11@5.1.0
+- pkg:maven/za.co.absa/abris_2.11@5.1.0?classifier=sources
+- pkg:maven/za.co.absa/abris_2.11@5.1.1
+- pkg:maven/za.co.absa/abris_2.11@5.1.1?classifier=sources

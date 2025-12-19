@@ -1,1 +1,2 @@
 - pkg:maven/org.fastily/jwiki@1.8.0?classifier=sources
+- pkg:maven/org.fastily/jwiki@1.9.0?classifier=sources

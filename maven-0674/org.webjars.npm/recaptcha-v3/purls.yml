@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/recaptcha-v3@1.10.0
+- pkg:maven/org.webjars.npm/recaptcha-v3@1.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/recaptcha-v3@1.6.1
 - pkg:maven/org.webjars.npm/recaptcha-v3@1.6.1?classifier=sources
 - pkg:maven/org.webjars.npm/recaptcha-v3@1.8.0

@@ -33,3 +33,4 @@
 - pkg:maven/com.itangcent/commons@1.1.0?classifier=sources
 - pkg:maven/com.itangcent/commons@1.1.2?classifier=sources
 - pkg:maven/com.itangcent/commons@1.1.4?classifier=sources
+- pkg:maven/com.itangcent/commons@1.1.6?classifier=sources

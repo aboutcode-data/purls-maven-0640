@@ -5,3 +5,4 @@
 - pkg:maven/com.azure.spring/azure-spring-cloud-starter-appconfiguration-config@2.1.1
 - pkg:maven/com.azure.spring/azure-spring-cloud-starter-appconfiguration-config@2.2.0
 - pkg:maven/com.azure.spring/azure-spring-cloud-starter-appconfiguration-config@2.3.0
+- pkg:maven/com.azure.spring/azure-spring-cloud-starter-appconfiguration-config@2.4.0

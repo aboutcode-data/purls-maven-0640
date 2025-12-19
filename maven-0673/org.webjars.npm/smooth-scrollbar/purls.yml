@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/smooth-scrollbar@8.7.4
+- pkg:maven/org.webjars.npm/smooth-scrollbar@8.7.4?classifier=sources

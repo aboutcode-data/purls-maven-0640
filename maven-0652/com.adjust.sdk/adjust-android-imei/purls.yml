@@ -41,3 +41,5 @@
 - pkg:maven/com.adjust.sdk/adjust-android-imei@4.28.7?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-imei@4.28.8?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-imei@4.28.9?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android-imei@4.29.0?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android-imei@4.29.1?classifier=sources

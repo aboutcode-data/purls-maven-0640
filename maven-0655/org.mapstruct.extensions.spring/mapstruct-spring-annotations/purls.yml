@@ -2,3 +2,4 @@
 - pkg:maven/org.mapstruct.extensions.spring/mapstruct-spring-annotations@0.0.2?classifier=sources
 - pkg:maven/org.mapstruct.extensions.spring/mapstruct-spring-annotations@0.0.3?classifier=sources
 - pkg:maven/org.mapstruct.extensions.spring/mapstruct-spring-annotations@0.1.0?classifier=sources
+- pkg:maven/org.mapstruct.extensions.spring/mapstruct-spring-annotations@0.1.1?classifier=sources

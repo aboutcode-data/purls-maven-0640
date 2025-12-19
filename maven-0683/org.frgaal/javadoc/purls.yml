@@ -1,3 +1,4 @@
 - pkg:maven/org.frgaal/javadoc@16.0.0?classifier=sources
 - pkg:maven/org.frgaal/javadoc@16.0.1?classifier=sources
 - pkg:maven/org.frgaal/javadoc@17.0.0?classifier=sources
+- pkg:maven/org.frgaal/javadoc@18.0.0?classifier=sources

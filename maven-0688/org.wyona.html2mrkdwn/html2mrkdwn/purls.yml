@@ -1,0 +1,2 @@
+- pkg:maven/org.wyona.html2mrkdwn/html2mrkdwn@1.0.1
+- pkg:maven/org.wyona.html2mrkdwn/html2mrkdwn@1.0.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.github.phillima/asniffer@2.4.7?classifier=sources
 - pkg:maven/io.github.phillima/asniffer@3.0.0
 - pkg:maven/io.github.phillima/asniffer@3.0.0?classifier=sources
+- pkg:maven/io.github.phillima/asniffer@3.0.1
+- pkg:maven/io.github.phillima/asniffer@3.0.1?classifier=sources

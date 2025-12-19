@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-design@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-design@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-design@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-design@RELEASE130?classifier=sources

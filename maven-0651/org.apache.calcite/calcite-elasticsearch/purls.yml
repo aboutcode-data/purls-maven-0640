@@ -32,6 +32,8 @@
 - pkg:maven/org.apache.calcite/calcite-elasticsearch@1.28.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-elasticsearch@1.29.0
 - pkg:maven/org.apache.calcite/calcite-elasticsearch@1.29.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-elasticsearch@1.30.0
+- pkg:maven/org.apache.calcite/calcite-elasticsearch@1.30.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-elasticsearch@1.8.0
 - pkg:maven/org.apache.calcite/calcite-elasticsearch@1.8.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-elasticsearch@1.9.0

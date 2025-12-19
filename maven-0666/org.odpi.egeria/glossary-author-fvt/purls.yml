@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/glossary-author-fvt@3.6
+- pkg:maven/org.odpi.egeria/glossary-author-fvt@3.6?classifier=sources

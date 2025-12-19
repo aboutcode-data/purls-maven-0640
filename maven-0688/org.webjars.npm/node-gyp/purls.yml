@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/node-gyp@5.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/node-gyp@7.1.2
 - pkg:maven/org.webjars.npm/node-gyp@7.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/node-gyp@8.4.1
+- pkg:maven/org.webjars.npm/node-gyp@8.4.1?classifier=sources

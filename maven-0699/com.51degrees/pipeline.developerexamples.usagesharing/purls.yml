@@ -1,0 +1,4 @@
+- pkg:maven/com.51degrees/pipeline.developerexamples.usagesharing@4.3.10
+- pkg:maven/com.51degrees/pipeline.developerexamples.usagesharing@4.3.10?classifier=sources
+- pkg:maven/com.51degrees/pipeline.developerexamples.usagesharing@4.3.13
+- pkg:maven/com.51degrees/pipeline.developerexamples.usagesharing@4.3.13?classifier=sources

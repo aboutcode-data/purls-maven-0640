@@ -28,6 +28,20 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.3.3?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.3.4
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.3.4?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.2
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.2?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.3
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.3?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.4
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.4?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.6
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@10.4.6?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@11.0.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@11.0.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@11.0.1
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@11.0.1?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@2.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@2.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@2.0.1
@@ -134,3 +148,5 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@9.2.1?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@9.3.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@9.3.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@v10.4.5
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@v10.4.5?classifier=sources

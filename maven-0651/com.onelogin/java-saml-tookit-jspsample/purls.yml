@@ -20,3 +20,5 @@
 - pkg:maven/com.onelogin/java-saml-tookit-jspsample@2.7.0?type=war
 - pkg:maven/com.onelogin/java-saml-tookit-jspsample@2.8.0?classifier=sources
 - pkg:maven/com.onelogin/java-saml-tookit-jspsample@2.8.0?type=war
+- pkg:maven/com.onelogin/java-saml-tookit-jspsample@2.9.0?classifier=sources
+- pkg:maven/com.onelogin/java-saml-tookit-jspsample@2.9.0?type=war

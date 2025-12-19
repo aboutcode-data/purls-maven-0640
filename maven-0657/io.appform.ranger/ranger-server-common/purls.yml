@@ -10,3 +10,5 @@
 - pkg:maven/io.appform.ranger/ranger-server-common@1.0-RC5?classifier=sources
 - pkg:maven/io.appform.ranger/ranger-server-common@1.0-RC6
 - pkg:maven/io.appform.ranger/ranger-server-common@1.0-RC6?classifier=sources
+- pkg:maven/io.appform.ranger/ranger-server-common@1.0-RC7
+- pkg:maven/io.appform.ranger/ranger-server-common@1.0-RC7?classifier=sources

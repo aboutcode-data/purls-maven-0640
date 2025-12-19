@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.web.samples/config-fragment-tomcat-vhosts@8.0.1
+- pkg:maven/org.ops4j.pax.web.samples/config-fragment-tomcat-vhosts@8.0.1?classifier=sources

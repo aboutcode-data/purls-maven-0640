@@ -24,3 +24,5 @@
 - pkg:maven/org.odpi.egeria/open-metadata-tutorials@3.2
 - pkg:maven/org.odpi.egeria/open-metadata-tutorials@3.3
 - pkg:maven/org.odpi.egeria/open-metadata-tutorials@3.4
+- pkg:maven/org.odpi.egeria/open-metadata-tutorials@3.5
+- pkg:maven/org.odpi.egeria/open-metadata-tutorials@3.6

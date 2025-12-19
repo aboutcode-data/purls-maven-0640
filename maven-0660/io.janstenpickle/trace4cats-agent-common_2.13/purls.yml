@@ -210,6 +210,8 @@
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0-RC2
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0-RC2?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.12.0?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.13.0
+- pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.13.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B106-b81743d5
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B106-b81743d5?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-agent-common_2.13@0.7.0%2B108-28e83170

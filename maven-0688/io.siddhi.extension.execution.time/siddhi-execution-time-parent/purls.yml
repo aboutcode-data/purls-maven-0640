@@ -5,3 +5,4 @@
 - pkg:maven/io.siddhi.extension.execution.time/siddhi-execution-time-parent@5.0.5?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.execution.time/siddhi-execution-time-parent@5.0.6?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.execution.time/siddhi-execution-time-parent@5.0.7?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.execution.time/siddhi-execution-time-parent@5.0.8?classifier=source-release&type=zip

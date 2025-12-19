@@ -62,6 +62,8 @@
 - pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_2.13@0.23.4?classifier=sources
 - pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_2.13@0.24.0
 - pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_2.13@0.24.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_2.13@0.25.0
+- pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_2.13@0.25.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_2.13@0.4.0
 - pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_2.13@0.4.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_2.13@0.4.1

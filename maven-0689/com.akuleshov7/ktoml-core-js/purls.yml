@@ -1,2 +1,4 @@
+- pkg:maven/com.akuleshov7/ktoml-core-js@0.2.10?classifier=sources
+- pkg:maven/com.akuleshov7/ktoml-core-js@0.2.11?classifier=sources
 - pkg:maven/com.akuleshov7/ktoml-core-js@0.2.8?classifier=sources
 - pkg:maven/com.akuleshov7/ktoml-core-js@0.2.9?classifier=sources

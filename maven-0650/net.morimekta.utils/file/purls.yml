@@ -2,3 +2,5 @@
 - pkg:maven/net.morimekta.utils/file@4.0.0?classifier=sources
 - pkg:maven/net.morimekta.utils/file@4.1.0
 - pkg:maven/net.morimekta.utils/file@4.1.0?classifier=sources
+- pkg:maven/net.morimekta.utils/file@4.1.1
+- pkg:maven/net.morimekta.utils/file@4.1.1?classifier=sources

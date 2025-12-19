@@ -4,3 +4,5 @@
 - pkg:maven/com.github.luoshu-open/luoshu-http@0.23?classifier=sources
 - pkg:maven/com.github.luoshu-open/luoshu-http@0.26
 - pkg:maven/com.github.luoshu-open/luoshu-http@0.26?classifier=sources
+- pkg:maven/com.github.luoshu-open/luoshu-http@0.27
+- pkg:maven/com.github.luoshu-open/luoshu-http@0.27?classifier=sources

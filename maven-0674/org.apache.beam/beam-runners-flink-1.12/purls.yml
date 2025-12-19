@@ -7,3 +7,5 @@
 - pkg:maven/org.apache.beam/beam-runners-flink-1.12@2.33.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-flink-1.12@2.34.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-flink-1.12@2.35.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-flink-1.12@2.36.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-flink-1.12@2.37.0?classifier=sources

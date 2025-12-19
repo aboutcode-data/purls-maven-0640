@@ -1,0 +1,1 @@
+- pkg:maven/com.prime157.docker/load-to-docker-gradle-plugin@0.1?classifier=sources

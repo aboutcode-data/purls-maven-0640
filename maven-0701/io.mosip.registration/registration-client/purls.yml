@@ -40,5 +40,7 @@
 - pkg:maven/io.mosip.registration/registration-client@1.1.5.4
 - pkg:maven/io.mosip.registration/registration-client@1.1.5.4?classifier=sources
 - pkg:maven/io.mosip.registration/registration-client@1.1.5?classifier=sources
+- pkg:maven/io.mosip.registration/registration-client@1.2.0
 - pkg:maven/io.mosip.registration/registration-client@1.2.0-rc1
 - pkg:maven/io.mosip.registration/registration-client@1.2.0-rc1?classifier=sources
+- pkg:maven/io.mosip.registration/registration-client@1.2.0?classifier=sources

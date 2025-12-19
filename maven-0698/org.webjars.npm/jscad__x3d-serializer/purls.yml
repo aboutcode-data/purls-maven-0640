@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/jscad__x3d-serializer@2.2.8?classifier=sources
 - pkg:maven/org.webjars.npm/jscad__x3d-serializer@2.3.0
 - pkg:maven/org.webjars.npm/jscad__x3d-serializer@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/jscad__x3d-serializer@2.3.2
+- pkg:maven/org.webjars.npm/jscad__x3d-serializer@2.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/jscad__x3d-serializer@2.3.3
+- pkg:maven/org.webjars.npm/jscad__x3d-serializer@2.3.3?classifier=sources

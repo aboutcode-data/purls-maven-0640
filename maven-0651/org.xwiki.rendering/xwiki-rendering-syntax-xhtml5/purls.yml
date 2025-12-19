@@ -1,0 +1,6 @@
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.1-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.2-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.2-rc-1?classifier=sources

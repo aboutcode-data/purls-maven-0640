@@ -6,3 +6,4 @@
 - pkg:maven/dk.cachet.carp.common.test/carp.common.test-jvm@1.0.0-alpha.36?classifier=sources
 - pkg:maven/dk.cachet.carp.common.test/carp.common.test-jvm@1.0.0-alpha.37?classifier=sources
 - pkg:maven/dk.cachet.carp.common.test/carp.common.test-jvm@1.0.0-alpha.38?classifier=sources
+- pkg:maven/dk.cachet.carp.common.test/carp.common.test-jvm@1.0.0-alpha.39?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.mnode.ical4j/ical4j-connector@1.0.3?classifier=sources
 - pkg:maven/org.mnode.ical4j/ical4j-connector@1.0.4
 - pkg:maven/org.mnode.ical4j/ical4j-connector@1.0.4?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-connector@1.0.5?classifier=sources
+- pkg:maven/org.mnode.ical4j/ical4j-connector@2.0.0-alpha1?classifier=sources

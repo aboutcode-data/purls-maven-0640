@@ -16,3 +16,11 @@
 - pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.15.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.16.0.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.16.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.16.1.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.16.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.17.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.17.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.18.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.18.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.19.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.19.0.Final?classifier=sources

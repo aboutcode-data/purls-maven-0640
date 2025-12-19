@@ -9,3 +9,4 @@
 - pkg:maven/nz.net.ultraq.rss/rss-xml-generator@3.1.0?classifier=sources
 - pkg:maven/nz.net.ultraq.rss/rss-xml-generator@3.1.1?classifier=sources
 - pkg:maven/nz.net.ultraq.rss/rss-xml-generator@3.2.0?classifier=sources
+- pkg:maven/nz.net.ultraq.rss/rss-xml-generator@3.3.0?classifier=sources

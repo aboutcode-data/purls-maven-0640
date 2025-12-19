@@ -49,6 +49,8 @@
 - pkg:maven/com.cognite/beam-connector-java@0.9.33?classifier=sources
 - pkg:maven/com.cognite/beam-connector-java@0.9.34
 - pkg:maven/com.cognite/beam-connector-java@0.9.34?classifier=sources
+- pkg:maven/com.cognite/beam-connector-java@0.9.35
+- pkg:maven/com.cognite/beam-connector-java@0.9.35?classifier=sources
 - pkg:maven/com.cognite/beam-connector-java@0.9.3?classifier=sources
 - pkg:maven/com.cognite/beam-connector-java@0.9.4
 - pkg:maven/com.cognite/beam-connector-java@0.9.4?classifier=sources

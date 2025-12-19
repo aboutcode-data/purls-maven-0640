@@ -1,0 +1,2 @@
+- pkg:maven/org.kairosdb.metrics4jplugin/m4j-influxdb@0.7.0
+- pkg:maven/org.kairosdb.metrics4jplugin/m4j-influxdb@0.7.0?classifier=sources

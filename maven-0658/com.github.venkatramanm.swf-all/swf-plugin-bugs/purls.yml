@@ -12,3 +12,5 @@
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.3?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.5
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.5?classifier=sources
+- pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.8
+- pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.8?classifier=sources

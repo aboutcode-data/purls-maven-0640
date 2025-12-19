@@ -4,3 +4,5 @@
 - pkg:maven/com.payintech/play-ebean_2.13@20.02?classifier=sources
 - pkg:maven/com.payintech/play-ebean_2.13@21.02
 - pkg:maven/com.payintech/play-ebean_2.13@21.02?classifier=sources
+- pkg:maven/com.payintech/play-ebean_2.13@22.03RC1
+- pkg:maven/com.payintech/play-ebean_2.13@22.03RC1?classifier=sources

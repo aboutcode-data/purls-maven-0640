@@ -31,6 +31,10 @@
 - pkg:maven/com.algolia/algoliasearch-apache-uber@3.16.1?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-apache-uber@3.16.2
 - pkg:maven/com.algolia/algoliasearch-apache-uber@3.16.2?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-apache-uber@3.16.3
+- pkg:maven/com.algolia/algoliasearch-apache-uber@3.16.3?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-apache-uber@3.16.4
+- pkg:maven/com.algolia/algoliasearch-apache-uber@3.16.4?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-apache-uber@3.2.0
 - pkg:maven/com.algolia/algoliasearch-apache-uber@3.2.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-apache-uber@3.2.1

@@ -1,0 +1,2 @@
+- pkg:maven/pl.iterators/baklava-formatterts_2.12@0.0.1
+- pkg:maven/pl.iterators/baklava-formatterts_2.12@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.dialob/dialob-cloud-aws@2.1.2
+- pkg:maven/io.dialob/dialob-cloud-aws@2.1.2?classifier=sources

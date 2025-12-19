@@ -1,0 +1,2 @@
+- pkg:maven/org.openlca/olca-native-umfpack-linux-x64@0.0.1
+- pkg:maven/org.openlca/olca-native-umfpack-linux-x64@0.0.1?classifier=sources

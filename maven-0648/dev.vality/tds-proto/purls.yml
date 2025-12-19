@@ -1,2 +1,8 @@
+- pkg:maven/dev.vality/tds-proto@1.10-71d3c42
+- pkg:maven/dev.vality/tds-proto@1.10-71d3c42?classifier=sources
+- pkg:maven/dev.vality/tds-proto@1.11-ceeff4d
+- pkg:maven/dev.vality/tds-proto@1.11-ceeff4d?classifier=sources
+- pkg:maven/dev.vality/tds-proto@1.12-3ee641c
+- pkg:maven/dev.vality/tds-proto@1.12-3ee641c?classifier=sources
 - pkg:maven/dev.vality/tds-proto@1.9-1ef5a55
 - pkg:maven/dev.vality/tds-proto@1.9-1ef5a55?classifier=sources

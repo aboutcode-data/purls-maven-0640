@@ -1,0 +1,5 @@
+- pkg:maven/com.seeq.link/seeq-link-sdk@54.2.0-v202201281139?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@54.3.0-v202203032114?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@55.1.0-v202202032202-BETA?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@55.1.1-v202202171511?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@55.2.0-v202203040043?classifier=sources

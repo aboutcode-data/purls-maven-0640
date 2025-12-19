@@ -35,4 +35,8 @@
 - pkg:maven/org.jeecgframework/autopoi@1.3.6?classifier=sources
 - pkg:maven/org.jeecgframework/autopoi@1.3.8
 - pkg:maven/org.jeecgframework/autopoi@1.3.8?classifier=sources
+- pkg:maven/org.jeecgframework/autopoi@1.3.9
+- pkg:maven/org.jeecgframework/autopoi@1.3.9?classifier=sources
 - pkg:maven/org.jeecgframework/autopoi@1.3?classifier=sources
+- pkg:maven/org.jeecgframework/autopoi@1.4.0
+- pkg:maven/org.jeecgframework/autopoi@1.4.0?classifier=sources

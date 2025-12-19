@@ -1,0 +1,2 @@
+- pkg:maven/com.google.looker-open-source/bqjdbc@2.3.17
+- pkg:maven/com.google.looker-open-source/bqjdbc@2.3.17?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/gamesparks@2.17.155
+- pkg:maven/software.amazon.awssdk/gamesparks@2.17.155?classifier=sources

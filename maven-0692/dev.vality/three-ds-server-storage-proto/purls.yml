@@ -1,2 +1,8 @@
 - pkg:maven/dev.vality/three-ds-server-storage-proto@1.25-58f40da
 - pkg:maven/dev.vality/three-ds-server-storage-proto@1.25-58f40da?classifier=sources
+- pkg:maven/dev.vality/three-ds-server-storage-proto@1.26-d6472b7
+- pkg:maven/dev.vality/three-ds-server-storage-proto@1.26-d6472b7?classifier=sources
+- pkg:maven/dev.vality/three-ds-server-storage-proto@1.27-978f760
+- pkg:maven/dev.vality/three-ds-server-storage-proto@1.27-978f760?classifier=sources
+- pkg:maven/dev.vality/three-ds-server-storage-proto@1.28-7e82f7f
+- pkg:maven/dev.vality/three-ds-server-storage-proto@1.28-7e82f7f?classifier=sources

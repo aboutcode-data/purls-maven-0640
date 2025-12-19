@@ -20,3 +20,5 @@
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-testing-junit@3.0.0?classifier=sources
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-testing-junit@3.0.1?classifier=sources
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-testing-junit@4.0.0?classifier=sources
+- pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-testing-junit@5.0.0-M1?classifier=sources
+- pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-testing-junit@5.0.0?classifier=sources

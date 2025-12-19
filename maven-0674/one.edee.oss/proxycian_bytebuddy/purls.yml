@@ -1,0 +1,16 @@
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.0
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.0?classifier=sources
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.1
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.1?classifier=sources
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.2
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.2?classifier=sources
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.3
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.3?classifier=sources
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.4
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.0.4?classifier=sources
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.1.0
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.1.0?classifier=sources
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.1.1
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.1.1?classifier=sources
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.1.2
+- pkg:maven/one.edee.oss/proxycian_bytebuddy@1.1.2?classifier=sources

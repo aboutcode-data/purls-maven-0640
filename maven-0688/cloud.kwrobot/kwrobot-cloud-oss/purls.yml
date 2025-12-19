@@ -1,0 +1,6 @@
+- pkg:maven/cloud.kwrobot/kwrobot-cloud-oss@2021.1.0
+- pkg:maven/cloud.kwrobot/kwrobot-cloud-oss@2021.1.0?classifier=sources
+- pkg:maven/cloud.kwrobot/kwrobot-cloud-oss@2022.1.0
+- pkg:maven/cloud.kwrobot/kwrobot-cloud-oss@2022.1.0?classifier=sources
+- pkg:maven/cloud.kwrobot/kwrobot-cloud-oss@2022.2.0
+- pkg:maven/cloud.kwrobot/kwrobot-cloud-oss@2022.2.0?classifier=sources

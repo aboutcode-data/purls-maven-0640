@@ -12,3 +12,5 @@
 - pkg:maven/com.paritytrading.juncture/juncture-nasdaq@0.5.0?classifier=sources
 - pkg:maven/com.paritytrading.juncture/juncture-nasdaq@0.6.0
 - pkg:maven/com.paritytrading.juncture/juncture-nasdaq@0.6.0?classifier=sources
+- pkg:maven/com.paritytrading.juncture/juncture-nasdaq@1.0.0
+- pkg:maven/com.paritytrading.juncture/juncture-nasdaq@1.0.0?classifier=sources

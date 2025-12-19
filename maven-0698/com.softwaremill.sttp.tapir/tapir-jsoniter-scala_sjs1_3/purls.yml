@@ -1,4 +1,12 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0-M10
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0-M10?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0-M7
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0-M7?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0-M8
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0-M8?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0-M9
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0-M9?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.1
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-jsoniter-scala_sjs1_3@0.20.1?classifier=sources

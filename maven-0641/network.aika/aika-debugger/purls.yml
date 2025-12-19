@@ -1,2 +1,4 @@
 - pkg:maven/network.aika/aika-debugger@2.0.0
 - pkg:maven/network.aika/aika-debugger@2.0.0?classifier=sources
+- pkg:maven/network.aika/aika-debugger@2.0.2.ALPHA
+- pkg:maven/network.aika/aika-debugger@2.0.2.ALPHA?classifier=sources

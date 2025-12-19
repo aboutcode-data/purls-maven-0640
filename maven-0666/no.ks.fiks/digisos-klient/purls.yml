@@ -6,6 +6,10 @@
 - pkg:maven/no.ks.fiks/digisos-klient@1.0.12?classifier=sources
 - pkg:maven/no.ks.fiks/digisos-klient@1.0.13
 - pkg:maven/no.ks.fiks/digisos-klient@1.0.13?classifier=sources
+- pkg:maven/no.ks.fiks/digisos-klient@1.0.14
+- pkg:maven/no.ks.fiks/digisos-klient@1.0.14?classifier=sources
+- pkg:maven/no.ks.fiks/digisos-klient@1.0.15
+- pkg:maven/no.ks.fiks/digisos-klient@1.0.15?classifier=sources
 - pkg:maven/no.ks.fiks/digisos-klient@1.0.3
 - pkg:maven/no.ks.fiks/digisos-klient@1.0.3?classifier=sources
 - pkg:maven/no.ks.fiks/digisos-klient@1.0.4

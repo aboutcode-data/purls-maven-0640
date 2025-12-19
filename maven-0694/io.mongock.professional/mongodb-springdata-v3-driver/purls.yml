@@ -26,3 +26,5 @@
 - pkg:maven/io.mongock.professional/mongodb-springdata-v3-driver@5.0.25.BETA?classifier=sources
 - pkg:maven/io.mongock.professional/mongodb-springdata-v3-driver@5.0.26.BETA
 - pkg:maven/io.mongock.professional/mongodb-springdata-v3-driver@5.0.26.BETA?classifier=sources
+- pkg:maven/io.mongock.professional/mongodb-springdata-v3-driver@5.0.27.BETA
+- pkg:maven/io.mongock.professional/mongodb-springdata-v3-driver@5.0.27.BETA?classifier=sources

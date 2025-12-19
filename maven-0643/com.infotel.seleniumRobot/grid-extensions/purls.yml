@@ -186,6 +186,8 @@
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.21.2?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.21.3
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.21.3?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.21.4
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.21.4?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.3.0
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.3.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.4.0

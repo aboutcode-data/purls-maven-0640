@@ -192,6 +192,7 @@
 - pkg:maven/com.github.liaochong/myexcel@3.9.8?classifier=sources
 - pkg:maven/com.github.liaochong/myexcel@3.9.9
 - pkg:maven/com.github.liaochong/myexcel@3.9.9?classifier=sources
+- pkg:maven/com.github.liaochong/myexcel@4.0.0
 - pkg:maven/com.github.liaochong/myexcel@4.0.0.RC
 - pkg:maven/com.github.liaochong/myexcel@4.0.0.RC1
 - pkg:maven/com.github.liaochong/myexcel@4.0.0.RC1?classifier=sources
@@ -200,3 +201,6 @@
 - pkg:maven/com.github.liaochong/myexcel@4.0.0.RC3
 - pkg:maven/com.github.liaochong/myexcel@4.0.0.RC3?classifier=sources
 - pkg:maven/com.github.liaochong/myexcel@4.0.0.RC?classifier=sources
+- pkg:maven/com.github.liaochong/myexcel@4.0.0?classifier=sources
+- pkg:maven/com.github.liaochong/myexcel@4.0.1
+- pkg:maven/com.github.liaochong/myexcel@4.0.1?classifier=sources

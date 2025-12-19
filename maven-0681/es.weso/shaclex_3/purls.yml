@@ -1,2 +1,4 @@
 - pkg:maven/es.weso/shaclex_3@0.1.103
 - pkg:maven/es.weso/shaclex_3@0.1.103?classifier=sources
+- pkg:maven/es.weso/shaclex_3@0.2.0
+- pkg:maven/es.weso/shaclex_3@0.2.0?classifier=sources

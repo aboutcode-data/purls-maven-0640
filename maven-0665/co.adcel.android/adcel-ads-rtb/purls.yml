@@ -1,0 +1,2 @@
+- pkg:maven/co.adcel.android/adcel-ads-rtb@2.0.0.0?classifier=sources
+- pkg:maven/co.adcel.android/adcel-ads-rtb@2.0.0?classifier=sources

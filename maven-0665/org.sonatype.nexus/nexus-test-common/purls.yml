@@ -109,6 +109,10 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.8-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.9-01
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.14.9-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.15.0-04
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.15.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.15.1-02
+- pkg:maven/org.sonatype.nexus/nexus-test-common@2.15.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.1?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.2
 - pkg:maven/org.sonatype.nexus/nexus-test-common@2.2-01
@@ -387,6 +391,8 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.37.2-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.37.3-02
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.37.3-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.38.0-01
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.38.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.4.0-02
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.4.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.5.0-02

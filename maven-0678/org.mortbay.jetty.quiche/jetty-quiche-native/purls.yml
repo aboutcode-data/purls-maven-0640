@@ -1,2 +1,14 @@
 - pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.10.0
 - pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.10.0?classifier=sources
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0.1
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0.1?classifier=sources
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0.2
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0.2?classifier=sources
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0?classifier=sources
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0a
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0a?classifier=sources
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0b
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.11.0b?classifier=sources
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.12.0
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.12.0?classifier=sources

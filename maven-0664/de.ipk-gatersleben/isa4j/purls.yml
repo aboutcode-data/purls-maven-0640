@@ -2,3 +2,5 @@
 - pkg:maven/de.ipk-gatersleben/isa4j@1.0.3?classifier=sources
 - pkg:maven/de.ipk-gatersleben/isa4j@1.0.4
 - pkg:maven/de.ipk-gatersleben/isa4j@1.0.4?classifier=sources
+- pkg:maven/de.ipk-gatersleben/isa4j@1.1.0
+- pkg:maven/de.ipk-gatersleben/isa4j@1.1.0?classifier=sources

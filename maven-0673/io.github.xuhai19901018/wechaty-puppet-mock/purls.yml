@@ -1,0 +1,4 @@
+- pkg:maven/io.github.xuhai19901018/wechaty-puppet-mock@0.1.6
+- pkg:maven/io.github.xuhai19901018/wechaty-puppet-mock@0.1.6?classifier=sources
+- pkg:maven/io.github.xuhai19901018/wechaty-puppet-mock@1.0.2
+- pkg:maven/io.github.xuhai19901018/wechaty-puppet-mock@1.0.2?classifier=sources

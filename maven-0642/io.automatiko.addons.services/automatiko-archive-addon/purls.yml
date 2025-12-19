@@ -2,6 +2,10 @@
 - pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.10.0?classifier=sources
 - pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.11.0
 - pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.11.0?classifier=sources
+- pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.12.0
+- pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.12.0?classifier=sources
+- pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.13.0
+- pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.13.0?classifier=sources
 - pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.6.0
 - pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.6.0?classifier=sources
 - pkg:maven/io.automatiko.addons.services/automatiko-archive-addon@0.7.0

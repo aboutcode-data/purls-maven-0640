@@ -1,1 +1,4 @@
 - pkg:maven/xyz.opcal.xena/xena-spring-boot-starter@1.0.0
+- pkg:maven/xyz.opcal.xena/xena-spring-boot-starter@1.24.0
+- pkg:maven/xyz.opcal.xena/xena-spring-boot-starter@1.25.0
+- pkg:maven/xyz.opcal.xena/xena-spring-boot-starter@1.26.0

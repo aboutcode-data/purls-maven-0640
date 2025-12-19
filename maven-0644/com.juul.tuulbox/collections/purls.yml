@@ -2,3 +2,4 @@
 - pkg:maven/com.juul.tuulbox/collections@4.8.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/collections@5.0.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/collections@5.1.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/collections@6.0.0?classifier=sources
