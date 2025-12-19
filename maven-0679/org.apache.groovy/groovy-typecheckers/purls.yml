@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.11?classifier=sources
 - pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.12?classifier=sources
 - pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.13?classifier=sources
+- pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.14?classifier=sources
+- pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.15?classifier=sources
 - pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.1?classifier=sources
 - pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.2?classifier=sources
 - pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.3?classifier=sources
@@ -19,3 +21,5 @@
 - pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.7?classifier=sources
 - pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.8?classifier=sources
 - pkg:maven/org.apache.groovy/groovy-typecheckers@4.0.9?classifier=sources
+- pkg:maven/org.apache.groovy/groovy-typecheckers@5.0.0-alpha-1?classifier=sources
+- pkg:maven/org.apache.groovy/groovy-typecheckers@5.0.0-alpha-2?classifier=sources

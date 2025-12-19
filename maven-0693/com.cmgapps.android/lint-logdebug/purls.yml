@@ -1,3 +1,4 @@
 - pkg:maven/com.cmgapps.android/lint-logdebug@0.6.0?classifier=sources
 - pkg:maven/com.cmgapps.android/lint-logdebug@0.7.0-agp7.0?classifier=sources
 - pkg:maven/com.cmgapps.android/lint-logdebug@0.8.0?classifier=sources
+- pkg:maven/com.cmgapps.android/lint-logdebug@1.0.0?classifier=sources

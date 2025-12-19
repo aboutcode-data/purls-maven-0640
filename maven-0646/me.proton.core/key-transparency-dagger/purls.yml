@@ -11,3 +11,7 @@
 - pkg:maven/me.proton.core/key-transparency-dagger@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/key-transparency-dagger@14.0.0?classifier=sources
 - pkg:maven/me.proton.core/key-transparency-dagger@14.0.1?classifier=sources
+- pkg:maven/me.proton.core/key-transparency-dagger@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/key-transparency-dagger@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/key-transparency-dagger@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/key-transparency-dagger@16.0.0?classifier=sources

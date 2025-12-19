@@ -16,3 +16,5 @@
 - pkg:maven/com.salesforce.mce/telepathy_2.13@1.4.0?classifier=sources
 - pkg:maven/com.salesforce.mce/telepathy_2.13@1.5.0
 - pkg:maven/com.salesforce.mce/telepathy_2.13@1.5.0?classifier=sources
+- pkg:maven/com.salesforce.mce/telepathy_2.13@1.6.0
+- pkg:maven/com.salesforce.mce/telepathy_2.13@1.6.0?classifier=sources

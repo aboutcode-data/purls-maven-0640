@@ -20,3 +20,4 @@
 - pkg:maven/de.jensklingenberg.ktorfit/ktorfit-annotations-watchosx64@1.4.3?classifier=sources
 - pkg:maven/de.jensklingenberg.ktorfit/ktorfit-annotations-watchosx64@1.4.4?classifier=sources
 - pkg:maven/de.jensklingenberg.ktorfit/ktorfit-annotations-watchosx64@1.5.0?classifier=sources
+- pkg:maven/de.jensklingenberg.ktorfit/ktorfit-annotations-watchosx64@1.6.0?classifier=sources

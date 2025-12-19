@@ -42,3 +42,5 @@
 - pkg:maven/com.futunn.openapi/futu-api@7.1.3308?classifier=sources
 - pkg:maven/com.futunn.openapi/futu-api@7.2.3408
 - pkg:maven/com.futunn.openapi/futu-api@7.2.3408?classifier=sources
+- pkg:maven/com.futunn.openapi/futu-api@7.3.3508
+- pkg:maven/com.futunn.openapi/futu-api@7.3.3508?classifier=sources

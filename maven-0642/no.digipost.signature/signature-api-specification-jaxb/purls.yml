@@ -56,12 +56,14 @@
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@2.8-RC3
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@2.8-RC3?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@2.8?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-specification-jaxb@3.0.0
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@3.0.0-RC3
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@3.0.0-RC3?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@3.0.0-RC4
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@3.0.0-RC4?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@3.0.0-RC5
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@3.0.0-RC5?classifier=sources
+- pkg:maven/no.digipost.signature/signature-api-specification-jaxb@3.0.0?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@dummy-2
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@dummy-2?classifier=sources
 - pkg:maven/no.digipost.signature/signature-api-specification-jaxb@dummy-3

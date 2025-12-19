@@ -1,2 +1,3 @@
 - pkg:maven/io.github/dsqueue@2.2.6?classifier=sources
 - pkg:maven/io.github/dsqueue@2.3.2?classifier=sources
+- pkg:maven/io.github/dsqueue@2.5.8?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.wcm/io.wcm.site-api.processor@1.0.0
 - pkg:maven/io.wcm/io.wcm.site-api.processor@1.0.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.site-api.processor@1.1.0
+- pkg:maven/io.wcm/io.wcm.site-api.processor@1.1.0?classifier=sources

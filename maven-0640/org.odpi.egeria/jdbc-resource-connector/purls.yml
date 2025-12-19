@@ -1,0 +1,1 @@
+- pkg:maven/org.odpi.egeria/jdbc-resource-connector@4.3?classifier=sources

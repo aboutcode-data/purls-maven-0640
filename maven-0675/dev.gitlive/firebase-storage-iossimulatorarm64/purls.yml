@@ -1,0 +1,3 @@
+- pkg:maven/dev.gitlive/firebase-storage-iossimulatorarm64@1.10.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-storage-iossimulatorarm64@1.8.2?classifier=sources
+- pkg:maven/dev.gitlive/firebase-storage-iossimulatorarm64@1.9.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/de.telekom.test/bddwebapp-cucumber-api@2.6?classifier=sources
 - pkg:maven/de.telekom.test/bddwebapp-cucumber-api@3.0
 - pkg:maven/de.telekom.test/bddwebapp-cucumber-api@3.0?classifier=sources
+- pkg:maven/de.telekom.test/bddwebapp-cucumber-api@3.1
+- pkg:maven/de.telekom.test/bddwebapp-cucumber-api@3.1?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.aliyun/gpdb20160503@1.0.37?classifier=sources
 - pkg:maven/com.aliyun/gpdb20160503@1.0.38
 - pkg:maven/com.aliyun/gpdb20160503@1.0.38?classifier=sources
+- pkg:maven/com.aliyun/gpdb20160503@1.0.39
+- pkg:maven/com.aliyun/gpdb20160503@1.0.39?classifier=sources

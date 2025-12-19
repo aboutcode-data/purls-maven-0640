@@ -1,0 +1,2 @@
+- pkg:maven/nl.nl-portal/documenten-api@0.2.2.RELEASE?classifier=sources
+- pkg:maven/nl.nl-portal/documenten-api@0.3.0.RELEASE?classifier=sources

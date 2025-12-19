@@ -12,3 +12,7 @@
 - pkg:maven/club.tilitili/tilitili-schedule@1.4.3
 - pkg:maven/club.tilitili/tilitili-schedule@1.4.3?classifier=sources
 - pkg:maven/club.tilitili/tilitili-schedule@1.4?classifier=sources
+- pkg:maven/club.tilitili/tilitili-schedule@1.5.4
+- pkg:maven/club.tilitili/tilitili-schedule@1.5.4?classifier=sources
+- pkg:maven/club.tilitili/tilitili-schedule@1.5.7
+- pkg:maven/club.tilitili/tilitili-schedule@1.5.7?classifier=sources

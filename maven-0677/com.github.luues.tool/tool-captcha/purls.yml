@@ -69,4 +69,6 @@
 - pkg:maven/com.github.luues.tool/tool-captcha@1.0.3.5.RELEASE?classifier=sources
 - pkg:maven/com.github.luues.tool/tool-captcha@1.0.3.7.RELEASE
 - pkg:maven/com.github.luues.tool/tool-captcha@1.0.3.7.RELEASE?classifier=sources
+- pkg:maven/com.github.luues.tool/tool-captcha@1.0.3.8.RELEASE
+- pkg:maven/com.github.luues.tool/tool-captcha@1.0.3.8.RELEASE?classifier=sources
 - pkg:maven/com.github.luues.tool/tool-captcha@1?classifier=sources

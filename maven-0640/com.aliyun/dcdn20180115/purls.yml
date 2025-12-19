@@ -73,6 +73,8 @@
 - pkg:maven/com.aliyun/dcdn20180115@1.1.16?classifier=sources
 - pkg:maven/com.aliyun/dcdn20180115@1.1.17
 - pkg:maven/com.aliyun/dcdn20180115@1.1.17?classifier=sources
+- pkg:maven/com.aliyun/dcdn20180115@1.1.18
+- pkg:maven/com.aliyun/dcdn20180115@1.1.18?classifier=sources
 - pkg:maven/com.aliyun/dcdn20180115@1.1.1?classifier=sources
 - pkg:maven/com.aliyun/dcdn20180115@1.1.2
 - pkg:maven/com.aliyun/dcdn20180115@1.1.2?classifier=sources
@@ -90,3 +92,5 @@
 - pkg:maven/com.aliyun/dcdn20180115@1.1.8?classifier=sources
 - pkg:maven/com.aliyun/dcdn20180115@1.1.9
 - pkg:maven/com.aliyun/dcdn20180115@1.1.9?classifier=sources
+- pkg:maven/com.aliyun/dcdn20180115@1.2.0
+- pkg:maven/com.aliyun/dcdn20180115@1.2.0?classifier=sources

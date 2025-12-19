@@ -70,6 +70,10 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.19
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.2
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.20
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.21
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.22
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.23
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.24
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.3
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.4
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.19.5
@@ -85,6 +89,10 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.13
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.14
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.15
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.16
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.17
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.18
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.19
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.2
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.3
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@3.20.4
@@ -99,3 +107,9 @@
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@4.0.0-alpha.4
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@4.0.1
 - pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@4.0.2
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@4.0.3
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@4.0.4
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@4.0.5
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@4.0.6
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@4.0.7
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-coverage@4.0.8

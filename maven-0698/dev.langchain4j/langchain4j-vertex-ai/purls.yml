@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-vertex-ai@0.22.0
+- pkg:maven/dev.langchain4j/langchain4j-vertex-ai@0.22.0?classifier=sources

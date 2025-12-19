@@ -22,3 +22,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-opc@4.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-opc@5.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-opc@5.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-opc@6.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-opc@6.0.0?classifier=sources

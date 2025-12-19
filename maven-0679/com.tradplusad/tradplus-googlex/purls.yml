@@ -1,3 +1,6 @@
+- pkg:maven/com.tradplusad/tradplus-googlex@2.10.0.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.10.0.1.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.10.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.5.6.4.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.2.3.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.2.4.1?type=aar
@@ -33,9 +36,11 @@
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.5.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.60.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.61.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.63.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.70.1.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.70.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.71.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.72.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.80.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.6.9.90.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.66.4.42.1.1.100?type=aar
@@ -46,6 +51,7 @@
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.0.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.0.21.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.0.30.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.7.0.31.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.0.40.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.0.41.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.0.42.1?type=aar
@@ -85,6 +91,7 @@
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.7.21.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.8.0.01?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.7.8.1.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.8.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.8.11.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.8.20.1?type=aar
@@ -92,6 +99,7 @@
 - pkg:maven/com.tradplusad/tradplus-googlex@2.7.9.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.0.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.0.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.8.0.11.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.0.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.0.30.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.1.0.1?type=aar
@@ -106,6 +114,7 @@
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.5.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.6.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.8.6.01.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.6.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.7.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.7.10.1?type=aar
@@ -113,6 +122,7 @@
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.9.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.8.9.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.0.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.9.0.1.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.1.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.1.20.1?type=aar
@@ -127,13 +137,18 @@
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.4.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.4.20.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.9.4.30.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.9.4.40.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.5.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.9.5.1.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.6.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.6.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.6.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.7.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.7.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.7.30.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.9.7.31.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.8.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.9.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-googlex@2.9.9.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-googlex@2.9.9.11.1?type=aar

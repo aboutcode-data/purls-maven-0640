@@ -60,3 +60,10 @@
 - pkg:maven/com.pulumi/alicloud@3.42.0-alpha.1691004315%2B9df59c77?classifier=sources
 - pkg:maven/com.pulumi/alicloud@3.43.0-alpha.1691040816%2Bf0334ac4?classifier=sources
 - pkg:maven/com.pulumi/alicloud@3.43.0-alpha.1691127298%2B1e17e4bd?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.43.0-alpha.1691492261%2B23591cb9?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.43.0?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.44.0-alpha.1691731788%2Be899f9c2?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.44.0-alpha.1692855050%2B7388ce51?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.44.0-alpha.1693027240%2Bea99b948?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.44.0-alpha.1693460071%2Bffddb903?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.44.0-alpha.1693632188%2Bdb1926bb?classifier=sources

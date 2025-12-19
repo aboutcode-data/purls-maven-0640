@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-jstestdriver@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-jstestdriver@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-jstestdriver@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-jstestdriver@RELEASE190?classifier=sources

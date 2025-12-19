@@ -1,0 +1,2 @@
+- pkg:maven/com.mxpio/mxpio-boot-base-camunda@1.0.12-beta.9
+- pkg:maven/com.mxpio/mxpio-boot-base-camunda@1.0.12-beta.9?classifier=sources

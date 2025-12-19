@@ -42,3 +42,5 @@
 - pkg:maven/net.optionfactory.spring/pdf-signing@7.9?classifier=sources
 - pkg:maven/net.optionfactory.spring/pdf-signing@8.0
 - pkg:maven/net.optionfactory.spring/pdf-signing@8.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/pdf-signing@8.1
+- pkg:maven/net.optionfactory.spring/pdf-signing@8.1?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-knockout@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-knockout@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-knockout@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-knockout@RELEASE190?classifier=sources

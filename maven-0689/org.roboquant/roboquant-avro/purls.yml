@@ -1,0 +1,2 @@
+- pkg:maven/org.roboquant/roboquant-avro@2.0.0
+- pkg:maven/org.roboquant/roboquant-avro@2.0.0?classifier=sources

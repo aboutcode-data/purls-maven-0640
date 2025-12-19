@@ -18,3 +18,5 @@
 - pkg:maven/com.outr/reactify_sjs1_2.12@4.0.7?classifier=sources
 - pkg:maven/com.outr/reactify_sjs1_2.12@4.0.8
 - pkg:maven/com.outr/reactify_sjs1_2.12@4.0.8?classifier=sources
+- pkg:maven/com.outr/reactify_sjs1_2.12@4.1.0
+- pkg:maven/com.outr/reactify_sjs1_2.12@4.1.0?classifier=sources

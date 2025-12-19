@@ -48,3 +48,5 @@
 - pkg:maven/org.dmfs/httpurlconnection-executor@1.16.2
 - pkg:maven/org.dmfs/httpurlconnection-executor@1.16.2?classifier=sources
 - pkg:maven/org.dmfs/httpurlconnection-executor@1.21.3?classifier=sources
+- pkg:maven/org.dmfs/httpurlconnection-executor@1.22.0?classifier=sources
+- pkg:maven/org.dmfs/httpurlconnection-executor@1.22.1?classifier=sources

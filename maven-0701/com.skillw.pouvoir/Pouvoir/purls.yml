@@ -2,3 +2,9 @@
 - pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.0-api?classifier=sources
 - pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.0-beta-11-api?classifier=sources
 - pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.0-dev-6-api?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.4-6?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.4-7?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.4-8?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.5-4?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.5-alpha-2?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.5-alpha-3?classifier=sources

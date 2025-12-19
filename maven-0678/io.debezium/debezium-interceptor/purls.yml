@@ -1,0 +1,4 @@
+- pkg:maven/io.debezium/debezium-interceptor@2.4.0.Alpha2
+- pkg:maven/io.debezium/debezium-interceptor@2.4.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium/debezium-interceptor@2.4.0.Beta1
+- pkg:maven/io.debezium/debezium-interceptor@2.4.0.Beta1?classifier=sources

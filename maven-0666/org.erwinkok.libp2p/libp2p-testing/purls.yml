@@ -1,1 +1,2 @@
 - pkg:maven/org.erwinkok.libp2p/libp2p-testing@0.1.0?classifier=sources
+- pkg:maven/org.erwinkok.libp2p/libp2p-testing@0.2.2?classifier=sources

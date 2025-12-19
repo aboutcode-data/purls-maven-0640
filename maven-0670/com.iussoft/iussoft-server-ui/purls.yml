@@ -11,4 +11,8 @@
 - pkg:maven/com.iussoft/iussoft-server-ui@3.3.22080513?classifier=sources
 - pkg:maven/com.iussoft/iussoft-server-ui@3.3.23062521
 - pkg:maven/com.iussoft/iussoft-server-ui@3.3.23062521?classifier=sources
+- pkg:maven/com.iussoft/iussoft-server-ui@3.3.23082208
+- pkg:maven/com.iussoft/iussoft-server-ui@3.3.23082208?classifier=sources
+- pkg:maven/com.iussoft/iussoft-server-ui@3.3.23082309
+- pkg:maven/com.iussoft/iussoft-server-ui@3.3.23082309?classifier=sources
 - pkg:maven/com.iussoft/iussoft-server-ui@3.3.2?classifier=sources

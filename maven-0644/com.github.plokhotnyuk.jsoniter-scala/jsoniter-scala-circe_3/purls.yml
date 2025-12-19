@@ -178,3 +178,7 @@
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_3@2.23.1?classifier=sources
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_3@2.23.2
 - pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_3@2.23.2?classifier=sources
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_3@2.23.3
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_3@2.23.3?classifier=sources
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_3@2.23.4
+- pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_3@2.23.4?classifier=sources

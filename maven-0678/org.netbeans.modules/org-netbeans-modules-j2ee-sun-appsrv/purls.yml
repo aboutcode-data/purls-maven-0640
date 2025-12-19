@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-appsrv@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-appsrv@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-appsrv@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-sun-appsrv@RELEASE190?classifier=sources

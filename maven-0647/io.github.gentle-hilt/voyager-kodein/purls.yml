@@ -1,1 +1,3 @@
 - pkg:maven/io.github.gentle-hilt/voyager-kodein@10.0.0-rc06?classifier=sources
+- pkg:maven/io.github.gentle-hilt/voyager-kodein@11.0.0-rc06?classifier=sources
+- pkg:maven/io.github.gentle-hilt/voyager-kodein@12.0.0-rc06?classifier=sources

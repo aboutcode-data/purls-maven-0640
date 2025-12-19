@@ -104,3 +104,4 @@
 - pkg:maven/com.github.kyuubiran/EzXHelper@2.0.4?classifier=sources
 - pkg:maven/com.github.kyuubiran/EzXHelper@2.0.5?classifier=sources
 - pkg:maven/com.github.kyuubiran/EzXHelper@2.0.6?classifier=sources
+- pkg:maven/com.github.kyuubiran/EzXHelper@2.0.7?classifier=sources

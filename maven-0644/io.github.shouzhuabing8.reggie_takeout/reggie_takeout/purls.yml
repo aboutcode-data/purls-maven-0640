@@ -1,0 +1,2 @@
+- pkg:maven/io.github.shouzhuabing8.reggie_takeout/reggie_takeout@1
+- pkg:maven/io.github.shouzhuabing8.reggie_takeout/reggie_takeout@1?classifier=sources

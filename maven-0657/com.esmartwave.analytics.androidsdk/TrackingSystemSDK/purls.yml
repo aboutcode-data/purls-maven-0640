@@ -10,3 +10,5 @@
 - pkg:maven/com.esmartwave.analytics.androidsdk/TrackingSystemSDK@2.0.4?type=aar
 - pkg:maven/com.esmartwave.analytics.androidsdk/TrackingSystemSDK@2.0.5?classifier=sources
 - pkg:maven/com.esmartwave.analytics.androidsdk/TrackingSystemSDK@2.0.5?type=aar
+- pkg:maven/com.esmartwave.analytics.androidsdk/TrackingSystemSDK@2.0.6?classifier=sources
+- pkg:maven/com.esmartwave.analytics.androidsdk/TrackingSystemSDK@2.0.6?type=aar

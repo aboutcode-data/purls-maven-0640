@@ -5,3 +5,4 @@
 - pkg:maven/com.github.jenly1314.MLKit/mlkit-barcode-scanning@1.1.0?classifier=sources
 - pkg:maven/com.github.jenly1314.MLKit/mlkit-barcode-scanning@1.2.0?classifier=sources
 - pkg:maven/com.github.jenly1314.MLKit/mlkit-barcode-scanning@1.4.0?classifier=sources
+- pkg:maven/com.github.jenly1314.MLKit/mlkit-barcode-scanning@2.0.0?classifier=sources

@@ -15,6 +15,10 @@
 - pkg:maven/me.proton.core/presentation-compose@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@14.0.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@14.0.1?classifier=sources
+- pkg:maven/me.proton.core/presentation-compose@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/presentation-compose@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/presentation-compose@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/presentation-compose@16.0.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose@5.0.0?classifier=sources

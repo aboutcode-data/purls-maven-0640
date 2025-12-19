@@ -1,2 +1,6 @@
+- pkg:maven/io.github.farhad9577/exact-logger@%24%7BcommonVersion%7D?classifier=sources
+- pkg:maven/io.github.farhad9577/exact-logger@%24%7BcustomVersion%7D?classifier=sources
 - pkg:maven/io.github.farhad9577/exact-logger@3.0.7?classifier=sources
 - pkg:maven/io.github.farhad9577/exact-logger@3.0.9?classifier=sources
+- pkg:maven/io.github.farhad9577/exact-logger@9.0.2?classifier=sources
+- pkg:maven/io.github.farhad9577/exact-logger@9.0.4?classifier=sources

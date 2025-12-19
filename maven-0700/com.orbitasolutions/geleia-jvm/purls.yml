@@ -6,3 +6,5 @@
 - pkg:maven/com.orbitasolutions/geleia-jvm@0.2.1?classifier=sources
 - pkg:maven/com.orbitasolutions/geleia-jvm@0.2.4?classifier=sources
 - pkg:maven/com.orbitasolutions/geleia-jvm@0.2.5?classifier=sources
+- pkg:maven/com.orbitasolutions/geleia-jvm@0.2.8?classifier=sources
+- pkg:maven/com.orbitasolutions/geleia-jvm@0.2.9?classifier=sources

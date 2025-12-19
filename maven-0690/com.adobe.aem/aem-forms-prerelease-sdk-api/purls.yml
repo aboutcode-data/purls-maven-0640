@@ -94,3 +94,9 @@
 - pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2023.07.04.00-230601?classifier=sources
 - pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2023.07.04.00-230702
 - pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2023.07.04.00-230702?classifier=sources
+- pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2023.08.03.00-230702
+- pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2023.08.03.00-230702?classifier=sources
+- pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2023.08.03.00-230800
+- pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2023.08.03.00-230800?classifier=sources
+- pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2023.09.04.00-230800
+- pkg:maven/com.adobe.aem/aem-forms-prerelease-sdk-api@2023.09.04.00-230800?classifier=sources

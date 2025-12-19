@@ -28,6 +28,8 @@
 - pkg:maven/com.heanbian/heanbian-crypto@14.1
 - pkg:maven/com.heanbian/heanbian-crypto@14.1?classifier=sources
 - pkg:maven/com.heanbian/heanbian-crypto@14?classifier=sources
+- pkg:maven/com.heanbian/heanbian-crypto@15.1
+- pkg:maven/com.heanbian/heanbian-crypto@15.1?classifier=sources
 - pkg:maven/com.heanbian/heanbian-crypto@2.0.0
 - pkg:maven/com.heanbian/heanbian-crypto@2.0.0?classifier=sources
 - pkg:maven/com.heanbian/heanbian-crypto@20200807

@@ -68,3 +68,7 @@
 - pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@301?classifier=sources
 - pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@302
 - pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@302?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@303
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@303?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@304
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@304?classifier=sources

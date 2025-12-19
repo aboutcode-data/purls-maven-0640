@@ -1,0 +1,2 @@
+- pkg:maven/com.palantir.guava-compatibility-agent/guava-compatibility-agent@0.1.0?classifier=sources
+- pkg:maven/com.palantir.guava-compatibility-agent/guava-compatibility-agent@0.2.0?classifier=sources

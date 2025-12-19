@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.karaf.examples/karaf-log-appender-example-core@4.4.2?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-log-appender-example-core@4.4.3
 - pkg:maven/org.apache.karaf.examples/karaf-log-appender-example-core@4.4.3?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-log-appender-example-core@4.4.4
+- pkg:maven/org.apache.karaf.examples/karaf-log-appender-example-core@4.4.4?classifier=sources

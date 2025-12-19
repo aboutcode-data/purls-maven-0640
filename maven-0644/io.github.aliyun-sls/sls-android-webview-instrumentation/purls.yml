@@ -1,1 +1,2 @@
 - pkg:maven/io.github.aliyun-sls/sls-android-webview-instrumentation@1.0.0?classifier=sources
+- pkg:maven/io.github.aliyun-sls/sls-android-webview-instrumentation@1.1.0?classifier=sources

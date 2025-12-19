@@ -1,0 +1,6 @@
+- pkg:maven/io.github.molarmanful/_3@0.1.10
+- pkg:maven/io.github.molarmanful/_3@0.1.10?classifier=sources
+- pkg:maven/io.github.molarmanful/_3@0.1.11
+- pkg:maven/io.github.molarmanful/_3@0.1.11-0
+- pkg:maven/io.github.molarmanful/_3@0.1.11-0?classifier=sources
+- pkg:maven/io.github.molarmanful/_3@0.1.11?classifier=sources

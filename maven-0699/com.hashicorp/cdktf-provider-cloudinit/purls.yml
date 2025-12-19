@@ -1238,3 +1238,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-cloudinit@6.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-cloudinit@7.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-cloudinit@7.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-cloudinit@8.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-cloudinit@8.0.0?classifier=sources

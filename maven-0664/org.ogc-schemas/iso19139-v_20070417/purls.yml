@@ -2,3 +2,5 @@
 - pkg:maven/org.ogc-schemas/iso19139-v_20070417@3.0.0?classifier=sources
 - pkg:maven/org.ogc-schemas/iso19139-v_20070417@4.0.0
 - pkg:maven/org.ogc-schemas/iso19139-v_20070417@4.0.0?classifier=sources
+- pkg:maven/org.ogc-schemas/iso19139-v_20070417@5.0.0
+- pkg:maven/org.ogc-schemas/iso19139-v_20070417@5.0.0?classifier=sources

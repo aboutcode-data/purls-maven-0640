@@ -112,6 +112,8 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.20.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.20.1
 - pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.20.1?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.20.2?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.20.3?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.7.0-Carbon
 - pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.7.0-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.7.1-Carbon

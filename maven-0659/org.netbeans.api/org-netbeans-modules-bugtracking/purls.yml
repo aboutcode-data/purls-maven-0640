@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-bugtracking@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-bugtracking@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-bugtracking@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-bugtracking@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-bugtracking@RELEASE90?classifier=sources

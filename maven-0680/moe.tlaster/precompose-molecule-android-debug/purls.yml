@@ -15,3 +15,7 @@
 - pkg:maven/moe.tlaster/precompose-molecule-android-debug@1.4.3?classifier=sources
 - pkg:maven/moe.tlaster/precompose-molecule-android-debug@1.4.4?classifier=sources
 - pkg:maven/moe.tlaster/precompose-molecule-android-debug@1.5.0-beta01?classifier=sources
+- pkg:maven/moe.tlaster/precompose-molecule-android-debug@1.5.0-beta02?classifier=sources
+- pkg:maven/moe.tlaster/precompose-molecule-android-debug@1.5.0-rc01?classifier=sources
+- pkg:maven/moe.tlaster/precompose-molecule-android-debug@1.5.0?classifier=sources
+- pkg:maven/moe.tlaster/precompose-molecule-android-debug@1.5.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.irlab.fd.maven.archetypes/spring-boot-react-archetype@1.1?classifier=sources
 - pkg:maven/org.irlab.fd.maven.archetypes/spring-boot-react-archetype@1.2?classifier=sources
 - pkg:maven/org.irlab.fd.maven.archetypes/spring-boot-react-archetype@2.0?classifier=sources
+- pkg:maven/org.irlab.fd.maven.archetypes/spring-boot-react-archetype@3.0?classifier=sources

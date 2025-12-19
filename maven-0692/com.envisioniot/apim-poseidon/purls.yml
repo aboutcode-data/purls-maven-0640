@@ -17,3 +17,4 @@
 - pkg:maven/com.envisioniot/apim-poseidon@0.1.9
 - pkg:maven/com.envisioniot/apim-poseidon@0.1.9?classifier=sources
 - pkg:maven/com.envisioniot/apim-poseidon@0.2.4?classifier=sources
+- pkg:maven/com.envisioniot/apim-poseidon@0.2.8?classifier=sources

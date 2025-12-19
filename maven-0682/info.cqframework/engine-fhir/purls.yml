@@ -5,3 +5,4 @@
 - pkg:maven/info.cqframework/engine-fhir@2.7.0?classifier=sources
 - pkg:maven/info.cqframework/engine-fhir@2.8.0?classifier=sources
 - pkg:maven/info.cqframework/engine-fhir@2.9.0?classifier=sources
+- pkg:maven/info.cqframework/engine-fhir@3.0.0?classifier=sources

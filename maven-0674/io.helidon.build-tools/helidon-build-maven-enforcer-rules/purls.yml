@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.0-M2
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.0-M2?classifier=sources

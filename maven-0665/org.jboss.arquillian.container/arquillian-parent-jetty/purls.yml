@@ -1,3 +1,4 @@
 - pkg:maven/org.jboss.arquillian.container/arquillian-parent-jetty@1.0.0.CR3?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.container/arquillian-parent-jetty@1.0.0.CR4?classifier=source-release&type=zip
 - pkg:maven/org.jboss.arquillian.container/arquillian-parent-jetty@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.arquillian.container/arquillian-parent-jetty@2.0.0.Final?classifier=source-release&type=zip

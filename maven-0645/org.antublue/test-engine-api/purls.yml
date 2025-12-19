@@ -68,3 +68,5 @@
 - pkg:maven/org.antublue/test-engine-api@6.1.0-M2
 - pkg:maven/org.antublue/test-engine-api@6.1.0-M2?classifier=sources
 - pkg:maven/org.antublue/test-engine-api@6.1.0?classifier=sources
+- pkg:maven/org.antublue/test-engine-api@6.1.1
+- pkg:maven/org.antublue/test-engine-api@6.1.1?classifier=sources

@@ -66,6 +66,7 @@
 - pkg:maven/org.apache.struts/struts2-parent@2.5.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@2.5.30?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@2.5.31?classifier=source-release&type=zip
+- pkg:maven/org.apache.struts/struts2-parent@2.5.32?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@2.5.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@2.5.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@2.5?classifier=source-release&type=zip
@@ -73,5 +74,8 @@
 - pkg:maven/org.apache.struts/struts2-parent@6.0.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@6.1.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@6.1.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.struts/struts2-parent@6.1.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@6.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts2-parent@6.2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.struts/struts2-parent@6.3.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.struts/struts2-parent@6.3.0?classifier=source-release&type=zip

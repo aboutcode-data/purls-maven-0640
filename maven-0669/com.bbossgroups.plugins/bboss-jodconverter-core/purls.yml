@@ -139,3 +139,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-jodconverter-core@6.1.8?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-jodconverter-core@6.1.9?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-jodconverter-core@6.2.0?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-jodconverter-core@6.2.1?classifier=sources

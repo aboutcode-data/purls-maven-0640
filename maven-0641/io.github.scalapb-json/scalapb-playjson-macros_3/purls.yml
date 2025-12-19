@@ -1,0 +1,2 @@
+- pkg:maven/io.github.scalapb-json/scalapb-playjson-macros_3@0.17.0
+- pkg:maven/io.github.scalapb-json/scalapb-playjson-macros_3@0.17.0?classifier=sources

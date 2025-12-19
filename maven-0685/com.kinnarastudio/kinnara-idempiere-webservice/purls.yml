@@ -1,0 +1,2 @@
+- pkg:maven/com.kinnarastudio/kinnara-idempiere-webservice@0.1.0
+- pkg:maven/com.kinnarastudio/kinnara-idempiere-webservice@0.1.0?classifier=sources

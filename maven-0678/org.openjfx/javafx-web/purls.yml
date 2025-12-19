@@ -188,6 +188,10 @@
 - pkg:maven/org.openjfx/javafx-web@17.0.8-ea%2B1
 - pkg:maven/org.openjfx/javafx-web@17.0.8-ea%2B1?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@17.0.8?classifier=sources
+- pkg:maven/org.openjfx/javafx-web@17.0.9-ea%2B2
+- pkg:maven/org.openjfx/javafx-web@17.0.9-ea%2B2?classifier=sources
+- pkg:maven/org.openjfx/javafx-web@17.0.9-ea%2B3
+- pkg:maven/org.openjfx/javafx-web@17.0.9-ea%2B3?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@17?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@18
 - pkg:maven/org.openjfx/javafx-web@18-ea%2B1
@@ -271,6 +275,7 @@
 - pkg:maven/org.openjfx/javafx-web@20.0.2
 - pkg:maven/org.openjfx/javafx-web@20.0.2?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@20?classifier=sources
+- pkg:maven/org.openjfx/javafx-web@21
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B17
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B17?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B21
@@ -279,5 +284,8 @@
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B23?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B24
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B24?classifier=sources
+- pkg:maven/org.openjfx/javafx-web@21-ea%2B31
+- pkg:maven/org.openjfx/javafx-web@21-ea%2B31?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B5
 - pkg:maven/org.openjfx/javafx-web@21-ea%2B5?classifier=sources
+- pkg:maven/org.openjfx/javafx-web@21?classifier=sources

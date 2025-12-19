@@ -1,0 +1,10 @@
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.1
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.1?classifier=sources
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.2
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.2?classifier=sources
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.3-nospring
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.3-nospring?classifier=sources
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.4
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.4-nospring
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.4-nospring?classifier=sources
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.4?classifier=sources

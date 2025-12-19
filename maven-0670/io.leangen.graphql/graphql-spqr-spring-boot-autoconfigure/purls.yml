@@ -12,5 +12,7 @@
 - pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-autoconfigure@0.0.6?classifier=sources
 - pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-autoconfigure@0.0.7
 - pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-autoconfigure@0.0.7?classifier=sources
+- pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-autoconfigure@0.0.8
+- pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-autoconfigure@0.0.8?classifier=sources
 - pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-autoconfigure@1.0.0
 - pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-autoconfigure@1.0.0?classifier=sources

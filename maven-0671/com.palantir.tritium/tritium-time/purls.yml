@@ -14,3 +14,6 @@
 - pkg:maven/com.palantir.tritium/tritium-time@0.70.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-time@0.71.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-time@0.72.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-time@0.73.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-time@0.74.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-time@0.75.0?classifier=sources

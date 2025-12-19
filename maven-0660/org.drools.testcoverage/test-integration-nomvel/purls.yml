@@ -48,4 +48,8 @@
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.40.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.41.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.42.0.Final
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.43.0.Final
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.44.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@9.42.0.Alpha
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@9.43.0.Alpha
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@9.44.0.Final
