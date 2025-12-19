@@ -20,6 +20,7 @@
 - pkg:maven/com.prof18.rssparser/rssparser@5.0.2?classifier=sources
 - pkg:maven/com.prof18.rssparser/rssparser@5.0.3?classifier=sources
 - pkg:maven/com.prof18.rssparser/rssparser@6.0.0-alpha01?classifier=sources
+- pkg:maven/com.prof18.rssparser/rssparser@6.0.0-alpha02?classifier=sources
 - pkg:maven/com.prof18.rssparser/rssparser@6.0.0-dev01?classifier=sources
 - pkg:maven/com.prof18.rssparser/rssparser@6.0.0-dev02?classifier=sources
 - pkg:maven/com.prof18.rssparser/rssparser@6.0.0-dev03?classifier=sources

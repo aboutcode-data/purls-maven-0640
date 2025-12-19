@@ -124,3 +124,4 @@
 - pkg:maven/com.github.bibsysdev/json@1.30.2?classifier=sources
 - pkg:maven/com.github.bibsysdev/json@1.30.3?classifier=sources
 - pkg:maven/com.github.bibsysdev/json@1.30.4?classifier=sources
+- pkg:maven/com.github.bibsysdev/json@1.30.5?classifier=sources

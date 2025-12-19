@@ -1,0 +1,2 @@
+- pkg:maven/aws.smithy.kotlin/telemetry-api@0.23.0?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-api@0.24.0?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.services@31.0.9?classifier=sources
 - pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.services@32.0.0
 - pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.services@32.0.0?classifier=sources
+- pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.services@32.0.1
+- pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.services@32.0.1?classifier=sources
+- pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.services@32.0.2
+- pkg:maven/org.opennms.core.test-api/org.opennms.core.test-api.services@32.0.2?classifier=sources

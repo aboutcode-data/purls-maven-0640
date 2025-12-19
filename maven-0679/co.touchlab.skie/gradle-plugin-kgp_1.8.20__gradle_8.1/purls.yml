@@ -1,0 +1,3 @@
+- pkg:maven/co.touchlab.skie/gradle-plugin-kgp_1.8.20__gradle_8.1@0.4.13?classifier=sources
+- pkg:maven/co.touchlab.skie/gradle-plugin-kgp_1.8.20__gradle_8.1@0.4.14?classifier=sources
+- pkg:maven/co.touchlab.skie/gradle-plugin-kgp_1.8.20__gradle_8.1@0.4.15-preview?classifier=sources

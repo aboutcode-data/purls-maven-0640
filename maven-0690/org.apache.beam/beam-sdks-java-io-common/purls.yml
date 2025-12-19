@@ -61,6 +61,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-common@2.45.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-common@2.47.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-common@2.48.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-common@2.49.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-common@2.5.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-common@2.6.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-common@2.6.0?classifier=sources

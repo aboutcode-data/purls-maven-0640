@@ -54,6 +54,8 @@
 - pkg:maven/com.liferay/com.liferay.trash.taglib@3.0.10
 - pkg:maven/com.liferay/com.liferay.trash.taglib@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@3.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.taglib@3.0.11
+- pkg:maven/com.liferay/com.liferay.trash.taglib@3.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.trash.taglib@3.0.2
@@ -96,6 +98,8 @@
 - pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.13
 - pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.14
+- pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.trash.taglib@4.0.2
@@ -135,6 +139,8 @@
 - pkg:maven/com.liferay/com.liferay.trash.taglib@5.0.12
 - pkg:maven/com.liferay/com.liferay.trash.taglib@5.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@5.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.taglib@5.0.13
+- pkg:maven/com.liferay/com.liferay.trash.taglib@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.trash.taglib@5.0.2
@@ -201,6 +207,8 @@
 - pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.20
 - pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.21
+- pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.3

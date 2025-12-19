@@ -91,6 +91,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@17.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@17.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@17.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@17.0.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@17.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@2.0.0?classifier=sources-commercial
@@ -208,6 +210,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@4.4.4
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@4.4.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@4.4.4?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@4.5.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@4.5.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@4.5.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@4.5.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@4.5.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.0.0?classifier=sources-commercial
@@ -226,6 +233,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.1.4
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.1.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.1.4?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.2.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.2.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.2.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@5.2.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@7.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@7.0.0?classifier=sources-commercial
@@ -283,6 +295,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@7.7.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@7.7.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@7.7.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@7.7.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@7.7.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@8.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@8.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.discount.api@8.0.0?classifier=sources-commercial

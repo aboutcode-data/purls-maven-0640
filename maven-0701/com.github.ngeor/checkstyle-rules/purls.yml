@@ -86,8 +86,10 @@
 - pkg:maven/com.github.ngeor/checkstyle-rules@6.4.3?classifier=sources
 - pkg:maven/com.github.ngeor/checkstyle-rules@6.4.6
 - pkg:maven/com.github.ngeor/checkstyle-rules@6.4.6?classifier=sources
+- pkg:maven/com.github.ngeor/checkstyle-rules@6.5.0
 - pkg:maven/com.github.ngeor/checkstyle-rules@6.5.0-27
 - pkg:maven/com.github.ngeor/checkstyle-rules@6.5.0-27?classifier=sources
+- pkg:maven/com.github.ngeor/checkstyle-rules@6.5.0?classifier=sources
 - pkg:maven/com.github.ngeor/checkstyle-rules@6.6.0-28
 - pkg:maven/com.github.ngeor/checkstyle-rules@6.6.0-28?classifier=sources
 - pkg:maven/com.github.ngeor/checkstyle-rules@6.6.0-29

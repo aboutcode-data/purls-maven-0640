@@ -1,0 +1,2 @@
+- pkg:maven/org.fugerit.java/fj-doc-mod-openpdf@0.1.0-rc.001
+- pkg:maven/org.fugerit.java/fj-doc-mod-openpdf@0.1.0-rc.001?classifier=sources

@@ -50,6 +50,8 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@3.23.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@3.24.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@3.24.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@3.25.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@3.25.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.0.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.0.0.RC1
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.0.0.RC1?classifier=sources
@@ -84,3 +86,7 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.6.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.7.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.7.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.8.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.8.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.9.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-jackson@4.9.0?classifier=sources

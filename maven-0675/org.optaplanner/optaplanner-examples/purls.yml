@@ -368,6 +368,10 @@
 - pkg:maven/org.optaplanner/optaplanner-examples@8.4.1.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-examples@8.40.0.Final
 - pkg:maven/org.optaplanner/optaplanner-examples@8.40.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-examples@8.41.0.Final
+- pkg:maven/org.optaplanner/optaplanner-examples@8.41.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-examples@8.42.0.Final
+- pkg:maven/org.optaplanner/optaplanner-examples@8.42.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-examples@8.5.0.Final
 - pkg:maven/org.optaplanner/optaplanner-examples@8.5.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-examples@8.6.0.Final
@@ -392,3 +396,7 @@
 - pkg:maven/org.optaplanner/optaplanner-examples@9.38.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-examples@9.40.0.Final
 - pkg:maven/org.optaplanner/optaplanner-examples@9.40.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-examples@9.41.0.Final
+- pkg:maven/org.optaplanner/optaplanner-examples@9.41.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-examples@9.42.0.Final
+- pkg:maven/org.optaplanner/optaplanner-examples@9.42.0.Final?classifier=sources

@@ -1084,3 +1084,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-kubernetes@6.0.4?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-kubernetes@7.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-kubernetes@7.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-kubernetes@8.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-kubernetes@8.0.0?classifier=sources

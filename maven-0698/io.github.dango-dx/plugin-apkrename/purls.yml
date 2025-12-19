@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dango-dx/plugin-apkrename@1.0.0?classifier=sources
+- pkg:maven/io.github.dango-dx/plugin-apkrename@1.0.1?classifier=sources

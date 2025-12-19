@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/utif2@4.1.0
+- pkg:maven/org.webjars.npm/utif2@4.1.0?classifier=sources

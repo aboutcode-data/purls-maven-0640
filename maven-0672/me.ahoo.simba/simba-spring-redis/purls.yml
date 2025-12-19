@@ -11,3 +11,5 @@
 - pkg:maven/me.ahoo.simba/simba-spring-redis@0.6.6?classifier=sources
 - pkg:maven/me.ahoo.simba/simba-spring-redis@2.0.0?classifier=sources
 - pkg:maven/me.ahoo.simba/simba-spring-redis@2.0.2?classifier=sources
+- pkg:maven/me.ahoo.simba/simba-spring-redis@2.0.3?classifier=sources
+- pkg:maven/me.ahoo.simba/simba-spring-redis@2.0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.tvd12/ezymq-mosquitto@1.2.5
+- pkg:maven/com.tvd12/ezymq-mosquitto@1.2.5?classifier=sources

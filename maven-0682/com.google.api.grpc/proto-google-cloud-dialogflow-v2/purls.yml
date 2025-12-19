@@ -252,6 +252,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.25.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.26.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.26.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.27.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.27.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.28.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.28.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.3.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dialogflow-v2@4.3.1

@@ -1,1 +1,2 @@
 - pkg:maven/net.wensel/cascading-hadoop3-common@4.5.0?classifier=sources
+- pkg:maven/net.wensel/cascading-hadoop3-common@4.5.1?classifier=sources

@@ -6,3 +6,12 @@
 - pkg:maven/org.http4k/http4k-format-kondor-json@5.1.2.1?classifier=sources
 - pkg:maven/org.http4k/http4k-format-kondor-json@5.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-format-kondor-json@5.2.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kondor-json@5.3.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kondor-json@5.4.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kondor-json@5.4.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kondor-json@5.5.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kondor-json@5.6.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kondor-json@5.6.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kondor-json@5.6.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kondor-json@5.6.2.1?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kondor-json@5.6.3.0?classifier=sources

@@ -120,6 +120,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.20.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.20.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.21.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.21.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.22.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.22.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.3.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-secretmanager-v1beta1@2.3.1

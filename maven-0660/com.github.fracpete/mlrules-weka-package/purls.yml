@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fracpete/mlrules-weka-package@2023.7.26
+- pkg:maven/com.github.fracpete/mlrules-weka-package@2023.7.26?classifier=sources

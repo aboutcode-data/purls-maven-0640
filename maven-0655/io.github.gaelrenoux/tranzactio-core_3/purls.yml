@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gaelrenoux/tranzactio-core_3@5.0.1
+- pkg:maven/io.github.gaelrenoux/tranzactio-core_3@5.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.carelesscoyotes.remotedata/remotedata-compose@0.1?classifier=sources
+- pkg:maven/com.carelesscoyotes.remotedata/remotedata-compose@0.2?classifier=sources

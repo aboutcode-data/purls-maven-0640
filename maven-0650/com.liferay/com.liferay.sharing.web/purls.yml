@@ -209,6 +209,11 @@
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.72
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.72?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.web@1.0.73
+- pkg:maven/com.liferay/com.liferay.sharing.web@1.0.73?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.web@1.0.73?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.web@1.0.74
+- pkg:maven/com.liferay/com.liferay.sharing.web@1.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.8
@@ -395,6 +400,11 @@
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.62
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.62?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.web@2.0.63
+- pkg:maven/com.liferay/com.liferay.sharing.web@2.0.63?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.web@2.0.63?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.web@2.0.64
+- pkg:maven/com.liferay/com.liferay.sharing.web@2.0.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.7
@@ -542,6 +552,11 @@
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.5
+- pkg:maven/com.liferay/com.liferay.sharing.web@3.0.50
+- pkg:maven/com.liferay/com.liferay.sharing.web@3.0.50?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.web@3.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharing.web@3.0.51
+- pkg:maven/com.liferay/com.liferay.sharing.web@3.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.6

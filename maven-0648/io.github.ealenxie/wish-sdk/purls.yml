@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ealenxie/wish-sdk@2023-07-20
+- pkg:maven/io.github.ealenxie/wish-sdk@2023-07-20?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/com.igaworks.offerwall/AdPopcornOfferwall@8.1.2?classifier=sources
 - pkg:maven/com.igaworks.offerwall/AdPopcornOfferwall@8.1.3?classifier=sources
 - pkg:maven/com.igaworks.offerwall/AdPopcornOfferwall@8.1.4?classifier=sources
+- pkg:maven/com.igaworks.offerwall/AdPopcornOfferwall@8.1.5?classifier=sources

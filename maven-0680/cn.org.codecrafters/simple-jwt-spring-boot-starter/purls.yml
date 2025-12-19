@@ -1,0 +1,2 @@
+- pkg:maven/cn.org.codecrafters/simple-jwt-spring-boot-starter@1.0.0-alpha
+- pkg:maven/cn.org.codecrafters/simple-jwt-spring-boot-starter@1.0.0-alpha?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/fetch-mock@5.9.4
 - pkg:maven/org.webjars.npm/fetch-mock@5.9.4?classifier=sources
+- pkg:maven/org.webjars.npm/fetch-mock@9.0.0-beta.2
+- pkg:maven/org.webjars.npm/fetch-mock@9.0.0-beta.2?classifier=sources

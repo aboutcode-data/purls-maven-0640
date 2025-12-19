@@ -47,4 +47,11 @@
 - pkg:maven/com.pulumi/linode@4.3.0?classifier=sources
 - pkg:maven/com.pulumi/linode@4.4.0-alpha.1687557732%2Be4f42e5d?classifier=sources
 - pkg:maven/com.pulumi/linode@4.4.0?classifier=sources
+- pkg:maven/com.pulumi/linode@4.4.1?classifier=sources
+- pkg:maven/com.pulumi/linode@4.4.2?classifier=sources
 - pkg:maven/com.pulumi/linode@4.5.0-alpha.1687671694%2Bb0c807b9?classifier=sources
+- pkg:maven/com.pulumi/linode@4.5.0-alpha.1689096135%2B5dbf35d7?classifier=sources
+- pkg:maven/com.pulumi/linode@4.5.0-alpha.1689313367%2Bfacd4935?classifier=sources
+- pkg:maven/com.pulumi/linode@4.5.0-alpha.1689801050%2B3efa4048?classifier=sources
+- pkg:maven/com.pulumi/linode@4.5.0-alpha.1690263346%2Ba860189d?classifier=sources
+- pkg:maven/com.pulumi/linode@4.5.0-alpha.1691041624%2B1fe3dffb?classifier=sources

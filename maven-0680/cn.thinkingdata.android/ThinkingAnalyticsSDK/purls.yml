@@ -60,6 +60,8 @@
 - pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@2.8.4-beta.2?type=aar
 - pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@2.8.4-ks?classifier=sources
 - pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@2.8.4-ks?type=aar
+- pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@2.8.4?classifier=sources
+- pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@2.8.4?type=aar
 - pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@ks_2.8.1.7?classifier=sources
 - pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@ks_2.8.1.7?type=aar
 - pkg:maven/cn.thinkingdata.android/ThinkingAnalyticsSDK@ks_2.8.1?classifier=sources

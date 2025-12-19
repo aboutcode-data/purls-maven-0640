@@ -204,12 +204,16 @@
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.27.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.28.0
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.28.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-securitycenter@2.29.0
+- pkg:maven/com.google.cloud/google-cloud-securitycenter@2.29.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.3.0
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.3.1
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.3.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.3.2
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.3.2?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-securitycenter@2.30.0
+- pkg:maven/com.google.cloud/google-cloud-securitycenter@2.30.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.5.0

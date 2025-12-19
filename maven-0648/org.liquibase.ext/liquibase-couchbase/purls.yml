@@ -2,3 +2,5 @@
 - pkg:maven/org.liquibase.ext/liquibase-couchbase@0.1.0-ER?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-couchbase@0.1.1-ER
 - pkg:maven/org.liquibase.ext/liquibase-couchbase@0.1.1-ER?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-couchbase@0.1.2-ER
+- pkg:maven/org.liquibase.ext/liquibase-couchbase@0.1.2-ER?classifier=sources

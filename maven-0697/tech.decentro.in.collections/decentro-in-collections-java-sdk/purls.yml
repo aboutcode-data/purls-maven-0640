@@ -12,3 +12,5 @@
 - pkg:maven/tech.decentro.in.collections/decentro-in-collections-java-sdk@1.5.0?classifier=sources
 - pkg:maven/tech.decentro.in.collections/decentro-in-collections-java-sdk@1.6.0
 - pkg:maven/tech.decentro.in.collections/decentro-in-collections-java-sdk@1.6.0?classifier=sources
+- pkg:maven/tech.decentro.in.collections/decentro-in-collections-java-sdk@2.1.0
+- pkg:maven/tech.decentro.in.collections/decentro-in-collections-java-sdk@2.1.0?classifier=sources

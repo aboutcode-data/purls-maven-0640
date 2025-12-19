@@ -1,0 +1,2 @@
+- pkg:maven/org.planet42/laika-sbt_2.12_1.0@0.19.3
+- pkg:maven/org.planet42/laika-sbt_2.12_1.0@0.19.3?classifier=sources

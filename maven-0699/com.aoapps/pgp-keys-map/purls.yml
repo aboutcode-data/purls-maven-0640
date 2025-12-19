@@ -28,3 +28,5 @@
 - pkg:maven/com.aoapps/pgp-keys-map@1.7.0?classifier=sources
 - pkg:maven/com.aoapps/pgp-keys-map@1.8.0
 - pkg:maven/com.aoapps/pgp-keys-map@1.8.0?classifier=sources
+- pkg:maven/com.aoapps/pgp-keys-map@1.9.0
+- pkg:maven/com.aoapps/pgp-keys-map@1.9.0?classifier=sources

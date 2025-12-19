@@ -82,3 +82,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-activemq-deployment@2.8.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-activemq-deployment@2.9.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-activemq-deployment@2.9.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-activemq-deployment@3.0.0-RC2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-activemq-deployment@3.0.0-RC2?classifier=sources

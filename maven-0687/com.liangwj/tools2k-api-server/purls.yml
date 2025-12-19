@@ -10,3 +10,5 @@
 - pkg:maven/com.liangwj/tools2k-api-server@3.1.v1?classifier=sources
 - pkg:maven/com.liangwj/tools2k-api-server@3.1.v2
 - pkg:maven/com.liangwj/tools2k-api-server@3.1.v2?classifier=sources
+- pkg:maven/com.liangwj/tools2k-api-server@3.1.v3
+- pkg:maven/com.liangwj/tools2k-api-server@3.1.v3?classifier=sources

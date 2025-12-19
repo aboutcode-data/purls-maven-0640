@@ -46,3 +46,5 @@
 - pkg:maven/org.elasticsearch.test/yaml-rest-runner@8.8.1?classifier=sources
 - pkg:maven/org.elasticsearch.test/yaml-rest-runner@8.8.2
 - pkg:maven/org.elasticsearch.test/yaml-rest-runner@8.8.2?classifier=sources
+- pkg:maven/org.elasticsearch.test/yaml-rest-runner@8.9.0
+- pkg:maven/org.elasticsearch.test/yaml-rest-runner@8.9.0?classifier=sources

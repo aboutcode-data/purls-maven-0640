@@ -126,6 +126,9 @@
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@2.0.48
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@2.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@2.0.48?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@2.0.49
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@2.0.49?classifier=sources
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@2.0.49?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@2.0.5
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@2.0.5?classifier=sources
@@ -186,6 +189,11 @@
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.23
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.24
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.25
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@3.0.3
@@ -294,6 +302,11 @@
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.34
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.35
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.36
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@4.0.4
@@ -378,6 +391,8 @@
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@5.0.28
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@5.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@5.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@5.0.29
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@5.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@5.0.3
@@ -471,6 +486,8 @@
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@6.0.3
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@6.0.30
+- pkg:maven/com.liferay/com.liferay.nested.portlets.web@6.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.nested.portlets.web@6.0.4

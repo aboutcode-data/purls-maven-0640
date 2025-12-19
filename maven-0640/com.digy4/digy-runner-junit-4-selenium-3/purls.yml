@@ -50,3 +50,5 @@
 - pkg:maven/com.digy4/digy-runner-junit-4-selenium-3@0.0.77?classifier=sources
 - pkg:maven/com.digy4/digy-runner-junit-4-selenium-3@0.0.78
 - pkg:maven/com.digy4/digy-runner-junit-4-selenium-3@0.0.78?classifier=sources
+- pkg:maven/com.digy4/digy-runner-junit-4-selenium-3@0.0.79
+- pkg:maven/com.digy4/digy-runner-junit-4-selenium-3@0.0.79?classifier=sources

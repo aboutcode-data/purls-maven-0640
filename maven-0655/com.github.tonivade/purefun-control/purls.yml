@@ -8,3 +8,4 @@
 - pkg:maven/com.github.tonivade/purefun-control@2.2?classifier=sources
 - pkg:maven/com.github.tonivade/purefun-control@3.0?classifier=sources
 - pkg:maven/com.github.tonivade/purefun-control@4.0?classifier=sources
+- pkg:maven/com.github.tonivade/purefun-control@4.1?classifier=sources

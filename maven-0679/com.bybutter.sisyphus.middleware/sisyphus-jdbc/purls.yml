@@ -91,3 +91,6 @@
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-jdbc@1.7.13?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-jdbc@1.7.14?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-jdbc@1.7.15?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-jdbc@1.7.20?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-jdbc@1.7.21?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-jdbc@2.0.0?classifier=sources

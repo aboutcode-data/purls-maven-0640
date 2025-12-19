@@ -1,0 +1,2 @@
+- pkg:maven/org.jeecgframework.nacos/nacos-encryption-plugin@2.2.3
+- pkg:maven/org.jeecgframework.nacos/nacos-encryption-plugin@2.2.3?classifier=sources

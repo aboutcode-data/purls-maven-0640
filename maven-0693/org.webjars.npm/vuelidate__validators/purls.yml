@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/vuelidate__validators@2.0.0-alpha.30?classifier=sources
 - pkg:maven/org.webjars.npm/vuelidate__validators@2.0.0-alpha.31
 - pkg:maven/org.webjars.npm/vuelidate__validators@2.0.0-alpha.31?classifier=sources
+- pkg:maven/org.webjars.npm/vuelidate__validators@2.0.2
+- pkg:maven/org.webjars.npm/vuelidate__validators@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/vuelidate__validators@2.0.3
+- pkg:maven/org.webjars.npm/vuelidate__validators@2.0.3?classifier=sources

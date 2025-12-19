@@ -86,3 +86,5 @@
 - pkg:maven/com.taobao.arthas/arthas-tunnel-client@3.6.8?classifier=sources
 - pkg:maven/com.taobao.arthas/arthas-tunnel-client@3.6.9
 - pkg:maven/com.taobao.arthas/arthas-tunnel-client@3.6.9?classifier=sources
+- pkg:maven/com.taobao.arthas/arthas-tunnel-client@3.7.0
+- pkg:maven/com.taobao.arthas/arthas-tunnel-client@3.7.0?classifier=sources

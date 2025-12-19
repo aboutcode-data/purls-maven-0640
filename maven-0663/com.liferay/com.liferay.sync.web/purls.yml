@@ -152,6 +152,9 @@
 - pkg:maven/com.liferay/com.liferay.sync.web@1.0.57
 - pkg:maven/com.liferay/com.liferay.sync.web@1.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@1.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@1.0.58
+- pkg:maven/com.liferay/com.liferay.sync.web@1.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.web@1.0.58?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@1.0.6
 - pkg:maven/com.liferay/com.liferay.sync.web@1.0.6?classifier=sources
@@ -270,6 +273,11 @@
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.42
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@2.0.43
+- pkg:maven/com.liferay/com.liferay.sync.web@2.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.web@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@2.0.44
+- pkg:maven/com.liferay/com.liferay.sync.web@2.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@2.0.5
@@ -378,6 +386,11 @@
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.36
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@3.0.37
+- pkg:maven/com.liferay/com.liferay.sync.web@3.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sync.web@3.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@3.0.38
+- pkg:maven/com.liferay/com.liferay.sync.web@3.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@3.0.4
@@ -495,6 +508,8 @@
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.38
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sync.web@4.0.39
+- pkg:maven/com.liferay/com.liferay.sync.web@4.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sync.web@4.0.4

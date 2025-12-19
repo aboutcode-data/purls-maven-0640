@@ -26,3 +26,5 @@
 - pkg:maven/org.cojen/cojen-maker@2.4.7?classifier=sources
 - pkg:maven/org.cojen/cojen-maker@2.4.8
 - pkg:maven/org.cojen/cojen-maker@2.4.8?classifier=sources
+- pkg:maven/org.cojen/cojen-maker@2.5.0
+- pkg:maven/org.cojen/cojen-maker@2.5.0?classifier=sources

@@ -138,5 +138,7 @@
 - pkg:maven/org.talend.sdk.component/vault-client@1.57.2?classifier=sources
 - pkg:maven/org.talend.sdk.component/vault-client@1.58.0
 - pkg:maven/org.talend.sdk.component/vault-client@1.58.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/vault-client@1.59.0
+- pkg:maven/org.talend.sdk.component/vault-client@1.59.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/vault-client@10.57.0
 - pkg:maven/org.talend.sdk.component/vault-client@10.57.0?classifier=sources

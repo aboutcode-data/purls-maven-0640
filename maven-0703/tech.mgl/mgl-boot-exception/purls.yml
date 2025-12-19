@@ -1,1 +1,2 @@
 - pkg:maven/tech.mgl/mgl-boot-exception@3.0.1?classifier=sources
+- pkg:maven/tech.mgl/mgl-boot-exception@3.1.2?classifier=sources

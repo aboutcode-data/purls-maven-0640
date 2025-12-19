@@ -1,3 +1,4 @@
 - pkg:maven/com.xtdb/xtdb-replicator@1.23.1
 - pkg:maven/com.xtdb/xtdb-replicator@1.23.2
 - pkg:maven/com.xtdb/xtdb-replicator@1.23.3
+- pkg:maven/com.xtdb/xtdb-replicator@1.24.0

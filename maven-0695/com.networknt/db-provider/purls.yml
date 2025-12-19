@@ -22,3 +22,5 @@
 - pkg:maven/com.networknt/db-provider@2.1.21?classifier=sources
 - pkg:maven/com.networknt/db-provider@2.1.22
 - pkg:maven/com.networknt/db-provider@2.1.22?classifier=sources
+- pkg:maven/com.networknt/db-provider@2.1.23
+- pkg:maven/com.networknt/db-provider@2.1.23?classifier=sources

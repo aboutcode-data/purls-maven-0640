@@ -10,3 +10,5 @@
 - pkg:maven/io.github.yuanrui-mdt-info/lib_config_cf@1.1.0?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/lib_config_cf@1.1.1?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/lib_config_cf@1.1.2?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/lib_config_cf@1.2.0?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/lib_config_cf@1.2.1?type=aar

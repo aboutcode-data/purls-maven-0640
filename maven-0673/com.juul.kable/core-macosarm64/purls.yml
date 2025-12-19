@@ -13,3 +13,5 @@
 - pkg:maven/com.juul.kable/core-macosarm64@0.22.0?classifier=sources
 - pkg:maven/com.juul.kable/core-macosarm64@0.23.0?classifier=sources
 - pkg:maven/com.juul.kable/core-macosarm64@0.24.0?classifier=sources
+- pkg:maven/com.juul.kable/core-macosarm64@0.25.0?classifier=sources
+- pkg:maven/com.juul.kable/core-macosarm64@0.25.1?classifier=sources

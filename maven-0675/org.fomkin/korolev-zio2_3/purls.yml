@@ -30,3 +30,5 @@
 - pkg:maven/org.fomkin/korolev-zio2_3@1.6.0-M5.2
 - pkg:maven/org.fomkin/korolev-zio2_3@1.6.0-M5.2?classifier=sources
 - pkg:maven/org.fomkin/korolev-zio2_3@1.6.0-M5?classifier=sources
+- pkg:maven/org.fomkin/korolev-zio2_3@1.6.0-M6
+- pkg:maven/org.fomkin/korolev-zio2_3@1.6.0-M6?classifier=sources

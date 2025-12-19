@@ -1,2 +1,4 @@
 - pkg:maven/tech.msop/ms-sentinel-starter@0.2.5.RELEASE
 - pkg:maven/tech.msop/ms-sentinel-starter@0.2.5.RELEASE?classifier=sources
+- pkg:maven/tech.msop/ms-sentinel-starter@0.2.6.RELEASE
+- pkg:maven/tech.msop/ms-sentinel-starter@0.2.6.RELEASE?classifier=sources

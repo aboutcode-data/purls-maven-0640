@@ -1,0 +1,2 @@
+- pkg:maven/cn.bigmodel.openapi/oapi-java-sdk@1.0.0
+- pkg:maven/cn.bigmodel.openapi/oapi-java-sdk@1.0.0?classifier=sources

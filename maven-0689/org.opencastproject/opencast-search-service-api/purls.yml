@@ -53,6 +53,10 @@
 - pkg:maven/org.opencastproject/opencast-search-service-api@12.1
 - pkg:maven/org.opencastproject/opencast-search-service-api@12.11
 - pkg:maven/org.opencastproject/opencast-search-service-api@12.11?classifier=sources
+- pkg:maven/org.opencastproject/opencast-search-service-api@12.12
+- pkg:maven/org.opencastproject/opencast-search-service-api@12.12?classifier=sources
+- pkg:maven/org.opencastproject/opencast-search-service-api@12.13
+- pkg:maven/org.opencastproject/opencast-search-service-api@12.13?classifier=sources
 - pkg:maven/org.opencastproject/opencast-search-service-api@12.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-search-service-api@12.2
 - pkg:maven/org.opencastproject/opencast-search-service-api@12.2?classifier=sources
@@ -80,8 +84,14 @@
 - pkg:maven/org.opencastproject/opencast-search-service-api@13.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-search-service-api@13.7
 - pkg:maven/org.opencastproject/opencast-search-service-api@13.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-search-service-api@13.8
+- pkg:maven/org.opencastproject/opencast-search-service-api@13.8?classifier=sources
 - pkg:maven/org.opencastproject/opencast-search-service-api@14.0
 - pkg:maven/org.opencastproject/opencast-search-service-api@14.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-search-service-api@14.1
+- pkg:maven/org.opencastproject/opencast-search-service-api@14.1?classifier=sources
+- pkg:maven/org.opencastproject/opencast-search-service-api@14.2
+- pkg:maven/org.opencastproject/opencast-search-service-api@14.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-search-service-api@6.6
 - pkg:maven/org.opencastproject/opencast-search-service-api@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-search-service-api@7.2

@@ -76,3 +76,5 @@
 - pkg:maven/com.farao-community.farao/farao-crac-creator-api@4.3.0?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-crac-creator-api@4.4.0
 - pkg:maven/com.farao-community.farao/farao-crac-creator-api@4.4.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-crac-creator-api@4.4.1
+- pkg:maven/com.farao-community.farao/farao-crac-creator-api@4.4.1?classifier=sources

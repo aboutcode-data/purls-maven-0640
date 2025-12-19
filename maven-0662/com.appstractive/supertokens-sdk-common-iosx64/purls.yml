@@ -1,0 +1,2 @@
+- pkg:maven/com.appstractive/supertokens-sdk-common-iosx64@1.2.1?classifier=sources
+- pkg:maven/com.appstractive/supertokens-sdk-common-iosx64@1.2.2?classifier=sources

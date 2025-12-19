@@ -193,6 +193,10 @@
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.4
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.40
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.40?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.41
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.41?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.42
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.42?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.5
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.5?classifier=sources
@@ -204,6 +208,8 @@
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.8?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.9
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.2.9?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.3.0
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@3.3.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@4.0.0
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@4.0.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@4.0.1
@@ -216,5 +222,7 @@
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@4.0.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@4.0.5
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@4.0.5?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@4.0.6
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@4.0.6?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@v3.2.13
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-driver@v3.2.13?classifier=sources

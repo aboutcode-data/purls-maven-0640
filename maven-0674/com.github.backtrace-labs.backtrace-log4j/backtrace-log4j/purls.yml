@@ -2,3 +2,5 @@
 - pkg:maven/com.github.backtrace-labs.backtrace-log4j/backtrace-log4j@0.9.0?classifier=sources
 - pkg:maven/com.github.backtrace-labs.backtrace-log4j/backtrace-log4j@0.9.6
 - pkg:maven/com.github.backtrace-labs.backtrace-log4j/backtrace-log4j@0.9.6?classifier=sources
+- pkg:maven/com.github.backtrace-labs.backtrace-log4j/backtrace-log4j@0.9.7
+- pkg:maven/com.github.backtrace-labs.backtrace-log4j/backtrace-log4j@0.9.7?classifier=sources

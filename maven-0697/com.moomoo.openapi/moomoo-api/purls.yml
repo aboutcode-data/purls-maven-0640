@@ -1,0 +1,4 @@
+- pkg:maven/com.moomoo.openapi/moomoo-api@7.2.3407-beta-1
+- pkg:maven/com.moomoo.openapi/moomoo-api@7.2.3407-beta-1?classifier=sources
+- pkg:maven/com.moomoo.openapi/moomoo-api@7.2.3408
+- pkg:maven/com.moomoo.openapi/moomoo-api@7.2.3408?classifier=sources

@@ -51,3 +51,9 @@
 - pkg:maven/com.pulumi/auth0@2.22.0-alpha.1687670273%2Be839a463?classifier=sources
 - pkg:maven/com.pulumi/auth0@2.22.0-alpha.1687902350%2B186ac2fb?classifier=sources
 - pkg:maven/com.pulumi/auth0@2.22.0?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.23.0-alpha.1689156084%2B61c13314?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.23.0?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.24.0-alpha.1689311929%2B5ecec4f6?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.24.0-alpha.1690262264%2B0c4750b1?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.24.0-alpha.1691039990%2Bbd11757c?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.24.0-alpha.1691126738%2Bb551e789?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/com.github.lolgab/mill-snunit_mill0.10_2.13@0.7.0?classifier=sources
 - pkg:maven/com.github.lolgab/mill-snunit_mill0.10_2.13@0.7.1
 - pkg:maven/com.github.lolgab/mill-snunit_mill0.10_2.13@0.7.1?classifier=sources
+- pkg:maven/com.github.lolgab/mill-snunit_mill0.10_2.13@0.7.2
+- pkg:maven/com.github.lolgab/mill-snunit_mill0.10_2.13@0.7.2?classifier=sources
