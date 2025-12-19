@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/clouddirectory@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/clouddirectory@813.2.972.0
 - pkg:maven/com.cognitect.aws/clouddirectory@813.2.972.0?classifier=sources
+- pkg:maven/com.cognitect.aws/clouddirectory@821.2.1107.0
+- pkg:maven/com.cognitect.aws/clouddirectory@821.2.1107.0?classifier=sources

@@ -66,3 +66,11 @@
 - pkg:maven/com.sksamuel.hoplite/hoplite-json@1.4.7?classifier=sources
 - pkg:maven/com.sksamuel.hoplite/hoplite-json@1.4.8?classifier=sources
 - pkg:maven/com.sksamuel.hoplite/hoplite-json@1.4.9?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-json@2.0.0?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-json@2.0.1?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-json@2.0.2?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-json@2.0.3?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-json@2.0.4?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-json@2.1.0?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-json@2.1.1?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-json@2.1.2?classifier=sources

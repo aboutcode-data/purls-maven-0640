@@ -283,3 +283,5 @@
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.7.4.Final
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.7.5.Final
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.8.0.CR1
+- pkg:maven/io.quarkus/quarkus-vertx-web@2.8.0.Final
+- pkg:maven/io.quarkus/quarkus-vertx-web@2.8.1.Final

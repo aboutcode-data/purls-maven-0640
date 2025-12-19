@@ -6,6 +6,8 @@
 - pkg:maven/com.cinchapi/concourse-driver-java@0.10.5?classifier=sources
 - pkg:maven/com.cinchapi/concourse-driver-java@0.11.0
 - pkg:maven/com.cinchapi/concourse-driver-java@0.11.0?classifier=sources
+- pkg:maven/com.cinchapi/concourse-driver-java@0.11.2
+- pkg:maven/com.cinchapi/concourse-driver-java@0.11.2?classifier=sources
 - pkg:maven/com.cinchapi/concourse-driver-java@0.6.0
 - pkg:maven/com.cinchapi/concourse-driver-java@0.6.0?classifier=sources
 - pkg:maven/com.cinchapi/concourse-driver-java@0.7.0

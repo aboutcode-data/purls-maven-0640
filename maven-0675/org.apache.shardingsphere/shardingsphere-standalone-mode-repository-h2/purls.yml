@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere/shardingsphere-standalone-mode-repository-h2@5.1.1
+- pkg:maven/org.apache.shardingsphere/shardingsphere-standalone-mode-repository-h2@5.1.1?classifier=sources

@@ -25,3 +25,4 @@
 - pkg:maven/org.odpi.egeria/design-model-client@3.4
 - pkg:maven/org.odpi.egeria/design-model-client@3.5
 - pkg:maven/org.odpi.egeria/design-model-client@3.6
+- pkg:maven/org.odpi.egeria/design-model-client@3.7

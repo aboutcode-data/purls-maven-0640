@@ -44,3 +44,5 @@
 - pkg:maven/com.mikepenz/materialdrawer-iconics@9.0.0-a02?classifier=sources
 - pkg:maven/com.mikepenz/materialdrawer-iconics@9.0.0-a03?classifier=sources
 - pkg:maven/com.mikepenz/materialdrawer-iconics@9.0.0-b01?classifier=sources
+- pkg:maven/com.mikepenz/materialdrawer-iconics@9.0.0-rc01?classifier=sources
+- pkg:maven/com.mikepenz/materialdrawer-iconics@9.0.0?classifier=sources

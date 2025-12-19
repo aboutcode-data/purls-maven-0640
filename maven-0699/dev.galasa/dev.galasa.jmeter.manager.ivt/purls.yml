@@ -9,6 +9,7 @@
 - pkg:maven/dev.galasa/dev.galasa.jmeter.manager.ivt@0.14.0
 - pkg:maven/dev.galasa/dev.galasa.jmeter.manager.ivt@0.14.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.jmeter.manager.ivt@0.15.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.jmeter.manager.ivt@0.21.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.jmeter.manager.ivt@0.6.0
 - pkg:maven/dev.galasa/dev.galasa.jmeter.manager.ivt@0.6.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.jmeter.manager.ivt@0.7.0

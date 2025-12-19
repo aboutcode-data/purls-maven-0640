@@ -1,5 +1,7 @@
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.autotest@2.4.10
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.autotest@2.4.10?classifier=sources
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.autotest@2.4.11
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.autotest@2.4.11?classifier=sources
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.autotest@2.4.7
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.autotest@2.4.7?classifier=sources
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.autotest@2.4.8

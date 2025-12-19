@@ -1,0 +1,2 @@
+- pkg:maven/com.vertispan.javascript/closure-compiler-unshaded@v20210808-1
+- pkg:maven/com.vertispan.javascript/closure-compiler-unshaded@v20210808-1?classifier=sources

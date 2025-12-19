@@ -28,3 +28,5 @@
 - pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@2.7.2?classifier=sources
 - pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@2.7.3
 - pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@2.7.3?classifier=sources
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@2.7.4
+- pkg:maven/org.alluxio/alluxio-integration-jnifuse-fs@2.7.4?classifier=sources

@@ -174,6 +174,8 @@
 - pkg:maven/org.kie.server/kie-server-services-case-mgmt@7.66.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-case-mgmt@7.67.0.Final
 - pkg:maven/org.kie.server/kie-server-services-case-mgmt@7.67.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-services-case-mgmt@7.68.0.Final
+- pkg:maven/org.kie.server/kie-server-services-case-mgmt@7.68.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-case-mgmt@7.7.0.Final
 - pkg:maven/org.kie.server/kie-server-services-case-mgmt@7.7.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-services-case-mgmt@7.8.0.Final

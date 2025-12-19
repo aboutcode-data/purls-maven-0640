@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafapi.util.flywayinstaller/util-flywayinstaller-cli@1.0.0-73
+- pkg:maven/com.github.cafapi.util.flywayinstaller/util-flywayinstaller-cli@1.0.0-73?classifier=sources

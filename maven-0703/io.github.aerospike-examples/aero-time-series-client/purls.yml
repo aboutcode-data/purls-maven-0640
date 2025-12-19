@@ -8,3 +8,5 @@
 - pkg:maven/io.github.aerospike-examples/aero-time-series-client@0.27?classifier=sources
 - pkg:maven/io.github.aerospike-examples/aero-time-series-client@0.28
 - pkg:maven/io.github.aerospike-examples/aero-time-series-client@0.28?classifier=sources
+- pkg:maven/io.github.aerospike-examples/aero-time-series-client@0.30
+- pkg:maven/io.github.aerospike-examples/aero-time-series-client@0.30?classifier=sources

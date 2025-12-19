@@ -3,3 +3,4 @@
 - pkg:maven/uk.gov.ida/common-utils@2.0.0-395?classifier=sources
 - pkg:maven/uk.gov.ida/common-utils@2.0.0-396?classifier=sources
 - pkg:maven/uk.gov.ida/common-utils@2.0.0-397?classifier=sources
+- pkg:maven/uk.gov.ida/common-utils@2.0.0-398?classifier=sources

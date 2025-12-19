@@ -1,0 +1,3 @@
+- pkg:maven/com.juul.kable/core-macosarm64@0.15.0?classifier=sources
+- pkg:maven/com.juul.kable/core-macosarm64@0.16.0?classifier=sources
+- pkg:maven/com.juul.kable/core-macosarm64@0.16.1?classifier=sources

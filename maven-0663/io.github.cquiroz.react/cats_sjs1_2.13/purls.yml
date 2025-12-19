@@ -30,6 +30,12 @@
 - pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.14.7?classifier=sources
 - pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.14.8
 - pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.14.8?classifier=sources
+- pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.15.0
+- pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.15.0?classifier=sources
+- pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.16.0
+- pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.16.0?classifier=sources
+- pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.17.0
+- pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.17.0?classifier=sources
 - pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.8.0
 - pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.8.0?classifier=sources
 - pkg:maven/io.github.cquiroz.react/cats_sjs1_2.13@0.8.1

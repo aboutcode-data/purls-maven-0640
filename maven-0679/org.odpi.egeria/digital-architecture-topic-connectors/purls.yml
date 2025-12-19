@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/digital-architecture-topic-connectors@3.7
+- pkg:maven/org.odpi.egeria/digital-architecture-topic-connectors@3.7?classifier=sources

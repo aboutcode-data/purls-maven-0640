@@ -10,6 +10,7 @@
 - pkg:maven/com.qwlabs.doraemon/jpa@0.1.20?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/jpa@0.1.21?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/jpa@0.1.22?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/jpa@0.1.23?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/jpa@0.1.2?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/jpa@0.1.5?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/jpa@0.1.6?classifier=sources

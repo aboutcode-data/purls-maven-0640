@@ -1,1 +1,5 @@
 - pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iossimulatorarm64@0.0.12?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iossimulatorarm64@0.0.13-RC2?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iossimulatorarm64@0.0.13-RC?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iossimulatorarm64@0.0.13?classifier=sources
+- pkg:maven/app.softwork/kotlinx-uuid-sqldelight-iossimulatorarm64@0.0.14?classifier=sources

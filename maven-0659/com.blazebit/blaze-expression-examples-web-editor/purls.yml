@@ -30,6 +30,10 @@
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha25?type=war
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha26?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha26?type=war
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha27?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha27?type=war
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha28?classifier=sources
+- pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha28?type=war
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha8?classifier=sources
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha8?type=war
 - pkg:maven/com.blazebit/blaze-expression-examples-web-editor@1.0.0-Alpha9?classifier=sources

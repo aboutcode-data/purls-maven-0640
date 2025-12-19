@@ -24,3 +24,5 @@
 - pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.18.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.19.0.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.19.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.20.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-devui-integration-test@8.20.0.Final?classifier=sources

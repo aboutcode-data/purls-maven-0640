@@ -1,0 +1,2 @@
+- pkg:maven/com.okta.kotlin/auth-foundation-bootstrap@0.3.0-BETA?classifier=sources
+- pkg:maven/com.okta.kotlin/auth-foundation-bootstrap@0.4.0-BETA?classifier=sources

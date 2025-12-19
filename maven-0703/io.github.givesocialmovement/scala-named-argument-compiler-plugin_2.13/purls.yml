@@ -1,0 +1,2 @@
+- pkg:maven/io.github.givesocialmovement/scala-named-argument-compiler-plugin_2.13@0.1.2
+- pkg:maven/io.github.givesocialmovement/scala-named-argument-compiler-plugin_2.13@0.1.2?classifier=sources

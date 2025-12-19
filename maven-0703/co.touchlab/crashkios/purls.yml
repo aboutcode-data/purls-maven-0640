@@ -9,3 +9,4 @@
 - pkg:maven/co.touchlab/crashkios@0.3.2?classifier=sources
 - pkg:maven/co.touchlab/crashkios@0.4.0?classifier=sources
 - pkg:maven/co.touchlab/crashkios@0.5.0?classifier=sources
+- pkg:maven/co.touchlab/crashkios@0.6.0?classifier=sources

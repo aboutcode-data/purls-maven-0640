@@ -108,6 +108,7 @@
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.65.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.66.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.67.0.Final
+- pkg:maven/org.drools.testcoverage/drools-test-suite@7.68.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.7.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.8.0.Final
 - pkg:maven/org.drools.testcoverage/drools-test-suite@7.9.0.Final
@@ -120,3 +121,4 @@
 - pkg:maven/org.drools.testcoverage/drools-test-suite@8.17.0.Beta
 - pkg:maven/org.drools.testcoverage/drools-test-suite@8.18.0.Beta
 - pkg:maven/org.drools.testcoverage/drools-test-suite@8.19.0.Beta
+- pkg:maven/org.drools.testcoverage/drools-test-suite@8.20.0.Beta

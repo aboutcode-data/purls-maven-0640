@@ -12,3 +12,5 @@
 - pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-addons-jdk1.8@4.1.3?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-addons-jdk1.8@4.1.4
 - pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-addons-jdk1.8@4.1.4?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-addons-jdk1.8@4.1.5
+- pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-addons-jdk1.8@4.1.5?classifier=sources

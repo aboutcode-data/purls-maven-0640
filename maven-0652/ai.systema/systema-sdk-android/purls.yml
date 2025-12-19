@@ -1,5 +1,6 @@
 - pkg:maven/ai.systema/systema-sdk-android@0.1.0-alpha2?classifier=sources
 - pkg:maven/ai.systema/systema-sdk-android@0.1.0-alpha?classifier=sources
+- pkg:maven/ai.systema/systema-sdk-android@0.1.0?classifier=sources
 - pkg:maven/ai.systema/systema-sdk-android@0.1.0b0?classifier=sources
 - pkg:maven/ai.systema/systema-sdk-android@0.1.0b1?classifier=sources
 - pkg:maven/ai.systema/systema-sdk-android@0.1.0b2?classifier=sources

@@ -26,6 +26,8 @@
 - pkg:maven/org.apache.activemq/artemis-jms-client-all@2.2.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jms-client-all@2.20.0
 - pkg:maven/org.apache.activemq/artemis-jms-client-all@2.20.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jms-client-all@2.21.0
+- pkg:maven/org.apache.activemq/artemis-jms-client-all@2.21.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jms-client-all@2.3.0
 - pkg:maven/org.apache.activemq/artemis-jms-client-all@2.3.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jms-client-all@2.4.0

@@ -1,1 +1,3 @@
 - pkg:maven/com.lethanh98.performance/tps-performance@1.0?classifier=sources
+- pkg:maven/com.lethanh98.performance/tps-performance@1.1
+- pkg:maven/com.lethanh98.performance/tps-performance@1.1?classifier=sources

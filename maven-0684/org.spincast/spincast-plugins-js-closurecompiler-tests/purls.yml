@@ -4,3 +4,5 @@
 - pkg:maven/org.spincast/spincast-plugins-js-closurecompiler-tests@1.13.0
 - pkg:maven/org.spincast/spincast-plugins-js-closurecompiler-tests@1.14.0
 - pkg:maven/org.spincast/spincast-plugins-js-closurecompiler-tests@1.14.1
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler-tests@2.0.0
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler-tests@2.0.1

@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.crypt/crypt-api@7.6.0
+- pkg:maven/de.mhus.crypt/crypt-api@7.6.0?classifier=sources

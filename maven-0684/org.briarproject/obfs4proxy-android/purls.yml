@@ -1,0 +1,2 @@
+- pkg:maven/org.briarproject/obfs4proxy-android@0.0.12-release?classifier=sources
+- pkg:maven/org.briarproject/obfs4proxy-android@0.0.12?classifier=sources

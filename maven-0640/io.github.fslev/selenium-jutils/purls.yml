@@ -11,6 +11,12 @@
 - pkg:maven/io.github.fslev/selenium-jutils@1.13?classifier=sources
 - pkg:maven/io.github.fslev/selenium-jutils@1.14
 - pkg:maven/io.github.fslev/selenium-jutils@1.14?classifier=sources
+- pkg:maven/io.github.fslev/selenium-jutils@1.15
+- pkg:maven/io.github.fslev/selenium-jutils@1.15?classifier=sources
+- pkg:maven/io.github.fslev/selenium-jutils@1.16
+- pkg:maven/io.github.fslev/selenium-jutils@1.16?classifier=sources
+- pkg:maven/io.github.fslev/selenium-jutils@1.17
+- pkg:maven/io.github.fslev/selenium-jutils@1.17?classifier=sources
 - pkg:maven/io.github.fslev/selenium-jutils@1.1?classifier=sources
 - pkg:maven/io.github.fslev/selenium-jutils@1.2
 - pkg:maven/io.github.fslev/selenium-jutils@1.2?classifier=sources

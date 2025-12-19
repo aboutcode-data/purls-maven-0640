@@ -18,3 +18,5 @@
 - pkg:maven/uk.co.automatictester/truststore-maven-plugin@2.5.0?classifier=sources
 - pkg:maven/uk.co.automatictester/truststore-maven-plugin@2.6.0
 - pkg:maven/uk.co.automatictester/truststore-maven-plugin@2.6.0?classifier=sources
+- pkg:maven/uk.co.automatictester/truststore-maven-plugin@3.0.0
+- pkg:maven/uk.co.automatictester/truststore-maven-plugin@3.0.0?classifier=sources

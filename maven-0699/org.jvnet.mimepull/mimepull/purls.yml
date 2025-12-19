@@ -1,3 +1,5 @@
+- pkg:maven/org.jvnet.mimepull/mimepull@1.10.0
+- pkg:maven/org.jvnet.mimepull/mimepull@1.10.0?classifier=sources
 - pkg:maven/org.jvnet.mimepull/mimepull@1.7
 - pkg:maven/org.jvnet.mimepull/mimepull@1.7?classifier=sources
 - pkg:maven/org.jvnet.mimepull/mimepull@1.8

@@ -1,2 +1,3 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-cdi12@8.0.0
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-cdi12@8.0.1
+- pkg:maven/org.ops4j.pax.web/pax-web-compatibility-cdi12@8.0.2

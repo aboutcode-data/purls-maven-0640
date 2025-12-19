@@ -6,3 +6,5 @@
 - pkg:maven/io.github.jaxer-in/jaxer-sdbms@1.0.3-beta?classifier=sources
 - pkg:maven/io.github.jaxer-in/jaxer-sdbms@1.0.4-beta
 - pkg:maven/io.github.jaxer-in/jaxer-sdbms@1.0.4-beta?classifier=sources
+- pkg:maven/io.github.jaxer-in/jaxer-sdbms@1.0.5-beta
+- pkg:maven/io.github.jaxer-in/jaxer-sdbms@1.0.5-beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/aws-amplify__cache@4.0.38
+- pkg:maven/org.webjars.npm/aws-amplify__cache@4.0.38?classifier=sources

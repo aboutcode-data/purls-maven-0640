@@ -72,3 +72,4 @@
 - pkg:maven/org.activecomponents.jadex/jadex-applications-webservice@4.0.262?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-applications-webservice@4.0.263?classifier=sources
 - pkg:maven/org.activecomponents.jadex/jadex-applications-webservice@4.0.264?classifier=sources
+- pkg:maven/org.activecomponents.jadex/jadex-applications-webservice@4.0.265?classifier=sources

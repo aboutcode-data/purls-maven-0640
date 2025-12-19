@@ -234,3 +234,5 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-java-api-generator@8.0.9?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-java-api-generator@9.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-java-api-generator@9.0.0?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-java-api-generator@9.0.1?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-java-api-generator@9.0.2?classifier=sources

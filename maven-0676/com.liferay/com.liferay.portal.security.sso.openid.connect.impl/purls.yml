@@ -242,6 +242,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.35
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.36
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@3.0.4
@@ -410,6 +413,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.54
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.54?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.55
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.55?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@4.0.6
@@ -578,6 +584,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.20
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.21
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.22
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.23
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.impl@6.0.3

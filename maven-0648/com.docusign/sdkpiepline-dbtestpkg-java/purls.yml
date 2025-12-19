@@ -18,3 +18,5 @@
 - pkg:maven/com.docusign/sdkpiepline-dbtestpkg-java@2.7.0?classifier=sources
 - pkg:maven/com.docusign/sdkpiepline-dbtestpkg-java@2.8.0
 - pkg:maven/com.docusign/sdkpiepline-dbtestpkg-java@2.8.0?classifier=sources
+- pkg:maven/com.docusign/sdkpiepline-dbtestpkg-java@3.20.0
+- pkg:maven/com.docusign/sdkpiepline-dbtestpkg-java@3.20.0?classifier=sources

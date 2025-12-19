@@ -74,3 +74,7 @@
 - pkg:maven/org.jfrog.buildinfo/build-info-vcs@2.35.0?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-vcs@2.36.0
 - pkg:maven/org.jfrog.buildinfo/build-info-vcs@2.36.0?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-vcs@2.36.1
+- pkg:maven/org.jfrog.buildinfo/build-info-vcs@2.36.1?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-vcs@2.36.2
+- pkg:maven/org.jfrog.buildinfo/build-info-vcs@2.36.2?classifier=sources

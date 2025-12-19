@@ -1,0 +1,2 @@
+- pkg:maven/org.treblereel.gwt.gwtproject.resources/gwt-resources-processor@202203291
+- pkg:maven/org.treblereel.gwt.gwtproject.resources/gwt-resources-processor@202203291?classifier=sources

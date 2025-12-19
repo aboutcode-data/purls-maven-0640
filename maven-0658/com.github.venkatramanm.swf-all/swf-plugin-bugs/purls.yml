@@ -5,6 +5,10 @@
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.0
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.0?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.1
+- pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.10
+- pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.10?classifier=sources
+- pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.11
+- pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.11?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.1?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.2
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.2?classifier=sources
@@ -14,3 +18,5 @@
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.5?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.8
 - pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.8?classifier=sources
+- pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.9
+- pkg:maven/com.github.venkatramanm.swf-all/swf-plugin-bugs@2.9?classifier=sources

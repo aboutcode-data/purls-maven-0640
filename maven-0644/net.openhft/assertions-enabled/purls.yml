@@ -1,0 +1,2 @@
+- pkg:maven/net.openhft/assertions-enabled@1.0.0
+- pkg:maven/net.openhft/assertions-enabled@1.0.0?classifier=sources

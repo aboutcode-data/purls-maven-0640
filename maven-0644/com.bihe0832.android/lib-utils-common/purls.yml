@@ -4,6 +4,8 @@
 - pkg:maven/com.bihe0832.android/lib-utils-common@4.14.4?type=aar
 - pkg:maven/com.bihe0832.android/lib-utils-common@4.16.3?type=aar
 - pkg:maven/com.bihe0832.android/lib-utils-common@4.16.5?type=aar
+- pkg:maven/com.bihe0832.android/lib-utils-common@4.19.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-utils-common@4.19.4?type=aar
 - pkg:maven/com.bihe0832.android/lib-utils-common@4.3.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-utils-common@4.5.5?type=aar
 - pkg:maven/com.bihe0832.android/lib-utils-common@4.8.2?type=aar

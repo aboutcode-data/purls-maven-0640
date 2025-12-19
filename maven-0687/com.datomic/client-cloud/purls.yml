@@ -31,3 +31,4 @@
 - pkg:maven/com.datomic/client-cloud@1.0.117
 - pkg:maven/com.datomic/client-cloud@1.0.118
 - pkg:maven/com.datomic/client-cloud@1.0.119
+- pkg:maven/com.datomic/client-cloud@1.0.120

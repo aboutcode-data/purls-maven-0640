@@ -74,3 +74,7 @@
 - pkg:maven/org.n52.arctic-sea/svalbard-odata@9.3.1?classifier=sources
 - pkg:maven/org.n52.arctic-sea/svalbard-odata@9.4.0
 - pkg:maven/org.n52.arctic-sea/svalbard-odata@9.4.0?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-odata@9.5.0
+- pkg:maven/org.n52.arctic-sea/svalbard-odata@9.5.0?classifier=sources
+- pkg:maven/org.n52.arctic-sea/svalbard-odata@9.5.1
+- pkg:maven/org.n52.arctic-sea/svalbard-odata@9.5.1?classifier=sources

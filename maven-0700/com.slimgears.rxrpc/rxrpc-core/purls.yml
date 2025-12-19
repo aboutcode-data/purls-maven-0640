@@ -7,3 +7,7 @@
 - pkg:maven/com.slimgears.rxrpc/rxrpc-core@0.7.28?classifier=sources
 - pkg:maven/com.slimgears.rxrpc/rxrpc-core@0.7.29?classifier=sources
 - pkg:maven/com.slimgears.rxrpc/rxrpc-core@0.7.31?classifier=sources
+- pkg:maven/com.slimgears.rxrpc/rxrpc-core@0.7.32?classifier=sources
+- pkg:maven/com.slimgears.rxrpc/rxrpc-core@0.7.33?classifier=sources
+- pkg:maven/com.slimgears.rxrpc/rxrpc-core@0.7.34?classifier=sources
+- pkg:maven/com.slimgears.rxrpc/rxrpc-core@0.7.35?classifier=sources

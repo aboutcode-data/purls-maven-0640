@@ -1,0 +1,4 @@
+- pkg:maven/io.github.colagom/kowet-iossimulatorarm64@1.0.0?classifier=sources
+- pkg:maven/io.github.colagom/kowet-iossimulatorarm64@1.0.1?classifier=sources
+- pkg:maven/io.github.colagom/kowet-iossimulatorarm64@1.0.2-rc01?classifier=sources
+- pkg:maven/io.github.colagom/kowet-iossimulatorarm64@1.0.2-rc02?classifier=sources

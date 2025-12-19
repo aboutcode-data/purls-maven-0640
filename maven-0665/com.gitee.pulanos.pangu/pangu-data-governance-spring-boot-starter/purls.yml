@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.pulanos.pangu/pangu-data-governance-spring-boot-starter@5.1.0
+- pkg:maven/com.gitee.pulanos.pangu/pangu-data-governance-spring-boot-starter@5.1.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.tomtom.http/goji-http-client@1.4.0?classifier=sources
 - pkg:maven/com.tomtom.http/goji-http-client@2.0.0
 - pkg:maven/com.tomtom.http/goji-http-client@2.0.0?classifier=sources
+- pkg:maven/com.tomtom.http/goji-http-client@3.0.0
+- pkg:maven/com.tomtom.http/goji-http-client@3.0.0?classifier=sources

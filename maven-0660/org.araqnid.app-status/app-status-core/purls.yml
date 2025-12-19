@@ -1,1 +1,4 @@
 - pkg:maven/org.araqnid.app-status/app-status-core@0.1.6?classifier=sources
+- pkg:maven/org.araqnid.app-status/app-status-core@0.2.0?classifier=sources
+- pkg:maven/org.araqnid.app-status/app-status-core@0.3.0?classifier=sources
+- pkg:maven/org.araqnid.app-status/app-status-core@0.4.0?classifier=sources

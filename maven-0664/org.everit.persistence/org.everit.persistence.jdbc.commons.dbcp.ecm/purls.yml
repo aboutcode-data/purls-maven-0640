@@ -2,3 +2,5 @@
 - pkg:maven/org.everit.persistence/org.everit.persistence.jdbc.commons.dbcp.ecm@1.0.0?classifier=sources
 - pkg:maven/org.everit.persistence/org.everit.persistence.jdbc.commons.dbcp.ecm@2.0.0
 - pkg:maven/org.everit.persistence/org.everit.persistence.jdbc.commons.dbcp.ecm@2.0.0?classifier=sources
+- pkg:maven/org.everit.persistence/org.everit.persistence.jdbc.commons.dbcp.ecm@2.1.0
+- pkg:maven/org.everit.persistence/org.everit.persistence.jdbc.commons.dbcp.ecm@2.1.0?classifier=sources

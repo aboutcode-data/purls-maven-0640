@@ -2,3 +2,5 @@
 - pkg:maven/com.uniubi.cloud/luna-java-development-kit@0.0.1.RELEASE?classifier=sources
 - pkg:maven/com.uniubi.cloud/luna-java-development-kit@2.7.1.0.RELEASE
 - pkg:maven/com.uniubi.cloud/luna-java-development-kit@2.7.1.0.RELEASE?classifier=sources
+- pkg:maven/com.uniubi.cloud/luna-java-development-kit@3.0.0.0
+- pkg:maven/com.uniubi.cloud/luna-java-development-kit@3.0.0.0?classifier=sources

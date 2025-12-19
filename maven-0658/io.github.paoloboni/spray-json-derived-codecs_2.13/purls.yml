@@ -30,3 +30,5 @@
 - pkg:maven/io.github.paoloboni/spray-json-derived-codecs_2.13@2.3.4?classifier=sources
 - pkg:maven/io.github.paoloboni/spray-json-derived-codecs_2.13@2.3.5
 - pkg:maven/io.github.paoloboni/spray-json-derived-codecs_2.13@2.3.5?classifier=sources
+- pkg:maven/io.github.paoloboni/spray-json-derived-codecs_2.13@2.3.6
+- pkg:maven/io.github.paoloboni/spray-json-derived-codecs_2.13@2.3.6?classifier=sources

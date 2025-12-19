@@ -14,8 +14,11 @@
 - pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@1.7?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@1.8?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@2.0?classifier=sources
+- pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@2.10?classifier=sources
+- pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@2.11?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@2.1?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@2.2?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@2.3?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@2.5?classifier=sources
 - pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@2.8?classifier=sources
+- pkg:maven/com.github.venkatramanm.swf-all/swf-archetype@2.9?classifier=sources

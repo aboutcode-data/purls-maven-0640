@@ -1,0 +1,4 @@
+- pkg:maven/com.innovenso.townplanner/innovenso-towplanner-io-latex-document_2.13@1.4.0
+- pkg:maven/com.innovenso.townplanner/innovenso-towplanner-io-latex-document_2.13@1.4.0?classifier=sources
+- pkg:maven/com.innovenso.townplanner/innovenso-towplanner-io-latex-document_2.13@1.5.0
+- pkg:maven/com.innovenso.townplanner/innovenso-towplanner-io-latex-document_2.13@1.5.0?classifier=sources

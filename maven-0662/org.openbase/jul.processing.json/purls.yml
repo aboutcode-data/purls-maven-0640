@@ -1,3 +1,4 @@
+- pkg:maven/org.openbase/jul.processing.json@%223.2-SNAPSHOT%22?classifier=sources
 - pkg:maven/org.openbase/jul.processing.json@2.0.0
 - pkg:maven/org.openbase/jul.processing.json@2.0.0?classifier=sources
 - pkg:maven/org.openbase/jul.processing.json@3.0.0
@@ -9,3 +10,4 @@
 - pkg:maven/org.openbase/jul.processing.json@3.0.3
 - pkg:maven/org.openbase/jul.processing.json@3.0.3?classifier=sources
 - pkg:maven/org.openbase/jul.processing.json@3.1.0?classifier=sources
+- pkg:maven/org.openbase/jul.processing.json@3.2.0?classifier=sources

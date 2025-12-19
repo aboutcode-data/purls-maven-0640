@@ -10,5 +10,9 @@
 - pkg:maven/com.snowplowanalytics/iglu-scala-client-http4s_2.12@1.1.1-rc1
 - pkg:maven/com.snowplowanalytics/iglu-scala-client-http4s_2.12@1.1.1-rc1?classifier=sources
 - pkg:maven/com.snowplowanalytics/iglu-scala-client-http4s_2.12@1.1.1?classifier=sources
+- pkg:maven/com.snowplowanalytics/iglu-scala-client-http4s_2.12@2.0.0
 - pkg:maven/com.snowplowanalytics/iglu-scala-client-http4s_2.12@2.0.0-M1
 - pkg:maven/com.snowplowanalytics/iglu-scala-client-http4s_2.12@2.0.0-M1?classifier=sources
+- pkg:maven/com.snowplowanalytics/iglu-scala-client-http4s_2.12@2.0.0-M2
+- pkg:maven/com.snowplowanalytics/iglu-scala-client-http4s_2.12@2.0.0-M2?classifier=sources
+- pkg:maven/com.snowplowanalytics/iglu-scala-client-http4s_2.12@2.0.0?classifier=sources

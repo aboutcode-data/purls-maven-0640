@@ -1,0 +1,3 @@
+- pkg:maven/me.2bab/koncat-processor-api@0.1.0?classifier=sources
+- pkg:maven/me.2bab/koncat-processor-api@1.0.0?classifier=sources
+- pkg:maven/me.2bab/koncat-processor-api@1.0.1?classifier=sources

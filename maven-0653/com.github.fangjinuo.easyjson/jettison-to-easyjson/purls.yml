@@ -6,6 +6,10 @@
 - pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.12?classifier=sources
 - pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.13
 - pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.13?classifier=sources
+- pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.14
+- pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.14?classifier=sources
+- pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.15
+- pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.15?classifier=sources
 - pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.7
 - pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.7?classifier=sources
 - pkg:maven/com.github.fangjinuo.easyjson/jettison-to-easyjson@3.2.8

@@ -1,0 +1,2 @@
+- pkg:maven/io.klib.tools/org.hyperic.sigar.aio@1.6.4
+- pkg:maven/io.klib.tools/org.hyperic.sigar.aio@1.6.4?classifier=sources

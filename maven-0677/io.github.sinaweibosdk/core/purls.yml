@@ -8,3 +8,5 @@
 - pkg:maven/io.github.sinaweibosdk/core@11.8.0?classifier=sources
 - pkg:maven/io.github.sinaweibosdk/core@11.8.1?classifier=sources
 - pkg:maven/io.github.sinaweibosdk/core@11.8.1?type=aar
+- pkg:maven/io.github.sinaweibosdk/core@12.3.0?type=aar
+- pkg:maven/io.github.sinaweibosdk/core@12.3.1?type=aar

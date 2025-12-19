@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-guava-eventbus-plugin@8.10.0
+- pkg:maven/org.apache.skywalking/apm-guava-eventbus-plugin@8.10.0?classifier=sources

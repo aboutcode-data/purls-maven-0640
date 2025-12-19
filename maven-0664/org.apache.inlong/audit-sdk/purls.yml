@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.inlong/audit-sdk@0.12.0-incubating?classifier=sources
 - pkg:maven/org.apache.inlong/audit-sdk@1.0.0-incubating
 - pkg:maven/org.apache.inlong/audit-sdk@1.0.0-incubating?classifier=sources
+- pkg:maven/org.apache.inlong/audit-sdk@1.1.0-incubating
+- pkg:maven/org.apache.inlong/audit-sdk@1.1.0-incubating?classifier=sources

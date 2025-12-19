@@ -28,3 +28,5 @@
 - pkg:maven/com.cognitect.aws/apigatewayv2@811.2.824.0?classifier=sources
 - pkg:maven/com.cognitect.aws/apigatewayv2@813.2.972.0
 - pkg:maven/com.cognitect.aws/apigatewayv2@813.2.972.0?classifier=sources
+- pkg:maven/com.cognitect.aws/apigatewayv2@821.2.1107.0
+- pkg:maven/com.cognitect.aws/apigatewayv2@821.2.1107.0?classifier=sources

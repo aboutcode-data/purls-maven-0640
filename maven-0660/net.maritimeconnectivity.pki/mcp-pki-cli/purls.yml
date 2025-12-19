@@ -1,0 +1,2 @@
+- pkg:maven/net.maritimeconnectivity.pki/mcp-pki-cli@1.1.0-RC1
+- pkg:maven/net.maritimeconnectivity.pki/mcp-pki-cli@1.1.0-RC1?classifier=sources

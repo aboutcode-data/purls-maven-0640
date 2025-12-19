@@ -1,2 +1,3 @@
 - pkg:maven/ch.ergon.adam/sqlite@1.0.0
 - pkg:maven/ch.ergon.adam/sqlite@1.0.0?classifier=sources
+- pkg:maven/ch.ergon.adam/sqlite@1.1.0?classifier=sources

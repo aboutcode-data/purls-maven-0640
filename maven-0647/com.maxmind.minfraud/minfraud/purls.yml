@@ -52,3 +52,5 @@
 - pkg:maven/com.maxmind.minfraud/minfraud@1.9.0?classifier=sources
 - pkg:maven/com.maxmind.minfraud/minfraud@2.0.0
 - pkg:maven/com.maxmind.minfraud/minfraud@2.0.0?classifier=sources
+- pkg:maven/com.maxmind.minfraud/minfraud@2.1.0
+- pkg:maven/com.maxmind.minfraud/minfraud@2.1.0?classifier=sources

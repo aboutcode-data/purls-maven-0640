@@ -24,3 +24,4 @@
 - pkg:maven/org.nineml/coffeefilter@0.9.1?classifier=sources
 - pkg:maven/org.nineml/coffeefilter@0.9.2?classifier=sources
 - pkg:maven/org.nineml/coffeefilter@1.0.0?classifier=sources
+- pkg:maven/org.nineml/coffeefilter@1.1.0?classifier=sources

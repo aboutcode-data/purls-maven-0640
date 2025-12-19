@@ -71,3 +71,6 @@
 - pkg:maven/org.opendaylight.bgpcep/routing-policy-config-loader@0.16.8?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/routing-policy-config-loader@0.16.9
 - pkg:maven/org.opendaylight.bgpcep/routing-policy-config-loader@0.16.9?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/routing-policy-config-loader@0.17.0
+- pkg:maven/org.opendaylight.bgpcep/routing-policy-config-loader@0.17.0?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/routing-policy-config-loader@0.17.1?classifier=sources

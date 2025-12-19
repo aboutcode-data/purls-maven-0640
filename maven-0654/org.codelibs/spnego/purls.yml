@@ -4,3 +4,5 @@
 - pkg:maven/org.codelibs/spnego@1.0?classifier=sources
 - pkg:maven/org.codelibs/spnego@1.1.0
 - pkg:maven/org.codelibs/spnego@1.1.0?classifier=sources
+- pkg:maven/org.codelibs/spnego@1.1.1
+- pkg:maven/org.codelibs/spnego@1.1.1?classifier=sources

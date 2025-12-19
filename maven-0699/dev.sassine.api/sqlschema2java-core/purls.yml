@@ -1,0 +1,2 @@
+- pkg:maven/dev.sassine.api/sqlschema2java-core@1.0.0-beta
+- pkg:maven/dev.sassine.api/sqlschema2java-core@1.0.0-beta?classifier=sources

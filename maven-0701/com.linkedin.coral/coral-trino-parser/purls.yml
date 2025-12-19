@@ -7,3 +7,16 @@
 - pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.54?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.55?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.56?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.58?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.59?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.60?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.61?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.62?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.63?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.64?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.65?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.66?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.67?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.68?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.69?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-trino-parser@2.0.70?classifier=sources

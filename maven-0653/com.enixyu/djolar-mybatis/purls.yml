@@ -1,0 +1,2 @@
+- pkg:maven/com.enixyu/djolar-mybatis@1.1.0
+- pkg:maven/com.enixyu/djolar-mybatis@1.1.0?classifier=sources

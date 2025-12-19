@@ -148,6 +148,8 @@
 - pkg:maven/io.gravitee.definition/gravitee-definition-model@1.32.0?classifier=sources
 - pkg:maven/io.gravitee.definition/gravitee-definition-model@1.32.1
 - pkg:maven/io.gravitee.definition/gravitee-definition-model@1.32.1?classifier=sources
+- pkg:maven/io.gravitee.definition/gravitee-definition-model@1.33.0
+- pkg:maven/io.gravitee.definition/gravitee-definition-model@1.33.0?classifier=sources
 - pkg:maven/io.gravitee.definition/gravitee-definition-model@1.4.0
 - pkg:maven/io.gravitee.definition/gravitee-definition-model@1.4.0?classifier=sources
 - pkg:maven/io.gravitee.definition/gravitee-definition-model@1.5.0

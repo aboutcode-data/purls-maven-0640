@@ -1,0 +1,6 @@
+- pkg:maven/com.iussoft/iussoft-sso@3.3.2
+- pkg:maven/com.iussoft/iussoft-sso@3.3.22031801
+- pkg:maven/com.iussoft/iussoft-sso@3.3.22031801?classifier=sources
+- pkg:maven/com.iussoft/iussoft-sso@3.3.22040810
+- pkg:maven/com.iussoft/iussoft-sso@3.3.22040810?classifier=sources
+- pkg:maven/com.iussoft/iussoft-sso@3.3.2?classifier=sources

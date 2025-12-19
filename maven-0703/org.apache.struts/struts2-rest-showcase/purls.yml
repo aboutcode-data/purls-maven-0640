@@ -138,6 +138,8 @@
 - pkg:maven/org.apache.struts/struts2-rest-showcase@2.5.29?type=war
 - pkg:maven/org.apache.struts/struts2-rest-showcase@2.5.2?classifier=sources
 - pkg:maven/org.apache.struts/struts2-rest-showcase@2.5.2?type=war
+- pkg:maven/org.apache.struts/struts2-rest-showcase@2.5.30?classifier=sources
+- pkg:maven/org.apache.struts/struts2-rest-showcase@2.5.30?type=war
 - pkg:maven/org.apache.struts/struts2-rest-showcase@2.5.5?classifier=sources
 - pkg:maven/org.apache.struts/struts2-rest-showcase@2.5.5?type=war
 - pkg:maven/org.apache.struts/struts2-rest-showcase@2.5.8?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.servicelibre/jxsl@0.1.15?classifier=sources
 - pkg:maven/com.servicelibre/jxsl@0.1.16
 - pkg:maven/com.servicelibre/jxsl@0.1.16?classifier=sources
+- pkg:maven/com.servicelibre/jxsl@0.1.18
+- pkg:maven/com.servicelibre/jxsl@0.1.18?classifier=sources
