@@ -1,3 +1,4 @@
+- pkg:maven/com.github.lontime/extredisson-library@1.0.0
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M10
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M10?classifier=sources
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M11
@@ -16,7 +17,14 @@
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M17?classifier=sources
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M18
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M18?classifier=sources
+- pkg:maven/com.github.lontime/extredisson-library@1.0.0-M19
+- pkg:maven/com.github.lontime/extredisson-library@1.0.0-M19?classifier=sources
+- pkg:maven/com.github.lontime/extredisson-library@1.0.0-M20
+- pkg:maven/com.github.lontime/extredisson-library@1.0.0-M20?classifier=sources
+- pkg:maven/com.github.lontime/extredisson-library@1.0.0-M21
+- pkg:maven/com.github.lontime/extredisson-library@1.0.0-M21?classifier=sources
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M8
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M8?classifier=sources
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M9
 - pkg:maven/com.github.lontime/extredisson-library@1.0.0-M9?classifier=sources
+- pkg:maven/com.github.lontime/extredisson-library@1.0.0?classifier=sources

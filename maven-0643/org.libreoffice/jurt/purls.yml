@@ -192,3 +192,5 @@
 - pkg:maven/org.libreoffice/jurt@7.3.3?classifier=sources
 - pkg:maven/org.libreoffice/jurt@7.3.4
 - pkg:maven/org.libreoffice/jurt@7.3.4?classifier=sources
+- pkg:maven/org.libreoffice/jurt@7.3.5
+- pkg:maven/org.libreoffice/jurt@7.3.5?classifier=sources

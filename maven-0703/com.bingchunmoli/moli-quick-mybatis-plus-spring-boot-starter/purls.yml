@@ -1,0 +1,4 @@
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.0-bate
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.0-bate?classifier=sources
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.1-bate
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.1-bate?classifier=sources

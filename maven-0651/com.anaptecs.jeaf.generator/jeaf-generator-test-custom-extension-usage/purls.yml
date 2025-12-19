@@ -64,3 +64,5 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-custom-extension-usage@1.6.51?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-custom-extension-usage@1.6.52
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-custom-extension-usage@1.6.52?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-custom-extension-usage@1.6.53
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-custom-extension-usage@1.6.53?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/tech.grasshopper/extent-pdf-report@2.5.1?classifier=sources
 - pkg:maven/tech.grasshopper/extent-pdf-report@2.6.0
 - pkg:maven/tech.grasshopper/extent-pdf-report@2.6.0?classifier=sources
+- pkg:maven/tech.grasshopper/extent-pdf-report@2.7.0
+- pkg:maven/tech.grasshopper/extent-pdf-report@2.7.0?classifier=sources

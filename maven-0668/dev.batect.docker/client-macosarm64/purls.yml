@@ -1,3 +1,4 @@
 - pkg:maven/dev.batect.docker/client-macosarm64@0.1.0-prerelease.0.87%2B20210909T051037Z?classifier=sources
 - pkg:maven/dev.batect.docker/client-macosarm64@0.1.0-prerelease.0.87%2B20210909T051757Z?classifier=sources
 - pkg:maven/dev.batect.docker/client-macosarm64@0.1.2?classifier=sources
+- pkg:maven/dev.batect.docker/client-macosarm64@0.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.qqhxj.rxtx/spring-boot-starter-rxtx@2.1.0-RELEASE
+- pkg:maven/cn.qqhxj.rxtx/spring-boot-starter-rxtx@2.1.0-RELEASE?classifier=sources

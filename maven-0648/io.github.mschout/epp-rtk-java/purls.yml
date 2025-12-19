@@ -1,1 +1,2 @@
+- pkg:maven/io.github.mschout/epp-rtk-java@0.9.10?classifier=sources
 - pkg:maven/io.github.mschout/epp-rtk-java@0.9.9?classifier=sources

@@ -38,3 +38,9 @@
 - pkg:maven/io.nuls.sdk/sdk-contract-vm@2.1.0.RC?classifier=sources
 - pkg:maven/io.nuls.sdk/sdk-contract-vm@2.1.0.RELEASE
 - pkg:maven/io.nuls.sdk/sdk-contract-vm@2.1.0.RELEASE?classifier=sources
+- pkg:maven/io.nuls.sdk/sdk-contract-vm@2.2.0-BETA
+- pkg:maven/io.nuls.sdk/sdk-contract-vm@2.2.0-BETA?classifier=sources
+- pkg:maven/io.nuls.sdk/sdk-contract-vm@2.2.0.RELEASE
+- pkg:maven/io.nuls.sdk/sdk-contract-vm@2.2.0.RELEASE?classifier=sources
+- pkg:maven/io.nuls.sdk/sdk-contract-vm@2.3.0-BATA
+- pkg:maven/io.nuls.sdk/sdk-contract-vm@2.3.0-BATA?classifier=sources

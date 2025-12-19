@@ -35,6 +35,8 @@
 - pkg:maven/org.dotwebstack.framework/graphql-rdf4j@0.3.120
 - pkg:maven/org.dotwebstack.framework/graphql-rdf4j@0.3.121
 - pkg:maven/org.dotwebstack.framework/graphql-rdf4j@0.3.122
+- pkg:maven/org.dotwebstack.framework/graphql-rdf4j@0.3.123
+- pkg:maven/org.dotwebstack.framework/graphql-rdf4j@0.3.124
 - pkg:maven/org.dotwebstack.framework/graphql-rdf4j@0.3.19
 - pkg:maven/org.dotwebstack.framework/graphql-rdf4j@0.3.2
 - pkg:maven/org.dotwebstack.framework/graphql-rdf4j@0.3.20

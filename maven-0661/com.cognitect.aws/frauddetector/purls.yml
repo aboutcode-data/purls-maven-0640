@@ -26,3 +26,5 @@
 - pkg:maven/com.cognitect.aws/frauddetector@814.2.986.0?classifier=sources
 - pkg:maven/com.cognitect.aws/frauddetector@821.2.1107.0
 - pkg:maven/com.cognitect.aws/frauddetector@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/frauddetector@822.2.1171.0
+- pkg:maven/com.cognitect.aws/frauddetector@822.2.1171.0?classifier=sources

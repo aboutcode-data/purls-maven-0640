@@ -1,1 +1,2 @@
 - pkg:maven/dev.icerock.moko/network-bignum-iossimulatorarm64@0.17.0?classifier=sources
+- pkg:maven/dev.icerock.moko/network-bignum-iossimulatorarm64@0.18.0?classifier=sources

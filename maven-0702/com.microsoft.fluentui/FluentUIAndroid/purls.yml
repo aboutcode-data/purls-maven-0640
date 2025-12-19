@@ -10,3 +10,5 @@
 - pkg:maven/com.microsoft.fluentui/FluentUIAndroid@0.0.30?classifier=sources
 - pkg:maven/com.microsoft.fluentui/FluentUIAndroid@0.0.31?classifier=sources
 - pkg:maven/com.microsoft.fluentui/FluentUIAndroid@0.0.32?classifier=sources
+- pkg:maven/com.microsoft.fluentui/FluentUIAndroid@0.1.0?classifier=sources
+- pkg:maven/com.microsoft.fluentui/FluentUIAndroid@0.1.2?classifier=sources

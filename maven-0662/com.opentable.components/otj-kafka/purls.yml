@@ -24,3 +24,9 @@
 - pkg:maven/com.opentable.components/otj-kafka@5.2.2?classifier=sources
 - pkg:maven/com.opentable.components/otj-kafka@5.2.3
 - pkg:maven/com.opentable.components/otj-kafka@5.2.3?classifier=sources
+- pkg:maven/com.opentable.components/otj-kafka@5.2.4
+- pkg:maven/com.opentable.components/otj-kafka@5.2.4?classifier=sources
+- pkg:maven/com.opentable.components/otj-kafka@5.2.6
+- pkg:maven/com.opentable.components/otj-kafka@5.2.6?classifier=sources
+- pkg:maven/com.opentable.components/otj-kafka@5.2.7
+- pkg:maven/com.opentable.components/otj-kafka@5.2.7?classifier=sources

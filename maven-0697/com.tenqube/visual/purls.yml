@@ -10,3 +10,4 @@
 - pkg:maven/com.tenqube/visual@0.4.9-whowho?classifier=sources
 - pkg:maven/com.tenqube/visual@0.5.0?classifier=sources
 - pkg:maven/com.tenqube/visual@0.5.1?classifier=sources
+- pkg:maven/com.tenqube/visual@0.5.2?classifier=sources

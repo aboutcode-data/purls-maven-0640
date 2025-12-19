@@ -94,3 +94,5 @@
 - pkg:maven/org.mdsplus/jdispatcher@7.137.3?classifier=sources
 - pkg:maven/org.mdsplus/jdispatcher@7.138.0
 - pkg:maven/org.mdsplus/jdispatcher@7.138.0?classifier=sources
+- pkg:maven/org.mdsplus/jdispatcher@7.139.5
+- pkg:maven/org.mdsplus/jdispatcher@7.139.5?classifier=sources

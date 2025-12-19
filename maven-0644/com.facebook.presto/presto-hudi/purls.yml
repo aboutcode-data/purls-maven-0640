@@ -1,0 +1,1 @@
+- pkg:maven/com.facebook.presto/presto-hudi@0.274?classifier=sources

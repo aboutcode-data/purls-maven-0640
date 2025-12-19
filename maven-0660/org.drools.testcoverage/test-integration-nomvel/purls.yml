@@ -9,6 +9,8 @@
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@7.69.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@7.70.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@7.71.0.Final
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@7.72.0.Final
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@7.73.0.Final
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.13.0.Beta
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.14.0.Beta
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.14.1.Beta
@@ -22,3 +24,6 @@
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.21.0.Beta
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.22.0.Beta
 - pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.22.1.Beta
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.23.0.Beta
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.24.0.Beta
+- pkg:maven/org.drools.testcoverage/test-integration-nomvel@8.25.0.Beta

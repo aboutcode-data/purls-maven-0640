@@ -15,3 +15,6 @@
 - pkg:maven/com.github.vhall.android.library/vh-saas-interactive@6.3.3?type=aar
 - pkg:maven/com.github.vhall.android.library/vh-saas-interactive@6.3.4?type=aar
 - pkg:maven/com.github.vhall.android.library/vh-saas-interactive@6.4.0?type=aar
+- pkg:maven/com.github.vhall.android.library/vh-saas-interactive@6.4.1?type=aar
+- pkg:maven/com.github.vhall.android.library/vh-saas-interactive@6.5.0?type=aar
+- pkg:maven/com.github.vhall.android.library/vh-saas-interactive@6.5.1?type=aar

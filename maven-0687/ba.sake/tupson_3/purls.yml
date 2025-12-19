@@ -1,2 +1,4 @@
 - pkg:maven/ba.sake/tupson_3@0.1.4
 - pkg:maven/ba.sake/tupson_3@0.1.4?classifier=sources
+- pkg:maven/ba.sake/tupson_3@0.1.5
+- pkg:maven/ba.sake/tupson_3@0.1.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.mindoo.domino/domino-jna-base@0.9.48
+- pkg:maven/com.mindoo.domino/domino-jna-base@0.9.48?classifier=sources

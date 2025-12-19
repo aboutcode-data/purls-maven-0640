@@ -268,6 +268,10 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.47.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.48.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.48.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.48.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.48.1?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.49.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.49.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.6.0
 - pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.6.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-ec2@2.6.1

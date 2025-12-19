@@ -52,6 +52,7 @@
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.29.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.30.0
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.30.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-perftest-gatling@0.40.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.8.2
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.8.2?classifier=sources
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.8.3

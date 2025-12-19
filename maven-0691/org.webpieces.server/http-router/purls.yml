@@ -13,5 +13,7 @@
 - pkg:maven/org.webpieces.server/http-router@2.1.24?classifier=sources
 - pkg:maven/org.webpieces.server/http-router@2.1.26?classifier=sources
 - pkg:maven/org.webpieces.server/http-router@2.1.28?classifier=sources
+- pkg:maven/org.webpieces.server/http-router@2.1.29?classifier=sources
 - pkg:maven/org.webpieces.server/http-router@2.1.2?classifier=sources
+- pkg:maven/org.webpieces.server/http-router@2.1.30?classifier=sources
 - pkg:maven/org.webpieces.server/http-router@2.1.8?classifier=sources

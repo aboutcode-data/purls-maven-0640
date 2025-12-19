@@ -33,6 +33,10 @@
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.3?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.4?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.5?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.6?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.7?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.8?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.9?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-beta01?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-beta02?classifier=sources

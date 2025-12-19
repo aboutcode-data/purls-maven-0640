@@ -132,6 +132,8 @@
 - pkg:maven/de.knightsoft-net/gwtp-dynamic-navigation@1.1.9?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-dynamic-navigation@1.10.0
 - pkg:maven/de.knightsoft-net/gwtp-dynamic-navigation@1.10.0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwtp-dynamic-navigation@1.11.0
+- pkg:maven/de.knightsoft-net/gwtp-dynamic-navigation@1.11.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-dynamic-navigation@1.2.0
 - pkg:maven/de.knightsoft-net/gwtp-dynamic-navigation@1.2.0?classifier=sources
 - pkg:maven/de.knightsoft-net/gwtp-dynamic-navigation@1.2.1

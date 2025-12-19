@@ -5,3 +5,4 @@
 - pkg:maven/io.agora.rtc/chat-sdk@1.0.4.1?classifier=sources
 - pkg:maven/io.agora.rtc/chat-sdk@1.0.4?classifier=sources
 - pkg:maven/io.agora.rtc/chat-sdk@1.0.5?classifier=sources
+- pkg:maven/io.agora.rtc/chat-sdk@1.0.6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.gematik.pki.gemlibpki/gemLibPki@0.8.1
+- pkg:maven/de.gematik.pki.gemlibpki/gemLibPki@0.8.1?classifier=sources

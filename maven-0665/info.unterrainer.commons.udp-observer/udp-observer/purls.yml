@@ -19,3 +19,5 @@
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.4?classifier=sources
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.9
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.9?classifier=sources
+- pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.2.0
+- pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.2.0?classifier=sources

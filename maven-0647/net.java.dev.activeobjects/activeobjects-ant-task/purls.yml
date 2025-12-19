@@ -492,3 +492,5 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-ant-task@4.0.3?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-ant-task@4.0.4
 - pkg:maven/net.java.dev.activeobjects/activeobjects-ant-task@4.0.4?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-ant-task@5.0.0-m01
+- pkg:maven/net.java.dev.activeobjects/activeobjects-ant-task@5.0.0-m01?classifier=sources

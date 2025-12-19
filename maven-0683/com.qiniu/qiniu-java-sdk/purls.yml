@@ -48,6 +48,8 @@
 - pkg:maven/com.qiniu/qiniu-java-sdk@7.10.3?classifier=sources
 - pkg:maven/com.qiniu/qiniu-java-sdk@7.10.4
 - pkg:maven/com.qiniu/qiniu-java-sdk@7.10.4?classifier=sources
+- pkg:maven/com.qiniu/qiniu-java-sdk@7.11.0
+- pkg:maven/com.qiniu/qiniu-java-sdk@7.11.0?classifier=sources
 - pkg:maven/com.qiniu/qiniu-java-sdk@7.2.0
 - pkg:maven/com.qiniu/qiniu-java-sdk@7.2.0?classifier=sources
 - pkg:maven/com.qiniu/qiniu-java-sdk@7.2.1

@@ -38,6 +38,10 @@
 - pkg:maven/net.lingala.zip4j/zip4j@2.1.4?classifier=sources
 - pkg:maven/net.lingala.zip4j/zip4j@2.10.0
 - pkg:maven/net.lingala.zip4j/zip4j@2.10.0?classifier=sources
+- pkg:maven/net.lingala.zip4j/zip4j@2.11.0
+- pkg:maven/net.lingala.zip4j/zip4j@2.11.0?classifier=sources
+- pkg:maven/net.lingala.zip4j/zip4j@2.11.1
+- pkg:maven/net.lingala.zip4j/zip4j@2.11.1?classifier=sources
 - pkg:maven/net.lingala.zip4j/zip4j@2.2.0
 - pkg:maven/net.lingala.zip4j/zip4j@2.2.0?classifier=sources
 - pkg:maven/net.lingala.zip4j/zip4j@2.2.1

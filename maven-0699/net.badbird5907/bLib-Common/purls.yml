@@ -16,3 +16,7 @@
 - pkg:maven/net.badbird5907/bLib-Common@2.1.4-REL?classifier=sources
 - pkg:maven/net.badbird5907/bLib-Common@2.1.6-REL
 - pkg:maven/net.badbird5907/bLib-Common@2.1.6-REL?classifier=sources
+- pkg:maven/net.badbird5907/bLib-Common@2.1.7-REL
+- pkg:maven/net.badbird5907/bLib-Common@2.1.7-REL?classifier=sources
+- pkg:maven/net.badbird5907/bLib-Common@2.1.8-REL
+- pkg:maven/net.badbird5907/bLib-Common@2.1.8-REL?classifier=sources

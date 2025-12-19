@@ -1,0 +1,6 @@
+- pkg:maven/com.zhg2yqq/dynamiccode-spring-boot-starter@1.8.0
+- pkg:maven/com.zhg2yqq/dynamiccode-spring-boot-starter@1.8.0-RELEASE
+- pkg:maven/com.zhg2yqq/dynamiccode-spring-boot-starter@1.8.0-RELEASE?classifier=sources
+- pkg:maven/com.zhg2yqq/dynamiccode-spring-boot-starter@1.8.0?classifier=sources
+- pkg:maven/com.zhg2yqq/dynamiccode-spring-boot-starter@1.8.1
+- pkg:maven/com.zhg2yqq/dynamiccode-spring-boot-starter@1.8.1?classifier=sources

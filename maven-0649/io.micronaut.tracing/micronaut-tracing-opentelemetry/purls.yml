@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-opentelemetry@4.2.0?classifier=sources

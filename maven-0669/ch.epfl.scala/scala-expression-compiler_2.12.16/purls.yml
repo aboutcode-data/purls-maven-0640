@@ -1,0 +1,6 @@
+- pkg:maven/ch.epfl.scala/scala-expression-compiler_2.12.16@2.2.0
+- pkg:maven/ch.epfl.scala/scala-expression-compiler_2.12.16@2.2.0-M2
+- pkg:maven/ch.epfl.scala/scala-expression-compiler_2.12.16@2.2.0-M2?classifier=sources
+- pkg:maven/ch.epfl.scala/scala-expression-compiler_2.12.16@2.2.0-M3
+- pkg:maven/ch.epfl.scala/scala-expression-compiler_2.12.16@2.2.0-M3?classifier=sources
+- pkg:maven/ch.epfl.scala/scala-expression-compiler_2.12.16@2.2.0?classifier=sources

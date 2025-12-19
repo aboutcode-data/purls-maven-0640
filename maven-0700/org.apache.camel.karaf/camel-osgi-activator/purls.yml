@@ -28,6 +28,8 @@
 - pkg:maven/org.apache.camel.karaf/camel-osgi-activator@3.14.2?classifier=sources
 - pkg:maven/org.apache.camel.karaf/camel-osgi-activator@3.14.3
 - pkg:maven/org.apache.camel.karaf/camel-osgi-activator@3.14.3?classifier=sources
+- pkg:maven/org.apache.camel.karaf/camel-osgi-activator@3.14.4
+- pkg:maven/org.apache.camel.karaf/camel-osgi-activator@3.14.4?classifier=sources
 - pkg:maven/org.apache.camel.karaf/camel-osgi-activator@3.2.0
 - pkg:maven/org.apache.camel.karaf/camel-osgi-activator@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel.karaf/camel-osgi-activator@3.3.0

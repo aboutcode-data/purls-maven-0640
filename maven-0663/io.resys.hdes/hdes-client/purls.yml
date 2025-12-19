@@ -44,6 +44,8 @@
 - pkg:maven/io.resys.hdes/hdes-client@3.128
 - pkg:maven/io.resys.hdes/hdes-client@3.128?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-client@3.130
+- pkg:maven/io.resys.hdes/hdes-client@3.130.10
+- pkg:maven/io.resys.hdes/hdes-client@3.130.10?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-client@3.130.2
 - pkg:maven/io.resys.hdes/hdes-client@3.130.2?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-client@3.130.3
@@ -58,4 +60,6 @@
 - pkg:maven/io.resys.hdes/hdes-client@3.130.7?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-client@3.130.8
 - pkg:maven/io.resys.hdes/hdes-client@3.130.8?classifier=sources
+- pkg:maven/io.resys.hdes/hdes-client@3.130.9
+- pkg:maven/io.resys.hdes/hdes-client@3.130.9?classifier=sources
 - pkg:maven/io.resys.hdes/hdes-client@3.130?classifier=sources

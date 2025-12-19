@@ -254,3 +254,5 @@
 - pkg:maven/com.github.spinalhdl/spinalhdl-core_2.11@1.7.0a?classifier=sources
 - pkg:maven/com.github.spinalhdl/spinalhdl-core_2.11@1.7.0b
 - pkg:maven/com.github.spinalhdl/spinalhdl-core_2.11@1.7.0b?classifier=sources
+- pkg:maven/com.github.spinalhdl/spinalhdl-core_2.11@1.7.1
+- pkg:maven/com.github.spinalhdl/spinalhdl-core_2.11@1.7.1?classifier=sources

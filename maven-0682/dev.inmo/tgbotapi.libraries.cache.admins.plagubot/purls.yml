@@ -5,3 +5,6 @@
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.plagubot@0.0.18?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.plagubot@0.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.plagubot@0.2.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.plagubot@0.2.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.plagubot@0.3.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.libraries.cache.admins.plagubot@0.3.1?classifier=sources

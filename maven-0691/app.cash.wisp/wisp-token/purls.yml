@@ -1,0 +1,5 @@
+- pkg:maven/app.cash.wisp/wisp-token@0.0.1-alpha?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-token@1.0.0?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-token@1.0.1?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-token@1.0.2?classifier=sources
+- pkg:maven/app.cash.wisp/wisp-token@1.0.3?classifier=sources

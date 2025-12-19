@@ -1,2 +1,4 @@
 - pkg:maven/com.solace/solace-messaging-client@1.0.0
 - pkg:maven/com.solace/solace-messaging-client@1.0.0?classifier=sources
+- pkg:maven/com.solace/solace-messaging-client@1.1.0
+- pkg:maven/com.solace/solace-messaging-client@1.1.0?classifier=sources

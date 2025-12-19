@@ -1,1 +1,2 @@
 - pkg:maven/com.aallam.ulid/ulid-macosx64@0.1.0?classifier=sources
+- pkg:maven/com.aallam.ulid/ulid-macosx64@1.0.0?classifier=sources

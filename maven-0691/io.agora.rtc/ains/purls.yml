@@ -1,4 +1,8 @@
 - pkg:maven/io.agora.rtc/ains@3.6.3?type=aar
 - pkg:maven/io.agora.rtc/ains@3.7.0.1?type=aar
 - pkg:maven/io.agora.rtc/ains@3.7.0.2?type=aar
+- pkg:maven/io.agora.rtc/ains@3.7.0.3?type=aar
 - pkg:maven/io.agora.rtc/ains@3.7.0?type=aar
+- pkg:maven/io.agora.rtc/ains@4.0.0.test.2?type=aar
+- pkg:maven/io.agora.rtc/ains@4.0.0.test3?type=aar
+- pkg:maven/io.agora.rtc/ains@4.0.0.test?type=aar

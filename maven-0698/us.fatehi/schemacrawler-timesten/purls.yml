@@ -96,6 +96,8 @@
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.16.15?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.16.16
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.16.16?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-timesten@16.16.17
+- pkg:maven/us.fatehi/schemacrawler-timesten@16.16.17?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.16.3
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.16.3?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.16.4
@@ -110,6 +112,8 @@
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.16.8?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.16.9
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.16.9?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-timesten@16.17.1
+- pkg:maven/us.fatehi/schemacrawler-timesten@16.17.1?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.2.2
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.2.2?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-timesten@16.2.3

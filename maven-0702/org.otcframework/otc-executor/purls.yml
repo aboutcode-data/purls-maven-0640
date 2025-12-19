@@ -3,3 +3,4 @@
 - pkg:maven/org.otcframework/otc-executor@2.2
 - pkg:maven/org.otcframework/otc-executor@2.3
 - pkg:maven/org.otcframework/otc-executor@2.4
+- pkg:maven/org.otcframework/otc-executor@2.5

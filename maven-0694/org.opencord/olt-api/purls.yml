@@ -50,3 +50,7 @@
 - pkg:maven/org.opencord/olt-api@4.5.0?classifier=sources
 - pkg:maven/org.opencord/olt-api@5.0.0
 - pkg:maven/org.opencord/olt-api@5.0.0?classifier=sources
+- pkg:maven/org.opencord/olt-api@5.1.0
+- pkg:maven/org.opencord/olt-api@5.1.0?classifier=sources
+- pkg:maven/org.opencord/olt-api@5.1.2
+- pkg:maven/org.opencord/olt-api@5.1.2?classifier=sources

@@ -130,6 +130,8 @@
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.30?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.31.0
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.31.0?classifier=sources
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.32.0
+- pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.32.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.4.0
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.4.0?classifier=sources
 - pkg:maven/com.ingenico.connect.gateway/connect-sdk-java@6.5.0

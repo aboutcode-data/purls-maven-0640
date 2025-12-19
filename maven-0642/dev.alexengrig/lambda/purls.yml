@@ -1,0 +1,4 @@
+- pkg:maven/dev.alexengrig/lambda@1.0
+- pkg:maven/dev.alexengrig/lambda@1.0?classifier=sources
+- pkg:maven/dev.alexengrig/lambda@2.0
+- pkg:maven/dev.alexengrig/lambda@2.0?classifier=sources

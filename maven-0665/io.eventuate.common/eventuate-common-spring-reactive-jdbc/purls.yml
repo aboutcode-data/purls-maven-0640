@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.common/eventuate-common-spring-reactive-jdbc@0.15.0.RELEASE?classifier=sources

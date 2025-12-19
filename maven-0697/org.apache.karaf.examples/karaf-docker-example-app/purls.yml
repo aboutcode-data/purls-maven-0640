@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.2.14?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.2.15
 - pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.2.15?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.2.16
+- pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.2.16?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.2.5
 - pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.2.5?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.2.6
@@ -40,3 +42,5 @@
 - pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.3.7?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.4.0
 - pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.4.0?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.4.1
+- pkg:maven/org.apache.karaf.examples/karaf-docker-example-app@4.4.1?classifier=sources

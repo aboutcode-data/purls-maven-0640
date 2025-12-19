@@ -1,1 +1,2 @@
 - pkg:maven/tools.aqua/bgw-sudoku-example@0.6?classifier=sources
+- pkg:maven/tools.aqua/bgw-sudoku-example@0.7?classifier=sources

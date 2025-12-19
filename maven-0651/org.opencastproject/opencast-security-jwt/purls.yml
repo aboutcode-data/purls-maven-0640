@@ -36,3 +36,7 @@
 - pkg:maven/org.opencastproject/opencast-security-jwt@11.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-security-jwt@11.7
 - pkg:maven/org.opencastproject/opencast-security-jwt@11.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-security-jwt@12.0
+- pkg:maven/org.opencastproject/opencast-security-jwt@12.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-security-jwt@12.1
+- pkg:maven/org.opencastproject/opencast-security-jwt@12.1?classifier=sources

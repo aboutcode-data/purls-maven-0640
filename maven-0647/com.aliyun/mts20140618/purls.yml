@@ -28,3 +28,5 @@
 - pkg:maven/com.aliyun/mts20140618@3.3.44?classifier=sources
 - pkg:maven/com.aliyun/mts20140618@3.3.45
 - pkg:maven/com.aliyun/mts20140618@3.3.45?classifier=sources
+- pkg:maven/com.aliyun/mts20140618@3.3.46
+- pkg:maven/com.aliyun/mts20140618@3.3.46?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosx64@0.6.0-native-compose-01?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosx64@0.6.0-native-compose?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosx64@0.7.0-native-compose-01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosx64@0.7.0-native-compose-02?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosx64@0.8.0-native-compose-02?classifier=sources

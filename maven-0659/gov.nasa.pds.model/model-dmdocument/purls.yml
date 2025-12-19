@@ -40,3 +40,5 @@
 - pkg:maven/gov.nasa.pds.model/model-dmdocument@13.0.2?classifier=sources
 - pkg:maven/gov.nasa.pds.model/model-dmdocument@13.1.0
 - pkg:maven/gov.nasa.pds.model/model-dmdocument@13.1.0?classifier=sources
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@14.0.8
+- pkg:maven/gov.nasa.pds.model/model-dmdocument@14.0.8?classifier=sources

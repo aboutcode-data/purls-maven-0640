@@ -168,6 +168,8 @@
 - pkg:maven/com.checkmarx/cx-client-common@2022.2.12?classifier=sources
 - pkg:maven/com.checkmarx/cx-client-common@2022.2.13
 - pkg:maven/com.checkmarx/cx-client-common@2022.2.13?classifier=sources
+- pkg:maven/com.checkmarx/cx-client-common@2022.2.14
+- pkg:maven/com.checkmarx/cx-client-common@2022.2.14?classifier=sources
 - pkg:maven/com.checkmarx/cx-client-common@8.80.0
 - pkg:maven/com.checkmarx/cx-client-common@8.80.0?classifier=sources
 - pkg:maven/com.checkmarx/cx-client-common@8.80.1

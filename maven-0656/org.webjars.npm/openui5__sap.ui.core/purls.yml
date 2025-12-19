@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/openui5__sap.ui.core@1.103.0
+- pkg:maven/org.webjars.npm/openui5__sap.ui.core@1.103.0?classifier=sources
 - pkg:maven/org.webjars.npm/openui5__sap.ui.core@1.96.2
 - pkg:maven/org.webjars.npm/openui5__sap.ui.core@1.96.2?classifier=sources

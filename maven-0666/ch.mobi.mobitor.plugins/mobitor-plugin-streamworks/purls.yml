@@ -90,6 +90,8 @@
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-streamworks@3.1.322?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-streamworks@3.1.325
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-streamworks@3.1.325?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-streamworks@3.1.330
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-streamworks@3.1.330?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-streamworks@3.1.85
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-streamworks@3.1.85?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-streamworks@3.1.87

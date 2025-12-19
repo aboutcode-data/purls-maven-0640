@@ -34,3 +34,4 @@
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.3
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.3?classifier=sources
 - pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.4?classifier=sources
+- pkg:maven/io.projectreactor.rabbitmq/reactor-rabbitmq@1.5.5?classifier=sources
