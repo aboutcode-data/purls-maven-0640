@@ -1,0 +1,3 @@
+- pkg:maven/com.ditchoom/websocket-watchosarm32@1.0.2?classifier=sources
+- pkg:maven/com.ditchoom/websocket-watchosarm32@1.0.3?classifier=sources
+- pkg:maven/com.ditchoom/websocket-watchosarm32@1.0.4?classifier=sources

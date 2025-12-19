@@ -18,6 +18,8 @@
 - pkg:maven/io.wcm/io.wcm.caconfig.editor@1.15.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.caconfig.editor@1.15.2
 - pkg:maven/io.wcm/io.wcm.caconfig.editor@1.15.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.caconfig.editor@1.15.4
+- pkg:maven/io.wcm/io.wcm.caconfig.editor@1.15.4?classifier=sources
 - pkg:maven/io.wcm/io.wcm.caconfig.editor@1.2.0
 - pkg:maven/io.wcm/io.wcm.caconfig.editor@1.2.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.caconfig.editor@1.2.10

@@ -5,3 +5,4 @@
 - pkg:maven/io.github.Rosemoe.sora-editor/language-treesitter@0.20.3?classifier=sources
 - pkg:maven/io.github.Rosemoe.sora-editor/language-treesitter@0.20.4?classifier=sources
 - pkg:maven/io.github.Rosemoe.sora-editor/language-treesitter@0.21.0?classifier=sources
+- pkg:maven/io.github.Rosemoe.sora-editor/language-treesitter@0.21.1?classifier=sources

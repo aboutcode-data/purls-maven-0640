@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.flink/flink-connector-nifi@1.15.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-nifi@1.15.3
 - pkg:maven/org.apache.flink/flink-connector-nifi@1.15.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-connector-nifi@1.15.4
+- pkg:maven/org.apache.flink/flink-connector-nifi@1.15.4?classifier=sources

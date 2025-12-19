@@ -170,6 +170,8 @@
 - pkg:maven/org.mvel/mvel2@2.4.13.Final?classifier=sources
 - pkg:maven/org.mvel/mvel2@2.4.14.Final
 - pkg:maven/org.mvel/mvel2@2.4.14.Final?classifier=sources
+- pkg:maven/org.mvel/mvel2@2.4.15.Final
+- pkg:maven/org.mvel/mvel2@2.4.15.Final?classifier=sources
 - pkg:maven/org.mvel/mvel2@2.4.2.Final
 - pkg:maven/org.mvel/mvel2@2.4.2.Final?classifier=sources
 - pkg:maven/org.mvel/mvel2@2.4.3.Final

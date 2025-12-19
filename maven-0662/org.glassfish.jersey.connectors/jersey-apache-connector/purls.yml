@@ -129,6 +129,8 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.37?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.38
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.38?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.39
+- pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.4
 - pkg:maven/org.glassfish.jersey.connectors/jersey-apache-connector@2.4.1

@@ -2,3 +2,4 @@
 - pkg:maven/org.jboss.windup/tackle-cli@6.1.0.Alpha1
 - pkg:maven/org.jboss.windup/tackle-cli@6.1.0.Final
 - pkg:maven/org.jboss.windup/tackle-cli@6.1.2.Final
+- pkg:maven/org.jboss.windup/tackle-cli@6.1.4.Final

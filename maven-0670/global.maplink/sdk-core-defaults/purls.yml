@@ -19,5 +19,13 @@
 - pkg:maven/global.maplink/sdk-core-defaults@1.3.1
 - pkg:maven/global.maplink/sdk-core-defaults@1.4.0
 - pkg:maven/global.maplink/sdk-core-defaults@1.4.1
+- pkg:maven/global.maplink/sdk-core-defaults@1.4.10
+- pkg:maven/global.maplink/sdk-core-defaults@1.4.11
 - pkg:maven/global.maplink/sdk-core-defaults@1.4.2
 - pkg:maven/global.maplink/sdk-core-defaults@1.4.3
+- pkg:maven/global.maplink/sdk-core-defaults@1.4.4
+- pkg:maven/global.maplink/sdk-core-defaults@1.4.5
+- pkg:maven/global.maplink/sdk-core-defaults@1.4.6
+- pkg:maven/global.maplink/sdk-core-defaults@1.4.7
+- pkg:maven/global.maplink/sdk-core-defaults@1.4.8
+- pkg:maven/global.maplink/sdk-core-defaults@1.4.9

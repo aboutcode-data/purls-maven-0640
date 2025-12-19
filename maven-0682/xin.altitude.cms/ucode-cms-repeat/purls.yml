@@ -102,3 +102,5 @@
 - pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.5
 - pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2.5?classifier=sources
 - pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.2?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.3
+- pkg:maven/xin.altitude.cms/ucode-cms-repeat@1.6.3?classifier=sources

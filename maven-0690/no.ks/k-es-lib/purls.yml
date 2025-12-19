@@ -20,3 +20,7 @@
 - pkg:maven/no.ks/k-es-lib@3.1.2?classifier=sources
 - pkg:maven/no.ks/k-es-lib@3.1.3
 - pkg:maven/no.ks/k-es-lib@3.1.3?classifier=sources
+- pkg:maven/no.ks/k-es-lib@3.1.4
+- pkg:maven/no.ks/k-es-lib@3.1.4?classifier=sources
+- pkg:maven/no.ks/k-es-lib@4.0.0
+- pkg:maven/no.ks/k-es-lib@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/one.gfw/jakarta.xml.bind-api@4.0.0.1?classifier=sources
+- pkg:maven/one.gfw/jakarta.xml.bind-api@4.0.0?classifier=sources

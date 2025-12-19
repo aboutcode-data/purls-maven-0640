@@ -6,3 +6,5 @@
 - pkg:maven/org.cleartk/cleartk-ml-libsvm@1.2.0?classifier=sources
 - pkg:maven/org.cleartk/cleartk-ml-libsvm@2.0.0
 - pkg:maven/org.cleartk/cleartk-ml-libsvm@2.0.0?classifier=sources
+- pkg:maven/org.cleartk/cleartk-ml-libsvm@3.0.0
+- pkg:maven/org.cleartk/cleartk-ml-libsvm@3.0.0?classifier=sources

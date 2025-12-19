@@ -5,3 +5,8 @@
 - pkg:maven/net.kigawa.kutil/kutil-unit@4.0.1
 - pkg:maven/net.kigawa.kutil/kutil-unit@4.0.2
 - pkg:maven/net.kigawa.kutil/kutil-unit@4.0.3
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.0.4
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.0.5
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.1.0
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.2.0
+- pkg:maven/net.kigawa.kutil/kutil-unit@4.3.0

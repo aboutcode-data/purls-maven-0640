@@ -1,0 +1,2 @@
+- pkg:maven/io.gardenerframework.camellia/authentication-server-encryption-rsa@1.0.0-Beta-2?classifier=sources
+- pkg:maven/io.gardenerframework.camellia/authentication-server-encryption-rsa@1.0.0-Beta-3?classifier=sources

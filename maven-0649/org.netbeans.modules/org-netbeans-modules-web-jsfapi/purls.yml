@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE170?classifier=sources

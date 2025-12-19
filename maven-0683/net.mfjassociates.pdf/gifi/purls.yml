@@ -1,0 +1,10 @@
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.2
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.2?classifier=sources
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.3
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.3?classifier=sources
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.4
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.4?classifier=sources
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.5
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.5?classifier=sources
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.6
+- pkg:maven/net.mfjassociates.pdf/gifi@2.0.6?classifier=sources

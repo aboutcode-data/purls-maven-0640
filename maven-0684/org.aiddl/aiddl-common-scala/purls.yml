@@ -1,0 +1,2 @@
+- pkg:maven/org.aiddl/aiddl-common-scala@0.1.0
+- pkg:maven/org.aiddl/aiddl-common-scala@0.1.0?classifier=sources

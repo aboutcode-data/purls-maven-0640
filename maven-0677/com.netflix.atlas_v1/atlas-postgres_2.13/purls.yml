@@ -1,3 +1,4 @@
+- pkg:maven/com.netflix.atlas_v1/atlas-postgres_2.13@1.7.0
 - pkg:maven/com.netflix.atlas_v1/atlas-postgres_2.13@1.7.0-rc.18
 - pkg:maven/com.netflix.atlas_v1/atlas-postgres_2.13@1.7.0-rc.18?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-postgres_2.13@1.7.0-rc.19
@@ -26,3 +27,4 @@
 - pkg:maven/com.netflix.atlas_v1/atlas-postgres_2.13@1.7.0-rc.30?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-postgres_2.13@1.7.0-rc.31
 - pkg:maven/com.netflix.atlas_v1/atlas-postgres_2.13@1.7.0-rc.31?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-postgres_2.13@1.7.0?classifier=sources

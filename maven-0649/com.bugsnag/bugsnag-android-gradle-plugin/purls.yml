@@ -181,3 +181,5 @@
 - pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@7.3.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@7.3.1?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@7.4.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@7.4.1?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-gradle-plugin@8.0.0-beta01?classifier=sources

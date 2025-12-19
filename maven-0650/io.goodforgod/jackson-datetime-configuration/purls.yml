@@ -1,1 +1,2 @@
 - pkg:maven/io.goodforgod/jackson-datetime-configuration@1.0.0?classifier=sources
+- pkg:maven/io.goodforgod/jackson-datetime-configuration@2.0.0?classifier=sources

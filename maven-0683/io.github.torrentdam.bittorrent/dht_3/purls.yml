@@ -34,3 +34,7 @@
 - pkg:maven/io.github.torrentdam.bittorrent/dht_3@2.0.3?classifier=sources
 - pkg:maven/io.github.torrentdam.bittorrent/dht_3@3.0.0
 - pkg:maven/io.github.torrentdam.bittorrent/dht_3@3.0.0?classifier=sources
+- pkg:maven/io.github.torrentdam.bittorrent/dht_3@3.1.0
+- pkg:maven/io.github.torrentdam.bittorrent/dht_3@3.1.0?classifier=sources
+- pkg:maven/io.github.torrentdam.bittorrent/dht_3@3.1.1
+- pkg:maven/io.github.torrentdam.bittorrent/dht_3@3.1.1?classifier=sources

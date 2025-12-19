@@ -2,3 +2,5 @@
 - pkg:maven/ru.sbtqa.htmlelements/htmlelements-java@1.17-JAVA7?classifier=sources
 - pkg:maven/ru.sbtqa.htmlelements/htmlelements-java@1.21.4
 - pkg:maven/ru.sbtqa.htmlelements/htmlelements-java@1.21.4?classifier=sources
+- pkg:maven/ru.sbtqa.htmlelements/htmlelements-java@1.21.5
+- pkg:maven/ru.sbtqa.htmlelements/htmlelements-java@1.21.5?classifier=sources

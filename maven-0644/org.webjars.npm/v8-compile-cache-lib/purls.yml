@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/v8-compile-cache-lib@3.0.1
+- pkg:maven/org.webjars.npm/v8-compile-cache-lib@3.0.1?classifier=sources

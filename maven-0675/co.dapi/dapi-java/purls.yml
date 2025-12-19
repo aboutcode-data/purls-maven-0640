@@ -34,3 +34,5 @@
 - pkg:maven/co.dapi/dapi-java@1.5.2?classifier=sources
 - pkg:maven/co.dapi/dapi-java@1.6.0
 - pkg:maven/co.dapi/dapi-java@1.6.0?classifier=sources
+- pkg:maven/co.dapi/dapi-java@1.6.1
+- pkg:maven/co.dapi/dapi-java@1.6.1?classifier=sources

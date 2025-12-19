@@ -1,1 +1,3 @@
 - pkg:maven/org.aksw.iana-language-subtag-registry/iana-language-subtag-registry-resource-rdf-raw@2021-02-16
+- pkg:maven/org.aksw.iana-language-subtag-registry/iana-language-subtag-registry-resource-rdf-raw@2023-02-26
+- pkg:maven/org.aksw.iana-language-subtag-registry/iana-language-subtag-registry-resource-rdf-raw@2023-02-26?classifier=sources

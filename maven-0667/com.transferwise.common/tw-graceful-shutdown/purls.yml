@@ -4,6 +4,7 @@
 - pkg:maven/com.transferwise.common/tw-graceful-shutdown@1.2.3?classifier=sources
 - pkg:maven/com.transferwise.common/tw-graceful-shutdown@1.2.4
 - pkg:maven/com.transferwise.common/tw-graceful-shutdown@1.2.4?classifier=sources
+- pkg:maven/com.transferwise.common/tw-graceful-shutdown@2.10.0?classifier=sources
 - pkg:maven/com.transferwise.common/tw-graceful-shutdown@2.3.0?classifier=sources
 - pkg:maven/com.transferwise.common/tw-graceful-shutdown@2.5.0?classifier=sources
 - pkg:maven/com.transferwise.common/tw-graceful-shutdown@2.6.0?classifier=sources

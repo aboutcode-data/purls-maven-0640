@@ -16,3 +16,5 @@
 - pkg:maven/org.smartboot.servlet/smart-servlet-spring-boot-starter@0.1.8?classifier=sources
 - pkg:maven/org.smartboot.servlet/smart-servlet-spring-boot-starter@0.1.9
 - pkg:maven/org.smartboot.servlet/smart-servlet-spring-boot-starter@0.1.9?classifier=sources
+- pkg:maven/org.smartboot.servlet/smart-servlet-spring-boot-starter@0.2
+- pkg:maven/org.smartboot.servlet/smart-servlet-spring-boot-starter@0.2?classifier=sources

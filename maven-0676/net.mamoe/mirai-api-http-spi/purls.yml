@@ -1,0 +1,2 @@
+- pkg:maven/net.mamoe/mirai-api-http-spi@2.8.0?classifier=sources
+- pkg:maven/net.mamoe/mirai-api-http-spi@2.9.1?classifier=sources

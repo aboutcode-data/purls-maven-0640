@@ -16,3 +16,5 @@
 - pkg:maven/com.immomo.momomedia/medialog@momo5.1f.medialog.1.0.2022-0805-150005?type=aar
 - pkg:maven/com.immomo.momomedia/medialog@momo5.1f.medialog.1.0.2023-0106-120006?classifier=sources
 - pkg:maven/com.immomo.momomedia/medialog@momo5.1f.medialog.1.0.2023-0106-120006?type=aar
+- pkg:maven/com.immomo.momomedia/medialog@momo5.1f.medialog.1.0.2023-0301-192201?classifier=sources
+- pkg:maven/com.immomo.momomedia/medialog@momo5.1f.medialog.1.0.2023-0301-192201?type=aar

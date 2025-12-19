@@ -34,3 +34,5 @@
 - pkg:maven/org.webjars.npm/rc-input-number@7.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/rc-input-number@7.3.4
 - pkg:maven/org.webjars.npm/rc-input-number@7.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/rc-input-number@7.4.0
+- pkg:maven/org.webjars.npm/rc-input-number@7.4.0?classifier=sources

@@ -28,3 +28,6 @@
 - pkg:maven/com.adobe.acs/acs-aem-commons-ui.apps@5.5.0?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-ui.apps@5.5.2?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-ui.apps@5.6.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-ui.apps@5.7.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-ui.apps@6.0.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-ui.apps@6.0.2?classifier=sources

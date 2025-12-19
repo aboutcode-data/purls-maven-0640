@@ -1,0 +1,4 @@
+- pkg:maven/net.golbarg.pdfviewer/JFX-PDFViewer@1.0
+- pkg:maven/net.golbarg.pdfviewer/JFX-PDFViewer@1.0?classifier=sources
+- pkg:maven/net.golbarg.pdfviewer/JFX-PDFViewer@2
+- pkg:maven/net.golbarg.pdfviewer/JFX-PDFViewer@2?classifier=sources

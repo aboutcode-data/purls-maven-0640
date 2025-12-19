@@ -1,0 +1,4 @@
+- pkg:maven/com.vaadin/vaadin-testbench-unit-shared@9.0.0
+- pkg:maven/com.vaadin/vaadin-testbench-unit-shared@9.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-testbench-unit-shared@9.0.1
+- pkg:maven/com.vaadin/vaadin-testbench-unit-shared@9.0.1?classifier=sources

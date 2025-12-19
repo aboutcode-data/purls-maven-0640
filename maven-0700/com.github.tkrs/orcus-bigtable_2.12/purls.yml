@@ -64,3 +64,5 @@
 - pkg:maven/com.github.tkrs/orcus-bigtable_2.12@0.27.6?classifier=sources
 - pkg:maven/com.github.tkrs/orcus-bigtable_2.12@0.28.0
 - pkg:maven/com.github.tkrs/orcus-bigtable_2.12@0.28.0?classifier=sources
+- pkg:maven/com.github.tkrs/orcus-bigtable_2.12@0.28.1
+- pkg:maven/com.github.tkrs/orcus-bigtable_2.12@0.28.1?classifier=sources

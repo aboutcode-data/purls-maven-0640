@@ -199,6 +199,10 @@
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.0
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.1
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.10
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.10?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.11
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.11?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.1?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.3
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.3?classifier=sources
@@ -210,6 +214,10 @@
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.6?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.7
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.7?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.8
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.8?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.9
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.23.9?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.3.0
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.3.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions@4.4.0

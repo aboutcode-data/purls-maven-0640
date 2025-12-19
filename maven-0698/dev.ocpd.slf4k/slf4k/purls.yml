@@ -1,1 +1,2 @@
 - pkg:maven/dev.ocpd.slf4k/slf4k@0.0.1?classifier=sources
+- pkg:maven/dev.ocpd.slf4k/slf4k@0.1.0?classifier=sources

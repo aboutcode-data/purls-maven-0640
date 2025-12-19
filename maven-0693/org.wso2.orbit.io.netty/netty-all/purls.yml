@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.io.netty/netty-all@4.0.39.wso2v1
+- pkg:maven/org.wso2.orbit.io.netty/netty-all@4.1.77.wso2v1

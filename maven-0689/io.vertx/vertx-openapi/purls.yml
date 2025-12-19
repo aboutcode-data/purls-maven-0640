@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-openapi@4.4.0
+- pkg:maven/io.vertx/vertx-openapi@4.4.0?classifier=sources

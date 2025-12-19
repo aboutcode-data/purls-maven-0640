@@ -1,0 +1,2 @@
+- pkg:maven/io.renku/jsonld4s_2.12@0.10.0
+- pkg:maven/io.renku/jsonld4s_2.12@0.10.0?classifier=sources

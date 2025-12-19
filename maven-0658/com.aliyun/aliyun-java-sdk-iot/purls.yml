@@ -156,6 +156,12 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.49.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.5.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.5.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.50.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.50.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.51.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.51.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.52.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.52.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.6.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.6.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-iot@7.7.0

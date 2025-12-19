@@ -76,3 +76,5 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@1.6?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@1.7
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@1.7?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@1.8
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@1.8?classifier=sources

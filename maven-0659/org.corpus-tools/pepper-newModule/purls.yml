@@ -21,3 +21,5 @@
 - pkg:maven/org.corpus-tools/pepper-newModule@3.5.2?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-newModule@3.5.3?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-newModule@3.6.0?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-newModule@3.6.1
+- pkg:maven/org.corpus-tools/pepper-newModule@3.6.1?classifier=sources

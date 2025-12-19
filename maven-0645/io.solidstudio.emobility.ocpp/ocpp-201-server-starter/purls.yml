@@ -1,0 +1,2 @@
+- pkg:maven/io.solidstudio.emobility.ocpp/ocpp-201-server-starter@0.0.43
+- pkg:maven/io.solidstudio.emobility.ocpp/ocpp-201-server-starter@0.0.43?classifier=sources

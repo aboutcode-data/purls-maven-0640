@@ -6,6 +6,7 @@
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@4.7.6.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@4.7.7.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@4.7.8.Final
+- pkg:maven/org.jboss.resteasy/resteasy-unit-tests@4.7.9.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.0.Alpha1
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.0.Beta2
@@ -16,6 +17,7 @@
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.3.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.4.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.5.Final
+- pkg:maven/org.jboss.resteasy/resteasy-unit-tests@5.0.6.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.0.0.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.0.1.Final
@@ -30,3 +32,4 @@
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.0.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.1.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.2.Final
+- pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.3.Final

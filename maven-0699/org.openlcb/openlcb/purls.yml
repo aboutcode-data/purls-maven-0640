@@ -42,3 +42,5 @@
 - pkg:maven/org.openlcb/openlcb@0.7.30?classifier=sources
 - pkg:maven/org.openlcb/openlcb@0.7.31
 - pkg:maven/org.openlcb/openlcb@0.7.31?classifier=sources
+- pkg:maven/org.openlcb/openlcb@0.7.32
+- pkg:maven/org.openlcb/openlcb@0.7.32?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/io.github.xrfzh.cn/fastdfs-file-service-starter@2.8.0-RELEASE?classifier=sources
 - pkg:maven/io.github.xrfzh.cn/fastdfs-file-service-starter@2.8.1-RELEASE
 - pkg:maven/io.github.xrfzh.cn/fastdfs-file-service-starter@2.8.1-RELEASE?classifier=sources
+- pkg:maven/io.github.xrfzh.cn/fastdfs-file-service-starter@2.8.2-RELEASE
+- pkg:maven/io.github.xrfzh.cn/fastdfs-file-service-starter@2.8.2-RELEASE?classifier=sources

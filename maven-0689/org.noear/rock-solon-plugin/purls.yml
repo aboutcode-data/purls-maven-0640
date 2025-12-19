@@ -26,3 +26,5 @@
 - pkg:maven/org.noear/rock-solon-plugin@2.5.4?classifier=sources
 - pkg:maven/org.noear/rock-solon-plugin@2.6.0
 - pkg:maven/org.noear/rock-solon-plugin@2.6.0?classifier=sources
+- pkg:maven/org.noear/rock-solon-plugin@2.6.1
+- pkg:maven/org.noear/rock-solon-plugin@2.6.1?classifier=sources

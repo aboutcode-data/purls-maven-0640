@@ -13,3 +13,5 @@
 - pkg:maven/org.mesagisto/mesagisto-client@1.6.0-rc.7?classifier=sources
 - pkg:maven/org.mesagisto/mesagisto-client@1.6.0-rc.8?classifier=sources
 - pkg:maven/org.mesagisto/mesagisto-client@1.6.0-rc.9?classifier=sources
+- pkg:maven/org.mesagisto/mesagisto-client@1.6.0?classifier=sources
+- pkg:maven/org.mesagisto/mesagisto-client@1.6.1?classifier=sources

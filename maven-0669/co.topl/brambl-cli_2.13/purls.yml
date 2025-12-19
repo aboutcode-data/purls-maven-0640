@@ -1,0 +1,2 @@
+- pkg:maven/co.topl/brambl-cli_2.13@1.0.0.beta-1
+- pkg:maven/co.topl/brambl-cli_2.13@1.0.0.beta-1?classifier=sources

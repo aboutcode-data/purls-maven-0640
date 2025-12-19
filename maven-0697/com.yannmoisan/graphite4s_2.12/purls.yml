@@ -12,3 +12,5 @@
 - pkg:maven/com.yannmoisan/graphite4s_2.12@0.1.4-M3g?classifier=sources
 - pkg:maven/com.yannmoisan/graphite4s_2.12@0.1.4-M4
 - pkg:maven/com.yannmoisan/graphite4s_2.12@0.1.4-M4?classifier=sources
+- pkg:maven/com.yannmoisan/graphite4s_2.12@0.1.4-M5
+- pkg:maven/com.yannmoisan/graphite4s_2.12@0.1.4-M5?classifier=sources

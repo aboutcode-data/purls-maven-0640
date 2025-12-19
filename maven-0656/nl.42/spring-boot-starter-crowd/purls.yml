@@ -22,3 +22,5 @@
 - pkg:maven/nl.42/spring-boot-starter-crowd@2.0.1?classifier=sources
 - pkg:maven/nl.42/spring-boot-starter-crowd@2.0.2
 - pkg:maven/nl.42/spring-boot-starter-crowd@2.0.2?classifier=sources
+- pkg:maven/nl.42/spring-boot-starter-crowd@3.0.0
+- pkg:maven/nl.42/spring-boot-starter-crowd@3.0.0?classifier=sources

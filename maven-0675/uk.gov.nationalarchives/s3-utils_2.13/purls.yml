@@ -34,3 +34,17 @@
 - pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.71?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.72
 - pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.72?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.73
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.73?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.74
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.74?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.75
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.75?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.76
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.76?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.77
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.77?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.78
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.78?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.79
+- pkg:maven/uk.gov.nationalarchives/s3-utils_2.13@0.1.79?classifier=sources

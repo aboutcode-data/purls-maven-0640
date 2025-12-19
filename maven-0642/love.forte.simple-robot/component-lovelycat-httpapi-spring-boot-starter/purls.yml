@@ -176,3 +176,5 @@
 - pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi-spring-boot-starter@2.5.0?classifier=sources
 - pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi-spring-boot-starter@2.5.1
 - pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi-spring-boot-starter@2.5.1?classifier=sources
+- pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi-spring-boot-starter@2.5.2
+- pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi-spring-boot-starter@2.5.2?classifier=sources

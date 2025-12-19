@@ -74,3 +74,5 @@
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@1.9.0?classifier=sources
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@2.0.0.Alpha1
 - pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@2.0.0.Alpha1?classifier=sources
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@2.0.0.Alpha2
+- pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-docs@2.0.0.Alpha2?classifier=sources

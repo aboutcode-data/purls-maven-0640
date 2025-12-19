@@ -34,3 +34,4 @@
 - pkg:maven/com.bloomberg/selekt-java@0.16.4?classifier=sources
 - pkg:maven/com.bloomberg/selekt-java@0.17.0?classifier=sources
 - pkg:maven/com.bloomberg/selekt-java@0.17.1?classifier=sources
+- pkg:maven/com.bloomberg/selekt-java@0.18.0?classifier=sources

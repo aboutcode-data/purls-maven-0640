@@ -1,0 +1,2 @@
+- pkg:maven/io.toolisticon.aptk/aptk-compilermessages-api@0.21.0
+- pkg:maven/io.toolisticon.aptk/aptk-compilermessages-api@0.21.0?classifier=sources

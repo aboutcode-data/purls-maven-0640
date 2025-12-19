@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-prelude-docs_2.12@1.0.0-RC17
+- pkg:maven/dev.zio/zio-prelude-docs_2.12@1.0.0-RC17?classifier=sources
+- pkg:maven/dev.zio/zio-prelude-docs_2.12@1.0.0-RC18
+- pkg:maven/dev.zio/zio-prelude-docs_2.12@1.0.0-RC18?classifier=sources

@@ -2,3 +2,10 @@
 - pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1668658033%2B332c8b43?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1673556160%2B3df92544?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1674848242%2B7220fa62?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1676598029%2B35eaa62d?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1676678140%2B331adcd9?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1677523866%2Bf2fa1d68?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1677784544%2B665bfb55?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1678124406%2B89884e46?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1678128514%2B604bbaae?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.5.0-alpha.1678129620%2Bb4304fde?classifier=sources

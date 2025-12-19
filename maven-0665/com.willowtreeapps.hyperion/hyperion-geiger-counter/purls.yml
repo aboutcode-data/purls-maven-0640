@@ -17,3 +17,4 @@
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-geiger-counter@0.9.33?classifier=sources
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-geiger-counter@0.9.34?classifier=sources
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-geiger-counter@0.9.36?classifier=sources
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-geiger-counter@0.9.37?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/ch.software-atelier/simpleflex-auth@2.2.9?classifier=sources
 - pkg:maven/ch.software-atelier/simpleflex-auth@2.3.0
 - pkg:maven/ch.software-atelier/simpleflex-auth@2.3.0?classifier=sources
+- pkg:maven/ch.software-atelier/simpleflex-auth@2.4.0
+- pkg:maven/ch.software-atelier/simpleflex-auth@2.4.0?classifier=sources

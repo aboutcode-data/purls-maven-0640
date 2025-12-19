@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.search/org.gecko.search.util@1.1.0
+- pkg:maven/org.geckoprojects.search/org.gecko.search.util@1.1.0?classifier=sources

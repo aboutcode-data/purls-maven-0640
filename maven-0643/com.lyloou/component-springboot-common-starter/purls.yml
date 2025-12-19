@@ -1,0 +1,2 @@
+- pkg:maven/com.lyloou/component-springboot-common-starter@1.0.75
+- pkg:maven/com.lyloou/component-springboot-common-starter@1.0.75?classifier=sources

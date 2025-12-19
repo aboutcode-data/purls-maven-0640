@@ -1,0 +1,2 @@
+- pkg:maven/net.pishen/store4s-sttp_2.13@0.15.0
+- pkg:maven/net.pishen/store4s-sttp_2.13@0.15.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.wgzhao.addax/influxdb2reader@4.0.12
+- pkg:maven/com.wgzhao.addax/influxdb2reader@4.0.12?classifier=sources
 - pkg:maven/com.wgzhao.addax/influxdb2reader@4.0.7
 - pkg:maven/com.wgzhao.addax/influxdb2reader@4.0.7?classifier=sources
 - pkg:maven/com.wgzhao.addax/influxdb2reader@4.0.8

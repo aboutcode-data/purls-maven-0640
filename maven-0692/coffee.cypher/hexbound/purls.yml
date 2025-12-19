@@ -1,3 +1,6 @@
+- pkg:maven/coffee.cypher/hexbound@0.1.0%2B1.19.2?classifier=sources
 - pkg:maven/coffee.cypher/hexbound@0.1.0-beta.1%2B1.19.2?classifier=sources
 - pkg:maven/coffee.cypher/hexbound@0.1.0-beta.2%2B1.19.2?classifier=sources
 - pkg:maven/coffee.cypher/hexbound@0.1.0-beta.3%2B1.19.2?classifier=sources
+- pkg:maven/coffee.cypher/hexbound@0.1.1%2B1.19.2?classifier=sources
+- pkg:maven/coffee.cypher/hexbound@0.1.2%2B1.19.2?classifier=sources
