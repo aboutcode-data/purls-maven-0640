@@ -46,3 +46,11 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.62?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.63
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.63?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64.1
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64.1?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64.2
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64.2?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64.3
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64.3?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jmx2dsl@0.64?classifier=sources

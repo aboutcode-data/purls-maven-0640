@@ -1,0 +1,4 @@
+- pkg:maven/run.wj/ddns@2022.8.31
+- pkg:maven/run.wj/ddns@2022.8.31?classifier=sources
+- pkg:maven/run.wj/ddns@2022.9.1
+- pkg:maven/run.wj/ddns@2022.9.1?classifier=sources

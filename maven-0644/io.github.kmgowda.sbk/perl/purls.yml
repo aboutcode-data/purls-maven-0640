@@ -3,4 +3,7 @@
 - pkg:maven/io.github.kmgowda.sbk/perl@0.97?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/perl@0.98?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/perl@0.991?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/perl@0.992?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/perl@0.99?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/perl@1.0?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/perl@1.1?classifier=sources

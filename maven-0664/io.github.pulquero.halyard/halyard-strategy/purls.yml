@@ -2,6 +2,10 @@
 - pkg:maven/io.github.pulquero.halyard/halyard-strategy@2.6?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-strategy@3.10
 - pkg:maven/io.github.pulquero.halyard/halyard-strategy@3.10?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-strategy@3.11
+- pkg:maven/io.github.pulquero.halyard/halyard-strategy@3.11?classifier=sources
+- pkg:maven/io.github.pulquero.halyard/halyard-strategy@3.12
+- pkg:maven/io.github.pulquero.halyard/halyard-strategy@3.12?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-strategy@3.7
 - pkg:maven/io.github.pulquero.halyard/halyard-strategy@3.7?classifier=sources
 - pkg:maven/io.github.pulquero.halyard/halyard-strategy@3.9

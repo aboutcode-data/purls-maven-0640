@@ -8,6 +8,8 @@
 - pkg:maven/com.github.zhongl/akka-stream-netty-all_2.13@0.1.13?classifier=sources
 - pkg:maven/com.github.zhongl/akka-stream-netty-all_2.13@0.1.14
 - pkg:maven/com.github.zhongl/akka-stream-netty-all_2.13@0.1.14?classifier=sources
+- pkg:maven/com.github.zhongl/akka-stream-netty-all_2.13@0.1.15
+- pkg:maven/com.github.zhongl/akka-stream-netty-all_2.13@0.1.15?classifier=sources
 - pkg:maven/com.github.zhongl/akka-stream-netty-all_2.13@0.1.4
 - pkg:maven/com.github.zhongl/akka-stream-netty-all_2.13@0.1.4?classifier=sources
 - pkg:maven/com.github.zhongl/akka-stream-netty-all_2.13@0.1.5

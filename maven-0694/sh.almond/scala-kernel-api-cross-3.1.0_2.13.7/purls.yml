@@ -1,0 +1,2 @@
+- pkg:maven/sh.almond/scala-kernel-api-cross-3.1.0_2.13.7@0.13.1
+- pkg:maven/sh.almond/scala-kernel-api-cross-3.1.0_2.13.7@0.13.1?classifier=sources

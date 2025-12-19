@@ -20,3 +20,5 @@
 - pkg:maven/org.odpi.egeria/gaf-metadata-api@2.2?classifier=sources
 - pkg:maven/org.odpi.egeria/gaf-metadata-api@2.3
 - pkg:maven/org.odpi.egeria/gaf-metadata-api@2.3?classifier=sources
+- pkg:maven/org.odpi.egeria/gaf-metadata-api@3.11
+- pkg:maven/org.odpi.egeria/gaf-metadata-api@3.11?classifier=sources

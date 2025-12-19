@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pojul/gjsbridge@1.0.1?classifier=sources
+- pkg:maven/io.github.pojul/gjsbridge@1.0.1?type=aar

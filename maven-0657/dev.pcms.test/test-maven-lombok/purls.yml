@@ -1,0 +1,2 @@
+- pkg:maven/dev.pcms.test/test-maven-lombok@1.18.20.1
+- pkg:maven/dev.pcms.test/test-maven-lombok@1.18.20.1?classifier=sources

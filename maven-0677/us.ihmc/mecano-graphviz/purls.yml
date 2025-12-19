@@ -7,3 +7,4 @@
 - pkg:maven/us.ihmc/mecano-graphviz@0.8.4?classifier=sources
 - pkg:maven/us.ihmc/mecano-graphviz@0.9.0?classifier=sources
 - pkg:maven/us.ihmc/mecano-graphviz@0.9.1?classifier=sources
+- pkg:maven/us.ihmc/mecano-graphviz@17-0.11.3?classifier=sources

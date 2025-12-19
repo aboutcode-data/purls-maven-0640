@@ -1,4 +1,6 @@
 - pkg:maven/io.github.stripling-feng/easy-push-mail-spring-boot-starter@1.0.0
 - pkg:maven/io.github.stripling-feng/easy-push-mail-spring-boot-starter@1.0.0?classifier=sources
 - pkg:maven/io.github.stripling-feng/easy-push-mail-spring-boot-starter@1.0.1
+- pkg:maven/io.github.stripling-feng/easy-push-mail-spring-boot-starter@1.0.11
+- pkg:maven/io.github.stripling-feng/easy-push-mail-spring-boot-starter@1.0.11?classifier=sources
 - pkg:maven/io.github.stripling-feng/easy-push-mail-spring-boot-starter@1.0.1?classifier=sources

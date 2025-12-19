@@ -5,3 +5,6 @@
 - pkg:maven/com.soywiz.korlibs.luak/luak-macosarm64@2.4.8?classifier=sources
 - pkg:maven/com.soywiz.korlibs.luak/luak-macosarm64@2.4.9?classifier=sources
 - pkg:maven/com.soywiz.korlibs.luak/luak-macosarm64@3.0.0-Beta6?classifier=sources
+- pkg:maven/com.soywiz.korlibs.luak/luak-macosarm64@3.0.0-Beta7?classifier=sources
+- pkg:maven/com.soywiz.korlibs.luak/luak-macosarm64@3.0.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.luak/luak-macosarm64@3.0.1?classifier=sources

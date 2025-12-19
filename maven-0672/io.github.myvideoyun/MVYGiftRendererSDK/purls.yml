@@ -1,2 +1,3 @@
 - pkg:maven/io.github.myvideoyun/MVYGiftRendererSDK@1.0.16?classifier=sources
 - pkg:maven/io.github.myvideoyun/MVYGiftRendererSDK@1.0.16?type=aar
+- pkg:maven/io.github.myvideoyun/MVYGiftRendererSDK@1.0.17?classifier=sources

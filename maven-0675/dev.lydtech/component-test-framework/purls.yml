@@ -16,3 +16,7 @@
 - pkg:maven/dev.lydtech/component-test-framework@1.5.0?classifier=sources
 - pkg:maven/dev.lydtech/component-test-framework@1.6.0
 - pkg:maven/dev.lydtech/component-test-framework@1.6.0?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@1.7.0
+- pkg:maven/dev.lydtech/component-test-framework@1.7.0?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@1.7.1
+- pkg:maven/dev.lydtech/component-test-framework@1.7.1?classifier=sources

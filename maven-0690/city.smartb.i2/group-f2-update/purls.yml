@@ -1,3 +1,5 @@
+- pkg:maven/city.smartb.i2/group-f2-update@0.10.0?classifier=sources
+- pkg:maven/city.smartb.i2/group-f2-update@0.10.1?classifier=sources
 - pkg:maven/city.smartb.i2/group-f2-update@0.5.0?classifier=sources
 - pkg:maven/city.smartb.i2/group-f2-update@0.6.0?classifier=sources
 - pkg:maven/city.smartb.i2/group-f2-update@0.7.0?classifier=sources

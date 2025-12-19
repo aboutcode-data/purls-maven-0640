@@ -1,0 +1,2 @@
+- pkg:maven/com.ooimi.library/widget@1.0.3?classifier=sources
+- pkg:maven/com.ooimi.library/widget@1.0.4?classifier=sources

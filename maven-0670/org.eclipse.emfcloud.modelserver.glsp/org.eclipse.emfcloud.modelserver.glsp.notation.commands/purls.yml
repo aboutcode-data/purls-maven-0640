@@ -1,1 +1,2 @@
+- pkg:maven/org.eclipse.emfcloud.modelserver.glsp/org.eclipse.emfcloud.modelserver.glsp.notation.commands@0.8.0.I20220803?classifier=sources
 - pkg:maven/org.eclipse.emfcloud.modelserver.glsp/org.eclipse.emfcloud.modelserver.glsp.notation.commands@0.8.0.RC02?classifier=sources

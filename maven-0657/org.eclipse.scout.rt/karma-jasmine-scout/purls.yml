@@ -55,4 +55,10 @@
 - pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.11
 - pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.12
 - pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.15
+- pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.19
 - pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.2
+- pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.22
+- pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.23
+- pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.24
+- pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.26
+- pkg:maven/org.eclipse.scout.rt/karma-jasmine-scout@22.0.29

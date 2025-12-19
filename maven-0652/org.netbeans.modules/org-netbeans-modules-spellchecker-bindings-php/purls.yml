@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-php@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-php@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-php@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-php@RELEASE150?classifier=sources

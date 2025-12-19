@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/lezer__lr@0.15.6
 - pkg:maven/org.webjars.npm/lezer__lr@0.15.6?classifier=sources
+- pkg:maven/org.webjars.npm/lezer__lr@1.2.3
+- pkg:maven/org.webjars.npm/lezer__lr@1.2.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zhoushuai1119/rocketmq-example-consumer@3.7.0
+- pkg:maven/io.github.zhoushuai1119/rocketmq-example-consumer@3.7.0?classifier=sources

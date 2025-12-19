@@ -6,3 +6,6 @@
 - pkg:maven/com.liftric/cognito-idp-iossimulatorarm64@2.4.3?classifier=sources
 - pkg:maven/com.liftric/cognito-idp-iossimulatorarm64@2.5.0?classifier=sources
 - pkg:maven/com.liftric/cognito-idp-iossimulatorarm64@2.6.0?classifier=sources
+- pkg:maven/com.liftric/cognito-idp-iossimulatorarm64@2.7.0?classifier=sources
+- pkg:maven/com.liftric/cognito-idp-iossimulatorarm64@2.7.1?classifier=sources
+- pkg:maven/com.liftric/cognito-idp-iossimulatorarm64@2.8.0?classifier=sources

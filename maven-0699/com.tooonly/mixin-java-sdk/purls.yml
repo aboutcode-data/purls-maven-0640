@@ -1,0 +1,2 @@
+- pkg:maven/com.tooonly/mixin-java-sdk@1.0.0-Release
+- pkg:maven/com.tooonly/mixin-java-sdk@1.0.0-Release?classifier=sources

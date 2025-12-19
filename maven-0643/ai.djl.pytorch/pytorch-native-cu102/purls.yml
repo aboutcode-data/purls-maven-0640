@@ -2,6 +2,8 @@
 - pkg:maven/ai.djl.pytorch/pytorch-native-cu102@1.10.0?classifier=sources
 - pkg:maven/ai.djl.pytorch/pytorch-native-cu102@1.11.0
 - pkg:maven/ai.djl.pytorch/pytorch-native-cu102@1.11.0?classifier=sources
+- pkg:maven/ai.djl.pytorch/pytorch-native-cu102@1.12.1
+- pkg:maven/ai.djl.pytorch/pytorch-native-cu102@1.12.1?classifier=sources
 - pkg:maven/ai.djl.pytorch/pytorch-native-cu102@1.5.0
 - pkg:maven/ai.djl.pytorch/pytorch-native-cu102@1.5.0?classifier=sources
 - pkg:maven/ai.djl.pytorch/pytorch-native-cu102@1.6.0

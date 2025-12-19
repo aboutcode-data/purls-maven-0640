@@ -28,6 +28,7 @@
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha21.2?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha21.3?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha21?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.10?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.1?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.2?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.3?classifier=sources
@@ -38,6 +39,12 @@
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.8?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22.9?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha22?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha23.0?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha23.1?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha23.2?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha23.3?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha23.4?classifier=sources
+- pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-alpha23.5?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-beta01?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-beta02?classifier=sources
 - pkg:maven/ai.benshi.android.sdk/loyalty@1.0.0-beta03?classifier=sources

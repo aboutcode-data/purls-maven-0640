@@ -75,3 +75,4 @@
 - pkg:maven/de.hilling.junit.cdi/cdi-test-jee@4.0.0-RC6
 - pkg:maven/de.hilling.junit.cdi/cdi-test-jee@4.0.0-RC6?classifier=sources
 - pkg:maven/de.hilling.junit.cdi/cdi-test-jee@4.0.0?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-jee@4.1.0

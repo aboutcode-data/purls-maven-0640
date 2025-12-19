@@ -8,3 +8,4 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-rest2ldap-servlet@4.4.8?type=war
 - pkg:maven/org.openidentityplatform.opendj/opendj-rest2ldap-servlet@4.4.9?type=war
 - pkg:maven/org.openidentityplatform.opendj/opendj-rest2ldap-servlet@4.5.0?type=war
+- pkg:maven/org.openidentityplatform.opendj/opendj-rest2ldap-servlet@4.5.1?type=war

@@ -14,3 +14,5 @@
 - pkg:maven/io.operon/camel-operon@0.9.5-RELEASE?classifier=sources
 - pkg:maven/io.operon/camel-operon@0.9.5.1-RELEASE
 - pkg:maven/io.operon/camel-operon@0.9.5.1-RELEASE?classifier=sources
+- pkg:maven/io.operon/camel-operon@0.9.6-RELEASE
+- pkg:maven/io.operon/camel-operon@0.9.6-RELEASE?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.pulumi/auth0@2.12.0-alpha.1660228844%2B7262f1d2?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.12.0?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.13.0-alpha.1661535802%2Bc2ec6bb2?classifier=sources
+- pkg:maven/com.pulumi/auth0@2.13.0?classifier=sources

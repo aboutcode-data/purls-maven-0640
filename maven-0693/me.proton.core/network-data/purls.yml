@@ -59,3 +59,4 @@
 - pkg:maven/me.proton.core/network-data@8.3.0?classifier=sources
 - pkg:maven/me.proton.core/network-data@8.4.0?classifier=sources
 - pkg:maven/me.proton.core/network-data@8.5.0?classifier=sources
+- pkg:maven/me.proton.core/network-data@9.0.0?classifier=sources

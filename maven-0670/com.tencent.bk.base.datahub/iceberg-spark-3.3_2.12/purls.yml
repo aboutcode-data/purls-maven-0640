@@ -1,0 +1,1 @@
+- pkg:maven/com.tencent.bk.base.datahub/iceberg-spark-3.3_2.12@0.14.0-bkbase.1?classifier=sources

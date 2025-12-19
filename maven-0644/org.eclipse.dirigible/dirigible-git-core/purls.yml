@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-git-core@6.3.21
+- pkg:maven/org.eclipse.dirigible/dirigible-git-core@6.3.21?classifier=sources

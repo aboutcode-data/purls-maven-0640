@@ -1,0 +1,1 @@
+- pkg:maven/com.vanniktech/lint-rules-kotlin@0.22.0?classifier=sources

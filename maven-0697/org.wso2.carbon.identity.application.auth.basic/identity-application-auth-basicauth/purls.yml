@@ -77,3 +77,8 @@
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/identity-application-auth-basicauth@6.4.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/identity-application-auth-basicauth@6.4.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/identity-application-auth-basicauth@6.4.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/identity-application-auth-basicauth@6.5.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/identity-application-auth-basicauth@6.5.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/identity-application-auth-basicauth@6.5.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/identity-application-auth-basicauth@6.5.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/identity-application-auth-basicauth@6.5.4?classifier=source-release&type=zip

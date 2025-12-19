@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE150?classifier=sources

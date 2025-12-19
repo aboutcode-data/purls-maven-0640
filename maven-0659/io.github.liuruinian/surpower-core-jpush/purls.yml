@@ -1,0 +1,2 @@
+- pkg:maven/io.github.liuruinian/surpower-core-jpush@1.0.6
+- pkg:maven/io.github.liuruinian/surpower-core-jpush@1.0.6?classifier=sources

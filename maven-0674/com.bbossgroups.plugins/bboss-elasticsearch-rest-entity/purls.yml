@@ -97,3 +97,6 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-entity@6.5.9?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-entity@6.6.0?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-entity@6.7.0?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-entity@6.7.1?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-entity@6.7.2?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-rest-entity@6.7.3?classifier=sources

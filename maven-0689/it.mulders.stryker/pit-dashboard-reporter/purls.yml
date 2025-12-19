@@ -1,0 +1,2 @@
+- pkg:maven/it.mulders.stryker/pit-dashboard-reporter@0.1.2
+- pkg:maven/it.mulders.stryker/pit-dashboard-reporter@0.1.2?classifier=sources

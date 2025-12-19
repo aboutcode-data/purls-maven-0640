@@ -23,3 +23,4 @@
 - pkg:maven/com.codeborne.replay/liquibase@1.9.2?classifier=sources
 - pkg:maven/com.codeborne.replay/liquibase@1.9.3?classifier=sources
 - pkg:maven/com.codeborne.replay/liquibase@1.9.4?classifier=sources
+- pkg:maven/com.codeborne.replay/liquibase@1.9.5?classifier=sources

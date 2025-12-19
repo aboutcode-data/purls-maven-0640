@@ -122,3 +122,7 @@
 - pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.12@0.0.93?classifier=sources
 - pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.12@0.0.94
 - pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.12@0.0.94?classifier=sources
+- pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.12@0.0.95
+- pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.12@0.0.95?classifier=sources
+- pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.12@0.0.96
+- pkg:maven/io.7mind.izumi.sbt/sbtmeta_2.12@0.0.96?classifier=sources

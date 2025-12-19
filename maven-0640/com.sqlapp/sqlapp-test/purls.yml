@@ -1,2 +1,5 @@
 - pkg:maven/com.sqlapp/sqlapp-test@0.12.29?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-test@0.12.30?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-test@0.12.31?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-test@0.12.32?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-test@0.12.33?classifier=sources

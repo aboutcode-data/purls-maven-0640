@@ -1,0 +1,6 @@
+- pkg:maven/io.github.agoralab/ExoPlayerStats@%270.2.9%27?classifier=sources
+- pkg:maven/io.github.agoralab/ExoPlayerStats@0.1.0?classifier=sources
+- pkg:maven/io.github.agoralab/ExoPlayerStats@0.2.0?classifier=sources
+- pkg:maven/io.github.agoralab/ExoPlayerStats@0.2.10?classifier=sources
+- pkg:maven/io.github.agoralab/ExoPlayerStats@0.2.2?classifier=sources
+- pkg:maven/io.github.agoralab/ExoPlayerStats@1.0.0?classifier=sources

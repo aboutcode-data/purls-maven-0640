@@ -276,3 +276,5 @@
 - pkg:maven/com.google.cloud/google-cloud-dataproc@3.1.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.0.0
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.0.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc@4.0.2
+- pkg:maven/com.google.cloud/google-cloud-dataproc@4.0.2?classifier=sources

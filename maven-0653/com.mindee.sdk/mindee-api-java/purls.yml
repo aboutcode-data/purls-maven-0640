@@ -1,0 +1,2 @@
+- pkg:maven/com.mindee.sdk/mindee-api-java@1.0.0-RC
+- pkg:maven/com.mindee.sdk/mindee-api-java@1.0.0-RC?classifier=sources

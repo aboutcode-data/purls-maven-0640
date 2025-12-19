@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.pass/jsonld-addon-integration@0.1.0
+- pkg:maven/org.eclipse.pass/jsonld-addon-integration@0.1.1

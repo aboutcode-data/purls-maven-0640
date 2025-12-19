@@ -1,3 +1,5 @@
+- pkg:maven/org.infinispan.protostream/protostream-types@14.0.0.CR2
+- pkg:maven/org.infinispan.protostream/protostream-types@14.0.0.CR2?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-types@4.4.0.Alpha6
 - pkg:maven/org.infinispan.protostream/protostream-types@4.4.0.Alpha6?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-types@4.4.0.Alpha7
@@ -16,6 +18,10 @@
 - pkg:maven/org.infinispan.protostream/protostream-types@4.4.2.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-types@4.4.3.Final
 - pkg:maven/org.infinispan.protostream/protostream-types@4.4.3.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-types@4.4.4.Final
+- pkg:maven/org.infinispan.protostream/protostream-types@4.4.4.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.CR1
+- pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.CR1?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.Dev01
 - pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.Dev02
@@ -24,3 +30,5 @@
 - pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.Dev03?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.Dev04
 - pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.Dev04?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.Dev05
+- pkg:maven/org.infinispan.protostream/protostream-types@4.5.0.Dev05?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.puravida-software.asciidoctor/asciidoctor-extensions@2.3.0?classifier=sources
+- pkg:maven/com.puravida-software.asciidoctor/asciidoctor-extensions@3.0.0?classifier=sources

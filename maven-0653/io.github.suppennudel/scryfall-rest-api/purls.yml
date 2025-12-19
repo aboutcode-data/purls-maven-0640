@@ -1,0 +1,4 @@
+- pkg:maven/io.github.suppennudel/scryfall-rest-api@1.5.5
+- pkg:maven/io.github.suppennudel/scryfall-rest-api@1.5.5?classifier=sources
+- pkg:maven/io.github.suppennudel/scryfall-rest-api@1.5.6
+- pkg:maven/io.github.suppennudel/scryfall-rest-api@1.5.6?classifier=sources

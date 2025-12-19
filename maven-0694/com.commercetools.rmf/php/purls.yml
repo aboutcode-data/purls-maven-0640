@@ -169,3 +169,7 @@
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20220712062404?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20220712132813?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20220712195535?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20220727090248?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20220728120233?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20220830122148?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20220902064621?classifier=sources

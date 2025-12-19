@@ -1,0 +1,2 @@
+- pkg:maven/net.hasor/dbvisitor-hasor@5.1.0
+- pkg:maven/net.hasor/dbvisitor-hasor@5.1.0?classifier=sources

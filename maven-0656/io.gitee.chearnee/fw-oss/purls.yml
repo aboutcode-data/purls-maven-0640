@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.chearnee/fw-oss@0.0.1
+- pkg:maven/io.gitee.chearnee/fw-oss@0.0.1?classifier=sources

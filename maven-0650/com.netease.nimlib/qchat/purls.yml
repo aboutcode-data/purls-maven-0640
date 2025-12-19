@@ -20,3 +20,7 @@
 - pkg:maven/com.netease.nimlib/qchat@9.2.8?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.3.0?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@9.3.0?type=aar
+- pkg:maven/com.netease.nimlib/qchat@9.4.0?classifier=sources
+- pkg:maven/com.netease.nimlib/qchat@9.4.0?type=aar
+- pkg:maven/com.netease.nimlib/qchat@9.5.0?classifier=sources
+- pkg:maven/com.netease.nimlib/qchat@9.5.0?type=aar

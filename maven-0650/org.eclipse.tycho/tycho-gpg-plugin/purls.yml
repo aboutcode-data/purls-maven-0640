@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.tycho/tycho-gpg-plugin@2.7.3?classifier=sources
 - pkg:maven/org.eclipse.tycho/tycho-gpg-plugin@2.7.4
 - pkg:maven/org.eclipse.tycho/tycho-gpg-plugin@2.7.4?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-gpg-plugin@2.7.5
+- pkg:maven/org.eclipse.tycho/tycho-gpg-plugin@2.7.5?classifier=sources

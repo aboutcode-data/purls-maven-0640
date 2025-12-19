@@ -22,3 +22,4 @@
 - pkg:maven/com.infinum.dbinspector/dbinspector@5.4.4?classifier=sources
 - pkg:maven/com.infinum.dbinspector/dbinspector@5.4.6?classifier=sources
 - pkg:maven/com.infinum.dbinspector/dbinspector@5.4.7?classifier=sources
+- pkg:maven/com.infinum.dbinspector/dbinspector@5.4.8?classifier=sources

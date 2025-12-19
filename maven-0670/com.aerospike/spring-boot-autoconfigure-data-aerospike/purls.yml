@@ -4,3 +4,5 @@
 - pkg:maven/com.aerospike/spring-boot-autoconfigure-data-aerospike@0.6.0?classifier=sources
 - pkg:maven/com.aerospike/spring-boot-autoconfigure-data-aerospike@0.7.0
 - pkg:maven/com.aerospike/spring-boot-autoconfigure-data-aerospike@0.7.0?classifier=sources
+- pkg:maven/com.aerospike/spring-boot-autoconfigure-data-aerospike@0.7.1
+- pkg:maven/com.aerospike/spring-boot-autoconfigure-data-aerospike@0.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.deepmedia.tools.deployer/io.deepmedia.tools.deployer.gradle.plugin@0.8.0?classifier=sources
+- pkg:maven/io.deepmedia.tools.deployer/io.deepmedia.tools.deployer.gradle.plugin@0.9.0?classifier=sources

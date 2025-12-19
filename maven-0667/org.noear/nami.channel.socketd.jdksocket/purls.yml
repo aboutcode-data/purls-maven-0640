@@ -1,3 +1,15 @@
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.0
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.0-M1
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.0-M2
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.1
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.1-M1
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.1-M2
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.1-M3
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.1-M4
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.2
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.2-M1
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.2-M2
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.10.2-M3
 - pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.2.17
 - pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.2.18
 - pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.2.18.1
@@ -300,3 +312,7 @@
 - pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.9.3
 - pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.9.3-M1
 - pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.9.3-M2
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.9.4
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.9.4-M1
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.9.4-M2
+- pkg:maven/org.noear/nami.channel.socketd.jdksocket@1.9.4-M3

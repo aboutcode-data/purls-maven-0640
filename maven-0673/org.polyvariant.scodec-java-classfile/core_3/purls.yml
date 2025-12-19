@@ -1,0 +1,4 @@
+- pkg:maven/org.polyvariant.scodec-java-classfile/core_3@0.1.0
+- pkg:maven/org.polyvariant.scodec-java-classfile/core_3@0.1.0?classifier=sources
+- pkg:maven/org.polyvariant.scodec-java-classfile/core_3@0.2.0
+- pkg:maven/org.polyvariant.scodec-java-classfile/core_3@0.2.0?classifier=sources

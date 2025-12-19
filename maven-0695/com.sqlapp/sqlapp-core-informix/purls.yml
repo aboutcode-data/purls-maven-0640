@@ -16,6 +16,9 @@
 - pkg:maven/com.sqlapp/sqlapp-core-informix@0.12.29?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-informix@0.12.2?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-informix@0.12.30?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-informix@0.12.31?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-informix@0.12.32?classifier=sources
+- pkg:maven/com.sqlapp/sqlapp-core-informix@0.12.33?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-informix@0.12.4?classifier=sources
 - pkg:maven/com.sqlapp/sqlapp-core-informix@0.4.9
 - pkg:maven/com.sqlapp/sqlapp-core-informix@0.4.9?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/com.github.axet/android-bookreader-library@1.12.17?classifier=sources
 - pkg:maven/com.github.axet/android-bookreader-library@1.13.0?classifier=sources
+- pkg:maven/com.github.axet/android-bookreader-library@1.15.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-gateway-plugin@1.7.0-Hoxton.SR12
+- pkg:maven/com.tencent.cloud/spring-cloud-tencent-gateway-plugin@1.7.0-Hoxton.SR12?classifier=sources

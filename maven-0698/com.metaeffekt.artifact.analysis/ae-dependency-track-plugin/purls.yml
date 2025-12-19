@@ -60,6 +60,10 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.39.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.40.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.40.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.41.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.41.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.42.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.42.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.7.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.7.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-dependency-track-plugin@0.8.0

@@ -1,5 +1,7 @@
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.10.0
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.10.0?classifier=sources
+- pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.10.1
+- pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.10.1?classifier=sources
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.5.0
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.5.0?classifier=sources
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.5.1
@@ -34,3 +36,5 @@
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.9.0?classifier=sources
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.9.1
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@4.9.1?classifier=sources
+- pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@5.0.0
+- pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-hsqldb@5.0.0?classifier=sources

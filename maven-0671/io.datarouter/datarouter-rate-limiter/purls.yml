@@ -28,6 +28,8 @@
 - pkg:maven/io.datarouter/datarouter-rate-limiter@0.0.114?classifier=sources
 - pkg:maven/io.datarouter/datarouter-rate-limiter@0.0.115
 - pkg:maven/io.datarouter/datarouter-rate-limiter@0.0.115?classifier=sources
+- pkg:maven/io.datarouter/datarouter-rate-limiter@0.0.116
+- pkg:maven/io.datarouter/datarouter-rate-limiter@0.0.116?classifier=sources
 - pkg:maven/io.datarouter/datarouter-rate-limiter@0.0.27
 - pkg:maven/io.datarouter/datarouter-rate-limiter@0.0.27?classifier=sources
 - pkg:maven/io.datarouter/datarouter-rate-limiter@0.0.28

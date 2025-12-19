@@ -47,3 +47,6 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-example-java-webflux@5.0.3?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-example-java-webflux@5.0.4?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-example-java-webflux@5.0.5?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-example-java-webflux@5.1.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-example-java-webflux@5.1.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-example-java-webflux@5.2.1?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/ch.dreipol/dreimultiplatform-android-debug@1.4?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform-android-debug@1.5-1.6.10?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform-android-debug@1.5-1.7.10?classifier=sources
+- pkg:maven/ch.dreipol/dreimultiplatform-android-debug@1.6-1.6.10?classifier=sources
+- pkg:maven/ch.dreipol/dreimultiplatform-android-debug@1.6.10-1.4?classifier=sources

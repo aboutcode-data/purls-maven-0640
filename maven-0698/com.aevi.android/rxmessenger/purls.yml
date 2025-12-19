@@ -1,1 +1,2 @@
 - pkg:maven/com.aevi.android/rxmessenger@5.0.3?classifier=sources
+- pkg:maven/com.aevi.android/rxmessenger@6.0.0?classifier=sources

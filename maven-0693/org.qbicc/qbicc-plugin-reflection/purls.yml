@@ -62,6 +62,14 @@
 - pkg:maven/org.qbicc/qbicc-plugin-reflection@0.39.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-reflection@0.4.0
 - pkg:maven/org.qbicc/qbicc-plugin-reflection@0.4.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-reflection@0.40.0
+- pkg:maven/org.qbicc/qbicc-plugin-reflection@0.40.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-reflection@0.41.0
+- pkg:maven/org.qbicc/qbicc-plugin-reflection@0.41.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-reflection@0.42.0
+- pkg:maven/org.qbicc/qbicc-plugin-reflection@0.42.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-reflection@0.43.0
+- pkg:maven/org.qbicc/qbicc-plugin-reflection@0.43.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-reflection@0.5.0
 - pkg:maven/org.qbicc/qbicc-plugin-reflection@0.5.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-reflection@0.6.0

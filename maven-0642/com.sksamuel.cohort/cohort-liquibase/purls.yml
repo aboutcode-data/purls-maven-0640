@@ -12,3 +12,8 @@
 - pkg:maven/com.sksamuel.cohort/cohort-liquibase@1.3.0?classifier=sources
 - pkg:maven/com.sksamuel.cohort/cohort-liquibase@1.4.0?classifier=sources
 - pkg:maven/com.sksamuel.cohort/cohort-liquibase@1.4.1?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-liquibase@1.5.0?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-liquibase@1.6.0?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-liquibase@1.6.1?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-liquibase@1.6.2?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-liquibase@1.7.0?classifier=sources

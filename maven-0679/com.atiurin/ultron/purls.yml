@@ -7,6 +7,8 @@
 - pkg:maven/com.atiurin/ultron@1.0.16?classifier=sources
 - pkg:maven/com.atiurin/ultron@1.0.17?classifier=sources
 - pkg:maven/com.atiurin/ultron@1.0.18?classifier=sources
+- pkg:maven/com.atiurin/ultron@1.0.19-alpha01?classifier=sources
 - pkg:maven/com.atiurin/ultron@1.0.7?classifier=sources
 - pkg:maven/com.atiurin/ultron@1.0.8?classifier=sources
 - pkg:maven/com.atiurin/ultron@1.0.9?classifier=sources
+- pkg:maven/com.atiurin/ultron@2.0.0-alpha01?classifier=sources

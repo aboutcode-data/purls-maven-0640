@@ -1,3 +1,5 @@
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.10.0
+- pkg:maven/in.wilsonl.minifyhtml/minify-html@0.10.0?classifier=sources
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.2.6
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.2.6?classifier=sources
 - pkg:maven/in.wilsonl.minifyhtml/minify-html@0.3.0

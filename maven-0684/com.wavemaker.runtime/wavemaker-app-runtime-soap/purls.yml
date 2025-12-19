@@ -3,3 +3,5 @@
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.0.1.beta?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.0.2.beta?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.0.3.beta?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.1.0?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.1.1?classifier=sources

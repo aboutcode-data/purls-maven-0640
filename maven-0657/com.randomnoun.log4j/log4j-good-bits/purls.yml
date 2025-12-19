@@ -1,0 +1,2 @@
+- pkg:maven/com.randomnoun.log4j/log4j-good-bits@1.2.17-1
+- pkg:maven/com.randomnoun.log4j/log4j-good-bits@1.2.17-1?classifier=sources

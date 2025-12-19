@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/json-stringify-pretty-compact@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/json-stringify-pretty-compact@2.0.0
 - pkg:maven/org.webjars.npm/json-stringify-pretty-compact@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/json-stringify-pretty-compact@3.0.0
+- pkg:maven/org.webjars.npm/json-stringify-pretty-compact@3.0.0?classifier=sources

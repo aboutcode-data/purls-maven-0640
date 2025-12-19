@@ -1,0 +1,2 @@
+- pkg:maven/io.github.whitechen233/flyway-dm-support@1.0-RELEASE
+- pkg:maven/io.github.whitechen233/flyway-dm-support@1.0-RELEASE?classifier=sources

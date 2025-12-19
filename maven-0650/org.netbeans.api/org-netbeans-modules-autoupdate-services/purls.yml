@@ -14,4 +14,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-autoupdate-services@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-autoupdate-services@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-autoupdate-services@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-autoupdate-services@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-autoupdate-services@RELEASE90?classifier=sources
