@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.kafka/kafka-streams-upgrade-system-tests-30@3.2.0?classifier=sources

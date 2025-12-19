@@ -56,3 +56,7 @@
 - pkg:maven/org.odpi.egeria/audit-log-console-connector@3.6?classifier=sources
 - pkg:maven/org.odpi.egeria/audit-log-console-connector@3.7
 - pkg:maven/org.odpi.egeria/audit-log-console-connector@3.7?classifier=sources
+- pkg:maven/org.odpi.egeria/audit-log-console-connector@3.8
+- pkg:maven/org.odpi.egeria/audit-log-console-connector@3.8?classifier=sources
+- pkg:maven/org.odpi.egeria/audit-log-console-connector@3.9
+- pkg:maven/org.odpi.egeria/audit-log-console-connector@3.9?classifier=sources

@@ -4,6 +4,7 @@
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.18.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.18.2?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.18.3?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.18.4?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.20.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.21.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.22.0?classifier=sources

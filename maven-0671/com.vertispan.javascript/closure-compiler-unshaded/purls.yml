@@ -1,2 +1,4 @@
 - pkg:maven/com.vertispan.javascript/closure-compiler-unshaded@v20210808-1
 - pkg:maven/com.vertispan.javascript/closure-compiler-unshaded@v20210808-1?classifier=sources
+- pkg:maven/com.vertispan.javascript/closure-compiler-unshaded@v20220502-1
+- pkg:maven/com.vertispan.javascript/closure-compiler-unshaded@v20220502-1?classifier=sources

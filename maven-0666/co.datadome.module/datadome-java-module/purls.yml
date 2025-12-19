@@ -5,3 +5,7 @@
 - pkg:maven/co.datadome.module/datadome-java-module@1.16?classifier=sources
 - pkg:maven/co.datadome.module/datadome-java-module@1.17.0
 - pkg:maven/co.datadome.module/datadome-java-module@1.17.0?classifier=sources
+- pkg:maven/co.datadome.module/datadome-java-module@1.17.1
+- pkg:maven/co.datadome.module/datadome-java-module@1.17.1?classifier=sources
+- pkg:maven/co.datadome.module/datadome-java-module@1.17.2
+- pkg:maven/co.datadome.module/datadome-java-module@1.17.2?classifier=sources

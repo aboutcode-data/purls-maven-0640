@@ -4,3 +4,7 @@
 - pkg:maven/cc.carm.lib/easyconfiguration-json@2.2.0?classifier=sources
 - pkg:maven/cc.carm.lib/easyconfiguration-json@2.3.0
 - pkg:maven/cc.carm.lib/easyconfiguration-json@2.3.0?classifier=sources
+- pkg:maven/cc.carm.lib/easyconfiguration-json@3.0.0
+- pkg:maven/cc.carm.lib/easyconfiguration-json@3.0.0?classifier=sources
+- pkg:maven/cc.carm.lib/easyconfiguration-json@3.1.0
+- pkg:maven/cc.carm.lib/easyconfiguration-json@3.1.0?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.apache.bigtop.itest/package-smoke-execution@1.5.0
 - pkg:maven/org.apache.bigtop.itest/package-smoke-execution@3.0.0
 - pkg:maven/org.apache.bigtop.itest/package-smoke-execution@3.0.1
+- pkg:maven/org.apache.bigtop.itest/package-smoke-execution@3.1.0

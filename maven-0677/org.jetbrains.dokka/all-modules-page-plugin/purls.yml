@@ -6,3 +6,4 @@
 - pkg:maven/org.jetbrains.dokka/all-modules-page-plugin@1.6.0?classifier=sources
 - pkg:maven/org.jetbrains.dokka/all-modules-page-plugin@1.6.10?classifier=sources
 - pkg:maven/org.jetbrains.dokka/all-modules-page-plugin@1.6.20?classifier=sources
+- pkg:maven/org.jetbrains.dokka/all-modules-page-plugin@1.6.21?classifier=sources

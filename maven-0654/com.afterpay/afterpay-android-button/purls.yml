@@ -2,3 +2,4 @@
 - pkg:maven/com.afterpay/afterpay-android-button@3.1.0?classifier=sources
 - pkg:maven/com.afterpay/afterpay-android-button@3.2.0?classifier=sources
 - pkg:maven/com.afterpay/afterpay-android-button@3.3.0?classifier=sources
+- pkg:maven/com.afterpay/afterpay-android-button@3.3.1?classifier=sources

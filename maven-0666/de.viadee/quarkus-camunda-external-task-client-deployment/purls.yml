@@ -1,0 +1,2 @@
+- pkg:maven/de.viadee/quarkus-camunda-external-task-client-deployment@0.0.1
+- pkg:maven/de.viadee/quarkus-camunda-external-task-client-deployment@0.0.1?classifier=sources

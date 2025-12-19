@@ -48,3 +48,7 @@
 - pkg:maven/org.apache.openmeetings/openmeetings-db@5.0.0?classifier=sources
 - pkg:maven/org.apache.openmeetings/openmeetings-db@5.1.0
 - pkg:maven/org.apache.openmeetings/openmeetings-db@5.1.0?classifier=sources
+- pkg:maven/org.apache.openmeetings/openmeetings-db@6.2.0
+- pkg:maven/org.apache.openmeetings/openmeetings-db@6.2.0?classifier=sources
+- pkg:maven/org.apache.openmeetings/openmeetings-db@6.3.0
+- pkg:maven/org.apache.openmeetings/openmeetings-db@6.3.0?classifier=sources

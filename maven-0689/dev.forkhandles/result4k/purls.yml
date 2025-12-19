@@ -45,3 +45,5 @@
 - pkg:maven/dev.forkhandles/result4k@2.0.1.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k@2.1.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k@2.1.1.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k@2.1.2.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k@2.2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.opayweb/offline-acquirer-share@0.0.1?classifier=sources
+- pkg:maven/com.opayweb/offline-acquirer-share@0.0.1?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/net.moznion/protoc-gen-java-dynamodb@0.0.3?classifier=sources
+- pkg:maven/net.moznion/protoc-gen-java-dynamodb@0.0.4?classifier=sources

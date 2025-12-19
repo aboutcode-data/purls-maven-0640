@@ -51,6 +51,8 @@
 - pkg:maven/org.asteriskjava/asterisk-java@3.26.0?classifier=sources
 - pkg:maven/org.asteriskjava/asterisk-java@3.28.0
 - pkg:maven/org.asteriskjava/asterisk-java@3.28.0?classifier=sources
+- pkg:maven/org.asteriskjava/asterisk-java@3.29.0
+- pkg:maven/org.asteriskjava/asterisk-java@3.29.0?classifier=sources
 - pkg:maven/org.asteriskjava/asterisk-java@3.3.0
 - pkg:maven/org.asteriskjava/asterisk-java@3.3.0?classifier=sources
 - pkg:maven/org.asteriskjava/asterisk-java@3.4.0

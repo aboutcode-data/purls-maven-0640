@@ -60,6 +60,8 @@
 - pkg:maven/org.apache.flink/flink-sequence-file@1.14.3?classifier=sources
 - pkg:maven/org.apache.flink/flink-sequence-file@1.14.4
 - pkg:maven/org.apache.flink/flink-sequence-file@1.14.4?classifier=sources
+- pkg:maven/org.apache.flink/flink-sequence-file@1.15.0
+- pkg:maven/org.apache.flink/flink-sequence-file@1.15.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-sequence-file@1.7.2
 - pkg:maven/org.apache.flink/flink-sequence-file@1.7.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-sequence-file@1.8.0

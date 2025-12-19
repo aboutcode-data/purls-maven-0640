@@ -71,6 +71,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.0.0-M5.1
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.0.1-M3
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.1.0
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.4.0

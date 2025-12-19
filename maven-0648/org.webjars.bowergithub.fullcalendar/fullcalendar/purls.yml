@@ -24,5 +24,7 @@
 - pkg:maven/org.webjars.bowergithub.fullcalendar/fullcalendar@5.10.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.fullcalendar/fullcalendar@5.10.2
 - pkg:maven/org.webjars.bowergithub.fullcalendar/fullcalendar@5.10.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.fullcalendar/fullcalendar@5.11.0
+- pkg:maven/org.webjars.bowergithub.fullcalendar/fullcalendar@5.11.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.fullcalendar/fullcalendar@5.7.0
 - pkg:maven/org.webjars.bowergithub.fullcalendar/fullcalendar@5.7.0?classifier=sources

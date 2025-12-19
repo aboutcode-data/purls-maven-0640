@@ -34,3 +34,5 @@
 - pkg:maven/pro.taskana/taskana-common-security@5.0.1?classifier=sources
 - pkg:maven/pro.taskana/taskana-common-security@5.1.0
 - pkg:maven/pro.taskana/taskana-common-security@5.1.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-common-security@5.2.0
+- pkg:maven/pro.taskana/taskana-common-security@5.2.0?classifier=sources

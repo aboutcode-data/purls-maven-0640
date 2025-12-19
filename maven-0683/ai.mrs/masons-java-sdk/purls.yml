@@ -1,0 +1,4 @@
+- pkg:maven/ai.mrs/masons-java-sdk@1.0.0
+- pkg:maven/ai.mrs/masons-java-sdk@1.0.0?classifier=sources
+- pkg:maven/ai.mrs/masons-java-sdk@1.0.1
+- pkg:maven/ai.mrs/masons-java-sdk@1.0.1?classifier=sources

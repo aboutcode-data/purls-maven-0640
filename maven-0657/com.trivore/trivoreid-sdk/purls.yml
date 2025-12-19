@@ -12,3 +12,5 @@
 - pkg:maven/com.trivore/trivoreid-sdk@2.0.0?classifier=sources
 - pkg:maven/com.trivore/trivoreid-sdk@2.1.0
 - pkg:maven/com.trivore/trivoreid-sdk@2.1.0?classifier=sources
+- pkg:maven/com.trivore/trivoreid-sdk@2.2.1
+- pkg:maven/com.trivore/trivoreid-sdk@2.2.1?classifier=sources

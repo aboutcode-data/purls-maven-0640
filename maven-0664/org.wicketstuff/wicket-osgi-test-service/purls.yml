@@ -206,6 +206,8 @@
 - pkg:maven/org.wicketstuff/wicket-osgi-test-service@9.0.1-M3?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-osgi-test-service@9.1.0
 - pkg:maven/org.wicketstuff/wicket-osgi-test-service@9.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-osgi-test-service@9.10.0
+- pkg:maven/org.wicketstuff/wicket-osgi-test-service@9.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-osgi-test-service@9.2.0
 - pkg:maven/org.wicketstuff/wicket-osgi-test-service@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-osgi-test-service@9.3.0

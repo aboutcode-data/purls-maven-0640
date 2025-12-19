@@ -34,3 +34,5 @@
 - pkg:maven/com.cjbooms/fabrikt@3.0.0?classifier=sources
 - pkg:maven/com.cjbooms/fabrikt@4.0.0?classifier=sources
 - pkg:maven/com.cjbooms/fabrikt@5.0.0?classifier=sources
+- pkg:maven/com.cjbooms/fabrikt@5.1.0?classifier=sources
+- pkg:maven/com.cjbooms/fabrikt@6.0.0?classifier=sources

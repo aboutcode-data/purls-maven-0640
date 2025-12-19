@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/graphql-language-service@3.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/graphql-language-service@4.1.4
 - pkg:maven/org.webjars.npm/graphql-language-service@4.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/graphql-language-service@5.0.4
+- pkg:maven/org.webjars.npm/graphql-language-service@5.0.4?classifier=sources

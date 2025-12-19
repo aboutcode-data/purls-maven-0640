@@ -1,2 +1,4 @@
+- pkg:maven/com.uid2/enclave-attestation-api@1.1.0
 - pkg:maven/com.uid2/enclave-attestation-api@1.1.0-snapshot
 - pkg:maven/com.uid2/enclave-attestation-api@1.1.0-snapshot?classifier=sources
+- pkg:maven/com.uid2/enclave-attestation-api@1.1.0?classifier=sources

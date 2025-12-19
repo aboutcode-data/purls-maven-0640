@@ -2,3 +2,4 @@
 - pkg:maven/ai.djl.python/python@0.14.0?classifier=sources
 - pkg:maven/ai.djl.python/python@0.15.0?classifier=sources
 - pkg:maven/ai.djl.python/python@0.16.0?classifier=sources
+- pkg:maven/ai.djl.python/python@0.17.0?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.cognitect.aws/apprunner@820.2.1083.0?classifier=sources
 - pkg:maven/com.cognitect.aws/apprunner@821.2.1107.0
 - pkg:maven/com.cognitect.aws/apprunner@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/apprunner@822.2.1122.0
+- pkg:maven/com.cognitect.aws/apprunner@822.2.1122.0?classifier=sources
+- pkg:maven/com.cognitect.aws/apprunner@822.2.1145.0
+- pkg:maven/com.cognitect.aws/apprunner@822.2.1145.0?classifier=sources

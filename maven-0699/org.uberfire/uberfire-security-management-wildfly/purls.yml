@@ -198,3 +198,9 @@
 - pkg:maven/org.uberfire/uberfire-security-management-wildfly@7.67.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-management-wildfly@7.68.0.Final
 - pkg:maven/org.uberfire/uberfire-security-management-wildfly@7.68.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-wildfly@7.69.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-wildfly@7.69.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-wildfly@7.70.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-wildfly@7.70.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-wildfly@7.71.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-wildfly@7.71.0.Final?classifier=sources

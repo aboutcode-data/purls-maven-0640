@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.plugin/zendesk-plugins@1.0.0
+- pkg:maven/io.cdap.plugin/zendesk-plugins@1.0.0?classifier=sources

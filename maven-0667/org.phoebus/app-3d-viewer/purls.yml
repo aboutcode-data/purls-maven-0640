@@ -1,0 +1,2 @@
+- pkg:maven/org.phoebus/app-3d-viewer@4.6.7
+- pkg:maven/org.phoebus/app-3d-viewer@4.6.7?classifier=sources

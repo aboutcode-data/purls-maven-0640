@@ -105,6 +105,16 @@
 - pkg:maven/it.cnr.si/ace-client@4.1.0
 - pkg:maven/it.cnr.si/ace-client@4.1.0?classifier=sources
 - pkg:maven/it.cnr.si/ace-client@4.1.1
+- pkg:maven/it.cnr.si/ace-client@4.1.10
+- pkg:maven/it.cnr.si/ace-client@4.1.10?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@4.1.11
+- pkg:maven/it.cnr.si/ace-client@4.1.11?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@4.1.12
+- pkg:maven/it.cnr.si/ace-client@4.1.12?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@4.1.13
+- pkg:maven/it.cnr.si/ace-client@4.1.13?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@4.1.14
+- pkg:maven/it.cnr.si/ace-client@4.1.14?classifier=sources
 - pkg:maven/it.cnr.si/ace-client@4.1.1?classifier=sources
 - pkg:maven/it.cnr.si/ace-client@4.1.2
 - pkg:maven/it.cnr.si/ace-client@4.1.2?classifier=sources
@@ -114,3 +124,5 @@
 - pkg:maven/it.cnr.si/ace-client@4.1.7?classifier=sources
 - pkg:maven/it.cnr.si/ace-client@4.1.8
 - pkg:maven/it.cnr.si/ace-client@4.1.8?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@4.1.9
+- pkg:maven/it.cnr.si/ace-client@4.1.9?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/com.google.cloud/pubsublite-kafka@0.6.8?classifier=sources
 - pkg:maven/com.google.cloud/pubsublite-kafka@0.6.9
 - pkg:maven/com.google.cloud/pubsublite-kafka@0.6.9?classifier=sources
+- pkg:maven/com.google.cloud/pubsublite-kafka@1.0.0
+- pkg:maven/com.google.cloud/pubsublite-kafka@1.0.0?classifier=sources

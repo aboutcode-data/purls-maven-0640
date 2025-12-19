@@ -1,1 +1,2 @@
 - pkg:maven/de.iip-ecosphere.platform/test.amqp.qpid@0.2.0
+- pkg:maven/de.iip-ecosphere.platform/test.amqp.qpid@0.3.0

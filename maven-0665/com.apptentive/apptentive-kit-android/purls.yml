@@ -1,1 +1,2 @@
 - pkg:maven/com.apptentive/apptentive-kit-android@6.0.0-alpha02?classifier=sources
+- pkg:maven/com.apptentive/apptentive-kit-android@6.0.0-beta01?classifier=sources

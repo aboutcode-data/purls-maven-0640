@@ -17,6 +17,8 @@
 - pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.5-rc1?classifier=sources
 - pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.5.2
 - pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.5.2?classifier=sources
+- pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.5.3
+- pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.5.3?classifier=sources
 - pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.1.5?classifier=sources
 - pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.2.0
 - pkg:maven/io.mosip.preregistration.captcha/pre-registration-captcha-service@1.2.0-prerel

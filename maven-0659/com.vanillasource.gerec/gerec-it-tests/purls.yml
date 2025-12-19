@@ -2,3 +2,5 @@
 - pkg:maven/com.vanillasource.gerec/gerec-it-tests@1.0.0?classifier=sources
 - pkg:maven/com.vanillasource.gerec/gerec-it-tests@2.0.0
 - pkg:maven/com.vanillasource.gerec/gerec-it-tests@2.0.0?classifier=sources
+- pkg:maven/com.vanillasource.gerec/gerec-it-tests@3.0.0
+- pkg:maven/com.vanillasource.gerec/gerec-it-tests@3.0.0?classifier=sources

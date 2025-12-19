@@ -1,0 +1,2 @@
+- pkg:maven/cn.fastword/fast-core@0.0.85
+- pkg:maven/cn.fastword/fast-core@0.0.85?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/network.oxalis/oxalis-extension-example@5.0.8?classifier=sources
 - pkg:maven/network.oxalis/oxalis-extension-example@5.1.0
 - pkg:maven/network.oxalis/oxalis-extension-example@5.1.0?classifier=sources
+- pkg:maven/network.oxalis/oxalis-extension-example@5.2.0
+- pkg:maven/network.oxalis/oxalis-extension-example@5.2.0?classifier=sources

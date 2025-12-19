@@ -1,0 +1,10 @@
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.0
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.10
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.10?classifier=sources
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.20
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.20?classifier=sources
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.30
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.30?classifier=sources
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.RC1
+- pkg:maven/cn.herodotus.engine/protect-core@2.7.0.RC1?classifier=sources

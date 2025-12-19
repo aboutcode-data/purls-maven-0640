@@ -1,1 +1,2 @@
 - pkg:maven/me.pietelite.nope/common-api@BETA-1.1?classifier=sources
+- pkg:maven/me.pietelite.nope/common-api@BETA-2.0?classifier=sources

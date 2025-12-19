@@ -8,3 +8,9 @@
 - pkg:maven/cc.carm.lib/mineconfiguration-craftbukkit@1.1.5?classifier=sources
 - pkg:maven/cc.carm.lib/mineconfiguration-craftbukkit@1.1.7
 - pkg:maven/cc.carm.lib/mineconfiguration-craftbukkit@1.1.7?classifier=sources
+- pkg:maven/cc.carm.lib/mineconfiguration-craftbukkit@1.2.2
+- pkg:maven/cc.carm.lib/mineconfiguration-craftbukkit@1.2.2?classifier=sources
+- pkg:maven/cc.carm.lib/mineconfiguration-craftbukkit@1.3.1
+- pkg:maven/cc.carm.lib/mineconfiguration-craftbukkit@1.3.1?classifier=sources
+- pkg:maven/cc.carm.lib/mineconfiguration-craftbukkit@1.3.2
+- pkg:maven/cc.carm.lib/mineconfiguration-craftbukkit@1.3.2?classifier=sources

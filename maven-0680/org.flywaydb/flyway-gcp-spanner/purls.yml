@@ -64,6 +64,12 @@
 - pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.0-beta?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.1-beta
 - pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.1-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.10-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.10-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.11-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.11-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.12-beta
+- pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.12-beta?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.2-beta
 - pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.2-beta?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gcp-spanner@8.5.3-beta

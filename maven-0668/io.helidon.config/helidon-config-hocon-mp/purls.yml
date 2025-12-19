@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.config/helidon-config-hocon-mp@2.5.1
+- pkg:maven/io.helidon.config/helidon-config-hocon-mp@2.5.1?classifier=sources

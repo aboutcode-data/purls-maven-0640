@@ -35,3 +35,6 @@
 - pkg:maven/org.springframework.ldap/spring-ldap-core@2.3.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.ldap/spring-ldap-core@2.3.7.RELEASE
 - pkg:maven/org.springframework.ldap/spring-ldap-core@2.3.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-core@2.3.8.RELEASE
+- pkg:maven/org.springframework.ldap/spring-ldap-core@2.3.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-core@2.4.0?classifier=sources

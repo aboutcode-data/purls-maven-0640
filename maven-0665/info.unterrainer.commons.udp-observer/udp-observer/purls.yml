@@ -5,7 +5,11 @@
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.1
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.10
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.10?classifier=sources
+- pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.11-2-gdc60ccd
+- pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.11-2-gdc60ccd?classifier=sources
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.11?classifier=sources
+- pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.12
+- pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.12?classifier=sources
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.1?classifier=sources
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.2
 - pkg:maven/info.unterrainer.commons.udp-observer/udp-observer@0.1.2?classifier=sources

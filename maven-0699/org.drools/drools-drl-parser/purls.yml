@@ -4,3 +4,9 @@
 - pkg:maven/org.drools/drools-drl-parser@8.19.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-drl-parser@8.20.0.Beta
 - pkg:maven/org.drools/drools-drl-parser@8.20.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-drl-parser@8.21.0.Beta
+- pkg:maven/org.drools/drools-drl-parser@8.21.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-drl-parser@8.22.0.Beta
+- pkg:maven/org.drools/drools-drl-parser@8.22.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-drl-parser@8.22.1.Beta
+- pkg:maven/org.drools/drools-drl-parser@8.22.1.Beta?classifier=sources

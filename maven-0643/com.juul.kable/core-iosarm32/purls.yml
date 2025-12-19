@@ -12,6 +12,8 @@
 - pkg:maven/com.juul.kable/core-iosarm32@0.15.0?classifier=sources
 - pkg:maven/com.juul.kable/core-iosarm32@0.16.0?classifier=sources
 - pkg:maven/com.juul.kable/core-iosarm32@0.16.1?classifier=sources
+- pkg:maven/com.juul.kable/core-iosarm32@0.17.0?classifier=sources
+- pkg:maven/com.juul.kable/core-iosarm32@0.17.1?classifier=sources
 - pkg:maven/com.juul.kable/core-iosarm32@0.7.1?classifier=sources
 - pkg:maven/com.juul.kable/core-iosarm32@0.7.2?classifier=sources
 - pkg:maven/com.juul.kable/core-iosarm32@0.8.0?classifier=sources

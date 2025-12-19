@@ -15,3 +15,4 @@
 - pkg:maven/com.logmein/gotowebinar-api@2.5.0?classifier=sources
 - pkg:maven/com.logmein/gotowebinar-api@2.6.0?classifier=sources
 - pkg:maven/com.logmein/gotowebinar-api@2.7.0?classifier=sources
+- pkg:maven/com.logmein/gotowebinar-api@2.9.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@0.2.0
 - pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@0.2.1
+- pkg:maven/io.quarkiverse.prettytime/quarkus-prettytime-docs@0.2.2

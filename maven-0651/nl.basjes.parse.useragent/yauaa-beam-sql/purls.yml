@@ -28,3 +28,7 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@6.8?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@6.9
 - pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@6.9?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@7.0.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@7.0.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@7.1.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-beam-sql@7.1.0?classifier=sources

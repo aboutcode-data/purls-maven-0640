@@ -17,6 +17,8 @@
 - pkg:maven/nl.sidnlabs/pcap-lib@0.2.18
 - pkg:maven/nl.sidnlabs/pcap-lib@0.2.18?classifier=sources
 - pkg:maven/nl.sidnlabs/pcap-lib@0.2.2
+- pkg:maven/nl.sidnlabs/pcap-lib@0.2.20
+- pkg:maven/nl.sidnlabs/pcap-lib@0.2.20?classifier=sources
 - pkg:maven/nl.sidnlabs/pcap-lib@0.2.2?classifier=sources
 - pkg:maven/nl.sidnlabs/pcap-lib@0.2.9
 - pkg:maven/nl.sidnlabs/pcap-lib@0.2.9?classifier=sources

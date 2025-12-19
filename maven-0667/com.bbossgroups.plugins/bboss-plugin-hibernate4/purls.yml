@@ -83,3 +83,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-plugin-hibernate4@5.9.6?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-plugin-hibernate4@5.9.7?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-plugin-hibernate4@5.9.8?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-plugin-hibernate4@5.9.9?classifier=sources

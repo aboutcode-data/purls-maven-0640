@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0-alpha.7?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0-alpha.8?classifier=sources

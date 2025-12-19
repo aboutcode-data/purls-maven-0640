@@ -1,4 +1,6 @@
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-elasticjob@3.0.1
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-elasticjob@3.0.1.2
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-elasticjob@3.0.1.2?classifier=sources
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-elasticjob@3.0.1.3
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-elasticjob@3.0.1.3?classifier=sources
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-elasticjob@3.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.gravitee.am.factor/gravitee-am-factor-recovery-code@3.17.0?classifier=sources
+- pkg:maven/io.gravitee.am.factor/gravitee-am-factor-recovery-code@3.17.1?classifier=sources

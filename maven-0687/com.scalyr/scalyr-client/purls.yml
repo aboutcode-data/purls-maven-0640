@@ -41,6 +41,8 @@
 - pkg:maven/com.scalyr/scalyr-client@6.0.29
 - pkg:maven/com.scalyr/scalyr-client@6.0.29?classifier=sources
 - pkg:maven/com.scalyr/scalyr-client@6.0.3
+- pkg:maven/com.scalyr/scalyr-client@6.0.31
+- pkg:maven/com.scalyr/scalyr-client@6.0.31?classifier=sources
 - pkg:maven/com.scalyr/scalyr-client@6.0.4
 - pkg:maven/com.scalyr/scalyr-client@6.0.4?classifier=sources
 - pkg:maven/com.scalyr/scalyr-client@6.0.5
@@ -53,3 +55,7 @@
 - pkg:maven/com.scalyr/scalyr-client@6.0.8?classifier=sources
 - pkg:maven/com.scalyr/scalyr-client@6.0.9
 - pkg:maven/com.scalyr/scalyr-client@6.0.9?classifier=sources
+- pkg:maven/com.scalyr/scalyr-client@7.00.00-beta
+- pkg:maven/com.scalyr/scalyr-client@7.00.00-beta?classifier=sources
+- pkg:maven/com.scalyr/scalyr-client@7.00.01-beta
+- pkg:maven/com.scalyr/scalyr-client@7.00.01-beta?classifier=sources

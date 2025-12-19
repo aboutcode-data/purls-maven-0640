@@ -1,0 +1,4 @@
+- pkg:maven/group.insyde/statefun-tsukuyomi@0.2.0
+- pkg:maven/group.insyde/statefun-tsukuyomi@0.2.0?classifier=sources
+- pkg:maven/group.insyde/statefun-tsukuyomi@0.3.0
+- pkg:maven/group.insyde/statefun-tsukuyomi@0.3.0?classifier=sources

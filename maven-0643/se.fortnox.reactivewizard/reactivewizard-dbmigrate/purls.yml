@@ -50,6 +50,16 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@12.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@12.1.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@12.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@12.2.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@12.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@13.0.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@13.0.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@13.0.1
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@13.0.1?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@13.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@13.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@13.2.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@13.2.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@2.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@2.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-dbmigrate@2.0.1

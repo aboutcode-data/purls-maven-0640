@@ -4,6 +4,8 @@
 - pkg:maven/com.jalalkiswani/smart-cloud-web@2.0.1?classifier=sources
 - pkg:maven/com.jalalkiswani/smart-cloud-web@2.0.4
 - pkg:maven/com.jalalkiswani/smart-cloud-web@2.0.4?classifier=sources
+- pkg:maven/com.jalalkiswani/smart-cloud-web@2.0.8
+- pkg:maven/com.jalalkiswani/smart-cloud-web@2.0.8?classifier=sources
 - pkg:maven/com.jalalkiswani/smart-cloud-web@3.0.0
 - pkg:maven/com.jalalkiswani/smart-cloud-web@3.0.0?classifier=sources
 - pkg:maven/com.jalalkiswani/smart-cloud-web@4.0.1
@@ -26,3 +28,5 @@
 - pkg:maven/com.jalalkiswani/smart-cloud-web@5.0.0?classifier=sources
 - pkg:maven/com.jalalkiswani/smart-cloud-web@5.1.0
 - pkg:maven/com.jalalkiswani/smart-cloud-web@5.1.0?classifier=sources
+- pkg:maven/com.jalalkiswani/smart-cloud-web@5.2.5
+- pkg:maven/com.jalalkiswani/smart-cloud-web@5.2.5?classifier=sources

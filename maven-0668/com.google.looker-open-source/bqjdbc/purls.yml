@@ -1,2 +1,8 @@
 - pkg:maven/com.google.looker-open-source/bqjdbc@2.3.17
 - pkg:maven/com.google.looker-open-source/bqjdbc@2.3.17?classifier=sources
+- pkg:maven/com.google.looker-open-source/bqjdbc@2.3.18
+- pkg:maven/com.google.looker-open-source/bqjdbc@2.3.18?classifier=sources
+- pkg:maven/com.google.looker-open-source/bqjdbc@2.3.19
+- pkg:maven/com.google.looker-open-source/bqjdbc@2.3.19?classifier=sources
+- pkg:maven/com.google.looker-open-source/bqjdbc@2.3.20
+- pkg:maven/com.google.looker-open-source/bqjdbc@2.3.20?classifier=sources

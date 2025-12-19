@@ -2,6 +2,8 @@
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.osgi.ct.conf@1.0.7?classifier=sources
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.osgi.ct.conf@4.0.10
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.osgi.ct.conf@4.0.10?classifier=sources
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.osgi.ct.conf@4.0.11
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.osgi.ct.conf@4.0.11?classifier=sources
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.osgi.ct.conf@4.0.5
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.osgi.ct.conf@4.0.5?classifier=sources
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.osgi.ct.conf@4.0.6

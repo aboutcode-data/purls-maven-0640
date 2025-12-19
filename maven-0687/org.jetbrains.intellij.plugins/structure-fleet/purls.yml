@@ -44,3 +44,10 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.210?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.211?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.212?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.213?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.214?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.215?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.216?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.217?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.218?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.219?classifier=sources

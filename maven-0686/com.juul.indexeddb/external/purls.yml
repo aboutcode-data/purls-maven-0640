@@ -2,3 +2,5 @@
 - pkg:maven/com.juul.indexeddb/external@0.2.0?classifier=sources
 - pkg:maven/com.juul.indexeddb/external@0.2.1?classifier=sources
 - pkg:maven/com.juul.indexeddb/external@0.2.2?classifier=sources
+- pkg:maven/com.juul.indexeddb/external@0.2.3-snapshot-unconfined-dispatcher?classifier=sources
+- pkg:maven/com.juul.indexeddb/external@0.2.3?classifier=sources

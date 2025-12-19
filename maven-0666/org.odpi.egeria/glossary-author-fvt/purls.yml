@@ -2,3 +2,7 @@
 - pkg:maven/org.odpi.egeria/glossary-author-fvt@3.6?classifier=sources
 - pkg:maven/org.odpi.egeria/glossary-author-fvt@3.7
 - pkg:maven/org.odpi.egeria/glossary-author-fvt@3.7?classifier=sources
+- pkg:maven/org.odpi.egeria/glossary-author-fvt@3.8
+- pkg:maven/org.odpi.egeria/glossary-author-fvt@3.8?classifier=sources
+- pkg:maven/org.odpi.egeria/glossary-author-fvt@3.9
+- pkg:maven/org.odpi.egeria/glossary-author-fvt@3.9?classifier=sources

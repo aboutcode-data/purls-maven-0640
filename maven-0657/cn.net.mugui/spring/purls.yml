@@ -26,3 +26,5 @@
 - pkg:maven/cn.net.mugui/spring@1.17?classifier=sources
 - pkg:maven/cn.net.mugui/spring@1.18
 - pkg:maven/cn.net.mugui/spring@1.18?classifier=sources
+- pkg:maven/cn.net.mugui/spring@1.19
+- pkg:maven/cn.net.mugui/spring@1.19?classifier=sources

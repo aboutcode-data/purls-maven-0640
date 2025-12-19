@@ -40,3 +40,5 @@
 - pkg:maven/com.erudika/para-cache-hazelcast@1.40.0?classifier=sources
 - pkg:maven/com.erudika/para-cache-hazelcast@1.40.1
 - pkg:maven/com.erudika/para-cache-hazelcast@1.40.1?classifier=sources
+- pkg:maven/com.erudika/para-cache-hazelcast@1.40.2
+- pkg:maven/com.erudika/para-cache-hazelcast@1.40.2?classifier=sources

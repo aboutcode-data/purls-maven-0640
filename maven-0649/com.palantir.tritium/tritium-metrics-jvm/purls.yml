@@ -100,3 +100,4 @@
 - pkg:maven/com.palantir.tritium/tritium-metrics-jvm@0.45.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-metrics-jvm@0.46.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-metrics-jvm@0.47.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-metrics-jvm@0.48.0?classifier=sources

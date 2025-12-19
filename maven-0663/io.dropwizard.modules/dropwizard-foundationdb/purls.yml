@@ -12,3 +12,5 @@
 - pkg:maven/io.dropwizard.modules/dropwizard-foundationdb@1.6.0?classifier=sources
 - pkg:maven/io.dropwizard.modules/dropwizard-foundationdb@1.6.1
 - pkg:maven/io.dropwizard.modules/dropwizard-foundationdb@1.6.1?classifier=sources
+- pkg:maven/io.dropwizard.modules/dropwizard-foundationdb@2.0.0
+- pkg:maven/io.dropwizard.modules/dropwizard-foundationdb@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mderevyankoaqa/jmeter-plugin-influxdb2-listener@1.6?classifier=sources
+- pkg:maven/io.github.mderevyankoaqa/jmeter-plugin-influxdb2-listener@2.0?classifier=sources

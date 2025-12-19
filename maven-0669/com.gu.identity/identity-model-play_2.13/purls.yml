@@ -20,3 +20,7 @@
 - pkg:maven/com.gu.identity/identity-model-play_2.13@3.252?classifier=sources
 - pkg:maven/com.gu.identity/identity-model-play_2.13@3.253
 - pkg:maven/com.gu.identity/identity-model-play_2.13@3.253?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.254
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.254?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.255
+- pkg:maven/com.gu.identity/identity-model-play_2.13@3.255?classifier=sources

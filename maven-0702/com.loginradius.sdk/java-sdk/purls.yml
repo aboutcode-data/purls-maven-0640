@@ -22,6 +22,8 @@
 - pkg:maven/com.loginradius.sdk/java-sdk@11.3.0?classifier=sources
 - pkg:maven/com.loginradius.sdk/java-sdk@11.3.1
 - pkg:maven/com.loginradius.sdk/java-sdk@11.3.1?classifier=sources
+- pkg:maven/com.loginradius.sdk/java-sdk@11.4.0
+- pkg:maven/com.loginradius.sdk/java-sdk@11.4.0?classifier=sources
 - pkg:maven/com.loginradius.sdk/java-sdk@2.5.0
 - pkg:maven/com.loginradius.sdk/java-sdk@2.5.0?classifier=sources
 - pkg:maven/com.loginradius.sdk/java-sdk@2.5.1

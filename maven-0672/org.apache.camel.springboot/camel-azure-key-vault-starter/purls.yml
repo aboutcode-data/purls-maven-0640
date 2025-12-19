@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.springboot/camel-azure-key-vault-starter@3.17.0
+- pkg:maven/org.apache.camel.springboot/camel-azure-key-vault-starter@3.17.0?classifier=sources

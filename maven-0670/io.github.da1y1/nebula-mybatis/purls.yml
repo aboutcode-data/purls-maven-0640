@@ -1,0 +1,4 @@
+- pkg:maven/io.github.da1y1/nebula-mybatis@0.0.2
+- pkg:maven/io.github.da1y1/nebula-mybatis@0.0.2?classifier=sources
+- pkg:maven/io.github.da1y1/nebula-mybatis@0.0.3
+- pkg:maven/io.github.da1y1/nebula-mybatis@0.0.3?classifier=sources

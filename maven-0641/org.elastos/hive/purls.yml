@@ -17,3 +17,4 @@
 - pkg:maven/org.elastos/hive@v2.3.3?classifier=sources
 - pkg:maven/org.elastos/hive@v2.4.1?classifier=sources
 - pkg:maven/org.elastos/hive@v2.5.1?classifier=sources
+- pkg:maven/org.elastos/hive@v2.6.1?classifier=sources

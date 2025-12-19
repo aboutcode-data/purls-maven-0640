@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-theme-quartz-dark@6.3.0
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-theme-quartz-dark@6.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cc.siyecao.mapper/clover-mapper-dynamic@3.0.2
+- pkg:maven/cc.siyecao.mapper/clover-mapper-dynamic@3.0.2?classifier=sources

@@ -128,6 +128,8 @@
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@12.1.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@12.1.11.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@12.1.11.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-kryo@12.1.12.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-kryo@12.1.12.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@12.1.2.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@12.1.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@12.1.3.Final
@@ -160,6 +162,8 @@
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@13.0.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@13.0.1.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@13.0.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-kryo@13.0.10.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-kryo@13.0.10.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@13.0.2.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@13.0.3.Final
@@ -180,6 +184,8 @@
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@14.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@14.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@14.0.0.Dev02?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-kryo@14.0.0.Dev03
+- pkg:maven/org.infinispan/infinispan-marshaller-kryo@14.0.0.Dev03?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@9.0.0.Beta1
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@9.0.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo@9.0.0.Beta2

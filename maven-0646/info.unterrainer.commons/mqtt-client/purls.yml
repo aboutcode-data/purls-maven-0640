@@ -1,0 +1,4 @@
+- pkg:maven/info.unterrainer.commons/mqtt-client@0.0.1
+- pkg:maven/info.unterrainer.commons/mqtt-client@0.0.11
+- pkg:maven/info.unterrainer.commons/mqtt-client@0.0.11?classifier=sources
+- pkg:maven/info.unterrainer.commons/mqtt-client@0.0.1?classifier=sources

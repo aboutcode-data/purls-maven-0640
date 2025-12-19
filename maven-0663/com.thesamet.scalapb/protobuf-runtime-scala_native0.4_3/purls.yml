@@ -1,0 +1,2 @@
+- pkg:maven/com.thesamet.scalapb/protobuf-runtime-scala_native0.4_3@0.8.13
+- pkg:maven/com.thesamet.scalapb/protobuf-runtime-scala_native0.4_3@0.8.13?classifier=sources

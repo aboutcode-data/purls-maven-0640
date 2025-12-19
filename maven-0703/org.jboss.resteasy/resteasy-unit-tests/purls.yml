@@ -17,3 +17,4 @@
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.0.1.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.1.0.Alpha1
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.1.0.Beta1
+- pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.1.0.Beta2

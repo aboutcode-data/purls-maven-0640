@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-rt-transports-http-hc5@1.1.0
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-rt-transports-http-hc5@1.1.0?classifier=sources

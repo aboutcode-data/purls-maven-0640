@@ -68,3 +68,7 @@
 - pkg:maven/ch.exense.step/step-functions-plugins-node@3.18.2?classifier=sources
 - pkg:maven/ch.exense.step/step-functions-plugins-node@3.18.3
 - pkg:maven/ch.exense.step/step-functions-plugins-node@3.18.3?classifier=sources
+- pkg:maven/ch.exense.step/step-functions-plugins-node@3.18.4
+- pkg:maven/ch.exense.step/step-functions-plugins-node@3.18.4?classifier=sources
+- pkg:maven/ch.exense.step/step-functions-plugins-node@3.19.0
+- pkg:maven/ch.exense.step/step-functions-plugins-node@3.19.0?classifier=sources

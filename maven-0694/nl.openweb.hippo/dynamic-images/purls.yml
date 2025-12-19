@@ -1,0 +1,2 @@
+- pkg:maven/nl.openweb.hippo/dynamic-images@1.0.2
+- pkg:maven/nl.openweb.hippo/dynamic-images@1.0.2?classifier=sources

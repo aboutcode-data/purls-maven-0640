@@ -10,3 +10,5 @@
 - pkg:maven/io.github.davidwhitlock.cs410J.original/apptbook-web@2021.3.0?type=war
 - pkg:maven/io.github.davidwhitlock.cs410J.original/apptbook-web@2022.0.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.cs410J.original/apptbook-web@2022.0.0?type=war
+- pkg:maven/io.github.davidwhitlock.cs410J.original/apptbook-web@2022.1.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.cs410J.original/apptbook-web@2022.1.0?type=war

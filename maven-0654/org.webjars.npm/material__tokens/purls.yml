@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/material__tokens@12.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tokens@13.0.0
 - pkg:maven/org.webjars.npm/material__tokens@13.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__tokens@14.0.0
+- pkg:maven/org.webjars.npm/material__tokens@14.0.0?classifier=sources

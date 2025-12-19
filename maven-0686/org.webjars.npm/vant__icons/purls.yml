@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/vant__icons@1.1.14?classifier=sources
 - pkg:maven/org.webjars.npm/vant__icons@1.6.0
 - pkg:maven/org.webjars.npm/vant__icons@1.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/vant__icons@1.8.0
+- pkg:maven/org.webjars.npm/vant__icons@1.8.0?classifier=sources

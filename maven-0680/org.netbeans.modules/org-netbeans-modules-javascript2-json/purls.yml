@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-json@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-json@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-json@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-json@RELEASE140?classifier=sources

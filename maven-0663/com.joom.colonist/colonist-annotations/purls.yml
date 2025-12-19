@@ -1,0 +1,2 @@
+- pkg:maven/com.joom.colonist/colonist-annotations@0.1.0-alpha17?classifier=sources
+- pkg:maven/com.joom.colonist/colonist-annotations@0.1.0-alpha18?classifier=sources

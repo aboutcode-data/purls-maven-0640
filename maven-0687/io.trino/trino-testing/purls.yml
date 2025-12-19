@@ -54,3 +54,17 @@
 - pkg:maven/io.trino/trino-testing@377?classifier=sources
 - pkg:maven/io.trino/trino-testing@378
 - pkg:maven/io.trino/trino-testing@378?classifier=sources
+- pkg:maven/io.trino/trino-testing@379
+- pkg:maven/io.trino/trino-testing@379?classifier=sources
+- pkg:maven/io.trino/trino-testing@380
+- pkg:maven/io.trino/trino-testing@380?classifier=sources
+- pkg:maven/io.trino/trino-testing@381
+- pkg:maven/io.trino/trino-testing@381?classifier=sources
+- pkg:maven/io.trino/trino-testing@382
+- pkg:maven/io.trino/trino-testing@382?classifier=sources
+- pkg:maven/io.trino/trino-testing@383
+- pkg:maven/io.trino/trino-testing@383?classifier=sources
+- pkg:maven/io.trino/trino-testing@384
+- pkg:maven/io.trino/trino-testing@384?classifier=sources
+- pkg:maven/io.trino/trino-testing@385
+- pkg:maven/io.trino/trino-testing@385?classifier=sources
