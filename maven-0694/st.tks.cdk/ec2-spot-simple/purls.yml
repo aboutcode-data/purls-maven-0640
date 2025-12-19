@@ -1,0 +1,12 @@
+- pkg:maven/st.tks.cdk/ec2-spot-simple@1.0.0
+- pkg:maven/st.tks.cdk/ec2-spot-simple@1.0.0?classifier=sources
+- pkg:maven/st.tks.cdk/ec2-spot-simple@1.1.1-alpha.1
+- pkg:maven/st.tks.cdk/ec2-spot-simple@1.1.1-alpha.1?classifier=sources
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.0.0-alpha.2
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.0.0-alpha.2?classifier=sources
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.0.1
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.0.1-alpha.1
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.0.1-alpha.1?classifier=sources
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.0.1?classifier=sources
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.0.2
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.0.2?classifier=sources

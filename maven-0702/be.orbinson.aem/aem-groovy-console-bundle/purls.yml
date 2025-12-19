@@ -1,0 +1,2 @@
+- pkg:maven/be.orbinson.aem/aem-groovy-console-bundle@18.0.0
+- pkg:maven/be.orbinson.aem/aem-groovy-console-bundle@18.0.0?classifier=sources

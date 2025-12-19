@@ -5,3 +5,4 @@
 - pkg:maven/com.github.haifengl/smile-kotlin@2.5.2?classifier=sources
 - pkg:maven/com.github.haifengl/smile-kotlin@2.5.3?classifier=sources
 - pkg:maven/com.github.haifengl/smile-kotlin@2.6.0?classifier=sources
+- pkg:maven/com.github.haifengl/smile-kotlin@3.0.0?classifier=sources

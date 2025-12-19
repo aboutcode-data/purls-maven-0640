@@ -1,0 +1,2 @@
+- pkg:maven/org.clojure/tools.deps.cli@0.9.10
+- pkg:maven/org.clojure/tools.deps.cli@0.9.10?classifier=sources

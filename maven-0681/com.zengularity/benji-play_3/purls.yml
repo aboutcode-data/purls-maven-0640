@@ -1,2 +1,4 @@
 - pkg:maven/com.zengularity/benji-play_3@2.2.0-play28
 - pkg:maven/com.zengularity/benji-play_3@2.2.0-play28?classifier=sources
+- pkg:maven/com.zengularity/benji-play_3@2.2.1-play28
+- pkg:maven/com.zengularity/benji-play_3@2.2.1-play28?classifier=sources

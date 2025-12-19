@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.activemq/artemis-log-annotation-processor@2.27.0
 - pkg:maven/org.apache.activemq/artemis-log-annotation-processor@2.27.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-log-annotation-processor@2.27.1
+- pkg:maven/org.apache.activemq/artemis-log-annotation-processor@2.27.1?classifier=sources

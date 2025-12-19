@@ -25,6 +25,8 @@
 - pkg:maven/com.spiwer/standard@1.6.19?classifier=sources
 - pkg:maven/com.spiwer/standard@1.6.1?classifier=sources
 - pkg:maven/com.spiwer/standard@1.6.2
+- pkg:maven/com.spiwer/standard@1.6.20
+- pkg:maven/com.spiwer/standard@1.6.20?classifier=sources
 - pkg:maven/com.spiwer/standard@1.6.2?classifier=sources
 - pkg:maven/com.spiwer/standard@1.6.3
 - pkg:maven/com.spiwer/standard@1.6.3?classifier=sources
@@ -40,3 +42,5 @@
 - pkg:maven/com.spiwer/standard@1.6.8?classifier=sources
 - pkg:maven/com.spiwer/standard@1.6.9
 - pkg:maven/com.spiwer/standard@1.6.9?classifier=sources
+- pkg:maven/com.spiwer/standard@2.0.0
+- pkg:maven/com.spiwer/standard@2.0.0?classifier=sources

@@ -119,6 +119,8 @@
 - pkg:maven/it.cnr.si/ace-client@4.1.15?classifier=sources
 - pkg:maven/it.cnr.si/ace-client@4.1.16
 - pkg:maven/it.cnr.si/ace-client@4.1.16?classifier=sources
+- pkg:maven/it.cnr.si/ace-client@4.1.17
+- pkg:maven/it.cnr.si/ace-client@4.1.17?classifier=sources
 - pkg:maven/it.cnr.si/ace-client@4.1.1?classifier=sources
 - pkg:maven/it.cnr.si/ace-client@4.1.2
 - pkg:maven/it.cnr.si/ace-client@4.1.2?classifier=sources

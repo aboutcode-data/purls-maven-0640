@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jintelligent/javatools-core@1.2.0
+- pkg:maven/io.github.jintelligent/javatools-core@1.2.0?classifier=sources

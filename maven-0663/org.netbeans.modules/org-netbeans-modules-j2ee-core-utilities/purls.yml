@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-core-utilities@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-core-utilities@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-core-utilities@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-core-utilities@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-core-utilities@RELEASE90?classifier=sources

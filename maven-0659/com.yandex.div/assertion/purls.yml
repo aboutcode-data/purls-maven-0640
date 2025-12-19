@@ -4,6 +4,11 @@
 - pkg:maven/com.yandex.div/assertion@13.0.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@14.0.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@15.0.0?classifier=sources
+- pkg:maven/com.yandex.div/assertion@16.0.0?classifier=sources
+- pkg:maven/com.yandex.div/assertion@17.0.0?classifier=sources
+- pkg:maven/com.yandex.div/assertion@18.0.0?classifier=sources
+- pkg:maven/com.yandex.div/assertion@19.0.0?classifier=sources
+- pkg:maven/com.yandex.div/assertion@20.0.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@7.0.0?classifier=sources

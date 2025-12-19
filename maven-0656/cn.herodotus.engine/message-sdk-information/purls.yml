@@ -1,0 +1,2 @@
+- pkg:maven/cn.herodotus.engine/message-sdk-information@3.0.0-RC3
+- pkg:maven/cn.herodotus.engine/message-sdk-information@3.0.0-RC3?classifier=sources

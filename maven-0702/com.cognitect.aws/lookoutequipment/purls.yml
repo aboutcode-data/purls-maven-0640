@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/lookoutequipment@822.2.1171.0?classifier=sources
 - pkg:maven/com.cognitect.aws/lookoutequipment@823.2.1216.0
 - pkg:maven/com.cognitect.aws/lookoutequipment@823.2.1216.0?classifier=sources
+- pkg:maven/com.cognitect.aws/lookoutequipment@825.2.1283.0
+- pkg:maven/com.cognitect.aws/lookoutequipment@825.2.1283.0?classifier=sources

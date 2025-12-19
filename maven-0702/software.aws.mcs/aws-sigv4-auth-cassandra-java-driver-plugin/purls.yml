@@ -14,3 +14,5 @@
 - pkg:maven/software.aws.mcs/aws-sigv4-auth-cassandra-java-driver-plugin@4.0.6?classifier=sources
 - pkg:maven/software.aws.mcs/aws-sigv4-auth-cassandra-java-driver-plugin@4.0.7
 - pkg:maven/software.aws.mcs/aws-sigv4-auth-cassandra-java-driver-plugin@4.0.7?classifier=sources
+- pkg:maven/software.aws.mcs/aws-sigv4-auth-cassandra-java-driver-plugin@4.0.8
+- pkg:maven/software.aws.mcs/aws-sigv4-auth-cassandra-java-driver-plugin@4.0.8?classifier=sources

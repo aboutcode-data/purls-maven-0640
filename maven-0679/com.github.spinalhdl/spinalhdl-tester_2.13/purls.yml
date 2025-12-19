@@ -1,0 +1,6 @@
+- pkg:maven/com.github.spinalhdl/spinalhdl-tester_2.13@1.8.0
+- pkg:maven/com.github.spinalhdl/spinalhdl-tester_2.13@1.8.0?classifier=sources
+- pkg:maven/com.github.spinalhdl/spinalhdl-tester_2.13@1.8.0a
+- pkg:maven/com.github.spinalhdl/spinalhdl-tester_2.13@1.8.0a?classifier=sources
+- pkg:maven/com.github.spinalhdl/spinalhdl-tester_2.13@1.8.0b
+- pkg:maven/com.github.spinalhdl/spinalhdl-tester_2.13@1.8.0b?classifier=sources

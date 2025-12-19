@@ -40,3 +40,5 @@
 - pkg:maven/com.gitee.melin.bee/bee@1.4.8?classifier=sources
 - pkg:maven/com.gitee.melin.bee/bee@1.4.9
 - pkg:maven/com.gitee.melin.bee/bee@1.4.9?classifier=sources
+- pkg:maven/com.gitee.melin.bee/bee@1.5.0
+- pkg:maven/com.gitee.melin.bee/bee@1.5.0?classifier=sources

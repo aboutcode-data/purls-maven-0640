@@ -28,6 +28,16 @@
 - pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1532.71?classifier=sources
 - pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1571.72
 - pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1571.72?classifier=sources
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1571.74
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1571.74?classifier=sources
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1612.75
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1612.75?classifier=sources
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1653.78
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1653.78?classifier=sources
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1653.80
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1653.80?classifier=sources
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1653.83
+- pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.1653.83?classifier=sources
 - pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.600
 - pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.600?classifier=sources
 - pkg:maven/com.fhoster.livebase/livebase-gradle-plugin@2.0.601

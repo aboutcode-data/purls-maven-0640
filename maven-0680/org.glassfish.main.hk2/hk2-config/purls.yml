@@ -19,3 +19,4 @@
 - pkg:maven/org.glassfish.main.hk2/hk2-config@7.0.0-M2?classifier=sources
 - pkg:maven/org.glassfish.main.hk2/hk2-config@7.0.0-M3?classifier=sources
 - pkg:maven/org.glassfish.main.hk2/hk2-config@7.0.0-M4?classifier=sources
+- pkg:maven/org.glassfish.main.hk2/hk2-config@7.0.0?classifier=sources

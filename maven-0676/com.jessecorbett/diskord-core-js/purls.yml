@@ -4,3 +4,5 @@
 - pkg:maven/com.jessecorbett/diskord-core-js@2.1.2?classifier=sources
 - pkg:maven/com.jessecorbett/diskord-core-js@2.1.3?classifier=sources
 - pkg:maven/com.jessecorbett/diskord-core-js@2.1.4?classifier=sources
+- pkg:maven/com.jessecorbett/diskord-core-js@3.0.0?classifier=sources
+- pkg:maven/com.jessecorbett/diskord-core-js@3.0.1?classifier=sources

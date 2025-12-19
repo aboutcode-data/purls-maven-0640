@@ -2,3 +2,7 @@
 - pkg:maven/com.imagingbook/imagingbook_plugins_book@4.0.0?classifier=sources
 - pkg:maven/com.imagingbook/imagingbook_plugins_book@5.0.0
 - pkg:maven/com.imagingbook/imagingbook_plugins_book@5.0.0?classifier=sources
+- pkg:maven/com.imagingbook/imagingbook_plugins_book@6.0.0
+- pkg:maven/com.imagingbook/imagingbook_plugins_book@6.0.0?classifier=sources
+- pkg:maven/com.imagingbook/imagingbook_plugins_book@7.0.0
+- pkg:maven/com.imagingbook/imagingbook_plugins_book@7.0.0?classifier=sources

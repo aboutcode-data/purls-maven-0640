@@ -696,6 +696,9 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.web@4.0.5
+- pkg:maven/com.liferay/com.liferay.exportimport.web@4.0.50
+- pkg:maven/com.liferay/com.liferay.exportimport.web@4.0.50?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.web@4.0.50?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.web@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.web@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.web@4.0.6
@@ -813,6 +816,17 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.53
 - pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.53?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.54
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.54?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.55
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.55?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.56?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.57
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.57?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.exportimport.web@5.0.6

@@ -1,2 +1,4 @@
 - pkg:maven/com.instaclustr/sstable-generator-cassandra-2-2-19@1.0
 - pkg:maven/com.instaclustr/sstable-generator-cassandra-2-2-19@1.0?classifier=sources
+- pkg:maven/com.instaclustr/sstable-generator-cassandra-2-2-19@1.1
+- pkg:maven/com.instaclustr/sstable-generator-cassandra-2-2-19@1.1?classifier=sources

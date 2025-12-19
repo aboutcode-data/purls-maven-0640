@@ -35,6 +35,10 @@
 - pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.0
 - pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.0?classifier=sources
 - pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.1
+- pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.10
+- pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.10?classifier=sources
+- pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.11
+- pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.11?classifier=sources
 - pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.1?classifier=sources
 - pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.2
 - pkg:maven/no.priv.bang.sonar.sonar-collector/sonar-collector-webhook@1.5.2?classifier=sources

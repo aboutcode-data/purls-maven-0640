@@ -2,3 +2,7 @@
 - pkg:maven/com.bailizhang.lynxdb/lynxdb-client@2022.0.0-alpha?classifier=sources
 - pkg:maven/com.bailizhang.lynxdb/lynxdb-client@2022.0.1-alpha
 - pkg:maven/com.bailizhang.lynxdb/lynxdb-client@2022.0.1-alpha?classifier=sources
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-client@2022.12.5-alpha
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-client@2022.12.5-alpha?classifier=sources
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-client@2023.1.2-alpha
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-client@2023.1.2-alpha?classifier=sources

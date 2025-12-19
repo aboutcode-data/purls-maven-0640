@@ -1,0 +1,1 @@
+- pkg:maven/io.trino/trino-mysql-event-listener@405?classifier=sources

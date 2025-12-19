@@ -862,3 +862,9 @@
 - pkg:maven/com.yahoo.vespa/security-tools@8.83.34?classifier=sources
 - pkg:maven/com.yahoo.vespa/security-tools@8.86.28
 - pkg:maven/com.yahoo.vespa/security-tools@8.86.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/security-tools@8.89.6
+- pkg:maven/com.yahoo.vespa/security-tools@8.89.6?classifier=sources
+- pkg:maven/com.yahoo.vespa/security-tools@8.90.59
+- pkg:maven/com.yahoo.vespa/security-tools@8.90.59?classifier=sources
+- pkg:maven/com.yahoo.vespa/security-tools@8.91.2
+- pkg:maven/com.yahoo.vespa/security-tools@8.91.2?classifier=sources

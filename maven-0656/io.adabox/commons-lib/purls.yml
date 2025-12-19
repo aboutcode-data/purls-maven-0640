@@ -16,3 +16,7 @@
 - pkg:maven/io.adabox/commons-lib@1.0.7?classifier=sources
 - pkg:maven/io.adabox/commons-lib@1.0.8
 - pkg:maven/io.adabox/commons-lib@1.0.8?classifier=sources
+- pkg:maven/io.adabox/commons-lib@1.1.8
+- pkg:maven/io.adabox/commons-lib@1.1.8?classifier=sources
+- pkg:maven/io.adabox/commons-lib@1.1.9
+- pkg:maven/io.adabox/commons-lib@1.1.9?classifier=sources

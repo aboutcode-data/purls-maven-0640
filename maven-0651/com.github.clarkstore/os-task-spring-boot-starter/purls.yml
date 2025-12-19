@@ -1,3 +1,5 @@
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.17.0
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.17.0?classifier=sources
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.2.10
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.2.10?classifier=sources
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.2.11
@@ -177,7 +179,19 @@
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.24?classifier=sources
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.25
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.25?classifier=sources
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.26
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.26?classifier=sources
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.27
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.27?classifier=sources
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.28
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.28?classifier=sources
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.29
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.29?classifier=sources
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.2?classifier=sources
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.30
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.30?classifier=sources
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.32
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.32?classifier=sources
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.4
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.4?classifier=sources
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.5
@@ -190,3 +204,5 @@
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.8?classifier=sources
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.9
 - pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.6.9?classifier=sources
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.8.0
+- pkg:maven/com.github.clarkstore/os-task-spring-boot-starter@0.8.0?classifier=sources

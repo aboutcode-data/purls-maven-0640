@@ -8,6 +8,7 @@
 - pkg:maven/io.github.stevecrox.maven.skins/bootstrap-site-skin@0.9.21?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins/bootstrap-site-skin@0.9.22?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins/bootstrap-site-skin@1.0.0?classifier=sources
+- pkg:maven/io.github.stevecrox.maven.skins/bootstrap-site-skin@1.0.10?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins/bootstrap-site-skin@1.0.1?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins/bootstrap-site-skin@1.0.2?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins/bootstrap-site-skin@1.0.5?classifier=sources

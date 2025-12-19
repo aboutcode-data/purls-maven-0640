@@ -18,3 +18,4 @@
 - pkg:maven/com.azure.spring/azure-spring-cloud-feature-management@2.6.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-feature-management@2.7.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-feature-management@2.8.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-cloud-feature-management@2.9.0?classifier=sources

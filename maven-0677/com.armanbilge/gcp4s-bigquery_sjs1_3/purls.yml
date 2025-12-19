@@ -14,6 +14,8 @@
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-0e9ee80?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-0faada7
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-0faada7?classifier=sources
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-11379d5
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-11379d5?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-15d5ea5
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-15d5ea5?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-15f29d3
@@ -36,6 +38,8 @@
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-28e577e?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-2cce9fe
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-2cce9fe?classifier=sources
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-34e02ae
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-34e02ae?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-35ced24
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-35ced24?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-3689871
@@ -52,12 +56,16 @@
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-46fd408?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-48dd3d3
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-48dd3d3?classifier=sources
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-491070a
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-491070a?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-4ec63cb
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-4ec63cb?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-5183ebe
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-5183ebe?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-53e6683
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-53e6683?classifier=sources
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-56cf556
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-56cf556?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-5a39ef9
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-5a39ef9?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-5b001fd
@@ -130,6 +138,8 @@
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-ae345c3?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-b1641d9
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-b1641d9?classifier=sources
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-b350652
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-b350652?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-b3bbb00
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-b3bbb00?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-b41ada9
@@ -172,6 +182,8 @@
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-d83a717?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-d86338d
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-d86338d?classifier=sources
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-d9ff549
+- pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-d9ff549?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-db3f906
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-db3f906?classifier=sources
 - pkg:maven/com.armanbilge/gcp4s-bigquery_sjs1_3@0.1-dc3e097

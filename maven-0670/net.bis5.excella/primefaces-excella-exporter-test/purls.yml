@@ -2,3 +2,11 @@
 - pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@2.0.0?type=war
 - pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@2.0.1?classifier=sources
 - pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@2.0.1?type=war
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@2.0.2?classifier=sources
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@2.0.2?type=war
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@2.0.3?classifier=sources
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@2.0.3?type=war
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@3.0.0?classifier=sources
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@3.0.0?type=war
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@3.0.1?classifier=sources
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@3.0.1?type=war

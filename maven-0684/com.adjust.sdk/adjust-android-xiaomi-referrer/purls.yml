@@ -1,3 +1,5 @@
 - pkg:maven/com.adjust.sdk/adjust-android-xiaomi-referrer@4.31.1?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-xiaomi-referrer@4.32.0?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-xiaomi-referrer@4.33.0?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android-xiaomi-referrer@4.33.1?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android-xiaomi-referrer@4.33.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.snice.codecs/codec-http@0.0.10
+- pkg:maven/io.snice.codecs/codec-http@0.0.10?classifier=sources

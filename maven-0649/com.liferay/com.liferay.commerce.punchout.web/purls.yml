@@ -46,6 +46,9 @@
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.web@3.0.16
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.web@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.web@3.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.web@3.0.17
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.web@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.commerce.punchout.web@3.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.web@3.0.8
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.web@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.commerce.punchout.web@3.0.8?classifier=sources-commercial

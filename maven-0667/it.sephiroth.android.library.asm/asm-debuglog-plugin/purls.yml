@@ -8,3 +8,6 @@
 - pkg:maven/it.sephiroth.android.library.asm/asm-debuglog-plugin@1.0.3?classifier=sources
 - pkg:maven/it.sephiroth.android.library.asm/asm-debuglog-plugin@1.0.4?classifier=sources
 - pkg:maven/it.sephiroth.android.library.asm/asm-debuglog-plugin@1.0.8?classifier=sources
+- pkg:maven/it.sephiroth.android.library.asm/asm-debuglog-plugin@1.0.9?classifier=sources
+- pkg:maven/it.sephiroth.android.library.asm/asm-debuglog-plugin@2.0.2?classifier=sources
+- pkg:maven/it.sephiroth.android.library.asm/asm-debuglog-plugin@2.0.3?classifier=sources

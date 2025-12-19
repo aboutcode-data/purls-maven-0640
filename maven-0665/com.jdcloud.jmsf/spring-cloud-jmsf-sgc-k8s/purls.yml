@@ -1,0 +1,4 @@
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-sgc-k8s@1.4.0
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-sgc-k8s@1.4.0?classifier=sources
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-sgc-k8s@2.1.0
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-sgc-k8s@2.1.0?classifier=sources

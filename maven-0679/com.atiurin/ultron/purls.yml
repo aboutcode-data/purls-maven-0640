@@ -13,3 +13,7 @@
 - pkg:maven/com.atiurin/ultron@1.0.9?classifier=sources
 - pkg:maven/com.atiurin/ultron@2.0.0-alpha01?classifier=sources
 - pkg:maven/com.atiurin/ultron@2.0.0-alpha02?classifier=sources
+- pkg:maven/com.atiurin/ultron@2.0.1?classifier=sources
+- pkg:maven/com.atiurin/ultron@2.0.2?classifier=sources
+- pkg:maven/com.atiurin/ultron@2.0.3?classifier=sources
+- pkg:maven/com.atiurin/ultron@2.0.4?classifier=sources

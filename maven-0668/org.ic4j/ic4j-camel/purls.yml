@@ -4,3 +4,11 @@
 - pkg:maven/org.ic4j/ic4j-camel@0.6.17-BETA2?classifier=sources
 - pkg:maven/org.ic4j/ic4j-camel@0.6.17-BETA3
 - pkg:maven/org.ic4j/ic4j-camel@0.6.17-BETA3?classifier=sources
+- pkg:maven/org.ic4j/ic4j-camel@0.6.18
+- pkg:maven/org.ic4j/ic4j-camel@0.6.18-BETA2
+- pkg:maven/org.ic4j/ic4j-camel@0.6.18-BETA2?classifier=sources
+- pkg:maven/org.ic4j/ic4j-camel@0.6.18-BETA3
+- pkg:maven/org.ic4j/ic4j-camel@0.6.18-BETA3?classifier=sources
+- pkg:maven/org.ic4j/ic4j-camel@0.6.18-BETA4
+- pkg:maven/org.ic4j/ic4j-camel@0.6.18-BETA4?classifier=sources
+- pkg:maven/org.ic4j/ic4j-camel@0.6.18?classifier=sources

@@ -10,6 +10,7 @@
 - pkg:maven/org.apache.camel.k/camel-k-cloudevents@1.15.0
 - pkg:maven/org.apache.camel.k/camel-k-cloudevents@1.15.1
 - pkg:maven/org.apache.camel.k/camel-k-cloudevents@1.15.2
+- pkg:maven/org.apache.camel.k/camel-k-cloudevents@1.16.0
 - pkg:maven/org.apache.camel.k/camel-k-cloudevents@1.7.0
 - pkg:maven/org.apache.camel.k/camel-k-cloudevents@1.7.0?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-cloudevents@1.8.0

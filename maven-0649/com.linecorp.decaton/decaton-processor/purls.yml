@@ -46,3 +46,5 @@
 - pkg:maven/com.linecorp.decaton/decaton-processor@4.0.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-processor@5.0.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-processor@5.0.1?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-processor@6.0.0?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-processor@6.1.0?classifier=sources

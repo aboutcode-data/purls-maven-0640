@@ -1,5 +1,7 @@
 - pkg:maven/com.heanbian/heanbian-crypto@1.0.0.0
 - pkg:maven/com.heanbian/heanbian-crypto@1.0.0.0?classifier=sources
+- pkg:maven/com.heanbian/heanbian-crypto@10
+- pkg:maven/com.heanbian/heanbian-crypto@10?classifier=sources
 - pkg:maven/com.heanbian/heanbian-crypto@11.0.0
 - pkg:maven/com.heanbian/heanbian-crypto@11.0.0?classifier=sources
 - pkg:maven/com.heanbian/heanbian-crypto@11.0.2

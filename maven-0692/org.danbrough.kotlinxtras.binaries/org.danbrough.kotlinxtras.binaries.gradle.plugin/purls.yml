@@ -1,0 +1,2 @@
+- pkg:maven/org.danbrough.kotlinxtras.binaries/org.danbrough.kotlinxtras.binaries.gradle.plugin@0.0.3-beta01?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras.binaries/org.danbrough.kotlinxtras.binaries.gradle.plugin@0.0.3-beta03?classifier=sources

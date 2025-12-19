@@ -1,3 +1,5 @@
+- pkg:maven/com.innovenso.townplanner/townplanner_2.13@0.0.0%2B315-f08515a9
+- pkg:maven/com.innovenso.townplanner/townplanner_2.13@0.0.0%2B315-f08515a9?classifier=sources
 - pkg:maven/com.innovenso.townplanner/townplanner_2.13@1.25.0
 - pkg:maven/com.innovenso.townplanner/townplanner_2.13@1.25.0?classifier=sources
 - pkg:maven/com.innovenso.townplanner/townplanner_2.13@1.26.0
@@ -84,3 +86,7 @@
 - pkg:maven/com.innovenso.townplanner/townplanner_2.13@2.2.3?classifier=sources
 - pkg:maven/com.innovenso.townplanner/townplanner_2.13@2.3.0
 - pkg:maven/com.innovenso.townplanner/townplanner_2.13@2.3.0?classifier=sources
+- pkg:maven/com.innovenso.townplanner/townplanner_2.13@2.4.0
+- pkg:maven/com.innovenso.townplanner/townplanner_2.13@2.4.0?classifier=sources
+- pkg:maven/com.innovenso.townplanner/townplanner_2.13@3.0.0
+- pkg:maven/com.innovenso.townplanner/townplanner_2.13@3.0.0?classifier=sources

@@ -2167,6 +2167,16 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.163?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.164
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.164?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.165
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.165?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.166
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.166?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.167
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.167?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.168
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.168?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.169
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.169?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.17
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.source.formatter@5.1.17?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.trino.tempto/tempto-runner@188?classifier=sources
 - pkg:maven/io.trino.tempto/tempto-runner@189
 - pkg:maven/io.trino.tempto/tempto-runner@189?classifier=sources
+- pkg:maven/io.trino.tempto/tempto-runner@190
+- pkg:maven/io.trino.tempto/tempto-runner@190?classifier=sources

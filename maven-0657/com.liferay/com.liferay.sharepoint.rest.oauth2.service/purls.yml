@@ -149,6 +149,9 @@
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.oauth2.service@5.0.22
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.oauth2.service@5.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.oauth2.service@5.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.sharepoint.rest.oauth2.service@5.0.23
+- pkg:maven/com.liferay/com.liferay.sharepoint.rest.oauth2.service@5.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharepoint.rest.oauth2.service@5.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.oauth2.service@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.oauth2.service@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.oauth2.service@5.0.3

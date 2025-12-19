@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zerobyteword/json-diff-jackson@1.0.0-release
+- pkg:maven/io.github.zerobyteword/json-diff-jackson@1.0.0-release?classifier=sources

@@ -112,6 +112,14 @@
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.1.5-beta?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.1.6-beta
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.1.6-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.10.0
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.10.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.10.1
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.10.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.10.2
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.10.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.11.0
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.11.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.2.0-beta
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.2.0-beta?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.2.1-beta
@@ -142,3 +150,5 @@
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.8.2-beta?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.8.3-beta
 - pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.8.3-beta?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.9.0
+- pkg:maven/org.flywaydb/flyway-gcp-bigquery@9.9.0?classifier=sources

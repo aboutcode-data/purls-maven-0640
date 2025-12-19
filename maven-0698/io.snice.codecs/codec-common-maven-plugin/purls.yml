@@ -1,0 +1,2 @@
+- pkg:maven/io.snice.codecs/codec-common-maven-plugin@0.0.8
+- pkg:maven/io.snice.codecs/codec-common-maven-plugin@0.0.8?classifier=sources

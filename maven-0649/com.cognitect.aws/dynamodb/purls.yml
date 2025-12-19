@@ -52,3 +52,5 @@
 - pkg:maven/com.cognitect.aws/dynamodb@822.2.1205.0?classifier=sources
 - pkg:maven/com.cognitect.aws/dynamodb@825.2.1220.0
 - pkg:maven/com.cognitect.aws/dynamodb@825.2.1220.0?classifier=sources
+- pkg:maven/com.cognitect.aws/dynamodb@825.2.1262.0
+- pkg:maven/com.cognitect.aws/dynamodb@825.2.1262.0?classifier=sources

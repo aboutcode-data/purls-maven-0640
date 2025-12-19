@@ -1,2 +1,6 @@
 - pkg:maven/cc.kkon/gm-https@0.1.1
 - pkg:maven/cc.kkon/gm-https@0.1.1?classifier=sources
+- pkg:maven/cc.kkon/gm-https@0.2
+- pkg:maven/cc.kkon/gm-https@0.2.1
+- pkg:maven/cc.kkon/gm-https@0.2.1?classifier=sources
+- pkg:maven/cc.kkon/gm-https@0.2?classifier=sources

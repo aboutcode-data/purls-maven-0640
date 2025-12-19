@@ -1,0 +1,2 @@
+- pkg:maven/com.intel.analytics.bigdl.core.native.ckks/ckks-java-x86_64-linux@2.2.0
+- pkg:maven/com.intel.analytics.bigdl.core.native.ckks/ckks-java-x86_64-linux@2.2.0?classifier=sources

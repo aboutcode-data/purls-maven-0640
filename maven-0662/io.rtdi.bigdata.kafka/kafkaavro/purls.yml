@@ -4,5 +4,7 @@
 - pkg:maven/io.rtdi.bigdata.kafka/kafkaavro@0.10.11?classifier=sources
 - pkg:maven/io.rtdi.bigdata.kafka/kafkaavro@0.10.12
 - pkg:maven/io.rtdi.bigdata.kafka/kafkaavro@0.10.12?classifier=sources
+- pkg:maven/io.rtdi.bigdata.kafka/kafkaavro@0.10.13
+- pkg:maven/io.rtdi.bigdata.kafka/kafkaavro@0.10.13?classifier=sources
 - pkg:maven/io.rtdi.bigdata.kafka/kafkaavro@0.10.9
 - pkg:maven/io.rtdi.bigdata.kafka/kafkaavro@0.10.9?classifier=sources

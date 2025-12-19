@@ -1,0 +1,4 @@
+- pkg:maven/cn.java-union/iDesignPattern@1.0-RELEASE
+- pkg:maven/cn.java-union/iDesignPattern@1.0-RELEASE?classifier=sources
+- pkg:maven/cn.java-union/iDesignPattern@1.0.1-RELEASE
+- pkg:maven/cn.java-union/iDesignPattern@1.0.1-RELEASE?classifier=sources

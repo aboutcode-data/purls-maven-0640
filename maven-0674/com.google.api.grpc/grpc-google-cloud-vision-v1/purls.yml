@@ -370,3 +370,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@3.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@3.4.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@3.4.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@3.5.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vision-v1@3.5.0?classifier=sources

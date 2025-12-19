@@ -1,0 +1,2 @@
+- pkg:maven/org.citrusframework.yaks/yaks-runtime-core@0.12.0
+- pkg:maven/org.citrusframework.yaks/yaks-runtime-core@0.12.0?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/com.github.zouchongjin/hap-wso2-starter@1.0.7?classifier=sources
 - pkg:maven/com.github.zouchongjin/hap-wso2-starter@1.0.8
 - pkg:maven/com.github.zouchongjin/hap-wso2-starter@1.0.8?classifier=sources
+- pkg:maven/com.github.zouchongjin/hap-wso2-starter@1.1.0
+- pkg:maven/com.github.zouchongjin/hap-wso2-starter@1.1.0?classifier=sources
+- pkg:maven/com.github.zouchongjin/hap-wso2-starter@1.1.1
+- pkg:maven/com.github.zouchongjin/hap-wso2-starter@1.1.1?classifier=sources

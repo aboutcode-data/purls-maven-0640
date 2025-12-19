@@ -1,0 +1,2 @@
+- pkg:maven/bd.com.shurjomukhi/sp-plugin-spring@0.1.0
+- pkg:maven/bd.com.shurjomukhi/sp-plugin-spring@0.1.0?classifier=sources

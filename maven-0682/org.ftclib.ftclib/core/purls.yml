@@ -11,3 +11,4 @@
 - pkg:maven/org.ftclib.ftclib/core@1.2.1?classifier=sources
 - pkg:maven/org.ftclib.ftclib/core@2.0.0?classifier=sources
 - pkg:maven/org.ftclib.ftclib/core@2.0.1?classifier=sources
+- pkg:maven/org.ftclib.ftclib/core@2.1.0?classifier=sources

@@ -226,6 +226,10 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.57.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.58.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.58.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-polly@2.59.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-polly@2.59.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-polly@2.59.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-polly@2.59.1?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.6.0
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.6.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.6.1
@@ -290,6 +294,8 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.6.8?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.6.9
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.6.9?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-polly@2.60.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-polly@2.60.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.7.0
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.7.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-polly@2.7.1

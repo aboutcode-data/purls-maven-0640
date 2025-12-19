@@ -1,2 +1,3 @@
 - pkg:maven/ru.kode/remo-jvm@1.0.8?classifier=sources
 - pkg:maven/ru.kode/remo-jvm@1.1.0?classifier=sources
+- pkg:maven/ru.kode/remo-jvm@1.1.1?classifier=sources

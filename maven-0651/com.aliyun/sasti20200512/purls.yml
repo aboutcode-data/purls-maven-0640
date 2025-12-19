@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/sasti20200512@1.0.0
+- pkg:maven/com.aliyun/sasti20200512@1.0.0?classifier=sources

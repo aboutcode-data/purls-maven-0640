@@ -20,3 +20,5 @@
 - pkg:maven/za.co.absa/atum-s3-sdk-extension_2.12@3.8.2?classifier=sources
 - pkg:maven/za.co.absa/atum-s3-sdk-extension_2.12@3.8.3
 - pkg:maven/za.co.absa/atum-s3-sdk-extension_2.12@3.8.3?classifier=sources
+- pkg:maven/za.co.absa/atum-s3-sdk-extension_2.12@3.9.0
+- pkg:maven/za.co.absa/atum-s3-sdk-extension_2.12@3.9.0?classifier=sources
