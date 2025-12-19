@@ -1,0 +1,2 @@
+- pkg:maven/dk.ignalina.lab.spark232/welder-spark-job@0.0.1
+- pkg:maven/dk.ignalina.lab.spark232/welder-spark-job@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/scala-packager-image-resizer_2.13@0.1.26
+- pkg:maven/org.virtuslab/scala-packager-image-resizer_2.13@0.1.26?classifier=sources

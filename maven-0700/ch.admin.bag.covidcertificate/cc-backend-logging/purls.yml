@@ -4,3 +4,6 @@
 - pkg:maven/ch.admin.bag.covidcertificate/cc-backend-logging@0.0.14?classifier=sources
 - pkg:maven/ch.admin.bag.covidcertificate/cc-backend-logging@1.0.0
 - pkg:maven/ch.admin.bag.covidcertificate/cc-backend-logging@1.0.0?classifier=sources
+- pkg:maven/ch.admin.bag.covidcertificate/cc-backend-logging@1.0.1?classifier=sources
+- pkg:maven/ch.admin.bag.covidcertificate/cc-backend-logging@1.0.2
+- pkg:maven/ch.admin.bag.covidcertificate/cc-backend-logging@1.0.2?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/io.github.pierresj/jmix-huaweifs@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.pierresj/jmix-huaweifs@0.0.2-RELEASE?classifier=sources
+- pkg:maven/io.github.pierresj/jmix-huaweifs@0.0.3-RELEASE?classifier=sources

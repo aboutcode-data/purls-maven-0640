@@ -1,2 +1,4 @@
 - pkg:maven/gg.pragma/jackson-datatype-protobuf@0.9.13-LongsAsStrings
 - pkg:maven/gg.pragma/jackson-datatype-protobuf@0.9.13-LongsAsStrings?classifier=sources
+- pkg:maven/gg.pragma/jackson-datatype-protobuf@0.9.14
+- pkg:maven/gg.pragma/jackson-datatype-protobuf@0.9.14?classifier=sources

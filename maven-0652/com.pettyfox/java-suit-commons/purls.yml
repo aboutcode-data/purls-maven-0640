@@ -1,0 +1,2 @@
+- pkg:maven/com.pettyfox/java-suit-commons@1.0.1
+- pkg:maven/com.pettyfox/java-suit-commons@1.0.1?classifier=sources

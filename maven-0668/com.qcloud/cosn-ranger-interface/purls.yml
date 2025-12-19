@@ -1,0 +1,2 @@
+- pkg:maven/com.qcloud/cosn-ranger-interface@1.0.3
+- pkg:maven/com.qcloud/cosn-ranger-interface@1.0.3?classifier=sources

@@ -62,3 +62,7 @@
 - pkg:maven/pl.morgwai.base/servlet-scopes@7.0-javax?classifier=sources
 - pkg:maven/pl.morgwai.base/servlet-scopes@7.1-jakarta?classifier=sources
 - pkg:maven/pl.morgwai.base/servlet-scopes@7.1-javax?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-scopes@7.2-jakarta
+- pkg:maven/pl.morgwai.base/servlet-scopes@7.2-jakarta?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-scopes@7.2-javax
+- pkg:maven/pl.morgwai.base/servlet-scopes@7.2-javax?classifier=sources

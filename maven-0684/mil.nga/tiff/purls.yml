@@ -18,3 +18,5 @@
 - pkg:maven/mil.nga/tiff@2.0.4?classifier=sources
 - pkg:maven/mil.nga/tiff@2.0.5
 - pkg:maven/mil.nga/tiff@2.0.5?classifier=sources
+- pkg:maven/mil.nga/tiff@3.0.0
+- pkg:maven/mil.nga/tiff@3.0.0?classifier=sources

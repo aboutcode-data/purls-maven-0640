@@ -66,3 +66,5 @@
 - pkg:maven/gov.nasa.pds/validate@2.1.0?classifier=sources
 - pkg:maven/gov.nasa.pds/validate@2.1.2
 - pkg:maven/gov.nasa.pds/validate@2.1.2?classifier=sources
+- pkg:maven/gov.nasa.pds/validate@2.1.4
+- pkg:maven/gov.nasa.pds/validate@2.1.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/ua.com.gfalcon/logger@1.0.0
+- pkg:maven/ua.com.gfalcon/logger@1.0.0?classifier=sources
+- pkg:maven/ua.com.gfalcon/logger@1.1.0
+- pkg:maven/ua.com.gfalcon/logger@1.1.0?classifier=sources
+- pkg:maven/ua.com.gfalcon/logger@1.1.1
+- pkg:maven/ua.com.gfalcon/logger@1.1.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-payload-processor-shaded-tests@2.9.1.3
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-payload-processor-shaded-tests@2.9.1.3?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-payload-processor-shaded-tests@2.9.1.4
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-payload-processor-shaded-tests@2.9.1.4?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-payload-processor-shaded-tests@2.9.1.5
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-payload-processor-shaded-tests@2.9.1.5?classifier=sources

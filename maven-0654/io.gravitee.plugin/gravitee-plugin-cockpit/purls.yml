@@ -16,3 +16,5 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-cockpit@1.20.0?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-cockpit@1.21.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-cockpit@1.21.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-cockpit@1.22.0
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-cockpit@1.22.0?classifier=sources

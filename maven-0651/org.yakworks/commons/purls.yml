@@ -24,3 +24,11 @@
 - pkg:maven/org.yakworks/commons@7.0.8-v.45?classifier=sources
 - pkg:maven/org.yakworks/commons@7.0.8-v.46
 - pkg:maven/org.yakworks/commons@7.0.8-v.46?classifier=sources
+- pkg:maven/org.yakworks/commons@7.0.8-v.48
+- pkg:maven/org.yakworks/commons@7.0.8-v.48?classifier=sources
+- pkg:maven/org.yakworks/commons@7.0.8-v.49
+- pkg:maven/org.yakworks/commons@7.0.8-v.49?classifier=sources
+- pkg:maven/org.yakworks/commons@7.0.8-v.50
+- pkg:maven/org.yakworks/commons@7.0.8-v.50?classifier=sources
+- pkg:maven/org.yakworks/commons@7.0.8-v.51
+- pkg:maven/org.yakworks/commons@7.0.8-v.51?classifier=sources

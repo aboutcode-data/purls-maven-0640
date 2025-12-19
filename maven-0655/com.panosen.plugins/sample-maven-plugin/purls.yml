@@ -1,0 +1,2 @@
+- pkg:maven/com.panosen.plugins/sample-maven-plugin@1.0.0
+- pkg:maven/com.panosen.plugins/sample-maven-plugin@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.entur.jwt-rs/jwt-spring-auth0-web@2.0.0
+- pkg:maven/org.entur.jwt-rs/jwt-spring-auth0-web@2.0.0?classifier=sources

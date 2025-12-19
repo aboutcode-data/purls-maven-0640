@@ -33,3 +33,5 @@
 - pkg:maven/io.github.jiefeiguanyu/GYJFOfTool@1.1.0-beta-3?classifier=sources
 - pkg:maven/io.github.jiefeiguanyu/GYJFOfTool@1.1.0-beta-4
 - pkg:maven/io.github.jiefeiguanyu/GYJFOfTool@1.1.0-beta-4?classifier=sources
+- pkg:maven/io.github.jiefeiguanyu/GYJFOfTool@1.1.0-beta-5
+- pkg:maven/io.github.jiefeiguanyu/GYJFOfTool@1.1.0-beta-5?classifier=sources

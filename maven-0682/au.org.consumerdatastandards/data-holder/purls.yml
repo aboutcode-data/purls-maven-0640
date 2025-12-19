@@ -28,6 +28,8 @@
 - pkg:maven/au.org.consumerdatastandards/data-holder@1.12.0?classifier=sources
 - pkg:maven/au.org.consumerdatastandards/data-holder@1.13.0
 - pkg:maven/au.org.consumerdatastandards/data-holder@1.13.0?classifier=sources
+- pkg:maven/au.org.consumerdatastandards/data-holder@1.14.0
+- pkg:maven/au.org.consumerdatastandards/data-holder@1.14.0?classifier=sources
 - pkg:maven/au.org.consumerdatastandards/data-holder@1.2.0
 - pkg:maven/au.org.consumerdatastandards/data-holder@1.2.0?classifier=sources
 - pkg:maven/au.org.consumerdatastandards/data-holder@1.3.0

@@ -48,3 +48,4 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.39.8?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.39.9
 - pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.39.9?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-presto_2.13@0.40.0

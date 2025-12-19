@@ -1,2 +1,6 @@
 - pkg:maven/com.tencent.iot.thirdparty.android/ijkplayer-arm64@1.0.2?classifier=sources
 - pkg:maven/com.tencent.iot.thirdparty.android/ijkplayer-arm64@1.0.2?type=aar
+- pkg:maven/com.tencent.iot.thirdparty.android/ijkplayer-arm64@1.0.3?classifier=sources
+- pkg:maven/com.tencent.iot.thirdparty.android/ijkplayer-arm64@1.0.3?type=aar
+- pkg:maven/com.tencent.iot.thirdparty.android/ijkplayer-arm64@1.0.5?classifier=sources
+- pkg:maven/com.tencent.iot.thirdparty.android/ijkplayer-arm64@1.0.5?type=aar

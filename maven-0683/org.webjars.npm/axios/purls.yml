@@ -36,6 +36,8 @@
 - pkg:maven/org.webjars.npm/axios@0.22.0?classifier=sources
 - pkg:maven/org.webjars.npm/axios@0.24.0
 - pkg:maven/org.webjars.npm/axios@0.24.0?classifier=sources
+- pkg:maven/org.webjars.npm/axios@0.25.0
+- pkg:maven/org.webjars.npm/axios@0.25.0?classifier=sources
 - pkg:maven/org.webjars.npm/axios@0.5.4
 - pkg:maven/org.webjars.npm/axios@0.5.4?classifier=sources
 - pkg:maven/org.webjars.npm/axios@0.9.1

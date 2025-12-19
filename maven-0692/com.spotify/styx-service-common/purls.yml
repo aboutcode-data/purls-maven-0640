@@ -62,6 +62,10 @@
 - pkg:maven/com.spotify/styx-service-common@2.1.131?classifier=sources
 - pkg:maven/com.spotify/styx-service-common@2.1.132
 - pkg:maven/com.spotify/styx-service-common@2.1.132?classifier=sources
+- pkg:maven/com.spotify/styx-service-common@2.1.138
+- pkg:maven/com.spotify/styx-service-common@2.1.138?classifier=sources
+- pkg:maven/com.spotify/styx-service-common@2.1.139
+- pkg:maven/com.spotify/styx-service-common@2.1.139?classifier=sources
 - pkg:maven/com.spotify/styx-service-common@2.1.16
 - pkg:maven/com.spotify/styx-service-common@2.1.16?classifier=sources
 - pkg:maven/com.spotify/styx-service-common@2.1.17

@@ -114,3 +114,7 @@
 - pkg:maven/org.reactivemongo/reactivemongo-core_2.11@1.0.9-noshaded
 - pkg:maven/org.reactivemongo/reactivemongo-core_2.11@1.0.9-noshaded?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-core_2.11@1.0.9?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-core_2.11@1.1.0-RC2
+- pkg:maven/org.reactivemongo/reactivemongo-core_2.11@1.1.0-RC2?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-core_2.11@1.1.0-noshaded-RC2
+- pkg:maven/org.reactivemongo/reactivemongo-core_2.11@1.1.0-noshaded-RC2?classifier=sources

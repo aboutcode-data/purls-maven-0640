@@ -12,3 +12,5 @@
 - pkg:maven/eu.sirenia.seacow.client/javaseacowclient@1.2.1?classifier=sources
 - pkg:maven/eu.sirenia.seacow.client/javaseacowclient@1.3.1
 - pkg:maven/eu.sirenia.seacow.client/javaseacowclient@1.3.1?classifier=sources
+- pkg:maven/eu.sirenia.seacow.client/javaseacowclient@1.6.0
+- pkg:maven/eu.sirenia.seacow.client/javaseacowclient@1.6.0?classifier=sources

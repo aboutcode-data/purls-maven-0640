@@ -388,6 +388,8 @@
 - pkg:maven/org.graylog2/graylog2-server@4.1.0-rc.1?classifier=sources
 - pkg:maven/org.graylog2/graylog2-server@4.1.0?classifier=sources
 - pkg:maven/org.graylog2/graylog2-server@4.1.1
+- pkg:maven/org.graylog2/graylog2-server@4.1.11
+- pkg:maven/org.graylog2/graylog2-server@4.1.11?classifier=sources
 - pkg:maven/org.graylog2/graylog2-server@4.1.1?classifier=sources
 - pkg:maven/org.graylog2/graylog2-server@4.1.2
 - pkg:maven/org.graylog2/graylog2-server@4.1.2?classifier=sources
@@ -417,3 +419,5 @@
 - pkg:maven/org.graylog2/graylog2-server@4.2.2?classifier=sources
 - pkg:maven/org.graylog2/graylog2-server@4.2.3
 - pkg:maven/org.graylog2/graylog2-server@4.2.3?classifier=sources
+- pkg:maven/org.graylog2/graylog2-server@4.2.5
+- pkg:maven/org.graylog2/graylog2-server@4.2.5?classifier=sources

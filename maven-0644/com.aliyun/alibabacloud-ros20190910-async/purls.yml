@@ -6,3 +6,11 @@
 - pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.0.2-beta?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.0.3-beta
 - pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.0.3-beta?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.0.4-beta
+- pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.0.4-beta?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.0.5-beta
+- pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.0.5-beta?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.0.6-beta
+- pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.0.6-beta?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.1.0-beta
+- pkg:maven/com.aliyun/alibabacloud-ros20190910-async@1.1.0-beta?classifier=sources

@@ -16,5 +16,7 @@
 - pkg:maven/com.tencent.devops.ci-plugins/java-plugin-sdk@1.0.9?classifier=sources
 - pkg:maven/com.tencent.devops.ci-plugins/java-plugin-sdk@1.1.0
 - pkg:maven/com.tencent.devops.ci-plugins/java-plugin-sdk@1.1.0?classifier=sources
+- pkg:maven/com.tencent.devops.ci-plugins/java-plugin-sdk@1.1.1
 - pkg:maven/com.tencent.devops.ci-plugins/java-plugin-sdk@1.1.1-beta
 - pkg:maven/com.tencent.devops.ci-plugins/java-plugin-sdk@1.1.1-beta?classifier=sources
+- pkg:maven/com.tencent.devops.ci-plugins/java-plugin-sdk@1.1.1?classifier=sources

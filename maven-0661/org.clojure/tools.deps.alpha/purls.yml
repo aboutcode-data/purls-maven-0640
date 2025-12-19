@@ -84,6 +84,14 @@
 - pkg:maven/org.clojure/tools.deps.alpha@0.12.1084?classifier=sources
 - pkg:maven/org.clojure/tools.deps.alpha@0.12.1090
 - pkg:maven/org.clojure/tools.deps.alpha@0.12.1090?classifier=sources
+- pkg:maven/org.clojure/tools.deps.alpha@0.12.1098
+- pkg:maven/org.clojure/tools.deps.alpha@0.12.1098?classifier=sources
+- pkg:maven/org.clojure/tools.deps.alpha@0.12.1104
+- pkg:maven/org.clojure/tools.deps.alpha@0.12.1104?classifier=sources
+- pkg:maven/org.clojure/tools.deps.alpha@0.12.1109
+- pkg:maven/org.clojure/tools.deps.alpha@0.12.1109?classifier=sources
+- pkg:maven/org.clojure/tools.deps.alpha@0.12.1120
+- pkg:maven/org.clojure/tools.deps.alpha@0.12.1120?classifier=sources
 - pkg:maven/org.clojure/tools.deps.alpha@0.12.985
 - pkg:maven/org.clojure/tools.deps.alpha@0.12.985?classifier=sources
 - pkg:maven/org.clojure/tools.deps.alpha@0.12.994

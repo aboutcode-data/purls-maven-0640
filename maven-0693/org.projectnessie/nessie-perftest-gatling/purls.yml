@@ -18,6 +18,8 @@
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.16.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.17.0
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.17.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-perftest-gatling@0.18.0
+- pkg:maven/org.projectnessie/nessie-perftest-gatling@0.18.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.8.2
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.8.2?classifier=sources
 - pkg:maven/org.projectnessie/nessie-perftest-gatling@0.8.3

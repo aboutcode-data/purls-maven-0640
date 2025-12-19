@@ -18,3 +18,5 @@
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-no-execmodel-test-suite@7.60.0.Final
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-no-execmodel-test-suite@7.61.0.Final
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-no-execmodel-test-suite@7.62.0.Final
+- pkg:maven/org.drools.testcoverage/kie-maven-plugin-no-execmodel-test-suite@7.63.0.Final
+- pkg:maven/org.drools.testcoverage/kie-maven-plugin-no-execmodel-test-suite@7.64.0.Final

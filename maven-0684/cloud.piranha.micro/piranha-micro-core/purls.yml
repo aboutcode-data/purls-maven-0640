@@ -16,3 +16,5 @@
 - pkg:maven/cloud.piranha.micro/piranha-micro-core@21.8.0?classifier=sources
 - pkg:maven/cloud.piranha.micro/piranha-micro-core@21.9.0
 - pkg:maven/cloud.piranha.micro/piranha-micro-core@21.9.0?classifier=sources
+- pkg:maven/cloud.piranha.micro/piranha-micro-core@22.1.0
+- pkg:maven/cloud.piranha.micro/piranha-micro-core@22.1.0?classifier=sources

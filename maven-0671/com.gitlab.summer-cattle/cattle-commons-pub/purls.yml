@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.summer-cattle/cattle-commons-pub@0.0.1.SP2
+- pkg:maven/com.gitlab.summer-cattle/cattle-commons-pub@0.0.1.SP2?classifier=sources

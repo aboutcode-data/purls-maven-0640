@@ -1,0 +1,10 @@
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.0-4-cc55b8
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.0-4-cc55b8?classifier=sources
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.0-5-3a0636
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.0-5-3a0636?classifier=sources
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.1
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.1?classifier=sources
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.2
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.2?classifier=sources
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.3
+- pkg:maven/de.wayofquality.blended/mill-docusaurus2-testsupport_mill0.9_2.13@0.0.3?classifier=sources

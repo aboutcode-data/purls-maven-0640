@@ -34,3 +34,7 @@
 - pkg:maven/com.klibisz.elastiknn/lucene@7.15.0.0?classifier=sources
 - pkg:maven/com.klibisz.elastiknn/lucene@7.15.1.0?classifier=sources
 - pkg:maven/com.klibisz.elastiknn/lucene@7.15.2.0?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/lucene@7.15.2.1?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/lucene@7.16.0.0?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/lucene@7.16.1.0?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/lucene@7.16.2.0?classifier=sources

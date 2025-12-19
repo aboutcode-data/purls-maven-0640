@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.bleep/bloop-launcher-test_2.12@1.4.19
+- pkg:maven/io.github.alexarchambault.bleep/bloop-launcher-test_2.12@1.4.19?classifier=sources

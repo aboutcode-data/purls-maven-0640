@@ -1,0 +1,4 @@
+- pkg:maven/com.chimp-central/slack-client@1.0.0
+- pkg:maven/com.chimp-central/slack-client@1.0.0?classifier=sources
+- pkg:maven/com.chimp-central/slack-client@1.1.0
+- pkg:maven/com.chimp-central/slack-client@1.1.0?classifier=sources

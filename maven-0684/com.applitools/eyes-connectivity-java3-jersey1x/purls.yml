@@ -334,6 +334,10 @@
 - pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.210.4?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.210.6
 - pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.210.6?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.211.0
+- pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.211.0-beta
+- pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.211.0-beta?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.211.0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.28
 - pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.28?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jersey1x@3.29.1

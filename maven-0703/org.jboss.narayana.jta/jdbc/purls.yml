@@ -26,6 +26,8 @@
 - pkg:maven/org.jboss.narayana.jta/jdbc@5.12.2.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jta/jdbc@5.12.4.Final
 - pkg:maven/org.jboss.narayana.jta/jdbc@5.12.4.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.jta/jdbc@5.12.5.Final
+- pkg:maven/org.jboss.narayana.jta/jdbc@5.12.5.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jta/jdbc@5.2.13.Final
 - pkg:maven/org.jboss.narayana.jta/jdbc@5.2.13.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.jta/jdbc@5.2.14.Final

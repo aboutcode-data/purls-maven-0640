@@ -32,3 +32,5 @@
 - pkg:maven/com.colisweb/db-diff_2.13@2.3.1?classifier=sources
 - pkg:maven/com.colisweb/db-diff_2.13@2.4.0
 - pkg:maven/com.colisweb/db-diff_2.13@2.4.0?classifier=sources
+- pkg:maven/com.colisweb/db-diff_2.13@2.5.0
+- pkg:maven/com.colisweb/db-diff_2.13@2.5.0?classifier=sources

@@ -66,5 +66,7 @@
 - pkg:maven/com.credibledoc/credible-doc-generator@1.0.42?classifier=sources
 - pkg:maven/com.credibledoc/credible-doc-generator@1.0.43
 - pkg:maven/com.credibledoc/credible-doc-generator@1.0.43?classifier=sources
+- pkg:maven/com.credibledoc/credible-doc-generator@1.0.44
+- pkg:maven/com.credibledoc/credible-doc-generator@1.0.44?classifier=sources
 - pkg:maven/com.credibledoc/credible-doc-generator@1.0.9
 - pkg:maven/com.credibledoc/credible-doc-generator@1.0.9?classifier=sources

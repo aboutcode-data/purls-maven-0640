@@ -1,0 +1,2 @@
+- pkg:maven/com.pajato.edgar/edgar-core@0.9.11?classifier=sources
+- pkg:maven/com.pajato.edgar/edgar-core@0.9.12?classifier=sources

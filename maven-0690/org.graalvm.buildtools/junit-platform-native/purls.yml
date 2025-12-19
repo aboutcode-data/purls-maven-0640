@@ -8,3 +8,4 @@
 - pkg:maven/org.graalvm.buildtools/junit-platform-native@0.9.7.1?classifier=sources
 - pkg:maven/org.graalvm.buildtools/junit-platform-native@0.9.7?classifier=sources
 - pkg:maven/org.graalvm.buildtools/junit-platform-native@0.9.8?classifier=sources
+- pkg:maven/org.graalvm.buildtools/junit-platform-native@0.9.9?classifier=sources

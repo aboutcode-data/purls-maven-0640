@@ -4,3 +4,5 @@
 - pkg:maven/ch.software-atelier/simpleflex-auth@2.1.2?classifier=sources
 - pkg:maven/ch.software-atelier/simpleflex-auth@2.2.2
 - pkg:maven/ch.software-atelier/simpleflex-auth@2.2.2?classifier=sources
+- pkg:maven/ch.software-atelier/simpleflex-auth@2.2.4
+- pkg:maven/ch.software-atelier/simpleflex-auth@2.2.4?classifier=sources

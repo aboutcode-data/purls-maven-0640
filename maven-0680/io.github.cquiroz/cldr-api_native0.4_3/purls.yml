@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cquiroz/cldr-api_native0.4_3@3.1.0
+- pkg:maven/io.github.cquiroz/cldr-api_native0.4_3@3.1.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.influxdb/influxdb-client-scala_2.13@3.4.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-scala_2.13@4.0.0
 - pkg:maven/com.influxdb/influxdb-client-scala_2.13@4.0.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-scala_2.13@4.1.0
+- pkg:maven/com.influxdb/influxdb-client-scala_2.13@4.1.0?classifier=sources

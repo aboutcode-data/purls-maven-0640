@@ -255,6 +255,8 @@
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.2.3.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.2.4.Final
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.2.4.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-vertx-web@2.2.5.Final
+- pkg:maven/io.quarkus/quarkus-vertx-web@2.2.5.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.3.0.CR1
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.3.0.Final
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.3.1.Final
@@ -270,3 +272,8 @@
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.5.4.Final
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.6.0.CR1
 - pkg:maven/io.quarkus/quarkus-vertx-web@2.6.0.Final
+- pkg:maven/io.quarkus/quarkus-vertx-web@2.6.1.Final
+- pkg:maven/io.quarkus/quarkus-vertx-web@2.6.2.Final
+- pkg:maven/io.quarkus/quarkus-vertx-web@2.6.3.Final
+- pkg:maven/io.quarkus/quarkus-vertx-web@2.7.0.CR1
+- pkg:maven/io.quarkus/quarkus-vertx-web@2.7.0.Final

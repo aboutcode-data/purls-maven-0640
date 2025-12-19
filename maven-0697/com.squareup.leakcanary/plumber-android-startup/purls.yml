@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.leakcanary/plumber-android-startup@2.8.1?classifier=sources
+- pkg:maven/com.squareup.leakcanary/plumber-android-startup@2.8?classifier=sources

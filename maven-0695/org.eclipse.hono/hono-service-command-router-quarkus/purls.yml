@@ -1,5 +1,7 @@
 - pkg:maven/org.eclipse.hono/hono-service-command-router-quarkus@1.10.0
 - pkg:maven/org.eclipse.hono/hono-service-command-router-quarkus@1.10.0?classifier=sources
+- pkg:maven/org.eclipse.hono/hono-service-command-router-quarkus@1.10.1
+- pkg:maven/org.eclipse.hono/hono-service-command-router-quarkus@1.10.1?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-service-command-router-quarkus@1.7.1
 - pkg:maven/org.eclipse.hono/hono-service-command-router-quarkus@1.7.1?classifier=sources
 - pkg:maven/org.eclipse.hono/hono-service-command-router-quarkus@1.7.2

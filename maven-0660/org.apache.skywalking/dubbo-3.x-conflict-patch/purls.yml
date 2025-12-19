@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/dubbo-3.x-conflict-patch@8.9.0
+- pkg:maven/org.apache.skywalking/dubbo-3.x-conflict-patch@8.9.0?classifier=sources

@@ -35,3 +35,5 @@
 - pkg:maven/org.sonarsource.java/java-jsp@7.4.0.27839?classifier=sources
 - pkg:maven/org.sonarsource.java/java-jsp@7.5.0.28054?classifier=sources
 - pkg:maven/org.sonarsource.java/java-jsp@7.6.0.28201?classifier=sources
+- pkg:maven/org.sonarsource.java/java-jsp@7.7.0.28547?classifier=sources
+- pkg:maven/org.sonarsource.java/java-jsp@7.8.0.28662?classifier=sources

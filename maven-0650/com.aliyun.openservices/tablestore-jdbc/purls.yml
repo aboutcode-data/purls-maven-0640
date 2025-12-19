@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun.openservices/tablestore-jdbc@5.13.0
 - pkg:maven/com.aliyun.openservices/tablestore-jdbc@5.13.0?classifier=sources
+- pkg:maven/com.aliyun.openservices/tablestore-jdbc@5.13.5
+- pkg:maven/com.aliyun.openservices/tablestore-jdbc@5.13.5?classifier=sources

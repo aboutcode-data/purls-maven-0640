@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality/tds-proto@1.9-1ef5a55
+- pkg:maven/dev.vality/tds-proto@1.9-1ef5a55?classifier=sources

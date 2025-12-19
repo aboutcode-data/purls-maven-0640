@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/kinesisvideo@1.140.0
+- pkg:maven/software.amazon.awscdk/kinesisvideo@1.140.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kinesisvideo@1.141.0
+- pkg:maven/software.amazon.awscdk/kinesisvideo@1.141.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/kinesisvideo@1.142.0
+- pkg:maven/software.amazon.awscdk/kinesisvideo@1.142.0?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/io.apicurio/apicurio-common-rest-client-vertx@0.1.4.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-common-rest-client-vertx@0.1.5.Final
 - pkg:maven/io.apicurio/apicurio-common-rest-client-vertx@0.1.5.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-common-rest-client-vertx@0.1.6.Final
+- pkg:maven/io.apicurio/apicurio-common-rest-client-vertx@0.1.6.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-common-rest-client-vertx@0.1.7.Final
+- pkg:maven/io.apicurio/apicurio-common-rest-client-vertx@0.1.7.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.fbk.utils/utils-scraping@3.2
+- pkg:maven/eu.fbk.utils/utils-scraping@3.2?classifier=sources

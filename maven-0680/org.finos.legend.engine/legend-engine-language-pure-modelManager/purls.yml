@@ -132,6 +132,12 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.52.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.53.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.53.2?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.54.0
+- pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.54.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.54.1
+- pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.54.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.55.0
+- pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.55.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.6.0
 - pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.6.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-language-pure-modelManager@2.6.1

@@ -8,3 +8,17 @@
 - pkg:maven/net.csibio.aird/aird-sdk@1.0.4?classifier=sources
 - pkg:maven/net.csibio.aird/aird-sdk@1.1.2
 - pkg:maven/net.csibio.aird/aird-sdk@1.1.2?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.3
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.3?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.4
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.4?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.5
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.5.1
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.5.1?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.5?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.6
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.6.1
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.6.1?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.6.2
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.6.2?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@1.1.6?classifier=sources

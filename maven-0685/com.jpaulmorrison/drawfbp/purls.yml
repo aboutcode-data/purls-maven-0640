@@ -77,3 +77,4 @@
 - pkg:maven/com.jpaulmorrison/drawfbp@3.1.0?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@3.1.1?classifier=sources
 - pkg:maven/com.jpaulmorrison/drawfbp@3.1.2?classifier=sources
+- pkg:maven/com.jpaulmorrison/drawfbp@3.1.4?classifier=sources

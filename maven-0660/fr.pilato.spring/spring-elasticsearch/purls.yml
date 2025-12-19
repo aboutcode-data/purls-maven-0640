@@ -34,3 +34,5 @@
 - pkg:maven/fr.pilato.spring/spring-elasticsearch@6.2?classifier=sources
 - pkg:maven/fr.pilato.spring/spring-elasticsearch@6.7
 - pkg:maven/fr.pilato.spring/spring-elasticsearch@6.7?classifier=sources
+- pkg:maven/fr.pilato.spring/spring-elasticsearch@7.1
+- pkg:maven/fr.pilato.spring/spring-elasticsearch@7.1?classifier=sources

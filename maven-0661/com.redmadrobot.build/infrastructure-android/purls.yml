@@ -4,4 +4,6 @@
 - pkg:maven/com.redmadrobot.build/infrastructure-android@0.12.2?classifier=sources
 - pkg:maven/com.redmadrobot.build/infrastructure-android@0.12?classifier=sources
 - pkg:maven/com.redmadrobot.build/infrastructure-android@0.13?classifier=sources
+- pkg:maven/com.redmadrobot.build/infrastructure-android@0.14?classifier=sources
+- pkg:maven/com.redmadrobot.build/infrastructure-android@0.15?classifier=sources
 - pkg:maven/com.redmadrobot.build/infrastructure-android@0.9?classifier=sources

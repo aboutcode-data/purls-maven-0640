@@ -2,6 +2,8 @@
 - pkg:maven/com.futunn.openapi/futu-api@5.10.2208?classifier=sources
 - pkg:maven/com.futunn.openapi/futu-api@5.11.2308
 - pkg:maven/com.futunn.openapi/futu-api@5.11.2308?classifier=sources
+- pkg:maven/com.futunn.openapi/futu-api@5.12.2408
+- pkg:maven/com.futunn.openapi/futu-api@5.12.2408?classifier=sources
 - pkg:maven/com.futunn.openapi/futu-api@5.4.1607-alpha.4
 - pkg:maven/com.futunn.openapi/futu-api@5.4.1607-alpha.4?classifier=sources
 - pkg:maven/com.futunn.openapi/futu-api@5.4.1607-alpha.5

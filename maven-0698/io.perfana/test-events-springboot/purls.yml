@@ -1,0 +1,2 @@
+- pkg:maven/io.perfana/test-events-springboot@1.0.0
+- pkg:maven/io.perfana/test-events-springboot@1.0.0?classifier=sources

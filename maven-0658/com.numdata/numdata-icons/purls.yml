@@ -1,3 +1,5 @@
+- pkg:maven/com.numdata/numdata-icons@1.22
+- pkg:maven/com.numdata/numdata-icons@1.22?classifier=sources
 - pkg:maven/com.numdata/numdata-icons@1.7
 - pkg:maven/com.numdata/numdata-icons@1.7?classifier=sources
 - pkg:maven/com.numdata/numdata-icons@1.8

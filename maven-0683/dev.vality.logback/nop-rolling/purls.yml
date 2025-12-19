@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality.logback/nop-rolling@1.0.0
+- pkg:maven/dev.vality.logback/nop-rolling@1.0.0?classifier=sources

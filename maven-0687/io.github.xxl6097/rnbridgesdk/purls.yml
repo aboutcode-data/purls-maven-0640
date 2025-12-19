@@ -1,0 +1,4 @@
+- pkg:maven/io.github.xxl6097/rnbridgesdk@0.0.2?classifier=sources
+- pkg:maven/io.github.xxl6097/rnbridgesdk@0.0.2?type=aar
+- pkg:maven/io.github.xxl6097/rnbridgesdk@0.0.3?classifier=sources
+- pkg:maven/io.github.xxl6097/rnbridgesdk@0.0.3?type=aar

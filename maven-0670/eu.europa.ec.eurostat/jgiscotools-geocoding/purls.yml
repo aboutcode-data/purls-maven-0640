@@ -2,6 +2,8 @@
 - pkg:maven/eu.europa.ec.eurostat/jgiscotools-geocoding@0.9.12?classifier=sources
 - pkg:maven/eu.europa.ec.eurostat/jgiscotools-geocoding@0.9.14
 - pkg:maven/eu.europa.ec.eurostat/jgiscotools-geocoding@0.9.14?classifier=sources
+- pkg:maven/eu.europa.ec.eurostat/jgiscotools-geocoding@0.9.21
+- pkg:maven/eu.europa.ec.eurostat/jgiscotools-geocoding@0.9.21?classifier=sources
 - pkg:maven/eu.europa.ec.eurostat/jgiscotools-geocoding@0.9.3
 - pkg:maven/eu.europa.ec.eurostat/jgiscotools-geocoding@0.9.3?classifier=sources
 - pkg:maven/eu.europa.ec.eurostat/jgiscotools-geocoding@0.9.4

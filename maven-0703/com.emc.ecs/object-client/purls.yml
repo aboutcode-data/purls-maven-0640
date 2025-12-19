@@ -66,3 +66,5 @@
 - pkg:maven/com.emc.ecs/object-client@3.3.1?classifier=sources
 - pkg:maven/com.emc.ecs/object-client@3.3.2
 - pkg:maven/com.emc.ecs/object-client@3.3.2?classifier=sources
+- pkg:maven/com.emc.ecs/object-client@3.4.0
+- pkg:maven/com.emc.ecs/object-client@3.4.0?classifier=sources

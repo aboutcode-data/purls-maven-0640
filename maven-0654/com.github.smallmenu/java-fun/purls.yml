@@ -8,3 +8,5 @@
 - pkg:maven/com.github.smallmenu/java-fun@0.4?classifier=sources
 - pkg:maven/com.github.smallmenu/java-fun@0.5.1
 - pkg:maven/com.github.smallmenu/java-fun@0.5.1?classifier=sources
+- pkg:maven/com.github.smallmenu/java-fun@0.6
+- pkg:maven/com.github.smallmenu/java-fun@0.6?classifier=sources

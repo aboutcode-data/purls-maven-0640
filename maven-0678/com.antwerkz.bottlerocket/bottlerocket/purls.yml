@@ -14,6 +14,8 @@
 - pkg:maven/com.antwerkz.bottlerocket/bottlerocket@0.1?classifier=sources
 - pkg:maven/com.antwerkz.bottlerocket/bottlerocket@0.2
 - pkg:maven/com.antwerkz.bottlerocket/bottlerocket@0.2?classifier=sources
+- pkg:maven/com.antwerkz.bottlerocket/bottlerocket@0.30.0
+- pkg:maven/com.antwerkz.bottlerocket/bottlerocket@0.30.0?classifier=sources
 - pkg:maven/com.antwerkz.bottlerocket/bottlerocket@0.4
 - pkg:maven/com.antwerkz.bottlerocket/bottlerocket@0.4?classifier=sources
 - pkg:maven/com.antwerkz.bottlerocket/bottlerocket@0.5

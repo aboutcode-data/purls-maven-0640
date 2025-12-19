@@ -1,0 +1,4 @@
+- pkg:maven/com.luhuiguo.bouncycastle/bcutil-jdk15on@1.70
+- pkg:maven/com.luhuiguo.bouncycastle/bcutil-jdk15on@1.70-gm
+- pkg:maven/com.luhuiguo.bouncycastle/bcutil-jdk15on@1.70-gm?classifier=sources
+- pkg:maven/com.luhuiguo.bouncycastle/bcutil-jdk15on@1.70?classifier=sources

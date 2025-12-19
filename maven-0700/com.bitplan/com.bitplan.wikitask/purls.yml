@@ -1,0 +1,2 @@
+- pkg:maven/com.bitplan/com.bitplan.wikitask@0.0.3
+- pkg:maven/com.bitplan/com.bitplan.wikitask@0.0.3?classifier=sources

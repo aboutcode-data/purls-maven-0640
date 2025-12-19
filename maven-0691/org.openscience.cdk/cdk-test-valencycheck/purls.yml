@@ -11,3 +11,5 @@
 - pkg:maven/org.openscience.cdk/cdk-test-valencycheck@2.3
 - pkg:maven/org.openscience.cdk/cdk-test-valencycheck@2.5
 - pkg:maven/org.openscience.cdk/cdk-test-valencycheck@2.6
+- pkg:maven/org.openscience.cdk/cdk-test-valencycheck@2.7
+- pkg:maven/org.openscience.cdk/cdk-test-valencycheck@2.7.1

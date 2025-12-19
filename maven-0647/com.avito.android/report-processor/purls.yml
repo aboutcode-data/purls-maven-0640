@@ -16,3 +16,4 @@
 - pkg:maven/com.avito.android/report-processor@2021.38?classifier=sources
 - pkg:maven/com.avito.android/report-processor@2021.39?classifier=sources
 - pkg:maven/com.avito.android/report-processor@2021.40?classifier=sources
+- pkg:maven/com.avito.android/report-processor@2021.41?classifier=sources

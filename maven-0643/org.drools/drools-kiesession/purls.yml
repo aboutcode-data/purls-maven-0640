@@ -1,0 +1,4 @@
+- pkg:maven/org.drools/drools-kiesession@8.15.0.Beta
+- pkg:maven/org.drools/drools-kiesession@8.15.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-kiesession@8.16.0.Beta
+- pkg:maven/org.drools/drools-kiesession@8.16.0.Beta?classifier=sources

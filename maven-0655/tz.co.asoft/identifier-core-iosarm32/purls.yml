@@ -1,1 +1,6 @@
 - pkg:maven/tz.co.asoft/identifier-core-iosarm32@0.2.0?classifier=sources
+- pkg:maven/tz.co.asoft/identifier-core-iosarm32@0.2.10?classifier=sources
+- pkg:maven/tz.co.asoft/identifier-core-iosarm32@0.2.20?classifier=sources
+- pkg:maven/tz.co.asoft/identifier-core-iosarm32@0.2.21?classifier=sources
+- pkg:maven/tz.co.asoft/identifier-core-iosarm32@0.2.22?classifier=sources
+- pkg:maven/tz.co.asoft/identifier-core-iosarm32@0.2.23?classifier=sources

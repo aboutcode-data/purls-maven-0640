@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.8.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.8.0?classifier=sources

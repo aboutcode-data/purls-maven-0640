@@ -4,3 +4,4 @@
 - pkg:maven/com.mikepenz/storyblok-mp-sdk-watchosx64@1.1.1?classifier=sources
 - pkg:maven/com.mikepenz/storyblok-mp-sdk-watchosx64@1.1.2?classifier=sources
 - pkg:maven/com.mikepenz/storyblok-mp-sdk-watchosx64@1.1.4?classifier=sources
+- pkg:maven/com.mikepenz/storyblok-mp-sdk-watchosx64@1.2.0?classifier=sources

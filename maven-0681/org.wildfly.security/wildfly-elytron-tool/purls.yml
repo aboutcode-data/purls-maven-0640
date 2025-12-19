@@ -158,6 +158,8 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.15.0.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.15.1.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.15.1.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.15.10.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.15.10.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.15.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.15.2.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.15.3.Final
@@ -186,10 +188,16 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.17.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.17.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.17.2.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.17.3.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.17.3.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.18.0.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.18.0.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.18.1.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.18.1.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.18.2.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.18.2.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.18.3.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.18.3.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.2.0.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.2.0.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@1.2.1.Final
@@ -248,3 +256,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@2.0.0.Alpha8?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@2.0.0.Alpha9
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@2.0.0.Alpha9?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@2.0.0.Beta1
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@2.0.0.Beta1?classifier=sources
