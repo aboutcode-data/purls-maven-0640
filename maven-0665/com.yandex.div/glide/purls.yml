@@ -1,2 +1,10 @@
+- pkg:maven/com.yandex.div/glide@28.10.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@28.11.0?classifier=sources
 - pkg:maven/com.yandex.div/glide@28.3.0?classifier=sources
 - pkg:maven/com.yandex.div/glide@28.4.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@28.5.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@28.5.1?classifier=sources
+- pkg:maven/com.yandex.div/glide@28.6.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@28.7.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@28.8.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@28.9.0?classifier=sources

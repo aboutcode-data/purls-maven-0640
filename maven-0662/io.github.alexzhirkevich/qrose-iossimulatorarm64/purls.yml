@@ -1,0 +1,3 @@
+- pkg:maven/io.github.alexzhirkevich/qrose-iossimulatorarm64@1.0.0-beta01?classifier=sources
+- pkg:maven/io.github.alexzhirkevich/qrose-iossimulatorarm64@1.0.0-beta02?classifier=sources
+- pkg:maven/io.github.alexzhirkevich/qrose-iossimulatorarm64@1.0.0-beta3?classifier=sources

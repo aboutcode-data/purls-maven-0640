@@ -18,3 +18,4 @@
 - pkg:maven/io.github.linuxforhealth/hl7v2-fhir-converter@v1.0.1-alpha?classifier=sources
 - pkg:maven/io.github.linuxforhealth/hl7v2-fhir-converter@v1.0.6?classifier=sources
 - pkg:maven/io.github.linuxforhealth/hl7v2-fhir-converter@v1.0.7?classifier=sources
+- pkg:maven/io.github.linuxforhealth/hl7v2-fhir-converter@v1.1.0?classifier=sources

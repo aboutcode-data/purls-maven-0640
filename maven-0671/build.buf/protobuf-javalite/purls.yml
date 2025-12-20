@@ -28,3 +28,7 @@
 - pkg:maven/build.buf/protobuf-javalite@3.24.3?classifier=sources
 - pkg:maven/build.buf/protobuf-javalite@3.24.4
 - pkg:maven/build.buf/protobuf-javalite@3.24.4?classifier=sources
+- pkg:maven/build.buf/protobuf-javalite@3.25.0
+- pkg:maven/build.buf/protobuf-javalite@3.25.0?classifier=sources
+- pkg:maven/build.buf/protobuf-javalite@3.25.1
+- pkg:maven/build.buf/protobuf-javalite@3.25.1?classifier=sources

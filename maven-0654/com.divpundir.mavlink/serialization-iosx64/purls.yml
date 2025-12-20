@@ -1,0 +1,2 @@
+- pkg:maven/com.divpundir.mavlink/serialization-iosx64@1.2.0-alpha.3?classifier=sources
+- pkg:maven/com.divpundir.mavlink/serialization-iosx64@1.2.0-alpha.4?classifier=sources

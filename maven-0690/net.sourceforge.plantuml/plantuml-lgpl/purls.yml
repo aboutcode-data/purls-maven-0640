@@ -1,2 +1,3 @@
 - pkg:maven/net.sourceforge.plantuml/plantuml-lgpl@1.2023.10?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml-lgpl@1.2023.11?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml-lgpl@1.2023.12?classifier=sources

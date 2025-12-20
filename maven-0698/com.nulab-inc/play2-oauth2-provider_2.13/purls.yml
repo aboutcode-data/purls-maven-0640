@@ -4,3 +4,7 @@
 - pkg:maven/com.nulab-inc/play2-oauth2-provider_2.13@1.4.2?classifier=sources
 - pkg:maven/com.nulab-inc/play2-oauth2-provider_2.13@1.5.0
 - pkg:maven/com.nulab-inc/play2-oauth2-provider_2.13@1.5.0?classifier=sources
+- pkg:maven/com.nulab-inc/play2-oauth2-provider_2.13@1.6.0
+- pkg:maven/com.nulab-inc/play2-oauth2-provider_2.13@1.6.0?classifier=sources
+- pkg:maven/com.nulab-inc/play2-oauth2-provider_2.13@2.0.0
+- pkg:maven/com.nulab-inc/play2-oauth2-provider_2.13@2.0.0?classifier=sources

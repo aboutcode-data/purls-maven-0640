@@ -1,0 +1,2 @@
+- pkg:maven/com.srcker.wechat/support@1.0-RELEASE
+- pkg:maven/com.srcker.wechat/support@1.0-RELEASE?classifier=sources

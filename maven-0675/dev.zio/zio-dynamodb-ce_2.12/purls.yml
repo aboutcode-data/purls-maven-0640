@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-dynamodb-ce_2.12@0.2.13
+- pkg:maven/dev.zio/zio-dynamodb-ce_2.12@0.2.13?classifier=sources

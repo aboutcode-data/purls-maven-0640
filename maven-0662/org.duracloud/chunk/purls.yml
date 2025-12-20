@@ -117,3 +117,5 @@
 - pkg:maven/org.duracloud/chunk@7.1.2?classifier=sources
 - pkg:maven/org.duracloud/chunk@7.1.4
 - pkg:maven/org.duracloud/chunk@7.1.4?classifier=sources
+- pkg:maven/org.duracloud/chunk@8.0.0
+- pkg:maven/org.duracloud/chunk@8.0.0?classifier=sources

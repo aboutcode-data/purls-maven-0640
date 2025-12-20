@@ -51,3 +51,5 @@
 - pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@6.0.8?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@6.1.0?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@6.2.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@6.3.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-oakpal-checks@6.3.2?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/io.github.jopenlibs/vault-java-driver@5.4.0?classifier=sources
 - pkg:maven/io.github.jopenlibs/vault-java-driver@6.0.0?classifier=sources
 - pkg:maven/io.github.jopenlibs/vault-java-driver@6.1.0?classifier=sources
+- pkg:maven/io.github.jopenlibs/vault-java-driver@6.2.0?classifier=sources

@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/log-update@1.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/log-update@2.3.0
 - pkg:maven/org.webjars.npm/log-update@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/log-update@3.4.0
+- pkg:maven/org.webjars.npm/log-update@3.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/log-update@4.0.0
 - pkg:maven/org.webjars.npm/log-update@4.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bjmob/bjmob-bd@0.0.4?classifier=sources
+- pkg:maven/io.github.bjmob/bjmob-bd@0.0.6?classifier=sources

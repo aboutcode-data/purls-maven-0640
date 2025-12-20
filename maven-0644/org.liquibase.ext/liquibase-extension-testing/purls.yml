@@ -1,0 +1,4 @@
+- pkg:maven/org.liquibase.ext/liquibase-extension-testing@4.25.0
+- pkg:maven/org.liquibase.ext/liquibase-extension-testing@4.25.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-extension-testing@4.25.1
+- pkg:maven/org.liquibase.ext/liquibase-extension-testing@4.25.1?classifier=sources

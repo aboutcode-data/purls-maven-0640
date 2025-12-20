@@ -52,3 +52,5 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-catalog@2.5.3?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-catalog@2.6.0
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-catalog@2.6.0?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-catalog@2.7.0
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-annotation-catalog@2.7.0?classifier=sources

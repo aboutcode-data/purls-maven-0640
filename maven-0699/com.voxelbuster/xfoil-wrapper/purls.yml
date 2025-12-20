@@ -1,0 +1,4 @@
+- pkg:maven/com.voxelbuster/xfoil-wrapper@2023.11.09
+- pkg:maven/com.voxelbuster/xfoil-wrapper@2023.11.09?classifier=sources
+- pkg:maven/com.voxelbuster/xfoil-wrapper@2023.11.10
+- pkg:maven/com.voxelbuster/xfoil-wrapper@2023.11.10?classifier=sources

@@ -52,3 +52,5 @@
 - pkg:maven/com.github.agourlay/cornichon-scalatest_2.12@0.20.8?classifier=sources
 - pkg:maven/com.github.agourlay/cornichon-scalatest_2.12@0.21.0
 - pkg:maven/com.github.agourlay/cornichon-scalatest_2.12@0.21.0?classifier=sources
+- pkg:maven/com.github.agourlay/cornichon-scalatest_2.12@0.21.1
+- pkg:maven/com.github.agourlay/cornichon-scalatest_2.12@0.21.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.voxelbuster/pso4j@2023.11.11
+- pkg:maven/com.voxelbuster/pso4j@2023.11.11.1
+- pkg:maven/com.voxelbuster/pso4j@2023.11.11.1?classifier=sources
+- pkg:maven/com.voxelbuster/pso4j@2023.11.11?classifier=sources

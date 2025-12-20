@@ -80,3 +80,5 @@
 - pkg:maven/pro.taskana/taskana-common-data@6.3.2?classifier=sources
 - pkg:maven/pro.taskana/taskana-common-data@7.0.0
 - pkg:maven/pro.taskana/taskana-common-data@7.0.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-common-data@8.0.0
+- pkg:maven/pro.taskana/taskana-common-data@8.0.0?classifier=sources

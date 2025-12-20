@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/mimic-fn@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/mimic-fn@3.0.0
 - pkg:maven/org.webjars.npm/mimic-fn@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/mimic-fn@4.0.0
+- pkg:maven/org.webjars.npm/mimic-fn@4.0.0?classifier=sources

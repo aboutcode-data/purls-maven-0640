@@ -42,3 +42,5 @@
 - pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.8-RC4
 - pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.8-RC4?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.8?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.9
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.9?classifier=sources

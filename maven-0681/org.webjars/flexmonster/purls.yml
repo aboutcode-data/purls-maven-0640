@@ -63,6 +63,8 @@
 - pkg:maven/org.webjars/flexmonster@2.9.61
 - pkg:maven/org.webjars/flexmonster@2.9.62
 - pkg:maven/org.webjars/flexmonster@2.9.63
+- pkg:maven/org.webjars/flexmonster@2.9.64
+- pkg:maven/org.webjars/flexmonster@2.9.65
 - pkg:maven/org.webjars/flexmonster@2.9.7
 - pkg:maven/org.webjars/flexmonster@2.9.8
 - pkg:maven/org.webjars/flexmonster@2.9.9

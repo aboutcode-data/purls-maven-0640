@@ -16,5 +16,9 @@
 - pkg:maven/com.github.rebue.wheel/wheel-turing@1.2.4?classifier=sources
 - pkg:maven/com.github.rebue.wheel/wheel-turing@2.2.10
 - pkg:maven/com.github.rebue.wheel/wheel-turing@2.2.10?classifier=sources
+- pkg:maven/com.github.rebue.wheel/wheel-turing@2.2.11
+- pkg:maven/com.github.rebue.wheel/wheel-turing@2.2.11?classifier=sources
+- pkg:maven/com.github.rebue.wheel/wheel-turing@2.2.12
+- pkg:maven/com.github.rebue.wheel/wheel-turing@2.2.12?classifier=sources
 - pkg:maven/com.github.rebue.wheel/wheel-turing@2.2.9
 - pkg:maven/com.github.rebue.wheel/wheel-turing@2.2.9?classifier=sources

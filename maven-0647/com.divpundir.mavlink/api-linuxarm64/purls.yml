@@ -1,0 +1,4 @@
+- pkg:maven/com.divpundir.mavlink/api-linuxarm64@1.2.0-alpha.2?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api-linuxarm64@1.2.0-alpha.3?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api-linuxarm64@1.2.0-alpha.4?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api-linuxarm64@1.2.0-alpha?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/com.bucket4j/bucket4j_jdk8-jcache@8.4.0?classifier=sources
 - pkg:maven/com.bucket4j/bucket4j_jdk8-jcache@8.5.0
 - pkg:maven/com.bucket4j/bucket4j_jdk8-jcache@8.5.0?classifier=sources
+- pkg:maven/com.bucket4j/bucket4j_jdk8-jcache@8.6.0
+- pkg:maven/com.bucket4j/bucket4j_jdk8-jcache@8.6.0?classifier=sources
+- pkg:maven/com.bucket4j/bucket4j_jdk8-jcache@8.7.0
+- pkg:maven/com.bucket4j/bucket4j_jdk8-jcache@8.7.0?classifier=sources

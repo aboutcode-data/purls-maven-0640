@@ -101,3 +101,6 @@
 - pkg:maven/com.yubico/yubico-util@2.5.0-RC3?classifier=sources
 - pkg:maven/com.yubico/yubico-util@2.5.0?classifier=sources
 - pkg:maven/com.yubico/yubico-util@2.6.0-alpha1?classifier=sources
+- pkg:maven/com.yubico/yubico-util@2.6.0-alpha2?classifier=sources
+- pkg:maven/com.yubico/yubico-util@2.6.0-alpha3?classifier=sources
+- pkg:maven/com.yubico/yubico-util@2.6.0-alpha4?classifier=sources

@@ -12,3 +12,15 @@
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.23?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.24
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.24?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.25
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.25?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.26
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.26?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.27
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.27?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.29
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.29?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.30
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.30?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.33
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@0.0.33?classifier=sources

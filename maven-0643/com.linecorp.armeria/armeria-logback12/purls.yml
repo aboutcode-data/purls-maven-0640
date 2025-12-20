@@ -1,3 +1,7 @@
 - pkg:maven/com.linecorp.armeria/armeria-logback12@1.25.0?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback12@1.25.1?classifier=sources
 - pkg:maven/com.linecorp.armeria/armeria-logback12@1.25.2?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback12@1.26.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback12@1.26.1?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback12@1.26.2?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-logback12@1.26.3?classifier=sources

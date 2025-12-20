@@ -1,1 +1,2 @@
 - pkg:maven/dk.yalibs/yadi@1.0.0?classifier=sources
+- pkg:maven/dk.yalibs/yadi@1.1.0?classifier=sources

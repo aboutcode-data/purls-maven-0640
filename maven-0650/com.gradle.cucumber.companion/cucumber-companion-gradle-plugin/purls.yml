@@ -1,0 +1,2 @@
+- pkg:maven/com.gradle.cucumber.companion/cucumber-companion-gradle-plugin@1.0.0?classifier=sources
+- pkg:maven/com.gradle.cucumber.companion/cucumber-companion-gradle-plugin@1.0.1?classifier=sources

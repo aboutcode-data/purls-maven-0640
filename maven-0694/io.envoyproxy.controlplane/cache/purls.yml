@@ -80,3 +80,5 @@
 - pkg:maven/io.envoyproxy.controlplane/cache@1.0.38?classifier=sources
 - pkg:maven/io.envoyproxy.controlplane/cache@1.0.39
 - pkg:maven/io.envoyproxy.controlplane/cache@1.0.39?classifier=sources
+- pkg:maven/io.envoyproxy.controlplane/cache@1.0.40
+- pkg:maven/io.envoyproxy.controlplane/cache@1.0.40?classifier=sources

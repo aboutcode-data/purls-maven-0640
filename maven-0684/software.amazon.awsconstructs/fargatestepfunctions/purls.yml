@@ -130,6 +130,8 @@
 - pkg:maven/software.amazon.awsconstructs/fargatestepfunctions@2.44.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatestepfunctions@2.45.0
 - pkg:maven/software.amazon.awsconstructs/fargatestepfunctions@2.45.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatestepfunctions@2.46.0
+- pkg:maven/software.amazon.awsconstructs/fargatestepfunctions@2.46.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatestepfunctions@2.8.0
 - pkg:maven/software.amazon.awsconstructs/fargatestepfunctions@2.8.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatestepfunctions@2.9.0

@@ -80,3 +80,5 @@
 - pkg:maven/pro.taskana/taskana-common-security@6.3.2?classifier=sources
 - pkg:maven/pro.taskana/taskana-common-security@7.0.0
 - pkg:maven/pro.taskana/taskana-common-security@7.0.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-common-security@8.0.0
+- pkg:maven/pro.taskana/taskana-common-security@8.0.0?classifier=sources

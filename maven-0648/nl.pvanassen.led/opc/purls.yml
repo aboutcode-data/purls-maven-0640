@@ -1,2 +1,4 @@
 - pkg:maven/nl.pvanassen.led/opc@1.2.0
 - pkg:maven/nl.pvanassen.led/opc@1.2.0?classifier=sources
+- pkg:maven/nl.pvanassen.led/opc@1.3.0
+- pkg:maven/nl.pvanassen.led/opc@1.3.0?classifier=sources

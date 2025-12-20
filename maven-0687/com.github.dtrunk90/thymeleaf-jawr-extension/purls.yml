@@ -28,3 +28,5 @@
 - pkg:maven/com.github.dtrunk90/thymeleaf-jawr-extension@2.0.2?classifier=sources
 - pkg:maven/com.github.dtrunk90/thymeleaf-jawr-extension@2.0.3
 - pkg:maven/com.github.dtrunk90/thymeleaf-jawr-extension@2.0.3?classifier=sources
+- pkg:maven/com.github.dtrunk90/thymeleaf-jawr-extension@3.0.0
+- pkg:maven/com.github.dtrunk90/thymeleaf-jawr-extension@3.0.0?classifier=sources

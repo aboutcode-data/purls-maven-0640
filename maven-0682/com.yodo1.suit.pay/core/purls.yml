@@ -53,3 +53,4 @@
 - pkg:maven/com.yodo1.suit.pay/core@6.3.4.8?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/core@6.3.4.9?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/core@6.3.5.0?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/core@6.3.6.0?classifier=sources

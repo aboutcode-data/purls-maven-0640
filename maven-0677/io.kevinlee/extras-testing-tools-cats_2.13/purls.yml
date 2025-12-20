@@ -28,3 +28,5 @@
 - pkg:maven/io.kevinlee/extras-testing-tools-cats_2.13@0.42.0?classifier=sources
 - pkg:maven/io.kevinlee/extras-testing-tools-cats_2.13@0.43.0
 - pkg:maven/io.kevinlee/extras-testing-tools-cats_2.13@0.43.0?classifier=sources
+- pkg:maven/io.kevinlee/extras-testing-tools-cats_2.13@0.44.0
+- pkg:maven/io.kevinlee/extras-testing-tools-cats_2.13@0.44.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.SilentSamurai/speedy-jpa-impl@0.0.2
+- pkg:maven/com.github.SilentSamurai/speedy-jpa-impl@0.0.2?classifier=sources

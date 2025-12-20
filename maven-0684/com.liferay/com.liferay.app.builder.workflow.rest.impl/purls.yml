@@ -124,6 +124,8 @@
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.rest.impl@1.0.53
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.rest.impl@1.0.53?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.rest.impl@1.0.54?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.workflow.rest.impl@1.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.workflow.rest.impl@1.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.rest.impl@2.0.0
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.rest.impl@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.rest.impl@2.0.0?classifier=sources-commercial

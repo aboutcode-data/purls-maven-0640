@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.jersey/bootique-jersey-jakarta-client-junit5-wiremock@3.0.M2
+- pkg:maven/io.bootique.jersey/bootique-jersey-jakarta-client-junit5-wiremock@3.0.M2?classifier=sources

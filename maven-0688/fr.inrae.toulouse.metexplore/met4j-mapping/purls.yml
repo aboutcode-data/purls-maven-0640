@@ -60,3 +60,5 @@
 - pkg:maven/fr.inrae.toulouse.metexplore/met4j-mapping@1.4.0?classifier=sources
 - pkg:maven/fr.inrae.toulouse.metexplore/met4j-mapping@1.5.0
 - pkg:maven/fr.inrae.toulouse.metexplore/met4j-mapping@1.5.0?classifier=sources
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-mapping@1.5.1
+- pkg:maven/fr.inrae.toulouse.metexplore/met4j-mapping@1.5.1?classifier=sources

@@ -21,6 +21,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.10.17?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.10.18
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.10.18?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.10.19
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.10.19?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.10.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.10.2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@14.10.2?classifier=sources
@@ -97,6 +99,10 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.1-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.10
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.10-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.10-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.10?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.2-rc-1
@@ -132,5 +138,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.8-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.8-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.8?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.9
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.9-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.9-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-syntax-xhtml5@15.9?classifier=sources

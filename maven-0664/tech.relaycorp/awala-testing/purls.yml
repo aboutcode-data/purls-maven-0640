@@ -24,6 +24,7 @@
 - pkg:maven/tech.relaycorp/awala-testing@1.5.22?classifier=sources
 - pkg:maven/tech.relaycorp/awala-testing@1.5.23?classifier=sources
 - pkg:maven/tech.relaycorp/awala-testing@1.5.24?classifier=sources
+- pkg:maven/tech.relaycorp/awala-testing@1.5.26?classifier=sources
 - pkg:maven/tech.relaycorp/awala-testing@1.5.2?classifier=sources
 - pkg:maven/tech.relaycorp/awala-testing@1.5.3?classifier=sources
 - pkg:maven/tech.relaycorp/awala-testing@1.5.4?classifier=sources

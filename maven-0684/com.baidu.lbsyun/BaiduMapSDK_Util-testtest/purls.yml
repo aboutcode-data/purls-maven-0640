@@ -4,3 +4,4 @@
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Util-testtest@1.0.7?classifier=sources
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Util-testtest@1.0.8?classifier=sources
 - pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Util-testtest@1.0.9?classifier=sources
+- pkg:maven/com.baidu.lbsyun/BaiduMapSDK_Util-testtest@7.6.0?classifier=sources

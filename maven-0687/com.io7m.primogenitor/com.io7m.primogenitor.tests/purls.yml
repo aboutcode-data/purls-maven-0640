@@ -26,4 +26,8 @@
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@7.5.0
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@7.6.0
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@7.7.0
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@8.0.0
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@8.0.0-beta0001
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@8.0.0?classifier=sources
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@8.1.0
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@8.1.0?classifier=sources

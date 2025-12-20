@@ -38,3 +38,7 @@
 - pkg:maven/net.sc8s/akka-components-persistence-projection_2.13@0.81.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-persistence-projection_2.13@0.82.0
 - pkg:maven/net.sc8s/akka-components-persistence-projection_2.13@0.82.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-projection_2.13@0.83.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection_2.13@0.83.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-projection_2.13@0.84.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection_2.13@0.84.0?classifier=sources

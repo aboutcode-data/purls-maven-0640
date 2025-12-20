@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/peculiar__webcrypto@1.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/peculiar__webcrypto@1.4.1
 - pkg:maven/org.webjars.npm/peculiar__webcrypto@1.4.1?classifier=sources
+- pkg:maven/org.webjars.npm/peculiar__webcrypto@1.4.3
+- pkg:maven/org.webjars.npm/peculiar__webcrypto@1.4.3?classifier=sources

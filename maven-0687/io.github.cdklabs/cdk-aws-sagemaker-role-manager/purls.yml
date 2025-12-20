@@ -38,6 +38,8 @@
 - pkg:maven/io.github.cdklabs/cdk-aws-sagemaker-role-manager@0.0.28?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-aws-sagemaker-role-manager@0.0.29
 - pkg:maven/io.github.cdklabs/cdk-aws-sagemaker-role-manager@0.0.29?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-aws-sagemaker-role-manager@0.0.30
+- pkg:maven/io.github.cdklabs/cdk-aws-sagemaker-role-manager@0.0.30?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-aws-sagemaker-role-manager@0.0.6
 - pkg:maven/io.github.cdklabs/cdk-aws-sagemaker-role-manager@0.0.6?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-aws-sagemaker-role-manager@0.0.7

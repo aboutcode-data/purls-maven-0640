@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/folsom-opentelemetry-metrics@1.17.0
+- pkg:maven/com.spotify/folsom-opentelemetry-metrics@1.17.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.jasig.portal/uPortal-security-filters@5.15.0?classifier=sources
 - pkg:maven/org.jasig.portal/uPortal-security-filters@5.15.1
 - pkg:maven/org.jasig.portal/uPortal-security-filters@5.15.1?classifier=sources
+- pkg:maven/org.jasig.portal/uPortal-security-filters@5.16.0
+- pkg:maven/org.jasig.portal/uPortal-security-filters@5.16.0?classifier=sources

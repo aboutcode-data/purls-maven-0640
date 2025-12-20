@@ -36,3 +36,5 @@
 - pkg:maven/com.khipu/khipu-api-client@2.9.0?classifier=sources
 - pkg:maven/com.khipu/khipu-api-client@2.9.2-resteasy
 - pkg:maven/com.khipu/khipu-api-client@2.9.2-resteasy?classifier=sources
+- pkg:maven/com.khipu/khipu-api-client@2.9.6-resteasy
+- pkg:maven/com.khipu/khipu-api-client@2.9.6-resteasy?classifier=sources

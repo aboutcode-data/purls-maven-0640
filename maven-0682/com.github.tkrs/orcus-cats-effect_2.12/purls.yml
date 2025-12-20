@@ -94,3 +94,5 @@
 - pkg:maven/com.github.tkrs/orcus-cats-effect_2.12@0.28.3?classifier=sources
 - pkg:maven/com.github.tkrs/orcus-cats-effect_2.12@0.28.4
 - pkg:maven/com.github.tkrs/orcus-cats-effect_2.12@0.28.4?classifier=sources
+- pkg:maven/com.github.tkrs/orcus-cats-effect_2.12@0.28.5
+- pkg:maven/com.github.tkrs/orcus-cats-effect_2.12@0.28.5?classifier=sources

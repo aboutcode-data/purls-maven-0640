@@ -1,2 +1,10 @@
 - pkg:maven/tech.waterbus/webrtc@119.6045.02?classifier=sources
 - pkg:maven/tech.waterbus/webrtc@119.6045.03?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@120.6099.01?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@120.6099.03?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@120.6099.04?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@120.6099.05?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@120.6099.06?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@120.6099.15?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@120.6099.19?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@120.6099.21?classifier=sources

@@ -188,6 +188,10 @@
 - pkg:maven/org.infinispan.archetypes/store@14.0.19.Final?classifier=sources
 - pkg:maven/org.infinispan.archetypes/store@14.0.2.Final
 - pkg:maven/org.infinispan.archetypes/store@14.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan.archetypes/store@14.0.20.Final
+- pkg:maven/org.infinispan.archetypes/store@14.0.20.Final?classifier=sources
+- pkg:maven/org.infinispan.archetypes/store@14.0.21.Final
+- pkg:maven/org.infinispan.archetypes/store@14.0.21.Final?classifier=sources
 - pkg:maven/org.infinispan.archetypes/store@14.0.3.Final
 - pkg:maven/org.infinispan.archetypes/store@14.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan.archetypes/store@14.0.4.Final
@@ -210,3 +214,5 @@
 - pkg:maven/org.infinispan.archetypes/store@15.0.0.Dev03?classifier=sources
 - pkg:maven/org.infinispan.archetypes/store@15.0.0.Dev04
 - pkg:maven/org.infinispan.archetypes/store@15.0.0.Dev04?classifier=sources
+- pkg:maven/org.infinispan.archetypes/store@15.0.0.Dev05
+- pkg:maven/org.infinispan.archetypes/store@15.0.0.Dev05?classifier=sources

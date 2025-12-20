@@ -12,3 +12,7 @@
 - pkg:maven/ch.mobileid.mid-java-client/mid-java-client-usage@1.5.2?classifier=sources
 - pkg:maven/ch.mobileid.mid-java-client/mid-java-client-usage@1.5.3
 - pkg:maven/ch.mobileid.mid-java-client/mid-java-client-usage@1.5.3?classifier=sources
+- pkg:maven/ch.mobileid.mid-java-client/mid-java-client-usage@1.5.4
+- pkg:maven/ch.mobileid.mid-java-client/mid-java-client-usage@1.5.4?classifier=sources
+- pkg:maven/ch.mobileid.mid-java-client/mid-java-client-usage@1.5.5
+- pkg:maven/ch.mobileid.mid-java-client/mid-java-client-usage@1.5.5?classifier=sources

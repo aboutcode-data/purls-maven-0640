@@ -1,0 +1,2 @@
+- pkg:maven/io.github.universal-variability-language/uvl-metamodel@1.0
+- pkg:maven/io.github.universal-variability-language/uvl-metamodel@1.0?classifier=sources

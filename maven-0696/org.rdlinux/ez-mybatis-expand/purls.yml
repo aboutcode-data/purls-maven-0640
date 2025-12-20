@@ -32,3 +32,7 @@
 - pkg:maven/org.rdlinux/ez-mybatis-expand@0.5.3.RS?classifier=sources
 - pkg:maven/org.rdlinux/ez-mybatis-expand@0.5.4.RS
 - pkg:maven/org.rdlinux/ez-mybatis-expand@0.5.4.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-expand@0.5.5.RS
+- pkg:maven/org.rdlinux/ez-mybatis-expand@0.5.5.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-expand@0.5.6.RS
+- pkg:maven/org.rdlinux/ez-mybatis-expand@0.5.6.RS?classifier=sources

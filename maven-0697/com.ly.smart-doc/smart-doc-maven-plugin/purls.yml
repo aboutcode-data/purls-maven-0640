@@ -1,0 +1,2 @@
+- pkg:maven/com.ly.smart-doc/smart-doc-maven-plugin@3.0.0
+- pkg:maven/com.ly.smart-doc/smart-doc-maven-plugin@3.0.0?classifier=sources

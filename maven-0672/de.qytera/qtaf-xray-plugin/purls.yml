@@ -40,5 +40,7 @@
 - pkg:maven/de.qytera/qtaf-xray-plugin@0.2.7?classifier=sources
 - pkg:maven/de.qytera/qtaf-xray-plugin@0.2.8
 - pkg:maven/de.qytera/qtaf-xray-plugin@0.2.8?classifier=sources
+- pkg:maven/de.qytera/qtaf-xray-plugin@0.2.9
+- pkg:maven/de.qytera/qtaf-xray-plugin@0.2.9?classifier=sources
 - pkg:maven/de.qytera/qtaf-xray-plugin@SNAPSHOT-LOCAL-03
 - pkg:maven/de.qytera/qtaf-xray-plugin@SNAPSHOT-LOCAL-03?classifier=sources

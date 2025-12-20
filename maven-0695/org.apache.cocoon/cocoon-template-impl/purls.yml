@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.cocoon/cocoon-template-impl@1.0.0?classifier=sources
 - pkg:maven/org.apache.cocoon/cocoon-template-impl@1.1.0
 - pkg:maven/org.apache.cocoon/cocoon-template-impl@1.1.0?classifier=sources
+- pkg:maven/org.apache.cocoon/cocoon-template-impl@2.3.0
+- pkg:maven/org.apache.cocoon/cocoon-template-impl@2.3.0?classifier=sources

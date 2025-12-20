@@ -53,6 +53,7 @@
 - pkg:maven/com.exactpro.sf/sailfish-js-report@3.3.134?classifier=sources
 - pkg:maven/com.exactpro.sf/sailfish-js-report@3.3.13?classifier=sources
 - pkg:maven/com.exactpro.sf/sailfish-js-report@3.3.144?classifier=sources
+- pkg:maven/com.exactpro.sf/sailfish-js-report@3.3.149?classifier=sources
 - pkg:maven/com.exactpro.sf/sailfish-js-report@3.3.26?classifier=sources
 - pkg:maven/com.exactpro.sf/sailfish-js-report@3.3.49?classifier=sources
 - pkg:maven/com.exactpro.sf/sailfish-js-report@3.3.51?classifier=sources

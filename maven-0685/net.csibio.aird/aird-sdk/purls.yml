@@ -44,3 +44,5 @@
 - pkg:maven/net.csibio.aird/aird-sdk@2.2.1?classifier=sources
 - pkg:maven/net.csibio.aird/aird-sdk@2.4.1.1
 - pkg:maven/net.csibio.aird/aird-sdk@2.4.1.1?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@2.4.1.4
+- pkg:maven/net.csibio.aird/aird-sdk@2.4.1.4?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.github.tzebrowski/obd-metrics@6.15.0?classifier=sources
 - pkg:maven/io.github.tzebrowski/obd-metrics@9.1.0
 - pkg:maven/io.github.tzebrowski/obd-metrics@9.1.0?classifier=sources
+- pkg:maven/io.github.tzebrowski/obd-metrics@9.23.5
+- pkg:maven/io.github.tzebrowski/obd-metrics@9.23.5?classifier=sources

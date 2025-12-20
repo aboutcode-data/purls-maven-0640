@@ -1,0 +1,1 @@
+- pkg:maven/org.springframework.pulsar/spring-pulsar-cache-provider@1.0.0?classifier=sources

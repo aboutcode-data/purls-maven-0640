@@ -6,6 +6,7 @@
 - pkg:maven/com.newrelic.telemetry/telemetry-http-okhttp@0.13.2?classifier=sources
 - pkg:maven/com.newrelic.telemetry/telemetry-http-okhttp@0.14.0?classifier=sources
 - pkg:maven/com.newrelic.telemetry/telemetry-http-okhttp@0.15.0?classifier=sources
+- pkg:maven/com.newrelic.telemetry/telemetry-http-okhttp@0.16.0?classifier=sources
 - pkg:maven/com.newrelic.telemetry/telemetry-http-okhttp@0.3.0
 - pkg:maven/com.newrelic.telemetry/telemetry-http-okhttp@0.3.0?classifier=sources
 - pkg:maven/com.newrelic.telemetry/telemetry-http-okhttp@0.3.1

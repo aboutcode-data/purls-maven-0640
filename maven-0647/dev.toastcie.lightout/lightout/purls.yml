@@ -1,0 +1,2 @@
+- pkg:maven/dev.toastcie.lightout/lightout@1.0.0
+- pkg:maven/dev.toastcie.lightout/lightout@1.0.0?classifier=sources

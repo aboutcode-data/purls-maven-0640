@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm.at.stdlib/utils-type-of@0.0.8?classifier=sources
 - pkg:maven/org.mvnpm.at.stdlib/utils-type-of@0.1.1?classifier=sources

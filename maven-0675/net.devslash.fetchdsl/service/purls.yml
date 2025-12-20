@@ -27,3 +27,5 @@
 - pkg:maven/net.devslash.fetchdsl/service@0.24.3?classifier=sources
 - pkg:maven/net.devslash.fetchdsl/service@0.24.4?classifier=sources
 - pkg:maven/net.devslash.fetchdsl/service@0.25.0?classifier=sources
+- pkg:maven/net.devslash.fetchdsl/service@0.26.0?classifier=sources
+- pkg:maven/net.devslash.fetchdsl/service@0.26.1?classifier=sources

@@ -44,3 +44,4 @@
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-appconfig@2.1.1?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-appconfig@2.1.2?type=war
 - pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-appconfig@2.1.3?type=war
+- pkg:maven/org.glassfish.tyrus.tests/tyrus-tests-e2e-appconfig@2.1.4?type=war

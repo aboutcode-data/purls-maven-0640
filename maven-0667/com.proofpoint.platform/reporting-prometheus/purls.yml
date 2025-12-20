@@ -222,3 +222,7 @@
 - pkg:maven/com.proofpoint.platform/reporting-prometheus@3.03?classifier=sources
 - pkg:maven/com.proofpoint.platform/reporting-prometheus@3.04
 - pkg:maven/com.proofpoint.platform/reporting-prometheus@3.04?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@3.06
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@3.06?classifier=sources
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@3.07
+- pkg:maven/com.proofpoint.platform/reporting-prometheus@3.07?classifier=sources

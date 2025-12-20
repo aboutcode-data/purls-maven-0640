@@ -116,6 +116,12 @@
 - pkg:maven/com.applitools/eyes-universal-core@5.63.12?classifier=sources
 - pkg:maven/com.applitools/eyes-universal-core@5.63.13
 - pkg:maven/com.applitools/eyes-universal-core@5.63.13?classifier=sources
+- pkg:maven/com.applitools/eyes-universal-core@5.63.14
+- pkg:maven/com.applitools/eyes-universal-core@5.63.14?classifier=sources
+- pkg:maven/com.applitools/eyes-universal-core@5.63.16
+- pkg:maven/com.applitools/eyes-universal-core@5.63.16?classifier=sources
+- pkg:maven/com.applitools/eyes-universal-core@5.63.17
+- pkg:maven/com.applitools/eyes-universal-core@5.63.17?classifier=sources
 - pkg:maven/com.applitools/eyes-universal-core@5.63.3
 - pkg:maven/com.applitools/eyes-universal-core@5.63.3?classifier=sources
 - pkg:maven/com.applitools/eyes-universal-core@5.63.4
