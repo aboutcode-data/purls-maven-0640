@@ -9,6 +9,8 @@
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-test@4.4.10
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-test@4.4.11
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-test@4.4.12
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-test@4.4.13
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-test@4.4.14
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-test@4.4.2
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-test@4.4.3
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-test@4.4.4

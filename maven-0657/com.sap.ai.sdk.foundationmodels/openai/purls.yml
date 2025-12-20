@@ -1,1 +1,2 @@
 - pkg:maven/com.sap.ai.sdk.foundationmodels/openai@0.1.0?classifier=sources
+- pkg:maven/com.sap.ai.sdk.foundationmodels/openai@0.2.0?classifier=sources

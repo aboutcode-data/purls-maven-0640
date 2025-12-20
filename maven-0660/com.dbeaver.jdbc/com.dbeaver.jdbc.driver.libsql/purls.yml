@@ -1,0 +1,2 @@
+- pkg:maven/com.dbeaver.jdbc/com.dbeaver.jdbc.driver.libsql@1.0.1?classifier=sources
+- pkg:maven/com.dbeaver.jdbc/com.dbeaver.jdbc.driver.libsql@1.0.2?classifier=sources

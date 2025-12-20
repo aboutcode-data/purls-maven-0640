@@ -1,0 +1,2 @@
+- pkg:maven/com.yscope.logging/log4j2-appenders@0.1.0-beta.1
+- pkg:maven/com.yscope.logging/log4j2-appenders@0.1.0-beta.1?classifier=sources

@@ -136,3 +136,5 @@
 - pkg:maven/net.dreamlu/mica-mqtt-codec@2.3.7?classifier=sources
 - pkg:maven/net.dreamlu/mica-mqtt-codec@2.3.8
 - pkg:maven/net.dreamlu/mica-mqtt-codec@2.3.8?classifier=sources
+- pkg:maven/net.dreamlu/mica-mqtt-codec@2.3.9
+- pkg:maven/net.dreamlu/mica-mqtt-codec@2.3.9?classifier=sources

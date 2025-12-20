@@ -2,3 +2,4 @@
 - pkg:maven/xyz.hmh-api/hmh-hus@0.0.2?classifier=sources
 - pkg:maven/xyz.hmh-api/hmh-hus@0.0.3?classifier=sources
 - pkg:maven/xyz.hmh-api/hmh-hus@0.0.4?classifier=sources
+- pkg:maven/xyz.hmh-api/hmh-hus@0.0.5?classifier=sources

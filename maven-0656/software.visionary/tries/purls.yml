@@ -1,1 +1,2 @@
 - pkg:maven/software.visionary/tries@2024.10.13?classifier=sources
+- pkg:maven/software.visionary/tries@2024.11.17?classifier=sources

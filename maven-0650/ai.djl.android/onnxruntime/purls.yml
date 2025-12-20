@@ -24,3 +24,5 @@
 - pkg:maven/ai.djl.android/onnxruntime@0.29.0?classifier=sources
 - pkg:maven/ai.djl.android/onnxruntime@0.30.0
 - pkg:maven/ai.djl.android/onnxruntime@0.30.0?classifier=sources
+- pkg:maven/ai.djl.android/onnxruntime@0.31.0
+- pkg:maven/ai.djl.android/onnxruntime@0.31.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.30?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.31?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.32?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.33?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.34?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.35?classifier=sources

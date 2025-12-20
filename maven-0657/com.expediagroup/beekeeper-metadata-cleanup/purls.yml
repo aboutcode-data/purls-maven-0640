@@ -62,3 +62,7 @@
 - pkg:maven/com.expediagroup/beekeeper-metadata-cleanup@3.5.71
 - pkg:maven/com.expediagroup/beekeeper-metadata-cleanup@3.5.71?classifier=sources
 - pkg:maven/com.expediagroup/beekeeper-metadata-cleanup@3.5.7?classifier=sources
+- pkg:maven/com.expediagroup/beekeeper-metadata-cleanup@3.5.8
+- pkg:maven/com.expediagroup/beekeeper-metadata-cleanup@3.5.8?classifier=sources
+- pkg:maven/com.expediagroup/beekeeper-metadata-cleanup@3.5.9
+- pkg:maven/com.expediagroup/beekeeper-metadata-cleanup@3.5.9?classifier=sources

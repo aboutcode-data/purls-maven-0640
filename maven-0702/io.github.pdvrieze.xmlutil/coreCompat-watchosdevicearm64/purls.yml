@@ -1,1 +1,2 @@
 - pkg:maven/io.github.pdvrieze.xmlutil/coreCompat-watchosdevicearm64@0.90.2?classifier=sources
+- pkg:maven/io.github.pdvrieze.xmlutil/coreCompat-watchosdevicearm64@0.90.3?classifier=sources

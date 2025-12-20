@@ -2,3 +2,5 @@
 - pkg:maven/io.serverlessworkflow/custom-generator@7.0.0-alpha1?classifier=sources
 - pkg:maven/io.serverlessworkflow/custom-generator@7.0.0-alpha2
 - pkg:maven/io.serverlessworkflow/custom-generator@7.0.0-alpha2?classifier=sources
+- pkg:maven/io.serverlessworkflow/custom-generator@7.0.0-alpha5
+- pkg:maven/io.serverlessworkflow/custom-generator@7.0.0-alpha5?classifier=sources

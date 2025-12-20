@@ -19,3 +19,4 @@
 - pkg:maven/com.authme/authme-sdk-liveness@2.7.4-rc.37?classifier=sources
 - pkg:maven/com.authme/authme-sdk-liveness@2.7.4-rc.8?classifier=sources
 - pkg:maven/com.authme/authme-sdk-liveness@2.7.4-rc.9?classifier=sources
+- pkg:maven/com.authme/authme-sdk-liveness@2.7.4?classifier=sources

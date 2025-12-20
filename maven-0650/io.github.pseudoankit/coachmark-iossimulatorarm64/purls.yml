@@ -2,4 +2,5 @@
 - pkg:maven/io.github.pseudoankit/coachmark-iossimulatorarm64@2.0.1?classifier=sources
 - pkg:maven/io.github.pseudoankit/coachmark-iossimulatorarm64@2.0.3?classifier=sources
 - pkg:maven/io.github.pseudoankit/coachmark-iossimulatorarm64@2.0.4?classifier=sources
+- pkg:maven/io.github.pseudoankit/coachmark-iossimulatorarm64@3.0.1?classifier=sources
 - pkg:maven/io.github.pseudoankit/coachmark-iossimulatorarm64@ersion?classifier=sources

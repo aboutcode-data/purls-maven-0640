@@ -4,3 +4,6 @@
 - pkg:maven/network.lightsail/stellar-sdk-android-spi@0.44.1?classifier=sources
 - pkg:maven/network.lightsail/stellar-sdk-android-spi@1.0.0-alpha0?classifier=sources
 - pkg:maven/network.lightsail/stellar-sdk-android-spi@1.0.0-beta0?classifier=sources
+- pkg:maven/network.lightsail/stellar-sdk-android-spi@1.0.0-beta1?classifier=sources
+- pkg:maven/network.lightsail/stellar-sdk-android-spi@1.0.0-rc0?classifier=sources
+- pkg:maven/network.lightsail/stellar-sdk-android-spi@1.0.0?classifier=sources

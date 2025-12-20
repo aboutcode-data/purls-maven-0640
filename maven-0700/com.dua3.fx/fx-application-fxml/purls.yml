@@ -12,3 +12,5 @@
 - pkg:maven/com.dua3.fx/fx-application-fxml@0.43.0?classifier=sources
 - pkg:maven/com.dua3.fx/fx-application-fxml@0.44?classifier=sources
 - pkg:maven/com.dua3.fx/fx-application-fxml@0.45-BETA-1?classifier=sources
+- pkg:maven/com.dua3.fx/fx-application-fxml@0.45-beta-2?classifier=sources
+- pkg:maven/com.dua3.fx/fx-application-fxml@0.45?classifier=sources

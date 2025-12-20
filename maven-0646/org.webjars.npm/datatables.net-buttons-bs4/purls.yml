@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/datatables.net-buttons-bs4@2.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-buttons-bs4@2.4.3
 - pkg:maven/org.webjars.npm/datatables.net-buttons-bs4@3.1.2
+- pkg:maven/org.webjars.npm/datatables.net-buttons-bs4@3.2.0

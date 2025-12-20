@@ -1,0 +1,2 @@
+- pkg:maven/pl.morgwai.base/functional-interfaces@1.0
+- pkg:maven/pl.morgwai.base/functional-interfaces@1.0?classifier=sources

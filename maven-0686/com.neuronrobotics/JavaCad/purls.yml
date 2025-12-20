@@ -57,6 +57,8 @@
 - pkg:maven/com.neuronrobotics/JavaCad@1.0.8?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@1.1.0?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@1.1.1?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@1.10.0?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@1.10.1?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@1.2.1?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@1.2.3?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@1.2.4?classifier=sources
@@ -90,4 +92,10 @@
 - pkg:maven/com.neuronrobotics/JavaCad@1.8.6?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@1.8.7?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@1.8.8?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@1.8.9?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@1.9.0?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@2.0.0?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@2.0.1?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@2.0.2?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@2.0.3?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@source?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/fish.payara.arquillian/payara-client-ee11@4.0.alpha1
+- pkg:maven/fish.payara.arquillian/payara-client-ee11@4.0.alpha2

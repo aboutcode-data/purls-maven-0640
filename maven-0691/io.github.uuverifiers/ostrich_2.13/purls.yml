@@ -8,3 +8,5 @@
 - pkg:maven/io.github.uuverifiers/ostrich_2.13@1.3.5
 - pkg:maven/io.github.uuverifiers/ostrich_2.13@1.3.5?classifier=sources
 - pkg:maven/io.github.uuverifiers/ostrich_2.13@1.3?classifier=sources
+- pkg:maven/io.github.uuverifiers/ostrich_2.13@1.4.1
+- pkg:maven/io.github.uuverifiers/ostrich_2.13@1.4.1?classifier=sources

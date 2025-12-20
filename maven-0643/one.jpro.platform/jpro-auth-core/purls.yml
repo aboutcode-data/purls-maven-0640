@@ -1,0 +1,6 @@
+- pkg:maven/one.jpro.platform/jpro-auth-core@0.4.3-ikmdev?classifier=sources
+- pkg:maven/one.jpro.platform/jpro-auth-core@0.4.3?classifier=sources
+- pkg:maven/one.jpro.platform/jpro-auth-core@0.4.4-ikmdev?classifier=sources
+- pkg:maven/one.jpro.platform/jpro-auth-core@0.4.4?classifier=sources
+- pkg:maven/one.jpro.platform/jpro-auth-core@0.5.0-ikmdev?classifier=sources
+- pkg:maven/one.jpro.platform/jpro-auth-core@0.5.0?classifier=sources

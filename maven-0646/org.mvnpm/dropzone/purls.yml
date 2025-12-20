@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/dropzone@5.9.3?classifier=sources
+- pkg:maven/org.mvnpm/dropzone@6.0.0-beta.2?classifier=sources

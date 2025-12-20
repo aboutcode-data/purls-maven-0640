@@ -94,6 +94,8 @@
 - pkg:maven/org.owasp/dependency-check-maven@11.0.0?classifier=sources
 - pkg:maven/org.owasp/dependency-check-maven@11.1.0
 - pkg:maven/org.owasp/dependency-check-maven@11.1.0?classifier=sources
+- pkg:maven/org.owasp/dependency-check-maven@11.1.1
+- pkg:maven/org.owasp/dependency-check-maven@11.1.1?classifier=sources
 - pkg:maven/org.owasp/dependency-check-maven@2.0.0
 - pkg:maven/org.owasp/dependency-check-maven@2.0.0?classifier=sources
 - pkg:maven/org.owasp/dependency-check-maven@2.0.1

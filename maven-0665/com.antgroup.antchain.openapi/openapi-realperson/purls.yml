@@ -31,6 +31,10 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.2
 - pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.22
 - pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.22?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.27
+- pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.27?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.28
+- pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.28?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.2?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.3
 - pkg:maven/com.antgroup.antchain.openapi/openapi-realperson@1.15.3?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/cn.funnymap/lgis-tools@0.4.3?classifier=sources
 - pkg:maven/cn.funnymap/lgis-tools@0.5.1?classifier=sources
 - pkg:maven/cn.funnymap/lgis-tools@0.5.2?classifier=sources
+- pkg:maven/cn.funnymap/lgis-tools@0.6.1?classifier=sources

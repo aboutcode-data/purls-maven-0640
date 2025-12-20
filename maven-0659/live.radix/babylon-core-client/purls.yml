@@ -1,2 +1,3 @@
 - pkg:maven/live.radix/babylon-core-client@1.0.4?classifier=sources
 - pkg:maven/live.radix/babylon-core-client@1.2.1?classifier=sources
+- pkg:maven/live.radix/babylon-core-client@1.3.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/io.github.bonede/tree-sitter-regex@0.20.0?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-regex@0.24.3?classifier=sources
 - pkg:maven/io.github.bonede/tree-sitter-regex@1.0.0?classifier=sources

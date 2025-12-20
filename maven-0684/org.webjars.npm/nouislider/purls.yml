@@ -28,6 +28,7 @@
 - pkg:maven/org.webjars.npm/nouislider@15.6.1?classifier=sources
 - pkg:maven/org.webjars.npm/nouislider@15.7.1
 - pkg:maven/org.webjars.npm/nouislider@15.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/nouislider@15.8.1
 - pkg:maven/org.webjars.npm/nouislider@7.0.10
 - pkg:maven/org.webjars.npm/nouislider@7.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/nouislider@8.0.2

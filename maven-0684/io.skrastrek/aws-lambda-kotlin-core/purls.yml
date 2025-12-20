@@ -1,0 +1,2 @@
+- pkg:maven/io.skrastrek/aws-lambda-kotlin-core@0.0.0?classifier=sources
+- pkg:maven/io.skrastrek/aws-lambda-kotlin-core@0.1.0?classifier=sources

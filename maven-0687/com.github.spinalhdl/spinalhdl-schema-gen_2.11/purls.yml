@@ -1,0 +1,2 @@
+- pkg:maven/com.github.spinalhdl/spinalhdl-schema-gen_2.11@0.0.4
+- pkg:maven/com.github.spinalhdl/spinalhdl-schema-gen_2.11@0.0.4?classifier=sources

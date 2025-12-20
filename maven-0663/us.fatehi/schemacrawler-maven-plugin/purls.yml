@@ -258,6 +258,10 @@
 - pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.22.2.2?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.22.3.2
 - pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.22.3.2?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.23.1.2
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.23.1.2?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.23.2.2
+- pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.23.2.2?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.3.0
 - pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.3.0?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-maven-plugin@16.3.1

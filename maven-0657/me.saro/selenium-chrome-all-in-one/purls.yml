@@ -8,4 +8,5 @@
 - pkg:maven/me.saro/selenium-chrome-all-in-one@4.24.0.0?classifier=sources
 - pkg:maven/me.saro/selenium-chrome-all-in-one@4.24.0.1?classifier=sources
 - pkg:maven/me.saro/selenium-chrome-all-in-one@4.25.0.0?classifier=sources
+- pkg:maven/me.saro/selenium-chrome-all-in-one@4.26.0.0?classifier=sources
 - pkg:maven/me.saro/selenium-chrome-all-in-one@unspecified?classifier=sources

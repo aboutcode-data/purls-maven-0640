@@ -44,3 +44,5 @@
 - pkg:maven/com.github.mizool.tool/tool-password@5.2?classifier=sources
 - pkg:maven/com.github.mizool.tool/tool-password@6.0
 - pkg:maven/com.github.mizool.tool/tool-password@6.0?classifier=sources
+- pkg:maven/com.github.mizool.tool/tool-password@6.1
+- pkg:maven/com.github.mizool.tool/tool-password@6.1?classifier=sources

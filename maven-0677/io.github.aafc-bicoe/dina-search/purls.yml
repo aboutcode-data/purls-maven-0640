@@ -34,3 +34,7 @@
 - pkg:maven/io.github.aafc-bicoe/dina-search@0.129?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-search@0.130
 - pkg:maven/io.github.aafc-bicoe/dina-search@0.130?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-search@0.131
+- pkg:maven/io.github.aafc-bicoe/dina-search@0.131?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-search@0.132
+- pkg:maven/io.github.aafc-bicoe/dina-search@0.132?classifier=sources

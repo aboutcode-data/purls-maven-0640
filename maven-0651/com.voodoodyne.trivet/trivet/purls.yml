@@ -10,3 +10,11 @@
 - pkg:maven/com.voodoodyne.trivet/trivet@2.1.2
 - pkg:maven/com.voodoodyne.trivet/trivet@2.1.2?classifier=sources
 - pkg:maven/com.voodoodyne.trivet/trivet@2.1?classifier=sources
+- pkg:maven/com.voodoodyne.trivet/trivet@2.2
+- pkg:maven/com.voodoodyne.trivet/trivet@2.2?classifier=sources
+- pkg:maven/com.voodoodyne.trivet/trivet@2.3
+- pkg:maven/com.voodoodyne.trivet/trivet@2.3?classifier=sources
+- pkg:maven/com.voodoodyne.trivet/trivet@3.0b1
+- pkg:maven/com.voodoodyne.trivet/trivet@3.0b1?classifier=sources
+- pkg:maven/com.voodoodyne.trivet/trivet@3.0b2
+- pkg:maven/com.voodoodyne.trivet/trivet@3.0b2?classifier=sources

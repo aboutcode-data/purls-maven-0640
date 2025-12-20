@@ -1,0 +1,2 @@
+- pkg:maven/cn.bugstack/xfg-dev-tech-api@1.0
+- pkg:maven/cn.bugstack/xfg-dev-tech-api@1.0?classifier=sources

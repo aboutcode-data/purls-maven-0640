@@ -1,0 +1,2 @@
+- pkg:maven/com.pubnub/pubnub-kotlin-core-api-js@10.1.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-kotlin-core-api-js@10.2.0?classifier=sources

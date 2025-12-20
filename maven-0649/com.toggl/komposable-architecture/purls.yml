@@ -5,3 +5,5 @@
 - pkg:maven/com.toggl/komposable-architecture@0.2.1?classifier=sources
 - pkg:maven/com.toggl/komposable-architecture@0.2.2?classifier=sources
 - pkg:maven/com.toggl/komposable-architecture@1.0.0-preview01?classifier=sources
+- pkg:maven/com.toggl/komposable-architecture@1.0.0-preview03?classifier=sources
+- pkg:maven/com.toggl/komposable-architecture@1.0.0-preview04?classifier=sources
