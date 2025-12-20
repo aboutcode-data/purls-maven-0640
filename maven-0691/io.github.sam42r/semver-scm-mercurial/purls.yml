@@ -1,3 +1,5 @@
+- pkg:maven/io.github.sam42r/semver-scm-mercurial@1.3.6
+- pkg:maven/io.github.sam42r/semver-scm-mercurial@1.3.6?classifier=sources
 - pkg:maven/io.github.sam42r/semver-scm-mercurial@v1.2.3
 - pkg:maven/io.github.sam42r/semver-scm-mercurial@v1.2.3?classifier=sources
 - pkg:maven/io.github.sam42r/semver-scm-mercurial@v1.3.0

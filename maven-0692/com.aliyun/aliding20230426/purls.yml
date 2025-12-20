@@ -70,6 +70,10 @@
 - pkg:maven/com.aliyun/aliding20230426@2.27.0?classifier=sources
 - pkg:maven/com.aliyun/aliding20230426@2.28.0
 - pkg:maven/com.aliyun/aliding20230426@2.28.0?classifier=sources
+- pkg:maven/com.aliyun/aliding20230426@2.28.1
+- pkg:maven/com.aliyun/aliding20230426@2.28.1?classifier=sources
+- pkg:maven/com.aliyun/aliding20230426@2.29.0
+- pkg:maven/com.aliyun/aliding20230426@2.29.0?classifier=sources
 - pkg:maven/com.aliyun/aliding20230426@2.3.0
 - pkg:maven/com.aliyun/aliding20230426@2.3.0?classifier=sources
 - pkg:maven/com.aliyun/aliding20230426@2.3.1

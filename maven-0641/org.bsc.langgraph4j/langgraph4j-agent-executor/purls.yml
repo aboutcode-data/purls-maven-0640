@@ -28,3 +28,5 @@
 - pkg:maven/org.bsc.langgraph4j/langgraph4j-agent-executor@1.1.2?classifier=sources
 - pkg:maven/org.bsc.langgraph4j/langgraph4j-agent-executor@1.1.3
 - pkg:maven/org.bsc.langgraph4j/langgraph4j-agent-executor@1.1.3?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-agent-executor@1.1.5
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-agent-executor@1.1.5?classifier=sources

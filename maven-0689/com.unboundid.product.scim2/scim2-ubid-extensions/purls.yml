@@ -32,3 +32,4 @@
 - pkg:maven/com.unboundid.product.scim2/scim2-ubid-extensions@2.4.0?classifier=sources
 - pkg:maven/com.unboundid.product.scim2/scim2-ubid-extensions@3.0.0?classifier=sources
 - pkg:maven/com.unboundid.product.scim2/scim2-ubid-extensions@3.1.0?classifier=sources
+- pkg:maven/com.unboundid.product.scim2/scim2-ubid-extensions@3.2.0?classifier=sources

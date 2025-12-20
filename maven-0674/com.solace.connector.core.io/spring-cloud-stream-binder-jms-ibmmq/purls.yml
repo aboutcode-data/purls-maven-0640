@@ -16,3 +16,5 @@
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-ibmmq@3.0.4?classifier=sources
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-ibmmq@3.0.5
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-ibmmq@3.0.5?classifier=sources
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-ibmmq@3.1.0
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-jms-ibmmq@3.1.0?classifier=sources

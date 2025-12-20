@@ -93,3 +93,5 @@
 - pkg:maven/org.webjars/flexmonster@2.9.9
 - pkg:maven/org.webjars/flexmonster@2.9.90
 - pkg:maven/org.webjars/flexmonster@2.9.91
+- pkg:maven/org.webjars/flexmonster@2.9.92
+- pkg:maven/org.webjars/flexmonster@2.9.93

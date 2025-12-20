@@ -1,0 +1,2 @@
+- pkg:maven/io.github.matwoess/java-profiler-tool@0.11.1?classifier=sources
+- pkg:maven/io.github.matwoess/java-profiler-tool@0.11.2?classifier=sources

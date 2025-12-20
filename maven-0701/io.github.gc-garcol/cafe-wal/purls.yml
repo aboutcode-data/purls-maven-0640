@@ -1,0 +1,7 @@
+- pkg:maven/io.github.gc-garcol/cafe-wal@0.0.1?classifier=sources
+- pkg:maven/io.github.gc-garcol/cafe-wal@0.0.2?classifier=sources
+- pkg:maven/io.github.gc-garcol/cafe-wal@0.2.0?classifier=sources
+- pkg:maven/io.github.gc-garcol/cafe-wal@0.2.1?classifier=sources
+- pkg:maven/io.github.gc-garcol/cafe-wal@0.3.0?classifier=sources
+- pkg:maven/io.github.gc-garcol/cafe-wal@0.4.0?classifier=sources
+- pkg:maven/io.github.gc-garcol/cafe-wal@1.0.0?classifier=sources

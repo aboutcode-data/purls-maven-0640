@@ -28,3 +28,7 @@
 - pkg:maven/edu.byu.hbll.box/box-kafka@2.5.2?classifier=sources
 - pkg:maven/edu.byu.hbll.box/box-kafka@2.5.3
 - pkg:maven/edu.byu.hbll.box/box-kafka@2.5.3?classifier=sources
+- pkg:maven/edu.byu.hbll.box/box-kafka@2.6.0
+- pkg:maven/edu.byu.hbll.box/box-kafka@2.6.0?classifier=sources
+- pkg:maven/edu.byu.hbll.box/box-kafka@2.7.0
+- pkg:maven/edu.byu.hbll.box/box-kafka@2.7.0?classifier=sources

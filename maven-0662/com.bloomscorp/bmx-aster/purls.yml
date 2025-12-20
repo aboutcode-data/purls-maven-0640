@@ -86,6 +86,8 @@
 - pkg:maven/com.bloomscorp/bmx-aster@0.0.63?classifier=sources
 - pkg:maven/com.bloomscorp/bmx-aster@0.0.64
 - pkg:maven/com.bloomscorp/bmx-aster@0.0.64?classifier=sources
+- pkg:maven/com.bloomscorp/bmx-aster@0.0.69
+- pkg:maven/com.bloomscorp/bmx-aster@0.0.69?classifier=sources
 - pkg:maven/com.bloomscorp/bmx-aster@0.0.8
 - pkg:maven/com.bloomscorp/bmx-aster@0.0.8?classifier=sources
 - pkg:maven/com.bloomscorp/bmx-aster@0.0.9

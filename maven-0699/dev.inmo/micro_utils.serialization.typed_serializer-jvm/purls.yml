@@ -152,6 +152,8 @@
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.22.9?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.23.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.23.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.23.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.24.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.4.35?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.4.36?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.typed_serializer-jvm@0.5.0?classifier=sources

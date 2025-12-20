@@ -1,0 +1,3 @@
+- pkg:maven/name.remal.build-time-constants/name.remal.build-time-constants.gradle.plugin@1.0.0-rc-2?classifier=sources
+- pkg:maven/name.remal.build-time-constants/name.remal.build-time-constants.gradle.plugin@1.0.0-rc-3?classifier=sources
+- pkg:maven/name.remal.build-time-constants/name.remal.build-time-constants.gradle.plugin@1.0.0-rc-4?classifier=sources

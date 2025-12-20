@@ -68,6 +68,10 @@
 - pkg:maven/com.hlag/json-logic-rule-maker@1.5.26?classifier=sources
 - pkg:maven/com.hlag/json-logic-rule-maker@1.5.27
 - pkg:maven/com.hlag/json-logic-rule-maker@1.5.27?classifier=sources
+- pkg:maven/com.hlag/json-logic-rule-maker@1.5.28
+- pkg:maven/com.hlag/json-logic-rule-maker@1.5.28?classifier=sources
+- pkg:maven/com.hlag/json-logic-rule-maker@1.5.29
+- pkg:maven/com.hlag/json-logic-rule-maker@1.5.29?classifier=sources
 - pkg:maven/com.hlag/json-logic-rule-maker@1.5.4
 - pkg:maven/com.hlag/json-logic-rule-maker@1.5.4?classifier=sources
 - pkg:maven/com.hlag/json-logic-rule-maker@1.5.5

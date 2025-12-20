@@ -1,0 +1,4 @@
+- pkg:maven/org.jitsi/jicoco-mucclient@1.1-150-g57913c0
+- pkg:maven/org.jitsi/jicoco-mucclient@1.1-150-g57913c0?classifier=sources
+- pkg:maven/org.jitsi/jicoco-mucclient@1.1-151-g63a0655
+- pkg:maven/org.jitsi/jicoco-mucclient@1.1-151-g63a0655?classifier=sources

@@ -1,1 +1,16 @@
+- pkg:maven/club.gepetto/circum@1.0.10?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.11?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.12?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.13?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.14?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.15?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.16?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.17?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.18?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.19?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.20?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.21?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.22?classifier=sources
 - pkg:maven/club.gepetto/circum@1.0.7?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.8?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.9?classifier=sources

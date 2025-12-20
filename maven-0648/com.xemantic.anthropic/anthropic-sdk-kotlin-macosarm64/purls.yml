@@ -1,0 +1,1 @@
+- pkg:maven/com.xemantic.anthropic/anthropic-sdk-kotlin-macosarm64@0.11?classifier=sources

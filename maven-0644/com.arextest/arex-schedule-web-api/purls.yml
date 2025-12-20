@@ -118,3 +118,4 @@
 - pkg:maven/com.arextest/arex-schedule-web-api@2.0.2?classifier=sources
 - pkg:maven/com.arextest/arex-schedule-web-api@2.0.3?classifier=sources
 - pkg:maven/com.arextest/arex-schedule-web-api@2.0.4?classifier=sources
+- pkg:maven/com.arextest/arex-schedule-web-api@2.0.5?classifier=sources

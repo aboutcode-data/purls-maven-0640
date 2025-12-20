@@ -1,0 +1,2 @@
+- pkg:maven/org.natspal/nconsole-db@0.5.8?classifier=sources
+- pkg:maven/org.natspal/nconsole-db@0.5.9?classifier=sources

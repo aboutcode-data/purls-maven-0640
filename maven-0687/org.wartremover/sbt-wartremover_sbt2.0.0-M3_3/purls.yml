@@ -1,0 +1,2 @@
+- pkg:maven/org.wartremover/sbt-wartremover_sbt2.0.0-M3_3@3.2.5
+- pkg:maven/org.wartremover/sbt-wartremover_sbt2.0.0-M3_3@3.2.5?classifier=sources

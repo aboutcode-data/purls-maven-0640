@@ -4,6 +4,8 @@
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-standards@10.1?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-standards@11.0
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-standards@11.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-standards@11.1
+- pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-standards@11.1?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-standards@8.0
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-standards@8.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/xml-ccsds-mo-standards@9.0

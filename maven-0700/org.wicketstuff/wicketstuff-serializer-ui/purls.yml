@@ -5,6 +5,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@10.1.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@10.1.1
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@10.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@10.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@6.14.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@6.15.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@6.16.0
@@ -88,6 +89,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.17.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.18.0
+- pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.19.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-serializer-ui@9.4.0

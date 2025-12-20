@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.glue/dqdl@0.9.0
+- pkg:maven/software.amazon.glue/dqdl@0.9.0?classifier=sources
+- pkg:maven/software.amazon.glue/dqdl@1.0.0
+- pkg:maven/software.amazon.glue/dqdl@1.0.0?classifier=sources

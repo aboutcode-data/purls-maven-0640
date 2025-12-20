@@ -1,0 +1,7 @@
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js-core-wasm-js@1.0.0-pre.850?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js-core-wasm-js@1.0.0-pre.851?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js-core-wasm-js@1.0.0-pre.852?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js-core-wasm-js@1.0.0-pre.853?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js-core-wasm-js@1.0.0-pre.854?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js-core-wasm-js@1.0.0-pre.855?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js-core-wasm-js@1.0.0-pre.856?classifier=sources

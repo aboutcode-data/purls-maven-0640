@@ -8,6 +8,7 @@
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@02102024.7835093
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@02102024.8089dce
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@02102024.c52d48f
+- pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@02122024.a51a186
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@03072024.54802f0
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@03102024.42cf288
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@04072024.3e4ba11
@@ -16,6 +17,8 @@
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@04102024.7f9a121
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@04122023.c3c54aa
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@05122023.8beffb4
+- pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@05122024.0648453
+- pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@05122024.4727796
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@06022024.5248222
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@06092023.5c45f70
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@06092024.59b95e4
@@ -58,6 +61,7 @@
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@11092024.edb564b
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@11112024.41ad4f1
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@11112024.af01eb6
+- pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@11122024.cb3a97b
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@12022024.7cee216
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@12082024.bb73262
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@12102023.c90582a
@@ -71,10 +75,12 @@
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@13102023.058a3e8
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@13102023.a114aeb
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@13102023.b0aaa6b
+- pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@13122024.e1013e4
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@15022024.faf2540
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@15102024.ecced1e
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@15112024.e51ff1f
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@16042024.d56562f
+- pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@16122024.194fdac
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@17092024.cdcf544
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@17102023.c1096fe
 - pkg:maven/io.github.domstolene.esas/bestillvaretektsplass@18092024.394bb17

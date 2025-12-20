@@ -58,6 +58,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.commons.scheduler@2.7.12
 - pkg:maven/org.apache.sling/org.apache.sling.commons.scheduler@2.7.12?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.commons.scheduler@2.7.12?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.scheduler@2.7.14
+- pkg:maven/org.apache.sling/org.apache.sling.commons.scheduler@2.7.14?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.scheduler@2.7.14?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.commons.scheduler@2.7.2
 - pkg:maven/org.apache.sling/org.apache.sling.commons.scheduler@2.7.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.commons.scheduler@2.7.2?classifier=sources

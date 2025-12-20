@@ -135,6 +135,8 @@
 - pkg:maven/com.google.cloud/google-cloud-channel@3.57.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-channel@3.58.0
 - pkg:maven/com.google.cloud/google-cloud-channel@3.58.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-channel@3.59.0
+- pkg:maven/com.google.cloud/google-cloud-channel@3.59.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-channel@3.6.0
 - pkg:maven/com.google.cloud/google-cloud-channel@3.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-channel@3.6.1

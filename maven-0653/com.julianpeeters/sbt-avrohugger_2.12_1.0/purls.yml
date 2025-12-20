@@ -1,3 +1,5 @@
+- pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.10.0
+- pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.10.0?classifier=sources
 - pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.5.0
 - pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.5.0?classifier=sources
 - pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.5.1
@@ -26,5 +28,7 @@
 - pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.8.3?classifier=sources
 - pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.8.4
 - pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.8.4?classifier=sources
+- pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.9.0
 - pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.9.0-M2
 - pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.9.0-M2?classifier=sources
+- pkg:maven/com.julianpeeters/sbt-avrohugger_2.12_1.0@2.9.0?classifier=sources

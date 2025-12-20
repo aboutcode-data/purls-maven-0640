@@ -1,2 +1,6 @@
 - pkg:maven/dev.ikm.maven/unzip-maven-plugin@1.5.0
 - pkg:maven/dev.ikm.maven/unzip-maven-plugin@1.5.0?classifier=sources
+- pkg:maven/dev.ikm.maven/unzip-maven-plugin@1.6.0
+- pkg:maven/dev.ikm.maven/unzip-maven-plugin@1.6.0?classifier=sources
+- pkg:maven/dev.ikm.maven/unzip-maven-plugin@1.7.0
+- pkg:maven/dev.ikm.maven/unzip-maven-plugin@1.7.0?classifier=sources

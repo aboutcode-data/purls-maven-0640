@@ -10,3 +10,7 @@
 - pkg:maven/io.fabric8/kube-api-test-client-inject@6.13.3?classifier=sources
 - pkg:maven/io.fabric8/kube-api-test-client-inject@6.13.4
 - pkg:maven/io.fabric8/kube-api-test-client-inject@6.13.4?classifier=sources
+- pkg:maven/io.fabric8/kube-api-test-client-inject@7.0.0
+- pkg:maven/io.fabric8/kube-api-test-client-inject@7.0.0?classifier=sources
+- pkg:maven/io.fabric8/kube-api-test-client-inject@7.0.1
+- pkg:maven/io.fabric8/kube-api-test-client-inject@7.0.1?classifier=sources

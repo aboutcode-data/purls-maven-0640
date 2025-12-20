@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kikoso/khttpconstants@1.0.0?classifier=sources
+- pkg:maven/com.github.kikoso/khttpconstants@unspecified?classifier=sources

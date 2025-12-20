@@ -95,8 +95,12 @@
 - pkg:maven/com.yandex.div/assertion@30.26.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@30.27.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@30.28.0?classifier=sources
+- pkg:maven/com.yandex.div/assertion@30.29.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@30.3.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@30.3.1?classifier=sources
+- pkg:maven/com.yandex.div/assertion@30.30.0?classifier=sources
+- pkg:maven/com.yandex.div/assertion@30.31.0?classifier=sources
+- pkg:maven/com.yandex.div/assertion@30.32.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@30.4.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@30.5.0?classifier=sources
 - pkg:maven/com.yandex.div/assertion@30.6.0?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/io.toolisticon.aptk/aptk-compilermessages-api@0.27.0?classifier=sources
 - pkg:maven/io.toolisticon.aptk/aptk-compilermessages-api@0.28.0
 - pkg:maven/io.toolisticon.aptk/aptk-compilermessages-api@0.28.0?classifier=sources
+- pkg:maven/io.toolisticon.aptk/aptk-compilermessages-api@0.29.0
+- pkg:maven/io.toolisticon.aptk/aptk-compilermessages-api@0.29.0?classifier=sources

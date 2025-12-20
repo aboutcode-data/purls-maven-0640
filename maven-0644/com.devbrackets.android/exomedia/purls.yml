@@ -1,3 +1,4 @@
 - pkg:maven/com.devbrackets.android/exomedia@5.0.0-beta01?classifier=sources
 - pkg:maven/com.devbrackets.android/exomedia@5.0.0?classifier=sources
 - pkg:maven/com.devbrackets.android/exomedia@5.1.0?classifier=sources
+- pkg:maven/com.devbrackets.android/exomedia@5.2.0?classifier=sources

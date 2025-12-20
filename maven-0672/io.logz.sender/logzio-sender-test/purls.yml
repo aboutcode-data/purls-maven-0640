@@ -62,6 +62,8 @@
 - pkg:maven/io.logz.sender/logzio-sender-test@2.0.1?classifier=sources
 - pkg:maven/io.logz.sender/logzio-sender-test@2.1.0
 - pkg:maven/io.logz.sender/logzio-sender-test@2.1.0?classifier=sources
+- pkg:maven/io.logz.sender/logzio-sender-test@2.2.0
+- pkg:maven/io.logz.sender/logzio-sender-test@2.2.0?classifier=sources
 - pkg:maven/io.logz.sender/logzio-sender-test@V1.1.1
 - pkg:maven/io.logz.sender/logzio-sender-test@V1.1.1?classifier=sources
 - pkg:maven/io.logz.sender/logzio-sender-test@V1.1.2

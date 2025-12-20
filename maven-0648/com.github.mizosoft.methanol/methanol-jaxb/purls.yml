@@ -5,3 +5,4 @@
 - pkg:maven/com.github.mizosoft.methanol/methanol-jaxb@1.5.0?classifier=sources
 - pkg:maven/com.github.mizosoft.methanol/methanol-jaxb@1.6.0?classifier=sources
 - pkg:maven/com.github.mizosoft.methanol/methanol-jaxb@1.7.0?classifier=sources
+- pkg:maven/com.github.mizosoft.methanol/methanol-jaxb@1.8.0?classifier=sources

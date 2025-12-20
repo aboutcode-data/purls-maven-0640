@@ -4,3 +4,7 @@
 - pkg:maven/immo.performance/pg-event-store-postgres_2.13@0.0.2?classifier=sources
 - pkg:maven/immo.performance/pg-event-store-postgres_2.13@0.0.3
 - pkg:maven/immo.performance/pg-event-store-postgres_2.13@0.0.3?classifier=sources
+- pkg:maven/immo.performance/pg-event-store-postgres_2.13@0.0.4
+- pkg:maven/immo.performance/pg-event-store-postgres_2.13@0.0.4?classifier=sources
+- pkg:maven/immo.performance/pg-event-store-postgres_2.13@0.0.5
+- pkg:maven/immo.performance/pg-event-store-postgres_2.13@0.0.5?classifier=sources

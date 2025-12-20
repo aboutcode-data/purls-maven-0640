@@ -56,6 +56,10 @@
 - pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.21?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.22
 - pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.22?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.23
+- pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.23?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.24
+- pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.24?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.2?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.3
 - pkg:maven/com.aliyun.openservices/aliyun-log-producer@0.3.3?classifier=sources

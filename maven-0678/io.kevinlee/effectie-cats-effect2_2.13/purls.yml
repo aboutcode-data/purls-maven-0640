@@ -1,3 +1,4 @@
+- pkg:maven/io.kevinlee/effectie-cats-effect2_2.13@2.0.0
 - pkg:maven/io.kevinlee/effectie-cats-effect2_2.13@2.0.0-beta10
 - pkg:maven/io.kevinlee/effectie-cats-effect2_2.13@2.0.0-beta10?classifier=sources
 - pkg:maven/io.kevinlee/effectie-cats-effect2_2.13@2.0.0-beta11
@@ -24,3 +25,4 @@
 - pkg:maven/io.kevinlee/effectie-cats-effect2_2.13@2.0.0-beta8?classifier=sources
 - pkg:maven/io.kevinlee/effectie-cats-effect2_2.13@2.0.0-beta9
 - pkg:maven/io.kevinlee/effectie-cats-effect2_2.13@2.0.0-beta9?classifier=sources
+- pkg:maven/io.kevinlee/effectie-cats-effect2_2.13@2.0.0?classifier=sources

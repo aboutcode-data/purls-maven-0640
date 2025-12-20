@@ -494,6 +494,10 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-350?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-351?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-352?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-353?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-354?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-355?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-356?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-35?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-36-1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.12.0-38?classifier=sources

@@ -228,3 +228,7 @@
 - pkg:maven/io.trino/trino-product-tests-launcher@465?classifier=sources
 - pkg:maven/io.trino/trino-product-tests-launcher@466
 - pkg:maven/io.trino/trino-product-tests-launcher@466?classifier=sources
+- pkg:maven/io.trino/trino-product-tests-launcher@467
+- pkg:maven/io.trino/trino-product-tests-launcher@467?classifier=sources
+- pkg:maven/io.trino/trino-product-tests-launcher@468
+- pkg:maven/io.trino/trino-product-tests-launcher@468?classifier=sources

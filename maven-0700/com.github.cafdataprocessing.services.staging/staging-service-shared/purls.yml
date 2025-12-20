@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafdataprocessing.services.staging/staging-service-shared@3.3.0-1231
+- pkg:maven/com.github.cafdataprocessing.services.staging/staging-service-shared@3.3.0-1231?classifier=sources

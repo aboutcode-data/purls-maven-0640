@@ -1,2 +1,4 @@
 - pkg:maven/redis.clients.authentication/redis-authx-entraid@0.1.0
 - pkg:maven/redis.clients.authentication/redis-authx-entraid@0.1.0?classifier=sources
+- pkg:maven/redis.clients.authentication/redis-authx-entraid@0.1.1-beta1
+- pkg:maven/redis.clients.authentication/redis-authx-entraid@0.1.1-beta1?classifier=sources

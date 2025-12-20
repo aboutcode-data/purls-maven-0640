@@ -42,3 +42,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@7.4.4
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@7.4.5
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@7.6.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@7.6.1

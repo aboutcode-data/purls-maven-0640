@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.tck.coreprofile/core-profile-tck-impl@11.0.0
+- pkg:maven/jakarta.tck.coreprofile/core-profile-tck-impl@11.0.0?classifier=sources

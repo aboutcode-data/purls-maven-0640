@@ -5,3 +5,6 @@
 - pkg:maven/com.noumenadigital.platform/language-tests@2024.2.3
 - pkg:maven/com.noumenadigital.platform/language-tests@2024.2.4
 - pkg:maven/com.noumenadigital.platform/language-tests@2024.2.5
+- pkg:maven/com.noumenadigital.platform/language-tests@2024.2.6
+- pkg:maven/com.noumenadigital.platform/language-tests@2024.2.7
+- pkg:maven/com.noumenadigital.platform/language-tests@2024.2.8
