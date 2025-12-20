@@ -13,7 +13,11 @@
 - pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.16
 - pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.16?classifier=sources
 - pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.17
+- pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.17-springboot3
+- pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.17-springboot3?classifier=sources
 - pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.17?classifier=sources
+- pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.19
+- pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.19?classifier=sources
 - pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.8
 - pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.8?classifier=sources
 - pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.9

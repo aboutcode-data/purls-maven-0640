@@ -52,3 +52,4 @@
 - pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.61
 - pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.61?classifier=sources
 - pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.61?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.lcs.client.web@1.0.62?classifier=sources

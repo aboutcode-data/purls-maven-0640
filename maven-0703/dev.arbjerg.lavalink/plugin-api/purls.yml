@@ -17,3 +17,4 @@
 - pkg:maven/dev.arbjerg.lavalink/plugin-api@4.0.1?classifier=sources
 - pkg:maven/dev.arbjerg.lavalink/plugin-api@4.0.2?classifier=sources
 - pkg:maven/dev.arbjerg.lavalink/plugin-api@4.0.3?classifier=sources
+- pkg:maven/dev.arbjerg.lavalink/plugin-api@4.0.4?classifier=sources

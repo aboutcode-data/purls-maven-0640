@@ -261,6 +261,8 @@
 - pkg:maven/org.owasp/dependency-check-maven@9.0.0
 - pkg:maven/org.owasp/dependency-check-maven@9.0.0?classifier=sources
 - pkg:maven/org.owasp/dependency-check-maven@9.0.1
+- pkg:maven/org.owasp/dependency-check-maven@9.0.10
+- pkg:maven/org.owasp/dependency-check-maven@9.0.10?classifier=sources
 - pkg:maven/org.owasp/dependency-check-maven@9.0.1?classifier=sources
 - pkg:maven/org.owasp/dependency-check-maven@9.0.2
 - pkg:maven/org.owasp/dependency-check-maven@9.0.2?classifier=sources
@@ -278,3 +280,5 @@
 - pkg:maven/org.owasp/dependency-check-maven@9.0.8?classifier=sources
 - pkg:maven/org.owasp/dependency-check-maven@9.0.9
 - pkg:maven/org.owasp/dependency-check-maven@9.0.9?classifier=sources
+- pkg:maven/org.owasp/dependency-check-maven@9.1.0
+- pkg:maven/org.owasp/dependency-check-maven@9.1.0?classifier=sources

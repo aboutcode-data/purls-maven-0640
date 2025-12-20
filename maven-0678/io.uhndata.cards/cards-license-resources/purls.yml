@@ -1,0 +1,2 @@
+- pkg:maven/io.uhndata.cards/cards-license-resources@1
+- pkg:maven/io.uhndata.cards/cards-license-resources@1?classifier=sources

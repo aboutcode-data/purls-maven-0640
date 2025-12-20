@@ -26,6 +26,8 @@
 - pkg:maven/com.artipie/gem-adapter@0.6?classifier=sources
 - pkg:maven/com.artipie/gem-adapter@v0.30.13
 - pkg:maven/com.artipie/gem-adapter@v0.30.13?classifier=sources
+- pkg:maven/com.artipie/gem-adapter@v0.30.14
+- pkg:maven/com.artipie/gem-adapter@v0.30.14?classifier=sources
 - pkg:maven/com.artipie/gem-adapter@v1.0
 - pkg:maven/com.artipie/gem-adapter@v1.0?classifier=sources
 - pkg:maven/com.artipie/gem-adapter@v1.1

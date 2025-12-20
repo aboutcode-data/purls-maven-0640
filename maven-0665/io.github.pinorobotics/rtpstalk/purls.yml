@@ -4,3 +4,4 @@
 - pkg:maven/io.github.pinorobotics/rtpstalk@4.0?classifier=sources
 - pkg:maven/io.github.pinorobotics/rtpstalk@5.0?classifier=sources
 - pkg:maven/io.github.pinorobotics/rtpstalk@6.0?classifier=sources
+- pkg:maven/io.github.pinorobotics/rtpstalk@7.0?classifier=sources

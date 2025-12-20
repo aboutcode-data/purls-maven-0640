@@ -1,0 +1,3 @@
+- pkg:maven/io.github.qubitpi.athena/athena-metastore-graphql@1.0.5?classifier=sources
+- pkg:maven/io.github.qubitpi.athena/athena-metastore-graphql@1.0.6?classifier=sources
+- pkg:maven/io.github.qubitpi.athena/athena-metastore-graphql@1.0.7?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/org.apache.hive/hive@4.0.0-alpha-1?classifier=source-release&type=zip
 - pkg:maven/org.apache.hive/hive@4.0.0-alpha-2?classifier=source-release&type=zip
 - pkg:maven/org.apache.hive/hive@4.0.0-beta-1?classifier=source-release&type=zip
+- pkg:maven/org.apache.hive/hive@4.0.0?classifier=source-release&type=zip

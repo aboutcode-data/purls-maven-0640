@@ -179,4 +179,8 @@
 - pkg:maven/com.github.j5ik2o/uri-scala_2.13@1.0.90?classifier=sources
 - pkg:maven/com.github.j5ik2o/uri-scala_2.13@1.0.91
 - pkg:maven/com.github.j5ik2o/uri-scala_2.13@1.0.91?classifier=sources
+- pkg:maven/com.github.j5ik2o/uri-scala_2.13@1.0.92
+- pkg:maven/com.github.j5ik2o/uri-scala_2.13@1.0.92?classifier=sources
+- pkg:maven/com.github.j5ik2o/uri-scala_2.13@1.0.93
+- pkg:maven/com.github.j5ik2o/uri-scala_2.13@1.0.93?classifier=sources
 - pkg:maven/com.github.j5ik2o/uri-scala_2.13@1.0.9?classifier=sources

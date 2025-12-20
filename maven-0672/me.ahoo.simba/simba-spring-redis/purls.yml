@@ -19,3 +19,4 @@
 - pkg:maven/me.ahoo.simba/simba-spring-redis@2.2.0?classifier=sources
 - pkg:maven/me.ahoo.simba/simba-spring-redis@2.2.2?classifier=sources
 - pkg:maven/me.ahoo.simba/simba-spring-redis@2.2.4?classifier=sources
+- pkg:maven/me.ahoo.simba/simba-spring-redis@2.2.5?classifier=sources

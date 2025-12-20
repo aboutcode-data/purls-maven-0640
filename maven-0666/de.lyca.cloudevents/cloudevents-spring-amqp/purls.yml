@@ -1,1 +1,2 @@
 - pkg:maven/de.lyca.cloudevents/cloudevents-spring-amqp@1.0.0?classifier=sources
+- pkg:maven/de.lyca.cloudevents/cloudevents-spring-amqp@1.1.0?classifier=sources

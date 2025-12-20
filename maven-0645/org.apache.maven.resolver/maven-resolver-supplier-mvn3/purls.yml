@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.maven.resolver/maven-resolver-supplier-mvn3@2.0.0-alpha-10
+- pkg:maven/org.apache.maven.resolver/maven-resolver-supplier-mvn3@2.0.0-alpha-10?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.graceframework.plugins/gsp@2022.1.0?classifier=sources
 - pkg:maven/org.graceframework.plugins/gsp@2022.1.1?classifier=sources
 - pkg:maven/org.graceframework.plugins/gsp@2022.1.2?classifier=sources
+- pkg:maven/org.graceframework.plugins/gsp@2022.1.3?classifier=sources
+- pkg:maven/org.graceframework.plugins/gsp@2022.1.4?classifier=sources

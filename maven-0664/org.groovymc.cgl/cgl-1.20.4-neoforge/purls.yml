@@ -1,0 +1,2 @@
+- pkg:maven/org.groovymc.cgl/cgl-1.20.4-neoforge@0.4.0?classifier=sources
+- pkg:maven/org.groovymc.cgl/cgl-1.20.4-neoforge@0.4.1?classifier=sources

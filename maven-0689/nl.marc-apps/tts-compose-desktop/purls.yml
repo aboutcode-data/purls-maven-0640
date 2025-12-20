@@ -10,3 +10,4 @@
 - pkg:maven/nl.marc-apps/tts-compose-desktop@2.4.0-wasm0?classifier=sources
 - pkg:maven/nl.marc-apps/tts-compose-desktop@2.4.0?classifier=sources
 - pkg:maven/nl.marc-apps/tts-compose-desktop@2.5.0?classifier=sources
+- pkg:maven/nl.marc-apps/tts-compose-desktop@2.6.0?classifier=sources

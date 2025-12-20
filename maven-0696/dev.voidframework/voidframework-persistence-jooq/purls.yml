@@ -8,6 +8,8 @@
 - pkg:maven/dev.voidframework/voidframework-persistence-jooq@1.11.2?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-persistence-jooq@1.12.0
 - pkg:maven/dev.voidframework/voidframework-persistence-jooq@1.12.0?classifier=sources
+- pkg:maven/dev.voidframework/voidframework-persistence-jooq@1.13.0
+- pkg:maven/dev.voidframework/voidframework-persistence-jooq@1.13.0?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-persistence-jooq@1.4.0
 - pkg:maven/dev.voidframework/voidframework-persistence-jooq@1.4.0?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-persistence-jooq@1.5.0

@@ -1,2 +1,5 @@
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-weaviate-spring-boot-starter@0.10.0?classifier=sources
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-weaviate-spring-boot-starter@0.7.0?classifier=sources
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-weaviate-spring-boot-starter@0.8.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-weaviate-spring-boot-starter@0.9.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-weaviate-spring-boot-starter@0.9.1?classifier=sources

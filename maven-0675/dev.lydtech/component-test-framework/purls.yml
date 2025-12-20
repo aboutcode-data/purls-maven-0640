@@ -46,6 +46,10 @@
 - pkg:maven/dev.lydtech/component-test-framework@2.11.2?classifier=sources
 - pkg:maven/dev.lydtech/component-test-framework@2.11.3
 - pkg:maven/dev.lydtech/component-test-framework@2.11.3?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@2.12.0
+- pkg:maven/dev.lydtech/component-test-framework@2.12.0?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@2.13.0
+- pkg:maven/dev.lydtech/component-test-framework@2.13.0?classifier=sources
 - pkg:maven/dev.lydtech/component-test-framework@2.2.0
 - pkg:maven/dev.lydtech/component-test-framework@2.2.0?classifier=sources
 - pkg:maven/dev.lydtech/component-test-framework@2.2.1

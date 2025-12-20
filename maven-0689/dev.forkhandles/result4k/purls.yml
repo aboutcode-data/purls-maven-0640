@@ -60,6 +60,10 @@
 - pkg:maven/dev.forkhandles/result4k@2.12.4.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k@2.13.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k@2.13.1.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k@2.14.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k@2.15.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k@2.15.0.1?classifier=sources
+- pkg:maven/dev.forkhandles/result4k@2.15.1.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k@2.2.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k@2.3.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k@2.4.0.0?classifier=sources

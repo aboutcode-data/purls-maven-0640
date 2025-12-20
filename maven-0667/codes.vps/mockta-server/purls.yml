@@ -4,3 +4,5 @@
 - pkg:maven/codes.vps/mockta-server@0.2?type=war
 - pkg:maven/codes.vps/mockta-server@0.3?classifier=sources
 - pkg:maven/codes.vps/mockta-server@0.3?type=war
+- pkg:maven/codes.vps/mockta-server@0.4?classifier=sources
+- pkg:maven/codes.vps/mockta-server@0.4?type=war

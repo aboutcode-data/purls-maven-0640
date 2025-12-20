@@ -4,3 +4,5 @@
 - pkg:maven/com.swiftmq/swiftmq-client-jakarta@12.5.3?type=zip
 - pkg:maven/com.swiftmq/swiftmq-client-jakarta@12.5.4?classifier=sources
 - pkg:maven/com.swiftmq/swiftmq-client-jakarta@12.5.4?type=zip
+- pkg:maven/com.swiftmq/swiftmq-client-jakarta@13.0.0?classifier=sources
+- pkg:maven/com.swiftmq/swiftmq-client-jakarta@13.0.0?type=zip

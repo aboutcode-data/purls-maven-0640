@@ -50,3 +50,13 @@
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.2?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.3
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.3?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.4
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.4-PREVIEW.updatenonaws.2024-03-14T1009.cee3e815
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.4-PREVIEW.updatenonaws.2024-03-14T1009.cee3e815?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.4?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.5
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.5?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.6
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.6?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.7
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.7?classifier=sources

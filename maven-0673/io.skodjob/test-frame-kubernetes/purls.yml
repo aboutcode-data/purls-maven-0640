@@ -1,0 +1,2 @@
+- pkg:maven/io.skodjob/test-frame-kubernetes@0.1.0-alpha2?classifier=sources
+- pkg:maven/io.skodjob/test-frame-kubernetes@0.1.0-alpha?classifier=sources

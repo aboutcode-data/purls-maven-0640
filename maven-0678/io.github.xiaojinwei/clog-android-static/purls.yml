@@ -1,2 +1,3 @@
 - pkg:maven/io.github.xiaojinwei/clog-android-static@0.0.1-alpha01?classifier=sources
 - pkg:maven/io.github.xiaojinwei/clog-android-static@0.0.1-alpha02?classifier=sources
+- pkg:maven/io.github.xiaojinwei/clog-android-static@0.0.1-alpha03?classifier=sources

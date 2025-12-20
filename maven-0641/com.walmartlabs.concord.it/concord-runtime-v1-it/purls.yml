@@ -83,6 +83,10 @@
 - pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.0.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.1.0
 - pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.1.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.10.0
+- pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.10.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.10.1
+- pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.10.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.2.0
 - pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.2.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.it/concord-runtime-v1-it@2.3.0

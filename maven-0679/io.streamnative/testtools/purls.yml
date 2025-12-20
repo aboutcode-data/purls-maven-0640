@@ -1,2 +1,4 @@
 - pkg:maven/io.streamnative/testtools@4.15.4.1_arrowstreet
 - pkg:maven/io.streamnative/testtools@4.15.4.1_arrowstreet?classifier=sources
+- pkg:maven/io.streamnative/testtools@4.16.4.1
+- pkg:maven/io.streamnative/testtools@4.16.4.1?classifier=sources

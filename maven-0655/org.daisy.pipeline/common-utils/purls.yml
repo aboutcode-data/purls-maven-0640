@@ -44,3 +44,5 @@
 - pkg:maven/org.daisy.pipeline/common-utils@5.7.0?classifier=sources
 - pkg:maven/org.daisy.pipeline/common-utils@5.8.0
 - pkg:maven/org.daisy.pipeline/common-utils@5.8.0?classifier=sources
+- pkg:maven/org.daisy.pipeline/common-utils@6.0.0
+- pkg:maven/org.daisy.pipeline/common-utils@6.0.0?classifier=sources

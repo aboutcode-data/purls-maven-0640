@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/path-type@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/path-type@4.0.0
 - pkg:maven/org.webjars.npm/path-type@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/path-type@5.0.0
+- pkg:maven/org.webjars.npm/path-type@5.0.0?classifier=sources

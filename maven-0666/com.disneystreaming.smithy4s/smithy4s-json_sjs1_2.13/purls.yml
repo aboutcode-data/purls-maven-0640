@@ -215,10 +215,14 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-33-6623124?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-35-a398dd9
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-35-a398dd9?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-4-26ba263
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-4-26ba263?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-42-4b7a8b1
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-42-4b7a8b1?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-44-9a20844
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-44-9a20844?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-5-3616665
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-5-3616665?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-528-d32916a
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-528-d32916a?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.0-595-e8a6dc6
@@ -283,6 +287,12 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.1
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.10
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.10?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.11
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.11?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.12
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.12?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.13
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.13?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.1?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.2
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-json_sjs1_2.13@0.18.2?classifier=sources

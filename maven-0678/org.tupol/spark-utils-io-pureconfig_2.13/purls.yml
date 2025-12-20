@@ -1,0 +1,2 @@
+- pkg:maven/org.tupol/spark-utils-io-pureconfig_2.13@1.0.0-RC6
+- pkg:maven/org.tupol/spark-utils-io-pureconfig_2.13@1.0.0-RC6?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.22?classifier=sources
 - pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.23
 - pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.23?classifier=sources
+- pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.24
+- pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.24?classifier=sources
+- pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.25
+- pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.25?classifier=sources

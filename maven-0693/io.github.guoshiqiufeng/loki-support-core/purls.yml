@@ -11,3 +11,6 @@
 - pkg:maven/io.github.guoshiqiufeng/loki-support-core@1.0.0-M1?classifier=sources
 - pkg:maven/io.github.guoshiqiufeng/loki-support-core@1.0.0-M2?classifier=sources
 - pkg:maven/io.github.guoshiqiufeng/loki-support-core@1.0.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng/loki-support-core@1.0.1?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng/loki-support-core@1.1.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng/loki-support-core@1.1.1?classifier=sources

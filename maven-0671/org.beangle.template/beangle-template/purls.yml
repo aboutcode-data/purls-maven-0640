@@ -1,0 +1,6 @@
+- pkg:maven/org.beangle.template/beangle-template@0.1.12
+- pkg:maven/org.beangle.template/beangle-template@0.1.12?classifier=sources
+- pkg:maven/org.beangle.template/beangle-template@0.1.13
+- pkg:maven/org.beangle.template/beangle-template@0.1.13?classifier=sources
+- pkg:maven/org.beangle.template/beangle-template@0.1.14
+- pkg:maven/org.beangle.template/beangle-template@0.1.14?classifier=sources

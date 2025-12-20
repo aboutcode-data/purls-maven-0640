@@ -80,6 +80,8 @@
 - pkg:maven/com.google.cloud/google-cloud-datastream@1.34.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datastream@1.35.0
 - pkg:maven/com.google.cloud/google-cloud-datastream@1.35.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datastream@1.36.0
+- pkg:maven/com.google.cloud/google-cloud-datastream@1.36.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datastream@1.4.0
 - pkg:maven/com.google.cloud/google-cloud-datastream@1.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datastream@1.5.0

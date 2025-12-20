@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.connector/connectors-e2e-test-aws-sns@8.5.0
+- pkg:maven/io.camunda.connector/connectors-e2e-test-aws-sns@8.5.0-alpha2

@@ -34,3 +34,8 @@
 - pkg:maven/me.proton.core/account-recovery-dagger@19.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-recovery-dagger@20.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-recovery-dagger@21.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-dagger@21.1.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-dagger@21.2.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-dagger@21.2.1?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-dagger@22.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-recovery-dagger@22.1.0?classifier=sources

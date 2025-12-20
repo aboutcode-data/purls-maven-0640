@@ -48,3 +48,5 @@
 - pkg:maven/com.viafoura/android@0.0.7?classifier=sources
 - pkg:maven/com.viafoura/android@0.0.8?classifier=sources
 - pkg:maven/com.viafoura/android@0.0.9?classifier=sources
+- pkg:maven/com.viafoura/android@1.0.0?classifier=sources
+- pkg:maven/com.viafoura/android@1.0.1?classifier=sources

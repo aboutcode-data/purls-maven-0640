@@ -7,6 +7,9 @@
 - pkg:maven/com.telefonica/mistica@11.1.0?classifier=sources
 - pkg:maven/com.telefonica/mistica@11.1.1?classifier=sources
 - pkg:maven/com.telefonica/mistica@11.2.0?classifier=sources
+- pkg:maven/com.telefonica/mistica@11.2.1?classifier=sources
+- pkg:maven/com.telefonica/mistica@11.2.2?classifier=sources
+- pkg:maven/com.telefonica/mistica@11.3.2?classifier=sources
 - pkg:maven/com.telefonica/mistica@2.0.3?classifier=sources
 - pkg:maven/com.telefonica/mistica@2.0.4?classifier=sources
 - pkg:maven/com.telefonica/mistica@2.1.0?classifier=sources

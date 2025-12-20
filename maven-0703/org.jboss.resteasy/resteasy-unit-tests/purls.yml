@@ -40,3 +40,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.5.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.6.Final
 - pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.7.Final
+- pkg:maven/org.jboss.resteasy/resteasy-unit-tests@6.2.8.Final
+- pkg:maven/org.jboss.resteasy/resteasy-unit-tests@7.0.0.Alpha1

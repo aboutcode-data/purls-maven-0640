@@ -28,5 +28,9 @@
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@1.6.1?classifier=sources
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@1.7.0
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@1.7.0?classifier=sources
+- pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@1.8.0
+- pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@1.8.0?classifier=sources
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@2.0.0
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@2.0.0?classifier=sources
+- pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@2.1.0
+- pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@2.1.0?classifier=sources

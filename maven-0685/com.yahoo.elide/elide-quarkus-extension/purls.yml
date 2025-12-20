@@ -1,0 +1,2 @@
+- pkg:maven/com.yahoo.elide/elide-quarkus-extension@7.0.3
+- pkg:maven/com.yahoo.elide/elide-quarkus-extension@7.0.3?classifier=sources

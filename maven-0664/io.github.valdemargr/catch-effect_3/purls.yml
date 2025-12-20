@@ -13,4 +13,10 @@
 - pkg:maven/io.github.valdemargr/catch-effect_3@0.1.0-5-6d32329?classifier=sources
 - pkg:maven/io.github.valdemargr/catch-effect_3@0.1.0-7-7b790b7
 - pkg:maven/io.github.valdemargr/catch-effect_3@0.1.0-7-7b790b7?classifier=sources
+- pkg:maven/io.github.valdemargr/catch-effect_3@0.1.0-8-51076a6
+- pkg:maven/io.github.valdemargr/catch-effect_3@0.1.0-8-51076a6?classifier=sources
 - pkg:maven/io.github.valdemargr/catch-effect_3@0.1.0?classifier=sources
+- pkg:maven/io.github.valdemargr/catch-effect_3@0.1.1
+- pkg:maven/io.github.valdemargr/catch-effect_3@0.1.1-1-7900994
+- pkg:maven/io.github.valdemargr/catch-effect_3@0.1.1-1-7900994?classifier=sources
+- pkg:maven/io.github.valdemargr/catch-effect_3@0.1.1?classifier=sources

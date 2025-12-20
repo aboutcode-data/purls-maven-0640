@@ -4,6 +4,8 @@
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.10
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.100
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.100?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log@0.6.101
+- pkg:maven/com.aliyun.openservices/aliyun-log@0.6.101?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.10?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.11
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.11?classifier=sources

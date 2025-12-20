@@ -13,3 +13,6 @@
 - pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.6-gamma-18?classifier=sources
 - pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.6-gamma-19?classifier=sources
 - pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.6-gamma-20?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.7-beta-1?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.7-beta-2?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.7-beta-3?classifier=sources

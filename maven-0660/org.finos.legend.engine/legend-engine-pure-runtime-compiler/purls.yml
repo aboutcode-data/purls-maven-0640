@@ -254,6 +254,10 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.4.8?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.40.0
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.40.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.40.3
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.40.3?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.41.0
+- pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.41.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.5.0
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.5.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-compiler@4.6.0

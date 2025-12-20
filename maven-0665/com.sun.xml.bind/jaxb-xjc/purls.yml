@@ -277,3 +277,5 @@
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@4.0.3?classifier=sources
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@4.0.4
 - pkg:maven/com.sun.xml.bind/jaxb-xjc@4.0.4?classifier=sources
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@4.0.5
+- pkg:maven/com.sun.xml.bind/jaxb-xjc@4.0.5?classifier=sources

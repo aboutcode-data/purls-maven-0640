@@ -1,0 +1,6 @@
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Beta5
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Beta5?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Beta5?classifier=sources
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Beta6
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Beta6?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Beta6?classifier=sources

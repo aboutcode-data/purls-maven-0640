@@ -16,3 +16,5 @@
 - pkg:maven/cn.org.opendfl/openim-java-sdk@0.6-springboot2?classifier=sources
 - pkg:maven/cn.org.opendfl/openim-java-sdk@0.6-springboot3
 - pkg:maven/cn.org.opendfl/openim-java-sdk@0.6-springboot3?classifier=sources
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.7-nospring
+- pkg:maven/cn.org.opendfl/openim-java-sdk@0.7-nospring?classifier=sources

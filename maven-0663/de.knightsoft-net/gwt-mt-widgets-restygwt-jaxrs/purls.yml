@@ -207,6 +207,8 @@
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@1.11.21?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@1.11.22
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@1.11.22?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@1.11.23
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@1.11.23?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@1.11.2?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@1.11.3
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@1.11.3?classifier=sources
@@ -348,3 +350,7 @@
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@2.0.8?classifier=sources
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@2.0.9
 - pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@2.0.9?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@2.1.0
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@2.1.0?classifier=sources
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@2.1.1
+- pkg:maven/de.knightsoft-net/gwt-mt-widgets-restygwt-jaxrs@2.1.1?classifier=sources

@@ -184,6 +184,12 @@
 - pkg:maven/com.gu/content-api-models@19.0.0-PREVIEW.agschema-org-field.2024-02-23T1023.626994ca
 - pkg:maven/com.gu/content-api-models@19.0.1
 - pkg:maven/com.gu/content-api-models@20.0.0
+- pkg:maven/com.gu/content-api-models@20.1.0
+- pkg:maven/com.gu/content-api-models@21.0.0
+- pkg:maven/com.gu/content-api-models@21.0.0-PREVIEW.agschema-org-field.2024-03-01T1602.c5a81993
+- pkg:maven/com.gu/content-api-models@21.0.0-PREVIEW.agschema-org-field.2024-03-05T1018.a555b63a
+- pkg:maven/com.gu/content-api-models@21.0.0-PREVIEW.db-rt-ebremove-metadata-provided.2024-03-07T1207.cd929deb
+- pkg:maven/com.gu/content-api-models@22.0.0
 - pkg:maven/com.gu/content-api-models@8.1.2
 - pkg:maven/com.gu/content-api-models@8.1.2?classifier=sources
 - pkg:maven/com.gu/content-api-models@8.10

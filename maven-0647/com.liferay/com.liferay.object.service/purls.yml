@@ -240,6 +240,10 @@
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.180?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.181?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.182?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.service@1.0.183?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.service@1.0.184?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.service@1.0.185?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.service@1.0.186?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.19

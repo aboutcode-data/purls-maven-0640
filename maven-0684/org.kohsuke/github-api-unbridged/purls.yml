@@ -2,3 +2,7 @@
 - pkg:maven/org.kohsuke/github-api-unbridged@1.318?classifier=sources
 - pkg:maven/org.kohsuke/github-api-unbridged@1.319
 - pkg:maven/org.kohsuke/github-api-unbridged@1.319?classifier=sources
+- pkg:maven/org.kohsuke/github-api-unbridged@1.320
+- pkg:maven/org.kohsuke/github-api-unbridged@1.320?classifier=sources
+- pkg:maven/org.kohsuke/github-api-unbridged@1.321
+- pkg:maven/org.kohsuke/github-api-unbridged@1.321?classifier=sources

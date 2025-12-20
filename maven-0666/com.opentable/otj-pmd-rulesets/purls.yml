@@ -22,3 +22,5 @@
 - pkg:maven/com.opentable/otj-pmd-rulesets@1.2.9?classifier=sources
 - pkg:maven/com.opentable/otj-pmd-rulesets@7.0.0
 - pkg:maven/com.opentable/otj-pmd-rulesets@7.0.0?classifier=sources
+- pkg:maven/com.opentable/otj-pmd-rulesets@7.0.1
+- pkg:maven/com.opentable/otj-pmd-rulesets@7.0.1?classifier=sources

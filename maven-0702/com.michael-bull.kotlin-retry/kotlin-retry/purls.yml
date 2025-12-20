@@ -3,3 +3,4 @@
 - pkg:maven/com.michael-bull.kotlin-retry/kotlin-retry@1.0.7?classifier=sources
 - pkg:maven/com.michael-bull.kotlin-retry/kotlin-retry@1.0.8?classifier=sources
 - pkg:maven/com.michael-bull.kotlin-retry/kotlin-retry@1.0.9?classifier=sources
+- pkg:maven/com.michael-bull.kotlin-retry/kotlin-retry@2.0.0?classifier=sources

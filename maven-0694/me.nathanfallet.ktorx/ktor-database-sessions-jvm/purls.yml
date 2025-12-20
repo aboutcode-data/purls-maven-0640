@@ -15,3 +15,4 @@
 - pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.2.2?classifier=sources
 - pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.2.3?classifier=sources
 - pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.2.4?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.3.0?classifier=sources

@@ -6,6 +6,14 @@
 - pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.10-RC3
 - pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.10-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.10?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.11
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.11-RC
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.11-RC2
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.11-RC2?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.11-RC3
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.11-RC3?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.11-RC?classifier=sources
+- pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.11?classifier=sources
 - pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.4
 - pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.4-RC7
 - pkg:maven/io.avaje/avaje-jsonb-spring-starter@1.4-RC7?classifier=sources

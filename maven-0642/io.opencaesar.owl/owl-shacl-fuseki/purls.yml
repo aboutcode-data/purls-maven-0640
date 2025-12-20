@@ -40,3 +40,5 @@
 - pkg:maven/io.opencaesar.owl/owl-shacl-fuseki@2.5.0?classifier=sources
 - pkg:maven/io.opencaesar.owl/owl-shacl-fuseki@2.6.0?classifier=sources
 - pkg:maven/io.opencaesar.owl/owl-shacl-fuseki@2.7.0?classifier=sources
+- pkg:maven/io.opencaesar.owl/owl-shacl-fuseki@2.8.0?classifier=sources
+- pkg:maven/io.opencaesar.owl/owl-shacl-fuseki@2.8.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.mobaijun/april-project-authorize@1.0.0
+- pkg:maven/com.mobaijun/april-project-authorize@1.0.0?classifier=sources
+- pkg:maven/com.mobaijun/april-project-authorize@2.0.0
+- pkg:maven/com.mobaijun/april-project-authorize@2.0.0?classifier=sources
+- pkg:maven/com.mobaijun/april-project-authorize@3.0.0
+- pkg:maven/com.mobaijun/april-project-authorize@3.0.0?classifier=sources

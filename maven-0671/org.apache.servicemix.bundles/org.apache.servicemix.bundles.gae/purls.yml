@@ -321,6 +321,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.22_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.22_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.22_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.24_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.24_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.24_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.24_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.3_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.3_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.gae@2.0.3_1?classifier=src&type=tar.gz

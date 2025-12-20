@@ -1,5 +1,7 @@
 - pkg:maven/com.artipie/asto-vertx-file@v0.30.13
 - pkg:maven/com.artipie/asto-vertx-file@v0.30.13?classifier=sources
+- pkg:maven/com.artipie/asto-vertx-file@v0.30.14
+- pkg:maven/com.artipie/asto-vertx-file@v0.30.14?classifier=sources
 - pkg:maven/com.artipie/asto-vertx-file@v1.14.0
 - pkg:maven/com.artipie/asto-vertx-file@v1.14.0?classifier=sources
 - pkg:maven/com.artipie/asto-vertx-file@v1.14.1

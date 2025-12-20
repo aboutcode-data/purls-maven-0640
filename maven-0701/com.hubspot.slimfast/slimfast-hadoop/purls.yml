@@ -20,6 +20,8 @@
 - pkg:maven/com.hubspot.slimfast/slimfast-hadoop@0.20?classifier=sources
 - pkg:maven/com.hubspot.slimfast/slimfast-hadoop@0.21
 - pkg:maven/com.hubspot.slimfast/slimfast-hadoop@0.21?classifier=sources
+- pkg:maven/com.hubspot.slimfast/slimfast-hadoop@0.22
+- pkg:maven/com.hubspot.slimfast/slimfast-hadoop@0.22?classifier=sources
 - pkg:maven/com.hubspot.slimfast/slimfast-hadoop@0.8
 - pkg:maven/com.hubspot.slimfast/slimfast-hadoop@0.8?classifier=sources
 - pkg:maven/com.hubspot.slimfast/slimfast-hadoop@0.9

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/spring-webflux-6.x-webclient-plugin@9.2.0
+- pkg:maven/org.apache.skywalking/spring-webflux-6.x-webclient-plugin@9.2.0?classifier=sources
