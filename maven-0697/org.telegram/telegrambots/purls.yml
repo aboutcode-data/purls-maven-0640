@@ -128,3 +128,5 @@
 - pkg:maven/org.telegram/telegrambots@6.9.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots@6.9.7.0
 - pkg:maven/org.telegram/telegrambots@6.9.7.0?classifier=sources
+- pkg:maven/org.telegram/telegrambots@6.9.7.1
+- pkg:maven/org.telegram/telegrambots@6.9.7.1?classifier=sources

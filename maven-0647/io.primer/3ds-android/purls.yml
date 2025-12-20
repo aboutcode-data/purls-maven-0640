@@ -1,0 +1,2 @@
+- pkg:maven/io.primer/3ds-android@0.0.0?classifier=sources
+- pkg:maven/io.primer/3ds-android@1.4.2?classifier=sources

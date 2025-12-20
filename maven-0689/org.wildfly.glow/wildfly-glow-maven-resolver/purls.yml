@@ -38,3 +38,5 @@
 - pkg:maven/org.wildfly.glow/wildfly-glow-maven-resolver@1.0.0.Beta7?classifier=sources
 - pkg:maven/org.wildfly.glow/wildfly-glow-maven-resolver@1.0.0.Beta8
 - pkg:maven/org.wildfly.glow/wildfly-glow-maven-resolver@1.0.0.Beta8?classifier=sources
+- pkg:maven/org.wildfly.glow/wildfly-glow-maven-resolver@1.0.0.Beta9
+- pkg:maven/org.wildfly.glow/wildfly-glow-maven-resolver@1.0.0.Beta9?classifier=sources

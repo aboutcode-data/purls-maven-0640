@@ -1,0 +1,2 @@
+- pkg:maven/io.acryl/scim-spec-protocol@1.0.0?classifier=sources
+- pkg:maven/io.acryl/scim-spec-protocol@1.0.1?classifier=sources

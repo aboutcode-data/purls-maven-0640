@@ -56,3 +56,7 @@
 - pkg:maven/com.therealvan/appender-log4j2@4.1.0?classifier=sources
 - pkg:maven/com.therealvan/appender-log4j2@5.0.0
 - pkg:maven/com.therealvan/appender-log4j2@5.0.0?classifier=sources
+- pkg:maven/com.therealvan/appender-log4j2@5.1.0
+- pkg:maven/com.therealvan/appender-log4j2@5.1.0?classifier=sources
+- pkg:maven/com.therealvan/appender-log4j2@5.2.0
+- pkg:maven/com.therealvan/appender-log4j2@5.2.0?classifier=sources

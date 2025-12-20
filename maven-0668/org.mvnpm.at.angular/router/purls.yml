@@ -1,2 +1,5 @@
 - pkg:maven/org.mvnpm.at.angular/router@16.2.10?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/router@17.1.2?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@17.2.1?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@17.2.2?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@17.2.3?classifier=sources

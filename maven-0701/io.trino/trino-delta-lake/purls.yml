@@ -63,3 +63,4 @@
 - pkg:maven/io.trino/trino-delta-lake@436?classifier=sources
 - pkg:maven/io.trino/trino-delta-lake@437?classifier=sources
 - pkg:maven/io.trino/trino-delta-lake@438?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@439?classifier=sources

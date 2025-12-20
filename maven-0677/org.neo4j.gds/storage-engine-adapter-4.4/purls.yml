@@ -91,3 +91,4 @@
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-4.4@2.6.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-4.4@2.6.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.gds/storage-engine-adapter-4.4@2.6.0?classifier=sources
+- pkg:maven/org.neo4j.gds/storage-engine-adapter-4.4@2.6.1?classifier=sources

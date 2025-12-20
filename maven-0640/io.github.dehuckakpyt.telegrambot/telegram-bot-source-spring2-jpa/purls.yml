@@ -4,3 +4,4 @@
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-spring2-jpa@0.7.4?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-spring2-jpa@0.7.5?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-spring2-jpa@0.7.7?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-source-spring2-jpa@0.7.8?classifier=sources

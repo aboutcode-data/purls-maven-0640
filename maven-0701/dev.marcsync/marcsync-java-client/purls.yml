@@ -1,1 +1,2 @@
 - pkg:maven/dev.marcsync/marcsync-java-client@0.1.0?classifier=sources
+- pkg:maven/dev.marcsync/marcsync-java-client@1.0.0?classifier=sources

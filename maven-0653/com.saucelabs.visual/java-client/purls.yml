@@ -89,8 +89,14 @@
 - pkg:maven/com.saucelabs.visual/java-client@0.3.259?classifier=sources
 - pkg:maven/com.saucelabs.visual/java-client@0.3.265
 - pkg:maven/com.saucelabs.visual/java-client@0.3.265?classifier=sources
+- pkg:maven/com.saucelabs.visual/java-client@0.3.287
+- pkg:maven/com.saucelabs.visual/java-client@0.3.287?classifier=sources
+- pkg:maven/com.saucelabs.visual/java-client@0.3.293
+- pkg:maven/com.saucelabs.visual/java-client@0.3.293?classifier=sources
 - pkg:maven/com.saucelabs.visual/java-client@0.3.2?classifier=sources
 - pkg:maven/com.saucelabs.visual/java-client@0.3.3
+- pkg:maven/com.saucelabs.visual/java-client@0.3.313
+- pkg:maven/com.saucelabs.visual/java-client@0.3.313?classifier=sources
 - pkg:maven/com.saucelabs.visual/java-client@0.3.37
 - pkg:maven/com.saucelabs.visual/java-client@0.3.37?classifier=sources
 - pkg:maven/com.saucelabs.visual/java-client@0.3.3?classifier=sources

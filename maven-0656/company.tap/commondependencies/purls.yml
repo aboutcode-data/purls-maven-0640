@@ -443,6 +443,12 @@
 - pkg:maven/company.tap/commondependencies@1.0.302?classifier=sources
 - pkg:maven/company.tap/commondependencies@1.0.303
 - pkg:maven/company.tap/commondependencies@1.0.303?classifier=sources
+- pkg:maven/company.tap/commondependencies@1.0.304
+- pkg:maven/company.tap/commondependencies@1.0.304?classifier=sources
+- pkg:maven/company.tap/commondependencies@1.0.305
+- pkg:maven/company.tap/commondependencies@1.0.305?classifier=sources
+- pkg:maven/company.tap/commondependencies@1.0.306
+- pkg:maven/company.tap/commondependencies@1.0.306?classifier=sources
 - pkg:maven/company.tap/commondependencies@1.0.30?classifier=sources
 - pkg:maven/company.tap/commondependencies@1.0.31
 - pkg:maven/company.tap/commondependencies@1.0.31?classifier=sources

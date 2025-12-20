@@ -72,3 +72,5 @@
 - pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@4.2.2?classifier=sources
 - pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@4.2.3
 - pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@4.2.3?classifier=sources
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@4.3.0
+- pkg:maven/com.composum.nodes.setup/composum-nodes-package-setup-hook@4.3.0?classifier=sources

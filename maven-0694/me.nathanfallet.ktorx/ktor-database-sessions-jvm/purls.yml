@@ -6,3 +6,12 @@
 - pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.0.0-rc6?classifier=sources
 - pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.0.0?classifier=sources
 - pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.0.1?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.0.2?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.0.3?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.0.4?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.1.0?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.2.0?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.2.1?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.2.2?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.2.3?classifier=sources
+- pkg:maven/me.nathanfallet.ktorx/ktor-database-sessions-jvm@2.2.4?classifier=sources

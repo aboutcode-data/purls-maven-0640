@@ -34,3 +34,5 @@
 - pkg:maven/com.influxdb/influxdb-client-test@6.8.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-test@6.9.0
 - pkg:maven/com.influxdb/influxdb-client-test@6.9.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-test@7.0.0
+- pkg:maven/com.influxdb/influxdb-client-test@7.0.0?classifier=sources

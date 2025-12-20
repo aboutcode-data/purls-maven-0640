@@ -11,3 +11,4 @@
 - pkg:maven/org.virtuslab/pulumi-docker-kotlin@4.4.4.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-docker-kotlin@4.4.5.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-docker-kotlin@4.5.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-docker-kotlin@4.5.1.0?classifier=sources

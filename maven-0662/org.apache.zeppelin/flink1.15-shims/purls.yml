@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.zeppelin/flink1.15-shims@0.11.0
+- pkg:maven/org.apache.zeppelin/flink1.15-shims@0.11.0?classifier=sources

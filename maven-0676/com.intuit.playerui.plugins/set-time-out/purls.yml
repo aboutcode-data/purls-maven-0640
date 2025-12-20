@@ -1,0 +1,2 @@
+- pkg:maven/com.intuit.playerui.plugins/set-time-out@0.7.0
+- pkg:maven/com.intuit.playerui.plugins/set-time-out@0.7.0?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/app.cash.tempest/tempest-testing-jvm@1.8.0?classifier=sources
 - pkg:maven/app.cash.tempest/tempest-testing-jvm@1.9.0?classifier=sources
 - pkg:maven/app.cash.tempest/tempest-testing-jvm@2024.01.25.185541-59169c5?classifier=sources
+- pkg:maven/app.cash.tempest/tempest-testing-jvm@2024.01.31.165844-7907db0?classifier=sources

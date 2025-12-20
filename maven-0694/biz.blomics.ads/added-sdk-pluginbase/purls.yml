@@ -1,0 +1,5 @@
+- pkg:maven/biz.blomics.ads/added-sdk-pluginbase@0.1.0-alpha?classifier=sources
+- pkg:maven/biz.blomics.ads/added-sdk-pluginbase@0.2.0?classifier=sources
+- pkg:maven/biz.blomics.ads/added-sdk-pluginbase@0.2.1?classifier=sources
+- pkg:maven/biz.blomics.ads/added-sdk-pluginbase@0.3.0?classifier=sources
+- pkg:maven/biz.blomics.ads/added-sdk-pluginbase@unspecified?classifier=sources

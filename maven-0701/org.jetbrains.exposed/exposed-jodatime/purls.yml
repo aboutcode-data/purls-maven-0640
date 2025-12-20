@@ -27,3 +27,4 @@
 - pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.45.0?classifier=sources
 - pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.46.0?classifier=sources
 - pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.47.0?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed-jodatime@0.48.0?classifier=sources

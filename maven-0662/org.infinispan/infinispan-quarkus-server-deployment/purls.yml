@@ -1,3 +1,5 @@
+- pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.CR1
+- pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.CR1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev02
@@ -14,3 +16,7 @@
 - pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev07?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev08
 - pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev08?classifier=sources
+- pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev09
+- pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev09?classifier=sources
+- pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev10
+- pkg:maven/org.infinispan/infinispan-quarkus-server-deployment@15.0.0.Dev10?classifier=sources

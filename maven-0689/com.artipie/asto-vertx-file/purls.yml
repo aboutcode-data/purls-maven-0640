@@ -1,3 +1,5 @@
+- pkg:maven/com.artipie/asto-vertx-file@v0.30.13
+- pkg:maven/com.artipie/asto-vertx-file@v0.30.13?classifier=sources
 - pkg:maven/com.artipie/asto-vertx-file@v1.14.0
 - pkg:maven/com.artipie/asto-vertx-file@v1.14.0?classifier=sources
 - pkg:maven/com.artipie/asto-vertx-file@v1.14.1
@@ -16,6 +18,8 @@
 - pkg:maven/com.artipie/asto-vertx-file@v1.15.5?classifier=sources
 - pkg:maven/com.artipie/asto-vertx-file@v1.16.0
 - pkg:maven/com.artipie/asto-vertx-file@v1.16.0?classifier=sources
+- pkg:maven/com.artipie/asto-vertx-file@v1.17.10
+- pkg:maven/com.artipie/asto-vertx-file@v1.17.10?classifier=sources
 - pkg:maven/com.artipie/asto-vertx-file@v1.17.2
 - pkg:maven/com.artipie/asto-vertx-file@v1.17.2?classifier=sources
 - pkg:maven/com.artipie/asto-vertx-file@v1.17.3
@@ -26,3 +30,5 @@
 - pkg:maven/com.artipie/asto-vertx-file@v1.17.6?classifier=sources
 - pkg:maven/com.artipie/asto-vertx-file@v1.17.7
 - pkg:maven/com.artipie/asto-vertx-file@v1.17.7?classifier=sources
+- pkg:maven/com.artipie/asto-vertx-file@v1.17.9
+- pkg:maven/com.artipie/asto-vertx-file@v1.17.9?classifier=sources

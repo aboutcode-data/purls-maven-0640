@@ -12,3 +12,7 @@
 - pkg:maven/org.hotrodorm.hotrod/hotrod-torcs-ctp@4.5.2?classifier=sources
 - pkg:maven/org.hotrodorm.hotrod/hotrod-torcs-ctp@4.5.3
 - pkg:maven/org.hotrodorm.hotrod/hotrod-torcs-ctp@4.5.3?classifier=sources
+- pkg:maven/org.hotrodorm.hotrod/hotrod-torcs-ctp@4.6.0
+- pkg:maven/org.hotrodorm.hotrod/hotrod-torcs-ctp@4.6.0?classifier=sources
+- pkg:maven/org.hotrodorm.hotrod/hotrod-torcs-ctp@4.6.1
+- pkg:maven/org.hotrodorm.hotrod/hotrod-torcs-ctp@4.6.1?classifier=sources

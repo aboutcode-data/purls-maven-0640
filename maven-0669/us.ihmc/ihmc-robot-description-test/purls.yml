@@ -12,3 +12,4 @@
 - pkg:maven/us.ihmc/ihmc-robot-description-test@0.21.8?classifier=sources
 - pkg:maven/us.ihmc/ihmc-robot-description-test@0.21.9?classifier=sources
 - pkg:maven/us.ihmc/ihmc-robot-description-test@0.25.0?classifier=sources
+- pkg:maven/us.ihmc/ihmc-robot-description-test@0.25.1?classifier=sources

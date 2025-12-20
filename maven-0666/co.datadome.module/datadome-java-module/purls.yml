@@ -23,3 +23,5 @@
 - pkg:maven/co.datadome.module/datadome-java-module@1.19.0?classifier=sources
 - pkg:maven/co.datadome.module/datadome-java-module@2.0.0
 - pkg:maven/co.datadome.module/datadome-java-module@2.0.0?classifier=sources
+- pkg:maven/co.datadome.module/datadome-java-module@2.0.1
+- pkg:maven/co.datadome.module/datadome-java-module@2.0.1?classifier=sources

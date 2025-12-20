@@ -148,3 +148,17 @@
 - pkg:maven/com.aliyun/mse20190531@6.2.3?classifier=sources
 - pkg:maven/com.aliyun/mse20190531@6.2.4
 - pkg:maven/com.aliyun/mse20190531@6.2.4?classifier=sources
+- pkg:maven/com.aliyun/mse20190531@6.2.5
+- pkg:maven/com.aliyun/mse20190531@6.2.5?classifier=sources
+- pkg:maven/com.aliyun/mse20190531@6.2.6
+- pkg:maven/com.aliyun/mse20190531@6.2.6?classifier=sources
+- pkg:maven/com.aliyun/mse20190531@6.2.7
+- pkg:maven/com.aliyun/mse20190531@6.2.7?classifier=sources
+- pkg:maven/com.aliyun/mse20190531@6.3.0
+- pkg:maven/com.aliyun/mse20190531@6.3.0?classifier=sources
+- pkg:maven/com.aliyun/mse20190531@7.0.0
+- pkg:maven/com.aliyun/mse20190531@7.0.0?classifier=sources
+- pkg:maven/com.aliyun/mse20190531@7.1.0
+- pkg:maven/com.aliyun/mse20190531@7.1.0?classifier=sources
+- pkg:maven/com.aliyun/mse20190531@7.2.0
+- pkg:maven/com.aliyun/mse20190531@7.2.0?classifier=sources

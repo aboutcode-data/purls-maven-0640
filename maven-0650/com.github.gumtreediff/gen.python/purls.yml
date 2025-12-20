@@ -1,3 +1,4 @@
 - pkg:maven/com.github.gumtreediff/gen.python@2.1.2
 - pkg:maven/com.github.gumtreediff/gen.python@2.1.2?classifier=sources
 - pkg:maven/com.github.gumtreediff/gen.python@3.0.0?classifier=sources
+- pkg:maven/com.github.gumtreediff/gen.python@4.0.0-beta1?classifier=sources

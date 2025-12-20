@@ -1,0 +1,7 @@
+- pkg:maven/io.github.c-fraser/graph-guard-plugins@0.7.0?classifier=sources
+- pkg:maven/io.github.c-fraser/graph-guard-plugins@0.7.1?classifier=sources
+- pkg:maven/io.github.c-fraser/graph-guard-plugins@0.8.0?classifier=sources
+- pkg:maven/io.github.c-fraser/graph-guard-plugins@0.8.1?classifier=sources
+- pkg:maven/io.github.c-fraser/graph-guard-plugins@0.8.2?classifier=sources
+- pkg:maven/io.github.c-fraser/graph-guard-plugins@0.9.0?classifier=sources
+- pkg:maven/io.github.c-fraser/graph-guard-plugins@0.9.1?classifier=sources

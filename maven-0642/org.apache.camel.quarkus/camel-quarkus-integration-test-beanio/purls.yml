@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-beanio@2.8.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-beanio@2.9.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-beanio@2.9.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-beanio@3.8.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-beanio@3.8.0?classifier=sources

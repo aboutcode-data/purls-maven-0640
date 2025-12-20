@@ -2,3 +2,7 @@
 - pkg:maven/ru.l3r8y/oop-cop@0.1.6?classifier=sources
 - pkg:maven/ru.l3r8y/oop-cop@0.2.6
 - pkg:maven/ru.l3r8y/oop-cop@0.2.6?classifier=sources
+- pkg:maven/ru.l3r8y/oop-cop@0.2.7
+- pkg:maven/ru.l3r8y/oop-cop@0.2.7?classifier=sources
+- pkg:maven/ru.l3r8y/oop-cop@0.2.8
+- pkg:maven/ru.l3r8y/oop-cop@0.2.8?classifier=sources

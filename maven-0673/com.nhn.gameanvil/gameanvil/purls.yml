@@ -17,3 +17,7 @@
 - pkg:maven/com.nhn.gameanvil/gameanvil@1.4.1-jdk11?classifier=sources
 - pkg:maven/com.nhn.gameanvil/gameanvil@1.4.1-jdk8
 - pkg:maven/com.nhn.gameanvil/gameanvil@1.4.1-jdk8?classifier=sources
+- pkg:maven/com.nhn.gameanvil/gameanvil@1.4.2-jdk11
+- pkg:maven/com.nhn.gameanvil/gameanvil@1.4.2-jdk11?classifier=sources
+- pkg:maven/com.nhn.gameanvil/gameanvil@1.4.2-jdk8
+- pkg:maven/com.nhn.gameanvil/gameanvil@1.4.2-jdk8?classifier=sources

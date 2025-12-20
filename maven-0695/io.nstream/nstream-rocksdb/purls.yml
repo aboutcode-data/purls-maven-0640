@@ -1,1 +1,2 @@
 - pkg:maven/io.nstream/nstream-rocksdb@4.5.8?classifier=sources
+- pkg:maven/io.nstream/nstream-rocksdb@4.6.9?classifier=sources

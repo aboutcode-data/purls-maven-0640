@@ -1,0 +1,2 @@
+- pkg:maven/io.github.suitetecsa.sdk/nauta-connect@0.1.4-alpha01?classifier=sources
+- pkg:maven/io.github.suitetecsa.sdk/nauta-connect@0.1.4-alpha02?classifier=sources

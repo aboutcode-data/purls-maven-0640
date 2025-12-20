@@ -281,6 +281,8 @@
 - pkg:maven/io.stargate.auth.api/auth-api@2.0.22?classifier=sources
 - pkg:maven/io.stargate.auth.api/auth-api@2.0.23
 - pkg:maven/io.stargate.auth.api/auth-api@2.0.23?classifier=sources
+- pkg:maven/io.stargate.auth.api/auth-api@2.0.24
+- pkg:maven/io.stargate.auth.api/auth-api@2.0.24?classifier=sources
 - pkg:maven/io.stargate.auth.api/auth-api@2.0.2?classifier=sources
 - pkg:maven/io.stargate.auth.api/auth-api@2.0.3
 - pkg:maven/io.stargate.auth.api/auth-api@2.0.3?classifier=sources
@@ -334,3 +336,5 @@
 - pkg:maven/io.stargate.auth.api/auth-api@2.1.0-BETA-7?classifier=sources
 - pkg:maven/io.stargate.auth.api/auth-api@2.1.0-BETA-8
 - pkg:maven/io.stargate.auth.api/auth-api@2.1.0-BETA-8?classifier=sources
+- pkg:maven/io.stargate.auth.api/auth-api@2.1.0-BETA-9
+- pkg:maven/io.stargate.auth.api/auth-api@2.1.0-BETA-9?classifier=sources

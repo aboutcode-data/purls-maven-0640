@@ -16,3 +16,5 @@
 - pkg:maven/org.ndviet/test-libraries-webui@23.3.29?classifier=sources
 - pkg:maven/org.ndviet/test-libraries-webui@23.3.8
 - pkg:maven/org.ndviet/test-libraries-webui@23.3.8?classifier=sources
+- pkg:maven/org.ndviet/test-libraries-webui@24.02.24
+- pkg:maven/org.ndviet/test-libraries-webui@24.02.24?classifier=sources

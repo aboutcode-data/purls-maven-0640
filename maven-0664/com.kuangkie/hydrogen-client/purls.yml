@@ -3,3 +3,5 @@
 - pkg:maven/com.kuangkie/hydrogen-client@1.20.2?classifier=sources
 - pkg:maven/com.kuangkie/hydrogen-client@2.1.0?classifier=sources
 - pkg:maven/com.kuangkie/hydrogen-client@2.1.1?classifier=sources
+- pkg:maven/com.kuangkie/hydrogen-client@3.0.0?classifier=sources
+- pkg:maven/com.kuangkie/hydrogen-client@3.1.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.kalix/sbt-kalix_2.12_1.0@1.3.7?classifier=sources
 - pkg:maven/io.kalix/sbt-kalix_2.12_1.0@1.3.8
 - pkg:maven/io.kalix/sbt-kalix_2.12_1.0@1.3.8?classifier=sources
+- pkg:maven/io.kalix/sbt-kalix_2.12_1.0@1.4.0
+- pkg:maven/io.kalix/sbt-kalix_2.12_1.0@1.4.0?classifier=sources

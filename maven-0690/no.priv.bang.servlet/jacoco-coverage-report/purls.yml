@@ -16,6 +16,7 @@
 - pkg:maven/no.priv.bang.servlet/jacoco-coverage-report@1.5.8
 - pkg:maven/no.priv.bang.servlet/jacoco-coverage-report@1.6.0
 - pkg:maven/no.priv.bang.servlet/jacoco-coverage-report@1.6.1
+- pkg:maven/no.priv.bang.servlet/jacoco-coverage-report@1.6.10
 - pkg:maven/no.priv.bang.servlet/jacoco-coverage-report@1.6.2
 - pkg:maven/no.priv.bang.servlet/jacoco-coverage-report@1.6.3
 - pkg:maven/no.priv.bang.servlet/jacoco-coverage-report@1.6.4

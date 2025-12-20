@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/motionone__generators@10.12.0
+- pkg:maven/org.webjars.npm/motionone__generators@10.12.0?classifier=sources

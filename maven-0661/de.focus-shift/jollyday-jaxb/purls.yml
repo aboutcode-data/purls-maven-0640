@@ -30,6 +30,10 @@
 - pkg:maven/de.focus-shift/jollyday-jaxb@0.23.2?classifier=sources
 - pkg:maven/de.focus-shift/jollyday-jaxb@0.24.0
 - pkg:maven/de.focus-shift/jollyday-jaxb@0.24.0?classifier=sources
+- pkg:maven/de.focus-shift/jollyday-jaxb@0.25.0
+- pkg:maven/de.focus-shift/jollyday-jaxb@0.25.0?classifier=sources
+- pkg:maven/de.focus-shift/jollyday-jaxb@0.26.0
+- pkg:maven/de.focus-shift/jollyday-jaxb@0.26.0?classifier=sources
 - pkg:maven/de.focus-shift/jollyday-jaxb@0.6.0
 - pkg:maven/de.focus-shift/jollyday-jaxb@0.6.0?classifier=sources
 - pkg:maven/de.focus-shift/jollyday-jaxb@0.6.1

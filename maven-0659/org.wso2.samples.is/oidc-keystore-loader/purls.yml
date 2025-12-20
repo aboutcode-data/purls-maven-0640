@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.samples.is/oidc-keystore-loader@4.6.0
+- pkg:maven/org.wso2.samples.is/oidc-keystore-loader@4.6.0?classifier=sources

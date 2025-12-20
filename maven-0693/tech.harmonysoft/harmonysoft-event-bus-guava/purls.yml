@@ -4,6 +4,7 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.10.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.100.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.102.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.103.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.11.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.12.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.13.0?classifier=sources

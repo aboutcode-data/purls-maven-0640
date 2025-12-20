@@ -14,3 +14,7 @@
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-doc@2.3.18?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-doc@2.3.19
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-doc@2.3.19?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-doc@2.4.0
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-doc@2.4.0?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-doc@2.4.1
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-doc@2.4.1?classifier=sources

@@ -313,3 +313,6 @@
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20240117143723?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20240119133730?classifier=sources
 - pkg:maven/com.commercetools.rmf/php@1.0.0-20240123212643?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20240207130742?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20240213113606?classifier=sources
+- pkg:maven/com.commercetools.rmf/php@1.0.0-20240221102044?classifier=sources

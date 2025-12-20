@@ -123,6 +123,13 @@
 - pkg:maven/io.spinnaker.kork/kork-config@7.209.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-config@7.210.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-config@7.211.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-config@7.212.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-config@7.213.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-config@7.214.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-config@7.215.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-config@7.216.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-config@7.217.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-config@7.218.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-config@7.92.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-config@7.92.4?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-config@7.92.5?classifier=sources

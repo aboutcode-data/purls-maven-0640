@@ -179,6 +179,11 @@
 - pkg:maven/com.gu/content-api-models@18.0.1-PREVIEW.adopt-GHA-Scala-Library-Release-Workflow.2024-01-24T1605.97c5f497
 - pkg:maven/com.gu/content-api-models@18.0.1-PREVIEW.adopt-GHA-Scala-Library-Release-Workflow.2024-01-24T1623.e2d23aa4
 - pkg:maven/com.gu/content-api-models@18.1.0-PREVIEW.adopt-GHA-Scala-Library-Release-Workflow.2024-01-23T1754.6d00eca6
+- pkg:maven/com.gu/content-api-models@19.0.0
+- pkg:maven/com.gu/content-api-models@19.0.0-PREVIEW.add-list-element.2024-02-27T1153.7c9ce77e
+- pkg:maven/com.gu/content-api-models@19.0.0-PREVIEW.agschema-org-field.2024-02-23T1023.626994ca
+- pkg:maven/com.gu/content-api-models@19.0.1
+- pkg:maven/com.gu/content-api-models@20.0.0
 - pkg:maven/com.gu/content-api-models@8.1.2
 - pkg:maven/com.gu/content-api-models@8.1.2?classifier=sources
 - pkg:maven/com.gu/content-api-models@8.10

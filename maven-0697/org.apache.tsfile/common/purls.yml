@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tsfile/common@1.0.0
+- pkg:maven/org.apache.tsfile/common@1.0.0?classifier=sources

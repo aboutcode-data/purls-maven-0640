@@ -1,1 +1,2 @@
 - pkg:maven/com.sap.cloud.security.opa/binaries.windows@0.57.1-sap-0.3.5
+- pkg:maven/com.sap.cloud.security.opa/binaries.windows@0.60.0-sap-0.3.7

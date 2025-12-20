@@ -49,3 +49,5 @@
 - pkg:maven/org.json/json@20231013?classifier=sources
 - pkg:maven/org.json/json@20240205
 - pkg:maven/org.json/json@20240205?classifier=sources
+- pkg:maven/org.json/json@20240303
+- pkg:maven/org.json/json@20240303?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/com.limemojito.oss.test/test-utilities@10.0.1?classifier=sources
 - pkg:maven/com.limemojito.oss.test/test-utilities@11.0.1
 - pkg:maven/com.limemojito.oss.test/test-utilities@11.0.1?classifier=sources
+- pkg:maven/com.limemojito.oss.test/test-utilities@13.0.0
+- pkg:maven/com.limemojito.oss.test/test-utilities@13.0.0?classifier=sources
+- pkg:maven/com.limemojito.oss.test/test-utilities@13.0.4
+- pkg:maven/com.limemojito.oss.test/test-utilities@13.0.4?classifier=sources

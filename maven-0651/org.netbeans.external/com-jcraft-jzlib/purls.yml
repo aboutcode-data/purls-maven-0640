@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.external/com-jcraft-jzlib@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.external/com-jcraft-jzlib@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.external/com-jcraft-jzlib@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.external/com-jcraft-jzlib@RELEASE210?classifier=sources

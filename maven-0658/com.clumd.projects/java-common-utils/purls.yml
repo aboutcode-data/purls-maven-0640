@@ -40,3 +40,9 @@
 - pkg:maven/com.clumd.projects/java-common-utils@2.4.0?classifier=sources
 - pkg:maven/com.clumd.projects/java-common-utils@2.5.0
 - pkg:maven/com.clumd.projects/java-common-utils@2.5.0?classifier=sources
+- pkg:maven/com.clumd.projects/java-common-utils@3.0.0
+- pkg:maven/com.clumd.projects/java-common-utils@3.0.0?classifier=sources
+- pkg:maven/com.clumd.projects/java-common-utils@4.0.0
+- pkg:maven/com.clumd.projects/java-common-utils@4.0.0?classifier=sources
+- pkg:maven/com.clumd.projects/java-common-utils@4.1.0
+- pkg:maven/com.clumd.projects/java-common-utils@4.1.0?classifier=sources

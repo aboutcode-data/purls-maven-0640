@@ -2,6 +2,12 @@
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.10.0-M1?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.10.0-M2
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.10.0-M2?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.10.0-M4
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.10.0-M4?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.10.0-M5
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.10.0-M5?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.10.0-M6
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.10.0-M6?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.6.0
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.6.0-M2
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.6.0-M2?classifier=sources
@@ -78,5 +84,7 @@
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.9.0-M9
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.9.0-M9?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.9.0?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.9.1
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.9.1-M1
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.9.1-M1?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-search-plugin_2.13@1.9.1?classifier=sources

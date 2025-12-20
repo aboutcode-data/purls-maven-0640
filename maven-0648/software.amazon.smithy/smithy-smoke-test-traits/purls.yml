@@ -4,3 +4,4 @@
 - pkg:maven/software.amazon.smithy/smithy-smoke-test-traits@1.42.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-smoke-test-traits@1.43.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-smoke-test-traits@1.44.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-smoke-test-traits@1.45.0?classifier=sources

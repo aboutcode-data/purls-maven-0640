@@ -37,3 +37,5 @@
 - pkg:maven/no.digipost/digipost-useragreements-api-client-java@3.3.0?classifier=sources
 - pkg:maven/no.digipost/digipost-useragreements-api-client-java@4.0.0
 - pkg:maven/no.digipost/digipost-useragreements-api-client-java@4.0.0?classifier=sources
+- pkg:maven/no.digipost/digipost-useragreements-api-client-java@4.0.1
+- pkg:maven/no.digipost/digipost-useragreements-api-client-java@4.0.1?classifier=sources

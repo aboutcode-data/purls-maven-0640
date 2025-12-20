@@ -1,2 +1,5 @@
+- pkg:maven/xyz.block/web5-crypto@0.0.11?classifier=sources
 - pkg:maven/xyz.block/web5-crypto@0.0.9-delta?classifier=sources
 - pkg:maven/xyz.block/web5-crypto@0.10.0?classifier=sources
+- pkg:maven/xyz.block/web5-crypto@0.11.0?classifier=sources
+- pkg:maven/xyz.block/web5-crypto@0.12.0?classifier=sources

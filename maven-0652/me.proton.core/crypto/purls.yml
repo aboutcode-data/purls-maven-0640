@@ -56,13 +56,17 @@
 - pkg:maven/me.proton.core/crypto@18.2.2?classifier=sources
 - pkg:maven/me.proton.core/crypto@18.2.3?classifier=sources
 - pkg:maven/me.proton.core/crypto@18.2.4?classifier=sources
+- pkg:maven/me.proton.core/crypto@18.2.5?classifier=sources
 - pkg:maven/me.proton.core/crypto@18.3.0?classifier=sources
 - pkg:maven/me.proton.core/crypto@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/crypto@18.4.1?classifier=sources
 - pkg:maven/me.proton.core/crypto@18.4.2?classifier=sources
 - pkg:maven/me.proton.core/crypto@19.0.0?classifier=sources
+- pkg:maven/me.proton.core/crypto@19.1.0?classifier=sources
 - pkg:maven/me.proton.core/crypto@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/crypto@2.0.0?classifier=sources
+- pkg:maven/me.proton.core/crypto@20.0.0?classifier=sources
+- pkg:maven/me.proton.core/crypto@21.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto@4.1.0?classifier=sources

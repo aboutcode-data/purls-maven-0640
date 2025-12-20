@@ -1,0 +1,3 @@
+- pkg:maven/com.tsm4j/tsm4j@0.0.2?classifier=sources
+- pkg:maven/com.tsm4j/tsm4j@0.0.3?classifier=sources
+- pkg:maven/com.tsm4j/tsm4j@0.0.4?classifier=sources

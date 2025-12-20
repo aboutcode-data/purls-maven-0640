@@ -35,3 +35,4 @@
 - pkg:maven/com.composum.nodes/composum-nodes-sling-package@4.2.1?classifier=sources
 - pkg:maven/com.composum.nodes/composum-nodes-sling-package@4.2.2?classifier=sources
 - pkg:maven/com.composum.nodes/composum-nodes-sling-package@4.2.3?classifier=sources
+- pkg:maven/com.composum.nodes/composum-nodes-sling-package@4.3.0?classifier=sources

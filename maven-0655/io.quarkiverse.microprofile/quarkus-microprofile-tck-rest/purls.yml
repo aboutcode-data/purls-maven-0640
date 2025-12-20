@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-rest@3.1.0
+- pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-rest@3.2.0

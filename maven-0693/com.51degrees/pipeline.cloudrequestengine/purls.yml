@@ -101,8 +101,14 @@
 - pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.36?classifier=sources
 - pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.37
 - pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.37?classifier=sources
+- pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.38
+- pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.38?classifier=sources
+- pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.39
+- pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.39?classifier=sources
 - pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.3?classifier=sources
 - pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.4
+- pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.40
+- pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.40?classifier=sources
 - pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.4?classifier=sources
 - pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.6
 - pkg:maven/com.51degrees/pipeline.cloudrequestengine@4.4.6?classifier=sources

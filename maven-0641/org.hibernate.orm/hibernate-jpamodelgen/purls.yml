@@ -66,3 +66,4 @@
 - pkg:maven/org.hibernate.orm/hibernate-jpamodelgen@6.4.1.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-jpamodelgen@6.4.2.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-jpamodelgen@6.4.3.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-jpamodelgen@6.4.4.Final?classifier=sources

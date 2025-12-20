@@ -32,3 +32,4 @@
 - pkg:maven/io.trino/trino-mysql-event-listener@436?classifier=sources
 - pkg:maven/io.trino/trino-mysql-event-listener@437?classifier=sources
 - pkg:maven/io.trino/trino-mysql-event-listener@438?classifier=sources
+- pkg:maven/io.trino/trino-mysql-event-listener@439?classifier=sources

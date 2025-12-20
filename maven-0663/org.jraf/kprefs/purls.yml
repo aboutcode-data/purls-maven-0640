@@ -1,2 +1,4 @@
 - pkg:maven/org.jraf/kprefs@1.6.0?classifier=sources
 - pkg:maven/org.jraf/kprefs@1.7.0?classifier=sources
+- pkg:maven/org.jraf/kprefs@1.7.1?classifier=sources
+- pkg:maven/org.jraf/kprefs@1.7.2?classifier=sources

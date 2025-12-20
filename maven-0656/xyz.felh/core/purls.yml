@@ -40,3 +40,11 @@
 - pkg:maven/xyz.felh/core@3.8.20240203?classifier=sources
 - pkg:maven/xyz.felh/core@3.8.20240204
 - pkg:maven/xyz.felh/core@3.8.20240204?classifier=sources
+- pkg:maven/xyz.felh/core@3.8.20240206
+- pkg:maven/xyz.felh/core@3.8.20240206?classifier=sources
+- pkg:maven/xyz.felh/core@3.8.20240207
+- pkg:maven/xyz.felh/core@3.8.2024020701
+- pkg:maven/xyz.felh/core@3.8.2024020701?classifier=sources
+- pkg:maven/xyz.felh/core@3.8.2024020702
+- pkg:maven/xyz.felh/core@3.8.2024020702?classifier=sources
+- pkg:maven/xyz.felh/core@3.8.20240207?classifier=sources

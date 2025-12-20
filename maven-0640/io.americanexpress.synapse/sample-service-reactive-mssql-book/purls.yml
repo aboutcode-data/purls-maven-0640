@@ -8,3 +8,5 @@
 - pkg:maven/io.americanexpress.synapse/sample-service-reactive-mssql-book@0.3.28
 - pkg:maven/io.americanexpress.synapse/sample-service-reactive-mssql-book@0.3.29
 - pkg:maven/io.americanexpress.synapse/sample-service-reactive-mssql-book@0.3.30
+- pkg:maven/io.americanexpress.synapse/sample-service-reactive-mssql-book@0.3.32
+- pkg:maven/io.americanexpress.synapse/sample-service-reactive-mssql-book@0.3.33

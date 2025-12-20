@@ -1,0 +1,6 @@
+- pkg:maven/com.ibm.cloud/partner-billing-units@0.49.0
+- pkg:maven/com.ibm.cloud/partner-billing-units@0.49.0?classifier=sources
+- pkg:maven/com.ibm.cloud/partner-billing-units@0.50.0
+- pkg:maven/com.ibm.cloud/partner-billing-units@0.50.0?classifier=sources
+- pkg:maven/com.ibm.cloud/partner-billing-units@0.50.1
+- pkg:maven/com.ibm.cloud/partner-billing-units@0.50.1?classifier=sources

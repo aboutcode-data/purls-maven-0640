@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-j2se@RELEASE90?classifier=sources

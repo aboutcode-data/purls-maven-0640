@@ -211,6 +211,10 @@
 - pkg:maven/org.http4k/http4k-connect-core-fake@5.6.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-core-fake@5.6.10.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-core-fake@5.6.11.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-core-fake@5.6.12.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-core-fake@5.6.13.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-core-fake@5.6.14.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-core-fake@5.6.15.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-core-fake@5.6.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-core-fake@5.6.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-core-fake@5.6.4.0?classifier=sources
@@ -220,3 +224,4 @@
 - pkg:maven/org.http4k/http4k-connect-core-fake@5.6.8.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-core-fake@5.6.8.2?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-core-fake@5.6.9.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-core-fake@5.7.0.0?classifier=sources

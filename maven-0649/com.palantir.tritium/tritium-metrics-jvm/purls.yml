@@ -134,3 +134,4 @@
 - pkg:maven/com.palantir.tritium/tritium-metrics-jvm@0.79.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-metrics-jvm@0.80.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-metrics-jvm@0.81.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-metrics-jvm@0.82.0?classifier=sources
