@@ -150,6 +150,7 @@
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.56
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.56?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.6
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@1.0.6?classifier=sources
@@ -267,6 +268,7 @@
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.41
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@2.0.5
@@ -410,6 +412,7 @@
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.46?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.47
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@3.0.5
@@ -527,6 +530,7 @@
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@4.0.4
+- pkg:maven/com.liferay/com.liferay.amazon.rankings.web@4.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.amazon.rankings.web@4.0.5

@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.dccjll/yunds-plugin-publish@1.0.0
+- pkg:maven/io.gitee.dccjll/yunds-plugin-publish@1.0.0?classifier=sources

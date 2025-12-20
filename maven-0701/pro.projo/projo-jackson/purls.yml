@@ -20,3 +20,5 @@
 - pkg:maven/pro.projo/projo-jackson@1.5.1?classifier=sources
 - pkg:maven/pro.projo/projo-jackson@1.5.2
 - pkg:maven/pro.projo/projo-jackson@1.5.2?classifier=sources
+- pkg:maven/pro.projo/projo-jackson@1.5.3
+- pkg:maven/pro.projo/projo-jackson@1.5.3?classifier=sources

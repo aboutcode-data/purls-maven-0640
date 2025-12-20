@@ -1,1 +1,2 @@
 - pkg:maven/io.openfeedback/feedback-android-sdk-m2@0.1.0?classifier=sources
+- pkg:maven/io.openfeedback/feedback-android-sdk-m2@0.1.1?classifier=sources

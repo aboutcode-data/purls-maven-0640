@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nim/camellia-spring-redis3-zk-discovery-spring-boot@1.2.21
+- pkg:maven/com.netease.nim/camellia-spring-redis3-zk-discovery-spring-boot@1.2.21?classifier=sources

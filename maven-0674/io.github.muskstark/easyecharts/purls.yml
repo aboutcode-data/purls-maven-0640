@@ -1,0 +1,8 @@
+- pkg:maven/io.github.muskstark/easyecharts@0.0.1
+- pkg:maven/io.github.muskstark/easyecharts@0.0.1-Alphbate
+- pkg:maven/io.github.muskstark/easyecharts@0.0.1-Alphbate?classifier=sources
+- pkg:maven/io.github.muskstark/easyecharts@0.0.1-bate
+- pkg:maven/io.github.muskstark/easyecharts@0.0.1-bate?classifier=sources
+- pkg:maven/io.github.muskstark/easyecharts@0.0.1?classifier=sources
+- pkg:maven/io.github.muskstark/easyecharts@0.0.2
+- pkg:maven/io.github.muskstark/easyecharts@0.0.2?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@6.10.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@6.10.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@6.10.2
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@6.2.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@6.2.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-test-dstu2@6.2.2

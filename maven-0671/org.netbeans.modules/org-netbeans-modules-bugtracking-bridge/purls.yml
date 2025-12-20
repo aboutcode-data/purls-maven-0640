@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugtracking-bridge@RELEASE90?classifier=sources

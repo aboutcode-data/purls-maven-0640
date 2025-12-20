@@ -8,6 +8,8 @@
 - pkg:maven/org.neo4j/cypher-shell-integration-test-expect@5.13.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell-integration-test-expect@5.14.0
 - pkg:maven/org.neo4j/cypher-shell-integration-test-expect@5.14.0?classifier=sources
+- pkg:maven/org.neo4j/cypher-shell-integration-test-expect@5.15.0
+- pkg:maven/org.neo4j/cypher-shell-integration-test-expect@5.15.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell-integration-test-expect@5.7.0
 - pkg:maven/org.neo4j/cypher-shell-integration-test-expect@5.7.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell-integration-test-expect@5.8.0

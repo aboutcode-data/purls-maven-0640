@@ -1,0 +1,2 @@
+- pkg:maven/com.github.novamage/svalidator_2.13@3.0.0
+- pkg:maven/com.github.novamage/svalidator_2.13@3.0.0?classifier=sources

@@ -111,6 +111,12 @@
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.15?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.16
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.16?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.17
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.17?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.18
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.18?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.19
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.19?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.1?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.2
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-core@2.3.2?classifier=sources

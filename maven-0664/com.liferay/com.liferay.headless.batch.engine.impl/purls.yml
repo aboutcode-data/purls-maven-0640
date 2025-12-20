@@ -82,6 +82,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@1.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@1.0.34
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@1.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@1.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@1.0.4
@@ -192,6 +193,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@2.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@2.0.36
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@2.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@2.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@2.0.4
@@ -452,6 +454,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@4.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@4.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@4.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@4.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.batch.engine.impl@4.0.5

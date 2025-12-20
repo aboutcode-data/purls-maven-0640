@@ -3,3 +3,4 @@
 - pkg:maven/com.itsaky.androidide/build-info@2.5.2-beta?classifier=sources
 - pkg:maven/com.itsaky.androidide/build-info@2.5.3-beta?classifier=sources
 - pkg:maven/com.itsaky.androidide/build-info@2.6.0-beta?classifier=sources
+- pkg:maven/com.itsaky.androidide/build-info@2.6.1-beta?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.60?type=aar
 - pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.61?classifier=sources
 - pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.61?type=aar
+- pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.62?classifier=sources
+- pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.62?type=aar

@@ -90,6 +90,7 @@
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@2.0.36
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@2.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@2.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.openstreetmap@2.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@2.0.4
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@2.0.4?classifier=sources
@@ -174,6 +175,7 @@
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@3.0.3
+- pkg:maven/com.liferay/com.liferay.map.openstreetmap@3.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@3.0.4
@@ -275,6 +277,7 @@
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@4.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@4.0.33
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.openstreetmap@4.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@4.0.4
@@ -355,6 +358,7 @@
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@5.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@5.0.27
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@5.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.openstreetmap@5.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.openstreetmap@5.0.3

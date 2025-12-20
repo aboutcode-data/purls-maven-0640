@@ -124,6 +124,12 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.35.3?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.35.4
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.35.4?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.35.5
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.35.5?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.36.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.36.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.37.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.37.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.4.4
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.4.4?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-trino-protocol@4.4.5

@@ -1,0 +1,2 @@
+- pkg:maven/com.kalman03/apideploy-swagger3-webflux@1.0.2
+- pkg:maven/com.kalman03/apideploy-swagger3-webflux@1.0.2?classifier=sources

@@ -63,3 +63,5 @@
 - pkg:maven/org.alluxio/alluxio-assembly-server@303
 - pkg:maven/org.alluxio/alluxio-assembly-server@304
 - pkg:maven/org.alluxio/alluxio-assembly-server@305
+- pkg:maven/org.alluxio/alluxio-assembly-server@306
+- pkg:maven/org.alluxio/alluxio-assembly-server@307

@@ -276,5 +276,7 @@
 - pkg:maven/org.talend.sdk.component/talend-component-kit-intellij-plugin@1.62.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/talend-component-kit-intellij-plugin@1.62.1
 - pkg:maven/org.talend.sdk.component/talend-component-kit-intellij-plugin@1.62.1?classifier=sources
+- pkg:maven/org.talend.sdk.component/talend-component-kit-intellij-plugin@1.63.0
+- pkg:maven/org.talend.sdk.component/talend-component-kit-intellij-plugin@1.63.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/talend-component-kit-intellij-plugin@10.57.0
 - pkg:maven/org.talend.sdk.component/talend-component-kit-intellij-plugin@10.57.0?classifier=sources

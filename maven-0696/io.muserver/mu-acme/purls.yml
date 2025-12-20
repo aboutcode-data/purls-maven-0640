@@ -32,3 +32,5 @@
 - pkg:maven/io.muserver/mu-acme@0.4.7?classifier=sources
 - pkg:maven/io.muserver/mu-acme@0.4.8
 - pkg:maven/io.muserver/mu-acme@0.4.8?classifier=sources
+- pkg:maven/io.muserver/mu-acme@1.0.0
+- pkg:maven/io.muserver/mu-acme@1.0.0?classifier=sources

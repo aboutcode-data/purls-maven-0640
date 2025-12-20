@@ -10,3 +10,4 @@
 - pkg:maven/dev.jonpoulton.alakazam/android-ui-material@3.9.2?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/android-ui-material@3.9.3?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/android-ui-material@3.9.4?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/android-ui-material@3.9.6?classifier=sources

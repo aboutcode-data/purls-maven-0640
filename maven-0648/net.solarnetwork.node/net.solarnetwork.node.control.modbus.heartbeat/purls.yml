@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.heartbeat@4.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.heartbeat@5.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.heartbeat@5.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.heartbeat@5.0.1
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.heartbeat@5.0.1?classifier=sources

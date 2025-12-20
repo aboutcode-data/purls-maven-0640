@@ -50,3 +50,7 @@
 - pkg:maven/org.caseine/caseine.vpl.tests.RegionsDuPlan@0.0.68?classifier=sources
 - pkg:maven/org.caseine/caseine.vpl.tests.RegionsDuPlan@0.0.69
 - pkg:maven/org.caseine/caseine.vpl.tests.RegionsDuPlan@0.0.69?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tests.RegionsDuPlan@0.0.70
+- pkg:maven/org.caseine/caseine.vpl.tests.RegionsDuPlan@0.0.70?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tests.RegionsDuPlan@0.0.71
+- pkg:maven/org.caseine/caseine.vpl.tests.RegionsDuPlan@0.0.71?classifier=sources

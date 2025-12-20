@@ -24,6 +24,8 @@
 - pkg:maven/org.liquibase.ext/liquibase-sdk-maven-plugin@0.10.21?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-sdk-maven-plugin@0.10.22
 - pkg:maven/org.liquibase.ext/liquibase-sdk-maven-plugin@0.10.22?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-sdk-maven-plugin@0.10.23
+- pkg:maven/org.liquibase.ext/liquibase-sdk-maven-plugin@0.10.23?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-sdk-maven-plugin@0.5
 - pkg:maven/org.liquibase.ext/liquibase-sdk-maven-plugin@0.5?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-sdk-maven-plugin@0.6

@@ -16,6 +16,8 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.13.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.14.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.14.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.15.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.15.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.8.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.8.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@1.8.1
@@ -30,3 +32,5 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@2.2.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@2.3.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@2.3.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@2.4.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-configuration@2.4.0?classifier=sources

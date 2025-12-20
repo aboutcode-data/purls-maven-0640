@@ -1,0 +1,2 @@
+- pkg:maven/io.github.agmenc/rexspecs@0.0.3-pre-alpha?classifier=sources
+- pkg:maven/io.github.agmenc/rexspecs@0.0.4-pre-alpha?classifier=sources

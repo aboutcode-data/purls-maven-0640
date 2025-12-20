@@ -1,1 +1,2 @@
 - pkg:maven/com.ryccoatika.simplesocket/socket-server@0.6.9?classifier=sources
+- pkg:maven/com.ryccoatika.simplesocket/socket-server@0.7.0?classifier=sources

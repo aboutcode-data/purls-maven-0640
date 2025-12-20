@@ -1,0 +1,6 @@
+- pkg:maven/tel.schich/javacan-core-arch-detect@3.3.0
+- pkg:maven/tel.schich/javacan-core-arch-detect@3.3.0?classifier=sources
+- pkg:maven/tel.schich/javacan-core-arch-detect@3.3.1
+- pkg:maven/tel.schich/javacan-core-arch-detect@3.3.1?classifier=sources
+- pkg:maven/tel.schich/javacan-core-arch-detect@3.3.2
+- pkg:maven/tel.schich/javacan-core-arch-detect@3.3.2?classifier=sources

@@ -28,3 +28,4 @@
 - pkg:maven/org.jboss.windup/windup-cli@6.3.1.Final
 - pkg:maven/org.jboss.windup/windup-cli@6.3.2.Final
 - pkg:maven/org.jboss.windup/windup-cli@6.3.3.Final
+- pkg:maven/org.jboss.windup/windup-cli@6.3.4.Final

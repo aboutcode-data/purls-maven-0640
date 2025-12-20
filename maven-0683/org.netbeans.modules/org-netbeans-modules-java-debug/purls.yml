@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-debug@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-debug@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-debug@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-debug@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-debug@RELEASE90?classifier=sources

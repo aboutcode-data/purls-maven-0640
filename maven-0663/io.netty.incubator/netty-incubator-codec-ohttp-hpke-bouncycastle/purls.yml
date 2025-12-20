@@ -1,0 +1,2 @@
+- pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.3.Final
+- pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.3.Final?classifier=sources

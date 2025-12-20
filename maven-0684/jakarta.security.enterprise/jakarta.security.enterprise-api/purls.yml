@@ -10,3 +10,5 @@
 - pkg:maven/jakarta.security.enterprise/jakarta.security.enterprise-api@2.0.0?classifier=sources
 - pkg:maven/jakarta.security.enterprise/jakarta.security.enterprise-api@3.0.0
 - pkg:maven/jakarta.security.enterprise/jakarta.security.enterprise-api@3.0.0?classifier=sources
+- pkg:maven/jakarta.security.enterprise/jakarta.security.enterprise-api@4.0.0-M1
+- pkg:maven/jakarta.security.enterprise/jakarta.security.enterprise-api@4.0.0-M1?classifier=sources

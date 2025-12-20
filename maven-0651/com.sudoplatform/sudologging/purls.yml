@@ -23,3 +23,5 @@
 - pkg:maven/com.sudoplatform/sudologging@2.1.0?type=aar
 - pkg:maven/com.sudoplatform/sudologging@3.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudologging@3.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudologging@4.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudologging@4.0.0?type=aar

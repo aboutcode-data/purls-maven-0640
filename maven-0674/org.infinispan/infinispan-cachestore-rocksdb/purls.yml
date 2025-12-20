@@ -46,6 +46,8 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@10.1.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@10.1.8.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@10.1.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@10.1.9.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@10.1.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@11.0.0.Alpha
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@11.0.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@11.0.0.Alpha1?classifier=sources
@@ -200,6 +202,8 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@13.0.20.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@13.0.20.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@13.0.21.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@13.0.21.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@13.0.3.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@13.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@13.0.4.Final
@@ -280,6 +284,8 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@15.0.0.Dev04?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@15.0.0.Dev05
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@15.0.0.Dev05?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@15.0.0.Dev06
+- pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@15.0.0.Dev06?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.0.0.Beta1
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.0.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rocksdb@9.0.0.Beta2

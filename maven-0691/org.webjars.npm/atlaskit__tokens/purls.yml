@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/atlaskit__tokens@1.11.3?classifier=sources
 - pkg:maven/org.webjars.npm/atlaskit__tokens@1.13.1
 - pkg:maven/org.webjars.npm/atlaskit__tokens@1.13.1?classifier=sources
+- pkg:maven/org.webjars.npm/atlaskit__tokens@1.29.1
+- pkg:maven/org.webjars.npm/atlaskit__tokens@1.29.1?classifier=sources

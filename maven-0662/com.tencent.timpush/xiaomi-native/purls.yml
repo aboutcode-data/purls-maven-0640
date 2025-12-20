@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.timpush/xiaomi-native@5.6.2?classifier=sources
+- pkg:maven/com.tencent.timpush/xiaomi-native@5.6.3?classifier=sources

@@ -181,3 +181,4 @@
 - pkg:maven/org.opendaylight.controller/cds-dom-api@8.0.2?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-dom-api@8.0.3
 - pkg:maven/org.opendaylight.controller/cds-dom-api@8.0.3?classifier=sources
+- pkg:maven/org.opendaylight.controller/cds-dom-api@8.0.4?classifier=sources

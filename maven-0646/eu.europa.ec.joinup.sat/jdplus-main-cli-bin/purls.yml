@@ -8,3 +8,7 @@
 - pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.1.0?type=zip
 - pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.1.1?classifier=sources
 - pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.1.1?type=zip
+- pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.2.0?classifier=sources
+- pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.2.0?type=zip
+- pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.2.1?classifier=sources
+- pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.2.1?type=zip

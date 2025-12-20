@@ -10,3 +10,5 @@
 - pkg:maven/org.fugerit.java/fj-doc-mod-openpdf@1.1.0-sa.1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-mod-openpdf@1.2.0-sa.1
 - pkg:maven/org.fugerit.java/fj-doc-mod-openpdf@1.2.0-sa.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-mod-openpdf@1.2.2
+- pkg:maven/org.fugerit.java/fj-doc-mod-openpdf@1.2.2?classifier=sources

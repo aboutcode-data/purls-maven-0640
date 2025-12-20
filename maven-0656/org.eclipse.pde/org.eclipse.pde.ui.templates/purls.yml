@@ -42,3 +42,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ui.templates@3.8.0?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ui.templates@3.8.100
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ui.templates@3.8.100?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ui.templates@3.8.200
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ui.templates@3.8.200?classifier=sources

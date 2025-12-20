@@ -329,6 +329,12 @@
 - pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.3
 - pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.30
 - pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.30?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.31
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.31?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.32
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.32?classifier=sources
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.33
+- pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.33?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.3?classifier=sources
 - pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.6
 - pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3@1.4.6?classifier=sources

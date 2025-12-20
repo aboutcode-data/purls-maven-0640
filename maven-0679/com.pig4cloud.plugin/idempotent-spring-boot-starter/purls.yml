@@ -18,3 +18,5 @@
 - pkg:maven/com.pig4cloud.plugin/idempotent-spring-boot-starter@0.1.0?classifier=sources
 - pkg:maven/com.pig4cloud.plugin/idempotent-spring-boot-starter@0.3.0
 - pkg:maven/com.pig4cloud.plugin/idempotent-spring-boot-starter@0.3.0?classifier=sources
+- pkg:maven/com.pig4cloud.plugin/idempotent-spring-boot-starter@0.4.0
+- pkg:maven/com.pig4cloud.plugin/idempotent-spring-boot-starter@0.4.0?classifier=sources

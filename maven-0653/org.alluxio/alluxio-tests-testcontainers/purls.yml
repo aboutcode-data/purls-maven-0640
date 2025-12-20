@@ -1,2 +1,4 @@
 - pkg:maven/org.alluxio/alluxio-tests-testcontainers@304
 - pkg:maven/org.alluxio/alluxio-tests-testcontainers@305
+- pkg:maven/org.alluxio/alluxio-tests-testcontainers@306
+- pkg:maven/org.alluxio/alluxio-tests-testcontainers@307

@@ -33,3 +33,5 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-core@2.0.0?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-core@2.1.0?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-core@2.2.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-core@2.3.0?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-r2dbc-core@2.3.1?classifier=sources

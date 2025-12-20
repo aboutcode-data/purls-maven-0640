@@ -94,4 +94,9 @@
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.5.1
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.5.2
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.5.3
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.0
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.0.CR1
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.1
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.2
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.3
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.4

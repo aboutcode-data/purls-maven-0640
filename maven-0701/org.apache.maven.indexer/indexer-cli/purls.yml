@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.maven.indexer/indexer-cli@7.0.4?classifier=sources
 - pkg:maven/org.apache.maven.indexer/indexer-cli@7.1.0
 - pkg:maven/org.apache.maven.indexer/indexer-cli@7.1.0?classifier=sources
+- pkg:maven/org.apache.maven.indexer/indexer-cli@7.1.1
+- pkg:maven/org.apache.maven.indexer/indexer-cli@7.1.1?classifier=sources

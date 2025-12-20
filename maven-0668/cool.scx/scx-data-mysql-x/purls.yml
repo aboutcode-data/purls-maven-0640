@@ -62,3 +62,5 @@
 - pkg:maven/cool.scx/scx-data-mysql-x@2.4.9?classifier=sources
 - pkg:maven/cool.scx/scx-data-mysql-x@2.5.0
 - pkg:maven/cool.scx/scx-data-mysql-x@2.5.0?classifier=sources
+- pkg:maven/cool.scx/scx-data-mysql-x@2.5.1
+- pkg:maven/cool.scx/scx-data-mysql-x@2.5.1?classifier=sources

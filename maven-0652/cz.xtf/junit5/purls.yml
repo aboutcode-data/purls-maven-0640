@@ -13,3 +13,4 @@
 - pkg:maven/cz.xtf/junit5@0.29?classifier=sources
 - pkg:maven/cz.xtf/junit5@0.30?classifier=sources
 - pkg:maven/cz.xtf/junit5@0.31?classifier=sources
+- pkg:maven/cz.xtf/junit5@0.32?classifier=sources

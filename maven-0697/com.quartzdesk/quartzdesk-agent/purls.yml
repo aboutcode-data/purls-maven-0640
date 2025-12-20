@@ -107,3 +107,5 @@
 - pkg:maven/com.quartzdesk/quartzdesk-agent@4.0.7?classifier=sources
 - pkg:maven/com.quartzdesk/quartzdesk-agent@4.0.8?classifier=sources
 - pkg:maven/com.quartzdesk/quartzdesk-agent@4.0.9?classifier=sources
+- pkg:maven/com.quartzdesk/quartzdesk-agent@5.0.0?classifier=sources
+- pkg:maven/com.quartzdesk/quartzdesk-agent@5.0.1?classifier=sources

@@ -242,6 +242,10 @@
 - pkg:maven/com.restfb/restfb@2023.14.0?classifier=sources
 - pkg:maven/com.restfb/restfb@2023.15.0
 - pkg:maven/com.restfb/restfb@2023.15.0?classifier=sources
+- pkg:maven/com.restfb/restfb@2023.16.0
+- pkg:maven/com.restfb/restfb@2023.16.0?classifier=sources
+- pkg:maven/com.restfb/restfb@2023.17.0
+- pkg:maven/com.restfb/restfb@2023.17.0?classifier=sources
 - pkg:maven/com.restfb/restfb@2023.2.0
 - pkg:maven/com.restfb/restfb@2023.2.0?classifier=sources
 - pkg:maven/com.restfb/restfb@2023.3.0

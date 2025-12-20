@@ -58,6 +58,10 @@
 - pkg:maven/com.xebia/xef-openai-js@0.0.3-alpha.9?classifier=sources
 - pkg:maven/com.xebia/xef-openai-js@0.0.3?classifier=sources
 - pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.100?classifier=sources
+- pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.101?classifier=sources
+- pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.102?classifier=sources
+- pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.103?classifier=sources
+- pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.104?classifier=sources
 - pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.10?classifier=sources
 - pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.11?classifier=sources
 - pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.12?classifier=sources
@@ -156,3 +160,7 @@
 - pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.98?classifier=sources
 - pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.99?classifier=sources
 - pkg:maven/com.xebia/xef-openai-js@0.0.4-alpha.9?classifier=sources
+- pkg:maven/com.xebia/xef-openai-js@0.0.4?classifier=sources
+- pkg:maven/com.xebia/xef-openai-js@0.0.5-alpha.1?classifier=sources
+- pkg:maven/com.xebia/xef-openai-js@0.0.5-alpha.2?classifier=sources
+- pkg:maven/com.xebia/xef-openai-js@0.0.5-alpha.3?classifier=sources

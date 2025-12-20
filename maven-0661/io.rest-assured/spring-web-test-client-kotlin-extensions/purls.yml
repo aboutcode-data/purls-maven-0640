@@ -1,0 +1,2 @@
+- pkg:maven/io.rest-assured/spring-web-test-client-kotlin-extensions@5.4.0
+- pkg:maven/io.rest-assured/spring-web-test-client-kotlin-extensions@5.4.0?classifier=sources

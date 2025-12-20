@@ -36,3 +36,5 @@
 - pkg:maven/com.github.workerframework/worker-default-configs@5.1.0-919?classifier=sources
 - pkg:maven/com.github.workerframework/worker-default-configs@6.0.0-1107
 - pkg:maven/com.github.workerframework/worker-default-configs@6.0.0-1107?classifier=sources
+- pkg:maven/com.github.workerframework/worker-default-configs@7.0.0-1167
+- pkg:maven/com.github.workerframework/worker-default-configs@7.0.0-1167?classifier=sources

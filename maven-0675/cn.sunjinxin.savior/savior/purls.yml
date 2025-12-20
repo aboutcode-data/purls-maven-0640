@@ -4,3 +4,7 @@
 - pkg:maven/cn.sunjinxin.savior/savior@1.0.2?classifier=sources
 - pkg:maven/cn.sunjinxin.savior/savior@1.0.3
 - pkg:maven/cn.sunjinxin.savior/savior@1.0.3?classifier=sources
+- pkg:maven/cn.sunjinxin.savior/savior@1.0.4
+- pkg:maven/cn.sunjinxin.savior/savior@1.0.4?classifier=sources
+- pkg:maven/cn.sunjinxin.savior/savior@1.0.5
+- pkg:maven/cn.sunjinxin.savior/savior@1.0.5?classifier=sources

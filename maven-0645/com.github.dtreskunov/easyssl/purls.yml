@@ -47,3 +47,5 @@
 - pkg:maven/com.github.dtreskunov/easyssl@2.2.1?classifier=sources
 - pkg:maven/com.github.dtreskunov/easyssl@2.2.2?classifier=sources
 - pkg:maven/com.github.dtreskunov/easyssl@2.2.3?classifier=sources
+- pkg:maven/com.github.dtreskunov/easyssl@2.3.0?classifier=sources
+- pkg:maven/com.github.dtreskunov/easyssl@2.3.1?classifier=sources

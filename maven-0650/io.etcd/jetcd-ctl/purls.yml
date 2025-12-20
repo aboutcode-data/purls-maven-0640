@@ -8,3 +8,4 @@
 - pkg:maven/io.etcd/jetcd-ctl@0.7.3?classifier=sources
 - pkg:maven/io.etcd/jetcd-ctl@0.7.5?classifier=sources
 - pkg:maven/io.etcd/jetcd-ctl@0.7.6?classifier=sources
+- pkg:maven/io.etcd/jetcd-ctl@0.7.7?classifier=sources

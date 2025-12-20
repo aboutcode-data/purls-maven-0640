@@ -2,3 +2,5 @@
 - pkg:maven/com.gu/pan-domain-auth-play_3-0_2.13@1.4.0?classifier=sources
 - pkg:maven/com.gu/pan-domain-auth-play_3-0_2.13@3.0.0
 - pkg:maven/com.gu/pan-domain-auth-play_3-0_2.13@3.0.0?classifier=sources
+- pkg:maven/com.gu/pan-domain-auth-play_3-0_2.13@3.0.1
+- pkg:maven/com.gu/pan-domain-auth-play_3-0_2.13@3.0.1?classifier=sources

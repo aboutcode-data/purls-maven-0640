@@ -1,0 +1,2 @@
+- pkg:maven/net.algart.executors/scichains-maps@4.3.4
+- pkg:maven/net.algart.executors/scichains-maps@4.3.4?classifier=sources

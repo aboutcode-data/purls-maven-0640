@@ -38,6 +38,8 @@
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@2.6.3?classifier=sources
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@2.6.4
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@2.6.4?classifier=sources
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@2.6.5
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@2.6.5?classifier=sources
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.0.0
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.0.0-M1
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.0.0-M1?classifier=sources
@@ -66,6 +68,10 @@
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.2.2?classifier=sources
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.2.3
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.2.3?classifier=sources
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.2.4
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.2.4?classifier=sources
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.2.5
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@3.2.5?classifier=sources
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.0
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.0-ALPHA1
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.0-ALPHA1?classifier=sources
@@ -88,3 +94,7 @@
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.0-RC2
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.0-RC2?classifier=sources
 - pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.0?classifier=sources
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.1
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.1?classifier=sources
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.2
+- pkg:maven/io.helidon.microprofile.scheduling/helidon-microprofile-scheduling@4.0.2?classifier=sources

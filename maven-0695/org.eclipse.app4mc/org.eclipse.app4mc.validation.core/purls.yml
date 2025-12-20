@@ -5,3 +5,4 @@
 - pkg:maven/org.eclipse.app4mc/org.eclipse.app4mc.validation.core@2.2.0?classifier=sources
 - pkg:maven/org.eclipse.app4mc/org.eclipse.app4mc.validation.core@3.0.0?classifier=sources
 - pkg:maven/org.eclipse.app4mc/org.eclipse.app4mc.validation.core@3.1.0?classifier=sources
+- pkg:maven/org.eclipse.app4mc/org.eclipse.app4mc.validation.core@3.2.0?classifier=sources

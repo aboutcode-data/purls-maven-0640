@@ -78,6 +78,9 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@4.2.10
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@4.2.10?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@4.2.10?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@4.2.12
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@4.2.12?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@4.2.12?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@4.2.2
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@4.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@4.2.2?classifier=sources
@@ -111,3 +114,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.2
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.4
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.4?classifier=sources

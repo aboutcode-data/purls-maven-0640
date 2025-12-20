@@ -6,3 +6,5 @@
 - pkg:maven/com.sigpwned/httpmodel-servlet@1.0.0?classifier=sources
 - pkg:maven/com.sigpwned/httpmodel-servlet@1.0.1
 - pkg:maven/com.sigpwned/httpmodel-servlet@1.0.1?classifier=sources
+- pkg:maven/com.sigpwned/httpmodel-servlet@2.0.0
+- pkg:maven/com.sigpwned/httpmodel-servlet@2.0.0?classifier=sources

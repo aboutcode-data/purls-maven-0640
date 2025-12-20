@@ -7,3 +7,5 @@
 - pkg:maven/org.archguard.aaac/repl-api@2.0.3?classifier=sources
 - pkg:maven/org.archguard.aaac/repl-api@2.0.5?classifier=sources
 - pkg:maven/org.archguard.aaac/repl-api@2.0.7?classifier=sources
+- pkg:maven/org.archguard.aaac/repl-api@2.1.1?classifier=sources
+- pkg:maven/org.archguard.aaac/repl-api@2.1.2?classifier=sources

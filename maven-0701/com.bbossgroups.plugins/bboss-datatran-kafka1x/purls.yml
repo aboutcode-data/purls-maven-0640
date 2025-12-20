@@ -36,3 +36,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-datatran-kafka1x@7.0.9?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-datatran-kafka1x@7.1.0?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-datatran-kafka1x@7.1.1?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-datatran-kafka1x@7.1.2?classifier=sources

@@ -18,3 +18,6 @@
 - pkg:maven/com.aallam.openai/openai-client-tvossimulatorarm64@3.4.2?classifier=sources
 - pkg:maven/com.aallam.openai/openai-client-tvossimulatorarm64@3.5.0?classifier=sources
 - pkg:maven/com.aallam.openai/openai-client-tvossimulatorarm64@3.5.1?classifier=sources
+- pkg:maven/com.aallam.openai/openai-client-tvossimulatorarm64@3.6.0?classifier=sources
+- pkg:maven/com.aallam.openai/openai-client-tvossimulatorarm64@3.6.1?classifier=sources
+- pkg:maven/com.aallam.openai/openai-client-tvossimulatorarm64@3.6.2?classifier=sources

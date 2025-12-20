@@ -1,0 +1,5 @@
+- pkg:maven/is.codion/codion-framework-db-core@0.17.17?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.18?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.19?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.20?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.21?classifier=sources

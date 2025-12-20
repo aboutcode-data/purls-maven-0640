@@ -57,6 +57,8 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@1.9.16?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@1.9.17
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@1.9.17?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@1.9.18
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@1.9.18?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@1.9.1?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@1.9.2
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@1.9.2?classifier=sources
@@ -74,3 +76,7 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@2.0.0-alpha-1?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@2.0.0-alpha-2
 - pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@2.0.0-alpha-2?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@2.0.0-alpha-3
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@2.0.0-alpha-3?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@2.0.0-alpha-5
+- pkg:maven/org.apache.maven.resolver/maven-resolver-test-util@2.0.0-alpha-5?classifier=sources

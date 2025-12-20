@@ -2,3 +2,5 @@
 - pkg:maven/org.immregistries/mqe-hl7-utility@2021.07.1?classifier=sources
 - pkg:maven/org.immregistries/mqe-hl7-utility@2021.7-BETA
 - pkg:maven/org.immregistries/mqe-hl7-utility@2021.7-BETA?classifier=sources
+- pkg:maven/org.immregistries/mqe-hl7-utility@2022.9-BETA
+- pkg:maven/org.immregistries/mqe-hl7-utility@2022.9-BETA?classifier=sources

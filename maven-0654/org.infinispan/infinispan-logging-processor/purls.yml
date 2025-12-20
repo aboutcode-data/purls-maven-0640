@@ -32,6 +32,8 @@
 - pkg:maven/org.infinispan/infinispan-logging-processor@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-logging-processor@13.0.20.Final
 - pkg:maven/org.infinispan/infinispan-logging-processor@13.0.20.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-logging-processor@13.0.21.Final
+- pkg:maven/org.infinispan/infinispan-logging-processor@13.0.21.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-logging-processor@13.0.3.Final
 - pkg:maven/org.infinispan/infinispan-logging-processor@13.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-logging-processor@13.0.4.Final
@@ -112,3 +114,5 @@
 - pkg:maven/org.infinispan/infinispan-logging-processor@15.0.0.Dev04?classifier=sources
 - pkg:maven/org.infinispan/infinispan-logging-processor@15.0.0.Dev05
 - pkg:maven/org.infinispan/infinispan-logging-processor@15.0.0.Dev05?classifier=sources
+- pkg:maven/org.infinispan/infinispan-logging-processor@15.0.0.Dev06
+- pkg:maven/org.infinispan/infinispan-logging-processor@15.0.0.Dev06?classifier=sources

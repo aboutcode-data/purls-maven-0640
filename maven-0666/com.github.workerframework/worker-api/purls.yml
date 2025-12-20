@@ -46,3 +46,5 @@
 - pkg:maven/com.github.workerframework/worker-api@5.1.0-919?classifier=sources
 - pkg:maven/com.github.workerframework/worker-api@6.0.0-1107
 - pkg:maven/com.github.workerframework/worker-api@6.0.0-1107?classifier=sources
+- pkg:maven/com.github.workerframework/worker-api@7.0.0-1167
+- pkg:maven/com.github.workerframework/worker-api@7.0.0-1167?classifier=sources

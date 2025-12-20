@@ -294,5 +294,7 @@
 - pkg:maven/io.github.kojiv/developerkit@2.0.2.6?classifier=sources
 - pkg:maven/io.github.kojiv/developerkit@2.0.2.7
 - pkg:maven/io.github.kojiv/developerkit@2.0.2.7?classifier=sources
+- pkg:maven/io.github.kojiv/developerkit@2.0.2.8
+- pkg:maven/io.github.kojiv/developerkit@2.0.2.8?classifier=sources
 - pkg:maven/io.github.kojiv/developerkit@2.0.2?classifier=sources
 - pkg:maven/io.github.kojiv/developerkit@2.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/st.tks.cdk/ec2-spot-simple@2.0.4?classifier=sources
 - pkg:maven/st.tks.cdk/ec2-spot-simple@2.1.0
 - pkg:maven/st.tks.cdk/ec2-spot-simple@2.1.0?classifier=sources
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.2.0
+- pkg:maven/st.tks.cdk/ec2-spot-simple@2.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.bitlap/zio-pekko-cluster_3@0.1.0
+- pkg:maven/org.bitlap/zio-pekko-cluster_3@0.1.0?classifier=sources
+- pkg:maven/org.bitlap/zio-pekko-cluster_3@1.0.0
+- pkg:maven/org.bitlap/zio-pekko-cluster_3@1.0.0?classifier=sources

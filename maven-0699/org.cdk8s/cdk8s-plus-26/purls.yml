@@ -207,6 +207,8 @@
 - pkg:maven/org.cdk8s/cdk8s-plus-26@2.18.7
 - pkg:maven/org.cdk8s/cdk8s-plus-26@2.18.70
 - pkg:maven/org.cdk8s/cdk8s-plus-26@2.18.70?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-26@2.18.71
+- pkg:maven/org.cdk8s/cdk8s-plus-26@2.18.71?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus-26@2.18.7?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus-26@2.18.8
 - pkg:maven/org.cdk8s/cdk8s-plus-26@2.18.8?classifier=sources

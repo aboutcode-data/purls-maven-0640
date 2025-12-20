@@ -61,6 +61,8 @@
 - pkg:maven/me.hekr.iotos.softgateway/framework-core@3.5.29?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/framework-core@3.5.2?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/framework-core@3.5.3
+- pkg:maven/me.hekr.iotos.softgateway/framework-core@3.5.30
+- pkg:maven/me.hekr.iotos.softgateway/framework-core@3.5.30?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/framework-core@3.5.3?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/framework-core@3.5.4
 - pkg:maven/me.hekr.iotos.softgateway/framework-core@3.5.4?classifier=sources

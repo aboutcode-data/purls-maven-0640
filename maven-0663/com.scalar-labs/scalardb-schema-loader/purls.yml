@@ -1,5 +1,8 @@
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.10.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.10.1?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-schema-loader@3.10.2?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-schema-loader@3.11.0-alpha.1?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-schema-loader@3.11.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.4.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.4.1?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.4.2?classifier=sources
@@ -28,6 +31,7 @@
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.6.5?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.6.6?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.6.7?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-schema-loader@3.6.8?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.7.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.7.1?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.7.2?classifier=sources
@@ -35,10 +39,13 @@
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.7.4?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.7.5?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.7.6?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-schema-loader@3.7.7?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.8.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.8.1?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.8.2?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.8.3?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-schema-loader@3.8.4?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.9.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.9.1?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-schema-loader@3.9.2?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-schema-loader@3.9.3?classifier=sources

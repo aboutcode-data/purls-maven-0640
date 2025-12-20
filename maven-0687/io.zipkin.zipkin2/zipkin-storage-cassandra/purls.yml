@@ -158,6 +158,14 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.24.2?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.24.3
 - pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.24.3?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.24.4
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.24.4?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.25.0
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.25.0?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.25.1
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.25.1?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.25.2
+- pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.25.2?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.3.0
 - pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.3.0?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-storage-cassandra@2.3.1

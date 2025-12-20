@@ -42,3 +42,5 @@
 - pkg:maven/com.aliyun/elasticsearch20170613@1.1.4?classifier=sources
 - pkg:maven/com.aliyun/elasticsearch20170613@1.1.5
 - pkg:maven/com.aliyun/elasticsearch20170613@1.1.5?classifier=sources
+- pkg:maven/com.aliyun/elasticsearch20170613@1.2.0
+- pkg:maven/com.aliyun/elasticsearch20170613@1.2.0?classifier=sources

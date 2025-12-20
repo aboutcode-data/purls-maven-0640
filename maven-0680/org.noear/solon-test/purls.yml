@@ -1181,3 +1181,11 @@
 - pkg:maven/org.noear/solon-test@2.6.1-M1
 - pkg:maven/org.noear/solon-test@2.6.1-M2
 - pkg:maven/org.noear/solon-test@2.6.1-M3
+- pkg:maven/org.noear/solon-test@2.6.2
+- pkg:maven/org.noear/solon-test@2.6.2-M1
+- pkg:maven/org.noear/solon-test@2.6.2-M2
+- pkg:maven/org.noear/solon-test@2.6.3
+- pkg:maven/org.noear/solon-test@2.6.3-M1
+- pkg:maven/org.noear/solon-test@2.6.4
+- pkg:maven/org.noear/solon-test@2.6.4-M1
+- pkg:maven/org.noear/solon-test@2.6.5-M1

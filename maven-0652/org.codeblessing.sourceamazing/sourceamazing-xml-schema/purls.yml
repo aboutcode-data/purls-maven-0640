@@ -1,2 +1,6 @@
 - pkg:maven/org.codeblessing.sourceamazing/sourceamazing-xml-schema@1.0.0?classifier=sources
 - pkg:maven/org.codeblessing.sourceamazing/sourceamazing-xml-schema@1.1.0?classifier=sources
+- pkg:maven/org.codeblessing.sourceamazing/sourceamazing-xml-schema@1.2.0?classifier=sources
+- pkg:maven/org.codeblessing.sourceamazing/sourceamazing-xml-schema@1.2.1?classifier=sources
+- pkg:maven/org.codeblessing.sourceamazing/sourceamazing-xml-schema@2.1.0?classifier=sources
+- pkg:maven/org.codeblessing.sourceamazing/sourceamazing-xml-schema@2.2.0?classifier=sources
