@@ -2,3 +2,7 @@
 - pkg:maven/com.avsystem.scex/scex-core_2.13.14@1.31.0?classifier=sources
 - pkg:maven/com.avsystem.scex/scex-core_2.13.14@1.31.1
 - pkg:maven/com.avsystem.scex/scex-core_2.13.14@1.31.1?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-core_2.13.14@1.32.0
+- pkg:maven/com.avsystem.scex/scex-core_2.13.14@1.32.0?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-core_2.13.14@1.33.0
+- pkg:maven/com.avsystem.scex/scex-core_2.13.14@1.33.0?classifier=sources

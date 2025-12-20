@@ -109,6 +109,13 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-288?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-290?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-291?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-299?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-302?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-303?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-304?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-306?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-307?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-308?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-41?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-42?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-script-classpath-shadowed@0.12.0-43?classifier=sources

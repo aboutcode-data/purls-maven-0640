@@ -53,6 +53,8 @@
 - pkg:maven/com.liveperson.android/lp_messaging_sdk@5.22.0-beta01?classifier=sources
 - pkg:maven/com.liveperson.android/lp_messaging_sdk@5.22.0?classifier=sources
 - pkg:maven/com.liveperson.android/lp_messaging_sdk@5.23.0-beta01?classifier=sources
+- pkg:maven/com.liveperson.android/lp_messaging_sdk@5.23.0?classifier=sources
+- pkg:maven/com.liveperson.android/lp_messaging_sdk@5.23.1?classifier=sources
 - pkg:maven/com.liveperson.android/lp_messaging_sdk@5.3.0?classifier=sources
 - pkg:maven/com.liveperson.android/lp_messaging_sdk@5.4.0?classifier=sources
 - pkg:maven/com.liveperson.android/lp_messaging_sdk@5.5.0?classifier=sources

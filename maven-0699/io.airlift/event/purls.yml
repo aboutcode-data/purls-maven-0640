@@ -368,3 +368,15 @@
 - pkg:maven/io.airlift/event@259?classifier=sources
 - pkg:maven/io.airlift/event@260?classifier=sources
 - pkg:maven/io.airlift/event@261?classifier=sources
+- pkg:maven/io.airlift/event@262?classifier=sources
+- pkg:maven/io.airlift/event@263?classifier=sources
+- pkg:maven/io.airlift/event@264?classifier=sources
+- pkg:maven/io.airlift/event@265?classifier=sources
+- pkg:maven/io.airlift/event@266?classifier=sources
+- pkg:maven/io.airlift/event@267?classifier=sources
+- pkg:maven/io.airlift/event@268?classifier=sources
+- pkg:maven/io.airlift/event@269?classifier=sources
+- pkg:maven/io.airlift/event@270?classifier=sources
+- pkg:maven/io.airlift/event@271?classifier=sources
+- pkg:maven/io.airlift/event@272?classifier=sources
+- pkg:maven/io.airlift/event@273?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/cloud.piranha.feature/piranha-feature-pid@24.7.0?classifier=sources
 - pkg:maven/cloud.piranha.feature/piranha-feature-pid@24.8.0
 - pkg:maven/cloud.piranha.feature/piranha-feature-pid@24.8.0?classifier=sources
+- pkg:maven/cloud.piranha.feature/piranha-feature-pid@24.9.0
+- pkg:maven/cloud.piranha.feature/piranha-feature-pid@24.9.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.manifoldcf/mcf-parent@2.26?classifier=source-release&type=zip
+- pkg:maven/org.apache.manifoldcf/mcf-parent@2.27?classifier=source-release&type=zip

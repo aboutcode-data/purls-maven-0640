@@ -18,3 +18,5 @@
 - pkg:maven/com.phloc/phloc-webbasics@3.2.6?classifier=sources
 - pkg:maven/com.phloc/phloc-webbasics@4.0.0
 - pkg:maven/com.phloc/phloc-webbasics@4.0.0?classifier=sources
+- pkg:maven/com.phloc/phloc-webbasics@4.0.2
+- pkg:maven/com.phloc/phloc-webbasics@4.0.2?classifier=sources

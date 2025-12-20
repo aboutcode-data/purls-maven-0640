@@ -34,3 +34,4 @@
 - pkg:maven/fr.acinq.lightning/lightning-kmp@1.7.2?classifier=sources
 - pkg:maven/fr.acinq.lightning/lightning-kmp@1.7.3-FEECREDIT-11?classifier=sources
 - pkg:maven/fr.acinq.lightning/lightning-kmp@1.7.3?classifier=sources
+- pkg:maven/fr.acinq.lightning/lightning-kmp@1.8.0?classifier=sources

@@ -70,3 +70,5 @@
 - pkg:maven/com.maxmind.minfraud/minfraud@3.4.0?classifier=sources
 - pkg:maven/com.maxmind.minfraud/minfraud@3.5.0
 - pkg:maven/com.maxmind.minfraud/minfraud@3.5.0?classifier=sources
+- pkg:maven/com.maxmind.minfraud/minfraud@3.6.0-beta.1
+- pkg:maven/com.maxmind.minfraud/minfraud@3.6.0-beta.1?classifier=sources

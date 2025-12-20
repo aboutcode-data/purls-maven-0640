@@ -8,3 +8,5 @@
 - pkg:maven/dev.mccue/tools-javac@2024.08.27.3?classifier=sources
 - pkg:maven/dev.mccue/tools-javac@2024.08.27?classifier=sources
 - pkg:maven/dev.mccue/tools-javac@2024.08.28?classifier=sources
+- pkg:maven/dev.mccue/tools-javac@2024.08.30?classifier=sources
+- pkg:maven/dev.mccue/tools-javac@2024.09.03?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/primevue@3.43.0?classifier=sources
+- pkg:maven/org.mvnpm/primevue@4.0.7?classifier=sources

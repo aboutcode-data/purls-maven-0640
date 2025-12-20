@@ -79,3 +79,9 @@
 - pkg:maven/io.trino/trino-delta-lake@452?classifier=sources
 - pkg:maven/io.trino/trino-delta-lake@453?classifier=sources
 - pkg:maven/io.trino/trino-delta-lake@454?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@455?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@456?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@457?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@458?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@459?classifier=sources
+- pkg:maven/io.trino/trino-delta-lake@460?classifier=sources

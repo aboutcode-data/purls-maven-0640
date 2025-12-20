@@ -3,3 +3,4 @@
 - pkg:maven/io.github.adempiere/adempiere-s3-connector@1.0.2?classifier=sources
 - pkg:maven/io.github.adempiere/adempiere-s3-connector@1.0.3?classifier=sources
 - pkg:maven/io.github.adempiere/adempiere-s3-connector@1.0.4?classifier=sources
+- pkg:maven/io.github.adempiere/adempiere-s3-connector@1.0.5?classifier=sources

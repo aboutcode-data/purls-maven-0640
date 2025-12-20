@@ -1,0 +1,2 @@
+- pkg:maven/org.voltdb/volt-stream-api@1.0.0
+- pkg:maven/org.voltdb/volt-stream-api@1.0.0?classifier=sources

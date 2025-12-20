@@ -154,6 +154,17 @@
 - pkg:maven/com.pulumi/awsx@2.15.0-alpha.1723476153?classifier=sources
 - pkg:maven/com.pulumi/awsx@2.15.0-alpha.1724078491?classifier=sources
 - pkg:maven/com.pulumi/awsx@2.15.0-alpha.1724692217?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.15.0-alpha.1725482434?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.15.0-alpha.1725482477?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.15.0-alpha.1726474099?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.15.0-alpha.1726491458?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.15.0?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.16.0-alpha.1727305762?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.16.0-alpha.1727306590?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.16.0?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.16.1?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.17.0-alpha.1727715955?classifier=sources
+- pkg:maven/com.pulumi/awsx@2.17.0-alpha.1727876328?classifier=sources
 - pkg:maven/com.pulumi/awsx@2.2.0?classifier=sources
 - pkg:maven/com.pulumi/awsx@2.3.0?classifier=sources
 - pkg:maven/com.pulumi/awsx@2.4.0?classifier=sources

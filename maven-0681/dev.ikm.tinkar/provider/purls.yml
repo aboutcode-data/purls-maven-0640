@@ -9,3 +9,8 @@
 - pkg:maven/dev.ikm.tinkar/provider@1.61.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/provider@1.65.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/provider@1.66.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/provider@1.67.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/provider@1.68.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/provider@1.69.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/provider@1.70.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/provider@1.71.0?classifier=sources

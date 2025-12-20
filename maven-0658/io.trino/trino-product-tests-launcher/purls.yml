@@ -204,3 +204,15 @@
 - pkg:maven/io.trino/trino-product-tests-launcher@453?classifier=sources
 - pkg:maven/io.trino/trino-product-tests-launcher@454
 - pkg:maven/io.trino/trino-product-tests-launcher@454?classifier=sources
+- pkg:maven/io.trino/trino-product-tests-launcher@455
+- pkg:maven/io.trino/trino-product-tests-launcher@455?classifier=sources
+- pkg:maven/io.trino/trino-product-tests-launcher@456
+- pkg:maven/io.trino/trino-product-tests-launcher@456?classifier=sources
+- pkg:maven/io.trino/trino-product-tests-launcher@457
+- pkg:maven/io.trino/trino-product-tests-launcher@457?classifier=sources
+- pkg:maven/io.trino/trino-product-tests-launcher@458
+- pkg:maven/io.trino/trino-product-tests-launcher@458?classifier=sources
+- pkg:maven/io.trino/trino-product-tests-launcher@459
+- pkg:maven/io.trino/trino-product-tests-launcher@459?classifier=sources
+- pkg:maven/io.trino/trino-product-tests-launcher@460
+- pkg:maven/io.trino/trino-product-tests-launcher@460?classifier=sources

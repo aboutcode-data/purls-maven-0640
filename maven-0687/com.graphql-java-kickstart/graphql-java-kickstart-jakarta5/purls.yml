@@ -1,2 +1,3 @@
 - pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart-jakarta5@15.1.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart-jakarta5@15.2.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart-jakarta5@16.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/site.sorghum.anno/anno-admin-excel@1.2.1
+- pkg:maven/site.sorghum.anno/anno-admin-excel@1.2.1?classifier=sources

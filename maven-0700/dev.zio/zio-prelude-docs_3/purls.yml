@@ -26,3 +26,5 @@
 - pkg:maven/dev.zio/zio-prelude-docs_3@1.0.0-RC29?classifier=sources
 - pkg:maven/dev.zio/zio-prelude-docs_3@1.0.0-RC30
 - pkg:maven/dev.zio/zio-prelude-docs_3@1.0.0-RC30?classifier=sources
+- pkg:maven/dev.zio/zio-prelude-docs_3@1.0.0-RC31
+- pkg:maven/dev.zio/zio-prelude-docs_3@1.0.0-RC31?classifier=sources

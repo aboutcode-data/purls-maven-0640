@@ -101,3 +101,9 @@
 - pkg:maven/io.trino/trino-mongodb@452?classifier=sources
 - pkg:maven/io.trino/trino-mongodb@453?classifier=sources
 - pkg:maven/io.trino/trino-mongodb@454?classifier=sources
+- pkg:maven/io.trino/trino-mongodb@455?classifier=sources
+- pkg:maven/io.trino/trino-mongodb@456?classifier=sources
+- pkg:maven/io.trino/trino-mongodb@457?classifier=sources
+- pkg:maven/io.trino/trino-mongodb@458?classifier=sources
+- pkg:maven/io.trino/trino-mongodb@459?classifier=sources
+- pkg:maven/io.trino/trino-mongodb@460?classifier=sources

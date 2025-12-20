@@ -48,3 +48,6 @@
 - pkg:maven/io.realm.kotlin/plugin-compiler-shaded@1.9.1?classifier=sources
 - pkg:maven/io.realm.kotlin/plugin-compiler-shaded@2.0.0?classifier=sources
 - pkg:maven/io.realm.kotlin/plugin-compiler-shaded@2.1.0?classifier=sources
+- pkg:maven/io.realm.kotlin/plugin-compiler-shaded@2.2.0?classifier=sources
+- pkg:maven/io.realm.kotlin/plugin-compiler-shaded@2.3.0?classifier=sources
+- pkg:maven/io.realm.kotlin/plugin-compiler-shaded@3.0.0?classifier=sources

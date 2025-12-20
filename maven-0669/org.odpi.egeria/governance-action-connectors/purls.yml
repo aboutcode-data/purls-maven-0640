@@ -61,3 +61,4 @@
 - pkg:maven/org.odpi.egeria/governance-action-connectors@4.2?classifier=sources
 - pkg:maven/org.odpi.egeria/governance-action-connectors@4.3?classifier=sources
 - pkg:maven/org.odpi.egeria/governance-action-connectors@5.0?classifier=sources
+- pkg:maven/org.odpi.egeria/governance-action-connectors@5.1?classifier=sources

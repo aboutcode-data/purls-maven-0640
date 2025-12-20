@@ -1,0 +1,2 @@
+- pkg:maven/io.uhndata.cards/cards-permissions-unsubmitted@0.9.25
+- pkg:maven/io.uhndata.cards/cards-permissions-unsubmitted@0.9.25?classifier=sources

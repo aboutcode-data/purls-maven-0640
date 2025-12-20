@@ -48,3 +48,4 @@
 - pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@3.2.1?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@3.2.2?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@3.2.3?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@3.2.4?classifier=sources

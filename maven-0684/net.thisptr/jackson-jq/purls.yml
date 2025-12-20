@@ -20,6 +20,7 @@
 - pkg:maven/net.thisptr/jackson-jq@0.0.8?classifier=sources
 - pkg:maven/net.thisptr/jackson-jq@0.0.9
 - pkg:maven/net.thisptr/jackson-jq@0.0.9?classifier=sources
+- pkg:maven/net.thisptr/jackson-jq@1.0.0
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20190925
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20190925?classifier=sources
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20191208
@@ -40,3 +41,4 @@
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20230409?classifier=sources
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20240207
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20240207?classifier=sources
+- pkg:maven/net.thisptr/jackson-jq@1.0.0?classifier=sources

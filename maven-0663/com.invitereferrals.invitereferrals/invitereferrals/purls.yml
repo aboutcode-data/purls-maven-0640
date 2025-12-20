@@ -50,6 +50,7 @@
 - pkg:maven/com.invitereferrals.invitereferrals/invitereferrals@v1.2.6.1?classifier=sources
 - pkg:maven/com.invitereferrals.invitereferrals/invitereferrals@v1.2.6.2?classifier=sources
 - pkg:maven/com.invitereferrals.invitereferrals/invitereferrals@v1.2.6?classifier=sources
+- pkg:maven/com.invitereferrals.invitereferrals/invitereferrals@v1.2.7?classifier=sources
 - pkg:maven/com.invitereferrals.invitereferrals/invitereferrals@v28-4.3.8?classifier=sources
 - pkg:maven/com.invitereferrals.invitereferrals/invitereferrals@v28-4.3.8?type=aar
 - pkg:maven/com.invitereferrals.invitereferrals/invitereferrals@v29-1.0.7?classifier=sources

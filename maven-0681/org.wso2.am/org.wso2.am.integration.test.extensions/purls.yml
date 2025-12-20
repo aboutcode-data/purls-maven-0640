@@ -110,3 +110,5 @@
 - pkg:maven/org.wso2.am/org.wso2.am.integration.test.extensions@4.2.0-beta
 - pkg:maven/org.wso2.am/org.wso2.am.integration.test.extensions@4.2.0-beta?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.am.integration.test.extensions@4.2.0?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.am.integration.test.extensions@4.4.0-alpha
+- pkg:maven/org.wso2.am/org.wso2.am.integration.test.extensions@4.4.0-alpha?classifier=sources

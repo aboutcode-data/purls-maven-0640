@@ -12,3 +12,5 @@
 - pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc-spring-boot-starter@3.0?classifier=sources
 - pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc-spring-boot-starter@3.1
 - pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc-spring-boot-starter@3.1?classifier=sources
+- pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc-spring-boot-starter@3.2
+- pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc-spring-boot-starter@3.2?classifier=sources

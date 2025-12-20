@@ -16,3 +16,5 @@
 - pkg:maven/net.sf.okapi/okapi-lib@1.45.0?classifier=sources
 - pkg:maven/net.sf.okapi/okapi-lib@1.46.0
 - pkg:maven/net.sf.okapi/okapi-lib@1.46.0?classifier=sources
+- pkg:maven/net.sf.okapi/okapi-lib@1.47.0
+- pkg:maven/net.sf.okapi/okapi-lib@1.47.0?classifier=sources

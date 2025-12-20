@@ -28,3 +28,5 @@
 - pkg:maven/com.ossuminc/riddl-utils_3@0.49.0?classifier=sources
 - pkg:maven/com.ossuminc/riddl-utils_3@0.50.0
 - pkg:maven/com.ossuminc/riddl-utils_3@0.50.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-utils_3@0.52.1
+- pkg:maven/com.ossuminc/riddl-utils_3@0.52.1?classifier=sources

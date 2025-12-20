@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cores-plus/cores@2.3.9?classifier=sources
+- pkg:maven/io.github.cores-plus/cores@2.4.1?classifier=sources

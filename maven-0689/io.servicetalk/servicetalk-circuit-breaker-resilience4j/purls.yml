@@ -3,3 +3,4 @@
 - pkg:maven/io.servicetalk/servicetalk-circuit-breaker-resilience4j@0.42.46?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-circuit-breaker-resilience4j@0.42.47?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-circuit-breaker-resilience4j@0.42.48?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-circuit-breaker-resilience4j@0.42.49?classifier=sources

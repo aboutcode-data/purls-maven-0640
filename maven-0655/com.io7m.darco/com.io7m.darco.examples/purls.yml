@@ -1,2 +1,6 @@
+- pkg:maven/com.io7m.darco/com.io7m.darco.examples@1.0.0
 - pkg:maven/com.io7m.darco/com.io7m.darco.examples@1.0.0-beta0001
 - pkg:maven/com.io7m.darco/com.io7m.darco.examples@1.0.0-beta0001?classifier=sources
+- pkg:maven/com.io7m.darco/com.io7m.darco.examples@1.0.0?classifier=sources
+- pkg:maven/com.io7m.darco/com.io7m.darco.examples@2.0.0
+- pkg:maven/com.io7m.darco/com.io7m.darco.examples@2.0.0?classifier=sources

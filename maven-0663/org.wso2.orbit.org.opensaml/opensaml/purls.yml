@@ -3,6 +3,7 @@
 - pkg:maven/org.wso2.orbit.org.opensaml/opensaml@2.6.6.wso2v4
 - pkg:maven/org.wso2.orbit.org.opensaml/opensaml@3.3.1.wso2v1
 - pkg:maven/org.wso2.orbit.org.opensaml/opensaml@3.3.1.wso2v11
+- pkg:maven/org.wso2.orbit.org.opensaml/opensaml@3.3.1.wso2v12
 - pkg:maven/org.wso2.orbit.org.opensaml/opensaml@3.3.1.wso2v2
 - pkg:maven/org.wso2.orbit.org.opensaml/opensaml@3.3.1.wso2v3
 - pkg:maven/org.wso2.orbit.org.opensaml/opensaml@3.3.1.wso2v4

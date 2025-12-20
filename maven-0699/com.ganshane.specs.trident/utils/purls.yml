@@ -1,0 +1,4 @@
+- pkg:maven/com.ganshane.specs.trident/utils@0.7.0
+- pkg:maven/com.ganshane.specs.trident/utils@0.7.0?classifier=sources
+- pkg:maven/com.ganshane.specs.trident/utils@0.9.0
+- pkg:maven/com.ganshane.specs.trident/utils@0.9.0?classifier=sources

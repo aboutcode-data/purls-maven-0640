@@ -1,2 +1,4 @@
 - pkg:maven/org.mdedetrich/sbt-apache-sonatype_2.12_1.0@0.1.11
 - pkg:maven/org.mdedetrich/sbt-apache-sonatype_2.12_1.0@0.1.11?classifier=sources
+- pkg:maven/org.mdedetrich/sbt-apache-sonatype_2.12_1.0@0.1.12
+- pkg:maven/org.mdedetrich/sbt-apache-sonatype_2.12_1.0@0.1.12?classifier=sources

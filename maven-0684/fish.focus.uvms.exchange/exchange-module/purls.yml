@@ -12,3 +12,5 @@
 - pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.29?type=war
 - pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.30?classifier=sources
 - pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.30?type=war
+- pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.32?classifier=sources
+- pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.32?type=war

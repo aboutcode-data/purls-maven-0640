@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/vaadin__combo-box@24.2.0-alpha2
 - pkg:maven/org.webjars.npm/vaadin__combo-box@24.2.0-alpha2?classifier=sources
+- pkg:maven/org.webjars.npm/vaadin__combo-box@24.4.10

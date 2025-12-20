@@ -1,6 +1,8 @@
 - pkg:maven/org.beangle.ems/beangle-ems-portal@4.10.0?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-portal@4.10.1?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-portal@4.10.2?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-portal@4.10.4?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-portal@4.10.5?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-portal@4.8.12?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-portal@4.8.13?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-portal@4.8.14?classifier=sources

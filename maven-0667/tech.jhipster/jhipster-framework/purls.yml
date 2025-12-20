@@ -64,3 +64,5 @@
 - pkg:maven/tech.jhipster/jhipster-framework@8.6.0?classifier=sources
 - pkg:maven/tech.jhipster/jhipster-framework@8.7.0
 - pkg:maven/tech.jhipster/jhipster-framework@8.7.0?classifier=sources
+- pkg:maven/tech.jhipster/jhipster-framework@8.7.1
+- pkg:maven/tech.jhipster/jhipster-framework@8.7.1?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/io.github.zhantewei2/utils@2.3.5._35?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@2.3.5._36?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@2.3.5._37?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@2.3.5._38?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@2.7.13._35?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@3.3.2._35?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@3.3.2._38?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@3.3.2._39?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@3.3.2._40?classifier=sources

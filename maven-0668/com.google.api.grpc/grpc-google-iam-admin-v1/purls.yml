@@ -110,6 +110,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.42.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.43.0
 - pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.43.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.44.0
+- pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.44.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.46.0
+- pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.46.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-iam-admin-v1@3.6.0

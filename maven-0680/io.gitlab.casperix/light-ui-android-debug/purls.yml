@@ -1,0 +1,3 @@
+- pkg:maven/io.gitlab.casperix/light-ui-android-debug@0.10.0?classifier=sources
+- pkg:maven/io.gitlab.casperix/light-ui-android-debug@0.10.2?classifier=sources
+- pkg:maven/io.gitlab.casperix/light-ui-android-debug@0.8.1?classifier=sources

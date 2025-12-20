@@ -37,6 +37,9 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.22.3
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.22.4
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.22.6
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.22.7
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.23.0
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.23.1
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.5.10
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.5.11
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-message-constants@1.5.12

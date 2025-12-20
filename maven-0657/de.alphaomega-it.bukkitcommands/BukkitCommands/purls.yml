@@ -1,0 +1,2 @@
+- pkg:maven/de.alphaomega-it.bukkitcommands/BukkitCommands@1.2?classifier=sources
+- pkg:maven/de.alphaomega-it.bukkitcommands/BukkitCommands@1.5?classifier=sources

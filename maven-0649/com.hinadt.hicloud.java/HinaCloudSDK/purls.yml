@@ -16,3 +16,5 @@
 - pkg:maven/com.hinadt.hicloud.java/HinaCloudSDK@5.1.0?classifier=sources
 - pkg:maven/com.hinadt.hicloud.java/HinaCloudSDK@6.0.0
 - pkg:maven/com.hinadt.hicloud.java/HinaCloudSDK@6.0.0?classifier=sources
+- pkg:maven/com.hinadt.hicloud.java/HinaCloudSDK@6.1.0
+- pkg:maven/com.hinadt.hicloud.java/HinaCloudSDK@6.1.0?classifier=sources

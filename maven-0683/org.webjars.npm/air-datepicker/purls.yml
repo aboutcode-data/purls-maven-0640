@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/air-datepicker@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/air-datepicker@2.2.3
 - pkg:maven/org.webjars.npm/air-datepicker@2.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/air-datepicker@3.5.3

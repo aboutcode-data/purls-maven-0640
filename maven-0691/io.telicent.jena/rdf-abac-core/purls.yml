@@ -8,3 +8,7 @@
 - pkg:maven/io.telicent.jena/rdf-abac-core@0.71.6?classifier=sources
 - pkg:maven/io.telicent.jena/rdf-abac-core@0.71.7
 - pkg:maven/io.telicent.jena/rdf-abac-core@0.71.7?classifier=sources
+- pkg:maven/io.telicent.jena/rdf-abac-core@0.71.8
+- pkg:maven/io.telicent.jena/rdf-abac-core@0.71.8?classifier=sources
+- pkg:maven/io.telicent.jena/rdf-abac-core@0.71.9
+- pkg:maven/io.telicent.jena/rdf-abac-core@0.71.9?classifier=sources

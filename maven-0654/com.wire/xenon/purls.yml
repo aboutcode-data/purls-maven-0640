@@ -36,3 +36,7 @@
 - pkg:maven/com.wire/xenon@1.5.4?classifier=sources
 - pkg:maven/com.wire/xenon@1.5.5
 - pkg:maven/com.wire/xenon@1.5.5?classifier=sources
+- pkg:maven/com.wire/xenon@1.6.1
+- pkg:maven/com.wire/xenon@1.6.1?classifier=sources
+- pkg:maven/com.wire/xenon@1.6.2
+- pkg:maven/com.wire/xenon@1.6.2?classifier=sources

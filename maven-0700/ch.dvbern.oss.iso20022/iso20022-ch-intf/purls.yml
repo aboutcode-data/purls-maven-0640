@@ -10,3 +10,5 @@
 - pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-intf@6.1.1?classifier=sources
 - pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-intf@6.2.0
 - pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-intf@6.2.0?classifier=sources
+- pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-intf@7.0.2
+- pkg:maven/ch.dvbern.oss.iso20022/iso20022-ch-intf@7.0.2?classifier=sources

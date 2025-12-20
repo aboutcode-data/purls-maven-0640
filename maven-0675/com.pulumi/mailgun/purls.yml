@@ -140,3 +140,13 @@
 - pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1723819832?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1724478073?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1724910370?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1724996823?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1725601642?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1725687720?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1725947136?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1726033568?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1726206398?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1726724891?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1727221352?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1727847523?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1727879958?classifier=sources

@@ -128,3 +128,5 @@
 - pkg:maven/com.github.nosan/embedded-cassandra@4.0.7?classifier=sources
 - pkg:maven/com.github.nosan/embedded-cassandra@4.1.0
 - pkg:maven/com.github.nosan/embedded-cassandra@4.1.0?classifier=sources
+- pkg:maven/com.github.nosan/embedded-cassandra@5.0.0
+- pkg:maven/com.github.nosan/embedded-cassandra@5.0.0?classifier=sources

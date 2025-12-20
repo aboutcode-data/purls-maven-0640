@@ -229,6 +229,10 @@
 - pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.212?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.213
 - pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.213?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.214
+- pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.214?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.215
+- pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.215?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.2?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.3
 - pkg:maven/uk.gov.nationalarchives/tdr-auth-utils_2.13@0.0.32

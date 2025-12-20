@@ -53,5 +53,6 @@
 - pkg:maven/de.gurkenlabs/litiengine@0.7.3?classifier=sources
 - pkg:maven/de.gurkenlabs/litiengine@0.7.4?classifier=sources
 - pkg:maven/de.gurkenlabs/litiengine@0.8.0?classifier=sources
+- pkg:maven/de.gurkenlabs/litiengine@0.9.0?classifier=sources
 - pkg:maven/de.gurkenlabs/litiengine@v0.4.7-alpha
 - pkg:maven/de.gurkenlabs/litiengine@v0.4.7-alpha?classifier=sources
