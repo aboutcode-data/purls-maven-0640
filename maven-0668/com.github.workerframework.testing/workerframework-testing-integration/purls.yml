@@ -1,2 +1,4 @@
 - pkg:maven/com.github.workerframework.testing/workerframework-testing-integration@1.0.0-82
 - pkg:maven/com.github.workerframework.testing/workerframework-testing-integration@1.0.0-82?classifier=sources
+- pkg:maven/com.github.workerframework.testing/workerframework-testing-integration@2.0.0-189
+- pkg:maven/com.github.workerframework.testing/workerframework-testing-integration@2.0.0-189?classifier=sources

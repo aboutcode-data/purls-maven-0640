@@ -21,3 +21,4 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-zio-api_2.11@8.6.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-zio-api_2.11@8.7.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-scala-zio-api_2.11@8.8.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-scala-zio-api_2.11@8.8.1?classifier=sources

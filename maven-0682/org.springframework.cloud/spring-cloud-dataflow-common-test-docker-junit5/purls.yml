@@ -10,6 +10,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.11.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.11.1
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.11.1?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.11.2
+- pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.11.2?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.4.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.4.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-dataflow-common-test-docker-junit5@2.5.0.RELEASE

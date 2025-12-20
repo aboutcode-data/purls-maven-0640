@@ -8,3 +8,7 @@
 - pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.5-4?classifier=sources
 - pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.5-alpha-2?classifier=sources
 - pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.5-alpha-3?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.6-gamma-11?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.6-gamma-17?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.6-gamma-18?classifier=sources
+- pkg:maven/com.skillw.pouvoir/Pouvoir@1.6.6-gamma-19?classifier=sources

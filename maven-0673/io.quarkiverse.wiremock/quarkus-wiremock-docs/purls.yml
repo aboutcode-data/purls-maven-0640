@@ -8,3 +8,7 @@
 - pkg:maven/io.quarkiverse.wiremock/quarkus-wiremock-docs@0.1.2?classifier=sources
 - pkg:maven/io.quarkiverse.wiremock/quarkus-wiremock-docs@1.0.0
 - pkg:maven/io.quarkiverse.wiremock/quarkus-wiremock-docs@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.wiremock/quarkus-wiremock-docs@1.1.0
+- pkg:maven/io.quarkiverse.wiremock/quarkus-wiremock-docs@1.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.wiremock/quarkus-wiremock-docs@1.1.1
+- pkg:maven/io.quarkiverse.wiremock/quarkus-wiremock-docs@1.1.1?classifier=sources

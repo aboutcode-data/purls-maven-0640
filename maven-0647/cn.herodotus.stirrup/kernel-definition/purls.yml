@@ -1,0 +1,2 @@
+- pkg:maven/cn.herodotus.stirrup/kernel-definition@3.2.1.4
+- pkg:maven/cn.herodotus.stirrup/kernel-definition@3.2.1.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.seeq.test-categories/common-test-categories@62.0.14-v202401232350?classifier=sources
+- pkg:maven/com.seeq.test-categories/common-test-categories@63.0.9-v202401260310?classifier=sources
+- pkg:maven/com.seeq.test-categories/common-test-categories@64.0.0-v202401250607?classifier=sources
+- pkg:maven/com.seeq.test-categories/common-test-categories@64.0.1-v202402020435?classifier=sources

@@ -110,3 +110,5 @@
 - pkg:maven/org.apache.servicecomb/common-access-log@2.8.9?classifier=sources
 - pkg:maven/org.apache.servicecomb/common-access-log@3.0.0
 - pkg:maven/org.apache.servicecomb/common-access-log@3.0.0?classifier=sources
+- pkg:maven/org.apache.servicecomb/common-access-log@3.0.1
+- pkg:maven/org.apache.servicecomb/common-access-log@3.0.1?classifier=sources

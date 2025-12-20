@@ -2,6 +2,10 @@
 - pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.0-bate?classifier=sources
 - pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.1-bate
 - pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.1-bate?classifier=sources
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.10-bate
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.10-bate?classifier=sources
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.11-bate
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.11-bate?classifier=sources
 - pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.2-bate
 - pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.2-bate?classifier=sources
 - pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.3-bate
@@ -16,3 +20,5 @@
 - pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.7-bate?classifier=sources
 - pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.8-bate
 - pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.8-bate?classifier=sources
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.9-bate
+- pkg:maven/com.bingchunmoli/moli-quick-mybatis-plus-spring-boot-starter@1.0.9-bate?classifier=sources

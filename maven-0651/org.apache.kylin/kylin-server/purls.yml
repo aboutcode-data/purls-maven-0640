@@ -94,6 +94,8 @@
 - pkg:maven/org.apache.kylin/kylin-server@4.0.2?type=war
 - pkg:maven/org.apache.kylin/kylin-server@4.0.3?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-server@4.0.3?type=war
+- pkg:maven/org.apache.kylin/kylin-server@4.0.4?classifier=sources
+- pkg:maven/org.apache.kylin/kylin-server@4.0.4?type=war
 - pkg:maven/org.apache.kylin/kylin-server@5.0.0-alpha
 - pkg:maven/org.apache.kylin/kylin-server@5.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.kylin/kylin-server@5.0.0-beta

@@ -483,6 +483,10 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.63.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.64.0-01
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.64.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.64.0-03
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.64.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.64.0-04
+- pkg:maven/org.sonatype.nexus/nexus-test-common@3.64.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.7.0-04
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.7.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-common@3.7.1-02

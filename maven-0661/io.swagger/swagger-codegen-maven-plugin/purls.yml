@@ -81,6 +81,10 @@
 - pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.36?classifier=sources
 - pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.37
 - pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.37?classifier=sources
+- pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.38
+- pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.38?classifier=sources
+- pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.39
+- pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.39?classifier=sources
 - pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.3?classifier=sources
 - pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.4
 - pkg:maven/io.swagger/swagger-codegen-maven-plugin@2.4.4?classifier=sources

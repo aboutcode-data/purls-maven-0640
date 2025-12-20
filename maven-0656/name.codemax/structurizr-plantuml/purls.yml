@@ -1,2 +1,4 @@
 - pkg:maven/name.codemax/structurizr-plantuml@0.5
 - pkg:maven/name.codemax/structurizr-plantuml@0.5?classifier=sources
+- pkg:maven/name.codemax/structurizr-plantuml@0.6
+- pkg:maven/name.codemax/structurizr-plantuml@0.6?classifier=sources

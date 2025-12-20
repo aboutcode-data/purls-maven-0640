@@ -8,3 +8,5 @@
 - pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.26?type=war
 - pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.27?classifier=sources
 - pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.27?type=war
+- pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.29?classifier=sources
+- pkg:maven/fish.focus.uvms.exchange/exchange-module@5.3.29?type=war

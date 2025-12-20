@@ -17,3 +17,5 @@
 - pkg:maven/com.rubensousa.dpadrecyclerview/dpadrecyclerview-testing@1.1.0?classifier=sources
 - pkg:maven/com.rubensousa.dpadrecyclerview/dpadrecyclerview-testing@1.2.0-alpha01?classifier=sources
 - pkg:maven/com.rubensousa.dpadrecyclerview/dpadrecyclerview-testing@1.2.0-alpha02?classifier=sources
+- pkg:maven/com.rubensousa.dpadrecyclerview/dpadrecyclerview-testing@1.2.0-alpha03?classifier=sources
+- pkg:maven/com.rubensousa.dpadrecyclerview/dpadrecyclerview-testing@1.2.0-beta01?classifier=sources

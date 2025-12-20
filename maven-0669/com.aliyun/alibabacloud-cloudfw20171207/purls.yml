@@ -8,3 +8,5 @@
 - pkg:maven/com.aliyun/alibabacloud-cloudfw20171207@2.0.1?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-cloudfw20171207@3.0.0
 - pkg:maven/com.aliyun/alibabacloud-cloudfw20171207@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-cloudfw20171207@3.0.1
+- pkg:maven/com.aliyun/alibabacloud-cloudfw20171207@3.0.1?classifier=sources

@@ -68,3 +68,11 @@
 - pkg:maven/com.gammarer/aws-rds-database-running-scheduler@0.5.8?classifier=sources
 - pkg:maven/com.gammarer/aws-rds-database-running-scheduler@0.5.9
 - pkg:maven/com.gammarer/aws-rds-database-running-scheduler@0.5.9?classifier=sources
+- pkg:maven/com.gammarer/aws-rds-database-running-scheduler@1.0.0
+- pkg:maven/com.gammarer/aws-rds-database-running-scheduler@1.0.0?classifier=sources
+- pkg:maven/com.gammarer/aws-rds-database-running-scheduler@1.1.0
+- pkg:maven/com.gammarer/aws-rds-database-running-scheduler@1.1.0?classifier=sources
+- pkg:maven/com.gammarer/aws-rds-database-running-scheduler@1.1.1
+- pkg:maven/com.gammarer/aws-rds-database-running-scheduler@1.1.1?classifier=sources
+- pkg:maven/com.gammarer/aws-rds-database-running-scheduler@1.1.2
+- pkg:maven/com.gammarer/aws-rds-database-running-scheduler@1.1.2?classifier=sources

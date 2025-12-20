@@ -38,6 +38,9 @@
 - pkg:maven/com.liferay/com.liferay.headless.admin.list.type.client@1.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.list.type.client@1.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.list.type.client@1.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.list.type.client@1.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.list.type.client@1.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.admin.list.type.client@1.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.list.type.client@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.admin.list.type.client@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.headless.admin.list.type.client@1.0.3

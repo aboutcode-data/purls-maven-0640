@@ -6,3 +6,7 @@
 - pkg:maven/dev.langchain4j/langchain4j-vertex-ai@0.24.0?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-vertex-ai@0.25.0
 - pkg:maven/dev.langchain4j/langchain4j-vertex-ai@0.25.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-vertex-ai@0.26.0
+- pkg:maven/dev.langchain4j/langchain4j-vertex-ai@0.26.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-vertex-ai@0.26.1
+- pkg:maven/dev.langchain4j/langchain4j-vertex-ai@0.26.1?classifier=sources

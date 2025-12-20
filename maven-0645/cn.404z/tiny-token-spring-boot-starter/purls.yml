@@ -38,3 +38,5 @@
 - pkg:maven/cn.404z/tiny-token-spring-boot-starter@1.6.1.low.lite?classifier=sources
 - pkg:maven/cn.404z/tiny-token-spring-boot-starter@1.6.1.low?classifier=sources
 - pkg:maven/cn.404z/tiny-token-spring-boot-starter@1.6.1?classifier=sources
+- pkg:maven/cn.404z/tiny-token-spring-boot-starter@1.6.2.auth
+- pkg:maven/cn.404z/tiny-token-spring-boot-starter@1.6.2.auth?classifier=sources

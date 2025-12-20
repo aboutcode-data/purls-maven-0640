@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.26?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.27
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.27?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.28
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.28?classifier=sources

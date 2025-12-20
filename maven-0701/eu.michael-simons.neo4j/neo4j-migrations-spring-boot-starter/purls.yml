@@ -78,3 +78,4 @@
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-spring-boot-starter@2.7.0
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-spring-boot-starter@2.8.0
 - pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-spring-boot-starter@2.8.1
+- pkg:maven/eu.michael-simons.neo4j/neo4j-migrations-spring-boot-starter@2.8.2

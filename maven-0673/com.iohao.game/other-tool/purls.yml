@@ -60,3 +60,5 @@
 - pkg:maven/com.iohao.game/other-tool@17.1.59?classifier=sources
 - pkg:maven/com.iohao.game/other-tool@17.1.60
 - pkg:maven/com.iohao.game/other-tool@17.1.60?classifier=sources
+- pkg:maven/com.iohao.game/other-tool@17.1.61
+- pkg:maven/com.iohao.game/other-tool@17.1.61?classifier=sources

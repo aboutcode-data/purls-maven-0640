@@ -54,6 +54,17 @@
 - pkg:maven/com.pulumi/linode@4.10.0-alpha.1703099475%2B0bf22169?classifier=sources
 - pkg:maven/com.pulumi/linode@4.10.0?classifier=sources
 - pkg:maven/com.pulumi/linode@4.11.0-alpha.1703656060%2B8f25cd6c?classifier=sources
+- pkg:maven/com.pulumi/linode@4.11.0-alpha.1703757762%2B34040d06?classifier=sources
+- pkg:maven/com.pulumi/linode@4.11.0-alpha.1703829112%2Bf79867ab?classifier=sources
+- pkg:maven/com.pulumi/linode@4.11.0-alpha.1704347381%2Bf3d18bd6?classifier=sources
+- pkg:maven/com.pulumi/linode@4.11.0-alpha.1704429355%2Be0bc9ef2?classifier=sources
+- pkg:maven/com.pulumi/linode@4.11.0-alpha.1704454349%2B3b1e241e?classifier=sources
+- pkg:maven/com.pulumi/linode@4.11.0?classifier=sources
+- pkg:maven/com.pulumi/linode@4.12.0-alpha.1704834877%2Ba1e97d88?classifier=sources
+- pkg:maven/com.pulumi/linode@4.12.0?classifier=sources
+- pkg:maven/com.pulumi/linode@4.13.0-alpha.1705435246%2Bdbb79bf9?classifier=sources
+- pkg:maven/com.pulumi/linode@4.13.0-alpha.1705471669%2B00a73968?classifier=sources
+- pkg:maven/com.pulumi/linode@4.13.0-alpha.1705989980%2B90672186?classifier=sources
 - pkg:maven/com.pulumi/linode@4.2.0-alpha.1684866085%2B606d6f8b?classifier=sources
 - pkg:maven/com.pulumi/linode@4.2.0-alpha.1685116220%2Bb829814f?classifier=sources
 - pkg:maven/com.pulumi/linode@4.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sta-soft/runit@1.1?classifier=sources
+- pkg:maven/com.sta-soft/runit@1.1?type=war

@@ -250,6 +250,8 @@
 - pkg:maven/com.braintreepayments.gateway/braintree-java@3.30.0?classifier=sources
 - pkg:maven/com.braintreepayments.gateway/braintree-java@3.31.0
 - pkg:maven/com.braintreepayments.gateway/braintree-java@3.31.0?classifier=sources
+- pkg:maven/com.braintreepayments.gateway/braintree-java@3.32.0
+- pkg:maven/com.braintreepayments.gateway/braintree-java@3.32.0?classifier=sources
 - pkg:maven/com.braintreepayments.gateway/braintree-java@3.4.0
 - pkg:maven/com.braintreepayments.gateway/braintree-java@3.4.0?classifier=sources
 - pkg:maven/com.braintreepayments.gateway/braintree-java@3.5.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.appengine.endpoint/endpoints-framework@2.2.3
+- pkg:maven/com.google.appengine.endpoint/endpoints-framework@2.2.3?classifier=sources

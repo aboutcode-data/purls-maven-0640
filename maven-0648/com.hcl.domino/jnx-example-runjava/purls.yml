@@ -56,3 +56,5 @@
 - pkg:maven/com.hcl.domino/jnx-example-runjava@1.31.0?classifier=sources
 - pkg:maven/com.hcl.domino/jnx-example-runjava@1.32.0
 - pkg:maven/com.hcl.domino/jnx-example-runjava@1.32.0?classifier=sources
+- pkg:maven/com.hcl.domino/jnx-example-runjava@1.33.0
+- pkg:maven/com.hcl.domino/jnx-example-runjava@1.33.0?classifier=sources

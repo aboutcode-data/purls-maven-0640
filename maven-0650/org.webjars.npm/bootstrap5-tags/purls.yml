@@ -10,6 +10,8 @@
 - pkg:maven/org.webjars.npm/bootstrap5-tags@1.6.10?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap5-tags@1.6.11
 - pkg:maven/org.webjars.npm/bootstrap5-tags@1.6.11?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap5-tags@1.6.15
+- pkg:maven/org.webjars.npm/bootstrap5-tags@1.6.15?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap5-tags@1.6.6
 - pkg:maven/org.webjars.npm/bootstrap5-tags@1.6.6?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap5-tags@1.6.7

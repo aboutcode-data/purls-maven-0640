@@ -28,3 +28,5 @@
 - pkg:maven/ch.epfl.scala/scala-debug-step-filter_3@3.1.4?classifier=sources
 - pkg:maven/ch.epfl.scala/scala-debug-step-filter_3@3.1.5
 - pkg:maven/ch.epfl.scala/scala-debug-step-filter_3@3.1.5?classifier=sources
+- pkg:maven/ch.epfl.scala/scala-debug-step-filter_3@3.1.6
+- pkg:maven/ch.epfl.scala/scala-debug-step-filter_3@3.1.6?classifier=sources

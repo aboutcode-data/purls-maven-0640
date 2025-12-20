@@ -1,0 +1,9 @@
+- pkg:maven/io.gitcoins/publish-package@1.0?classifier=sources
+- pkg:maven/io.gitcoins/publish-package@2.0?classifier=sources
+- pkg:maven/io.gitcoins/publish-package@2.10?classifier=sources
+- pkg:maven/io.gitcoins/publish-package@2.12?classifier=sources
+- pkg:maven/io.gitcoins/publish-package@2.3?classifier=sources
+- pkg:maven/io.gitcoins/publish-package@2.4?classifier=sources
+- pkg:maven/io.gitcoins/publish-package@2.7?classifier=sources
+- pkg:maven/io.gitcoins/publish-package@2.8?classifier=sources
+- pkg:maven/io.gitcoins/publish-package@2.9?classifier=sources

@@ -119,6 +119,8 @@
 - pkg:maven/org.realityforge.replicant/replicant-client@6.131?classifier=sources
 - pkg:maven/org.realityforge.replicant/replicant-client@6.132
 - pkg:maven/org.realityforge.replicant/replicant-client@6.132?classifier=sources
+- pkg:maven/org.realityforge.replicant/replicant-client@6.133
+- pkg:maven/org.realityforge.replicant/replicant-client@6.133?classifier=sources
 - pkg:maven/org.realityforge.replicant/replicant-client@6.13?classifier=sources
 - pkg:maven/org.realityforge.replicant/replicant-client@6.14
 - pkg:maven/org.realityforge.replicant/replicant-client@6.14?classifier=sources

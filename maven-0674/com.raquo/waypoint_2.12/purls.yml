@@ -36,3 +36,5 @@
 - pkg:maven/com.raquo/waypoint_2.12@7.0.0?classifier=sources
 - pkg:maven/com.raquo/waypoint_2.12@8.0.0-M1
 - pkg:maven/com.raquo/waypoint_2.12@8.0.0-M1?classifier=sources
+- pkg:maven/com.raquo/waypoint_2.12@8.0.0-M2
+- pkg:maven/com.raquo/waypoint_2.12@8.0.0-M2?classifier=sources

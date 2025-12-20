@@ -1,0 +1,2 @@
+- pkg:maven/com.wultra.security/enrollment-server-onboarding-provider-iproov@1.6.0
+- pkg:maven/com.wultra.security/enrollment-server-onboarding-provider-iproov@1.6.0?classifier=sources

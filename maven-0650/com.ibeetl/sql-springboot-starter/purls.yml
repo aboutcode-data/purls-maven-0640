@@ -194,6 +194,14 @@
 - pkg:maven/com.ibeetl/sql-springboot-starter@3.27.3-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-springboot-starter@3.27.4-RELEASE
 - pkg:maven/com.ibeetl/sql-springboot-starter@3.27.4-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-springboot-starter@3.27.5-RELEASE
+- pkg:maven/com.ibeetl/sql-springboot-starter@3.27.5-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-springboot-starter@3.28.0-RELEASE
+- pkg:maven/com.ibeetl/sql-springboot-starter@3.28.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-springboot-starter@3.28.1-RELEASE
+- pkg:maven/com.ibeetl/sql-springboot-starter@3.28.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-springboot-starter@3.29.0-RELEASE
+- pkg:maven/com.ibeetl/sql-springboot-starter@3.29.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-springboot-starter@3.3.0-RELEASE
 - pkg:maven/com.ibeetl/sql-springboot-starter@3.3.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-springboot-starter@3.3.1-RELEASE

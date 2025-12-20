@@ -2,6 +2,8 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.0.5?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.0.6?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.10.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.100.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.102.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.11.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.12.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.13.0?classifier=sources
@@ -80,3 +82,7 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.91.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.92.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.93.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.95.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.97.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.98.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-event-bus-guava@1.99.0?classifier=sources

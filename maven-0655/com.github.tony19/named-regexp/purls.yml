@@ -24,3 +24,5 @@
 - pkg:maven/com.github.tony19/named-regexp@0.2.7?classifier=sources
 - pkg:maven/com.github.tony19/named-regexp@0.2.8
 - pkg:maven/com.github.tony19/named-regexp@0.2.8?classifier=sources
+- pkg:maven/com.github.tony19/named-regexp@1.0.0
+- pkg:maven/com.github.tony19/named-regexp@1.0.0?classifier=sources

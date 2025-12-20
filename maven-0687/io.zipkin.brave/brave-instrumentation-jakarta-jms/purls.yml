@@ -3,3 +3,7 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@5.15.1
 - pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@5.16.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@5.17.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@5.17.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@5.18.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@5.18.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@6.0.0

@@ -44,6 +44,7 @@
 - pkg:maven/me.proton.core/test-kotlin@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/test-kotlin@18.4.1?classifier=sources
 - pkg:maven/me.proton.core/test-kotlin@18.4.2?classifier=sources
+- pkg:maven/me.proton.core/test-kotlin@19.0.0?classifier=sources
 - pkg:maven/me.proton.core/test-kotlin@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/test-kotlin@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/test-kotlin@3.0.0?classifier=sources

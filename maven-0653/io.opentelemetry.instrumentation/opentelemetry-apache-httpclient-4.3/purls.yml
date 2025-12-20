@@ -31,6 +31,7 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.30.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.31.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.32.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.32.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.5.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.5.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.5.2-alpha?classifier=sources
@@ -45,3 +46,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.9.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.9.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@1.9.2-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-apache-httpclient-4.3@2.0.0-alpha?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.gds/path-finding-algorithms@2.6.0-alpha02?classifier=sources
+- pkg:maven/org.neo4j.gds/path-finding-algorithms@2.6.0?classifier=sources

@@ -1,1 +1,4 @@
+- pkg:maven/dev.programadorthi.routing/call-logging-watchosarm64@0.0.10?classifier=sources
+- pkg:maven/dev.programadorthi.routing/call-logging-watchosarm64@0.0.11?classifier=sources
+- pkg:maven/dev.programadorthi.routing/call-logging-watchosarm64@0.0.12?classifier=sources
 - pkg:maven/dev.programadorthi.routing/call-logging-watchosarm64@0.0.8?classifier=sources

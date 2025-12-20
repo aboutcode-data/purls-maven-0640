@@ -56,6 +56,8 @@
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.13f?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.13g
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.13g?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.14
+- pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.14?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.7
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.7?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-rocketmq@6.1.8

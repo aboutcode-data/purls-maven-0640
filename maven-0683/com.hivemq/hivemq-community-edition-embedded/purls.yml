@@ -21,3 +21,4 @@
 - pkg:maven/com.hivemq/hivemq-community-edition-embedded@2023.7?classifier=sources
 - pkg:maven/com.hivemq/hivemq-community-edition-embedded@2023.8?classifier=sources
 - pkg:maven/com.hivemq/hivemq-community-edition-embedded@2023.9?classifier=sources
+- pkg:maven/com.hivemq/hivemq-community-edition-embedded@2024.1?classifier=sources

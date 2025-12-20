@@ -1,0 +1,4 @@
+- pkg:maven/dev.langchain4j/langchain4j-azure-ai-search@0.26.0
+- pkg:maven/dev.langchain4j/langchain4j-azure-ai-search@0.26.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-azure-ai-search@0.26.1
+- pkg:maven/dev.langchain4j/langchain4j-azure-ai-search@0.26.1?classifier=sources

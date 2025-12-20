@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.cloudflow/contrib-sbt-flink_2.12_1.0@0.2.1
+- pkg:maven/com.lightbend.cloudflow/contrib-sbt-flink_2.12_1.0@0.2.1?classifier=sources

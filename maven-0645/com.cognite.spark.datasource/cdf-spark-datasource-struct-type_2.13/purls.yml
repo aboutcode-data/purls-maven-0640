@@ -130,3 +130,13 @@
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.5.1069?classifier=sources
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1070
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1070?classifier=sources
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1072
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1072?classifier=sources
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1073
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1073?classifier=sources
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1074
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1074?classifier=sources
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1075
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1075?classifier=sources
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1076
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.13@3.6.1076?classifier=sources

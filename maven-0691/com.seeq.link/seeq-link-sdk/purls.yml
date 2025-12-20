@@ -37,6 +37,7 @@
 - pkg:maven/com.seeq.link/seeq-link-sdk@58.8.5-v202310272150?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@58.8.6-v202311210324?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@58.8.7-v202312210007?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@58.8.8-v202401241936?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@59.1.0-v202212281741?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@59.1.1-v202301140031?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@59.1.1-v202301172059?classifier=sources
@@ -59,6 +60,7 @@
 - pkg:maven/com.seeq.link/seeq-link-sdk@60.3.5-v202310301633?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@60.3.6-v202311210054?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@60.4.1-v202312210721?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@60.4.2-v202401240058?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@61.0.0-v202305012219-BETA?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@61.1.0-v202306030557?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@61.1.1-v202306270725?classifier=sources
@@ -73,12 +75,14 @@
 - pkg:maven/com.seeq.link/seeq-link-sdk@61.1.8-v202309262242?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@61.1.9-v202310170035?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@61.2.1-v202312210749?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@61.2.2-v202401231729?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@62.0.0-v202307261841?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@62.0.1-v202308020116?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@62.0.10-v202311111319?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@62.0.11-v202311162101?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@62.0.12-v202312060059?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@62.0.13-v202312210325?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@62.0.14-v202401232350?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@62.0.2-v202308231642?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@62.0.3-v202308310157?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@62.0.4-v202309140424?classifier=sources
@@ -93,3 +97,9 @@
 - pkg:maven/com.seeq.link/seeq-link-sdk@63.0.3-v202311160754?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@63.0.4-v202312042328?classifier=sources
 - pkg:maven/com.seeq.link/seeq-link-sdk@63.0.5-v202312160011?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@63.0.6-v202401030435?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@63.0.7-v202401090119?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@63.0.8-v202401100807?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@63.0.9-v202401260310?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@64.0.0-v202401250607?classifier=sources
+- pkg:maven/com.seeq.link/seeq-link-sdk@64.0.1-v202402020435?classifier=sources

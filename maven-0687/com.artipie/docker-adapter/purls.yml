@@ -112,3 +112,13 @@
 - pkg:maven/com.artipie/docker-adapter@v0.18.6?classifier=sources
 - pkg:maven/com.artipie/docker-adapter@v0.18.7
 - pkg:maven/com.artipie/docker-adapter@v0.18.7?classifier=sources
+- pkg:maven/com.artipie/docker-adapter@v1.17.2
+- pkg:maven/com.artipie/docker-adapter@v1.17.2?classifier=sources
+- pkg:maven/com.artipie/docker-adapter@v1.17.3
+- pkg:maven/com.artipie/docker-adapter@v1.17.3?classifier=sources
+- pkg:maven/com.artipie/docker-adapter@v1.17.4
+- pkg:maven/com.artipie/docker-adapter@v1.17.4?classifier=sources
+- pkg:maven/com.artipie/docker-adapter@v1.17.6
+- pkg:maven/com.artipie/docker-adapter@v1.17.6?classifier=sources
+- pkg:maven/com.artipie/docker-adapter@v1.17.7
+- pkg:maven/com.artipie/docker-adapter@v1.17.7?classifier=sources

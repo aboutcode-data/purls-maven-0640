@@ -20,3 +20,5 @@
 - pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.16.0?classifier=sources
 - pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.18.0
 - pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.18.0?classifier=sources
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.20.0
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.20.0?classifier=sources

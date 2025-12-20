@@ -426,3 +426,9 @@
 - pkg:maven/com.zaber/motion-library@4.7.0?classifier=sources
 - pkg:maven/com.zaber/motion-library@4.7.1-RC
 - pkg:maven/com.zaber/motion-library@4.7.1-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@4.8.0
+- pkg:maven/com.zaber/motion-library@4.8.0-RC
+- pkg:maven/com.zaber/motion-library@4.8.0-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@4.8.0?classifier=sources
+- pkg:maven/com.zaber/motion-library@5.0.1
+- pkg:maven/com.zaber/motion-library@5.0.1?classifier=sources

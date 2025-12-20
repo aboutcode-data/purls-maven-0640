@@ -71,6 +71,7 @@
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.2.0.CR1
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.2.0.Final
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.2.1.Final
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.2.10.Final
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.2.2.Final
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.2.3.Final
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.2.4.Final
@@ -100,3 +101,11 @@
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.2
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.3
 - pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.4
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.5
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.6
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.7
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.8
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.6.9
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.7.0
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.7.0.CR1
+- pkg:maven/io.quarkus/quarkus-netty-loom-adaptor@3.7.1

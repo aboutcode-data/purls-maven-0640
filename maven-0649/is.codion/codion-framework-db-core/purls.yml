@@ -3,3 +3,9 @@
 - pkg:maven/is.codion/codion-framework-db-core@0.17.19?classifier=sources
 - pkg:maven/is.codion/codion-framework-db-core@0.17.20?classifier=sources
 - pkg:maven/is.codion/codion-framework-db-core@0.17.21?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.22?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.23?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.24?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.25?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.26?classifier=sources
+- pkg:maven/is.codion/codion-framework-db-core@0.17.27?classifier=sources

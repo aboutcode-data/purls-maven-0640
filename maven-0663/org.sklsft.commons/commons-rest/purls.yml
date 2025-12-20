@@ -92,3 +92,5 @@
 - pkg:maven/org.sklsft.commons/commons-rest@4.0.0-M3
 - pkg:maven/org.sklsft.commons/commons-rest@4.0.0-M3?classifier=sources
 - pkg:maven/org.sklsft.commons/commons-rest@4.0.0?classifier=sources
+- pkg:maven/org.sklsft.commons/commons-rest@5.0.0-M1
+- pkg:maven/org.sklsft.commons/commons-rest@5.0.0-M1?classifier=sources

@@ -7,4 +7,6 @@
 - pkg:maven/dk.dma.ais.lib/ais-lib-messages@2.8.2?classifier=sources
 - pkg:maven/dk.dma.ais.lib/ais-lib-messages@2.8.3
 - pkg:maven/dk.dma.ais.lib/ais-lib-messages@2.8.3?classifier=sources
+- pkg:maven/dk.dma.ais.lib/ais-lib-messages@2.8.4
+- pkg:maven/dk.dma.ais.lib/ais-lib-messages@2.8.4?classifier=sources
 - pkg:maven/dk.dma.ais.lib/ais-lib-messages@2.8?classifier=sources

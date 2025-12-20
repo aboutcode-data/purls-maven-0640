@@ -100,3 +100,5 @@
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-it@2.0.2?classifier=sources
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-it@2.1.0
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-it@2.1.0?classifier=sources
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-it@2.2.0
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-it@2.2.0?classifier=sources

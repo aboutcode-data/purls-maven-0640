@@ -16,3 +16,12 @@
 - pkg:maven/it.unibo.collektive/dsl-iosarm64@2.1.3?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-iosarm64@3.0.0?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-iosarm64@3.0.1?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iosarm64@4.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iosarm64@5.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iosarm64@5.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iosarm64@6.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iosarm64@6.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iosarm64@6.1.1?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iosarm64@7.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iosarm64@7.0.1?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-iosarm64@7.0.2?classifier=sources

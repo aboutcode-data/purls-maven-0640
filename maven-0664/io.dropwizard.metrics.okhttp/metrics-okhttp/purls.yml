@@ -1,0 +1,2 @@
+- pkg:maven/io.dropwizard.metrics.okhttp/metrics-okhttp@0.5.0-rc.1
+- pkg:maven/io.dropwizard.metrics.okhttp/metrics-okhttp@0.5.0-rc.1?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.likethesalad.android/aaper@1.1.0?classifier=sources
 - pkg:maven/com.likethesalad.android/aaper@2.0.0?classifier=sources
 - pkg:maven/com.likethesalad.android/aaper@2.1.0?classifier=sources
+- pkg:maven/com.likethesalad.android/aaper@3.0.0?classifier=sources

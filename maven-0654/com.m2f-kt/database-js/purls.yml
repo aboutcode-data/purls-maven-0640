@@ -1,0 +1,2 @@
+- pkg:maven/com.m2f-kt/database-js@0.2.0-dev01?classifier=sources
+- pkg:maven/com.m2f-kt/database-js@0.2.0-dev02?classifier=sources

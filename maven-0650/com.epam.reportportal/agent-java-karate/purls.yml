@@ -1,0 +1,1 @@
+- pkg:maven/com.epam.reportportal/agent-java-karate@5.0.0?classifier=sources

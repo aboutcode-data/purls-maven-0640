@@ -11,3 +11,4 @@
 - pkg:maven/org.finos.symphony.wdk/studio@1.6.2?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/studio@1.6.3-pre?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/studio@1.6.3?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/studio@1.6.4?classifier=sources

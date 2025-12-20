@@ -7,6 +7,7 @@
 - pkg:maven/org.webpieces.http/http2-client@2.1.106?classifier=sources
 - pkg:maven/org.webpieces.http/http2-client@2.1.107?classifier=sources
 - pkg:maven/org.webpieces.http/http2-client@2.1.108?classifier=sources
+- pkg:maven/org.webpieces.http/http2-client@2.1.109?classifier=sources
 - pkg:maven/org.webpieces.http/http2-client@2.1.10?classifier=sources
 - pkg:maven/org.webpieces.http/http2-client@2.1.11?classifier=sources
 - pkg:maven/org.webpieces.http/http2-client@2.1.13?classifier=sources

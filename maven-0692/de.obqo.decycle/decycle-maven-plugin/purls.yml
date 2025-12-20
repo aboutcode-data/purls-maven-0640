@@ -5,3 +5,4 @@
 - pkg:maven/de.obqo.decycle/decycle-maven-plugin@0.9.0?classifier=sources
 - pkg:maven/de.obqo.decycle/decycle-maven-plugin@1.0.0?classifier=sources
 - pkg:maven/de.obqo.decycle/decycle-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/de.obqo.decycle/decycle-maven-plugin@1.1.1?classifier=sources

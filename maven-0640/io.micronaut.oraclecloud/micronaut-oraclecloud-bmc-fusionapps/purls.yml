@@ -20,3 +20,7 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-fusionapps@3.0.7?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-fusionapps@3.1.0?classifier=sources
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-fusionapps@3.2.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-fusionapps@3.3.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-fusionapps@3.4.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-fusionapps@3.5.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-fusionapps@3.5.1?classifier=sources

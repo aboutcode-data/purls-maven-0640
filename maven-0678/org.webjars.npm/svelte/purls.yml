@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/svelte@3.20.1
+- pkg:maven/org.webjars.npm/svelte@3.20.1?classifier=sources
 - pkg:maven/org.webjars.npm/svelte@3.29.0
 - pkg:maven/org.webjars.npm/svelte@3.29.0?classifier=sources
 - pkg:maven/org.webjars.npm/svelte@3.31.2

@@ -38,3 +38,9 @@
 - pkg:maven/com.mindee.sdk/mindee-api-java@4.6.0?classifier=sources
 - pkg:maven/com.mindee.sdk/mindee-api-java@4.7.0
 - pkg:maven/com.mindee.sdk/mindee-api-java@4.7.0?classifier=sources
+- pkg:maven/com.mindee.sdk/mindee-api-java@4.8.0
+- pkg:maven/com.mindee.sdk/mindee-api-java@4.8.0?classifier=sources
+- pkg:maven/com.mindee.sdk/mindee-api-java@4.8.1
+- pkg:maven/com.mindee.sdk/mindee-api-java@4.8.1?classifier=sources
+- pkg:maven/com.mindee.sdk/mindee-api-java@4.9.0
+- pkg:maven/com.mindee.sdk/mindee-api-java@4.9.0?classifier=sources

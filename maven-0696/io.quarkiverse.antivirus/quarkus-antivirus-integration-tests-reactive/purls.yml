@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.antivirus/quarkus-antivirus-integration-tests-reactive@0.0.5
+- pkg:maven/io.quarkiverse.antivirus/quarkus-antivirus-integration-tests-reactive@0.0.5?classifier=sources

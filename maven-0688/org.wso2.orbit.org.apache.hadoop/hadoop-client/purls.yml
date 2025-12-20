@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.orbit.org.apache.hadoop/hadoop-client@2.7.2.wso2v2
+- pkg:maven/org.wso2.orbit.org.apache.hadoop/hadoop-client@3.3.6.wso2v1
