@@ -32,3 +32,5 @@
 - pkg:maven/org.webjars.npm/mdi__font@7.0.96?classifier=sources
 - pkg:maven/org.webjars.npm/mdi__font@7.2.96
 - pkg:maven/org.webjars.npm/mdi__font@7.2.96?classifier=sources
+- pkg:maven/org.webjars.npm/mdi__font@7.3.67
+- pkg:maven/org.webjars.npm/mdi__font@7.3.67?classifier=sources

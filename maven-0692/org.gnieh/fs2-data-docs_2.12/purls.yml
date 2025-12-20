@@ -1,0 +1,4 @@
+- pkg:maven/org.gnieh/fs2-data-docs_2.12@1.9.0
+- pkg:maven/org.gnieh/fs2-data-docs_2.12@1.9.0?classifier=sources
+- pkg:maven/org.gnieh/fs2-data-docs_2.12@1.9.1
+- pkg:maven/org.gnieh/fs2-data-docs_2.12@1.9.1?classifier=sources

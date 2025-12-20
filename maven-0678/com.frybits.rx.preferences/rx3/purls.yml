@@ -1,1 +1,2 @@
 - pkg:maven/com.frybits.rx.preferences/rx3@1.0.0?classifier=sources
+- pkg:maven/com.frybits.rx.preferences/rx3@1.1.0?classifier=sources

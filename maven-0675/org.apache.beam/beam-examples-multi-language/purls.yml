@@ -13,3 +13,4 @@
 - pkg:maven/org.apache.beam/beam-examples-multi-language@2.48.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-multi-language@2.49.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-multi-language@2.50.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-multi-language@2.51.0?classifier=sources

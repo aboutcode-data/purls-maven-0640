@@ -1092,6 +1092,8 @@
 - pkg:maven/io.streamnative/pulsar-zookeeper-utils@2.9.5.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-zookeeper-utils@2.9.5.3
 - pkg:maven/io.streamnative/pulsar-zookeeper-utils@2.9.5.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-zookeeper-utils@2.9.5.4
+- pkg:maven/io.streamnative/pulsar-zookeeper-utils@2.9.5.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-zookeeper-utils@v2.8.0-rc-202106091140
 - pkg:maven/io.streamnative/pulsar-zookeeper-utils@v2.8.0-rc-202106091140?classifier=sources
 - pkg:maven/io.streamnative/pulsar-zookeeper-utils@v2.8.0-rc-202106121853

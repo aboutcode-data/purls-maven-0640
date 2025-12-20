@@ -28,3 +28,13 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.26.0%2B0.0.5?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.0%2B0.0.5
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.1%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.1%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.2%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.2%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.3%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.3%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.4%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.27.4%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.28.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-bigtable-v2_2.13@2.28.0%2B0.0.5?classifier=sources

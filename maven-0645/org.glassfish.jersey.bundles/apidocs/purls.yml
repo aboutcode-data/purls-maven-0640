@@ -75,6 +75,8 @@
 - pkg:maven/org.glassfish.jersey.bundles/apidocs@2.4.1
 - pkg:maven/org.glassfish.jersey.bundles/apidocs@2.40
 - pkg:maven/org.glassfish.jersey.bundles/apidocs@2.40?classifier=sources
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.41
+- pkg:maven/org.glassfish.jersey.bundles/apidocs@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.bundles/apidocs@2.5
 - pkg:maven/org.glassfish.jersey.bundles/apidocs@2.5.1
 - pkg:maven/org.glassfish.jersey.bundles/apidocs@2.5.2

@@ -1,0 +1,2 @@
+- pkg:maven/link.codegen/salesforce-utils-java@1.0
+- pkg:maven/link.codegen/salesforce-utils-java@1.0?classifier=sources

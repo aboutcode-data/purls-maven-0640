@@ -41,3 +41,4 @@
 - pkg:maven/org.apache.flink/flink-walkthrough-datastream-java@1.16.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-walkthrough-datastream-java@1.17.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-walkthrough-datastream-java@1.17.1?classifier=sources
+- pkg:maven/org.apache.flink/flink-walkthrough-datastream-java@1.18.0?classifier=sources

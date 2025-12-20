@@ -47,3 +47,4 @@
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.34.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.35.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.36.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-sql-postgres@8.37.0?classifier=sources

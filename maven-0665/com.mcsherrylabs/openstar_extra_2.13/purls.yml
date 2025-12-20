@@ -1,0 +1,2 @@
+- pkg:maven/com.mcsherrylabs/openstar_extra_2.13@0.8.20
+- pkg:maven/com.mcsherrylabs/openstar_extra_2.13@0.8.20?classifier=sources

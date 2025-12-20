@@ -15,3 +15,5 @@
 - pkg:maven/org.refcodes/refcodes-archetype-alt-filter@3.2.9?classifier=sources
 - pkg:maven/org.refcodes/refcodes-archetype-alt-filter@3.3.0?classifier=sources
 - pkg:maven/org.refcodes/refcodes-archetype-alt-filter@3.3.1?classifier=sources
+- pkg:maven/org.refcodes/refcodes-archetype-alt-filter@3.3.2?classifier=sources
+- pkg:maven/org.refcodes/refcodes-archetype-alt-filter@3.3.3?classifier=sources

@@ -56,3 +56,9 @@
 - pkg:maven/io.github.fanbook-open/fanbook-bot-sdk@0.3.0.RELEASE?classifier=sources
 - pkg:maven/io.github.fanbook-open/fanbook-bot-sdk@0.3.1.RELEASE
 - pkg:maven/io.github.fanbook-open/fanbook-bot-sdk@0.3.1.RELEASE?classifier=sources
+- pkg:maven/io.github.fanbook-open/fanbook-bot-sdk@0.3.2.RELEASE
+- pkg:maven/io.github.fanbook-open/fanbook-bot-sdk@0.3.2.RELEASE?classifier=sources
+- pkg:maven/io.github.fanbook-open/fanbook-bot-sdk@0.3.3.RELEASE
+- pkg:maven/io.github.fanbook-open/fanbook-bot-sdk@0.3.3.RELEASE?classifier=sources
+- pkg:maven/io.github.fanbook-open/fanbook-bot-sdk@0.3.4.RELEASE
+- pkg:maven/io.github.fanbook-open/fanbook-bot-sdk@0.3.4.RELEASE?classifier=sources

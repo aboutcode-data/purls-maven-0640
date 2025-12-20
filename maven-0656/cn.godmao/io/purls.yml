@@ -1,3 +1,5 @@
+- pkg:maven/cn.godmao/io@1.1.5.1.Beat
+- pkg:maven/cn.godmao/io@1.1.5.1.Beat?classifier=sources
 - pkg:maven/cn.godmao/io@2.3.4.3.Beat
 - pkg:maven/cn.godmao/io@2.3.4.3.Beat?classifier=sources
 - pkg:maven/cn.godmao/io@2.3.4.4.Beat

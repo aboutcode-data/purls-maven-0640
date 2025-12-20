@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/grackle-circe_native0.4_3@0.15.0
+- pkg:maven/org.typelevel/grackle-circe_native0.4_3@0.15.0?classifier=sources

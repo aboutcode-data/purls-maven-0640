@@ -175,3 +175,4 @@
 - pkg:maven/com.bertramlabs.plugins/sass-asset-pipeline@4.1.0?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/sass-asset-pipeline@4.2.0?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/sass-asset-pipeline@4.3.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/sass-asset-pipeline@4.4.0?classifier=sources

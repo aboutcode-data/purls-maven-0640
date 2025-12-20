@@ -90,6 +90,7 @@
 - pkg:maven/org.dddjava.jig/jig-core@2022.8.1?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2022.9.1?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2023.1.1?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2023.10.1?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2023.2.1?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2023.3.1?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2023.4.1?classifier=sources
@@ -99,3 +100,4 @@
 - pkg:maven/org.dddjava.jig/jig-core@2023.6.3?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2023.7.1?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2023.8.1?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2023.9.1?classifier=sources

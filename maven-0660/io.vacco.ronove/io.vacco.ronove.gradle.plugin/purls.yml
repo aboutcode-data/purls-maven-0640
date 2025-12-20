@@ -12,3 +12,5 @@
 - pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@1.0.0-MILESTONE-202302120828?classifier=sources
 - pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@1.0.0-MILESTONE-202302120928?classifier=sources
 - pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@1.0.0?classifier=sources
+- pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@1.2.1?classifier=sources
+- pkg:maven/io.vacco.ronove/io.vacco.ronove.gradle.plugin@1.2.2?classifier=sources

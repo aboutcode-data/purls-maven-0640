@@ -89,5 +89,8 @@
 - pkg:maven/io.gravitee.am.authdevice.notifier/gravitee-am-authdevice-notifier-http@3.21.2?classifier=sources
 - pkg:maven/io.gravitee.am.authdevice.notifier/gravitee-am-authdevice-notifier-http@3.21.4?classifier=sources
 - pkg:maven/io.gravitee.am.authdevice.notifier/gravitee-am-authdevice-notifier-http@3.21.6?classifier=sources
+- pkg:maven/io.gravitee.am.authdevice.notifier/gravitee-am-authdevice-notifier-http@3.21.8?classifier=sources
 - pkg:maven/io.gravitee.am.authdevice.notifier/gravitee-am-authdevice-notifier-http@4.0.0?classifier=sources
+- pkg:maven/io.gravitee.am.authdevice.notifier/gravitee-am-authdevice-notifier-http@4.0.2?classifier=sources
 - pkg:maven/io.gravitee.am.authdevice.notifier/gravitee-am-authdevice-notifier-http@4.1.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.am.authdevice.notifier/gravitee-am-authdevice-notifier-http@4.1.0?classifier=sources

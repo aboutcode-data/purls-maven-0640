@@ -18,3 +18,5 @@
 - pkg:maven/de.gematik.refv/referencevalidator-lib@0.7.1?classifier=sources
 - pkg:maven/de.gematik.refv/referencevalidator-lib@0.7.2
 - pkg:maven/de.gematik.refv/referencevalidator-lib@0.7.2?classifier=sources
+- pkg:maven/de.gematik.refv/referencevalidator-lib@1.0.0
+- pkg:maven/de.gematik.refv/referencevalidator-lib@1.0.0?classifier=sources

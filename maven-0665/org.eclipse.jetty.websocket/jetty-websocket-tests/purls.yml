@@ -74,3 +74,5 @@
 - pkg:maven/org.eclipse.jetty.websocket/jetty-websocket-tests@9.4.51.v20230217?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/jetty-websocket-tests@9.4.52.v20230823
 - pkg:maven/org.eclipse.jetty.websocket/jetty-websocket-tests@9.4.52.v20230823?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/jetty-websocket-tests@9.4.53.v20231009
+- pkg:maven/org.eclipse.jetty.websocket/jetty-websocket-tests@9.4.53.v20231009?classifier=sources

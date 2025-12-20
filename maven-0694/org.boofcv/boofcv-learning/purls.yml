@@ -35,3 +35,4 @@
 - pkg:maven/org.boofcv/boofcv-learning@0.44?classifier=sources
 - pkg:maven/org.boofcv/boofcv-learning@1.0.0?classifier=sources
 - pkg:maven/org.boofcv/boofcv-learning@1.1.0?classifier=sources
+- pkg:maven/org.boofcv/boofcv-learning@1.1.1?classifier=sources

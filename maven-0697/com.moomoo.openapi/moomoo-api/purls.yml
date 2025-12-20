@@ -4,3 +4,5 @@
 - pkg:maven/com.moomoo.openapi/moomoo-api@7.2.3408?classifier=sources
 - pkg:maven/com.moomoo.openapi/moomoo-api@7.3.3508
 - pkg:maven/com.moomoo.openapi/moomoo-api@7.3.3508?classifier=sources
+- pkg:maven/com.moomoo.openapi/moomoo-api@7.4.3608
+- pkg:maven/com.moomoo.openapi/moomoo-api@7.4.3608?classifier=sources

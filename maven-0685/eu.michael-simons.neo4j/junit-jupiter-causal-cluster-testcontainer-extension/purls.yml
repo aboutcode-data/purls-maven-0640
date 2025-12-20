@@ -50,6 +50,8 @@
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@2022.1.5?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@2022.1.6
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@2022.1.6?classifier=sources
+- pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@2022.1.7
+- pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@2022.1.7?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@4.0.1.0
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@4.0.1.0?classifier=sources
 - pkg:maven/eu.michael-simons.neo4j/junit-jupiter-causal-cluster-testcontainer-extension@4.0.1.1

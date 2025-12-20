@@ -1,0 +1,2 @@
+- pkg:maven/org.xipki/ocsp-servlet3@6.4.0?classifier=sources
+- pkg:maven/org.xipki/ocsp-servlet3@6.4.0?type=war

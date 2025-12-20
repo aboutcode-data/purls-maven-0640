@@ -38,6 +38,12 @@
 - pkg:maven/tv.hd3g/fflauncher@12.1.2?classifier=sources
 - pkg:maven/tv.hd3g/fflauncher@12.1.3
 - pkg:maven/tv.hd3g/fflauncher@12.1.3?classifier=sources
+- pkg:maven/tv.hd3g/fflauncher@12.2.0
+- pkg:maven/tv.hd3g/fflauncher@12.2.0?classifier=sources
+- pkg:maven/tv.hd3g/fflauncher@12.3.0
+- pkg:maven/tv.hd3g/fflauncher@12.3.0?classifier=sources
+- pkg:maven/tv.hd3g/fflauncher@13.0.0
+- pkg:maven/tv.hd3g/fflauncher@13.0.0?classifier=sources
 - pkg:maven/tv.hd3g/fflauncher@2.0.0
 - pkg:maven/tv.hd3g/fflauncher@2.0.0?classifier=sources
 - pkg:maven/tv.hd3g/fflauncher@2.0.1

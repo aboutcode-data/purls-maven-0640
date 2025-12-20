@@ -73,3 +73,6 @@
 - pkg:maven/io.trino/trino-postgresql@424?classifier=sources
 - pkg:maven/io.trino/trino-postgresql@425?classifier=sources
 - pkg:maven/io.trino/trino-postgresql@426?classifier=sources
+- pkg:maven/io.trino/trino-postgresql@427?classifier=sources
+- pkg:maven/io.trino/trino-postgresql@428?classifier=sources
+- pkg:maven/io.trino/trino-postgresql@429?classifier=sources

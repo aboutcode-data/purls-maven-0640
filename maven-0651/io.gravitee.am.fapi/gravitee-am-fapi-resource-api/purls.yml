@@ -220,7 +220,13 @@
 - pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@3.21.4?classifier=sources
 - pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@3.21.6
 - pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@3.21.6?classifier=sources
+- pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@3.21.8
+- pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@3.21.8?classifier=sources
 - pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@4.0.0
 - pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@4.0.0?classifier=sources
+- pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@4.0.2
+- pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@4.0.2?classifier=sources
+- pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@4.1.0
 - pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@4.1.0-alpha.2
 - pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@4.1.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.am.fapi/gravitee-am-fapi-resource-api@4.1.0?classifier=sources

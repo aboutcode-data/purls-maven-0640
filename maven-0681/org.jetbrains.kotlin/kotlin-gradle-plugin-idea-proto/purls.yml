@@ -40,4 +40,8 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto@1.9.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto@1.9.10
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto@1.9.10?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto@1.9.20-Beta2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto@1.9.20-Beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto@1.9.20-RC2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto@1.9.20-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto@1.9.20?classifier=sources

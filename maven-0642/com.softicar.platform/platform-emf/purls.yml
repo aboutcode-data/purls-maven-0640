@@ -93,3 +93,4 @@
 - pkg:maven/com.softicar.platform/platform-emf@47.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-emf@48.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-emf@49.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-emf@49.1.0?classifier=sources

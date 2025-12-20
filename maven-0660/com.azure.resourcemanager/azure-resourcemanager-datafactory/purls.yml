@@ -20,6 +20,7 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.0.0-beta.20?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.0.0-beta.21?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.0.0-beta.22?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.0.0-beta.23?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.0.0-beta.2?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.0.0-beta.3
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.0.0-beta.3?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/com.antgroup.antchain.openapi/openapi-trade@3.11.0
+- pkg:maven/com.antgroup.antchain.openapi/openapi-trade@3.11.0?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-trade@3.6.3
 - pkg:maven/com.antgroup.antchain.openapi/openapi-trade@3.6.3?classifier=sources

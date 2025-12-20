@@ -1,0 +1,4 @@
+- pkg:maven/top.meethigher/spring-boot-starter-ftp-client-pool@1.0
+- pkg:maven/top.meethigher/spring-boot-starter-ftp-client-pool@1.0?classifier=sources
+- pkg:maven/top.meethigher/spring-boot-starter-ftp-client-pool@1.1
+- pkg:maven/top.meethigher/spring-boot-starter-ftp-client-pool@1.1?classifier=sources

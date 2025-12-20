@@ -1,0 +1,2 @@
+- pkg:maven/ro.gs1/quarkus-config-etcd@0.1
+- pkg:maven/ro.gs1/quarkus-config-etcd@0.1?classifier=sources

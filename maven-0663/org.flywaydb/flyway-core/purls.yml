@@ -1,3 +1,5 @@
+- pkg:maven/org.flywaydb/flyway-core@10.0.0
+- pkg:maven/org.flywaydb/flyway-core@10.0.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-core@3.0
 - pkg:maven/org.flywaydb/flyway-core@3.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-core@3.1
@@ -374,6 +376,10 @@
 - pkg:maven/org.flywaydb/flyway-core@9.22.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-core@9.22.1
 - pkg:maven/org.flywaydb/flyway-core@9.22.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-core@9.22.2
+- pkg:maven/org.flywaydb/flyway-core@9.22.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-core@9.22.3
+- pkg:maven/org.flywaydb/flyway-core@9.22.3?classifier=sources
 - pkg:maven/org.flywaydb/flyway-core@9.3.0
 - pkg:maven/org.flywaydb/flyway-core@9.3.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-core@9.3.1

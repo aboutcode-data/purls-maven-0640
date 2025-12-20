@@ -148,6 +148,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@1.0.54?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@1.0.55
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@1.0.55?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@1.0.56?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@1.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@1.0.6
@@ -183,6 +184,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@2.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@2.0.15
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@2.0.15?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@2.0.16?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@2.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@2.0.2
@@ -429,6 +431,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@4.0.43
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@4.0.43?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@4.0.44?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@4.0.45?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@4.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.service@4.0.5

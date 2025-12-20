@@ -1,2 +1,4 @@
 - pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.8
 - pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.8?classifier=sources
+- pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.9
+- pkg:maven/io.github.air-iot/sdk-algorithm-starter@4.1.9?classifier=sources

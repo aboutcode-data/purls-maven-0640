@@ -7,3 +7,5 @@
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@6.64.0.1?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@6.65.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@6.65.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@6.66.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@6.67.0.0?classifier=sources

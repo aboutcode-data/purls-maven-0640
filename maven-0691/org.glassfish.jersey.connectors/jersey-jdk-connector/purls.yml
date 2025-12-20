@@ -46,6 +46,8 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.40
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.40?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.41
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@3.0.0
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jdk-connector@3.0.0-M1?classifier=sources

@@ -177,6 +177,8 @@
 - pkg:maven/org.glassfish.jersey.core/jersey-server@2.4.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.core/jersey-server@2.40
 - pkg:maven/org.glassfish.jersey.core/jersey-server@2.40?classifier=sources
+- pkg:maven/org.glassfish.jersey.core/jersey-server@2.41
+- pkg:maven/org.glassfish.jersey.core/jersey-server@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.core/jersey-server@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.core/jersey-server@2.5
 - pkg:maven/org.glassfish.jersey.core/jersey-server@2.5.1

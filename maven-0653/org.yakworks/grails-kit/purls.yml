@@ -10,3 +10,4 @@
 - pkg:maven/org.yakworks/grails-kit@5.0.7?classifier=sources
 - pkg:maven/org.yakworks/grails-kit@5.0.8?classifier=sources
 - pkg:maven/org.yakworks/grails-kit@5.0.9?classifier=sources
+- pkg:maven/org.yakworks/grails-kit@5.1?classifier=sources

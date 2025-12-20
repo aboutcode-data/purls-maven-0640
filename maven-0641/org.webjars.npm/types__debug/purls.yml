@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__debug@4.1.8
 - pkg:maven/org.webjars.npm/types__debug@4.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/types__debug@4.1.9
+- pkg:maven/org.webjars.npm/types__debug@4.1.9?classifier=sources

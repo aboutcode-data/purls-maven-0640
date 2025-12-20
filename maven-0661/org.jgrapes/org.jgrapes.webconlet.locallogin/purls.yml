@@ -1,1 +1,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.locallogin@0.1.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.locallogin@1.0.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.locallogin@1.1.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.locallogin@1.2.0?classifier=sources

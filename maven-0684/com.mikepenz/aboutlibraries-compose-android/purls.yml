@@ -41,3 +41,5 @@
 - pkg:maven/com.mikepenz/aboutlibraries-compose-android@10.8.3?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-android@10.9.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-android@10.9.0-b02?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-android@10.9.0?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-android@10.9.1?classifier=sources

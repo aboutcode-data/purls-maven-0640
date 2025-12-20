@@ -56,3 +56,4 @@
 - pkg:maven/com.linecorp.decaton/decaton-spring@6.5.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-spring@7.0.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-spring@7.1.0?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-spring@7.1.1?classifier=sources

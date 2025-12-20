@@ -201,6 +201,8 @@
 - pkg:maven/org.cometd.java/cometd-java-common@5.0.14?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-common@5.0.15
 - pkg:maven/org.cometd.java/cometd-java-common@5.0.15?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-common@5.0.16
+- pkg:maven/org.cometd.java/cometd-java-common@5.0.16?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-common@5.0.1?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-common@5.0.2
 - pkg:maven/org.cometd.java/cometd-java-common@5.0.2?classifier=sources
@@ -223,6 +225,8 @@
 - pkg:maven/org.cometd.java/cometd-java-common@6.0.1
 - pkg:maven/org.cometd.java/cometd-java-common@6.0.10
 - pkg:maven/org.cometd.java/cometd-java-common@6.0.10?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-common@6.0.11
+- pkg:maven/org.cometd.java/cometd-java-common@6.0.11?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-common@6.0.1?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-common@6.0.2
 - pkg:maven/org.cometd.java/cometd-java-common@6.0.2?classifier=sources
@@ -245,6 +249,8 @@
 - pkg:maven/org.cometd.java/cometd-java-common@7.0.1
 - pkg:maven/org.cometd.java/cometd-java-common@7.0.10
 - pkg:maven/org.cometd.java/cometd-java-common@7.0.10?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-common@7.0.11
+- pkg:maven/org.cometd.java/cometd-java-common@7.0.11?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-common@7.0.1?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-common@7.0.2
 - pkg:maven/org.cometd.java/cometd-java-common@7.0.2?classifier=sources
@@ -262,3 +268,5 @@
 - pkg:maven/org.cometd.java/cometd-java-common@7.0.8?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-common@7.0.9
 - pkg:maven/org.cometd.java/cometd-java-common@7.0.9?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-common@8.0.0.beta0
+- pkg:maven/org.cometd.java/cometd-java-common@8.0.0.beta0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/io.tech1.framework/tech1-framework-b2b-base-security-jwt@1.14?classifier=sources
 - pkg:maven/io.tech1.framework/tech1-framework-b2b-base-security-jwt@1.15
 - pkg:maven/io.tech1.framework/tech1-framework-b2b-base-security-jwt@1.15?classifier=sources
+- pkg:maven/io.tech1.framework/tech1-framework-b2b-base-security-jwt@1.16
+- pkg:maven/io.tech1.framework/tech1-framework-b2b-base-security-jwt@1.16?classifier=sources

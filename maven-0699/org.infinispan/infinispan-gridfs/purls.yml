@@ -1,2 +1,6 @@
 - pkg:maven/org.infinispan/infinispan-gridfs@15.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-gridfs@15.0.0.Dev02?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gridfs@15.0.0.Dev03
+- pkg:maven/org.infinispan/infinispan-gridfs@15.0.0.Dev03?classifier=sources
+- pkg:maven/org.infinispan/infinispan-gridfs@15.0.0.Dev04
+- pkg:maven/org.infinispan/infinispan-gridfs@15.0.0.Dev04?classifier=sources

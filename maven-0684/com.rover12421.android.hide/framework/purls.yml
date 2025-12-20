@@ -7,6 +7,7 @@
 - pkg:maven/com.rover12421.android.hide/framework@12.0.0_r34?classifier=sources
 - pkg:maven/com.rover12421.android.hide/framework@12.1.0_r5?classifier=sources
 - pkg:maven/com.rover12421.android.hide/framework@13.0.0_r2?classifier=sources
+- pkg:maven/com.rover12421.android.hide/framework@14.0.0_r2?classifier=sources
 - pkg:maven/com.rover12421.android.hide/framework@5.0.2_r1?classifier=sources
 - pkg:maven/com.rover12421.android.hide/framework@5.1.1_r14?classifier=sources
 - pkg:maven/com.rover12421.android.hide/framework@6.0.0_r41?classifier=sources

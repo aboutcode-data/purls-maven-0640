@@ -1,0 +1,2 @@
+- pkg:maven/gov.nasa.pds/harvest-legacy@2.7.0
+- pkg:maven/gov.nasa.pds/harvest-legacy@2.7.0?classifier=sources

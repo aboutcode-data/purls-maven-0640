@@ -7,3 +7,5 @@
 - pkg:maven/io.lionweb.lioncore-java/lioncore-java-emf@0.0.26?classifier=sources
 - pkg:maven/io.lionweb.lioncore-java/lioncore-java-emf@0.0.27?classifier=sources
 - pkg:maven/io.lionweb.lioncore-java/lioncore-java-emf@0.0.28?classifier=sources
+- pkg:maven/io.lionweb.lioncore-java/lioncore-java-emf@0.0.31?classifier=sources
+- pkg:maven/io.lionweb.lioncore-java/lioncore-java-emf@0.0.32?classifier=sources

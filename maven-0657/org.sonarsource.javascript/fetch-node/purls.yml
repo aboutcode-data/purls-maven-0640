@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.javascript/fetch-node@10.7.0.22914?classifier=sources
+- pkg:maven/org.sonarsource.javascript/fetch-node@10.8.0.24207?classifier=sources

@@ -21,3 +21,6 @@
 - pkg:maven/com.raxdenstudios/commons-coroutines@4.9.2?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-coroutines@4.9.3?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-coroutines@4.9.4?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-coroutines@5.0.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-coroutines@5.0.2?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-coroutines@5.0.3?classifier=sources

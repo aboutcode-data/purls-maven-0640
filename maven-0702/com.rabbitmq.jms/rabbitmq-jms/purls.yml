@@ -52,7 +52,11 @@
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@2.7.0?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@2.8.0
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@2.8.0?classifier=sources
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@2.9.0
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@2.9.0?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@3.0.0
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@3.0.0?classifier=sources
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@3.1.0
 - pkg:maven/com.rabbitmq.jms/rabbitmq-jms@3.1.0?classifier=sources
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@3.2.0
+- pkg:maven/com.rabbitmq.jms/rabbitmq-jms@3.2.0?classifier=sources

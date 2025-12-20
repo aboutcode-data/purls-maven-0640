@@ -41,7 +41,15 @@
 - pkg:maven/com.yodo1.suit.pay/core@6.3.4.0?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/core@6.3.4.10?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/core@6.3.4.11?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/core@6.3.4.12?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/core@6.3.4.14?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/core@6.3.4.15?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/core@6.3.4.16?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/core@6.3.4.17?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/core@6.3.4.18?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/core@6.3.4.19?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/core@6.3.4.3?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/core@6.3.4.5?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/core@6.3.4.8?classifier=sources
 - pkg:maven/com.yodo1.suit.pay/core@6.3.4.9?classifier=sources
+- pkg:maven/com.yodo1.suit.pay/core@6.3.5.0?classifier=sources

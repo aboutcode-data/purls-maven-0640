@@ -19,6 +19,8 @@
 - pkg:maven/io.phasetwo.keycloak/keycloak-magic-link@0.19
 - pkg:maven/io.phasetwo.keycloak/keycloak-magic-link@0.19?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-magic-link@0.2
+- pkg:maven/io.phasetwo.keycloak/keycloak-magic-link@0.20
+- pkg:maven/io.phasetwo.keycloak/keycloak-magic-link@0.20?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-magic-link@0.2?classifier=sources
 - pkg:maven/io.phasetwo.keycloak/keycloak-magic-link@0.3
 - pkg:maven/io.phasetwo.keycloak/keycloak-magic-link@0.3?classifier=sources

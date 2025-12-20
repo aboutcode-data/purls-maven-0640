@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.latebloom/middleware-openfeign@1.0.2-RELEASE
+- pkg:maven/com.gitee.latebloom/middleware-openfeign@1.0.2-RELEASE?classifier=sources
