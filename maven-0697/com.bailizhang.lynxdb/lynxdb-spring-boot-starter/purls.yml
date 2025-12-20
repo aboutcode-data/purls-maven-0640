@@ -20,3 +20,5 @@
 - pkg:maven/com.bailizhang.lynxdb/lynxdb-spring-boot-starter@2023.7.23-alpha?classifier=sources
 - pkg:maven/com.bailizhang.lynxdb/lynxdb-spring-boot-starter@2023.7.8-alpha
 - pkg:maven/com.bailizhang.lynxdb/lynxdb-spring-boot-starter@2023.7.8-alpha?classifier=sources
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-spring-boot-starter@2024.5.3-alpha
+- pkg:maven/com.bailizhang.lynxdb/lynxdb-spring-boot-starter@2024.5.3-alpha?classifier=sources

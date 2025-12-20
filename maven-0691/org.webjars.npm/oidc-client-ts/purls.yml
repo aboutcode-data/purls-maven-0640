@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/oidc-client-ts@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/oidc-client-ts@2.2.4
 - pkg:maven/org.webjars.npm/oidc-client-ts@2.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/oidc-client-ts@3.0.1
+- pkg:maven/org.webjars.npm/oidc-client-ts@3.0.1?classifier=sources

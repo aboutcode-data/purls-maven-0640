@@ -1,0 +1,2 @@
+- pkg:maven/com.sitepark.ies.extensions/ies-rest-extension-api@1.0.0
+- pkg:maven/com.sitepark.ies.extensions/ies-rest-extension-api@1.0.0?classifier=sources

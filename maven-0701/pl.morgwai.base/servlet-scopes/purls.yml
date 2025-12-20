@@ -86,6 +86,10 @@
 - pkg:maven/pl.morgwai.base/servlet-scopes@15.2-jakarta?classifier=sources
 - pkg:maven/pl.morgwai.base/servlet-scopes@15.2-javax
 - pkg:maven/pl.morgwai.base/servlet-scopes@15.2-javax?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-scopes@16.0-jakarta
+- pkg:maven/pl.morgwai.base/servlet-scopes@16.0-jakarta?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-scopes@16.0-javax
+- pkg:maven/pl.morgwai.base/servlet-scopes@16.0-javax?classifier=sources
 - pkg:maven/pl.morgwai.base/servlet-scopes@2.0
 - pkg:maven/pl.morgwai.base/servlet-scopes@2.0-alpha1
 - pkg:maven/pl.morgwai.base/servlet-scopes@2.0-alpha1?classifier=sources

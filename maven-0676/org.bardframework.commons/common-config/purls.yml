@@ -70,3 +70,5 @@
 - pkg:maven/org.bardframework.commons/common-config@2.7.21?classifier=sources
 - pkg:maven/org.bardframework.commons/common-config@2.8.21
 - pkg:maven/org.bardframework.commons/common-config@2.8.21?classifier=sources
+- pkg:maven/org.bardframework.commons/common-config@3.1.21
+- pkg:maven/org.bardframework.commons/common-config@3.1.21?classifier=sources

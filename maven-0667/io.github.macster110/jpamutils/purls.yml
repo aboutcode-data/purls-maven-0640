@@ -2,3 +2,5 @@
 - pkg:maven/io.github.macster110/jpamutils@0.0.55?classifier=sources
 - pkg:maven/io.github.macster110/jpamutils@0.0.56
 - pkg:maven/io.github.macster110/jpamutils@0.0.56?classifier=sources
+- pkg:maven/io.github.macster110/jpamutils@0.0.58
+- pkg:maven/io.github.macster110/jpamutils@0.0.58?classifier=sources

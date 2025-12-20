@@ -1,0 +1,2 @@
+- pkg:maven/cn.sliew/sakura-catalog-seatunnel@1.0.2
+- pkg:maven/cn.sliew/sakura-catalog-seatunnel@1.0.2?classifier=sources

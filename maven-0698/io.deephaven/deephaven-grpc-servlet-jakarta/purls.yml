@@ -44,3 +44,4 @@
 - pkg:maven/io.deephaven/deephaven-grpc-servlet-jakarta@0.33.1?classifier=sources
 - pkg:maven/io.deephaven/deephaven-grpc-servlet-jakarta@0.33.2?classifier=sources
 - pkg:maven/io.deephaven/deephaven-grpc-servlet-jakarta@0.33.3?classifier=sources
+- pkg:maven/io.deephaven/deephaven-grpc-servlet-jakarta@0.34.0?classifier=sources

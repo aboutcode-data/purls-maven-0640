@@ -58,6 +58,8 @@
 - pkg:maven/io.helidon.config/helidon-config-hocon-mp@3.2.6?classifier=sources
 - pkg:maven/io.helidon.config/helidon-config-hocon-mp@3.2.7
 - pkg:maven/io.helidon.config/helidon-config-hocon-mp@3.2.7?classifier=sources
+- pkg:maven/io.helidon.config/helidon-config-hocon-mp@3.2.8
+- pkg:maven/io.helidon.config/helidon-config-hocon-mp@3.2.8?classifier=sources
 - pkg:maven/io.helidon.config/helidon-config-hocon-mp@4.0.0
 - pkg:maven/io.helidon.config/helidon-config-hocon-mp@4.0.0-ALPHA1
 - pkg:maven/io.helidon.config/helidon-config-hocon-mp@4.0.0-ALPHA1?classifier=sources
@@ -94,3 +96,5 @@
 - pkg:maven/io.helidon.config/helidon-config-hocon-mp@4.0.6?classifier=sources
 - pkg:maven/io.helidon.config/helidon-config-hocon-mp@4.0.7
 - pkg:maven/io.helidon.config/helidon-config-hocon-mp@4.0.7?classifier=sources
+- pkg:maven/io.helidon.config/helidon-config-hocon-mp@4.0.8
+- pkg:maven/io.helidon.config/helidon-config-hocon-mp@4.0.8?classifier=sources

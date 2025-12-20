@@ -10,3 +10,5 @@
 - pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc@2.3?classifier=sources
 - pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc@3.0
 - pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc@3.0?classifier=sources
+- pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc@3.1
+- pkg:maven/com.cosium.hal_mock_mvc/hal-mock-mvc@3.1?classifier=sources

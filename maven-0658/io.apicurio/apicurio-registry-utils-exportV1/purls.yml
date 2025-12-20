@@ -56,6 +56,8 @@
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.5.1.Final?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.5.10.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.5.10.Final?type=zip
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.5.11.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.5.11.Final?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.5.2.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.5.2.Final?type=zip
 - pkg:maven/io.apicurio/apicurio-registry-utils-exportV1@2.5.3.Final?classifier=sources

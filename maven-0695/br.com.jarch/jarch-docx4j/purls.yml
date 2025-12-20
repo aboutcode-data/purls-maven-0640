@@ -1,0 +1,2 @@
+- pkg:maven/br.com.jarch/jarch-docx4j@24.2.0
+- pkg:maven/br.com.jarch/jarch-docx4j@24.2.0?classifier=sources

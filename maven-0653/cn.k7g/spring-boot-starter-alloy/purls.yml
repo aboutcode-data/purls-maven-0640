@@ -6,3 +6,11 @@
 - pkg:maven/cn.k7g/spring-boot-starter-alloy@0.0.4?classifier=sources
 - pkg:maven/cn.k7g/spring-boot-starter-alloy@0.0.5
 - pkg:maven/cn.k7g/spring-boot-starter-alloy@0.0.5?classifier=sources
+- pkg:maven/cn.k7g/spring-boot-starter-alloy@0.1.0
+- pkg:maven/cn.k7g/spring-boot-starter-alloy@0.1.0?classifier=sources
+- pkg:maven/cn.k7g/spring-boot-starter-alloy@0.2.0
+- pkg:maven/cn.k7g/spring-boot-starter-alloy@0.2.0?classifier=sources
+- pkg:maven/cn.k7g/spring-boot-starter-alloy@0.2.1
+- pkg:maven/cn.k7g/spring-boot-starter-alloy@0.2.1?classifier=sources
+- pkg:maven/cn.k7g/spring-boot-starter-alloy@0.2.2
+- pkg:maven/cn.k7g/spring-boot-starter-alloy@0.2.2?classifier=sources

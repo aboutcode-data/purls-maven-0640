@@ -4,6 +4,8 @@
 - pkg:maven/org.sonarsource.javascript/fetch-node@10.12.0.25537?classifier=sources
 - pkg:maven/org.sonarsource.javascript/fetch-node@10.13.0.25911?classifier=sources
 - pkg:maven/org.sonarsource.javascript/fetch-node@10.13.1.25965?classifier=sources
+- pkg:maven/org.sonarsource.javascript/fetch-node@10.13.2.25981?classifier=sources
+- pkg:maven/org.sonarsource.javascript/fetch-node@10.14.0.26080?classifier=sources
 - pkg:maven/org.sonarsource.javascript/fetch-node@10.7.0.22914?classifier=sources
 - pkg:maven/org.sonarsource.javascript/fetch-node@10.8.0.24207?classifier=sources
 - pkg:maven/org.sonarsource.javascript/fetch-node@10.9.0.24449?classifier=sources

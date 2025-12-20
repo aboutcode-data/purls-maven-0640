@@ -1,1 +1,3 @@
 - pkg:maven/me.proton.core/user-recovery-domain@22.1.0?classifier=sources
+- pkg:maven/me.proton.core/user-recovery-domain@22.2.0?classifier=sources
+- pkg:maven/me.proton.core/user-recovery-domain@23.0.0?classifier=sources

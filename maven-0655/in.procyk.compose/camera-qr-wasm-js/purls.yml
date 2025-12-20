@@ -1,0 +1,2 @@
+- pkg:maven/in.procyk.compose/camera-qr-wasm-js@1.6.10-beta03.0?classifier=sources
+- pkg:maven/in.procyk.compose/camera-qr-wasm-js@1.6.2.1?classifier=sources

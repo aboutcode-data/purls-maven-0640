@@ -1,0 +1,2 @@
+- pkg:maven/cool.klass/klass-dropwizard-bundle-bootstrap-writer@0.1.0
+- pkg:maven/cool.klass/klass-dropwizard-bundle-bootstrap-writer@0.1.0?classifier=sources

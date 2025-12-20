@@ -71,6 +71,8 @@
 - pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.common@1.67.13?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.common@1.67.14
 - pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.common@1.67.14?classifier=sources
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.common@1.67.16
+- pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.common@1.67.16?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.common@1.67.1?classifier=sources
 - pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.common@1.67.2
 - pkg:maven/com.sap.cloud.lm.sl/com.sap.cloud.lm.sl.common@1.67.2?classifier=sources

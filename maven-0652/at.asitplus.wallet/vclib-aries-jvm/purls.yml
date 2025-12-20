@@ -4,3 +4,6 @@
 - pkg:maven/at.asitplus.wallet/vclib-aries-jvm@3.2.0?classifier=sources
 - pkg:maven/at.asitplus.wallet/vclib-aries-jvm@3.3.0?classifier=sources
 - pkg:maven/at.asitplus.wallet/vclib-aries-jvm@3.4.0?classifier=sources
+- pkg:maven/at.asitplus.wallet/vclib-aries-jvm@3.5.0?classifier=sources
+- pkg:maven/at.asitplus.wallet/vclib-aries-jvm@3.6.0?classifier=sources
+- pkg:maven/at.asitplus.wallet/vclib-aries-jvm@3.6.1?classifier=sources

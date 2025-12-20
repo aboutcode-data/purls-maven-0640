@@ -3,3 +3,5 @@
 - pkg:maven/com.dua3.fx/fx-application-fxml@0.35?classifier=sources
 - pkg:maven/com.dua3.fx/fx-application-fxml@0.36?classifier=sources
 - pkg:maven/com.dua3.fx/fx-application-fxml@0.37?classifier=sources
+- pkg:maven/com.dua3.fx/fx-application-fxml@0.39?classifier=sources
+- pkg:maven/com.dua3.fx/fx-application-fxml@0.40?classifier=sources

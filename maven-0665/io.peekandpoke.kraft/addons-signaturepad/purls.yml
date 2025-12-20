@@ -101,3 +101,4 @@
 - pkg:maven/io.peekandpoke.kraft/addons-signaturepad@0.44.3?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-signaturepad@0.44.4?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-signaturepad@0.45.0?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-signaturepad@0.46.0?classifier=sources

@@ -159,3 +159,17 @@
 - pkg:maven/com.pulumi/alicloud@3.53.0-alpha.1712400961%2B3ecbd841?classifier=sources
 - pkg:maven/com.pulumi/alicloud@3.53.0-alpha.1712466933%2Bbf56ea26?classifier=sources
 - pkg:maven/com.pulumi/alicloud@3.53.0-alpha.1712726439%2B617fea30?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.53.0-alpha.1712985337%2B2d91aa8f?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.53.0-alpha.1713330895%2B031d1fbf?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.53.0-alpha.1713354491%2B7358f47f?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.53.0?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.54.0-alpha.1713368531%2B6f1cc6b6?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.54.0-alpha.1713900322%2Be02c5506?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.54.0-alpha.1713976232%2B9392836e?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.54.0?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.55.0-alpha.1714108577%2Ba7c44619?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.55.0-alpha.1714454194%2B9647a561?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.55.0-alpha.1714509019%2B8e5bc14f?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.55.0?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.56.0-alpha.1714540487%2Bb49c5ce?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.56.0-alpha.1714562134%2B69ce1c8?classifier=sources

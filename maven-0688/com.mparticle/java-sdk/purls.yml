@@ -72,3 +72,5 @@
 - pkg:maven/com.mparticle/java-sdk@2.9.0?classifier=sources
 - pkg:maven/com.mparticle/java-sdk@2.9.2?classifier=sources
 - pkg:maven/com.mparticle/java-sdk@3.0.0?classifier=sources
+- pkg:maven/com.mparticle/java-sdk@3.1.0?classifier=sources
+- pkg:maven/com.mparticle/java-sdk@3.2.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-entity-listener@1.6.0?classifier=sources
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-entity-listener@1.7.0
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-entity-listener@1.7.0?classifier=sources
+- pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-entity-listener@1.8.0
+- pkg:maven/org.seasar.doma.boot/doma-spring-boot-sample-entity-listener@1.8.0?classifier=sources

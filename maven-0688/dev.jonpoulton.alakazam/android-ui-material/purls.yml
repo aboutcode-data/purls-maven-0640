@@ -21,3 +21,5 @@
 - pkg:maven/dev.jonpoulton.alakazam/android-ui-material@4.3.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/android-ui-material@4.4.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/android-ui-material@4.4.1?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/android-ui-material@4.5.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/android-ui-material@4.5.1?classifier=sources

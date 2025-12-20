@@ -213,3 +213,5 @@
 - pkg:maven/io.smallrye/smallrye-graphql-api@2.8.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-api@2.8.2
 - pkg:maven/io.smallrye/smallrye-graphql-api@2.8.2?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-api@2.8.3
+- pkg:maven/io.smallrye/smallrye-graphql-api@2.8.3?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-linuxx64@5.7.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-linuxx64@5.8.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-linuxx64@6.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-linuxx64@7.0.0?classifier=sources

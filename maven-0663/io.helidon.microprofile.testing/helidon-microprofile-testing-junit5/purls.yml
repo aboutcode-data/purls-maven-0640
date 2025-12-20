@@ -18,3 +18,5 @@
 - pkg:maven/io.helidon.microprofile.testing/helidon-microprofile-testing-junit5@4.0.6?classifier=sources
 - pkg:maven/io.helidon.microprofile.testing/helidon-microprofile-testing-junit5@4.0.7
 - pkg:maven/io.helidon.microprofile.testing/helidon-microprofile-testing-junit5@4.0.7?classifier=sources
+- pkg:maven/io.helidon.microprofile.testing/helidon-microprofile-testing-junit5@4.0.8
+- pkg:maven/io.helidon.microprofile.testing/helidon-microprofile-testing-junit5@4.0.8?classifier=sources

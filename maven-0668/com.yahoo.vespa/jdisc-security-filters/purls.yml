@@ -666,6 +666,13 @@
 - pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.326.37?classifier=sources
 - pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.327.49?classifier=sources
 - pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.328.24?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.329.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.330.52?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.331.34?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.332.5?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.334.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.337.85?classifier=sources
+- pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.338.38?classifier=sources
 - pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.34.38?classifier=sources
 - pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.35.5?classifier=sources
 - pkg:maven/com.yahoo.vespa/jdisc-security-filters@8.37.26?classifier=sources

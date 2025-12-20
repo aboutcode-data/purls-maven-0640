@@ -4,3 +4,5 @@
 - pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@4.9.3?classifier=sources
 - pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@4.9.4
 - pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@4.9.4?classifier=sources
+- pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@4.9.5
+- pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@4.9.5?classifier=sources

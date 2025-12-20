@@ -10,3 +10,4 @@
 - pkg:maven/io.tinga.couch4j/couch4j@0.1.8?classifier=sources
 - pkg:maven/io.tinga.couch4j/couch4j@0.1.9?classifier=sources
 - pkg:maven/io.tinga.couch4j/couch4j@0.9.0?classifier=sources
+- pkg:maven/io.tinga.couch4j/couch4j@0.9.1?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/com.cognitect.aws/compute-optimizer@847.2.1387.0?classifier=sources
 - pkg:maven/com.cognitect.aws/compute-optimizer@857.2.1574.0
 - pkg:maven/com.cognitect.aws/compute-optimizer@857.2.1574.0?classifier=sources
+- pkg:maven/com.cognitect.aws/compute-optimizer@868.2.1599.0
+- pkg:maven/com.cognitect.aws/compute-optimizer@868.2.1599.0?classifier=sources

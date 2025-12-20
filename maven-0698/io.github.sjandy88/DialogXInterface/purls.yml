@@ -1,0 +1,5 @@
+- pkg:maven/io.github.sjandy88/DialogXInterface@5?classifier=sources
+- pkg:maven/io.github.sjandy88/DialogXInterface@6?classifier=sources
+- pkg:maven/io.github.sjandy88/DialogXInterface@7?classifier=sources
+- pkg:maven/io.github.sjandy88/DialogXInterface@8?classifier=sources
+- pkg:maven/io.github.sjandy88/DialogXInterface@9?classifier=sources

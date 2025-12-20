@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang.modules/scala-parser-combinators_native0.5_3@2.4.0
+- pkg:maven/org.scala-lang.modules/scala-parser-combinators_native0.5_3@2.4.0?classifier=sources

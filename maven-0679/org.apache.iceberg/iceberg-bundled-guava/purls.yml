@@ -28,3 +28,4 @@
 - pkg:maven/org.apache.iceberg/iceberg-bundled-guava@1.4.2?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-bundled-guava@1.4.3?classifier=sources
 - pkg:maven/org.apache.iceberg/iceberg-bundled-guava@1.5.0?classifier=sources
+- pkg:maven/org.apache.iceberg/iceberg-bundled-guava@1.5.1?classifier=sources

@@ -47,3 +47,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-preference-center@17.7.2?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-preference-center@17.7.3?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-preference-center@17.7.4?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-preference-center@17.8.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.virtuslab/besom-vault_3@5.15.0-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-vault_3@5.19.0-core.0.2
 - pkg:maven/org.virtuslab/besom-vault_3@5.19.0-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-vault_3@6.1.0-core.0.3
+- pkg:maven/org.virtuslab/besom-vault_3@6.1.0-core.0.3?classifier=sources

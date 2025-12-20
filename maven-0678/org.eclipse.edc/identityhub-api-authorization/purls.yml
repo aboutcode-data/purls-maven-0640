@@ -1,2 +1,6 @@
 - pkg:maven/org.eclipse.edc/identityhub-api-authorization@0.5.1?classifier=sources
 - pkg:maven/org.eclipse.edc/identityhub-api-authorization@0.6.0?classifier=sources
+- pkg:maven/org.eclipse.edc/identityhub-api-authorization@0.6.1?classifier=sources
+- pkg:maven/org.eclipse.edc/identityhub-api-authorization@0.6.2?classifier=sources
+- pkg:maven/org.eclipse.edc/identityhub-api-authorization@0.6.3?classifier=sources
+- pkg:maven/org.eclipse.edc/identityhub-api-authorization@0.6.4?classifier=sources

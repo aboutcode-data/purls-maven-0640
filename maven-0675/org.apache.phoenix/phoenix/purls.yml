@@ -11,3 +11,4 @@
 - pkg:maven/org.apache.phoenix/phoenix@5.1.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.phoenix/phoenix@5.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.phoenix/phoenix@5.1.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.phoenix/phoenix@5.2.0?classifier=source-release&type=zip

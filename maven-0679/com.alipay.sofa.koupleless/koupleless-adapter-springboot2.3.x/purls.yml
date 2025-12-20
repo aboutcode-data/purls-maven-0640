@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-springboot2.3.x@1.1.0
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-springboot2.3.x@1.1.0?classifier=sources

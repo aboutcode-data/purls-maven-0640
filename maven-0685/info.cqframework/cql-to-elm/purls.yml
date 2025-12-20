@@ -43,6 +43,7 @@
 - pkg:maven/info.cqframework/cql-to-elm@2.9.0?classifier=sources
 - pkg:maven/info.cqframework/cql-to-elm@3.0.0?classifier=sources
 - pkg:maven/info.cqframework/cql-to-elm@3.1.0?classifier=sources
+- pkg:maven/info.cqframework/cql-to-elm@3.10.0?classifier=sources
 - pkg:maven/info.cqframework/cql-to-elm@3.2.0?classifier=sources
 - pkg:maven/info.cqframework/cql-to-elm@3.3.0?classifier=sources
 - pkg:maven/info.cqframework/cql-to-elm@3.3.1?classifier=sources

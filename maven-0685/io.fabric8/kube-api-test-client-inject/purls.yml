@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8/kube-api-test-client-inject@6.12.1
+- pkg:maven/io.fabric8/kube-api-test-client-inject@6.12.1?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/org.magicwerk.magictest/magictest@0.9.10?classifier=sources
 - pkg:maven/org.magicwerk.magictest/magictest@0.9.11?classifier=sources
+- pkg:maven/org.magicwerk.magictest/magictest@0.9.12?classifier=sources
 - pkg:maven/org.magicwerk.magictest/magictest@0.9.6?classifier=sources
 - pkg:maven/org.magicwerk.magictest/magictest@0.9.7?classifier=sources
 - pkg:maven/org.magicwerk.magictest/magictest@0.9.8?classifier=sources

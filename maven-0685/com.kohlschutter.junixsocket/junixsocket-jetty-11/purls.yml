@@ -1,0 +1,2 @@
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-jetty-11@2.9.1
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-jetty-11@2.9.1?classifier=sources

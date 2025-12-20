@@ -64,6 +64,8 @@
 - pkg:maven/org.glassfish.jersey.examples/server-sent-events-jaxrs@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/server-sent-events-jaxrs@2.42
 - pkg:maven/org.glassfish.jersey.examples/server-sent-events-jaxrs@2.42?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/server-sent-events-jaxrs@2.43
+- pkg:maven/org.glassfish.jersey.examples/server-sent-events-jaxrs@2.43?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/server-sent-events-jaxrs@3.0.0
 - pkg:maven/org.glassfish.jersey.examples/server-sent-events-jaxrs@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.examples/server-sent-events-jaxrs@3.0.0-M1?classifier=sources

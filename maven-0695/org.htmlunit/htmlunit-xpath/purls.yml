@@ -24,3 +24,5 @@
 - pkg:maven/org.htmlunit/htmlunit-xpath@3.9.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.0.0
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.0.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-xpath@4.1.0
+- pkg:maven/org.htmlunit/htmlunit-xpath@4.1.0?classifier=sources

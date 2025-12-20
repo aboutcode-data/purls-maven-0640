@@ -1,0 +1,6 @@
+- pkg:maven/dev.vality/dominator-proto@1.2-0d48f13
+- pkg:maven/dev.vality/dominator-proto@1.2-0d48f13?classifier=sources
+- pkg:maven/dev.vality/dominator-proto@1.3-12742f6
+- pkg:maven/dev.vality/dominator-proto@1.3-12742f6?classifier=sources
+- pkg:maven/dev.vality/dominator-proto@1.4-68a8678
+- pkg:maven/dev.vality/dominator-proto@1.4-68a8678?classifier=sources

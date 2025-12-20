@@ -1,2 +1,4 @@
 - pkg:maven/com.yomahub/tlog-shenyu-spring-boot-starter@1.5.1
 - pkg:maven/com.yomahub/tlog-shenyu-spring-boot-starter@1.5.1?classifier=sources
+- pkg:maven/com.yomahub/tlog-shenyu-spring-boot-starter@1.5.2
+- pkg:maven/com.yomahub/tlog-shenyu-spring-boot-starter@1.5.2?classifier=sources

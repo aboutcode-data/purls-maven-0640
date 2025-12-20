@@ -20,3 +20,5 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-castor@6.21.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-castor@6.21.2
 - pkg:maven/net.sf.jasperreports/jasperreports-castor@6.21.2?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-castor@6.21.3
+- pkg:maven/net.sf.jasperreports/jasperreports-castor@6.21.3?classifier=sources

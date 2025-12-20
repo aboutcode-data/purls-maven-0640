@@ -150,3 +150,4 @@
 - pkg:maven/com.pulumi/auth0@3.4.0-alpha.1710912078%2B1f56bcad?classifier=sources
 - pkg:maven/com.pulumi/auth0@3.4.0-alpha.1711026910%2B79131155?classifier=sources
 - pkg:maven/com.pulumi/auth0@3.4.0-alpha.1711602833%2B93d2cabe?classifier=sources
+- pkg:maven/com.pulumi/auth0@3.4.0-alpha.1713438635%2B2237f8fa?classifier=sources

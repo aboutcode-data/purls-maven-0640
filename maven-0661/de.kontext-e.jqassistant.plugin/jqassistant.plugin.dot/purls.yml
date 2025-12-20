@@ -1,0 +1,16 @@
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.10.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.10.0?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.11.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.11.0?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.12.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.12.0?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.7.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.7.0?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.8.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.8.0?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.9.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@1.9.0?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@2.0.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@2.0.0?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@2.1.0
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.dot@2.1.0?classifier=sources

@@ -4,7 +4,9 @@
 - pkg:maven/com.ipeakoin/ipeakoin-sdk@0.0.2-beta?classifier=sources
 - pkg:maven/com.ipeakoin/ipeakoin-sdk@1.0.1-beta
 - pkg:maven/com.ipeakoin/ipeakoin-sdk@1.0.1-beta?classifier=sources
+- pkg:maven/com.ipeakoin/ipeakoin-sdk@2.0.0
 - pkg:maven/com.ipeakoin/ipeakoin-sdk@2.0.0-beta
 - pkg:maven/com.ipeakoin/ipeakoin-sdk@2.0.0-beta?classifier=sources
+- pkg:maven/com.ipeakoin/ipeakoin-sdk@2.0.0?classifier=sources
 - pkg:maven/com.ipeakoin/ipeakoin-sdk@2.0.1-beta
 - pkg:maven/com.ipeakoin/ipeakoin-sdk@2.0.1-beta?classifier=sources

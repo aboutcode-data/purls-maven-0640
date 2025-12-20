@@ -1,0 +1,2 @@
+- pkg:maven/systems.dennis/sd-shared-app-to-db-mongo@1.0.1
+- pkg:maven/systems.dennis/sd-shared-app-to-db-mongo@1.0.1?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/ru.ldralighieri.corbind/corbind-fragment@1.10.0?classifier=sources
+- pkg:maven/ru.ldralighieri.corbind/corbind-fragment@1.11.0?classifier=sources
 - pkg:maven/ru.ldralighieri.corbind/corbind-fragment@1.6.0?classifier=sources
 - pkg:maven/ru.ldralighieri.corbind/corbind-fragment@1.7.0?classifier=sources
 - pkg:maven/ru.ldralighieri.corbind/corbind-fragment@1.8.0?classifier=sources

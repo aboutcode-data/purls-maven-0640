@@ -48,3 +48,5 @@
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.6.1.ee?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.6.1?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.6.2?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.7.0.ee?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.7.0?classifier=sources

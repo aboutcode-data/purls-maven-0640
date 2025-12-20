@@ -46,3 +46,5 @@
 - pkg:maven/nl.pragmasoft.sensors/sensors-cassandra_2.13@0.6.2?classifier=sources
 - pkg:maven/nl.pragmasoft.sensors/sensors-cassandra_2.13@0.6.3
 - pkg:maven/nl.pragmasoft.sensors/sensors-cassandra_2.13@0.6.3?classifier=sources
+- pkg:maven/nl.pragmasoft.sensors/sensors-cassandra_2.13@0.7.1
+- pkg:maven/nl.pragmasoft.sensors/sensors-cassandra_2.13@0.7.1?classifier=sources

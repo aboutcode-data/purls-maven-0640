@@ -8,3 +8,5 @@
 - pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.tests@0.0.7?classifier=sources
 - pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.tests@0.0.8
 - pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.tests@0.0.8?classifier=sources
+- pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.tests@1.0.0-beta0001
+- pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.tests@1.0.0-beta0001?classifier=sources

@@ -61,6 +61,8 @@
 - pkg:maven/com.thoughtworks.binding/jspromisebinding_sjs1_2.13@12.1.1%2B100-ecfcbfb1?classifier=sources
 - pkg:maven/com.thoughtworks.binding/jspromisebinding_sjs1_2.13@12.1.1%2B101-1a52c313
 - pkg:maven/com.thoughtworks.binding/jspromisebinding_sjs1_2.13@12.1.1%2B101-1a52c313?classifier=sources
+- pkg:maven/com.thoughtworks.binding/jspromisebinding_sjs1_2.13@12.1.1%2B102-97cad724
+- pkg:maven/com.thoughtworks.binding/jspromisebinding_sjs1_2.13@12.1.1%2B102-97cad724?classifier=sources
 - pkg:maven/com.thoughtworks.binding/jspromisebinding_sjs1_2.13@12.1.1%2B36-b775fdd1
 - pkg:maven/com.thoughtworks.binding/jspromisebinding_sjs1_2.13@12.1.1%2B36-b775fdd1?classifier=sources
 - pkg:maven/com.thoughtworks.binding/jspromisebinding_sjs1_2.13@12.1.1%2B93-13cf3b89
