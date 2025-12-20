@@ -102,6 +102,12 @@
 - pkg:maven/com.palantir.atlasdb/commons-annotations@0.1077.0-rc4?classifier=sources
 - pkg:maven/com.palantir.atlasdb/commons-annotations@0.1077.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/commons-annotations@0.1078.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/commons-annotations@0.1081.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/commons-annotations@0.1082.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/commons-annotations@0.1083.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/commons-annotations@0.1084.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/commons-annotations@0.1085.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/commons-annotations@0.1086.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/commons-annotations@0.311.6?classifier=sources
 - pkg:maven/com.palantir.atlasdb/commons-annotations@0.311.7?classifier=sources
 - pkg:maven/com.palantir.atlasdb/commons-annotations@0.312.2-rc2?classifier=sources

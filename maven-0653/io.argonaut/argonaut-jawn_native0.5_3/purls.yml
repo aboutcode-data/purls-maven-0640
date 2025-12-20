@@ -1,0 +1,2 @@
+- pkg:maven/io.argonaut/argonaut-jawn_native0.5_3@6.3.10
+- pkg:maven/io.argonaut/argonaut-jawn_native0.5_3@6.3.10?classifier=sources

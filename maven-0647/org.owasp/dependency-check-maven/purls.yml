@@ -282,3 +282,5 @@
 - pkg:maven/org.owasp/dependency-check-maven@9.0.9?classifier=sources
 - pkg:maven/org.owasp/dependency-check-maven@9.1.0
 - pkg:maven/org.owasp/dependency-check-maven@9.1.0?classifier=sources
+- pkg:maven/org.owasp/dependency-check-maven@9.2.0
+- pkg:maven/org.owasp/dependency-check-maven@9.2.0?classifier=sources

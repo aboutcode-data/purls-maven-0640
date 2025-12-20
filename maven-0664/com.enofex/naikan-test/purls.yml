@@ -15,3 +15,4 @@
 - pkg:maven/com.enofex/naikan-test@0.0.8?classifier=sources
 - pkg:maven/com.enofex/naikan-test@0.0.9?classifier=sources
 - pkg:maven/com.enofex/naikan-test@1.0.0?classifier=sources
+- pkg:maven/com.enofex/naikan-test@1.0.1?classifier=sources

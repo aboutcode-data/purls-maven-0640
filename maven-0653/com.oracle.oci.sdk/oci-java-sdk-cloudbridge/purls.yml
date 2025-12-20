@@ -64,6 +64,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.65.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.66.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.66.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.72.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@2.72.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.0.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.0.0-beta1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.0.0-beta1?classifier=sources
@@ -186,6 +188,12 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.40.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.41.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.41.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.41.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.41.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.41.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.41.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.41.3
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.41.3?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.5.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.5.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cloudbridge@3.6.0

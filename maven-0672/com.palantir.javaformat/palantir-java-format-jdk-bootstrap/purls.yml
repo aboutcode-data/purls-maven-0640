@@ -36,6 +36,7 @@
 - pkg:maven/com.palantir.javaformat/palantir-java-format-jdk-bootstrap@2.44.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-jdk-bootstrap@2.45.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-jdk-bootstrap@2.46.0?classifier=sources
+- pkg:maven/com.palantir.javaformat/palantir-java-format-jdk-bootstrap@2.47.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-jdk-bootstrap@2.5.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-jdk-bootstrap@2.6.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/palantir-java-format-jdk-bootstrap@2.7.0?classifier=sources

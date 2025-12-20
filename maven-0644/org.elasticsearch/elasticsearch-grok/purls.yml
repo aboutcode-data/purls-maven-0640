@@ -34,6 +34,8 @@
 - pkg:maven/org.elasticsearch/elasticsearch-grok@8.13.3?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-grok@8.13.4
 - pkg:maven/org.elasticsearch/elasticsearch-grok@8.13.4?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-grok@8.14.0
+- pkg:maven/org.elasticsearch/elasticsearch-grok@8.14.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-grok@8.5.0
 - pkg:maven/org.elasticsearch/elasticsearch-grok@8.5.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-grok@8.5.1

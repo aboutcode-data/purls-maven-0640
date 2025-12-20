@@ -384,3 +384,5 @@
 - pkg:maven/com.adobe.aem/aem-sdk-api@2024.4.15977.20240418T174835Z-240400?classifier=sources
 - pkg:maven/com.adobe.aem/aem-sdk-api@2024.4.16145.20240430T082417Z-240400
 - pkg:maven/com.adobe.aem/aem-sdk-api@2024.4.16145.20240430T082417Z-240400?classifier=sources
+- pkg:maven/com.adobe.aem/aem-sdk-api@2024.5.16357.20240517T163826Z-240400
+- pkg:maven/com.adobe.aem/aem-sdk-api@2024.5.16357.20240517T163826Z-240400?classifier=sources

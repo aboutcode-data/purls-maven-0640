@@ -7,6 +7,7 @@
 - pkg:maven/net.kyori/adventure-text-serializer-gson-legacy-impl@4.14.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-serializer-gson-legacy-impl@4.15.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-serializer-gson-legacy-impl@4.16.0?classifier=sources
+- pkg:maven/net.kyori/adventure-text-serializer-gson-legacy-impl@4.17.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-serializer-gson-legacy-impl@4.3.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-serializer-gson-legacy-impl@4.4.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-serializer-gson-legacy-impl@4.5.0?classifier=sources

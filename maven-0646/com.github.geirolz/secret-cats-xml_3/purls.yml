@@ -1,3 +1,5 @@
+- pkg:maven/com.github.geirolz/secret-cats-xml_3@0.0.10
+- pkg:maven/com.github.geirolz/secret-cats-xml_3@0.0.10?classifier=sources
 - pkg:maven/com.github.geirolz/secret-cats-xml_3@0.0.8
 - pkg:maven/com.github.geirolz/secret-cats-xml_3@0.0.8?classifier=sources
 - pkg:maven/com.github.geirolz/secret-cats-xml_3@0.0.9

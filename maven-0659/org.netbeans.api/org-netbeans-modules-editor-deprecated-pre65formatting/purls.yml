@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-deprecated-pre65formatting@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-deprecated-pre65formatting@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-deprecated-pre65formatting@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor-deprecated-pre65formatting@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor-deprecated-pre65formatting@RELEASE90?classifier=sources

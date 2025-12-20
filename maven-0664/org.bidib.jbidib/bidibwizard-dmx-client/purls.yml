@@ -22,3 +22,7 @@
 - pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.20?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.21
 - pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.21?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.22
+- pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.22?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.23
+- pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.23?classifier=sources

@@ -176,3 +176,5 @@
 - pkg:maven/com.aliyun/mse20190531@7.5.0?classifier=sources
 - pkg:maven/com.aliyun/mse20190531@7.6.0
 - pkg:maven/com.aliyun/mse20190531@7.6.0?classifier=sources
+- pkg:maven/com.aliyun/mse20190531@7.6.1
+- pkg:maven/com.aliyun/mse20190531@7.6.1?classifier=sources

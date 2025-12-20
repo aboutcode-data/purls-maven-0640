@@ -48,3 +48,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core@5.8.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core@6.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core@7.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-core@7.1.0?classifier=sources

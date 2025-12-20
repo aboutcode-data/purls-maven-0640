@@ -168,6 +168,12 @@
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.32?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.33
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.33?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.34
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.34?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.35
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.35?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.36
+- pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.36?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.4
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.4?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk.s2e/org.eclipse.scout.sdk.s2e.test@13.0.5

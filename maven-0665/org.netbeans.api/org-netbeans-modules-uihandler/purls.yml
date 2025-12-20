@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-uihandler@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-uihandler@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-uihandler@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-uihandler@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-uihandler@RELEASE90?classifier=sources

@@ -16,6 +16,7 @@
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.23?classifier=sources
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.24?classifier=sources
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.25?classifier=sources
+- pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.26?classifier=sources
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.2?classifier=sources
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.3?classifier=sources
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.4?classifier=sources
@@ -24,6 +25,7 @@
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.7?classifier=sources
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.8?classifier=sources
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.10.9?classifier=sources
+- pkg:maven/com.uber.nullaway/jar-infer-lib@0.11.0?classifier=sources
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.5.3
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.5.3?classifier=sources
 - pkg:maven/com.uber.nullaway/jar-infer-lib@0.5.4

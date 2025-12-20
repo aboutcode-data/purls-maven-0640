@@ -18,6 +18,10 @@
 - pkg:maven/com.google.apis/google-api-services-migrationcenter@v1-rev20240321-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-migrationcenter@v1-rev20240411-2.0.0
 - pkg:maven/com.google.apis/google-api-services-migrationcenter@v1-rev20240411-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1-rev20240502-2.0.0
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1-rev20240502-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1-rev20240516-2.0.0
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1-rev20240516-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20230311-2.0.0
 - pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20230311-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20230317-2.0.0
@@ -70,3 +74,9 @@
 - pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20240411-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20240421-2.0.0
 - pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20240421-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20240502-2.0.0
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20240502-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20240509-2.0.0
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20240509-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20240516-2.0.0
+- pkg:maven/com.google.apis/google-api-services-migrationcenter@v1alpha1-rev20240516-2.0.0?classifier=sources

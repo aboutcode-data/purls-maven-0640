@@ -43,6 +43,8 @@
 - pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.11?classifier=sources
 - pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.12
 - pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.12?classifier=sources
+- pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.13
+- pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.13?classifier=sources
 - pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.1?classifier=sources
 - pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.2
 - pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.2?classifier=sources
@@ -62,3 +64,5 @@
 - pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.8?classifier=sources
 - pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.9
 - pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.2.9?classifier=sources
+- pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.3.0
+- pkg:maven/net.dreamlu/mica-mqtt-server-spring-boot-starter@2.3.0?classifier=sources

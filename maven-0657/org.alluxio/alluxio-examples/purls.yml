@@ -158,3 +158,5 @@
 - pkg:maven/org.alluxio/alluxio-examples@311?classifier=sources
 - pkg:maven/org.alluxio/alluxio-examples@312
 - pkg:maven/org.alluxio/alluxio-examples@312?classifier=sources
+- pkg:maven/org.alluxio/alluxio-examples@313
+- pkg:maven/org.alluxio/alluxio-examples@313?classifier=sources

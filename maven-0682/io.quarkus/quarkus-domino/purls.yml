@@ -10,6 +10,8 @@
 - pkg:maven/io.quarkus/quarkus-domino@0.0.104?classifier=sources
 - pkg:maven/io.quarkus/quarkus-domino@0.0.105
 - pkg:maven/io.quarkus/quarkus-domino@0.0.105?classifier=sources
+- pkg:maven/io.quarkus/quarkus-domino@0.0.106
+- pkg:maven/io.quarkus/quarkus-domino@0.0.106?classifier=sources
 - pkg:maven/io.quarkus/quarkus-domino@0.0.71
 - pkg:maven/io.quarkus/quarkus-domino@0.0.71?classifier=sources
 - pkg:maven/io.quarkus/quarkus-domino@0.0.72

@@ -2,3 +2,5 @@
 - pkg:maven/org.dflib/dflib-json@1.0.0-M19?classifier=sources
 - pkg:maven/org.dflib/dflib-json@1.0.0-M20
 - pkg:maven/org.dflib/dflib-json@1.0.0-M20?classifier=sources
+- pkg:maven/org.dflib/dflib-json@1.0.0-M21
+- pkg:maven/org.dflib/dflib-json@1.0.0-M21?classifier=sources

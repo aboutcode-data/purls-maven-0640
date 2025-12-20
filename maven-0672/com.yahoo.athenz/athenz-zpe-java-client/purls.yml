@@ -219,8 +219,14 @@
 - pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.56?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.57
 - pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.57?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.58
+- pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.58?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.59
+- pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.59?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.5?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.6
+- pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.60
+- pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.60?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.6?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.7
 - pkg:maven/com.yahoo.athenz/athenz-zpe-java-client@1.11.7?classifier=sources

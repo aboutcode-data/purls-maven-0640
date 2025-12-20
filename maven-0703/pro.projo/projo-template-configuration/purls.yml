@@ -28,3 +28,5 @@
 - pkg:maven/pro.projo/projo-template-configuration@1.5.4?classifier=sources
 - pkg:maven/pro.projo/projo-template-configuration@1.5.5
 - pkg:maven/pro.projo/projo-template-configuration@1.5.5?classifier=sources
+- pkg:maven/pro.projo/projo-template-configuration@1.5.6
+- pkg:maven/pro.projo/projo-template-configuration@1.5.6?classifier=sources

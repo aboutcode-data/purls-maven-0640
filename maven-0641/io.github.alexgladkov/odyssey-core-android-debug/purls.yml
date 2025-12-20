@@ -48,3 +48,4 @@
 - pkg:maven/io.github.alexgladkov/odyssey-core-android-debug@1.3.3?classifier=sources
 - pkg:maven/io.github.alexgladkov/odyssey-core-android-debug@1.3.400-native-experimental?classifier=sources
 - pkg:maven/io.github.alexgladkov/odyssey-core-android-debug@1.3.60?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-core-android-debug@1.3.61?classifier=sources

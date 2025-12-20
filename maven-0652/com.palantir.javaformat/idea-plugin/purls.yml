@@ -39,6 +39,7 @@
 - pkg:maven/com.palantir.javaformat/idea-plugin@2.44.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/idea-plugin@2.45.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/idea-plugin@2.46.0?classifier=sources
+- pkg:maven/com.palantir.javaformat/idea-plugin@2.47.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/idea-plugin@2.5.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/idea-plugin@2.6.0?classifier=sources
 - pkg:maven/com.palantir.javaformat/idea-plugin@2.7.0?classifier=sources

@@ -192,3 +192,5 @@
 - pkg:maven/com.facebook.presto/presto-spark-classloader-interface@0.285?classifier=sources
 - pkg:maven/com.facebook.presto/presto-spark-classloader-interface@0.286
 - pkg:maven/com.facebook.presto/presto-spark-classloader-interface@0.286?classifier=sources
+- pkg:maven/com.facebook.presto/presto-spark-classloader-interface@0.287
+- pkg:maven/com.facebook.presto/presto-spark-classloader-interface@0.287?classifier=sources

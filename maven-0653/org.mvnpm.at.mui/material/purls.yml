@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm.at.mui/material@5.15.14?classifier=sources
+- pkg:maven/org.mvnpm.at.mui/material@5.15.17?classifier=sources
+- pkg:maven/org.mvnpm.at.mui/material@5.15.18?classifier=sources
+- pkg:maven/org.mvnpm.at.mui/material@5.15.19?classifier=sources

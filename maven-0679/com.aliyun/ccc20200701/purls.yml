@@ -30,6 +30,12 @@
 - pkg:maven/com.aliyun/ccc20200701@2.15.0?classifier=sources
 - pkg:maven/com.aliyun/ccc20200701@2.15.1
 - pkg:maven/com.aliyun/ccc20200701@2.15.1?classifier=sources
+- pkg:maven/com.aliyun/ccc20200701@2.16.0
+- pkg:maven/com.aliyun/ccc20200701@2.16.0?classifier=sources
+- pkg:maven/com.aliyun/ccc20200701@2.17.0
+- pkg:maven/com.aliyun/ccc20200701@2.17.0?classifier=sources
+- pkg:maven/com.aliyun/ccc20200701@2.18.0
+- pkg:maven/com.aliyun/ccc20200701@2.18.0?classifier=sources
 - pkg:maven/com.aliyun/ccc20200701@2.2.0
 - pkg:maven/com.aliyun/ccc20200701@2.2.0?classifier=sources
 - pkg:maven/com.aliyun/ccc20200701@2.2.1

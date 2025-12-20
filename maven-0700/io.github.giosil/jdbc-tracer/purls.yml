@@ -1,0 +1,2 @@
+- pkg:maven/io.github.giosil/jdbc-tracer@1.0.0
+- pkg:maven/io.github.giosil/jdbc-tracer@1.0.0?classifier=sources

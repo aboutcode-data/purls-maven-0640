@@ -47,3 +47,5 @@
 - pkg:maven/net.accelbyte.sdk/sdk@0.59.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/sdk@0.60.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/sdk@0.61.0?classifier=sources
+- pkg:maven/net.accelbyte.sdk/sdk@0.62.0?classifier=sources
+- pkg:maven/net.accelbyte.sdk/sdk@0.63.0?classifier=sources

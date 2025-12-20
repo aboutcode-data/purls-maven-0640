@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/jsesc@2.5.2?classifier=sources
 - pkg:maven/org.mvnpm/jsesc@3.0.2?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.storebrand.healthcheck/healthcheck-spring@0.4.0%2B2023-04-25?classifier=sources
+- pkg:maven/com.storebrand.healthcheck/healthcheck-spring@0.4.1%2B2024-05-07?classifier=sources

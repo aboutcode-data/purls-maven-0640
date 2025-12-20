@@ -1,2 +1,4 @@
 - pkg:maven/app.simplecloud.controller/controller-api@0.0.25-EXPERIMENTAL
 - pkg:maven/app.simplecloud.controller/controller-api@0.0.25-EXPERIMENTAL?classifier=sources
+- pkg:maven/app.simplecloud.controller/controller-api@0.0.27-EXPERIMENTAL
+- pkg:maven/app.simplecloud.controller/controller-api@0.0.27-EXPERIMENTAL?classifier=sources

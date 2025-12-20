@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-apex@0.0.10?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-apex@0.0.10a?classifier=sources

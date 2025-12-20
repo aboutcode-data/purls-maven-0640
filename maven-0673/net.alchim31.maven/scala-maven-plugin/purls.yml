@@ -93,3 +93,5 @@
 - pkg:maven/net.alchim31.maven/scala-maven-plugin@4.8.1?classifier=sources
 - pkg:maven/net.alchim31.maven/scala-maven-plugin@4.9.0
 - pkg:maven/net.alchim31.maven/scala-maven-plugin@4.9.0?classifier=sources
+- pkg:maven/net.alchim31.maven/scala-maven-plugin@4.9.1
+- pkg:maven/net.alchim31.maven/scala-maven-plugin@4.9.1?classifier=sources

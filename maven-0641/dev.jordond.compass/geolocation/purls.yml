@@ -1,0 +1,4 @@
+- pkg:maven/dev.jordond.compass/geolocation@0.1.10?classifier=sources
+- pkg:maven/dev.jordond.compass/geolocation@1.0.0?classifier=sources
+- pkg:maven/dev.jordond.compass/geolocation@1.1.0?classifier=sources
+- pkg:maven/dev.jordond.compass/geolocation@1.2.0?classifier=sources

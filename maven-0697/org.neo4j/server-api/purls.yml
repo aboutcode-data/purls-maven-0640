@@ -779,6 +779,8 @@
 - pkg:maven/org.neo4j/server-api@4.4.32?classifier=sources
 - pkg:maven/org.neo4j/server-api@4.4.33
 - pkg:maven/org.neo4j/server-api@4.4.33?classifier=sources
+- pkg:maven/org.neo4j/server-api@4.4.34
+- pkg:maven/org.neo4j/server-api@4.4.34?classifier=sources
 - pkg:maven/org.neo4j/server-api@4.4.3?classifier=sources
 - pkg:maven/org.neo4j/server-api@4.4.4
 - pkg:maven/org.neo4j/server-api@4.4.4?classifier=sources
@@ -818,6 +820,8 @@
 - pkg:maven/org.neo4j/server-api@5.19.0?classifier=sources
 - pkg:maven/org.neo4j/server-api@5.2.0
 - pkg:maven/org.neo4j/server-api@5.2.0?classifier=sources
+- pkg:maven/org.neo4j/server-api@5.20.0
+- pkg:maven/org.neo4j/server-api@5.20.0?classifier=sources
 - pkg:maven/org.neo4j/server-api@5.3.0
 - pkg:maven/org.neo4j/server-api@5.3.0?classifier=sources
 - pkg:maven/org.neo4j/server-api@5.4.0

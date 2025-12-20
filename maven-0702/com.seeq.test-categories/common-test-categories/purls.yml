@@ -3,11 +3,13 @@
 - pkg:maven/com.seeq.test-categories/common-test-categories@62.0.16-v202403010529?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@62.0.17-v202403080343?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@62.0.18-v202404112341?classifier=sources
+- pkg:maven/com.seeq.test-categories/common-test-categories@62.0.19-v202405160809?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@63.0.10-v202402170154?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@63.0.11-v202402221731?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@63.0.9-v202401260310?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@63.1.0-v202403060836?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@63.1.1-v202404112338?classifier=sources
+- pkg:maven/com.seeq.test-categories/common-test-categories@63.1.2-v202405160807?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@64.0.0-v202401250607?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@64.0.1-v202402020435?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@64.0.2-v202402091721?classifier=sources
@@ -20,5 +22,7 @@
 - pkg:maven/com.seeq.test-categories/common-test-categories@64.2.0-v202404042301?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@64.2.1-v202404170446?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@64.3.0-v202405012032?classifier=sources
+- pkg:maven/com.seeq.test-categories/common-test-categories@64.3.1-v202405160004?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@65.0.0-v202404242221?classifier=sources
 - pkg:maven/com.seeq.test-categories/common-test-categories@65.0.1-v202405012042?classifier=sources
+- pkg:maven/com.seeq.test-categories/common-test-categories@65.0.2-v202405101638?classifier=sources

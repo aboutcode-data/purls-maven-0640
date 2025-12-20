@@ -1,1 +1,5 @@
 - pkg:maven/com.optimetriks.unio.compose/checkboxes@0.0.2?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/checkboxes@0.0.3?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/checkboxes@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/checkboxes@6?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/checkboxes@7?classifier=sources

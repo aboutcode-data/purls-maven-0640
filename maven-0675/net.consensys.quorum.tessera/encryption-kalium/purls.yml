@@ -33,3 +33,5 @@
 - pkg:maven/net.consensys.quorum.tessera/encryption-kalium@22.10.0?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/encryption-kalium@22.10.1?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/encryption-kalium@23.4.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/encryption-kalium@24.4.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/encryption-kalium@24.4.1?classifier=sources

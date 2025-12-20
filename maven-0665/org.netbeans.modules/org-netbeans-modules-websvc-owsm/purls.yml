@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-owsm@RELEASE220?classifier=sources

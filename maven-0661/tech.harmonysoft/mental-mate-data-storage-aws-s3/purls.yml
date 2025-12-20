@@ -1,0 +1,3 @@
+- pkg:maven/tech.harmonysoft/mental-mate-data-storage-aws-s3@2.6.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-data-storage-aws-s3@2.7.0?classifier=sources
+- pkg:maven/tech.harmonysoft/mental-mate-data-storage-aws-s3@2.8.0?classifier=sources

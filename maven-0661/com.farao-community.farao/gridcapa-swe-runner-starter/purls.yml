@@ -62,3 +62,7 @@
 - pkg:maven/com.farao-community.farao/gridcapa-swe-runner-starter@1.17.3?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-swe-runner-starter@1.18.0
 - pkg:maven/com.farao-community.farao/gridcapa-swe-runner-starter@1.18.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-swe-runner-starter@1.19.0
+- pkg:maven/com.farao-community.farao/gridcapa-swe-runner-starter@1.19.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-swe-runner-starter@1.20.0
+- pkg:maven/com.farao-community.farao/gridcapa-swe-runner-starter@1.20.0?classifier=sources

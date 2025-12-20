@@ -312,5 +312,6 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-timeline@3.2.0?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-timeline@3.2.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-timeline@3.2.2?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-timeline@3.2.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-timeline@4.0.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-timeline@4.0.4?classifier=sources

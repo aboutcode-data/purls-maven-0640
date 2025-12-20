@@ -1,0 +1,5 @@
+- pkg:maven/org.flmelody/spring-method-parameter-resolver@1.0.0-spring5?classifier=sources
+- pkg:maven/org.flmelody/spring-method-parameter-resolver@1.0.0-spring6?classifier=sources
+- pkg:maven/org.flmelody/spring-method-parameter-resolver@1.0.1-spring5?classifier=sources
+- pkg:maven/org.flmelody/spring-method-parameter-resolver@1.0.1-spring6?classifier=sources
+- pkg:maven/org.flmelody/spring-method-parameter-resolver@1.0.2-spring5?classifier=sources

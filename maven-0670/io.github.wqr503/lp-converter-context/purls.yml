@@ -12,3 +12,5 @@
 - pkg:maven/io.github.wqr503/lp-converter-context@2.0.3?classifier=sources
 - pkg:maven/io.github.wqr503/lp-converter-context@2.0.4
 - pkg:maven/io.github.wqr503/lp-converter-context@2.0.4?classifier=sources
+- pkg:maven/io.github.wqr503/lp-converter-context@2.0.5
+- pkg:maven/io.github.wqr503/lp-converter-context@2.0.5?classifier=sources

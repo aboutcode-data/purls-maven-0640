@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sttk/cliargs@0.1.0
+- pkg:maven/io.github.sttk/cliargs@0.1.0?classifier=sources

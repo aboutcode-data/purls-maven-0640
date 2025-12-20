@@ -123,3 +123,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.6
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.6?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.8
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.base@5.1.8?classifier=sources

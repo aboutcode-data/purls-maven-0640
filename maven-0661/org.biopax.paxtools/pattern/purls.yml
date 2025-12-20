@@ -10,5 +10,9 @@
 - pkg:maven/org.biopax.paxtools/pattern@5.1.0?classifier=sources
 - pkg:maven/org.biopax.paxtools/pattern@5.2.1
 - pkg:maven/org.biopax.paxtools/pattern@5.2.1?classifier=sources
+- pkg:maven/org.biopax.paxtools/pattern@5.2.2
+- pkg:maven/org.biopax.paxtools/pattern@5.2.2?classifier=sources
 - pkg:maven/org.biopax.paxtools/pattern@5.3.0
 - pkg:maven/org.biopax.paxtools/pattern@5.3.0?classifier=sources
+- pkg:maven/org.biopax.paxtools/pattern@6.0.0
+- pkg:maven/org.biopax.paxtools/pattern@6.0.0?classifier=sources

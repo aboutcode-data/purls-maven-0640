@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jsp-lexer@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jsp-lexer@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jsp-lexer@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jsp-lexer@RELEASE220?classifier=sources

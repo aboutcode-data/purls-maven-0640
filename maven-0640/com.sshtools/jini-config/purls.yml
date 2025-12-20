@@ -1,0 +1,2 @@
+- pkg:maven/com.sshtools/jini-config@0.3.2
+- pkg:maven/com.sshtools/jini-config@0.3.2?classifier=sources

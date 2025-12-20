@@ -2,3 +2,7 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-stereotype-docs-usage@1.17.4?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-stereotype-docs-usage@1.18.0
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-stereotype-docs-usage@1.18.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-stereotype-docs-usage@1.18.1
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-stereotype-docs-usage@1.18.1?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-stereotype-docs-usage@1.19.0
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-stereotype-docs-usage@1.19.0?classifier=sources

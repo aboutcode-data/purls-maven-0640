@@ -440,6 +440,14 @@
 - pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.2
 - pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.2?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.3
+- pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.3?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.4
+- pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.4?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.5
+- pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.5?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.6
+- pkg:maven/com.google.cloud/google-cloud-pubsub@1.129.6?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-pubsub@1.31.0
 - pkg:maven/com.google.cloud/google-cloud-pubsub@1.31.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-pubsub@1.32.0

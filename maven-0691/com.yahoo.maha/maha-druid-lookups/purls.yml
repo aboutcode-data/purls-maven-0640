@@ -88,6 +88,14 @@
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.152?type=zip
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.153?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.153?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.154?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.154?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.155?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.155?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.157?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.157?type=zip
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.158?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-druid-lookups@6.158?type=zip
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.53?type=zip
 - pkg:maven/com.yahoo.maha/maha-druid-lookups@6.54?classifier=sources

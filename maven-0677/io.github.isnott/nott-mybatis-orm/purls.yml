@@ -1,0 +1,2 @@
+- pkg:maven/io.github.isnott/nott-mybatis-orm@0.0.3?classifier=sources
+- pkg:maven/io.github.isnott/nott-mybatis-orm@0.0.4?classifier=sources

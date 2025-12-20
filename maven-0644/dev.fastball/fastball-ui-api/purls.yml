@@ -7,3 +7,7 @@
 - pkg:maven/dev.fastball/fastball-ui-api@0.0.131
 - pkg:maven/dev.fastball/fastball-ui-api@0.1.0
 - pkg:maven/dev.fastball/fastball-ui-api@0.2.0
+- pkg:maven/dev.fastball/fastball-ui-api@0.4.0
+- pkg:maven/dev.fastball/fastball-ui-api@0.4.0?classifier=sources
+- pkg:maven/dev.fastball/fastball-ui-api@0.4.1
+- pkg:maven/dev.fastball/fastball-ui-api@0.4.1?classifier=sources

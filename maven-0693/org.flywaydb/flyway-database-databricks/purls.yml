@@ -1,0 +1,2 @@
+- pkg:maven/org.flywaydb/flyway-database-databricks@10.12.0
+- pkg:maven/org.flywaydb/flyway-database-databricks@10.12.0?classifier=sources

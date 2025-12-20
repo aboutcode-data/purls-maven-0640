@@ -64,6 +64,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.36.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.37.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.37.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.38.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.38.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.39.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.39.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.4.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-speech-v2@4.5.0

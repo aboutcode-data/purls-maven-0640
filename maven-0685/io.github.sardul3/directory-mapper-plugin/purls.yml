@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sardul3/directory-mapper-plugin@1.0.0?classifier=sources
+- pkg:maven/io.github.sardul3/directory-mapper-plugin@1.0.1?classifier=sources

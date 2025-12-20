@@ -17,3 +17,4 @@
 - pkg:maven/cn.entertech.android/biomoduleble@1.5.3?type=aar
 - pkg:maven/cn.entertech.android/biomoduleble@1.5.4?type=aar
 - pkg:maven/cn.entertech.android/biomoduleble@1.5.5?type=aar
+- pkg:maven/cn.entertech.android/biomoduleble@2.0.2-debug?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.datarouter/datarouter-gcp-gcs@0.0.125
+- pkg:maven/io.datarouter/datarouter-gcp-gcs@0.0.125?classifier=sources

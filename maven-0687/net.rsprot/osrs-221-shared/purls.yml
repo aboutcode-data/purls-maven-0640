@@ -1,0 +1,5 @@
+- pkg:maven/net.rsprot/osrs-221-shared@1.0.0-ALPHA-20240505?classifier=sources
+- pkg:maven/net.rsprot/osrs-221-shared@1.0.0-ALPHA-20240509?classifier=sources
+- pkg:maven/net.rsprot/osrs-221-shared@1.0.0-ALPHA-20240528?classifier=sources
+- pkg:maven/net.rsprot/osrs-221-shared@1.0.0-ALPHA-20240529?classifier=sources
+- pkg:maven/net.rsprot/osrs-221-shared@1.0.0-ALPHA-20240605?classifier=sources

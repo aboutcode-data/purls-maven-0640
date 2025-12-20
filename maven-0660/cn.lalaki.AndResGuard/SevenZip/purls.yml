@@ -1,0 +1,3 @@
+- pkg:maven/cn.lalaki.AndResGuard/SevenZip@0.0.1?classifier=sources
+- pkg:maven/cn.lalaki.AndResGuard/SevenZip@1.3.3?classifier=sources
+- pkg:maven/cn.lalaki.AndResGuard/SevenZip@1.3.4?classifier=sources

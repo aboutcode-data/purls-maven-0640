@@ -1,2 +1,6 @@
+- pkg:maven/cn.bee-cloud/beecloud-elasticsearch@6.1.14b
+- pkg:maven/cn.bee-cloud/beecloud-elasticsearch@6.1.14b?classifier=sources
+- pkg:maven/cn.bee-cloud/beecloud-elasticsearch@6.1.14c
+- pkg:maven/cn.bee-cloud/beecloud-elasticsearch@6.1.14c?classifier=sources
 - pkg:maven/cn.bee-cloud/beecloud-elasticsearch@6.1.7
 - pkg:maven/cn.bee-cloud/beecloud-elasticsearch@6.1.7?classifier=sources

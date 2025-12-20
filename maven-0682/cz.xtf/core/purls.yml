@@ -14,3 +14,5 @@
 - pkg:maven/cz.xtf/core@0.30?classifier=sources
 - pkg:maven/cz.xtf/core@0.31?classifier=sources
 - pkg:maven/cz.xtf/core@0.32?classifier=sources
+- pkg:maven/cz.xtf/core@0.33?classifier=sources
+- pkg:maven/cz.xtf/core@0.34?classifier=sources

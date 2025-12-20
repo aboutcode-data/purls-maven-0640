@@ -18,3 +18,5 @@
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-openapi@7.6.8?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-openapi@7.6.9
 - pkg:maven/com.c4-soft.springaddons/spring-addons-starter-openapi@7.6.9?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-openapi@7.7.0
+- pkg:maven/com.c4-soft.springaddons/spring-addons-starter-openapi@7.7.0?classifier=sources

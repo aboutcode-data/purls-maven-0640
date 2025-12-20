@@ -50,6 +50,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@3.8.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@3.8.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@3.8.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@3.8.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.0.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.1.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.1.1
@@ -59,6 +60,7 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.10.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.10.1
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.10.2
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.10.3
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.2.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.3.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@4.3.1
@@ -87,3 +89,5 @@
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@5.1.0
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@5.1.2
 - pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@5.2.0
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@5.2.1
+- pkg:maven/com.google.cloud/spring-cloud-gcp-starter-bus-pubsub@5.3.0

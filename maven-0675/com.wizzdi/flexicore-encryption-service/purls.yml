@@ -22,3 +22,5 @@
 - pkg:maven/com.wizzdi/flexicore-encryption-service@6.0.8?classifier=sources
 - pkg:maven/com.wizzdi/flexicore-encryption-service@6.0.9
 - pkg:maven/com.wizzdi/flexicore-encryption-service@6.0.9?classifier=sources
+- pkg:maven/com.wizzdi/flexicore-encryption-service@8.0.1
+- pkg:maven/com.wizzdi/flexicore-encryption-service@8.0.1?classifier=sources

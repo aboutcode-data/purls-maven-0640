@@ -84,4 +84,5 @@
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/identity-event-handler-notification@1.8.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/identity-event-handler-notification@1.8.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/identity-event-handler-notification@1.8.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.event.handler.notification/identity-event-handler-notification@1.8.18?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.event.handler.notification/identity-event-handler-notification@1.8.9?classifier=source-release&type=zip

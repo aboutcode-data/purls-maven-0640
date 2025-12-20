@@ -70,6 +70,8 @@
 - pkg:maven/org.apache.arrow/arrow-format@15.0.2?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-format@16.0.0
 - pkg:maven/org.apache.arrow/arrow-format@16.0.0?classifier=sources
+- pkg:maven/org.apache.arrow/arrow-format@16.1.0
+- pkg:maven/org.apache.arrow/arrow-format@16.1.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-format@2.0.0
 - pkg:maven/org.apache.arrow/arrow-format@2.0.0?classifier=sources
 - pkg:maven/org.apache.arrow/arrow-format@3.0.0

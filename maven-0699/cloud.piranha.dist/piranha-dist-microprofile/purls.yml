@@ -34,3 +34,5 @@
 - pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@24.3.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@24.4.0
 - pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@24.4.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@24.5.0
+- pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@24.5.0?classifier=sources
