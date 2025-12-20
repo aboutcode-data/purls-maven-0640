@@ -1,0 +1,2 @@
+- pkg:maven/com.zhibaocloud.carbon.intg.client.rest/carbon-rest-template-client-sdk@1.4.0
+- pkg:maven/com.zhibaocloud.carbon.intg.client.rest/carbon-rest-template-client-sdk@1.4.0?classifier=sources

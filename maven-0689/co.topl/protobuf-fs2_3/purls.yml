@@ -1,0 +1,2 @@
+- pkg:maven/co.topl/protobuf-fs2_3@2.0.0-beta3
+- pkg:maven/co.topl/protobuf-fs2_3@2.0.0-beta3?classifier=sources

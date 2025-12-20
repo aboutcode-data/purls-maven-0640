@@ -22,3 +22,5 @@
 - pkg:maven/org.treblereel.j2cl.processors/processors@0.6.4
 - pkg:maven/org.treblereel.j2cl.processors/processors@0.6.4?classifier=sources
 - pkg:maven/org.treblereel.j2cl.processors/processors@0.6?classifier=sources
+- pkg:maven/org.treblereel.j2cl.processors/processors@0.7
+- pkg:maven/org.treblereel.j2cl.processors/processors@0.7?classifier=sources

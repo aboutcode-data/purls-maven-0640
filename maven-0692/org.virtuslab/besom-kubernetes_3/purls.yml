@@ -8,6 +8,8 @@
 - pkg:maven/org.virtuslab/besom-kubernetes_3@4.10.0-core.0.3?classifier=sources
 - pkg:maven/org.virtuslab/besom-kubernetes_3@4.11.0-core.0.3
 - pkg:maven/org.virtuslab/besom-kubernetes_3@4.11.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-kubernetes_3@4.13.1-core.0.3
+- pkg:maven/org.virtuslab/besom-kubernetes_3@4.13.1-core.0.3?classifier=sources
 - pkg:maven/org.virtuslab/besom-kubernetes_3@4.3.0-core.0.1.0
 - pkg:maven/org.virtuslab/besom-kubernetes_3@4.3.0-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-kubernetes_3@4.4.0-core.0.2

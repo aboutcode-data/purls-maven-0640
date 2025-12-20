@@ -7,3 +7,4 @@
 - pkg:maven/com.okta.android/okta-idx-kotlin@2.3.0?classifier=sources
 - pkg:maven/com.okta.android/okta-idx-kotlin@2.4.0?classifier=sources
 - pkg:maven/com.okta.android/okta-idx-kotlin@2.4.1?classifier=sources
+- pkg:maven/com.okta.android/okta-idx-kotlin@3.0.0?classifier=sources

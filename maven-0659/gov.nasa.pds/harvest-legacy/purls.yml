@@ -10,3 +10,5 @@
 - pkg:maven/gov.nasa.pds/harvest-legacy@3.0.6?classifier=sources
 - pkg:maven/gov.nasa.pds/harvest-legacy@3.0.7
 - pkg:maven/gov.nasa.pds/harvest-legacy@3.0.7?classifier=sources
+- pkg:maven/gov.nasa.pds/harvest-legacy@3.1.0
+- pkg:maven/gov.nasa.pds/harvest-legacy@3.1.0?classifier=sources

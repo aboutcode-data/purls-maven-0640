@@ -190,3 +190,5 @@
 - pkg:maven/uk.co.jemos.podam/podam@8.0.0.RELEASE?classifier=sources
 - pkg:maven/uk.co.jemos.podam/podam@8.0.1.RELEASE
 - pkg:maven/uk.co.jemos.podam/podam@8.0.1.RELEASE?classifier=sources
+- pkg:maven/uk.co.jemos.podam/podam@8.0.2.RELEASE
+- pkg:maven/uk.co.jemos.podam/podam@8.0.2.RELEASE?classifier=sources

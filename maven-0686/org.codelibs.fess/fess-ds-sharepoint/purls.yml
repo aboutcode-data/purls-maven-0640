@@ -52,6 +52,10 @@
 - pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.12.1?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.13.0
 - pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.13.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.14.0
+- pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.14.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.15.0
+- pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.15.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.2.0
 - pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.2.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.3.0

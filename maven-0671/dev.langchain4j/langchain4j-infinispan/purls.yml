@@ -12,3 +12,5 @@
 - pkg:maven/dev.langchain4j/langchain4j-infinispan@0.30.0?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-infinispan@0.31.0
 - pkg:maven/dev.langchain4j/langchain4j-infinispan@0.31.0?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-infinispan@0.32.0
+- pkg:maven/dev.langchain4j/langchain4j-infinispan@0.32.0?classifier=sources

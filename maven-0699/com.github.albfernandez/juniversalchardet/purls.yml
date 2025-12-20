@@ -6,6 +6,8 @@
 - pkg:maven/com.github.albfernandez/juniversalchardet@2.0.2?classifier=sources
 - pkg:maven/com.github.albfernandez/juniversalchardet@2.0.3
 - pkg:maven/com.github.albfernandez/juniversalchardet@2.0.3?classifier=sources
+- pkg:maven/com.github.albfernandez/juniversalchardet@2.0.4
+- pkg:maven/com.github.albfernandez/juniversalchardet@2.0.4?classifier=sources
 - pkg:maven/com.github.albfernandez/juniversalchardet@2.1.0
 - pkg:maven/com.github.albfernandez/juniversalchardet@2.1.0?classifier=sources
 - pkg:maven/com.github.albfernandez/juniversalchardet@2.2.0
@@ -18,3 +20,5 @@
 - pkg:maven/com.github.albfernandez/juniversalchardet@2.3.2?classifier=sources
 - pkg:maven/com.github.albfernandez/juniversalchardet@2.4.0
 - pkg:maven/com.github.albfernandez/juniversalchardet@2.4.0?classifier=sources
+- pkg:maven/com.github.albfernandez/juniversalchardet@2.5.0
+- pkg:maven/com.github.albfernandez/juniversalchardet@2.5.0?classifier=sources

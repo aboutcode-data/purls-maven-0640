@@ -52,6 +52,8 @@
 - pkg:maven/com.increase.api/increase-java-client-okhttp@0.52.0?classifier=sources
 - pkg:maven/com.increase.api/increase-java-client-okhttp@0.53.0?classifier=sources
 - pkg:maven/com.increase.api/increase-java-client-okhttp@0.54.0?classifier=sources
+- pkg:maven/com.increase.api/increase-java-client-okhttp@0.55.0?classifier=sources
+- pkg:maven/com.increase.api/increase-java-client-okhttp@0.56.0?classifier=sources
 - pkg:maven/com.increase.api/increase-java-client-okhttp@0.6.0?classifier=sources
 - pkg:maven/com.increase.api/increase-java-client-okhttp@0.7.0?classifier=sources
 - pkg:maven/com.increase.api/increase-java-client-okhttp@0.7.1?classifier=sources

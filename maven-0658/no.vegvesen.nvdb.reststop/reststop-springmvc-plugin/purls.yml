@@ -1,2 +1,7 @@
 - pkg:maven/no.vegvesen.nvdb.reststop/reststop-springmvc-plugin@4.0.0-preview
 - pkg:maven/no.vegvesen.nvdb.reststop/reststop-springmvc-plugin@4.0.0-preview-1
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-springmvc-plugin@4.0.0-preview-2
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-springmvc-plugin@4.0.0-preview-3
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-springmvc-plugin@4.0.0-preview-4
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-springmvc-plugin@4.0.0-preview-5
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-springmvc-plugin@4.0.0-preview-6

@@ -3801,6 +3801,8 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.workflow.mgt.ui@5.25.698?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.workflow.mgt.ui@5.25.6?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.workflow.mgt.ui@5.25.7
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.workflow.mgt.ui@5.25.706
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.workflow.mgt.ui@5.25.706?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.workflow.mgt.ui@5.25.77
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.workflow.mgt.ui@5.25.77?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.workflow.mgt.ui@5.25.78

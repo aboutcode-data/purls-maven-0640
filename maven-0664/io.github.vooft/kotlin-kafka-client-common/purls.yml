@@ -1,0 +1,2 @@
+- pkg:maven/io.github.vooft/kotlin-kafka-client-common@0.4.3?classifier=sources
+- pkg:maven/io.github.vooft/kotlin-kafka-client-common@0.4.4?classifier=sources

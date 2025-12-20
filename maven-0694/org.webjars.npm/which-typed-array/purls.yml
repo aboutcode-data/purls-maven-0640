@@ -6,6 +6,7 @@
 - pkg:maven/org.webjars.npm/which-typed-array@1.1.13?classifier=sources
 - pkg:maven/org.webjars.npm/which-typed-array@1.1.14
 - pkg:maven/org.webjars.npm/which-typed-array@1.1.14?classifier=sources
+- pkg:maven/org.webjars.npm/which-typed-array@1.1.15
 - pkg:maven/org.webjars.npm/which-typed-array@1.1.2
 - pkg:maven/org.webjars.npm/which-typed-array@1.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/which-typed-array@1.1.4

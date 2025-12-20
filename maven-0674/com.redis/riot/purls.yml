@@ -4,3 +4,6 @@
 - pkg:maven/com.redis/riot@3.0.4?classifier=sources
 - pkg:maven/com.redis/riot@3.2.2?classifier=sources
 - pkg:maven/com.redis/riot@3.2.3?classifier=sources
+- pkg:maven/com.redis/riot@4.0.0?classifier=sources
+- pkg:maven/com.redis/riot@4.0.1?classifier=sources
+- pkg:maven/com.redis/riot@4.0.2?classifier=sources

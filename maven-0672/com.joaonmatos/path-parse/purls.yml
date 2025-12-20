@@ -1,0 +1,2 @@
+- pkg:maven/com.joaonmatos/path-parse@0.1.0
+- pkg:maven/com.joaonmatos/path-parse@0.1.0?classifier=sources

@@ -68,6 +68,7 @@
 - pkg:maven/org.webjars.npm/core-js-pure@3.33.2?classifier=sources
 - pkg:maven/org.webjars.npm/core-js-pure@3.33.3
 - pkg:maven/org.webjars.npm/core-js-pure@3.33.3?classifier=sources
+- pkg:maven/org.webjars.npm/core-js-pure@3.37.1
 - pkg:maven/org.webjars.npm/core-js-pure@3.6.5
 - pkg:maven/org.webjars.npm/core-js-pure@3.6.5?classifier=sources
 - pkg:maven/org.webjars.npm/core-js-pure@3.9.1

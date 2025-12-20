@@ -23,3 +23,5 @@
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-xxljob@2.3.3?classifier=sources
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-xxljob@2.3.4
 - pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-xxljob@2.3.4?classifier=sources
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-xxljob@2.3.5
+- pkg:maven/com.aliyun.schedulerx/schedulerx2-plugin-xxljob@2.3.5?classifier=sources

@@ -4,7 +4,11 @@
 - pkg:maven/it.twenfir/sqlparser@0.0.2?classifier=sources
 - pkg:maven/it.twenfir/sqlparser@0.0.3
 - pkg:maven/it.twenfir/sqlparser@0.0.3?classifier=sources
+- pkg:maven/it.twenfir/sqlparser@0.0.4
+- pkg:maven/it.twenfir/sqlparser@0.0.4?classifier=sources
 - pkg:maven/it.twenfir/sqlparser@0.1.0
 - pkg:maven/it.twenfir/sqlparser@0.1.0?classifier=sources
 - pkg:maven/it.twenfir/sqlparser@0.1.1
 - pkg:maven/it.twenfir/sqlparser@0.1.1?classifier=sources
+- pkg:maven/it.twenfir/sqlparser@0.1.2
+- pkg:maven/it.twenfir/sqlparser@0.1.2?classifier=sources

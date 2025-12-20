@@ -340,6 +340,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dlp-v2@3.47.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dlp-v2@3.48.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dlp-v2@3.48.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dlp-v2@3.49.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-dlp-v2@3.49.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dlp-v2@3.5.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dlp-v2@3.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-dlp-v2@3.6.0

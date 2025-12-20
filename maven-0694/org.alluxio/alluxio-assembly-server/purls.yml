@@ -53,6 +53,8 @@
 - pkg:maven/org.alluxio/alluxio-assembly-server@2.9.2
 - pkg:maven/org.alluxio/alluxio-assembly-server@2.9.3
 - pkg:maven/org.alluxio/alluxio-assembly-server@2.9.4
+- pkg:maven/org.alluxio/alluxio-assembly-server@2.9.5
+- pkg:maven/org.alluxio/alluxio-assembly-server@2.9.6
 - pkg:maven/org.alluxio/alluxio-assembly-server@291-alpha
 - pkg:maven/org.alluxio/alluxio-assembly-server@291-beta
 - pkg:maven/org.alluxio/alluxio-assembly-server@291-gamma

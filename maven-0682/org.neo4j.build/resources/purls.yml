@@ -4,3 +4,5 @@
 - pkg:maven/org.neo4j.build/resources@2024-03.2?classifier=sources
 - pkg:maven/org.neo4j.build/resources@2024-05.1
 - pkg:maven/org.neo4j.build/resources@2024-05.1?classifier=sources
+- pkg:maven/org.neo4j.build/resources@2024-07.1
+- pkg:maven/org.neo4j.build/resources@2024-07.1?classifier=sources

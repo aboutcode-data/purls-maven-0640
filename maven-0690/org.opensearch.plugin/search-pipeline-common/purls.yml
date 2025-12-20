@@ -4,6 +4,7 @@
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.12.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.13.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.14.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/search-pipeline-common@2.15.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.7.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.8.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.9.0?classifier=sources

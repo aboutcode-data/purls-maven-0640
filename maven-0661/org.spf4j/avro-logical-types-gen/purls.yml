@@ -1,2 +1,4 @@
+- pkg:maven/org.spf4j/avro-logical-types-gen@1.3
+- pkg:maven/org.spf4j/avro-logical-types-gen@1.3?classifier=sources
 - pkg:maven/org.spf4j/avro-logical-types-gen@1.3p
 - pkg:maven/org.spf4j/avro-logical-types-gen@1.3p?classifier=sources

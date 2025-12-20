@@ -16,3 +16,5 @@
 - pkg:maven/io.github.ashwithpoojary98/appium_flutterfinder_java@1.0.6?classifier=sources
 - pkg:maven/io.github.ashwithpoojary98/appium_flutterfinder_java@1.0.7
 - pkg:maven/io.github.ashwithpoojary98/appium_flutterfinder_java@1.0.7?classifier=sources
+- pkg:maven/io.github.ashwithpoojary98/appium_flutterfinder_java@1.0.9
+- pkg:maven/io.github.ashwithpoojary98/appium_flutterfinder_java@1.0.9?classifier=sources

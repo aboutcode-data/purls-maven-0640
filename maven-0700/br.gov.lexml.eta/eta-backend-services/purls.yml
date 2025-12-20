@@ -78,3 +78,7 @@
 - pkg:maven/br.gov.lexml.eta/eta-backend-services@0.2.8?classifier=sources
 - pkg:maven/br.gov.lexml.eta/eta-backend-services@0.2.9
 - pkg:maven/br.gov.lexml.eta/eta-backend-services@0.2.9?classifier=sources
+- pkg:maven/br.gov.lexml.eta/eta-backend-services@1.0.0
+- pkg:maven/br.gov.lexml.eta/eta-backend-services@1.0.0?classifier=sources
+- pkg:maven/br.gov.lexml.eta/eta-backend-services@1.1.0
+- pkg:maven/br.gov.lexml.eta/eta-backend-services@1.1.0?classifier=sources

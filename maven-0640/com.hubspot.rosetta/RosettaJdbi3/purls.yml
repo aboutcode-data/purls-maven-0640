@@ -4,3 +4,7 @@
 - pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.11.11?classifier=sources
 - pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.11.9
 - pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.11.9?classifier=sources
+- pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.12.0
+- pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.12.0?classifier=sources
+- pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.12.1
+- pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.12.1?classifier=sources

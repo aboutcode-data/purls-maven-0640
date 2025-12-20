@@ -1,0 +1,2 @@
+- pkg:maven/dev.zarr/zarr-java@0.0.2
+- pkg:maven/dev.zarr/zarr-java@0.0.2?classifier=sources

@@ -30,6 +30,10 @@
 - pkg:maven/com.affise/module-phone@1.6.30?classifier=sources
 - pkg:maven/com.affise/module-phone@1.6.31?classifier=sources
 - pkg:maven/com.affise/module-phone@1.6.32?classifier=sources
+- pkg:maven/com.affise/module-phone@1.6.33?classifier=sources
+- pkg:maven/com.affise/module-phone@1.6.34?classifier=sources
+- pkg:maven/com.affise/module-phone@1.6.35?classifier=sources
+- pkg:maven/com.affise/module-phone@1.6.36?classifier=sources
 - pkg:maven/com.affise/module-phone@1.6.3?classifier=sources
 - pkg:maven/com.affise/module-phone@1.6.4?classifier=sources
 - pkg:maven/com.affise/module-phone@1.6.5?classifier=sources

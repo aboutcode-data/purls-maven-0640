@@ -260,6 +260,8 @@
 - pkg:maven/com.gitee.l0km/sql2java-maven-plugin@3.31.1?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-maven-plugin@3.31.2
 - pkg:maven/com.gitee.l0km/sql2java-maven-plugin@3.31.2?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-maven-plugin@3.32.0
+- pkg:maven/com.gitee.l0km/sql2java-maven-plugin@3.32.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-maven-plugin@3.4.0
 - pkg:maven/com.gitee.l0km/sql2java-maven-plugin@3.4.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-maven-plugin@3.4.1

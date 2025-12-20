@@ -9,3 +9,5 @@
 - pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.scl@1.2.7?classifier=sources
 - pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.scl@1.2.8
 - pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.scl@1.2.8?classifier=sources
+- pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.scl@1.2.9
+- pkg:maven/io.github.riseclipse/fr.centralesupelec.edf.riseclipse.iec61850.scl@1.2.9?classifier=sources

@@ -90,4 +90,5 @@
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.49?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.55?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.56.RC3?classifier=sources
+- pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.61?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.7?classifier=sources

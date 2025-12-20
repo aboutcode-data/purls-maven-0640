@@ -1,0 +1,4 @@
+- pkg:maven/net.nmoncho/helenus-flink_2.13@1.6.0
+- pkg:maven/net.nmoncho/helenus-flink_2.13@1.6.0?classifier=sources
+- pkg:maven/net.nmoncho/helenus-flink_2.13@1.6.1
+- pkg:maven/net.nmoncho/helenus-flink_2.13@1.6.1?classifier=sources

@@ -31,3 +31,5 @@
 - pkg:maven/dev.b3nedikt.restring/restring@5.2.0?classifier=sources
 - pkg:maven/dev.b3nedikt.restring/restring@5.2.1?classifier=sources
 - pkg:maven/dev.b3nedikt.restring/restring@5.2.2?classifier=sources
+- pkg:maven/dev.b3nedikt.restring/restring@5.2.3?classifier=sources
+- pkg:maven/dev.b3nedikt.restring/restring@5.2.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-csrf@3.6.5
+- pkg:maven/com.eurodyn.qlack.util/qlack-util-csrf@3.6.5?classifier=sources

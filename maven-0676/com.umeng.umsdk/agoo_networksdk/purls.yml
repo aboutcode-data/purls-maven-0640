@@ -2,4 +2,5 @@
 - pkg:maven/com.umeng.umsdk/agoo_networksdk@3.5.8.4?classifier=sources
 - pkg:maven/com.umeng.umsdk/agoo_networksdk@3.5.8.7?classifier=sources
 - pkg:maven/com.umeng.umsdk/agoo_networksdk@3.5.8.8?classifier=sources
+- pkg:maven/com.umeng.umsdk/agoo_networksdk@3.5.8.9?classifier=sources
 - pkg:maven/com.umeng.umsdk/agoo_networksdk@3.5.8?classifier=sources

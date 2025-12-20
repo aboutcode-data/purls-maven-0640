@@ -16,3 +16,4 @@
 - pkg:maven/io.github.bes2008.solution.agileway/agileway-templates-freemarker@4.4.4
 - pkg:maven/io.github.bes2008.solution.agileway/agileway-templates-freemarker@4.4.5
 - pkg:maven/io.github.bes2008.solution.agileway/agileway-templates-freemarker@4.4.6
+- pkg:maven/io.github.bes2008.solution.agileway/agileway-templates-freemarker@5.0.0

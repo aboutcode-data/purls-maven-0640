@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.rocketmq/test@5.0.7
+- pkg:maven/org.apache.rocketmq/test@5.0.7?classifier=sources

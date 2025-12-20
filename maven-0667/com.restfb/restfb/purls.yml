@@ -270,6 +270,16 @@
 - pkg:maven/com.restfb/restfb@2024.2.0?classifier=sources
 - pkg:maven/com.restfb/restfb@2024.3.0
 - pkg:maven/com.restfb/restfb@2024.3.0?classifier=sources
+- pkg:maven/com.restfb/restfb@2024.4.0
+- pkg:maven/com.restfb/restfb@2024.4.0?classifier=sources
+- pkg:maven/com.restfb/restfb@2024.5.0
+- pkg:maven/com.restfb/restfb@2024.5.0?classifier=sources
+- pkg:maven/com.restfb/restfb@2024.6.0
+- pkg:maven/com.restfb/restfb@2024.6.0?classifier=sources
+- pkg:maven/com.restfb/restfb@2024.7.0
+- pkg:maven/com.restfb/restfb@2024.7.0?classifier=sources
+- pkg:maven/com.restfb/restfb@2024.8.0
+- pkg:maven/com.restfb/restfb@2024.8.0?classifier=sources
 - pkg:maven/com.restfb/restfb@3.0.0
 - pkg:maven/com.restfb/restfb@3.0.0-RC.2
 - pkg:maven/com.restfb/restfb@3.0.0-RC.2?classifier=sources

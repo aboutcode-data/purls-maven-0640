@@ -1,0 +1,4 @@
+- pkg:maven/dev.crashteam/openapi-gpt-analytics@1.2-176c09a-client
+- pkg:maven/dev.crashteam/openapi-gpt-analytics@1.2-176c09a-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-gpt-analytics@1.2-176c09a-server
+- pkg:maven/dev.crashteam/openapi-gpt-analytics@1.2-176c09a-server?classifier=sources

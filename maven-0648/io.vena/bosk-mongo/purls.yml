@@ -5,6 +5,7 @@
 - pkg:maven/io.vena/bosk-mongo@0.0.104?classifier=sources
 - pkg:maven/io.vena/bosk-mongo@0.0.105?classifier=sources
 - pkg:maven/io.vena/bosk-mongo@0.0.106?classifier=sources
+- pkg:maven/io.vena/bosk-mongo@0.0.107?classifier=sources
 - pkg:maven/io.vena/bosk-mongo@0.0.46?classifier=sources
 - pkg:maven/io.vena/bosk-mongo@0.0.47?classifier=sources
 - pkg:maven/io.vena/bosk-mongo@0.0.48?classifier=sources

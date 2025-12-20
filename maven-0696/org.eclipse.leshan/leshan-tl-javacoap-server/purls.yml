@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.leshan/leshan-tl-javacoap-server@2.0.0-M14
 - pkg:maven/org.eclipse.leshan/leshan-tl-javacoap-server@2.0.0-M14?classifier=sources
+- pkg:maven/org.eclipse.leshan/leshan-tl-javacoap-server@2.0.0-M15
+- pkg:maven/org.eclipse.leshan/leshan-tl-javacoap-server@2.0.0-M15?classifier=sources

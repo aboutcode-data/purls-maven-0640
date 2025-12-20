@@ -1,0 +1,2 @@
+- pkg:maven/com.apollographql.mockserver/apollo-mockserver-watchosarm64@0.0.1?classifier=sources
+- pkg:maven/com.apollographql.mockserver/apollo-mockserver-watchosarm64@0.0.3?classifier=sources

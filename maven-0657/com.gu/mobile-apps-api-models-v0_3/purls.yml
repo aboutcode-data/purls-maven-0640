@@ -55,6 +55,16 @@
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.11?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.12
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.12?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.13
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.13-PREVIEW.fairgroundadd-video-to-article.2024-06-03T1011.e7e99736
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.13-PREVIEW.fairgroundadd-video-to-article.2024-06-03T1011.e7e99736?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.13-PREVIEW.fairgroundadd-video-to-article.2024-06-04T1038.48002280
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.13-PREVIEW.fairgroundadd-video-to-article.2024-06-04T1038.48002280?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.13?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.14-PREVIEW.fairgroundadd-mega-boost-to-card.2024-06-14T1320.7f0e652c
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.14-PREVIEW.fairgroundadd-mega-boost-to-card.2024-06-14T1320.7f0e652c?classifier=sources
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.16
+- pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.16?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.1?classifier=sources
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.2
 - pkg:maven/com.gu/mobile-apps-api-models-v0_3@1.0.2?classifier=sources

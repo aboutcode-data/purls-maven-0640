@@ -1,0 +1,2 @@
+- pkg:maven/at.deckweiss/logging@2.0.0?classifier=sources
+- pkg:maven/at.deckweiss/logging@3.0.0?classifier=sources

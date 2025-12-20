@@ -19,3 +19,8 @@
 - pkg:maven/io.github.pquiring/javaforce@59.0?classifier=sources
 - pkg:maven/io.github.pquiring/javaforce@60.0?classifier=sources
 - pkg:maven/io.github.pquiring/javaforce@62.0?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@63.0?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@64.0?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@64.1?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@65.0?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@66.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/io.skodjob/test-frame-kubernetes@0.1.0-beta2?classifier=sources
 - pkg:maven/io.skodjob/test-frame-kubernetes@0.1.0-beta3?classifier=sources
 - pkg:maven/io.skodjob/test-frame-kubernetes@0.1.0?classifier=sources
+- pkg:maven/io.skodjob/test-frame-kubernetes@0.1.1?classifier=sources

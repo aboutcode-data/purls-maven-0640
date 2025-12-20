@@ -68,3 +68,7 @@
 - pkg:maven/org.infinispan.protostream/protostream-types@5.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-types@5.0.5.Final
 - pkg:maven/org.infinispan.protostream/protostream-types@5.0.5.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-types@5.0.6.Final
+- pkg:maven/org.infinispan.protostream/protostream-types@5.0.6.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-types@5.0.7.Final
+- pkg:maven/org.infinispan.protostream/protostream-types@5.0.7.Final?classifier=sources

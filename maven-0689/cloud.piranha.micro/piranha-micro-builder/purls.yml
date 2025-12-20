@@ -54,3 +54,5 @@
 - pkg:maven/cloud.piranha.micro/piranha-micro-builder@24.4.0?classifier=sources
 - pkg:maven/cloud.piranha.micro/piranha-micro-builder@24.5.0
 - pkg:maven/cloud.piranha.micro/piranha-micro-builder@24.5.0?classifier=sources
+- pkg:maven/cloud.piranha.micro/piranha-micro-builder@24.6.0
+- pkg:maven/cloud.piranha.micro/piranha-micro-builder@24.6.0?classifier=sources

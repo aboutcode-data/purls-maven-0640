@@ -60,6 +60,10 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.19.0?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.20.0
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.20.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.20.2
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.20.2?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.21.0
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.21.0?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.6.58
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.6.59
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-error-handling@1.6.60

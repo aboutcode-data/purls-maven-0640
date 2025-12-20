@@ -18,3 +18,7 @@
 - pkg:maven/com.aliyun/ros-cdk-dcdn@1.0.23?classifier=sources
 - pkg:maven/com.aliyun/ros-cdk-dcdn@1.0.24
 - pkg:maven/com.aliyun/ros-cdk-dcdn@1.0.24?classifier=sources
+- pkg:maven/com.aliyun/ros-cdk-dcdn@1.0.25
+- pkg:maven/com.aliyun/ros-cdk-dcdn@1.0.25?classifier=sources
+- pkg:maven/com.aliyun/ros-cdk-dcdn@1.0.26
+- pkg:maven/com.aliyun/ros-cdk-dcdn@1.0.26?classifier=sources

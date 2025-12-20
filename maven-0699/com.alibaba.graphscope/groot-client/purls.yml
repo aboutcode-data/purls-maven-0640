@@ -12,3 +12,5 @@
 - pkg:maven/com.alibaba.graphscope/groot-client@0.24.3?classifier=sources
 - pkg:maven/com.alibaba.graphscope/groot-client@0.25.0
 - pkg:maven/com.alibaba.graphscope/groot-client@0.25.0?classifier=sources
+- pkg:maven/com.alibaba.graphscope/groot-client@0.28.0
+- pkg:maven/com.alibaba.graphscope/groot-client@0.28.0?classifier=sources

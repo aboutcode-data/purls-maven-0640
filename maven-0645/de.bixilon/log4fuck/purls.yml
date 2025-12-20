@@ -1,1 +1,2 @@
 - pkg:maven/de.bixilon/log4fuck@1.0?classifier=sources
+- pkg:maven/de.bixilon/log4fuck@1.1?classifier=sources

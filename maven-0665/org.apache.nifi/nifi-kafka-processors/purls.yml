@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.nifi/nifi-kafka-processors@0.7.4?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kafka-processors@1.0.0-BETA
 - pkg:maven/org.apache.nifi/nifi-kafka-processors@1.0.0-BETA?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kafka-processors@2.0.0-M4
+- pkg:maven/org.apache.nifi/nifi-kafka-processors@2.0.0-M4?classifier=sources

@@ -16,6 +16,8 @@
 - pkg:maven/net.sf.cuf/cuf-swing@2.0.7?classifier=sources
 - pkg:maven/net.sf.cuf/cuf-swing@2.0.8
 - pkg:maven/net.sf.cuf/cuf-swing@2.0.8?classifier=sources
+- pkg:maven/net.sf.cuf/cuf-swing@2.5.10
+- pkg:maven/net.sf.cuf/cuf-swing@2.5.10?classifier=sources
 - pkg:maven/net.sf.cuf/cuf-swing@2.5.2
 - pkg:maven/net.sf.cuf/cuf-swing@2.5.2?classifier=sources
 - pkg:maven/net.sf.cuf/cuf-swing@2.5.3

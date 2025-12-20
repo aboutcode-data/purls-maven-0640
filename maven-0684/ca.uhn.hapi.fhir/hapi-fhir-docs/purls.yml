@@ -146,6 +146,8 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@6.8.5?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@6.8.7
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@6.8.7?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@6.8.8
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@6.8.8?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@7.0.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@7.0.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@7.0.1
@@ -154,3 +156,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@7.0.2?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@7.2.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@7.2.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@7.2.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-docs@7.2.1?classifier=sources

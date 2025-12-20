@@ -1,0 +1,2 @@
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql-compute@8.14.2
+- pkg:maven/org.elasticsearch.plugin/x-pack-esql-compute@8.14.2?classifier=sources

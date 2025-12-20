@@ -1,0 +1,2 @@
+- pkg:maven/dev.langchain4j/langchain4j-qianfan-spring-boot-starter@0.32.0
+- pkg:maven/dev.langchain4j/langchain4j-qianfan-spring-boot-starter@0.32.0?classifier=sources

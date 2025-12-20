@@ -1,0 +1,2 @@
+- pkg:maven/org.openmole/byte-pack-monocle_3@0.7
+- pkg:maven/org.openmole/byte-pack-monocle_3@0.7?classifier=sources

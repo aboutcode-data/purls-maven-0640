@@ -1,0 +1,2 @@
+- pkg:maven/org.chobit.spring/zhy-spring-common@0.0.2
+- pkg:maven/org.chobit.spring/zhy-spring-common@0.0.2?classifier=sources

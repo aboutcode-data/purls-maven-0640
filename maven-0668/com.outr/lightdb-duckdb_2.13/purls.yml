@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/lightdb-duckdb_2.13@0.11.0
+- pkg:maven/com.outr/lightdb-duckdb_2.13@0.11.0?classifier=sources

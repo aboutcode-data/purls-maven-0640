@@ -52,6 +52,7 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@1.33.1?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@1.33.2?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@1.33.3?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@1.33.4?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@1.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@1.4.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@1.5.0-alpha?classifier=sources
@@ -73,3 +74,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@2.2.0?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@2.3.0?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@2.4.0?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-instrumentation-api@2.5.0?classifier=sources

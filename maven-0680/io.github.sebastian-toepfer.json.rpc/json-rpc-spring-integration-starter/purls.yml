@@ -7,3 +7,5 @@
 - pkg:maven/io.github.sebastian-toepfer.json.rpc/json-rpc-spring-integration-starter@0.7.0
 - pkg:maven/io.github.sebastian-toepfer.json.rpc/json-rpc-spring-integration-starter@0.8.0
 - pkg:maven/io.github.sebastian-toepfer.json.rpc/json-rpc-spring-integration-starter@0.8.1
+- pkg:maven/io.github.sebastian-toepfer.json.rpc/json-rpc-spring-integration-starter@0.8.2
+- pkg:maven/io.github.sebastian-toepfer.json.rpc/json-rpc-spring-integration-starter@0.8.3

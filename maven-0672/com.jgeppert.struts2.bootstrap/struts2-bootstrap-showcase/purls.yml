@@ -48,6 +48,8 @@
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@4.0.1?type=war
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@4.0.2?classifier=sources
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@4.0.2?type=war
+- pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@4.0.3?classifier=sources
+- pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@4.0.3?type=war
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.0?classifier=sources
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.0?type=war
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.1?classifier=sources
@@ -56,3 +58,5 @@
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.2?type=war
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.3?classifier=sources
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.3?type=war
+- pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.4?classifier=sources
+- pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.4?type=war

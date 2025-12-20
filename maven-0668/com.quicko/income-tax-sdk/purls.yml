@@ -1,0 +1,2 @@
+- pkg:maven/com.quicko/income-tax-sdk@1.0.0-RC?classifier=sources
+- pkg:maven/com.quicko/income-tax-sdk@1.0.1-RC?classifier=sources
