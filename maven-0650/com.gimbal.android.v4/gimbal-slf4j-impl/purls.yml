@@ -3,6 +3,7 @@
 - pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.1.0?classifier=sources
 - pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.1.0?type=aar
 - pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.10.0?classifier=sources
+- pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.10.1?classifier=sources
 - pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.2.0?classifier=sources
 - pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.2.0?type=aar
 - pkg:maven/com.gimbal.android.v4/gimbal-slf4j-impl@4.2.1?classifier=sources

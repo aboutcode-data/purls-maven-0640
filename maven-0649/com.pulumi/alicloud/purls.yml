@@ -200,3 +200,5 @@
 - pkg:maven/com.pulumi/alicloud@3.57.0-alpha.1718428539?classifier=sources
 - pkg:maven/com.pulumi/alicloud@3.57.0-alpha.1718431033?classifier=sources
 - pkg:maven/com.pulumi/alicloud@3.57.0?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.60.0-alpha.1722057548?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.60.0-alpha.1722921989?classifier=sources

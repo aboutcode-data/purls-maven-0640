@@ -125,3 +125,5 @@
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@4.1.0?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@4.2.0?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@4.3.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@4.5.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/jsx-asset-pipeline@4.5.1?classifier=sources

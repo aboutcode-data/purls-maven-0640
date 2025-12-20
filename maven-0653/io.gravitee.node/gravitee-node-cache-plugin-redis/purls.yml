@@ -1,0 +1,1 @@
+- pkg:maven/io.gravitee.node/gravitee-node-cache-plugin-redis@6.2.0?classifier=sources

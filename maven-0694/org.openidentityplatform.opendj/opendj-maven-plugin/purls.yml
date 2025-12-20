@@ -44,3 +44,5 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-maven-plugin@4.6.3?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-maven-plugin@4.6.4
 - pkg:maven/org.openidentityplatform.opendj/opendj-maven-plugin@4.6.4?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-maven-plugin@4.6.5
+- pkg:maven/org.openidentityplatform.opendj/opendj-maven-plugin@4.6.5?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.uroria/core@1552e549b1
+- pkg:maven/com.uroria/core@1552e549b1?classifier=sources
+- pkg:maven/com.uroria/core@1f7e57bdd1
+- pkg:maven/com.uroria/core@1f7e57bdd1?classifier=sources
+- pkg:maven/com.uroria/core@3d627351bf
+- pkg:maven/com.uroria/core@3d627351bf?classifier=sources
+- pkg:maven/com.uroria/core@d5fc6f84eb
+- pkg:maven/com.uroria/core@d5fc6f84eb?classifier=sources

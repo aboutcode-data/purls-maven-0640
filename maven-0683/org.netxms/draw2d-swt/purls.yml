@@ -1,0 +1,2 @@
+- pkg:maven/org.netxms/draw2d-swt@3.10.103
+- pkg:maven/org.netxms/draw2d-swt@3.10.103?classifier=sources

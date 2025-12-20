@@ -642,5 +642,7 @@
 - pkg:maven/com.tigerbeetle/tigerbeetle-java@0.15.2?classifier=sources
 - pkg:maven/com.tigerbeetle/tigerbeetle-java@0.15.3
 - pkg:maven/com.tigerbeetle/tigerbeetle-java@0.15.3?classifier=sources
+- pkg:maven/com.tigerbeetle/tigerbeetle-java@0.15.4
+- pkg:maven/com.tigerbeetle/tigerbeetle-java@0.15.4?classifier=sources
 - pkg:maven/com.tigerbeetle/tigerbeetle-java@0.9.145
 - pkg:maven/com.tigerbeetle/tigerbeetle-java@0.9.145?classifier=sources

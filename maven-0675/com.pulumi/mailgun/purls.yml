@@ -135,3 +135,4 @@
 - pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1718257792?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1718343840?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1718430309?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1722059617?classifier=sources

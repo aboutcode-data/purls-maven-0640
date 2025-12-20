@@ -22,3 +22,7 @@
 - pkg:maven/com.ustermetrics/ecos4j-native@1.0.1-2.0.10?classifier=sources
 - pkg:maven/com.ustermetrics/ecos4j-native@1.0.2-2.0.10
 - pkg:maven/com.ustermetrics/ecos4j-native@1.0.2-2.0.10?classifier=sources
+- pkg:maven/com.ustermetrics/ecos4j-native@1.0.3-2.0.10
+- pkg:maven/com.ustermetrics/ecos4j-native@1.0.3-2.0.10?classifier=sources
+- pkg:maven/com.ustermetrics/ecos4j-native@1.0.4-2.0.10
+- pkg:maven/com.ustermetrics/ecos4j-native@1.0.4-2.0.10?classifier=sources

@@ -37,3 +37,4 @@
 - pkg:maven/io.nearpay/nearpay-sdk-store@2.1.85?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk-store@2.1.86?classifier=sources
 - pkg:maven/io.nearpay/nearpay-sdk-store@2.1.87?classifier=sources
+- pkg:maven/io.nearpay/nearpay-sdk-store@2.1.88?classifier=sources

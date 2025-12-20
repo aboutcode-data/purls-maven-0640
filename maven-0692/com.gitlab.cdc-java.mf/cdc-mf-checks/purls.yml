@@ -48,6 +48,10 @@
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.37.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.37.1
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.37.1?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.37.2
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.37.2?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.37.3
+- pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.37.3?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.8.0
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.8.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.mf/cdc-mf-checks@0.9.0

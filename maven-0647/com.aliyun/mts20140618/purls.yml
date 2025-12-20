@@ -38,3 +38,11 @@
 - pkg:maven/com.aliyun/mts20140618@3.3.55?classifier=sources
 - pkg:maven/com.aliyun/mts20140618@3.3.56
 - pkg:maven/com.aliyun/mts20140618@3.3.56?classifier=sources
+- pkg:maven/com.aliyun/mts20140618@4.0.0
+- pkg:maven/com.aliyun/mts20140618@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/mts20140618@4.1.0
+- pkg:maven/com.aliyun/mts20140618@4.1.0?classifier=sources
+- pkg:maven/com.aliyun/mts20140618@4.2.0
+- pkg:maven/com.aliyun/mts20140618@4.2.0?classifier=sources
+- pkg:maven/com.aliyun/mts20140618@5.0.0
+- pkg:maven/com.aliyun/mts20140618@5.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.power4j.kit/screw-maven-plugin@1.0.7
+- pkg:maven/com.power4j.kit/screw-maven-plugin@1.0.7?classifier=sources

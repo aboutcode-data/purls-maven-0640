@@ -1,0 +1,2 @@
+- pkg:maven/com.starxmind/starxmind-spring-boot-pageable-core@0.1.6
+- pkg:maven/com.starxmind/starxmind-spring-boot-pageable-core@0.1.6?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/com.icerockdev/storage-service@0.5.3?classifier=sources
 - pkg:maven/com.icerockdev/storage-service@0.6.0?classifier=sources
 - pkg:maven/com.icerockdev/storage-service@0.7.0?classifier=sources
+- pkg:maven/com.icerockdev/storage-service@0.8.0?classifier=sources

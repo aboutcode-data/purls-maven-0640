@@ -8,3 +8,7 @@
 - pkg:maven/org.ehrbase.openehr/configuration@2.3.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr/configuration@2.4.0
 - pkg:maven/org.ehrbase.openehr/configuration@2.4.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/configuration@2.5.0
+- pkg:maven/org.ehrbase.openehr/configuration@2.5.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr/configuration@2.6.0
+- pkg:maven/org.ehrbase.openehr/configuration@2.6.0?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/com.wealthfront/screencaptor@1.1.2?classifier=sources
 - pkg:maven/com.wealthfront/screencaptor@1.2.0?classifier=sources
 - pkg:maven/com.wealthfront/screencaptor@2.0.0?classifier=sources
+- pkg:maven/com.wealthfront/screencaptor@2.1.0?classifier=sources
+- pkg:maven/com.wealthfront/screencaptor@2.1.1?classifier=sources

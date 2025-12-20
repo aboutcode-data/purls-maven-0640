@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/nlp_automl20190529@1.0.0
+- pkg:maven/com.aliyun/nlp_automl20190529@1.0.0?classifier=sources

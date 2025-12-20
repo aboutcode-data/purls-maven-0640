@@ -60,3 +60,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@4.1.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@4.1.1
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@4.1.2
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-function-web@4.1.3

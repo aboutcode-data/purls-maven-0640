@@ -31,6 +31,9 @@
 - pkg:maven/com.yandex.div/glide@29.9.0?classifier=sources
 - pkg:maven/com.yandex.div/glide@30.0.0?classifier=sources
 - pkg:maven/com.yandex.div/glide@30.1.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@30.10.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@30.11.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@30.12.0?classifier=sources
 - pkg:maven/com.yandex.div/glide@30.2.0?classifier=sources
 - pkg:maven/com.yandex.div/glide@30.3.0?classifier=sources
 - pkg:maven/com.yandex.div/glide@30.3.1?classifier=sources
@@ -39,3 +42,4 @@
 - pkg:maven/com.yandex.div/glide@30.6.0?classifier=sources
 - pkg:maven/com.yandex.div/glide@30.7.0?classifier=sources
 - pkg:maven/com.yandex.div/glide@30.8.0?classifier=sources
+- pkg:maven/com.yandex.div/glide@30.9.0?classifier=sources

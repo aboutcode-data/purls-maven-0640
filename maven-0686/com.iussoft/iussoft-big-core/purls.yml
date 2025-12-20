@@ -1,2 +1,6 @@
 - pkg:maven/com.iussoft/iussoft-big-core@3.3.22041501
 - pkg:maven/com.iussoft/iussoft-big-core@3.3.22041501?classifier=sources
+- pkg:maven/com.iussoft/iussoft-big-core@3.3.24030301
+- pkg:maven/com.iussoft/iussoft-big-core@3.3.24030301?classifier=sources
+- pkg:maven/com.iussoft/iussoft-big-core@3.3.24030303
+- pkg:maven/com.iussoft/iussoft-big-core@3.3.24030303?classifier=sources

@@ -432,6 +432,10 @@
 - pkg:maven/com.google.cloud/google-cloud-core@2.39.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-core@2.4.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-core@2.40.0
+- pkg:maven/com.google.cloud/google-cloud-core@2.40.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-core@2.41.0
+- pkg:maven/com.google.cloud/google-cloud-core@2.41.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core@2.5.0
 - pkg:maven/com.google.cloud/google-cloud-core@2.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-core@2.5.1

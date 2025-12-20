@@ -1,0 +1,12 @@
+- pkg:maven/com.uroria.latest/core-paper@49f2bd7d16
+- pkg:maven/com.uroria.latest/core-paper@49f2bd7d16?classifier=sources
+- pkg:maven/com.uroria.latest/core-paper@6d9ded6798
+- pkg:maven/com.uroria.latest/core-paper@6d9ded6798?classifier=sources
+- pkg:maven/com.uroria.latest/core-paper@86ca294aba
+- pkg:maven/com.uroria.latest/core-paper@86ca294aba?classifier=sources
+- pkg:maven/com.uroria.latest/core-paper@940edeb6c3
+- pkg:maven/com.uroria.latest/core-paper@940edeb6c3?classifier=sources
+- pkg:maven/com.uroria.latest/core-paper@a0400c712f
+- pkg:maven/com.uroria.latest/core-paper@a0400c712f?classifier=sources
+- pkg:maven/com.uroria.latest/core-paper@db4bc3ae9a
+- pkg:maven/com.uroria.latest/core-paper@db4bc3ae9a?classifier=sources

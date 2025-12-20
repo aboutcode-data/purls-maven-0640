@@ -490,3 +490,11 @@
 - pkg:maven/com.zaber/motion-library@6.3.0-RC
 - pkg:maven/com.zaber/motion-library@6.3.0-RC?classifier=sources
 - pkg:maven/com.zaber/motion-library@6.3.0?classifier=sources
+- pkg:maven/com.zaber/motion-library@6.4.0
+- pkg:maven/com.zaber/motion-library@6.4.0-RC
+- pkg:maven/com.zaber/motion-library@6.4.0-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@6.4.0?classifier=sources
+- pkg:maven/com.zaber/motion-library@6.4.1
+- pkg:maven/com.zaber/motion-library@6.4.1-RC
+- pkg:maven/com.zaber/motion-library@6.4.1-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@6.4.1?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/com.github.ngoanh2n/commons-testng@1.4.0?classifier=sources
 - pkg:maven/com.github.ngoanh2n/commons-testng@1.5.0?classifier=sources
 - pkg:maven/com.github.ngoanh2n/commons-testng@1.5.1?classifier=sources
+- pkg:maven/com.github.ngoanh2n/commons-testng@1.6.0?classifier=sources

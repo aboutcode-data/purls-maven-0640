@@ -7,3 +7,7 @@
 - pkg:maven/com.tsm4j/tsm4j@0.0.8?classifier=sources
 - pkg:maven/com.tsm4j/tsm4j@0.0.9?classifier=sources
 - pkg:maven/com.tsm4j/tsm4j@0.1.0?classifier=sources
+- pkg:maven/com.tsm4j/tsm4j@1.0.0?classifier=sources
+- pkg:maven/com.tsm4j/tsm4j@1.0.1?classifier=sources
+- pkg:maven/com.tsm4j/tsm4j@1.0.2?classifier=sources
+- pkg:maven/com.tsm4j/tsm4j@1.1.0?classifier=sources

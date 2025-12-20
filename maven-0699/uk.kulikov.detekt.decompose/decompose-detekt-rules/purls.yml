@@ -1,3 +1,5 @@
 - pkg:maven/uk.kulikov.detekt.decompose/decompose-detekt-rules@0.2?classifier=sources
 - pkg:maven/uk.kulikov.detekt.decompose/decompose-detekt-rules@0.3?classifier=sources
 - pkg:maven/uk.kulikov.detekt.decompose/decompose-detekt-rules@0.4?classifier=sources
+- pkg:maven/uk.kulikov.detekt.decompose/decompose-detekt-rules@1.0.1?classifier=sources
+- pkg:maven/uk.kulikov.detekt.decompose/decompose-detekt-rules@1.0?classifier=sources

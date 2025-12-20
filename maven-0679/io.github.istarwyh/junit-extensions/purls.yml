@@ -1,3 +1,7 @@
 - pkg:maven/io.github.istarwyh/junit-extensions@0.0.1-MINOR?classifier=sources
 - pkg:maven/io.github.istarwyh/junit-extensions@0.0.2-MINOR
 - pkg:maven/io.github.istarwyh/junit-extensions@0.0.2-MINOR?classifier=sources
+- pkg:maven/io.github.istarwyh/junit-extensions@0.0.3-MAJOR
+- pkg:maven/io.github.istarwyh/junit-extensions@0.0.3-MAJOR?classifier=sources
+- pkg:maven/io.github.istarwyh/junit-extensions@0.0.4-MINOR
+- pkg:maven/io.github.istarwyh/junit-extensions@0.0.4-MINOR?classifier=sources

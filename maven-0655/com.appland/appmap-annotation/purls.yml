@@ -45,3 +45,4 @@
 - pkg:maven/com.appland/appmap-annotation@1.26.6?classifier=sources
 - pkg:maven/com.appland/appmap-annotation@1.26.7?classifier=sources
 - pkg:maven/com.appland/appmap-annotation@1.26.8?classifier=sources
+- pkg:maven/com.appland/appmap-annotation@1.26.9?classifier=sources

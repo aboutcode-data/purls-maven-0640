@@ -1,0 +1,4 @@
+- pkg:maven/dev.paoding/longan@4.2.5
+- pkg:maven/dev.paoding/longan@4.2.5?classifier=sources
+- pkg:maven/dev.paoding/longan@4.5.0
+- pkg:maven/dev.paoding/longan@4.5.0?classifier=sources

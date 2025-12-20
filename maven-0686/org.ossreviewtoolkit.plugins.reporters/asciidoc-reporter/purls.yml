@@ -34,6 +34,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@24.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@25.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@25.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@26.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@27.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@5.0.0?classifier=sources

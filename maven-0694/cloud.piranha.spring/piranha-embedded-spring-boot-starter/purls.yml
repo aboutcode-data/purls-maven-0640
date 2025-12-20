@@ -14,3 +14,5 @@
 - pkg:maven/cloud.piranha.spring/piranha-embedded-spring-boot-starter@24.5.0?classifier=sources
 - pkg:maven/cloud.piranha.spring/piranha-embedded-spring-boot-starter@24.6.0
 - pkg:maven/cloud.piranha.spring/piranha-embedded-spring-boot-starter@24.6.0?classifier=sources
+- pkg:maven/cloud.piranha.spring/piranha-embedded-spring-boot-starter@24.7.0
+- pkg:maven/cloud.piranha.spring/piranha-embedded-spring-boot-starter@24.7.0?classifier=sources

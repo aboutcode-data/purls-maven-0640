@@ -47,3 +47,5 @@
 - pkg:maven/com.codeborne/selenide-full-screenshot@7.3.1?classifier=sources
 - pkg:maven/com.codeborne/selenide-full-screenshot@7.3.2?classifier=sources
 - pkg:maven/com.codeborne/selenide-full-screenshot@7.3.3?classifier=sources
+- pkg:maven/com.codeborne/selenide-full-screenshot@7.4.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-full-screenshot@7.4.1?classifier=sources

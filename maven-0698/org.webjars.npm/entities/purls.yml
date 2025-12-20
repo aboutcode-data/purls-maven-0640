@@ -20,3 +20,4 @@
 - pkg:maven/org.webjars.npm/entities@4.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/entities@4.5.0
 - pkg:maven/org.webjars.npm/entities@4.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/entities@5.0.0

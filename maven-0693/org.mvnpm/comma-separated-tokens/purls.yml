@@ -7,3 +7,4 @@
 - pkg:maven/org.mvnpm/comma-separated-tokens@1.0.6?classifier=sources
 - pkg:maven/org.mvnpm/comma-separated-tokens@1.0.7?classifier=sources
 - pkg:maven/org.mvnpm/comma-separated-tokens@1.0.8?classifier=sources
+- pkg:maven/org.mvnpm/comma-separated-tokens@2.0.3?classifier=sources

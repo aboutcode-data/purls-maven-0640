@@ -468,6 +468,12 @@
 - pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev20240430-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev20240603-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev20240603-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev20240624-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev20240624-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev20240626-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev20240626-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev20240709-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev20240709-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataflow@v1b3-rev203-1.20.0

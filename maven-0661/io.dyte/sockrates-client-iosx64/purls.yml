@@ -12,3 +12,4 @@
 - pkg:maven/io.dyte/sockrates-client-iosx64@1.3.3?classifier=sources
 - pkg:maven/io.dyte/sockrates-client-iosx64@1.3.4?classifier=sources
 - pkg:maven/io.dyte/sockrates-client-iosx64@1.4.0?classifier=sources
+- pkg:maven/io.dyte/sockrates-client-iosx64@1.4.1?classifier=sources

@@ -63,7 +63,13 @@
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.10?classifier=sources
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.11?classifier=sources
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.12
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.12.1
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.12.1?classifier=sources
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.12?classifier=sources
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.13
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.13?classifier=sources
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.14
+- pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.14?classifier=sources
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.1?classifier=sources
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.2
 - pkg:maven/com.nimbusds/oauth2-oidc-sdk@11.2?classifier=sources

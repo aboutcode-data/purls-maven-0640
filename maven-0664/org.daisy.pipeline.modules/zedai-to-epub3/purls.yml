@@ -38,3 +38,5 @@
 - pkg:maven/org.daisy.pipeline.modules/zedai-to-epub3@2.4.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/zedai-to-epub3@2.5.0
 - pkg:maven/org.daisy.pipeline.modules/zedai-to-epub3@2.5.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/zedai-to-epub3@2.5.1
+- pkg:maven/org.daisy.pipeline.modules/zedai-to-epub3@2.5.1?classifier=sources

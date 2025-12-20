@@ -3,4 +3,5 @@
 - pkg:maven/ru.astrainteractive.klibs/sample@2.2.2?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/sample@2.2.4?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/sample@2.2.5?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/sample@2.2.7?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/sample@unspecified?classifier=sources

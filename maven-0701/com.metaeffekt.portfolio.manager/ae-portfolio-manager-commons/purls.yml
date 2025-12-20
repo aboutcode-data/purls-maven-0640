@@ -1,0 +1,6 @@
+- pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-commons@0.2.0
+- pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-commons@0.2.0?classifier=sources
+- pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-commons@0.3.0
+- pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-commons@0.3.0?classifier=sources
+- pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-commons@0.4.0
+- pkg:maven/com.metaeffekt.portfolio.manager/ae-portfolio-manager-commons@0.4.0?classifier=sources

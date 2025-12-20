@@ -33,3 +33,5 @@
 - pkg:maven/com.javiersc.hubdle/hubdle-version-catalog@0.2.7?classifier=sources
 - pkg:maven/com.javiersc.hubdle/hubdle-version-catalog@0.2.8?classifier=sources
 - pkg:maven/com.javiersc.hubdle/hubdle-version-catalog@0.3.0?classifier=sources
+- pkg:maven/com.javiersc.hubdle/hubdle-version-catalog@0.3.1?classifier=sources
+- pkg:maven/com.javiersc.hubdle/hubdle-version-catalog@0.3.2?classifier=sources

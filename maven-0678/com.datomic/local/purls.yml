@@ -1,3 +1,4 @@
 - pkg:maven/com.datomic/local@1.0.267
 - pkg:maven/com.datomic/local@1.0.276
 - pkg:maven/com.datomic/local@1.0.277
+- pkg:maven/com.datomic/local@1.0.285

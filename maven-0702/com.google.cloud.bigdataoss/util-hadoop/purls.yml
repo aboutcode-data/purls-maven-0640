@@ -136,6 +136,10 @@
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.0-RC01
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.0-RC01?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.0?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.1
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.1?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.2
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.2?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop1-1.9.10
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop1-1.9.10?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop1-1.9.11
@@ -253,6 +257,10 @@
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.22?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.23
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.23?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.24
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.24?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.25
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.25?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.2?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.3
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop2-2.2.3?classifier=sources
@@ -357,6 +365,10 @@
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.22?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.23
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.23?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.24
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.24?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.25
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.25?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.2?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.3
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop3-2.2.3?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/org.springblade/blade-core-oss@3.7.2?classifier=sources
 - pkg:maven/org.springblade/blade-core-oss@4.0.0
 - pkg:maven/org.springblade/blade-core-oss@4.0.0?classifier=sources
+- pkg:maven/org.springblade/blade-core-oss@4.1.0
+- pkg:maven/org.springblade/blade-core-oss@4.1.0?classifier=sources

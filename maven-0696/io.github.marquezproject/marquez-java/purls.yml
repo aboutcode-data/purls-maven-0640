@@ -97,5 +97,6 @@
 - pkg:maven/io.github.marquezproject/marquez-java@0.45.0?classifier=sources
 - pkg:maven/io.github.marquezproject/marquez-java@0.46.0?classifier=sources
 - pkg:maven/io.github.marquezproject/marquez-java@0.47.0?classifier=sources
+- pkg:maven/io.github.marquezproject/marquez-java@0.48.0?classifier=sources
 - pkg:maven/io.github.marquezproject/marquez-java@1.4.1-rc.6
 - pkg:maven/io.github.marquezproject/marquez-java@1.4.1-rc.6?classifier=sources

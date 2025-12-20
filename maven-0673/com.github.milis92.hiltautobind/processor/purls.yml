@@ -1,0 +1,8 @@
+- pkg:maven/com.github.milis92.hiltautobind/processor@0.1.0?classifier=sources
+- pkg:maven/com.github.milis92.hiltautobind/processor@1.0.0?classifier=sources
+- pkg:maven/com.github.milis92.hiltautobind/processor@1.1.0?classifier=sources
+- pkg:maven/com.github.milis92.hiltautobind/processor@1.3.0?classifier=sources
+- pkg:maven/com.github.milis92.hiltautobind/processor@1.4.0?classifier=sources
+- pkg:maven/com.github.milis92.hiltautobind/processor@1.5.0?classifier=sources
+- pkg:maven/com.github.milis92.hiltautobind/processor@1.6.0?classifier=sources
+- pkg:maven/com.github.milis92.hiltautobind/processor@1.7.0-rc.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.telicent.jena/rdf-abac-core@0.71.2
 - pkg:maven/io.telicent.jena/rdf-abac-core@0.71.2?classifier=sources
+- pkg:maven/io.telicent.jena/rdf-abac-core@0.71.4
+- pkg:maven/io.telicent.jena/rdf-abac-core@0.71.4?classifier=sources

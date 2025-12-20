@@ -181,6 +181,12 @@
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.209
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.209?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.209?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.214
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.214?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.214?classifier=sources
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.215
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.215?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.215?classifier=sources
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.30
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.30?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.mediation/org.wso2.carbon.mediator.jsontransform.ui@4.7.30?classifier=sources

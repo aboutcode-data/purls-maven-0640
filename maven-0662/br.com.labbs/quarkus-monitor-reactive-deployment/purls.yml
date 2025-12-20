@@ -2,3 +2,7 @@
 - pkg:maven/br.com.labbs/quarkus-monitor-reactive-deployment@1.0.4?classifier=sources
 - pkg:maven/br.com.labbs/quarkus-monitor-reactive-deployment@2.0.0
 - pkg:maven/br.com.labbs/quarkus-monitor-reactive-deployment@2.0.0?classifier=sources
+- pkg:maven/br.com.labbs/quarkus-monitor-reactive-deployment@3.8.0
+- pkg:maven/br.com.labbs/quarkus-monitor-reactive-deployment@3.8.0?classifier=sources
+- pkg:maven/br.com.labbs/quarkus-monitor-reactive-deployment@3.8.1
+- pkg:maven/br.com.labbs/quarkus-monitor-reactive-deployment@3.8.1?classifier=sources
