@@ -12,6 +12,8 @@
 - pkg:maven/org.quattor.pan/panc-maven-archetype@10.4-rc2?classifier=sources
 - pkg:maven/org.quattor.pan/panc-maven-archetype@10.7
 - pkg:maven/org.quattor.pan/panc-maven-archetype@10.7?classifier=sources
+- pkg:maven/org.quattor.pan/panc-maven-archetype@10.8
+- pkg:maven/org.quattor.pan/panc-maven-archetype@10.8?classifier=sources
 - pkg:maven/org.quattor.pan/panc-maven-archetype@9.2
 - pkg:maven/org.quattor.pan/panc-maven-archetype@9.2?classifier=sources
 - pkg:maven/org.quattor.pan/panc-maven-archetype@9.3

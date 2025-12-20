@@ -53,3 +53,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-zetasql@2.59.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-zetasql@2.60.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-zetasql@2.61.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-zetasql@2.62.0?classifier=sources

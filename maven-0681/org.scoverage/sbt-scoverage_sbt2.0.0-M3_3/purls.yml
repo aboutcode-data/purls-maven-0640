@@ -1,0 +1,4 @@
+- pkg:maven/org.scoverage/sbt-scoverage_sbt2.0.0-M3_3@2.3.0
+- pkg:maven/org.scoverage/sbt-scoverage_sbt2.0.0-M3_3@2.3.0?classifier=sources
+- pkg:maven/org.scoverage/sbt-scoverage_sbt2.0.0-M3_3@2.3.1
+- pkg:maven/org.scoverage/sbt-scoverage_sbt2.0.0-M3_3@2.3.1?classifier=sources

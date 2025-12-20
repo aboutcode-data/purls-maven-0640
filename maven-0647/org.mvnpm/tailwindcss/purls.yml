@@ -1,3 +1,4 @@
+- pkg:maven/org.mvnpm/tailwindcss@3.1.0?classifier=sources
 - pkg:maven/org.mvnpm/tailwindcss@3.2.1?classifier=sources
 - pkg:maven/org.mvnpm/tailwindcss@3.2.6?classifier=sources
 - pkg:maven/org.mvnpm/tailwindcss@3.3.0?classifier=sources
@@ -12,3 +13,8 @@
 - pkg:maven/org.mvnpm/tailwindcss@3.4.4?classifier=sources
 - pkg:maven/org.mvnpm/tailwindcss@3.4.6?classifier=sources
 - pkg:maven/org.mvnpm/tailwindcss@3.4.7?classifier=sources
+- pkg:maven/org.mvnpm/tailwindcss@4.0.0?classifier=sources
+- pkg:maven/org.mvnpm/tailwindcss@4.0.3?classifier=sources
+- pkg:maven/org.mvnpm/tailwindcss@4.0.4?classifier=sources
+- pkg:maven/org.mvnpm/tailwindcss@4.0.5?classifier=sources
+- pkg:maven/org.mvnpm/tailwindcss@4.0.6?classifier=sources

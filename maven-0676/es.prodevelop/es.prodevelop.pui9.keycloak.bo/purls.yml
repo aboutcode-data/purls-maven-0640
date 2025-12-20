@@ -4,3 +4,7 @@
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.keycloak.bo@1.17.1?classifier=sources
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.keycloak.bo@1.18.0
 - pkg:maven/es.prodevelop/es.prodevelop.pui9.keycloak.bo@1.18.0?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.keycloak.bo@1.18.1
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.keycloak.bo@1.18.1?classifier=sources
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.keycloak.bo@2.0.0
+- pkg:maven/es.prodevelop/es.prodevelop.pui9.keycloak.bo@2.0.0?classifier=sources

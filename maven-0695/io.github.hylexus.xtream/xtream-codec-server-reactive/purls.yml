@@ -1,4 +1,6 @@
 - pkg:maven/io.github.hylexus.xtream/xtream-codec-server-reactive@0.0.1-beta.10?classifier=sources
+- pkg:maven/io.github.hylexus.xtream/xtream-codec-server-reactive@0.0.1-beta.11?classifier=sources
+- pkg:maven/io.github.hylexus.xtream/xtream-codec-server-reactive@0.0.1-beta.12?classifier=sources
 - pkg:maven/io.github.hylexus.xtream/xtream-codec-server-reactive@0.0.1-beta.3?classifier=sources
 - pkg:maven/io.github.hylexus.xtream/xtream-codec-server-reactive@0.0.1-beta.4?classifier=sources
 - pkg:maven/io.github.hylexus.xtream/xtream-codec-server-reactive@0.0.1-beta.5?classifier=sources

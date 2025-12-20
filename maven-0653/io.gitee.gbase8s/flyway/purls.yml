@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.gbase8s/flyway@6.5.7
+- pkg:maven/io.gitee.gbase8s/flyway@6.5.7?classifier=sources

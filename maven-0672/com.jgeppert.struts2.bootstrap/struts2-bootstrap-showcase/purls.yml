@@ -64,3 +64,5 @@
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.5?type=war
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.6?classifier=sources
 - pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@5.0.6?type=war
+- pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@6.0.0?classifier=sources
+- pkg:maven/com.jgeppert.struts2.bootstrap/struts2-bootstrap-showcase@6.0.0?type=war

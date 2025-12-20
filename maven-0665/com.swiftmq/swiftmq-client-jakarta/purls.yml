@@ -10,3 +10,4 @@
 - pkg:maven/com.swiftmq/swiftmq-client-jakarta@13.0.1?type=zip
 - pkg:maven/com.swiftmq/swiftmq-client-jakarta@13.0.2?classifier=sources
 - pkg:maven/com.swiftmq/swiftmq-client-jakarta@13.0.2?type=zip
+- pkg:maven/com.swiftmq/swiftmq-client-jakarta@13.1.0?classifier=sources

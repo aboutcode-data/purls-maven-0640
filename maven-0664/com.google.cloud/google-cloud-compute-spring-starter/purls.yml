@@ -12,6 +12,8 @@
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.10.13-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.10.14-preview
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.10.14-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.10.15-preview
+- pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.10.15-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.10.2-preview
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.10.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@4.10.3-preview
@@ -72,6 +74,8 @@
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@5.1.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@5.1.2-preview
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@5.1.2-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@5.10.0-preview
+- pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@5.10.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@5.2.0-preview
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@5.2.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-compute-spring-starter@5.2.1-preview

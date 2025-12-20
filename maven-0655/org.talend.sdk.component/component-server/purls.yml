@@ -168,4 +168,5 @@
 - pkg:maven/org.talend.sdk.component/component-server@1.65.0M6?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server@1.65.0M7?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server@1.66.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server@1.67.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server@10.57.0?classifier=sources

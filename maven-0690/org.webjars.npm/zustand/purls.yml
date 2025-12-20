@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/zustand@3.7.2
 - pkg:maven/org.webjars.npm/zustand@4.3.6
 - pkg:maven/org.webjars.npm/zustand@4.3.6?classifier=sources
 - pkg:maven/org.webjars.npm/zustand@4.5.4

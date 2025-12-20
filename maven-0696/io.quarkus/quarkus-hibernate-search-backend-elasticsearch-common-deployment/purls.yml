@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkus/quarkus-hibernate-search-backend-elasticsearch-common-deployment@3.18.0
+- pkg:maven/io.quarkus/quarkus-hibernate-search-backend-elasticsearch-common-deployment@3.18.0.CR1
+- pkg:maven/io.quarkus/quarkus-hibernate-search-backend-elasticsearch-common-deployment@3.18.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-hibernate-search-backend-elasticsearch-common-deployment@3.18.0?classifier=sources

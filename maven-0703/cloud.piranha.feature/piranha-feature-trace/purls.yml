@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha.feature/piranha-feature-trace@25.1.0
+- pkg:maven/cloud.piranha.feature/piranha-feature-trace@25.1.0?classifier=sources

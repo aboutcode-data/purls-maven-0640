@@ -8,3 +8,4 @@
 - pkg:maven/com.anwang/web3j-safe4@1.0.1?classifier=sources
 - pkg:maven/com.anwang/web3j-safe4@1.0.2?classifier=sources
 - pkg:maven/com.anwang/web3j-safe4@1.0.3?classifier=sources
+- pkg:maven/com.anwang/web3j-safe4@1.1.1?classifier=sources

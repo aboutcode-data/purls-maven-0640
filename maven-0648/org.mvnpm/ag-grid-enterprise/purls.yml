@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/ag-grid-enterprise@32.2.0?classifier=sources
+- pkg:maven/org.mvnpm/ag-grid-enterprise@33.1.0?classifier=sources

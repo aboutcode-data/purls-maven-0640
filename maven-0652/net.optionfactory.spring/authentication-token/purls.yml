@@ -1,0 +1,2 @@
+- pkg:maven/net.optionfactory.spring/authentication-token@21.6
+- pkg:maven/net.optionfactory.spring/authentication-token@21.6?classifier=sources

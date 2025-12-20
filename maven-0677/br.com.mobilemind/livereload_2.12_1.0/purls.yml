@@ -1,2 +1,4 @@
+- pkg:maven/br.com.mobilemind/livereload_2.12_1.0@0.2.10
+- pkg:maven/br.com.mobilemind/livereload_2.12_1.0@0.2.10?classifier=sources
 - pkg:maven/br.com.mobilemind/livereload_2.12_1.0@0.2.5
 - pkg:maven/br.com.mobilemind/livereload_2.12_1.0@0.2.5?classifier=sources

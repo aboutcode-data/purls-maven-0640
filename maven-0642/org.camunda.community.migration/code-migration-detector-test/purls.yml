@@ -6,6 +6,8 @@
 - pkg:maven/org.camunda.community.migration/code-migration-detector-test@0.10.2?classifier=sources
 - pkg:maven/org.camunda.community.migration/code-migration-detector-test@0.10.3
 - pkg:maven/org.camunda.community.migration/code-migration-detector-test@0.10.3?classifier=sources
+- pkg:maven/org.camunda.community.migration/code-migration-detector-test@0.10.4
+- pkg:maven/org.camunda.community.migration/code-migration-detector-test@0.10.4?classifier=sources
 - pkg:maven/org.camunda.community.migration/code-migration-detector-test@0.8.2
 - pkg:maven/org.camunda.community.migration/code-migration-detector-test@0.8.2?classifier=sources
 - pkg:maven/org.camunda.community.migration/code-migration-detector-test@0.8.3

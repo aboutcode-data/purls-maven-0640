@@ -42,3 +42,5 @@
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@5.1.0.Beta5?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@5.1.0.Beta6?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@5.1.0.Beta7?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@5.1.0.Beta8?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.arquillian/wildfly-arquillian-parent@5.1.0.Beta9?classifier=source-release&type=zip

@@ -160,6 +160,8 @@
 - pkg:maven/com.github.nfwork/dbfound@3.5.7?classifier=sources
 - pkg:maven/com.github.nfwork/dbfound@3.5.8
 - pkg:maven/com.github.nfwork/dbfound@3.5.8?classifier=sources
+- pkg:maven/com.github.nfwork/dbfound@3.5.9
+- pkg:maven/com.github.nfwork/dbfound@3.5.9?classifier=sources
 - pkg:maven/com.github.nfwork/dbfound@4.0.0
 - pkg:maven/com.github.nfwork/dbfound@4.0.0?classifier=sources
 - pkg:maven/com.github.nfwork/dbfound@4.0.1

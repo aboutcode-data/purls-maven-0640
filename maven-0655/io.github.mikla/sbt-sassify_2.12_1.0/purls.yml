@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mikla/sbt-sassify_2.12_1.0@1.6.0
+- pkg:maven/io.github.mikla/sbt-sassify_2.12_1.0@1.6.0?classifier=sources

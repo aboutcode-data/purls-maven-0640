@@ -7,3 +7,9 @@
 - pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Beta7
 - pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Beta7?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Beta7?classifier=sources
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Final
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.1.Final
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.prospero/prospero-extras@1.0.1.Final?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/com.mikepenz/materialdrawer-iconics@10.0.0-a01?classifier=sources
 - pkg:maven/com.mikepenz/materialdrawer-iconics@8.0.0-rc02?classifier=sources
 - pkg:maven/com.mikepenz/materialdrawer-iconics@8.0.0-rc02?type=aar
 - pkg:maven/com.mikepenz/materialdrawer-iconics@8.0.0?classifier=sources

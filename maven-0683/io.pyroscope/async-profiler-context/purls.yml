@@ -18,5 +18,7 @@
 - pkg:maven/io.pyroscope/async-profiler-context@0.14.2?classifier=sources
 - pkg:maven/io.pyroscope/async-profiler-context@0.15.0?classifier=sources
 - pkg:maven/io.pyroscope/async-profiler-context@0.15.2?classifier=sources
+- pkg:maven/io.pyroscope/async-profiler-context@0.16.0?classifier=sources
+- pkg:maven/io.pyroscope/async-profiler-context@0.17.0?classifier=sources
 - pkg:maven/io.pyroscope/async-profiler-context@0.9.0?classifier=sources
 - pkg:maven/io.pyroscope/async-profiler-context@0.9.1?classifier=sources

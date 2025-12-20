@@ -12,6 +12,8 @@
 - pkg:maven/org.ikasan/ikasan-process-monitor@3.3.5?classifier=sources
 - pkg:maven/org.ikasan/ikasan-process-monitor@3.3.6
 - pkg:maven/org.ikasan/ikasan-process-monitor@3.3.6?classifier=sources
+- pkg:maven/org.ikasan/ikasan-process-monitor@3.3.7
+- pkg:maven/org.ikasan/ikasan-process-monitor@3.3.7?classifier=sources
 - pkg:maven/org.ikasan/ikasan-process-monitor@4.0.0
 - pkg:maven/org.ikasan/ikasan-process-monitor@4.0.0?classifier=sources
 - pkg:maven/org.ikasan/ikasan-process-monitor@4.0.1

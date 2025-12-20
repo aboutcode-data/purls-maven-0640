@@ -13,3 +13,4 @@
 - pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.5.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.5.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.6.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.developer/identity-tools-debugger@0.6.2?classifier=source-release&type=zip

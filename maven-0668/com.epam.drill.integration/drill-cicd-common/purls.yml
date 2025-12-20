@@ -38,3 +38,4 @@
 - pkg:maven/com.epam.drill.integration/drill-cicd-common@0.1.6-alpha.3?classifier=sources
 - pkg:maven/com.epam.drill.integration/drill-cicd-common@0.1.6-alpha.4?classifier=sources
 - pkg:maven/com.epam.drill.integration/drill-cicd-common@0.1.6?classifier=sources
+- pkg:maven/com.epam.drill.integration/drill-cicd-common@0.1.7?classifier=sources

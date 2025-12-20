@@ -1,0 +1,10 @@
+- pkg:maven/org.lucee/lucene-search@3.0.0.0-ALPHA
+- pkg:maven/org.lucee/lucene-search@3.0.0.0-ALPHA?classifier=sources
+- pkg:maven/org.lucee/lucene-search@3.0.0.1-ALPHA
+- pkg:maven/org.lucee/lucene-search@3.0.0.1-ALPHA?classifier=sources
+- pkg:maven/org.lucee/lucene-search@3.0.0.2-ALPHA
+- pkg:maven/org.lucee/lucene-search@3.0.0.2-ALPHA?classifier=sources
+- pkg:maven/org.lucee/lucene-search@3.0.0.3-ALPHA
+- pkg:maven/org.lucee/lucene-search@3.0.0.3-ALPHA?classifier=sources
+- pkg:maven/org.lucee/lucene-search@3.0.0.60-ALPHA
+- pkg:maven/org.lucee/lucene-search@3.0.0.60-ALPHA?classifier=sources

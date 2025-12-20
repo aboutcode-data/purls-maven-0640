@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/accessible-autocomplete@2.0.4
 - pkg:maven/org.webjars.npm/accessible-autocomplete@2.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/accessible-autocomplete@3.0.0
+- pkg:maven/org.webjars.npm/accessible-autocomplete@3.0.1

@@ -10,5 +10,7 @@
 - pkg:maven/org.graylog.shaded/opensearch2-rest-client-sniffer@2.14.0-1?classifier=sources
 - pkg:maven/org.graylog.shaded/opensearch2-rest-client-sniffer@2.15.0-1
 - pkg:maven/org.graylog.shaded/opensearch2-rest-client-sniffer@2.15.0-1?classifier=sources
+- pkg:maven/org.graylog.shaded/opensearch2-rest-client-sniffer@2.19.0-1
+- pkg:maven/org.graylog.shaded/opensearch2-rest-client-sniffer@2.19.0-1?classifier=sources
 - pkg:maven/org.graylog.shaded/opensearch2-rest-client-sniffer@2.9.0-1
 - pkg:maven/org.graylog.shaded/opensearch2-rest-client-sniffer@2.9.0-1?classifier=sources

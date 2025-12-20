@@ -26,6 +26,8 @@
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.0.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.1.0
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.1.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-xpath@4.10.0
+- pkg:maven/org.htmlunit/htmlunit-xpath@4.10.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.2.0
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.2.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.3.0
@@ -38,3 +40,7 @@
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.6.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.7.0
 - pkg:maven/org.htmlunit/htmlunit-xpath@4.7.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-xpath@4.8.0
+- pkg:maven/org.htmlunit/htmlunit-xpath@4.8.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-xpath@4.9.0
+- pkg:maven/org.htmlunit/htmlunit-xpath@4.9.0?classifier=sources

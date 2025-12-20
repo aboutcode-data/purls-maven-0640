@@ -1,2 +1,3 @@
 - pkg:maven/org.qtproject.qt.gradleplugin/QtGradlePlugin@1.0
 - pkg:maven/org.qtproject.qt.gradleplugin/QtGradlePlugin@1.0?classifier=sources
+- pkg:maven/org.qtproject.qt.gradleplugin/QtGradlePlugin@1.1?classifier=sources

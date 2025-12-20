@@ -21,6 +21,8 @@
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@20.3.15?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@20.3.16
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@20.3.16?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@20.3.17
+- pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@20.3.17?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@20.3.1?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@20.3.2
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@20.3.2?classifier=sources
@@ -59,6 +61,8 @@
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@21.3.11?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@21.3.12
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@21.3.12?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@21.3.13
+- pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@21.3.13?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@21.3.1?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@21.3.2
 - pkg:maven/org.graalvm.nativeimage/jvmti-agent-base@21.3.2.1

@@ -14,5 +14,7 @@
 - pkg:maven/org.webjars.npm/redocly__openapi-core@1.21.0
 - pkg:maven/org.webjars.npm/redocly__openapi-core@1.22.1
 - pkg:maven/org.webjars.npm/redocly__openapi-core@1.25.9
+- pkg:maven/org.webjars.npm/redocly__openapi-core@1.27.2
+- pkg:maven/org.webjars.npm/redocly__openapi-core@1.28.5
 - pkg:maven/org.webjars.npm/redocly__openapi-core@1.4.1
 - pkg:maven/org.webjars.npm/redocly__openapi-core@1.4.1?classifier=sources

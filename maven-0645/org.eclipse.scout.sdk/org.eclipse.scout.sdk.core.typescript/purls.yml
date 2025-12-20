@@ -62,3 +62,9 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.45?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.46
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.46?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.47
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@13.0.47?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@14.0.0.beta_0
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@14.0.0.beta_0?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@14.0.0.beta_1
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.core.typescript@14.0.0.beta_1?classifier=sources

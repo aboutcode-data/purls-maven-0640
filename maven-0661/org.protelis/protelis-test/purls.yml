@@ -181,3 +181,4 @@
 - pkg:maven/org.protelis/protelis-test@17.6.1?classifier=sources
 - pkg:maven/org.protelis/protelis-test@17.7.0?classifier=sources
 - pkg:maven/org.protelis/protelis-test@17.7.1?classifier=sources
+- pkg:maven/org.protelis/protelis-test@17.7.2?classifier=sources

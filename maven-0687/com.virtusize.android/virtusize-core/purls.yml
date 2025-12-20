@@ -15,3 +15,5 @@
 - pkg:maven/com.virtusize.android/virtusize-core@2.7.3?classifier=sources
 - pkg:maven/com.virtusize.android/virtusize-core@2.7.4?classifier=sources
 - pkg:maven/com.virtusize.android/virtusize-core@2.7.5?classifier=sources
+- pkg:maven/com.virtusize.android/virtusize-core@2.8.0?classifier=sources
+- pkg:maven/com.virtusize.android/virtusize-core@2.9.0?classifier=sources

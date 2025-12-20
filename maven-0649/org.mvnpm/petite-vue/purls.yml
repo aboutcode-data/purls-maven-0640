@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/petite-vue@0.2.2?classifier=sources
+- pkg:maven/org.mvnpm/petite-vue@0.4.1?classifier=sources

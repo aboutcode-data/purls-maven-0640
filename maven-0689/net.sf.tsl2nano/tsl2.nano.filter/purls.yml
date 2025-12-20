@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.filter@2.5.2
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.filter@2.5.2?classifier=sources
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.filter@2.5.3
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.filter@2.5.3?classifier=sources

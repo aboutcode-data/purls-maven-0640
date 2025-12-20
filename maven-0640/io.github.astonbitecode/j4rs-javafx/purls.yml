@@ -2,3 +2,5 @@
 - pkg:maven/io.github.astonbitecode/j4rs-javafx@0.20.0?classifier=sources
 - pkg:maven/io.github.astonbitecode/j4rs-javafx@0.21.0
 - pkg:maven/io.github.astonbitecode/j4rs-javafx@0.21.0?classifier=sources
+- pkg:maven/io.github.astonbitecode/j4rs-javafx@0.22.0
+- pkg:maven/io.github.astonbitecode/j4rs-javafx@0.22.0?classifier=sources

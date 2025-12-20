@@ -4,3 +4,4 @@
 - pkg:maven/io.appmetrica.analytics/analytics-apphud@7.3.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-apphud@7.4.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-apphud@7.5.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-apphud@7.6.0?classifier=sources

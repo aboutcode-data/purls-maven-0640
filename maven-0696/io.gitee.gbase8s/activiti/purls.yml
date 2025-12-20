@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.gbase8s/activiti@5.16.1
+- pkg:maven/io.gitee.gbase8s/activiti@5.16.1?classifier=sources

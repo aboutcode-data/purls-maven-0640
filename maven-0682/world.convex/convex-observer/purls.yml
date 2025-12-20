@@ -2,3 +2,5 @@
 - pkg:maven/world.convex/convex-observer@0.7.13?classifier=sources
 - pkg:maven/world.convex/convex-observer@0.7.15
 - pkg:maven/world.convex/convex-observer@0.7.15?classifier=sources
+- pkg:maven/world.convex/convex-observer@0.8.0
+- pkg:maven/world.convex/convex-observer@0.8.0?classifier=sources

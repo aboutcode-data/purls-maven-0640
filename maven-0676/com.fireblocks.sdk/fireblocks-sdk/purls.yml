@@ -20,3 +20,5 @@
 - pkg:maven/com.fireblocks.sdk/fireblocks-sdk@5.0.0?classifier=sources
 - pkg:maven/com.fireblocks.sdk/fireblocks-sdk@6.0.0
 - pkg:maven/com.fireblocks.sdk/fireblocks-sdk@6.0.0?classifier=sources
+- pkg:maven/com.fireblocks.sdk/fireblocks-sdk@7.0.0
+- pkg:maven/com.fireblocks.sdk/fireblocks-sdk@7.0.0?classifier=sources

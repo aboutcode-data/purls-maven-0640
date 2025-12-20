@@ -10,3 +10,7 @@
 - pkg:maven/org.flywaydb/flyway-database-databricks@10.16.2?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-databricks@10.16.3
 - pkg:maven/org.flywaydb/flyway-database-databricks@10.16.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-databricks@10.16.4
+- pkg:maven/org.flywaydb/flyway-database-databricks@10.16.4?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-databricks@10.17.0
+- pkg:maven/org.flywaydb/flyway-database-databricks@10.17.0?classifier=sources

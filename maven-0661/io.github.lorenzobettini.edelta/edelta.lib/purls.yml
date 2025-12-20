@@ -36,3 +36,4 @@
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@3.4.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@3.5.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@3.6.0?classifier=sources
+- pkg:maven/io.github.lorenzobettini.edelta/edelta.lib@3.7.0?classifier=sources

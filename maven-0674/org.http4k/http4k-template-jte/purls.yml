@@ -82,6 +82,15 @@
 - pkg:maven/org.http4k/http4k-template-jte@5.41.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-jte@5.42.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-jte@5.43.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@5.44.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@5.44.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@5.44.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@5.44.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@5.45.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@5.45.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@5.45.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@5.46.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@5.47.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-jte@5.6.4.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-jte@5.6.5.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-jte@5.7.1.0?classifier=sources
@@ -98,3 +107,5 @@
 - pkg:maven/org.http4k/http4k-template-jte@5.8.5.1?classifier=sources
 - pkg:maven/org.http4k/http4k-template-jte@5.8.6.0?classifier=sources
 - pkg:maven/org.http4k/http4k-template-jte@5.9.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@6.0.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-template-jte@6.0.1.0?classifier=sources

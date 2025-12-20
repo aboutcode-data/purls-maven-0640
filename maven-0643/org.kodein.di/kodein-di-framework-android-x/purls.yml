@@ -43,6 +43,9 @@
 - pkg:maven/org.kodein.di/kodein-di-framework-android-x@7.22.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-framework-android-x@7.23.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-framework-android-x@7.23.1?classifier=sources
+- pkg:maven/org.kodein.di/kodein-di-framework-android-x@7.24.0?classifier=sources
+- pkg:maven/org.kodein.di/kodein-di-framework-android-x@7.24.1?classifier=sources
+- pkg:maven/org.kodein.di/kodein-di-framework-android-x@7.25.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-framework-android-x@7.3.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-framework-android-x@7.3.1?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-framework-android-x@7.4.0?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/org.openfolder/kotlin-asyncapi-spring-web@3.0.2?classifier=sources
 - pkg:maven/org.openfolder/kotlin-asyncapi-spring-web@3.0.3
 - pkg:maven/org.openfolder/kotlin-asyncapi-spring-web@3.0.3?classifier=sources
+- pkg:maven/org.openfolder/kotlin-asyncapi-spring-web@3.0.4?classifier=sources

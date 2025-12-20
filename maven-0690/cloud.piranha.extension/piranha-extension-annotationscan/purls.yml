@@ -82,3 +82,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-annotationscan@24.8.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-annotationscan@24.9.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-annotationscan@24.9.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-annotationscan@25.1.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-annotationscan@25.1.0?classifier=sources

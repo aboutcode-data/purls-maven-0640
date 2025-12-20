@@ -26,6 +26,7 @@
 - pkg:maven/com.yandex.div/div-gesture@30.30.0?classifier=sources
 - pkg:maven/com.yandex.div/div-gesture@30.31.0?classifier=sources
 - pkg:maven/com.yandex.div/div-gesture@30.32.0?classifier=sources
+- pkg:maven/com.yandex.div/div-gesture@30.33.0?classifier=sources
 - pkg:maven/com.yandex.div/div-gesture@30.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-gesture@30.5.0?classifier=sources
 - pkg:maven/com.yandex.div/div-gesture@30.6.0?classifier=sources

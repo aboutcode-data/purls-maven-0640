@@ -1,6 +1,7 @@
 - pkg:maven/org.webjars.npm/jsoneditor@10.0.0
 - pkg:maven/org.webjars.npm/jsoneditor@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/jsoneditor@10.1.0
+- pkg:maven/org.webjars.npm/jsoneditor@10.1.2
 - pkg:maven/org.webjars.npm/jsoneditor@5.13.1
 - pkg:maven/org.webjars.npm/jsoneditor@5.13.1?classifier=sources
 - pkg:maven/org.webjars.npm/jsoneditor@5.17.1

@@ -104,6 +104,10 @@
 - pkg:maven/com.aliyun/ccc20200701@2.30.0?classifier=sources
 - pkg:maven/com.aliyun/ccc20200701@2.31.0
 - pkg:maven/com.aliyun/ccc20200701@2.31.0?classifier=sources
+- pkg:maven/com.aliyun/ccc20200701@2.31.1
+- pkg:maven/com.aliyun/ccc20200701@2.31.1?classifier=sources
+- pkg:maven/com.aliyun/ccc20200701@2.32.0
+- pkg:maven/com.aliyun/ccc20200701@2.32.0?classifier=sources
 - pkg:maven/com.aliyun/ccc20200701@2.4.0
 - pkg:maven/com.aliyun/ccc20200701@2.4.0?classifier=sources
 - pkg:maven/com.aliyun/ccc20200701@2.4.1

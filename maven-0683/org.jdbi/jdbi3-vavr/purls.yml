@@ -168,6 +168,8 @@
 - pkg:maven/org.jdbi/jdbi3-vavr@3.46.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-vavr@3.47.0
 - pkg:maven/org.jdbi/jdbi3-vavr@3.47.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-vavr@3.48.0
+- pkg:maven/org.jdbi/jdbi3-vavr@3.48.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-vavr@3.5.0
 - pkg:maven/org.jdbi/jdbi3-vavr@3.5.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-vavr@3.5.1

@@ -12,6 +12,8 @@
 - pkg:maven/de.killaitis/peloton-core_3@0.4.2?classifier=sources
 - pkg:maven/de.killaitis/peloton-core_3@0.4.4
 - pkg:maven/de.killaitis/peloton-core_3@0.4.4?classifier=sources
+- pkg:maven/de.killaitis/peloton-core_3@0.4.5
+- pkg:maven/de.killaitis/peloton-core_3@0.4.5?classifier=sources
 - pkg:maven/de.killaitis/peloton-core_3@v0.0.1-alpha3
 - pkg:maven/de.killaitis/peloton-core_3@v0.0.1-alpha3?classifier=sources
 - pkg:maven/de.killaitis/peloton-core_3@v0.0.1-alpha4

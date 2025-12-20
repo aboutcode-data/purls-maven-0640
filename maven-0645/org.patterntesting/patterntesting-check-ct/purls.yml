@@ -60,3 +60,5 @@
 - pkg:maven/org.patterntesting/patterntesting-check-ct@2.3.0?classifier=sources
 - pkg:maven/org.patterntesting/patterntesting-check-ct@2.4.0
 - pkg:maven/org.patterntesting/patterntesting-check-ct@2.4.0?classifier=sources
+- pkg:maven/org.patterntesting/patterntesting-check-ct@2.5.0
+- pkg:maven/org.patterntesting/patterntesting-check-ct@2.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.native-terminal/native-terminal-graalvm@0.0.7
+- pkg:maven/io.github.alexarchambault.native-terminal/native-terminal-graalvm@0.0.7?classifier=sources
