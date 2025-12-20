@@ -111,3 +111,4 @@
 - pkg:maven/org.dddjava.jig/jig-core@2024.6.1?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2024.7.1?classifier=sources
 - pkg:maven/org.dddjava.jig/jig-core@2024.7.2?classifier=sources
+- pkg:maven/org.dddjava.jig/jig-core@2024.8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.emf.model/org.gecko.emf.models.library@1.0.0
+- pkg:maven/org.geckoprojects.emf.model/org.gecko.emf.models.library@1.0.0?classifier=sources

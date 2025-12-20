@@ -5,3 +5,5 @@
 - pkg:maven/hu.bme.mit.theta/theta-xcfa2chc@6.3.3?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-xcfa2chc@6.3.4?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-xcfa2chc@6.4.0?classifier=sources
+- pkg:maven/hu.bme.mit.theta/theta-xcfa2chc@6.5.0?classifier=sources
+- pkg:maven/hu.bme.mit.theta/theta-xcfa2chc@6.5.1?classifier=sources

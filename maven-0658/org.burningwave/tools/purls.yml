@@ -338,6 +338,8 @@
 - pkg:maven/org.burningwave/tools@0.26.0?classifier=sources
 - pkg:maven/org.burningwave/tools@0.26.1
 - pkg:maven/org.burningwave/tools@0.26.1?classifier=sources
+- pkg:maven/org.burningwave/tools@0.26.2
+- pkg:maven/org.burningwave/tools@0.26.2?classifier=sources
 - pkg:maven/org.burningwave/tools@0.3.0
 - pkg:maven/org.burningwave/tools@0.3.0?classifier=sources
 - pkg:maven/org.burningwave/tools@0.4.0

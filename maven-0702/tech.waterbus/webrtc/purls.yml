@@ -15,3 +15,5 @@
 - pkg:maven/tech.waterbus/webrtc@125.6422.01?classifier=sources
 - pkg:maven/tech.waterbus/webrtc@125.6422.02?classifier=sources
 - pkg:maven/tech.waterbus/webrtc@125.6422.03?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@128.6613.01?classifier=sources
+- pkg:maven/tech.waterbus/webrtc@128.6613.02?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/com.ly.smart-doc/smart-doc-maven-plugin@3.0.5
 - pkg:maven/com.ly.smart-doc/smart-doc-maven-plugin@3.0.5?classifier=sources
 - pkg:maven/com.ly.smart-doc/smart-doc-maven-plugin@3.0.6?classifier=sources
+- pkg:maven/com.ly.smart-doc/smart-doc-maven-plugin@3.0.7?classifier=sources

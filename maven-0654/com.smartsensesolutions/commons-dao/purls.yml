@@ -12,3 +12,4 @@
 - pkg:maven/com.smartsensesolutions/commons-dao@0.0.9?classifier=sources
 - pkg:maven/com.smartsensesolutions/commons-dao@1.0.0?classifier=sources
 - pkg:maven/com.smartsensesolutions/commons-dao@1.0.1?classifier=sources
+- pkg:maven/com.smartsensesolutions/commons-dao@1.0.2?classifier=sources

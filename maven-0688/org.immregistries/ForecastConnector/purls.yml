@@ -16,3 +16,5 @@
 - pkg:maven/org.immregistries/ForecastConnector@3.20.8
 - pkg:maven/org.immregistries/ForecastConnector@3.20.8?classifier=sources
 - pkg:maven/org.immregistries/ForecastConnector@3.20?classifier=sources
+- pkg:maven/org.immregistries/ForecastConnector@3.21.0
+- pkg:maven/org.immregistries/ForecastConnector@3.21.0?classifier=sources

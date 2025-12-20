@@ -1,2 +1,8 @@
 - pkg:maven/eu.weblib/passpointsdk@0.1.0?classifier=sources
 - pkg:maven/eu.weblib/passpointsdk@0.1.0?type=aar
+- pkg:maven/eu.weblib/passpointsdk@0.1.2?classifier=sources
+- pkg:maven/eu.weblib/passpointsdk@0.1.2?type=aar
+- pkg:maven/eu.weblib/passpointsdk@0.1.3?classifier=sources
+- pkg:maven/eu.weblib/passpointsdk@0.1.3?type=aar
+- pkg:maven/eu.weblib/passpointsdk@0.1.4?classifier=sources
+- pkg:maven/eu.weblib/passpointsdk@0.1.4?type=aar

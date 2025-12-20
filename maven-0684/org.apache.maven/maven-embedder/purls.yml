@@ -112,6 +112,8 @@
 - pkg:maven/org.apache.maven/maven-embedder@3.9.7?classifier=sources
 - pkg:maven/org.apache.maven/maven-embedder@3.9.8
 - pkg:maven/org.apache.maven/maven-embedder@3.9.8?classifier=sources
+- pkg:maven/org.apache.maven/maven-embedder@3.9.9
+- pkg:maven/org.apache.maven/maven-embedder@3.9.9?classifier=sources
 - pkg:maven/org.apache.maven/maven-embedder@4.0.0-alpha-10
 - pkg:maven/org.apache.maven/maven-embedder@4.0.0-alpha-10?classifier=sources
 - pkg:maven/org.apache.maven/maven-embedder@4.0.0-alpha-12
@@ -134,3 +136,5 @@
 - pkg:maven/org.apache.maven/maven-embedder@4.0.0-alpha-9?classifier=sources
 - pkg:maven/org.apache.maven/maven-embedder@4.0.0-beta-3
 - pkg:maven/org.apache.maven/maven-embedder@4.0.0-beta-3?classifier=sources
+- pkg:maven/org.apache.maven/maven-embedder@4.0.0-beta-4
+- pkg:maven/org.apache.maven/maven-embedder@4.0.0-beta-4?classifier=sources

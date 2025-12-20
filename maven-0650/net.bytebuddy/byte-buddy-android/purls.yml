@@ -247,6 +247,8 @@
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.14.17?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.14.18
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.14.18?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-android@1.14.19
+- pkg:maven/net.bytebuddy/byte-buddy-android@1.14.19?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.14.1?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.14.2
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.14.2?classifier=sources
@@ -264,6 +266,10 @@
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.14.8?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.14.9
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.14.9?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-android@1.15.0
+- pkg:maven/net.bytebuddy/byte-buddy-android@1.15.0?classifier=sources
+- pkg:maven/net.bytebuddy/byte-buddy-android@1.15.1
+- pkg:maven/net.bytebuddy/byte-buddy-android@1.15.1?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.2.0
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.2.0?classifier=sources
 - pkg:maven/net.bytebuddy/byte-buddy-android@1.2.1

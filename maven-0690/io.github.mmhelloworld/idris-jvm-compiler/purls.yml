@@ -14,3 +14,4 @@
 - pkg:maven/io.github.mmhelloworld/idris-jvm-compiler@0.6.0.6?classifier=sources
 - pkg:maven/io.github.mmhelloworld/idris-jvm-compiler@0.6.0?classifier=sources
 - pkg:maven/io.github.mmhelloworld/idris-jvm-compiler@0.7.0?classifier=sources
+- pkg:maven/io.github.mmhelloworld/idris-jvm-compiler@0.7.1-rc.1?classifier=sources

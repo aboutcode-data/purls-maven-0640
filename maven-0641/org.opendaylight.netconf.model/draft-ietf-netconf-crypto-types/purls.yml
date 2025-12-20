@@ -46,3 +46,5 @@
 - pkg:maven/org.opendaylight.netconf.model/draft-ietf-netconf-crypto-types@7.0.6
 - pkg:maven/org.opendaylight.netconf.model/draft-ietf-netconf-crypto-types@7.0.6?classifier=sources
 - pkg:maven/org.opendaylight.netconf.model/draft-ietf-netconf-crypto-types@7.0.7?classifier=sources
+- pkg:maven/org.opendaylight.netconf.model/draft-ietf-netconf-crypto-types@7.0.8?classifier=sources
+- pkg:maven/org.opendaylight.netconf.model/draft-ietf-netconf-crypto-types@7.0.9?classifier=sources

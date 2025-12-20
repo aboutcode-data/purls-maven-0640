@@ -5,3 +5,4 @@
 - pkg:maven/io.appmetrica.analytics/analytics-billing-v6@6.4.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-billing-v6@6.5.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-billing-v6@7.0.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-billing-v6@7.1.0?classifier=sources

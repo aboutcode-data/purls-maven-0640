@@ -50,3 +50,5 @@
 - pkg:maven/chat.dim/DaoKeDao@0.9.9?classifier=sources
 - pkg:maven/chat.dim/DaoKeDao@1.0.0
 - pkg:maven/chat.dim/DaoKeDao@1.0.0?classifier=sources
+- pkg:maven/chat.dim/DaoKeDao@1.1.0
+- pkg:maven/chat.dim/DaoKeDao@1.1.0?classifier=sources

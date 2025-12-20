@@ -1,3 +1,5 @@
+- pkg:maven/ch.sbs/dtbook-update-metadata@0.10
+- pkg:maven/ch.sbs/dtbook-update-metadata@0.10?classifier=sources
 - pkg:maven/ch.sbs/dtbook-update-metadata@0.8
 - pkg:maven/ch.sbs/dtbook-update-metadata@0.8?classifier=sources
 - pkg:maven/ch.sbs/dtbook-update-metadata@0.9

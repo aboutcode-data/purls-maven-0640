@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.qomponent/qui-code-block@1.0.16?classifier=sources
+- pkg:maven/org.mvnpm.at.qomponent/qui-code-block@1.0.17?classifier=sources

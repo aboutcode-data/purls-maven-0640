@@ -150,6 +150,8 @@
 - pkg:maven/com.wavefront/java-lib@2023-07.8?classifier=sources
 - pkg:maven/com.wavefront/java-lib@2023-08.2
 - pkg:maven/com.wavefront/java-lib@2023-08.2?classifier=sources
+- pkg:maven/com.wavefront/java-lib@2023-08.3
+- pkg:maven/com.wavefront/java-lib@2023-08.3?classifier=sources
 - pkg:maven/com.wavefront/java-lib@2023-22.3
 - pkg:maven/com.wavefront/java-lib@2023-22.3?classifier=sources
 - pkg:maven/com.wavefront/java-lib@3.0

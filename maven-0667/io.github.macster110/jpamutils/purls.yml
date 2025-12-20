@@ -6,3 +6,5 @@
 - pkg:maven/io.github.macster110/jpamutils@0.0.58?classifier=sources
 - pkg:maven/io.github.macster110/jpamutils@0.0.59
 - pkg:maven/io.github.macster110/jpamutils@0.0.59?classifier=sources
+- pkg:maven/io.github.macster110/jpamutils@0.0.59d
+- pkg:maven/io.github.macster110/jpamutils@0.0.59d?classifier=sources

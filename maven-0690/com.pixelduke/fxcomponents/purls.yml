@@ -1,2 +1,3 @@
 - pkg:maven/com.pixelduke/fxcomponents@1.1.2?classifier=sources
+- pkg:maven/com.pixelduke/fxcomponents@1.6.2?classifier=sources
 - pkg:maven/com.pixelduke/fxcomponents@1.6?classifier=sources

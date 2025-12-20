@@ -519,6 +519,7 @@
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.6
@@ -533,3 +534,4 @@
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.9
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.comment.taglib@4.1.0?classifier=sources

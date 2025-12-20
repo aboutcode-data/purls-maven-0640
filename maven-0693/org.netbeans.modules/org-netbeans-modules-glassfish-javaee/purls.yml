@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-javaee@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-javaee@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-javaee@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-javaee@RELEASE230?classifier=sources

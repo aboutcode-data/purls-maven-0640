@@ -150,3 +150,9 @@
 - pkg:maven/com.greensqa/gheart.sdk@2.3.20240730.3-RC?classifier=sources
 - pkg:maven/com.greensqa/gheart.sdk@2.3.20240730.4
 - pkg:maven/com.greensqa/gheart.sdk@2.3.20240730.4?classifier=sources
+- pkg:maven/com.greensqa/gheart.sdk@2.3.20240820.1-RC
+- pkg:maven/com.greensqa/gheart.sdk@2.3.20240820.1-RC?classifier=sources
+- pkg:maven/com.greensqa/gheart.sdk@2.3.20240823.1-RC
+- pkg:maven/com.greensqa/gheart.sdk@2.3.20240823.1-RC?classifier=sources
+- pkg:maven/com.greensqa/gheart.sdk@2.3.20240826.1
+- pkg:maven/com.greensqa/gheart.sdk@2.3.20240826.1?classifier=sources

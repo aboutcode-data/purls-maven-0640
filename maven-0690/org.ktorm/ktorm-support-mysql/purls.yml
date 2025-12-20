@@ -13,3 +13,4 @@
 - pkg:maven/org.ktorm/ktorm-support-mysql@3.6.0?classifier=sources
 - pkg:maven/org.ktorm/ktorm-support-mysql@4.0.0?classifier=sources
 - pkg:maven/org.ktorm/ktorm-support-mysql@4.1.0?classifier=sources
+- pkg:maven/org.ktorm/ktorm-support-mysql@4.1.1?classifier=sources

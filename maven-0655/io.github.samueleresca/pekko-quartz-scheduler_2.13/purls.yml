@@ -10,3 +10,5 @@
 - pkg:maven/io.github.samueleresca/pekko-quartz-scheduler_2.13@1.2.0-pekko-1.0.x?classifier=sources
 - pkg:maven/io.github.samueleresca/pekko-quartz-scheduler_2.13@1.2.1-pekko-1.0.x
 - pkg:maven/io.github.samueleresca/pekko-quartz-scheduler_2.13@1.2.1-pekko-1.0.x?classifier=sources
+- pkg:maven/io.github.samueleresca/pekko-quartz-scheduler_2.13@1.2.2-pekko-1.0.x
+- pkg:maven/io.github.samueleresca/pekko-quartz-scheduler_2.13@1.2.2-pekko-1.0.x?classifier=sources

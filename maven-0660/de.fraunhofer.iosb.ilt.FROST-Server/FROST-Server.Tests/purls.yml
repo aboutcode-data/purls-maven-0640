@@ -36,6 +36,8 @@
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@2.2.1
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@2.2.2
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@2.2.3
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@2.2.4
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@2.3.0
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@2.3.1
 - pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@2.3.2
+- pkg:maven/de.fraunhofer.iosb.ilt.FROST-Server/FROST-Server.Tests@2.3.3

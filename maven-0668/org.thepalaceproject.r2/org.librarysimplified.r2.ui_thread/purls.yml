@@ -20,3 +20,5 @@
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.ui_thread@5.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.ui_thread@5.1.0?classifier=sources
 - pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.ui_thread@6.0.0?classifier=sources
+- pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.ui_thread@6.1.0?classifier=sources
+- pkg:maven/org.thepalaceproject.r2/org.librarysimplified.r2.ui_thread@6.2.0?classifier=sources

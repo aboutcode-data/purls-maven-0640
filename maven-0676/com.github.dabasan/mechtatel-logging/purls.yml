@@ -1,0 +1,4 @@
+- pkg:maven/com.github.dabasan/mechtatel-logging@0.0.1-alpha0
+- pkg:maven/com.github.dabasan/mechtatel-logging@0.0.1-alpha0?classifier=sources
+- pkg:maven/com.github.dabasan/mechtatel-logging@0.0.1-alpha1
+- pkg:maven/com.github.dabasan/mechtatel-logging@0.0.1-alpha1?classifier=sources

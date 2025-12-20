@@ -1,3 +1,4 @@
+- pkg:maven/com.qwlabs.doraemon/lang@0.0.1?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/lang@0.1.11?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/lang@0.1.12?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/lang@0.1.13?classifier=sources
@@ -286,3 +287,5 @@
 - pkg:maven/com.qwlabs.doraemon/lang@0.2.97?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/lang@0.2.98?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/lang@0.2.99?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/lang@0.3.0.3.1?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/lang@0.3.0?classifier=sources

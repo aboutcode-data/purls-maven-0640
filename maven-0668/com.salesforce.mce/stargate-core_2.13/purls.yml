@@ -1,0 +1,2 @@
+- pkg:maven/com.salesforce.mce/stargate-core_2.13@0.17.0
+- pkg:maven/com.salesforce.mce/stargate-core_2.13@0.17.0?classifier=sources

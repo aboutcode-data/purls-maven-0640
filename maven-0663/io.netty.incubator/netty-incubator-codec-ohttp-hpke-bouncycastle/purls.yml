@@ -6,6 +6,10 @@
 - pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.12.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.13.Final
 - pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.13.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.14.Final
+- pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.14.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.15.Final
+- pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.15.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.3.Final
 - pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.3.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-ohttp-hpke-bouncycastle@0.0.4.Final

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.manifoldcf/mcf-api-service@2.26?classifier=sources
+- pkg:maven/org.apache.manifoldcf/mcf-api-service@2.26?type=war

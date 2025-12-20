@@ -8,3 +8,5 @@
 - pkg:maven/com.pig4cloud.plugin/nacos-datasource-plugin-kingbase@0.0.3?classifier=sources
 - pkg:maven/com.pig4cloud.plugin/nacos-datasource-plugin-kingbase@0.0.4.PG
 - pkg:maven/com.pig4cloud.plugin/nacos-datasource-plugin-kingbase@0.0.4.PG?classifier=sources
+- pkg:maven/com.pig4cloud.plugin/nacos-datasource-plugin-kingbase@0.0.5.PG
+- pkg:maven/com.pig4cloud.plugin/nacos-datasource-plugin-kingbase@0.0.5.PG?classifier=sources

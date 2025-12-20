@@ -1,0 +1,2 @@
+- pkg:maven/org.dflib.jjava/jupyter-jvm-basekernel@1.0-M3
+- pkg:maven/org.dflib.jjava/jupyter-jvm-basekernel@1.0-M3?classifier=sources

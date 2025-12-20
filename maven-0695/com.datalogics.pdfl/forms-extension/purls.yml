@@ -1,2 +1,3 @@
 - pkg:maven/com.datalogics.pdfl/forms-extension@18.37.0?classifier=sources
 - pkg:maven/com.datalogics.pdfl/forms-extension@18.38.0?classifier=sources
+- pkg:maven/com.datalogics.pdfl/forms-extension@18.39.0?classifier=sources

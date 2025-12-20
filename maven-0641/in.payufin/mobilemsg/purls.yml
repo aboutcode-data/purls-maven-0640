@@ -1,0 +1,17 @@
+- pkg:maven/in.payufin/mobilemsg@0.0.1?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.2?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.3?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.4?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_1?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_2?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_3?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_4?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_5?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_6?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_7?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_8?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_9?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_beta?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_delta?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_gamma?classifier=sources

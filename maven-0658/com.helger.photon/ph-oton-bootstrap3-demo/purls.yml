@@ -52,3 +52,5 @@
 - pkg:maven/com.helger.photon/ph-oton-bootstrap3-demo@9.2.1?type=war
 - pkg:maven/com.helger.photon/ph-oton-bootstrap3-demo@9.2.2?classifier=sources
 - pkg:maven/com.helger.photon/ph-oton-bootstrap3-demo@9.2.2?type=war
+- pkg:maven/com.helger.photon/ph-oton-bootstrap3-demo@9.2.3?classifier=sources
+- pkg:maven/com.helger.photon/ph-oton-bootstrap3-demo@9.2.3?type=war

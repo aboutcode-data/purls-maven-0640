@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-nashorn@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-nashorn@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-nashorn@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-nashorn@RELEASE230?classifier=sources

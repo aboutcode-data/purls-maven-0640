@@ -6,3 +6,5 @@
 - pkg:maven/ch.want.funnel/extension-util@3.0.17?classifier=sources
 - pkg:maven/ch.want.funnel/extension-util@3.0.18?classifier=sources
 - pkg:maven/ch.want.funnel/extension-util@3.0.19?classifier=sources
+- pkg:maven/ch.want.funnel/extension-util@3.0.20?classifier=sources
+- pkg:maven/ch.want.funnel/extension-util@3.0.21?classifier=sources

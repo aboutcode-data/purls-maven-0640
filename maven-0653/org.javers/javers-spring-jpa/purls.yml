@@ -288,3 +288,4 @@
 - pkg:maven/org.javers/javers-spring-jpa@7.5.0?classifier=sources
 - pkg:maven/org.javers/javers-spring-jpa@7.6.0?classifier=sources
 - pkg:maven/org.javers/javers-spring-jpa@7.6.1?classifier=sources
+- pkg:maven/org.javers/javers-spring-jpa@7.6.2?classifier=sources

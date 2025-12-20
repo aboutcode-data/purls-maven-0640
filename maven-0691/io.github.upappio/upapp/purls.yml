@@ -1,0 +1,8 @@
+- pkg:maven/io.github.upappio/upapp@3.1.0?classifier=sources
+- pkg:maven/io.github.upappio/upapp@3.2.0?classifier=sources
+- pkg:maven/io.github.upappio/upapp@3.3.0?classifier=sources
+- pkg:maven/io.github.upappio/upapp@3.4.0?classifier=sources
+- pkg:maven/io.github.upappio/upapp@4.1.0?classifier=sources
+- pkg:maven/io.github.upappio/upapp@4.4.0?classifier=sources
+- pkg:maven/io.github.upappio/upapp@4.9.0?classifier=sources
+- pkg:maven/io.github.upappio/upapp@5.1.0?classifier=sources

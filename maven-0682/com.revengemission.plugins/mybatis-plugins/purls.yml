@@ -44,3 +44,5 @@
 - pkg:maven/com.revengemission.plugins/mybatis-plugins@1.7.0?classifier=sources
 - pkg:maven/com.revengemission.plugins/mybatis-plugins@1.8.0
 - pkg:maven/com.revengemission.plugins/mybatis-plugins@1.8.0?classifier=sources
+- pkg:maven/com.revengemission.plugins/mybatis-plugins@2.0.0
+- pkg:maven/com.revengemission.plugins/mybatis-plugins@2.0.0?classifier=sources

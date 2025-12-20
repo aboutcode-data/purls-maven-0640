@@ -107,6 +107,10 @@
 - pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.13?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.14
 - pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.14?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.15
+- pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.15?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.16
+- pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.16?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.2
 - pkg:maven/org.talend.sdk.component/component-server-vault-proxy@1.38.2?classifier=sources

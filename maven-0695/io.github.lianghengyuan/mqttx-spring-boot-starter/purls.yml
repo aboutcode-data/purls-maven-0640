@@ -6,3 +6,5 @@
 - pkg:maven/io.github.lianghengyuan/mqttx-spring-boot-starter@1.2.01?classifier=sources
 - pkg:maven/io.github.lianghengyuan/mqttx-spring-boot-starter@1.2.04?classifier=sources
 - pkg:maven/io.github.lianghengyuan/mqttx-spring-boot-starter@1.2.05?classifier=sources
+- pkg:maven/io.github.lianghengyuan/mqttx-spring-boot-starter@1.2.08?classifier=sources
+- pkg:maven/io.github.lianghengyuan/mqttx-spring-boot-starter@1.2.09?classifier=sources

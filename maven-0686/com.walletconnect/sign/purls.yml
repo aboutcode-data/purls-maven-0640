@@ -36,6 +36,10 @@
 - pkg:maven/com.walletconnect/sign@2.32.0?classifier=sources
 - pkg:maven/com.walletconnect/sign@2.33.0?classifier=sources
 - pkg:maven/com.walletconnect/sign@2.33.1?classifier=sources
+- pkg:maven/com.walletconnect/sign@2.34.0?classifier=sources
+- pkg:maven/com.walletconnect/sign@2.34.1?classifier=sources
+- pkg:maven/com.walletconnect/sign@2.35.0?classifier=sources
+- pkg:maven/com.walletconnect/sign@2.35.1?classifier=sources
 - pkg:maven/com.walletconnect/sign@2.4.0?classifier=sources
 - pkg:maven/com.walletconnect/sign@2.5.0?classifier=sources
 - pkg:maven/com.walletconnect/sign@2.6.0?classifier=sources

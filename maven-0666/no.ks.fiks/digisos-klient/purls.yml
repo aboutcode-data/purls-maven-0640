@@ -30,3 +30,5 @@
 - pkg:maven/no.ks.fiks/digisos-klient@2.0.0?classifier=sources
 - pkg:maven/no.ks.fiks/digisos-klient@3.0.0
 - pkg:maven/no.ks.fiks/digisos-klient@3.0.0?classifier=sources
+- pkg:maven/no.ks.fiks/digisos-klient@3.0.1
+- pkg:maven/no.ks.fiks/digisos-klient@3.0.1?classifier=sources

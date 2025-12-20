@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.activemq/artemis-log-annotation-processor@2.35.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-log-annotation-processor@2.36.0
 - pkg:maven/org.apache.activemq/artemis-log-annotation-processor@2.36.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-log-annotation-processor@2.37.0
+- pkg:maven/org.apache.activemq/artemis-log-annotation-processor@2.37.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.neo4j.gds/miscellaneous-algorithms@2.8.0?classifier=sources
+- pkg:maven/org.neo4j.gds/miscellaneous-algorithms@2.9.0?classifier=sources

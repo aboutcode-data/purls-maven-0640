@@ -46,3 +46,5 @@
 - pkg:maven/cz.gopay/gp-java-api-v3-apache-cxf@3.7.3?classifier=sources
 - pkg:maven/cz.gopay/gp-java-api-v3-apache-cxf@3.7.4
 - pkg:maven/cz.gopay/gp-java-api-v3-apache-cxf@3.7.4?classifier=sources
+- pkg:maven/cz.gopay/gp-java-api-v3-apache-cxf@3.7.5
+- pkg:maven/cz.gopay/gp-java-api-v3-apache-cxf@3.7.5?classifier=sources
