@@ -1,3 +1,4 @@
+- pkg:maven/org.apache.xmlgraphics/fop-sandbox@2.10?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/fop-sandbox@2.4
 - pkg:maven/org.apache.xmlgraphics/fop-sandbox@2.4?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/fop-sandbox@2.5

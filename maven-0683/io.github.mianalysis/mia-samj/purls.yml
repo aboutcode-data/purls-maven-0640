@@ -1,0 +1,8 @@
+- pkg:maven/io.github.mianalysis/mia-samj@1.6.10
+- pkg:maven/io.github.mianalysis/mia-samj@1.6.10?classifier=sources
+- pkg:maven/io.github.mianalysis/mia-samj@1.6.11
+- pkg:maven/io.github.mianalysis/mia-samj@1.6.11?classifier=sources
+- pkg:maven/io.github.mianalysis/mia-samj@1.6.12
+- pkg:maven/io.github.mianalysis/mia-samj@1.6.12?classifier=sources
+- pkg:maven/io.github.mianalysis/mia-samj@1.6.9
+- pkg:maven/io.github.mianalysis/mia-samj@1.6.9?classifier=sources

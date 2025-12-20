@@ -7,3 +7,6 @@
 - pkg:maven/io.github.zhantewei2/utils@3.3.2._38?classifier=sources
 - pkg:maven/io.github.zhantewei2/utils@3.3.2._39?classifier=sources
 - pkg:maven/io.github.zhantewei2/utils@3.3.2._40?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@3.3.2._41?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@3.3.2._42?classifier=sources
+- pkg:maven/io.github.zhantewei2/utils@3.3.2._43?classifier=sources

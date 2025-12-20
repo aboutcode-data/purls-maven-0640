@@ -50,3 +50,5 @@
 - pkg:maven/org.cojen/cojen-maker@2.5.8?classifier=sources
 - pkg:maven/org.cojen/cojen-maker@2.5.9
 - pkg:maven/org.cojen/cojen-maker@2.5.9?classifier=sources
+- pkg:maven/org.cojen/cojen-maker@2.6.0
+- pkg:maven/org.cojen/cojen-maker@2.6.0?classifier=sources

@@ -12,6 +12,8 @@
 - pkg:maven/org.microbean/microbean-lang@0.0.19?classifier=sources
 - pkg:maven/org.microbean/microbean-lang@0.0.20
 - pkg:maven/org.microbean/microbean-lang@0.0.20?classifier=sources
+- pkg:maven/org.microbean/microbean-lang@0.0.21
+- pkg:maven/org.microbean/microbean-lang@0.0.21?classifier=sources
 - pkg:maven/org.microbean/microbean-lang@0.0.7
 - pkg:maven/org.microbean/microbean-lang@0.0.7?classifier=sources
 - pkg:maven/org.microbean/microbean-lang@0.0.8

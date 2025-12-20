@@ -30,3 +30,4 @@
 - pkg:maven/com.rollbar/rollbar-api@1.8.0?classifier=sources
 - pkg:maven/com.rollbar/rollbar-api@1.8.1?classifier=sources
 - pkg:maven/com.rollbar/rollbar-api@1.9.0?classifier=sources
+- pkg:maven/com.rollbar/rollbar-api@2.0.0-alpha.1?classifier=sources

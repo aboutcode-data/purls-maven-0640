@@ -3,6 +3,10 @@
 - pkg:maven/in.payufin/mobilemsg@0.0.3?classifier=sources
 - pkg:maven/in.payufin/mobilemsg@0.0.4?classifier=sources
 - pkg:maven/in.payufin/mobilemsg@0.0.5_alpha?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_10?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_11?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_12?classifier=sources
+- pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_13?classifier=sources
 - pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_1?classifier=sources
 - pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_2?classifier=sources
 - pkg:maven/in.payufin/mobilemsg@0.0.5_alpha_3?classifier=sources

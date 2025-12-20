@@ -6,3 +6,5 @@
 - pkg:maven/net.hamnaberg/dataclass-scalafix_2.13@0.1.0-M3
 - pkg:maven/net.hamnaberg/dataclass-scalafix_2.13@0.1.0-M3?classifier=sources
 - pkg:maven/net.hamnaberg/dataclass-scalafix_2.13@0.1.0?classifier=sources
+- pkg:maven/net.hamnaberg/dataclass-scalafix_2.13@0.2.0
+- pkg:maven/net.hamnaberg/dataclass-scalafix_2.13@0.2.0?classifier=sources

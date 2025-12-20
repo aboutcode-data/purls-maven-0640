@@ -75,6 +75,12 @@
 - pkg:maven/com.gu.identity/identity-model-play_2.13@4.33?classifier=sources
 - pkg:maven/com.gu.identity/identity-model-play_2.13@4.34
 - pkg:maven/com.gu.identity/identity-model-play_2.13@4.34?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.35
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.35.0-PREVIEW.kcrelease.2024-10-11T1529.2dd6c209
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.35.0-PREVIEW.kcrelease.2024-10-11T1529.2dd6c209?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.35?classifier=sources
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.36
+- pkg:maven/com.gu.identity/identity-model-play_2.13@4.36?classifier=sources
 - pkg:maven/com.gu.identity/identity-model-play_2.13@4.3?classifier=sources
 - pkg:maven/com.gu.identity/identity-model-play_2.13@4.4
 - pkg:maven/com.gu.identity/identity-model-play_2.13@4.4?classifier=sources

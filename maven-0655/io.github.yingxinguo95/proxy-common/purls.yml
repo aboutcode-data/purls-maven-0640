@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yingxinguo95/proxy-common@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.yingxinguo95/proxy-common@0.0.1?classifier=sources

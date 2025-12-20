@@ -1,1 +1,2 @@
 - pkg:maven/io.github.astrapi69/spring-boot-extensions@1.4?classifier=sources
+- pkg:maven/io.github.astrapi69/spring-boot-extensions@2.0?classifier=sources

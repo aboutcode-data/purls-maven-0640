@@ -204,3 +204,11 @@
 - pkg:maven/io.trino/trino-testing-services@459?classifier=sources
 - pkg:maven/io.trino/trino-testing-services@460
 - pkg:maven/io.trino/trino-testing-services@460?classifier=sources
+- pkg:maven/io.trino/trino-testing-services@461
+- pkg:maven/io.trino/trino-testing-services@461?classifier=sources
+- pkg:maven/io.trino/trino-testing-services@462
+- pkg:maven/io.trino/trino-testing-services@462?classifier=sources
+- pkg:maven/io.trino/trino-testing-services@463
+- pkg:maven/io.trino/trino-testing-services@463?classifier=sources
+- pkg:maven/io.trino/trino-testing-services@464
+- pkg:maven/io.trino/trino-testing-services@464?classifier=sources

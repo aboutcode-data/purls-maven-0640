@@ -42,3 +42,5 @@
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20240207
 - pkg:maven/net.thisptr/jackson-jq@1.0.0-preview.20240207?classifier=sources
 - pkg:maven/net.thisptr/jackson-jq@1.0.0?classifier=sources
+- pkg:maven/net.thisptr/jackson-jq@1.0.1
+- pkg:maven/net.thisptr/jackson-jq@1.0.1?classifier=sources

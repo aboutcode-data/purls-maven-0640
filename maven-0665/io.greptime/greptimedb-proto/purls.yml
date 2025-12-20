@@ -8,3 +8,5 @@
 - pkg:maven/io.greptime/greptimedb-proto@0.4.3?classifier=sources
 - pkg:maven/io.greptime/greptimedb-proto@0.7.0
 - pkg:maven/io.greptime/greptimedb-proto@0.7.0?classifier=sources
+- pkg:maven/io.greptime/greptimedb-proto@0.9.0
+- pkg:maven/io.greptime/greptimedb-proto@0.9.0?classifier=sources

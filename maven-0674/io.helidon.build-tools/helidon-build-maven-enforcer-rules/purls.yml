@@ -1,7 +1,11 @@
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@2.3.8
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@2.3.8?classifier=sources
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@3.0.10
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@3.0.10?classifier=sources
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@3.0.8
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@3.0.8?classifier=sources
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@3.0.9
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@3.0.9?classifier=sources
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.0
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.0-M2
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.0-M2?classifier=sources
@@ -13,6 +17,10 @@
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.11?classifier=sources
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.12
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.12?classifier=sources
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.13
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.13?classifier=sources
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.14
+- pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.14?classifier=sources
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.1?classifier=sources
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.2
 - pkg:maven/io.helidon.build-tools/helidon-build-maven-enforcer-rules@4.0.2?classifier=sources

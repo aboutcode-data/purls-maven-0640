@@ -1,3 +1,9 @@
+- pkg:maven/dev.ikm.jpms/hapi-fhir-base@7.0.2-r10
+- pkg:maven/dev.ikm.jpms/hapi-fhir-base@7.0.2-r10?classifier=sources
+- pkg:maven/dev.ikm.jpms/hapi-fhir-base@7.0.2-r11
+- pkg:maven/dev.ikm.jpms/hapi-fhir-base@7.0.2-r11?classifier=sources
+- pkg:maven/dev.ikm.jpms/hapi-fhir-base@7.0.2-r12
+- pkg:maven/dev.ikm.jpms/hapi-fhir-base@7.0.2-r12?classifier=sources
 - pkg:maven/dev.ikm.jpms/hapi-fhir-base@7.0.2-r6
 - pkg:maven/dev.ikm.jpms/hapi-fhir-base@7.0.2-r6?classifier=sources
 - pkg:maven/dev.ikm.jpms/hapi-fhir-base@7.0.2-r7

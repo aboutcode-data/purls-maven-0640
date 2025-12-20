@@ -116,6 +116,12 @@
 - pkg:maven/bio.ferlab/datalake-lib_2.12@14.8.0?classifier=sources
 - pkg:maven/bio.ferlab/datalake-lib_2.12@14.9.0
 - pkg:maven/bio.ferlab/datalake-lib_2.12@14.9.0?classifier=sources
+- pkg:maven/bio.ferlab/datalake-lib_2.12@14.9.1
+- pkg:maven/bio.ferlab/datalake-lib_2.12@14.9.1?classifier=sources
+- pkg:maven/bio.ferlab/datalake-lib_2.12@14.9.2
+- pkg:maven/bio.ferlab/datalake-lib_2.12@14.9.2?classifier=sources
+- pkg:maven/bio.ferlab/datalake-lib_2.12@14.9.3
+- pkg:maven/bio.ferlab/datalake-lib_2.12@14.9.3?classifier=sources
 - pkg:maven/bio.ferlab/datalake-lib_2.12@2.0.0
 - pkg:maven/bio.ferlab/datalake-lib_2.12@2.0.0?classifier=sources
 - pkg:maven/bio.ferlab/datalake-lib_2.12@3.0.0

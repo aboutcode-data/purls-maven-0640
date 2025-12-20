@@ -1,0 +1,2 @@
+- pkg:maven/de.svws-nrw/svws-transpile@0.9.4?classifier=sources
+- pkg:maven/de.svws-nrw/svws-transpile@1.0.0?classifier=sources

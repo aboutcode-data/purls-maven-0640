@@ -47,6 +47,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@33.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@33.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@34.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@35.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/reporter-command@5.1.0?classifier=sources

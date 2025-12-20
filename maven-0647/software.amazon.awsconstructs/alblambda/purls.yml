@@ -270,6 +270,12 @@
 - pkg:maven/software.amazon.awsconstructs/alblambda@2.70.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/alblambda@2.71.0
 - pkg:maven/software.amazon.awsconstructs/alblambda@2.71.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/alblambda@2.72.0
+- pkg:maven/software.amazon.awsconstructs/alblambda@2.72.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/alblambda@2.73.0
+- pkg:maven/software.amazon.awsconstructs/alblambda@2.73.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/alblambda@2.74.0
+- pkg:maven/software.amazon.awsconstructs/alblambda@2.74.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/alblambda@2.8.0
 - pkg:maven/software.amazon.awsconstructs/alblambda@2.8.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/alblambda@2.9.0

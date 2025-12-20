@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hawkbit/hawkbit-sdk-dmf@0.6.1
+- pkg:maven/org.eclipse.hawkbit/hawkbit-sdk-dmf@0.6.1?classifier=sources

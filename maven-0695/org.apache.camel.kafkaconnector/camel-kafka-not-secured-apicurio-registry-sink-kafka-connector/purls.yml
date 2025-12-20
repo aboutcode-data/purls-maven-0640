@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-not-secured-apicurio-registry-sink-kafka-connector@4.8.0?classifier=sources

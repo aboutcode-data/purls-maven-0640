@@ -6,3 +6,5 @@
 - pkg:maven/com.github.dabasan/mechtatel-logging@0.0.1-alpha2?classifier=sources
 - pkg:maven/com.github.dabasan/mechtatel-logging@0.0.1-alpha3
 - pkg:maven/com.github.dabasan/mechtatel-logging@0.0.1-alpha3?classifier=sources
+- pkg:maven/com.github.dabasan/mechtatel-logging@0.0.1-alpha4
+- pkg:maven/com.github.dabasan/mechtatel-logging@0.0.1-alpha4?classifier=sources

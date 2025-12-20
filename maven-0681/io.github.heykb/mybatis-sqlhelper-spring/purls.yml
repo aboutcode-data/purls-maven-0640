@@ -1,0 +1,2 @@
+- pkg:maven/io.github.heykb/mybatis-sqlhelper-spring@3.0.0.SR2
+- pkg:maven/io.github.heykb/mybatis-sqlhelper-spring@3.0.0.SR2?classifier=sources

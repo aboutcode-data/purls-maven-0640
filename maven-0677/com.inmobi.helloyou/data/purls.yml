@@ -36,3 +36,4 @@
 - pkg:maven/com.inmobi.helloyou/data@8.1.4?type=aar
 - pkg:maven/com.inmobi.helloyou/data@8.1.5?type=aar
 - pkg:maven/com.inmobi.helloyou/data@9.0.0?type=aar
+- pkg:maven/com.inmobi.helloyou/data@9.0.1?type=aar

@@ -22,3 +22,4 @@
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.1.0
 - pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.shardingsphere/quarkus-shardingsphere-jdbc@2.2.0?classifier=sources

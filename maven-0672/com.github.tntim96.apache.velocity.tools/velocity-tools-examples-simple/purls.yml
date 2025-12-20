@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tntim96.apache.velocity.tools/velocity-tools-examples-simple@3.4.0.0?classifier=sources
+- pkg:maven/com.github.tntim96.apache.velocity.tools/velocity-tools-examples-simple@3.4.0.0?type=war

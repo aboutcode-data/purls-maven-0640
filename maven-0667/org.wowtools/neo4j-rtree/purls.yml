@@ -22,3 +22,5 @@
 - pkg:maven/org.wowtools/neo4j-rtree@2.0.2?classifier=sources
 - pkg:maven/org.wowtools/neo4j-rtree@2.1.0
 - pkg:maven/org.wowtools/neo4j-rtree@2.1.0?classifier=sources
+- pkg:maven/org.wowtools/neo4j-rtree@neo4j5-2.2.0?classifier=sources
+- pkg:maven/org.wowtools/neo4j-rtree@neo4j5-2.3.0?classifier=sources

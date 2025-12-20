@@ -1,1 +1,2 @@
 - pkg:maven/io.github.alexop-a/cuke-report-converter@1.0.0?classifier=sources
+- pkg:maven/io.github.alexop-a/cuke-report-converter@1.0.1?classifier=sources

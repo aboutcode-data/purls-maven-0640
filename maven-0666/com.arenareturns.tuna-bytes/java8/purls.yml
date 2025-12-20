@@ -1,0 +1,3 @@
+- pkg:maven/com.arenareturns.tuna-bytes/java8@1.7.6?classifier=sources
+- pkg:maven/com.arenareturns.tuna-bytes/java8@1.7.7?classifier=sources
+- pkg:maven/com.arenareturns.tuna-bytes/java8@1.7.8?classifier=sources

@@ -36,6 +36,10 @@
 - pkg:maven/io.mats3/mats-spring@RC-0.19.20-RC0-2024-10-03?classifier=sources
 - pkg:maven/io.mats3/mats-spring@RC-0.19.20-RC1-2024-10-04?classifier=sources
 - pkg:maven/io.mats3/mats-spring@RC-0.19.20-RC2-2024-10-06?classifier=sources
+- pkg:maven/io.mats3/mats-spring@RC-0.19.20-RC3-2024-10-14?classifier=sources
+- pkg:maven/io.mats3/mats-spring@RC-0.19.20-RC4-2024-10-18?classifier=sources
+- pkg:maven/io.mats3/mats-spring@RC-0.19.20-RC5-2024-10-21?classifier=sources
+- pkg:maven/io.mats3/mats-spring@RC-0.19.20-RC6-2024-10-24?classifier=sources
 - pkg:maven/io.mats3/mats-spring@RC0-0.18.5-2022-02-22?classifier=sources
 - pkg:maven/io.mats3/mats-spring@RC0-0.19.0-2022-11-04?classifier=sources
 - pkg:maven/io.mats3/mats-spring@RC0-0.19.12-2023-10-27?classifier=sources

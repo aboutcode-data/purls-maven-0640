@@ -4,6 +4,10 @@
 - pkg:maven/com.github.gv2011/util-apis@0.11?classifier=sources
 - pkg:maven/com.github.gv2011/util-apis@0.12
 - pkg:maven/com.github.gv2011/util-apis@0.12?classifier=sources
+- pkg:maven/com.github.gv2011/util-apis@0.13
+- pkg:maven/com.github.gv2011/util-apis@0.13?classifier=sources
+- pkg:maven/com.github.gv2011/util-apis@0.14
+- pkg:maven/com.github.gv2011/util-apis@0.14?classifier=sources
 - pkg:maven/com.github.gv2011/util-apis@0.5.7
 - pkg:maven/com.github.gv2011/util-apis@0.5.7?classifier=sources
 - pkg:maven/com.github.gv2011/util-apis@0.6

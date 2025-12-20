@@ -1,0 +1,2 @@
+- pkg:maven/org.locationtech.geomesa/geomesa-metrics-micrometer_2.13@5.1.0
+- pkg:maven/org.locationtech.geomesa/geomesa-metrics-micrometer_2.13@5.1.0?classifier=sources

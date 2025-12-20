@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stridermc.strider/striderimplhelper@1
+- pkg:maven/io.github.stridermc.strider/striderimplhelper@1?classifier=sources

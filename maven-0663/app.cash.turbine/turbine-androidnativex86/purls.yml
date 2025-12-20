@@ -1,3 +1,4 @@
 - pkg:maven/app.cash.turbine/turbine-androidnativex86@0.13.0?classifier=sources
 - pkg:maven/app.cash.turbine/turbine-androidnativex86@1.0.0?classifier=sources
 - pkg:maven/app.cash.turbine/turbine-androidnativex86@1.1.0?classifier=sources
+- pkg:maven/app.cash.turbine/turbine-androidnativex86@1.2.0?classifier=sources

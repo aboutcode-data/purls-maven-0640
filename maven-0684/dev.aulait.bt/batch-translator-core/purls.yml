@@ -1,1 +1,2 @@
 - pkg:maven/dev.aulait.bt/batch-translator-core@1.0.0?classifier=sources
+- pkg:maven/dev.aulait.bt/batch-translator-core@1.1?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/software.amazon.smithy/smithy-smoke-test-traits@1.49.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-smoke-test-traits@1.50.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-smoke-test-traits@1.51.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-smoke-test-traits@1.52.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-smoke-test-traits@1.52.1?classifier=sources

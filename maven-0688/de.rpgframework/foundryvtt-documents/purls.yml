@@ -1,2 +1,4 @@
 - pkg:maven/de.rpgframework/foundryvtt-documents@9.249
 - pkg:maven/de.rpgframework/foundryvtt-documents@9.249?classifier=sources
+- pkg:maven/de.rpgframework/foundryvtt-documents@9.250
+- pkg:maven/de.rpgframework/foundryvtt-documents@9.250?classifier=sources

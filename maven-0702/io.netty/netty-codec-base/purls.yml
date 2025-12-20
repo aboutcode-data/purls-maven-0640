@@ -1,0 +1,2 @@
+- pkg:maven/io.netty/netty-codec-base@4.2.0.Alpha5
+- pkg:maven/io.netty/netty-codec-base@4.2.0.Alpha5?classifier=sources

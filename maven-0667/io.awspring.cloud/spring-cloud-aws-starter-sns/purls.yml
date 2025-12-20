@@ -13,3 +13,4 @@
 - pkg:maven/io.awspring.cloud/spring-cloud-aws-starter-sns@3.1.1
 - pkg:maven/io.awspring.cloud/spring-cloud-aws-starter-sns@3.2.0
 - pkg:maven/io.awspring.cloud/spring-cloud-aws-starter-sns@3.2.0-M1
+- pkg:maven/io.awspring.cloud/spring-cloud-aws-starter-sns@3.2.1

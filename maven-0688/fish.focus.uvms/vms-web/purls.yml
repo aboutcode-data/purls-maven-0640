@@ -1,3 +1,4 @@
 - pkg:maven/fish.focus.uvms/vms-web@1.1.35?type=war
 - pkg:maven/fish.focus.uvms/vms-web@1.1.36?type=war
 - pkg:maven/fish.focus.uvms/vms-web@1.1.37?type=war
+- pkg:maven/fish.focus.uvms/vms-web@1.2.0?type=war

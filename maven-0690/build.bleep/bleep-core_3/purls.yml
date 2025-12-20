@@ -68,3 +68,5 @@
 - pkg:maven/build.bleep/bleep-core_3@0.0.7?classifier=sources
 - pkg:maven/build.bleep/bleep-core_3@0.0.8
 - pkg:maven/build.bleep/bleep-core_3@0.0.8?classifier=sources
+- pkg:maven/build.bleep/bleep-core_3@0.0.9
+- pkg:maven/build.bleep/bleep-core_3@0.0.9?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/net.kieker-monitoring/common@2.0.0?classifier=sources
+- pkg:maven/net.kieker-monitoring/common@2.0.1?classifier=sources

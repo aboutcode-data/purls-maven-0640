@@ -1,0 +1,2 @@
+- pkg:maven/io.boltic/analytics@4.11.7?classifier=sources
+- pkg:maven/io.boltic/analytics@4.11.8?classifier=sources

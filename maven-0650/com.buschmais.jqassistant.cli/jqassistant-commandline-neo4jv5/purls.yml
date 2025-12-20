@@ -21,6 +21,10 @@
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.4.0-M2
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.4.0-M3
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.4.0-RC1
+- pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.5.0
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.5.0-M1
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.5.0-RC1
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.5.0-RC2
+- pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.5.0-RC3
+- pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.5.0-RC3?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.5.0?classifier=sources

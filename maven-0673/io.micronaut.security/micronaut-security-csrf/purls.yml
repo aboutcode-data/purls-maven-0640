@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.security/micronaut-security-csrf@4.11.0?classifier=sources

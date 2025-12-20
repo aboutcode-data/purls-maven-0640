@@ -42,3 +42,5 @@
 - pkg:maven/io.scalecube/scalecube-security-tokens@1.0.31?classifier=sources
 - pkg:maven/io.scalecube/scalecube-security-tokens@1.0.32
 - pkg:maven/io.scalecube/scalecube-security-tokens@1.0.32?classifier=sources
+- pkg:maven/io.scalecube/scalecube-security-tokens@1.0.33.rc1
+- pkg:maven/io.scalecube/scalecube-security-tokens@1.0.33.rc1?classifier=sources

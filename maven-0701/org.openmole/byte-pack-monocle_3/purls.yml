@@ -1,4 +1,8 @@
+- pkg:maven/org.openmole/byte-pack-monocle_3@0.10
+- pkg:maven/org.openmole/byte-pack-monocle_3@0.10?classifier=sources
 - pkg:maven/org.openmole/byte-pack-monocle_3@0.7
 - pkg:maven/org.openmole/byte-pack-monocle_3@0.7?classifier=sources
 - pkg:maven/org.openmole/byte-pack-monocle_3@0.8
 - pkg:maven/org.openmole/byte-pack-monocle_3@0.8?classifier=sources
+- pkg:maven/org.openmole/byte-pack-monocle_3@0.9
+- pkg:maven/org.openmole/byte-pack-monocle_3@0.9?classifier=sources
