@@ -1,0 +1,2 @@
+- pkg:maven/dev.capslock/rss4s_3@0.0.1
+- pkg:maven/dev.capslock/rss4s_3@0.0.1?classifier=sources

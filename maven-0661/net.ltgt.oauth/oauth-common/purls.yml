@@ -1,0 +1,2 @@
+- pkg:maven/net.ltgt.oauth/oauth-common@1.0.0-rc-2?classifier=sources
+- pkg:maven/net.ltgt.oauth/oauth-common@1.0.0-rc-3?classifier=sources

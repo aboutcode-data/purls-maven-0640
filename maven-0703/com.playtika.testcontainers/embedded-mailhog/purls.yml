@@ -1,5 +1,7 @@
 - pkg:maven/com.playtika.testcontainers/embedded-mailhog@3.1.10
 - pkg:maven/com.playtika.testcontainers/embedded-mailhog@3.1.10?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-mailhog@3.1.11
+- pkg:maven/com.playtika.testcontainers/embedded-mailhog@3.1.11?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-mailhog@3.1.2
 - pkg:maven/com.playtika.testcontainers/embedded-mailhog@3.1.2?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-mailhog@3.1.3

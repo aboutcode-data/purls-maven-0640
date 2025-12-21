@@ -54,3 +54,5 @@
 - pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.70?type=aar
 - pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.71-beta?classifier=sources
 - pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.71-beta?type=aar
+- pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.71?classifier=sources
+- pkg:maven/com.qcloud.cos/qcloud-foundation@1.5.71?type=aar

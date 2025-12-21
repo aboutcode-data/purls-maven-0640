@@ -13,6 +13,7 @@
 - pkg:maven/org.finos.timebase-ce/timebase-s3@6.1.25?classifier=sources
 - pkg:maven/org.finos.timebase-ce/timebase-s3@6.1.6?classifier=sources
 - pkg:maven/org.finos.timebase-ce/timebase-s3@6.1.8?classifier=sources
+- pkg:maven/org.finos.timebase-ce/timebase-s3@6.2.10?classifier=sources
 - pkg:maven/org.finos.timebase-ce/timebase-s3@6.2.3?classifier=sources
 - pkg:maven/org.finos.timebase-ce/timebase-s3@6.2.4?classifier=sources
 - pkg:maven/org.finos.timebase-ce/timebase-s3@6.2.6?classifier=sources

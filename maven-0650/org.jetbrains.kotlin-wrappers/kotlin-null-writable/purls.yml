@@ -62,6 +62,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.1.9-2.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.0-2.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.1-2.0.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.10-2.0.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.11-2.0.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.12-2.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.2-2.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.3-2.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.4-2.0.1?classifier=sources
@@ -69,3 +72,5 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.6-2.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.7-2.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.8-2.0.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.2.9-2.0.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable@2025.3.0-2.0.1?classifier=sources

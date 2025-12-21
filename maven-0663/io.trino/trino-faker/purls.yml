@@ -3,3 +3,6 @@
 - pkg:maven/io.trino/trino-faker@466?classifier=sources
 - pkg:maven/io.trino/trino-faker@467?classifier=sources
 - pkg:maven/io.trino/trino-faker@468?classifier=sources
+- pkg:maven/io.trino/trino-faker@469?classifier=sources
+- pkg:maven/io.trino/trino-faker@470?classifier=sources
+- pkg:maven/io.trino/trino-faker@471?classifier=sources

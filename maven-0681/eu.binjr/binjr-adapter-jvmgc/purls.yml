@@ -1,0 +1,2 @@
+- pkg:maven/eu.binjr/binjr-adapter-jvmgc@3.21.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-jvmgc@3.21.1?classifier=sources

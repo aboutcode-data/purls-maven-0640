@@ -333,6 +333,8 @@
 - pkg:maven/org.openrewrite/rewrite-maven@8.46.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-maven@8.46.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-maven@8.47.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-maven@8.47.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-maven@8.47.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-maven@8.5.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-maven@8.5.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-maven@8.5.2?classifier=sources

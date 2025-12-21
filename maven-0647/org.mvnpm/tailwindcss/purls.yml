@@ -18,3 +18,4 @@
 - pkg:maven/org.mvnpm/tailwindcss@4.0.4?classifier=sources
 - pkg:maven/org.mvnpm/tailwindcss@4.0.5?classifier=sources
 - pkg:maven/org.mvnpm/tailwindcss@4.0.6?classifier=sources
+- pkg:maven/org.mvnpm/tailwindcss@4.0.9?classifier=sources

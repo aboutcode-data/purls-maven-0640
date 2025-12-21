@@ -8,3 +8,4 @@
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey3-jakarta10@0.42.51?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey3-jakarta10@0.42.52?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey3-jakarta10@0.42.53?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-data-protobuf-jersey3-jakarta10@0.42.54?classifier=sources

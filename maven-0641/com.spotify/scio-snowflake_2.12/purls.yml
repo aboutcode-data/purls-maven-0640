@@ -1,2 +1,8 @@
 - pkg:maven/com.spotify/scio-snowflake_2.12@0.14.10
 - pkg:maven/com.spotify/scio-snowflake_2.12@0.14.10?classifier=sources
+- pkg:maven/com.spotify/scio-snowflake_2.12@0.14.11
+- pkg:maven/com.spotify/scio-snowflake_2.12@0.14.11?classifier=sources
+- pkg:maven/com.spotify/scio-snowflake_2.12@0.14.12
+- pkg:maven/com.spotify/scio-snowflake_2.12@0.14.12?classifier=sources
+- pkg:maven/com.spotify/scio-snowflake_2.12@0.14.13
+- pkg:maven/com.spotify/scio-snowflake_2.12@0.14.13?classifier=sources

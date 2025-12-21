@@ -24,3 +24,5 @@
 - pkg:maven/com.googlecode.cmake-maven-project/cmake-common@3.29.3-b2?classifier=sources
 - pkg:maven/com.googlecode.cmake-maven-project/cmake-common@3.30.2-b1
 - pkg:maven/com.googlecode.cmake-maven-project/cmake-common@3.30.2-b1?classifier=sources
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-common@3.31.5-b1
+- pkg:maven/com.googlecode.cmake-maven-project/cmake-common@3.31.5-b1?classifier=sources

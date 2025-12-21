@@ -58,3 +58,5 @@
 - pkg:maven/com.intuit.quickbooks-online/payments-api@6.4.2?classifier=sources
 - pkg:maven/com.intuit.quickbooks-online/payments-api@6.5.0
 - pkg:maven/com.intuit.quickbooks-online/payments-api@6.5.0?classifier=sources
+- pkg:maven/com.intuit.quickbooks-online/payments-api@6.6.0
+- pkg:maven/com.intuit.quickbooks-online/payments-api@6.6.0?classifier=sources

@@ -60,3 +60,7 @@
 - pkg:maven/com.cognitect.aws/mediatailor@868.2.1599.0?classifier=sources
 - pkg:maven/com.cognitect.aws/mediatailor@871.2.29.35
 - pkg:maven/com.cognitect.aws/mediatailor@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/mediatailor@871.2.30.11
+- pkg:maven/com.cognitect.aws/mediatailor@871.2.30.11?classifier=sources
+- pkg:maven/com.cognitect.aws/mediatailor@871.2.30.22
+- pkg:maven/com.cognitect.aws/mediatailor@871.2.30.22?classifier=sources

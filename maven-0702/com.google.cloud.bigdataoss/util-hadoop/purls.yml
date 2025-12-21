@@ -144,6 +144,8 @@
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.3?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.4
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.4?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.5
+- pkg:maven/com.google.cloud.bigdataoss/util-hadoop@3.0.5?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop1-1.9.10
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop1-1.9.10?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/util-hadoop@hadoop1-1.9.11

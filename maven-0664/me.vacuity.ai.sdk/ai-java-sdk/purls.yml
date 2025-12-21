@@ -22,6 +22,12 @@
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.18?classifier=sources
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.19?classifier=sources
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.1?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.20?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.21?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.22?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.23?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.24?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.25?classifier=sources
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.2?classifier=sources
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.3?classifier=sources
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.4?classifier=sources
@@ -30,3 +36,7 @@
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.7?classifier=sources
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.8?classifier=sources
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.7.9?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.0?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.1?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.2?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.3?classifier=sources

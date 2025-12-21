@@ -274,6 +274,8 @@
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.205?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.206?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.207?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.service@1.0.208?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.service@1.0.209?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.object.service@1.0.21

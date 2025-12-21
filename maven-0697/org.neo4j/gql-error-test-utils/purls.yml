@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j/gql-error-test-utils@2025.02.0
+- pkg:maven/org.neo4j/gql-error-test-utils@2025.02.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-autoconfigure-compatible@3.3.3
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-autoconfigure-compatible@3.3.3?classifier=sources

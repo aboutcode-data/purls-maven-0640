@@ -26,3 +26,4 @@
 - pkg:maven/com.liferay/com.liferay.change.tracking.rest.api@4.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.rest.api@4.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.change.tracking.rest.api@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.change.tracking.rest.api@5.0.1?classifier=sources

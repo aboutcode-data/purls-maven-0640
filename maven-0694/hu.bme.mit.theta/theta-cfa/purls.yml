@@ -21,6 +21,8 @@
 - pkg:maven/hu.bme.mit.theta/theta-cfa@5.4.0?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-cfa@6.0.0?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-cfa@6.1.0?classifier=sources
+- pkg:maven/hu.bme.mit.theta/theta-cfa@6.11.2?classifier=sources
+- pkg:maven/hu.bme.mit.theta/theta-cfa@6.11.3?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-cfa@6.2.0?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-cfa@6.3.3?classifier=sources
 - pkg:maven/hu.bme.mit.theta/theta-cfa@6.3.4?classifier=sources

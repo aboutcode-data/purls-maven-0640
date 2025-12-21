@@ -73,6 +73,9 @@
 - pkg:maven/com.knotapi.cardonfileswitcher/knotapi-android-sdk@1.0.77?classifier=sources
 - pkg:maven/com.knotapi.cardonfileswitcher/knotapi-android-sdk@1.0.78?classifier=sources
 - pkg:maven/com.knotapi.cardonfileswitcher/knotapi-android-sdk@1.0.7?classifier=sources
+- pkg:maven/com.knotapi.cardonfileswitcher/knotapi-android-sdk@1.0.80?classifier=sources
+- pkg:maven/com.knotapi.cardonfileswitcher/knotapi-android-sdk@1.0.81?classifier=sources
+- pkg:maven/com.knotapi.cardonfileswitcher/knotapi-android-sdk@1.0.82?classifier=sources
 - pkg:maven/com.knotapi.cardonfileswitcher/knotapi-android-sdk@1.0.8?classifier=sources
 - pkg:maven/com.knotapi.cardonfileswitcher/knotapi-android-sdk@1.0.9?classifier=sources
 - pkg:maven/com.knotapi.cardonfileswitcher/knotapi-android-sdk@pre-release-1.0.27?classifier=sources

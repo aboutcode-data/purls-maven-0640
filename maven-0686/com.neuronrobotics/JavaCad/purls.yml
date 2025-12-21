@@ -106,4 +106,7 @@
 - pkg:maven/com.neuronrobotics/JavaCad@2.2.0?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@2.3.0?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@2.3.1?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@2.4.0?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@2.4.1?classifier=sources
+- pkg:maven/com.neuronrobotics/JavaCad@2.5.0?classifier=sources
 - pkg:maven/com.neuronrobotics/JavaCad@source?classifier=sources

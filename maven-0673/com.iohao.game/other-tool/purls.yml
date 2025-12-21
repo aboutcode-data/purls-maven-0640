@@ -95,6 +95,8 @@
 - pkg:maven/com.iohao.game/other-tool@21.22?classifier=sources
 - pkg:maven/com.iohao.game/other-tool@21.23
 - pkg:maven/com.iohao.game/other-tool@21.23?classifier=sources
+- pkg:maven/com.iohao.game/other-tool@21.24
+- pkg:maven/com.iohao.game/other-tool@21.24?classifier=sources
 - pkg:maven/com.iohao.game/other-tool@21.2?classifier=sources
 - pkg:maven/com.iohao.game/other-tool@21.3
 - pkg:maven/com.iohao.game/other-tool@21.3?classifier=sources

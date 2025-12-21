@@ -27,6 +27,7 @@
 - pkg:maven/io.tekniq/tekniq-rest@0.19.6?classifier=sources
 - pkg:maven/io.tekniq/tekniq-rest@0.2
 - pkg:maven/io.tekniq/tekniq-rest@0.20.0?classifier=sources
+- pkg:maven/io.tekniq/tekniq-rest@0.21.0?classifier=sources
 - pkg:maven/io.tekniq/tekniq-rest@0.2?classifier=sources
 - pkg:maven/io.tekniq/tekniq-rest@0.3
 - pkg:maven/io.tekniq/tekniq-rest@0.3.1

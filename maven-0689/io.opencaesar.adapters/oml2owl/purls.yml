@@ -31,6 +31,8 @@
 - pkg:maven/io.opencaesar.adapters/oml2owl@2.10.1?classifier=sources
 - pkg:maven/io.opencaesar.adapters/oml2owl@2.10.2?classifier=sources
 - pkg:maven/io.opencaesar.adapters/oml2owl@2.11.0?classifier=sources
+- pkg:maven/io.opencaesar.adapters/oml2owl@2.11.1?classifier=sources
+- pkg:maven/io.opencaesar.adapters/oml2owl@2.11.2?classifier=sources
 - pkg:maven/io.opencaesar.adapters/oml2owl@2.2.0?classifier=sources
 - pkg:maven/io.opencaesar.adapters/oml2owl@2.3.0?classifier=sources
 - pkg:maven/io.opencaesar.adapters/oml2owl@2.5.0?classifier=sources

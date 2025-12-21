@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mojoqqq/weather-sdk@1.0.0?classifier=sources
+- pkg:maven/io.github.mojoqqq/weather-sdk@2.0.0?classifier=sources

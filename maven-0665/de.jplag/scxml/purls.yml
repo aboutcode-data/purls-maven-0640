@@ -2,3 +2,5 @@
 - pkg:maven/de.jplag/scxml@5.0.0?classifier=sources
 - pkg:maven/de.jplag/scxml@5.1.0
 - pkg:maven/de.jplag/scxml@5.1.0?classifier=sources
+- pkg:maven/de.jplag/scxml@6.0.0
+- pkg:maven/de.jplag/scxml@6.0.0?classifier=sources

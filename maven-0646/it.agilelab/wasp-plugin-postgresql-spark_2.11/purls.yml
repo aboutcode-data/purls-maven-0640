@@ -1,0 +1,4 @@
+- pkg:maven/it.agilelab/wasp-plugin-postgresql-spark_2.11@2.36.0
+- pkg:maven/it.agilelab/wasp-plugin-postgresql-spark_2.11@2.36.0-cdp719
+- pkg:maven/it.agilelab/wasp-plugin-postgresql-spark_2.11@2.36.0-cdp719?classifier=sources
+- pkg:maven/it.agilelab/wasp-plugin-postgresql-spark_2.11@2.36.0?classifier=sources

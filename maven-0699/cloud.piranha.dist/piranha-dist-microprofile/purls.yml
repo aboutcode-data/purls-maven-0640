@@ -52,3 +52,5 @@
 - pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@24.9.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@25.1.0
 - pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@25.1.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@25.2.0
+- pkg:maven/cloud.piranha.dist/piranha-dist-microprofile@25.2.0?classifier=sources

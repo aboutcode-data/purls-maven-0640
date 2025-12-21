@@ -1,0 +1,3 @@
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-plugin-api@12.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-plugin-api@12.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-context-plugin-api@12.1.1?classifier=sources

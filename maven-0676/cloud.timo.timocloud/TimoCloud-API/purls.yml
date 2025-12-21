@@ -8,3 +8,5 @@
 - pkg:maven/cloud.timo.timocloud/TimoCloud-API@6.7.2?classifier=sources
 - pkg:maven/cloud.timo.timocloud/TimoCloud-API@6.7.4
 - pkg:maven/cloud.timo.timocloud/TimoCloud-API@6.7.4?classifier=sources
+- pkg:maven/cloud.timo.timocloud/TimoCloud-API@6.7.9
+- pkg:maven/cloud.timo.timocloud/TimoCloud-API@6.7.9?classifier=sources

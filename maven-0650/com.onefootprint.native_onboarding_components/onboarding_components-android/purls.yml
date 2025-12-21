@@ -1,2 +1,4 @@
 - pkg:maven/com.onefootprint.native_onboarding_components/onboarding_components-android@0.0.1?classifier=sources
 - pkg:maven/com.onefootprint.native_onboarding_components/onboarding_components-android@1.0.0-beta-1?classifier=sources
+- pkg:maven/com.onefootprint.native_onboarding_components/onboarding_components-android@1.0.0-beta-2?classifier=sources
+- pkg:maven/com.onefootprint.native_onboarding_components/onboarding_components-android@1.0.0-beta-3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.earldouglas/sbt-frege_sbt2.0.0-M2_3@3.0.3
+- pkg:maven/com.earldouglas/sbt-frege_sbt2.0.0-M2_3@3.0.3?classifier=sources

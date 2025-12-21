@@ -11,6 +11,8 @@
 - pkg:maven/com.weisiliang/formui@0.1.4
 - pkg:maven/com.weisiliang/formui@0.1.4.10
 - pkg:maven/com.weisiliang/formui@0.1.4.10?classifier=sources
+- pkg:maven/com.weisiliang/formui@0.1.4.12
+- pkg:maven/com.weisiliang/formui@0.1.4.12?classifier=sources
 - pkg:maven/com.weisiliang/formui@0.1.4.2
 - pkg:maven/com.weisiliang/formui@0.1.4.2?classifier=sources
 - pkg:maven/com.weisiliang/formui@0.1.4.3

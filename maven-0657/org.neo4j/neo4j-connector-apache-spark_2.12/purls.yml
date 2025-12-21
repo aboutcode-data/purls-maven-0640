@@ -50,3 +50,5 @@
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.3_for_spark_3?type=zip
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.4_for_spark_3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.4_for_spark_3?type=zip
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.5_for_spark_3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.5_for_spark_3?type=zip

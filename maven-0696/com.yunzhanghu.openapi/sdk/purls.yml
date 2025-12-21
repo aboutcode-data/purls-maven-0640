@@ -38,6 +38,8 @@
 - pkg:maven/com.yunzhanghu.openapi/sdk@1.4.21-RELEASE?classifier=sources
 - pkg:maven/com.yunzhanghu.openapi/sdk@1.4.22-RELEASE
 - pkg:maven/com.yunzhanghu.openapi/sdk@1.4.22-RELEASE?classifier=sources
+- pkg:maven/com.yunzhanghu.openapi/sdk@1.4.23-RELEASE
+- pkg:maven/com.yunzhanghu.openapi/sdk@1.4.23-RELEASE?classifier=sources
 - pkg:maven/com.yunzhanghu.openapi/sdk@1.4.3-RELEASE
 - pkg:maven/com.yunzhanghu.openapi/sdk@1.4.3-RELEASE?classifier=sources
 - pkg:maven/com.yunzhanghu.openapi/sdk@1.4.4-RELEASE

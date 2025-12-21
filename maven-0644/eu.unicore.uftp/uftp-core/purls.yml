@@ -4,3 +4,5 @@
 - pkg:maven/eu.unicore.uftp/uftp-core@2.20.1?classifier=sources
 - pkg:maven/eu.unicore.uftp/uftp-core@2.20.2
 - pkg:maven/eu.unicore.uftp/uftp-core@2.20.2?classifier=sources
+- pkg:maven/eu.unicore.uftp/uftp-core@2.20.3
+- pkg:maven/eu.unicore.uftp/uftp-core@2.20.3?classifier=sources

@@ -46,6 +46,17 @@
 - pkg:maven/it.unibo.collektive/dsl-js@12.2.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-js@12.2.2?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-js@12.3.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@12.3.1?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@12.3.3?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@13.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@13.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@13.1.1?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@14.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@15.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@16.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@16.0.1?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@16.1.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-js@16.1.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-js@2.0.0?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-js@2.0.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-js@2.1.0?classifier=sources

@@ -148,3 +148,5 @@
 - pkg:maven/eu.rssw.openedge.rcode/rcode-reader@2.8.2?classifier=sources
 - pkg:maven/eu.rssw.openedge.rcode/rcode-reader@2.9.0
 - pkg:maven/eu.rssw.openedge.rcode/rcode-reader@2.9.0?classifier=sources
+- pkg:maven/eu.rssw.openedge.rcode/rcode-reader@3.0.0
+- pkg:maven/eu.rssw.openedge.rcode/rcode-reader@3.0.0?classifier=sources

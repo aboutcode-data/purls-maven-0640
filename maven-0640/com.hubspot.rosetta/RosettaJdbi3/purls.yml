@@ -10,3 +10,5 @@
 - pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.12.1?classifier=sources
 - pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.12.2
 - pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.12.2?classifier=sources
+- pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.13.0
+- pkg:maven/com.hubspot.rosetta/RosettaJdbi3@3.13.0?classifier=sources

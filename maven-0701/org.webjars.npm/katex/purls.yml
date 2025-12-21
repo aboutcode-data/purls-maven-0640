@@ -11,6 +11,7 @@
 - pkg:maven/org.webjars.npm/katex@0.16.10
 - pkg:maven/org.webjars.npm/katex@0.16.10?classifier=sources
 - pkg:maven/org.webjars.npm/katex@0.16.11
+- pkg:maven/org.webjars.npm/katex@0.16.21
 - pkg:maven/org.webjars.npm/katex@0.16.4
 - pkg:maven/org.webjars.npm/katex@0.16.4?classifier=sources
 - pkg:maven/org.webjars.npm/katex@0.16.8

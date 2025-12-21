@@ -52,6 +52,8 @@
 - pkg:maven/org.picocontainer/picocontainer-tck@2.14.3?classifier=sources
 - pkg:maven/org.picocontainer/picocontainer-tck@2.14?classifier=sources
 - pkg:maven/org.picocontainer/picocontainer-tck@2.15
+- pkg:maven/org.picocontainer/picocontainer-tck@2.15.1
+- pkg:maven/org.picocontainer/picocontainer-tck@2.15.1?classifier=sources
 - pkg:maven/org.picocontainer/picocontainer-tck@2.15?classifier=sources
 - pkg:maven/org.picocontainer/picocontainer-tck@2.1?classifier=sources
 - pkg:maven/org.picocontainer/picocontainer-tck@2.2

@@ -52,3 +52,7 @@
 - pkg:maven/net.csibio.aird/aird-sdk@2.4.6?classifier=sources
 - pkg:maven/net.csibio.aird/aird-sdk@2.5.0
 - pkg:maven/net.csibio.aird/aird-sdk@2.5.0?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@2.5.1
+- pkg:maven/net.csibio.aird/aird-sdk@2.5.1.1
+- pkg:maven/net.csibio.aird/aird-sdk@2.5.1.1?classifier=sources
+- pkg:maven/net.csibio.aird/aird-sdk@2.5.1?classifier=sources

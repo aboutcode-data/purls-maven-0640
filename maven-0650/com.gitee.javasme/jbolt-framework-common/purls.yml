@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.javasme/jbolt-framework-common@1.0-beta?classifier=sources
+- pkg:maven/com.gitee.javasme/jbolt-framework-common@1.0.1?classifier=sources

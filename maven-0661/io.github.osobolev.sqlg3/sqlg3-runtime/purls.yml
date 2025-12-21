@@ -8,3 +8,4 @@
 - pkg:maven/io.github.osobolev.sqlg3/sqlg3-runtime@2.7?classifier=sources
 - pkg:maven/io.github.osobolev.sqlg3/sqlg3-runtime@3.0?classifier=sources
 - pkg:maven/io.github.osobolev.sqlg3/sqlg3-runtime@3.1?classifier=sources
+- pkg:maven/io.github.osobolev.sqlg3/sqlg3-runtime@3.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-duckdb@470?classifier=sources
+- pkg:maven/io.trino/trino-duckdb@471?classifier=sources

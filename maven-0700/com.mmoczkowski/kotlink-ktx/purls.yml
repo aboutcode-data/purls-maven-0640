@@ -1,3 +1,5 @@
 - pkg:maven/com.mmoczkowski/kotlink-ktx@1.0.0?classifier=sources
 - pkg:maven/com.mmoczkowski/kotlink-ktx@1.1.0?classifier=sources
 - pkg:maven/com.mmoczkowski/kotlink-ktx@1.1.1?classifier=sources
+- pkg:maven/com.mmoczkowski/kotlink-ktx@1.2.0?classifier=sources
+- pkg:maven/com.mmoczkowski/kotlink-ktx@2.0.0?classifier=sources

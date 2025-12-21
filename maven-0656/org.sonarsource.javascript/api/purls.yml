@@ -5,3 +5,4 @@
 - pkg:maven/org.sonarsource.javascript/api@10.19.0.29100?classifier=sources
 - pkg:maven/org.sonarsource.javascript/api@10.20.0.29356?classifier=sources
 - pkg:maven/org.sonarsource.javascript/api@10.21.0.30473?classifier=sources
+- pkg:maven/org.sonarsource.javascript/api@10.21.1.30825?classifier=sources

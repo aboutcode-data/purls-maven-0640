@@ -1,3 +1,4 @@
 - pkg:maven/com.applovin.dsp/linkedin-adapter@0.0.5.0?classifier=sources
 - pkg:maven/com.applovin.dsp/linkedin-adapter@0.0.6.0?classifier=sources
 - pkg:maven/com.applovin.dsp/linkedin-adapter@0.0.6.1?classifier=sources
+- pkg:maven/com.applovin.dsp/linkedin-adapter@0.0.6.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.alexlaa/testomat-java-reporter@0.2.10
+- pkg:maven/io.github.alexlaa/testomat-java-reporter@0.2.10?classifier=sources
+- pkg:maven/io.github.alexlaa/testomat-java-reporter@0.2.11?classifier=sources
+- pkg:maven/io.github.alexlaa/testomat-java-reporter@0.2.12?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.31?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.32
 - pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.32?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.33
+- pkg:maven/org.bidib.jbidib/bidibwizard-dmx-client@2.0.33?classifier=sources

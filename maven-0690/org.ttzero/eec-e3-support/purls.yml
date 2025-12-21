@@ -24,6 +24,8 @@
 - pkg:maven/org.ttzero/eec-e3-support@0.5.15?classifier=sources
 - pkg:maven/org.ttzero/eec-e3-support@0.5.19
 - pkg:maven/org.ttzero/eec-e3-support@0.5.19?classifier=sources
+- pkg:maven/org.ttzero/eec-e3-support@0.5.22
+- pkg:maven/org.ttzero/eec-e3-support@0.5.22?classifier=sources
 - pkg:maven/org.ttzero/eec-e3-support@0.5.4
 - pkg:maven/org.ttzero/eec-e3-support@0.5.4?classifier=sources
 - pkg:maven/org.ttzero/eec-e3-support@0.5.6

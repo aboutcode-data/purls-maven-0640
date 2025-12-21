@@ -50,3 +50,5 @@
 - pkg:maven/io.jexxa.jlegmed/jlegmed-core@3.5.1?classifier=sources
 - pkg:maven/io.jexxa.jlegmed/jlegmed-core@3.5.2
 - pkg:maven/io.jexxa.jlegmed/jlegmed-core@3.5.2?classifier=sources
+- pkg:maven/io.jexxa.jlegmed/jlegmed-core@3.5.3
+- pkg:maven/io.jexxa.jlegmed/jlegmed-core@3.5.3?classifier=sources

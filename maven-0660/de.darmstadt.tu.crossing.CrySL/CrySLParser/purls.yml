@@ -1,2 +1,4 @@
 - pkg:maven/de.darmstadt.tu.crossing.CrySL/CrySLParser@4.0.0
 - pkg:maven/de.darmstadt.tu.crossing.CrySL/CrySLParser@4.0.0?classifier=sources
+- pkg:maven/de.darmstadt.tu.crossing.CrySL/CrySLParser@4.0.1
+- pkg:maven/de.darmstadt.tu.crossing.CrySL/CrySLParser@4.0.1?classifier=sources

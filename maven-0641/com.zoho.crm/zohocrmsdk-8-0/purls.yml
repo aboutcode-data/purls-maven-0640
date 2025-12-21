@@ -1,0 +1,2 @@
+- pkg:maven/com.zoho.crm/zohocrmsdk-8-0@1.0.0
+- pkg:maven/com.zoho.crm/zohocrmsdk-8-0@1.0.0?classifier=sources
