@@ -1,1 +1,2 @@
 - pkg:maven/com.facebook.presto.router/presto-plan-checker-router-plugin@0.294?classifier=sources
+- pkg:maven/com.facebook.presto.router/presto-plan-checker-router-plugin@0.295?classifier=sources

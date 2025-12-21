@@ -1,0 +1,1 @@
+- pkg:maven/org.testcontainers/testcontainers-jdbc-test@2.0.0?classifier=sources

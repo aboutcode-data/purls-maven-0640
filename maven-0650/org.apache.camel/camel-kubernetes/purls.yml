@@ -324,6 +324,10 @@
 - pkg:maven/org.apache.camel/camel-kubernetes@4.13.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-kubernetes@4.14.0
 - pkg:maven/org.apache.camel/camel-kubernetes@4.14.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-kubernetes@4.14.1
+- pkg:maven/org.apache.camel/camel-kubernetes@4.14.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-kubernetes@4.15.0
+- pkg:maven/org.apache.camel/camel-kubernetes@4.15.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-kubernetes@4.2.0
 - pkg:maven/org.apache.camel/camel-kubernetes@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-kubernetes@4.3.0

@@ -2,6 +2,8 @@
 - pkg:maven/se.sundsvall.dept44/dept44-formatting-plugin@6.0.10?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-formatting-plugin@6.0.11?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-formatting-plugin@6.0.12?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-formatting-plugin@6.0.13?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-formatting-plugin@6.0.14?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-formatting-plugin@6.0.3
 - pkg:maven/se.sundsvall.dept44/dept44-formatting-plugin@6.0.3?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-formatting-plugin@6.0.4

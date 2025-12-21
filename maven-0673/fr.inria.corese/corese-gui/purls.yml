@@ -11,3 +11,4 @@
 - pkg:maven/fr.inria.corese/corese-gui@4.5.0
 - pkg:maven/fr.inria.corese/corese-gui@4.5.0?classifier=sources
 - pkg:maven/fr.inria.corese/corese-gui@4.6.0?classifier=sources
+- pkg:maven/fr.inria.corese/corese-gui@4.6.1?classifier=sources

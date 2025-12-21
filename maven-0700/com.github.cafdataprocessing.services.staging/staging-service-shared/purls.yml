@@ -14,3 +14,5 @@
 - pkg:maven/com.github.cafdataprocessing.services.staging/staging-service-shared@3.3.6-1317?classifier=sources
 - pkg:maven/com.github.cafdataprocessing.services.staging/staging-service-shared@3.3.7-1327
 - pkg:maven/com.github.cafdataprocessing.services.staging/staging-service-shared@3.3.7-1327?classifier=sources
+- pkg:maven/com.github.cafdataprocessing.services.staging/staging-service-shared@3.3.8-1338
+- pkg:maven/com.github.cafdataprocessing.services.staging/staging-service-shared@3.3.8-1338?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/cn.web3er.wrench/whn-wrench-starter-rate-limiter@1.6?classifier=sources
 - pkg:maven/cn.web3er.wrench/whn-wrench-starter-rate-limiter@1.7?classifier=sources
 - pkg:maven/cn.web3er.wrench/whn-wrench-starter-rate-limiter@1.8?classifier=sources
+- pkg:maven/cn.web3er.wrench/whn-wrench-starter-rate-limiter@2.0?classifier=sources

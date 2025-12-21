@@ -378,4 +378,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@2.7.0.Alpha1?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@2.7.0.Alpha2?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@2.7.0.CR1?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-tool@2.7.0.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-tool@3.0.0.Alpha1?classifier=sources

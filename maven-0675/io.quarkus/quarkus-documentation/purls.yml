@@ -640,6 +640,9 @@
 - pkg:maven/io.quarkus/quarkus-documentation@3.27.0?classifier=sources
 - pkg:maven/io.quarkus/quarkus-documentation@3.28.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-documentation@3.28.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-documentation@3.28.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-documentation@3.28.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-documentation@3.28.3?classifier=sources
 - pkg:maven/io.quarkus/quarkus-documentation@3.3.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-documentation@3.3.0.CR1?type=zip
 - pkg:maven/io.quarkus/quarkus-documentation@3.3.0?classifier=sources

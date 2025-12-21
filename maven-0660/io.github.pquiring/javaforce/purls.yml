@@ -78,3 +78,13 @@
 - pkg:maven/io.github.pquiring/javaforce@87.0?classifier=sources
 - pkg:maven/io.github.pquiring/javaforce@87.1
 - pkg:maven/io.github.pquiring/javaforce@87.1?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@88.0
+- pkg:maven/io.github.pquiring/javaforce@88.0?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@89.0
+- pkg:maven/io.github.pquiring/javaforce@89.0?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@89.1
+- pkg:maven/io.github.pquiring/javaforce@89.1?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@90.0
+- pkg:maven/io.github.pquiring/javaforce@90.0?classifier=sources
+- pkg:maven/io.github.pquiring/javaforce@90.1
+- pkg:maven/io.github.pquiring/javaforce@90.1?classifier=sources

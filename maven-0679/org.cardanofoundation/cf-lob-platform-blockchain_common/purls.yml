@@ -24,3 +24,6 @@
 - pkg:maven/org.cardanofoundation/cf-lob-platform-blockchain_common@1.1.0-rc7?classifier=sources
 - pkg:maven/org.cardanofoundation/cf-lob-platform-blockchain_common@1.1.0-rc8?classifier=sources
 - pkg:maven/org.cardanofoundation/cf-lob-platform-blockchain_common@1.1.0-rc9?classifier=sources
+- pkg:maven/org.cardanofoundation/cf-lob-platform-blockchain_common@1.1.0?classifier=sources
+- pkg:maven/org.cardanofoundation/cf-lob-platform-blockchain_common@1.1.1-rc1?classifier=sources
+- pkg:maven/org.cardanofoundation/cf-lob-platform-blockchain_common@1.1.1?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/com.tarifchakder/material-theme-wasm-js@1.0.17?classifier=sources
+- pkg:maven/com.tarifchakder/material-theme-wasm-js@1.1.0?classifier=sources
+- pkg:maven/com.tarifchakder/material-theme-wasm-js@1.2.0?classifier=sources
+- pkg:maven/com.tarifchakder/material-theme-wasm-js@1.3.0?classifier=sources
+- pkg:maven/com.tarifchakder/material-theme-wasm-js@1.4.0?classifier=sources

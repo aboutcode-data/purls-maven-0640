@@ -8,3 +8,8 @@
 - pkg:maven/io.github.gmazzo.codeowners/kotlin-compiler@2.3.0?classifier=sources
 - pkg:maven/io.github.gmazzo.codeowners/kotlin-compiler@2.4.1?classifier=sources
 - pkg:maven/io.github.gmazzo.codeowners/kotlin-compiler@2.4.2?classifier=sources
+- pkg:maven/io.github.gmazzo.codeowners/kotlin-compiler@2.5.0?classifier=sources
+- pkg:maven/io.github.gmazzo.codeowners/kotlin-compiler@2.5.1?classifier=sources
+- pkg:maven/io.github.gmazzo.codeowners/kotlin-compiler@2.6.1?classifier=sources
+- pkg:maven/io.github.gmazzo.codeowners/kotlin-compiler@2.7.0?classifier=sources
+- pkg:maven/io.github.gmazzo.codeowners/kotlin-compiler@2.7.1?classifier=sources

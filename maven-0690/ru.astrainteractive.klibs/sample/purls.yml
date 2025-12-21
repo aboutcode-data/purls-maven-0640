@@ -16,4 +16,5 @@
 - pkg:maven/ru.astrainteractive.klibs/sample@2.5.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/sample@2.6.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/sample@2.6.1?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/sample@2.6.2?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/sample@unspecified?classifier=sources

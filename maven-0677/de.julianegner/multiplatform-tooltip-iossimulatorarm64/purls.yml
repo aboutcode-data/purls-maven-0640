@@ -1,0 +1,2 @@
+- pkg:maven/de.julianegner/multiplatform-tooltip-iossimulatorarm64@1.0.0-beta2?classifier=sources
+- pkg:maven/de.julianegner/multiplatform-tooltip-iossimulatorarm64@1.0.0?classifier=sources

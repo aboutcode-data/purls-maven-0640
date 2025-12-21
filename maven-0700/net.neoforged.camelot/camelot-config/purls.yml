@@ -67,6 +67,11 @@
 - pkg:maven/net.neoforged.camelot/camelot-config@1.0.205?classifier=sources
 - pkg:maven/net.neoforged.camelot/camelot-config@1.0.206?classifier=sources
 - pkg:maven/net.neoforged.camelot/camelot-config@1.0.207?classifier=sources
+- pkg:maven/net.neoforged.camelot/camelot-config@1.0.208?classifier=sources
+- pkg:maven/net.neoforged.camelot/camelot-config@1.0.209?classifier=sources
+- pkg:maven/net.neoforged.camelot/camelot-config@1.0.210?classifier=sources
+- pkg:maven/net.neoforged.camelot/camelot-config@1.0.211?classifier=sources
+- pkg:maven/net.neoforged.camelot/camelot-config@1.0.212?classifier=sources
 - pkg:maven/net.neoforged.camelot/camelot-config@1.0.94?classifier=sources
 - pkg:maven/net.neoforged.camelot/camelot-config@1.0.97?classifier=sources
 - pkg:maven/net.neoforged.camelot/camelot-config@1.0.98?classifier=sources

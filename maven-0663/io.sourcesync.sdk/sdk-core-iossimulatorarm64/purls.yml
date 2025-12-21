@@ -38,6 +38,14 @@
 - pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.12?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.14?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.16?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.17?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.18?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.19?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.20-2?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.20?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.21-2?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.21?classifier=sources
+- pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.22?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.2?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.4?classifier=sources
 - pkg:maven/io.sourcesync.sdk/sdk-core-iossimulatorarm64@0.7.6?classifier=sources

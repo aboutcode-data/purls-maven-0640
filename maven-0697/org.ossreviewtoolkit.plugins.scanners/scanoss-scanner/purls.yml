@@ -118,7 +118,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@68.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@68.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@69.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@69.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@70.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@70.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@8.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/scanoss-scanner@9.0.0?classifier=sources

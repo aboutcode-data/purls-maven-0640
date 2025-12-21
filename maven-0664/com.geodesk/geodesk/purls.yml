@@ -30,3 +30,4 @@
 - pkg:maven/com.geodesk/geodesk@1.0.2?classifier=sources
 - pkg:maven/com.geodesk/geodesk@1.1.0?classifier=sources
 - pkg:maven/com.geodesk/geodesk@1.1.2?classifier=sources
+- pkg:maven/com.geodesk/geodesk@2.0.0?classifier=sources

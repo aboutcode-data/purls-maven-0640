@@ -1,1 +1,2 @@
 - pkg:maven/com.perelens/perelens-uberjar@1.0?classifier=sources
+- pkg:maven/com.perelens/perelens-uberjar@1.1?classifier=sources

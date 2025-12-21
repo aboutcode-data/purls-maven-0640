@@ -1,0 +1,2 @@
+- pkg:maven/com.scalar-labs/scalardl-hashstore-java-client-sdk@3.12.0?classifier=sources
+- pkg:maven/com.scalar-labs/scalardl-hashstore-java-client-sdk@3.12.1?classifier=sources

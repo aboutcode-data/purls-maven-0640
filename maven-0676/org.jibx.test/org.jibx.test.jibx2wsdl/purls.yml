@@ -1,0 +1,2 @@
+- pkg:maven/org.jibx.test/org.jibx.test.jibx2wsdl@1.4.4?classifier=sources
+- pkg:maven/org.jibx.test/org.jibx.test.jibx2wsdl@1.4.5?classifier=sources

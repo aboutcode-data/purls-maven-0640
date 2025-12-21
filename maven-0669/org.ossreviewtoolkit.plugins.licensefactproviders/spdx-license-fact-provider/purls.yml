@@ -4,3 +4,7 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/spdx-license-fact-provider@68.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/spdx-license-fact-provider@68.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/spdx-license-fact-provider@69.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/spdx-license-fact-provider@69.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/spdx-license-fact-provider@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/spdx-license-fact-provider@70.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/spdx-license-fact-provider@70.1.0?classifier=sources

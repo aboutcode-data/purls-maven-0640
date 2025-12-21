@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/redis-common@0.37.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/redis-common@0.38.0
 - pkg:maven/org.mvnpm.at.opentelemetry/redis-common@0.38.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/redis-common@0.38.2
+- pkg:maven/org.mvnpm.at.opentelemetry/redis-common@0.38.2?classifier=sources

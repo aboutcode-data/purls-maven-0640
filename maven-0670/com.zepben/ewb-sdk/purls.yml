@@ -7,5 +7,8 @@
 - pkg:maven/com.zepben/ewb-sdk@1.0.0b6?classifier=sources
 - pkg:maven/com.zepben/ewb-sdk@1.0.1?classifier=sources
 - pkg:maven/com.zepben/ewb-sdk@1.0.1b1?classifier=sources
+- pkg:maven/com.zepben/ewb-sdk@1.1.0?classifier=sources
 - pkg:maven/com.zepben/ewb-sdk@1.1.0b1?classifier=sources
 - pkg:maven/com.zepben/ewb-sdk@1.1.0b2?classifier=sources
+- pkg:maven/com.zepben/ewb-sdk@1.1.0b3?classifier=sources
+- pkg:maven/com.zepben/ewb-sdk@1.1.0b4?classifier=sources

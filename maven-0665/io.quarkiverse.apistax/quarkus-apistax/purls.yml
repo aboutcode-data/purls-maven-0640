@@ -82,3 +82,5 @@
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax@5.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax@5.0.1?classifier=sources
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax@5.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.apistax/quarkus-apistax@5.1.1?classifier=sources
+- pkg:maven/io.quarkiverse.apistax/quarkus-apistax@6.0.0?classifier=sources

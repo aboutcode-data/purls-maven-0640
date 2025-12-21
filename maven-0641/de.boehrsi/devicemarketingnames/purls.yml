@@ -25,3 +25,4 @@
 - pkg:maven/de.boehrsi/devicemarketingnames@0.7.1?classifier=sources
 - pkg:maven/de.boehrsi/devicemarketingnames@1.0.0?classifier=sources
 - pkg:maven/de.boehrsi/devicemarketingnames@1.0.1?classifier=sources
+- pkg:maven/de.boehrsi/devicemarketingnames@1.0.2?classifier=sources

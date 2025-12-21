@@ -102,3 +102,5 @@
 - pkg:maven/ai.tock/tock-bot-connector-web-model@25.3.4
 - pkg:maven/ai.tock/tock-bot-connector-web-model@25.3.4?classifier=sources
 - pkg:maven/ai.tock/tock-bot-connector-web-model@25.3.9?classifier=sources
+- pkg:maven/ai.tock/tock-bot-connector-web-model@25.9.0?classifier=sources
+- pkg:maven/ai.tock/tock-bot-connector-web-model@25.9.1?classifier=sources

@@ -14,6 +14,7 @@
 - pkg:maven/co.amity.android/amity-rxremotemediator@6.50.6?classifier=sources
 - pkg:maven/co.amity.android/amity-rxremotemediator@7.0.0?classifier=sources
 - pkg:maven/co.amity.android/amity-rxremotemediator@7.1.0?classifier=sources
+- pkg:maven/co.amity.android/amity-rxremotemediator@7.10.0?classifier=sources
 - pkg:maven/co.amity.android/amity-rxremotemediator@7.2.1?classifier=sources
 - pkg:maven/co.amity.android/amity-rxremotemediator@7.3.0?classifier=sources
 - pkg:maven/co.amity.android/amity-rxremotemediator@7.4.0?classifier=sources

@@ -140,8 +140,11 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@4.2.1
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@4.2.1?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@4.2.2?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-build-docs@4.2.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@4.3.0
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@4.3.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@4.3.1?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@5.0.0-M1?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-build-docs@5.0.0-M2?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-build-docs@5.0.0-M3?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-build-docs@5.0.0-M4?classifier=sources

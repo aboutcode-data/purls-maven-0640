@@ -11,3 +11,4 @@
 - pkg:maven/de.obqo.decycle/decycle-maven-plugin@1.2.2?classifier=sources
 - pkg:maven/de.obqo.decycle/decycle-maven-plugin@1.2.3?classifier=sources
 - pkg:maven/de.obqo.decycle/decycle-maven-plugin@1.2.4?classifier=sources
+- pkg:maven/de.obqo.decycle/decycle-maven-plugin@1.2.5?classifier=sources

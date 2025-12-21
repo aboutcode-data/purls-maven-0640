@@ -16,3 +16,4 @@
 - pkg:maven/org.sonarsource.javascript/api@11.3.0.34350?classifier=sources
 - pkg:maven/org.sonarsource.javascript/api@11.4.0.34681?classifier=sources
 - pkg:maven/org.sonarsource.javascript/api@11.4.1.34873?classifier=sources
+- pkg:maven/org.sonarsource.javascript/api@11.5.0.35357?classifier=sources

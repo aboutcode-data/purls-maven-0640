@@ -13,3 +13,5 @@
 - pkg:maven/org.mvnpm.at.carbon/feature-flags@0.30.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/feature-flags@0.31.0
 - pkg:maven/org.mvnpm.at.carbon/feature-flags@0.31.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/feature-flags@0.32.0
+- pkg:maven/org.mvnpm.at.carbon/feature-flags@0.32.0?classifier=sources

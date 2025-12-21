@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/cssdb@8.4.2
+- pkg:maven/org.mvnpm/cssdb@8.4.2?classifier=sources

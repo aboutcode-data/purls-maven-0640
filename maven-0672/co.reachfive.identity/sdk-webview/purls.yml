@@ -1,2 +1,3 @@
+- pkg:maven/co.reachfive.identity/sdk-webview@10.0.0?classifier=sources
 - pkg:maven/co.reachfive.identity/sdk-webview@9.9.0?classifier=sources
 - pkg:maven/co.reachfive.identity/sdk-webview@9.9.1?classifier=sources

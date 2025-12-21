@@ -29,3 +29,6 @@
 - pkg:maven/io.gitee.qq1134380223/gui-shell-core@2.0.0-beta-1?classifier=sources
 - pkg:maven/io.gitee.qq1134380223/gui-shell-core@2.0.0.RELEASE?classifier=sources
 - pkg:maven/io.gitee.qq1134380223/gui-shell-core@2.0.1.RELEASE?classifier=sources
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@2.0.2.RELEASE?classifier=sources
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@2.0.3.RELEASE?classifier=sources
+- pkg:maven/io.gitee.qq1134380223/gui-shell-core@2.0.5.RELEASE?classifier=sources

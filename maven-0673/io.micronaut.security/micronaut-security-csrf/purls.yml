@@ -10,3 +10,4 @@
 - pkg:maven/io.micronaut.security/micronaut-security-csrf@4.13.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-csrf@4.13.1?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security-csrf@4.14.0?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security-csrf@4.15.0?classifier=sources

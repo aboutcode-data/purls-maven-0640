@@ -1,0 +1,4 @@
+- pkg:maven/tech.eitri/eitri-android-geolocation@1.0.0-alpha.5?classifier=sources
+- pkg:maven/tech.eitri/eitri-android-geolocation@1.0.0-beta.0?classifier=sources
+- pkg:maven/tech.eitri/eitri-android-geolocation@1.0.0?classifier=sources
+- pkg:maven/tech.eitri/eitri-android-geolocation@1.0.1?classifier=sources

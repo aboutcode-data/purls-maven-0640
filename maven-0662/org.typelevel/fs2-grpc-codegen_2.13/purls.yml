@@ -1,3 +1,7 @@
+- pkg:maven/org.typelevel/fs2-grpc-codegen_2.13@2.10.0
+- pkg:maven/org.typelevel/fs2-grpc-codegen_2.13@2.10.0?classifier=sources
+- pkg:maven/org.typelevel/fs2-grpc-codegen_2.13@2.11.0
+- pkg:maven/org.typelevel/fs2-grpc-codegen_2.13@2.11.0?classifier=sources
 - pkg:maven/org.typelevel/fs2-grpc-codegen_2.13@2.5.0
 - pkg:maven/org.typelevel/fs2-grpc-codegen_2.13@2.5.0-RC3
 - pkg:maven/org.typelevel/fs2-grpc-codegen_2.13@2.5.0-RC3?classifier=sources

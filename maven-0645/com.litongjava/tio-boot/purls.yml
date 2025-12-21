@@ -192,3 +192,5 @@
 - pkg:maven/com.litongjava/tio-boot@1.9.9?classifier=sources
 - pkg:maven/com.litongjava/tio-boot@2.0.0?classifier=sources
 - pkg:maven/com.litongjava/tio-boot@2.0.1?classifier=sources
+- pkg:maven/com.litongjava/tio-boot@2.0.2?classifier=sources
+- pkg:maven/com.litongjava/tio-boot@2.0.3?classifier=sources

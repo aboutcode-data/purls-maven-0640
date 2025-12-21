@@ -1,3 +1,4 @@
+- pkg:maven/org.opendaylight.netconf/netconf-auth-aaa@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-auth-aaa@6.0.0
 - pkg:maven/org.opendaylight.netconf/netconf-auth-aaa@6.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-auth-aaa@6.0.1

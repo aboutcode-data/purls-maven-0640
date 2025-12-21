@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm.at.npmcli/node-gyp@4.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.npmcli/node-gyp@5.0.0
+- pkg:maven/org.mvnpm.at.npmcli/node-gyp@5.0.0?classifier=sources

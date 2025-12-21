@@ -32,6 +32,8 @@
 - pkg:maven/com.tethys-json/tethys-derivation_2.12@0.29.4?classifier=sources
 - pkg:maven/com.tethys-json/tethys-derivation_2.12@0.29.5
 - pkg:maven/com.tethys-json/tethys-derivation_2.12@0.29.5?classifier=sources
+- pkg:maven/com.tethys-json/tethys-derivation_2.12@0.29.6
+- pkg:maven/com.tethys-json/tethys-derivation_2.12@0.29.6?classifier=sources
 - pkg:maven/com.tethys-json/tethys-derivation_2.12@0.6.3.1
 - pkg:maven/com.tethys-json/tethys-derivation_2.12@0.6.3.1?classifier=sources
 - pkg:maven/com.tethys-json/tethys-derivation_2.12@0.6.3.2

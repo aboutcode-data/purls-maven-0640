@@ -6,3 +6,4 @@
 - pkg:maven/net.lenni0451.mcstructs/itemcomponents@2.5.5?classifier=sources
 - pkg:maven/net.lenni0451.mcstructs/itemcomponents@3.0.0?classifier=sources
 - pkg:maven/net.lenni0451.mcstructs/itemcomponents@3.1.0?classifier=sources
+- pkg:maven/net.lenni0451.mcstructs/itemcomponents@3.2.0?classifier=sources

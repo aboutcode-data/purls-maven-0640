@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm.at.nextcloud/vue@8.31.0
+- pkg:maven/org.mvnpm.at.nextcloud/vue@8.31.0?classifier=sources
+- pkg:maven/org.mvnpm.at.nextcloud/vue@8.32.0
+- pkg:maven/org.mvnpm.at.nextcloud/vue@8.32.0?classifier=sources

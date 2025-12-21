@@ -9,3 +9,5 @@
 - pkg:maven/com.svenruppert/core-properties@06.00.08?classifier=sources
 - pkg:maven/com.svenruppert/core-properties@06.00.09?classifier=sources
 - pkg:maven/com.svenruppert/core-properties@06.00.10?classifier=sources
+- pkg:maven/com.svenruppert/core-properties@06.00.11?classifier=sources
+- pkg:maven/com.svenruppert/core-properties@06.00.12?classifier=sources

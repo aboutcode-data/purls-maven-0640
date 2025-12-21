@@ -43,6 +43,7 @@
 - pkg:maven/com.aliyun/alibabacloud-eflo_controller20221215@2.0.2
 - pkg:maven/com.aliyun/alibabacloud-eflo_controller20221215@2.0.20?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-eflo_controller20221215@2.0.21?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-eflo_controller20221215@2.0.22?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-eflo_controller20221215@2.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-eflo_controller20221215@2.0.3
 - pkg:maven/com.aliyun/alibabacloud-eflo_controller20221215@2.0.3?classifier=sources

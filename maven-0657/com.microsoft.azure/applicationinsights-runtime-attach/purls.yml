@@ -47,3 +47,4 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-runtime-attach@3.7.2?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-runtime-attach@3.7.3?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-runtime-attach@3.7.4?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-runtime-attach@3.7.5?classifier=sources

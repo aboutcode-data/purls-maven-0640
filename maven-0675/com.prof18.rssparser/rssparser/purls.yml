@@ -48,3 +48,4 @@
 - pkg:maven/com.prof18.rssparser/rssparser@6.1.0-alpha01?classifier=sources
 - pkg:maven/com.prof18.rssparser/rssparser@6.1.0-alpha02?classifier=sources
 - pkg:maven/com.prof18.rssparser/rssparser@6.1.0-alpha03?classifier=sources
+- pkg:maven/com.prof18.rssparser/rssparser@6.1.0?classifier=sources

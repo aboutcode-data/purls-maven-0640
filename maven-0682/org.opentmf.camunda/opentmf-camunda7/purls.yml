@@ -1,3 +1,4 @@
 - pkg:maven/org.opentmf.camunda/opentmf-camunda7@23.0.0?classifier=sources
 - pkg:maven/org.opentmf.camunda/opentmf-camunda7@23.0.1?classifier=sources
 - pkg:maven/org.opentmf.camunda/opentmf-camunda7@23.0.2?classifier=sources
+- pkg:maven/org.opentmf.camunda/opentmf-camunda7@24.0.0?classifier=sources

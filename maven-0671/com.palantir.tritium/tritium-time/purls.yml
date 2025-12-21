@@ -8,6 +8,8 @@
 - pkg:maven/com.palantir.tritium/tritium-time@0.107.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-time@0.108.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-time@0.109.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-time@0.110.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-time@0.111.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-time@0.57.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-time@0.58.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-time@0.59.0?classifier=sources

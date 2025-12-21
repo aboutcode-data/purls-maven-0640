@@ -33,3 +33,4 @@
 - pkg:maven/com.limemojito.oss.standards.aws/ssm-utilities@15.3.0?classifier=sources
 - pkg:maven/com.limemojito.oss.standards.aws/ssm-utilities@15.3.1?classifier=sources
 - pkg:maven/com.limemojito.oss.standards.aws/ssm-utilities@15.3.2?classifier=sources
+- pkg:maven/com.limemojito.oss.standards.aws/ssm-utilities@15.3.3?classifier=sources

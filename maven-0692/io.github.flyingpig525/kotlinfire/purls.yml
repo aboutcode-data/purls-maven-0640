@@ -11,3 +11,5 @@
 - pkg:maven/io.github.flyingpig525/kotlinfire@1.5.0?classifier=sources
 - pkg:maven/io.github.flyingpig525/kotlinfire@1.6.0?classifier=sources
 - pkg:maven/io.github.flyingpig525/kotlinfire@1.6.1?classifier=sources
+- pkg:maven/io.github.flyingpig525/kotlinfire@1.6.3?classifier=sources
+- pkg:maven/io.github.flyingpig525/kotlinfire@1.6.4?classifier=sources

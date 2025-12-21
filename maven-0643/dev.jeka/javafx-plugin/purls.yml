@@ -1,0 +1,2 @@
+- pkg:maven/dev.jeka/javafx-plugin@0.11.55-0
+- pkg:maven/dev.jeka/javafx-plugin@0.11.55-0?classifier=sources

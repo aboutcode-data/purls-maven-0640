@@ -18,3 +18,5 @@
 - pkg:maven/org.mvnpm.at.carbon/type@11.47.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/type@11.48.0
 - pkg:maven/org.mvnpm.at.carbon/type@11.48.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/type@11.49.0
+- pkg:maven/org.mvnpm.at.carbon/type@11.49.0?classifier=sources

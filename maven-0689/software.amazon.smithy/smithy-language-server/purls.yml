@@ -10,3 +10,4 @@
 - pkg:maven/software.amazon.smithy/smithy-language-server@0.5.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-language-server@0.6.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-language-server@0.7.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-language-server@0.8.0?classifier=sources

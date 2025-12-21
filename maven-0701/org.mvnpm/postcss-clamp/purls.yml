@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/postcss-clamp@4.1.0
+- pkg:maven/org.mvnpm/postcss-clamp@4.1.0?classifier=sources

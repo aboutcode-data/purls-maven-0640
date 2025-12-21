@@ -6,6 +6,8 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-expression-compiler@4.101.3?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-expression-compiler@4.101.4?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-expression-compiler@4.102.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-expression-compiler@4.103.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-expression-compiler@4.103.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-expression-compiler@4.95.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-expression-compiler@4.95.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-sql-expression-compiler@4.96.0?classifier=sources

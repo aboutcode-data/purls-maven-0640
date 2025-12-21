@@ -108,6 +108,14 @@
 - pkg:maven/dev.lydtech/component-test-framework@3.1.0?classifier=sources
 - pkg:maven/dev.lydtech/component-test-framework@3.10.0
 - pkg:maven/dev.lydtech/component-test-framework@3.10.0?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@3.11.0?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@3.11.1?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@3.11.22?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@3.11.25?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@3.11.26?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@3.11.27?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@3.11.29?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@3.11.31?classifier=sources
 - pkg:maven/dev.lydtech/component-test-framework@3.2.0
 - pkg:maven/dev.lydtech/component-test-framework@3.2.0?classifier=sources
 - pkg:maven/dev.lydtech/component-test-framework@3.3.0

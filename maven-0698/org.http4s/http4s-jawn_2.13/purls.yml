@@ -343,6 +343,8 @@
 - pkg:maven/org.http4s/http4s-jawn_2.13@1.0.0-M44?classifier=sources
 - pkg:maven/org.http4s/http4s-jawn_2.13@1.0.0-M45
 - pkg:maven/org.http4s/http4s-jawn_2.13@1.0.0-M45?classifier=sources
+- pkg:maven/org.http4s/http4s-jawn_2.13@1.0.0-M46
+- pkg:maven/org.http4s/http4s-jawn_2.13@1.0.0-M46?classifier=sources
 - pkg:maven/org.http4s/http4s-jawn_2.13@1.0.0-M4?classifier=sources
 - pkg:maven/org.http4s/http4s-jawn_2.13@1.0.0-M5
 - pkg:maven/org.http4s/http4s-jawn_2.13@1.0.0-M5?classifier=sources

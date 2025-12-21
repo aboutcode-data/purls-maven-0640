@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/webdav@5.8.0
+- pkg:maven/org.mvnpm/webdav@5.8.0?classifier=sources

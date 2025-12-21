@@ -69,3 +69,5 @@
 - pkg:maven/org.nineml/coffeefilter@3.2.6?classifier=sources
 - pkg:maven/org.nineml/coffeefilter@3.2.7?classifier=sources
 - pkg:maven/org.nineml/coffeefilter@3.2.9?classifier=sources
+- pkg:maven/org.nineml/coffeefilter@3.3.2?classifier=sources
+- pkg:maven/org.nineml/coffeefilter@3.3.3?classifier=sources
