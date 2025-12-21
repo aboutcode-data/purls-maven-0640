@@ -28,3 +28,5 @@
 - pkg:maven/com.fireblocks.sdk/fireblocks-sdk@8.0.1?classifier=sources
 - pkg:maven/com.fireblocks.sdk/fireblocks-sdk@8.1.0
 - pkg:maven/com.fireblocks.sdk/fireblocks-sdk@8.1.0?classifier=sources
+- pkg:maven/com.fireblocks.sdk/fireblocks-sdk@9.0.0
+- pkg:maven/com.fireblocks.sdk/fireblocks-sdk@9.0.0?classifier=sources

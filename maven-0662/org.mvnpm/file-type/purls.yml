@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/file-type@17.1.6?classifier=sources
+- pkg:maven/org.mvnpm/file-type@20.4.1?classifier=sources

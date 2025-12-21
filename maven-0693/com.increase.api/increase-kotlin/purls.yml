@@ -93,6 +93,9 @@
 - pkg:maven/com.increase.api/increase-kotlin@0.183.0?classifier=sources
 - pkg:maven/com.increase.api/increase-kotlin@0.184.0?classifier=sources
 - pkg:maven/com.increase.api/increase-kotlin@0.185.0?classifier=sources
+- pkg:maven/com.increase.api/increase-kotlin@0.186.0?classifier=sources
+- pkg:maven/com.increase.api/increase-kotlin@0.187.0?classifier=sources
+- pkg:maven/com.increase.api/increase-kotlin@0.188.0?classifier=sources
 - pkg:maven/com.increase.api/increase-kotlin@0.19.0?classifier=sources
 - pkg:maven/com.increase.api/increase-kotlin@0.2.0?classifier=sources
 - pkg:maven/com.increase.api/increase-kotlin@0.20.0?classifier=sources

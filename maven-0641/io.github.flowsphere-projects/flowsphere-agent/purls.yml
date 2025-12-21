@@ -2,3 +2,4 @@
 - pkg:maven/io.github.flowsphere-projects/flowsphere-agent@1.0.0.RELEASE?classifier=sources
 - pkg:maven/io.github.flowsphere-projects/flowsphere-agent@1.2.0.RELEASE?classifier=sources
 - pkg:maven/io.github.flowsphere-projects/flowsphere-agent@1.3.0.RELEASE?classifier=sources
+- pkg:maven/io.github.flowsphere-projects/flowsphere-agent@1.5.0.RELEASE?classifier=sources

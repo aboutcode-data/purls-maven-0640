@@ -62,3 +62,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.jface@3.35.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.jface@3.35.100
 - pkg:maven/org.eclipse.platform/org.eclipse.jface@3.35.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.jface@3.36.0
+- pkg:maven/org.eclipse.platform/org.eclipse.jface@3.36.0?classifier=sources

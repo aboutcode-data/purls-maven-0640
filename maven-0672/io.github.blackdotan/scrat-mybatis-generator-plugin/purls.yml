@@ -1,1 +1,2 @@
 - pkg:maven/io.github.blackdotan/scrat-mybatis-generator-plugin@1.2.3
+- pkg:maven/io.github.blackdotan/scrat-mybatis-generator-plugin@1.2.6?classifier=sources

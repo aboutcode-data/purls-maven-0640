@@ -621,6 +621,10 @@
 - pkg:maven/company.tap/commondependencies@1.0.386?classifier=sources
 - pkg:maven/company.tap/commondependencies@1.0.387
 - pkg:maven/company.tap/commondependencies@1.0.387?classifier=sources
+- pkg:maven/company.tap/commondependencies@1.0.388
+- pkg:maven/company.tap/commondependencies@1.0.388?classifier=sources
+- pkg:maven/company.tap/commondependencies@1.0.389
+- pkg:maven/company.tap/commondependencies@1.0.389?classifier=sources
 - pkg:maven/company.tap/commondependencies@1.0.38?classifier=sources
 - pkg:maven/company.tap/commondependencies@1.0.39
 - pkg:maven/company.tap/commondependencies@1.0.39?classifier=sources

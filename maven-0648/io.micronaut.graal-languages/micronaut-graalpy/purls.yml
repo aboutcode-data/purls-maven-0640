@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.graal-languages/micronaut-graalpy@1.0.0?classifier=sources
+- pkg:maven/io.micronaut.graal-languages/micronaut-graalpy@1.1.0?classifier=sources

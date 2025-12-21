@@ -1,1 +1,2 @@
 - pkg:maven/com.apexfintechsolutions/ascendsdk@1.0.0?classifier=sources
+- pkg:maven/com.apexfintechsolutions/ascendsdk@1.2.0?classifier=sources

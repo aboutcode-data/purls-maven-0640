@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/cipher-base@1.0.4?classifier=sources
+- pkg:maven/org.mvnpm/cipher-base@1.0.6?classifier=sources

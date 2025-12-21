@@ -23,6 +23,12 @@
 - pkg:maven/com.contentstack.sdk/utils@1.2.13?classifier=sources
 - pkg:maven/com.contentstack.sdk/utils@1.2.14
 - pkg:maven/com.contentstack.sdk/utils@1.2.14?classifier=sources
+- pkg:maven/com.contentstack.sdk/utils@1.2.15
+- pkg:maven/com.contentstack.sdk/utils@1.2.15-beta.1
+- pkg:maven/com.contentstack.sdk/utils@1.2.15-beta.1?classifier=sources
+- pkg:maven/com.contentstack.sdk/utils@1.2.15-beta.2
+- pkg:maven/com.contentstack.sdk/utils@1.2.15-beta.2?classifier=sources
+- pkg:maven/com.contentstack.sdk/utils@1.2.15?classifier=sources
 - pkg:maven/com.contentstack.sdk/utils@1.2.1?classifier=sources
 - pkg:maven/com.contentstack.sdk/utils@1.2.2
 - pkg:maven/com.contentstack.sdk/utils@1.2.2?classifier=sources

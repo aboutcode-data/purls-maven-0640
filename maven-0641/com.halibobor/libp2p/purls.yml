@@ -1,1 +1,2 @@
 - pkg:maven/com.halibobor/libp2p@0.0.1?classifier=sources
+- pkg:maven/com.halibobor/libp2p@2.2.6?classifier=sources

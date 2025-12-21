@@ -1,2 +1,4 @@
 - pkg:maven/dev.pcms/lombok-maven-plugin@1.18.20.1
 - pkg:maven/dev.pcms/lombok-maven-plugin@1.18.20.1?classifier=sources
+- pkg:maven/dev.pcms/lombok-maven-plugin@1.18.36.1?classifier=sources
+- pkg:maven/dev.pcms/lombok-maven-plugin@1.18.36.2?classifier=sources

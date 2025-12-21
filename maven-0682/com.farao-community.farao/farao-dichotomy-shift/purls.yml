@@ -62,6 +62,8 @@
 - pkg:maven/com.farao-community.farao/farao-dichotomy-shift@4.24.0?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-dichotomy-shift@4.25.0
 - pkg:maven/com.farao-community.farao/farao-dichotomy-shift@4.25.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-dichotomy-shift@4.26.0
+- pkg:maven/com.farao-community.farao/farao-dichotomy-shift@4.26.0?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-dichotomy-shift@4.3.0
 - pkg:maven/com.farao-community.farao/farao-dichotomy-shift@4.3.0?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-dichotomy-shift@4.4.0

@@ -28,5 +28,7 @@
 - pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk@3.3.0
 - pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk@3.3.0?classifier=sources
 - pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk@3.3.2?classifier=sources
+- pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk@3.3.3?classifier=sources
 - pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk@4.0.1?classifier=sources
 - pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk@4.0.2?classifier=sources
+- pkg:maven/io.quarkiverse.logging.splunk/quarkus-logging-splunk@4.0.3?classifier=sources

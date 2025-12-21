@@ -2,3 +2,4 @@
 - pkg:maven/com.acrolinx.client/sdk-bnd@1.0.22?classifier=sources
 - pkg:maven/com.acrolinx.client/sdk-bnd@1.1.0?classifier=sources
 - pkg:maven/com.acrolinx.client/sdk-bnd@1.1.1?classifier=sources
+- pkg:maven/com.acrolinx.client/sdk-bnd@1.1.2?classifier=sources

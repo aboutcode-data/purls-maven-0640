@@ -36,6 +36,8 @@
 - pkg:maven/com.github.marks-yag/retry@0.14.3?classifier=sources
 - pkg:maven/com.github.marks-yag/retry@0.14.4
 - pkg:maven/com.github.marks-yag/retry@0.14.4?classifier=sources
+- pkg:maven/com.github.marks-yag/retry@0.14.5
+- pkg:maven/com.github.marks-yag/retry@0.14.5?classifier=sources
 - pkg:maven/com.github.marks-yag/retry@0.2.0
 - pkg:maven/com.github.marks-yag/retry@0.2.0?classifier=sources
 - pkg:maven/com.github.marks-yag/retry@0.3.0

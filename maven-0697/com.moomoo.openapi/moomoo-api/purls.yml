@@ -30,3 +30,5 @@
 - pkg:maven/com.moomoo.openapi/moomoo-api@8.8.4808?classifier=sources
 - pkg:maven/com.moomoo.openapi/moomoo-api@9.0.5008
 - pkg:maven/com.moomoo.openapi/moomoo-api@9.0.5008?classifier=sources
+- pkg:maven/com.moomoo.openapi/moomoo-api@9.1.5108
+- pkg:maven/com.moomoo.openapi/moomoo-api@9.1.5108?classifier=sources

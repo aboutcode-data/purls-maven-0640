@@ -28,6 +28,14 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1165?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1167
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1167?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1214
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1214?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1217
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1217?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1221
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1221?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1225
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.1225?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mariadb@3.1.180

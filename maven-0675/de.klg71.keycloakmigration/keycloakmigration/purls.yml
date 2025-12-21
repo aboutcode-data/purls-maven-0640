@@ -105,3 +105,4 @@
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.76?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.77?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.7?classifier=sources
+- pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.80?classifier=sources

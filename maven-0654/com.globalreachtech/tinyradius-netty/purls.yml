@@ -25,3 +25,4 @@
 - pkg:maven/com.globalreachtech/tinyradius-netty@2.0.0?classifier=sources
 - pkg:maven/com.globalreachtech/tinyradius-netty@2.0.1?classifier=sources
 - pkg:maven/com.globalreachtech/tinyradius-netty@2.1.0?classifier=sources
+- pkg:maven/com.globalreachtech/tinyradius-netty@2.2.0?classifier=sources

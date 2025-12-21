@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cmake-maven-plugin/cmake-binaries-plugin@3.31.5-b2?classifier=sources
+- pkg:maven/io.github.cmake-maven-plugin/cmake-binaries-plugin@3.31.6-b1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/remi@1.1.1?classifier=sources
+- pkg:maven/org.mvnpm/remi@2.0.1?classifier=sources

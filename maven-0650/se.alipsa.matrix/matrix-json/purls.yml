@@ -1,1 +1,2 @@
 - pkg:maven/se.alipsa.matrix/matrix-json@1.1.0?classifier=sources
+- pkg:maven/se.alipsa.matrix/matrix-json@2.0.0?classifier=sources

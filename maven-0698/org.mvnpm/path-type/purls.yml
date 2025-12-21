@@ -1,2 +1,6 @@
+- pkg:maven/org.mvnpm/path-type@1.1.0?classifier=sources
+- pkg:maven/org.mvnpm/path-type@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm/path-type@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/path-type@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/path-type@5.0.0?classifier=sources
+- pkg:maven/org.mvnpm/path-type@6.0.0?classifier=sources

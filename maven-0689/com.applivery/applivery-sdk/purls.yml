@@ -21,3 +21,5 @@
 - pkg:maven/com.applivery/applivery-sdk@4.0.0-alpha4?classifier=sources
 - pkg:maven/com.applivery/applivery-sdk@4.0.0-alpha5?classifier=sources
 - pkg:maven/com.applivery/applivery-sdk@4.0.0-alpha6?classifier=sources
+- pkg:maven/com.applivery/applivery-sdk@4.0.0?classifier=sources
+- pkg:maven/com.applivery/applivery-sdk@4.1.0?classifier=sources

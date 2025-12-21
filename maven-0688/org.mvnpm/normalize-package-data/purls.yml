@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/normalize-package-data@2.5.0?classifier=sources
+- pkg:maven/org.mvnpm/normalize-package-data@3.0.3?classifier=sources
+- pkg:maven/org.mvnpm/normalize-package-data@6.0.2?classifier=sources
+- pkg:maven/org.mvnpm/normalize-package-data@7.0.0?classifier=sources

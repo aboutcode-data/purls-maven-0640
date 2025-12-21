@@ -1,2 +1,7 @@
+- pkg:maven/org.mvnpm/uuid@11.1.0?classifier=sources
+- pkg:maven/org.mvnpm/uuid@2.0.3?classifier=sources
 - pkg:maven/org.mvnpm/uuid@3.3.2?classifier=sources
+- pkg:maven/org.mvnpm/uuid@3.4.0?classifier=sources
+- pkg:maven/org.mvnpm/uuid@8.0.0?classifier=sources
+- pkg:maven/org.mvnpm/uuid@8.3.2?classifier=sources
 - pkg:maven/org.mvnpm/uuid@9.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/nl.vroste/zio-kinesis-test-utils_2.13@0.36.0
+- pkg:maven/nl.vroste/zio-kinesis-test-utils_2.13@0.36.0?classifier=sources

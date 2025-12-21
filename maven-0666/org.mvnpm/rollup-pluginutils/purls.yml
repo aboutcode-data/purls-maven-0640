@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/rollup-pluginutils@1.5.2?classifier=sources
+- pkg:maven/org.mvnpm/rollup-pluginutils@2.8.2?classifier=sources

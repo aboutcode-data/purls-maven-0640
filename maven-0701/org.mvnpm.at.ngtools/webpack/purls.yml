@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm.at.ngtools/webpack@1.10.2?classifier=sources
+- pkg:maven/org.mvnpm.at.ngtools/webpack@19.2.3?classifier=sources
+- pkg:maven/org.mvnpm.at.ngtools/webpack@19.2.4?classifier=sources
+- pkg:maven/org.mvnpm.at.ngtools/webpack@19.2.5?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.netease.nesrsdk.external-recognition/nesr-sdk@0.0.4?classifier=sources
 - pkg:maven/com.netease.nesrsdk.external-recognition/nesr-sdk@0.0.5?classifier=sources
 - pkg:maven/com.netease.nesrsdk.external-recognition/nesr-sdk@0.0.6?classifier=sources
+- pkg:maven/com.netease.nesrsdk.external-recognition/nesr-sdk@0.0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/thingies@1.21.0?classifier=sources
+- pkg:maven/org.mvnpm/thingies@2.5.0?classifier=sources

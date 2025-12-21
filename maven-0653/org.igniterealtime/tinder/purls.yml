@@ -12,3 +12,5 @@
 - pkg:maven/org.igniterealtime/tinder@1.2.3?classifier=sources
 - pkg:maven/org.igniterealtime/tinder@1.3.0
 - pkg:maven/org.igniterealtime/tinder@1.3.0?classifier=sources
+- pkg:maven/org.igniterealtime/tinder@2.0.0?classifier=sources
+- pkg:maven/org.igniterealtime/tinder@2.1.0?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.appliedenergistics/appliedenergistics2@19.2.3-beta?classifier=sources
 - pkg:maven/org.appliedenergistics/appliedenergistics2@19.2.4?classifier=sources
 - pkg:maven/org.appliedenergistics/appliedenergistics2@19.2.5-beta?classifier=sources
+- pkg:maven/org.appliedenergistics/appliedenergistics2@19.2.6-beta?classifier=sources
+- pkg:maven/org.appliedenergistics/appliedenergistics2@19.2.7?classifier=sources

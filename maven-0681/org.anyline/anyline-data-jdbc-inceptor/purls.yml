@@ -24,6 +24,10 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-20250212?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-20250225
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-20250225?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-20250312
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-20250312?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-20250401
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-20250401?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk11-20241231
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk11-20241231?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk11-20250101
@@ -34,6 +38,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk11-20250108?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk11-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk11-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk11-20250312
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk11-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk17-20241125
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk17-20241125?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk17-20241231
@@ -48,6 +54,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk17-20250109?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk17-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk17-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk17-20250312
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk17-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk21-20241125
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk21-20241125?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk21-20241203
@@ -64,3 +72,5 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk21-20250109?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk21-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk21-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk21-20250312
+- pkg:maven/org.anyline/anyline-data-jdbc-inceptor@8.7.2-jdk21-20250312?classifier=sources

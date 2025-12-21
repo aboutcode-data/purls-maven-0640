@@ -38,3 +38,5 @@
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@2.1.0?classifier=sources
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@2.2.0
 - pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@2.2.0?classifier=sources
+- pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@2.3.0
+- pkg:maven/org.meeuw.i18n/i18n-regions-subdivisions@2.3.0?classifier=sources

@@ -2,5 +2,7 @@
 - pkg:maven/org.virtuslab/besom-linode_3@4.12.0-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-linode_3@4.18.0-core.0.3
 - pkg:maven/org.virtuslab/besom-linode_3@4.18.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-linode_3@4.35.0-core.0.4
+- pkg:maven/org.virtuslab/besom-linode_3@4.35.0-core.0.4?classifier=sources
 - pkg:maven/org.virtuslab/besom-linode_3@4.6.1-core.0.1.0
 - pkg:maven/org.virtuslab/besom-linode_3@4.6.1-core.0.1.0?classifier=sources

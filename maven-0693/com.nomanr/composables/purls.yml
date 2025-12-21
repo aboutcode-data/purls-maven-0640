@@ -11,3 +11,4 @@
 - pkg:maven/com.nomanr/composables@0.0.1-alpha.9?classifier=sources
 - pkg:maven/com.nomanr/composables@0.0.1?classifier=sources
 - pkg:maven/com.nomanr/composables@1.0.0?classifier=sources
+- pkg:maven/com.nomanr/composables@1.1.0?classifier=sources

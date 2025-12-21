@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/is-path-cwd@2.2.0?classifier=sources
+- pkg:maven/org.mvnpm/is-path-cwd@3.0.0?classifier=sources

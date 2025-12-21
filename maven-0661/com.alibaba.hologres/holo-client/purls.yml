@@ -88,3 +88,5 @@
 - pkg:maven/com.alibaba.hologres/holo-client@2.5.8?classifier=sources
 - pkg:maven/com.alibaba.hologres/holo-client@2.5.9
 - pkg:maven/com.alibaba.hologres/holo-client@2.5.9?classifier=sources
+- pkg:maven/com.alibaba.hologres/holo-client@2.6.0
+- pkg:maven/com.alibaba.hologres/holo-client@2.6.0?classifier=sources

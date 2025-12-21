@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/get-caller-file@1.0.3?classifier=sources
 - pkg:maven/org.mvnpm/get-caller-file@2.0.5?classifier=sources

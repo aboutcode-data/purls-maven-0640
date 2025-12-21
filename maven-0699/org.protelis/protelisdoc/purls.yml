@@ -80,4 +80,6 @@
 - pkg:maven/org.protelis/protelisdoc@3.0.81?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.82?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.83?classifier=sources
+- pkg:maven/org.protelis/protelisdoc@3.0.85?classifier=sources
+- pkg:maven/org.protelis/protelisdoc@3.0.86?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.8?classifier=sources

@@ -16,6 +16,7 @@
 - pkg:maven/com.mybatis-flex/mybatis-flex-processor@1.10.7?classifier=sources
 - pkg:maven/com.mybatis-flex/mybatis-flex-processor@1.10.8
 - pkg:maven/com.mybatis-flex/mybatis-flex-processor@1.10.8?classifier=sources
+- pkg:maven/com.mybatis-flex/mybatis-flex-processor@1.10.9?classifier=sources
 - pkg:maven/com.mybatis-flex/mybatis-flex-processor@1.2.1
 - pkg:maven/com.mybatis-flex/mybatis-flex-processor@1.2.1?classifier=sources
 - pkg:maven/com.mybatis-flex/mybatis-flex-processor@1.2.2

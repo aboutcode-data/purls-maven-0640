@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/eventemitter2@0.4.14?classifier=sources
+- pkg:maven/org.mvnpm/eventemitter2@4.1.2?classifier=sources
 - pkg:maven/org.mvnpm/eventemitter2@5.0.1?classifier=sources
+- pkg:maven/org.mvnpm/eventemitter2@6.4.9?classifier=sources

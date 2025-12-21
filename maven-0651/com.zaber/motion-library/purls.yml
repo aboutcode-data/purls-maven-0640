@@ -570,3 +570,5 @@
 - pkg:maven/com.zaber/motion-library@7.5.0-RC
 - pkg:maven/com.zaber/motion-library@7.5.0-RC?classifier=sources
 - pkg:maven/com.zaber/motion-library@7.5.0?classifier=sources
+- pkg:maven/com.zaber/motion-library@7.5.1-RC
+- pkg:maven/com.zaber/motion-library@7.5.1-RC?classifier=sources

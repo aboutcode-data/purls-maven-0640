@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/ansi-escapes@1.4.0?classifier=sources
+- pkg:maven/org.mvnpm/ansi-escapes@4.3.2?classifier=sources
+- pkg:maven/org.mvnpm/ansi-escapes@6.2.1?classifier=sources
+- pkg:maven/org.mvnpm/ansi-escapes@7.0.0?classifier=sources

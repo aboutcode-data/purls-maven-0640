@@ -55,6 +55,7 @@
 - pkg:maven/org.apache.camel.springboot/spring-boot@3.22.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@3.22.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@3.22.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.springboot/spring-boot@3.22.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@3.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@3.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@3.4.1?classifier=source-release&type=zip
@@ -89,6 +90,9 @@
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.0.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.10.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.springboot/spring-boot@4.10.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.springboot/spring-boot@4.10.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.springboot/spring-boot@4.10.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.4.0?classifier=source-release&type=zip
@@ -104,4 +108,7 @@
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.8.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.8.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.8.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.springboot/spring-boot@4.8.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.springboot/spring-boot@4.8.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.springboot/spring-boot@4.8.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.springboot/spring-boot@4.9.0?classifier=source-release&type=zip

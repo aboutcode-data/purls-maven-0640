@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-meraki_3@0.4.1-core.0.4
+- pkg:maven/org.virtuslab/besom-meraki_3@0.4.1-core.0.4?classifier=sources

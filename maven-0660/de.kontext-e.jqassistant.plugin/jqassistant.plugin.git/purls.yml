@@ -61,3 +61,4 @@
 - pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@2.2.2?classifier=sources
 - pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@2.2.3?classifier=sources
 - pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@2.3.0?classifier=sources
+- pkg:maven/de.kontext-e.jqassistant.plugin/jqassistant.plugin.git@2.4.0?classifier=sources

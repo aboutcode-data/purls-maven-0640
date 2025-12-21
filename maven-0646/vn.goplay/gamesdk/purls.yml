@@ -1,0 +1,3 @@
+- pkg:maven/vn.goplay/gamesdk@2.0.0?classifier=sources
+- pkg:maven/vn.goplay/gamesdk@2.0.3?classifier=sources
+- pkg:maven/vn.goplay/gamesdk@2.0.4?classifier=sources

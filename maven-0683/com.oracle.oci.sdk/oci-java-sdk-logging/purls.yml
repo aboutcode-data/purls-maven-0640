@@ -454,8 +454,14 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.57.2?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.58.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.58.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.59.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.59.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.6.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.60.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.60.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.61.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.61.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.7.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.7.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-logging@3.8.0

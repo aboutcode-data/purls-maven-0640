@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cassandra/sidecar-client@0.1.0-jdk8?classifier=sources
+- pkg:maven/org.apache.cassandra/sidecar-client@0.1.0?classifier=sources

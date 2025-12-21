@@ -1,0 +1,2 @@
+- pkg:maven/software.visionary.archive/query-api@2025.02.27?classifier=sources
+- pkg:maven/software.visionary.archive/query-api@2025.03.28?classifier=sources

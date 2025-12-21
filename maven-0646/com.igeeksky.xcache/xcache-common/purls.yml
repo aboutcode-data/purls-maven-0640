@@ -1,2 +1,4 @@
 - pkg:maven/com.igeeksky.xcache/xcache-common@0.9.10?classifier=sources
+- pkg:maven/com.igeeksky.xcache/xcache-common@0.9.23?classifier=sources
 - pkg:maven/com.igeeksky.xcache/xcache-common@0.9.9?classifier=sources
+- pkg:maven/com.igeeksky.xcache/xcache-common@1.0.0?classifier=sources

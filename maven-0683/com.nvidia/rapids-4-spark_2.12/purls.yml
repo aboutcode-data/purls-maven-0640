@@ -82,3 +82,5 @@
 - pkg:maven/com.nvidia/rapids-4-spark_2.12@24.12.1?classifier=sources
 - pkg:maven/com.nvidia/rapids-4-spark_2.12@25.02.0
 - pkg:maven/com.nvidia/rapids-4-spark_2.12@25.02.0?classifier=sources
+- pkg:maven/com.nvidia/rapids-4-spark_2.12@25.02.1
+- pkg:maven/com.nvidia/rapids-4-spark_2.12@25.02.1?classifier=sources

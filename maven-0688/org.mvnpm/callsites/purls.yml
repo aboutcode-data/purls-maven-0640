@@ -1,1 +1,5 @@
+- pkg:maven/org.mvnpm/callsites@0.2.0?classifier=sources
+- pkg:maven/org.mvnpm/callsites@1.0.0?classifier=sources
+- pkg:maven/org.mvnpm/callsites@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/callsites@3.1.0?classifier=sources
+- pkg:maven/org.mvnpm/callsites@4.2.0?classifier=sources

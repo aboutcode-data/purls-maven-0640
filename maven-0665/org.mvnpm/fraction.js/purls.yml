@@ -1,0 +1,3 @@
+- pkg:maven/org.mvnpm/fraction.js@4.3.7?classifier=sources
+- pkg:maven/org.mvnpm/fraction.js@5.2.1?classifier=sources
+- pkg:maven/org.mvnpm/fraction.js@5.2.2?classifier=sources

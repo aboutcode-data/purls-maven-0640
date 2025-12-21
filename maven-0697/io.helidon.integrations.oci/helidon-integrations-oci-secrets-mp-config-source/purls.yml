@@ -64,3 +64,5 @@
 - pkg:maven/io.helidon.integrations.oci/helidon-integrations-oci-secrets-mp-config-source@4.1.6?classifier=sources
 - pkg:maven/io.helidon.integrations.oci/helidon-integrations-oci-secrets-mp-config-source@4.1.7
 - pkg:maven/io.helidon.integrations.oci/helidon-integrations-oci-secrets-mp-config-source@4.1.7?classifier=sources
+- pkg:maven/io.helidon.integrations.oci/helidon-integrations-oci-secrets-mp-config-source@4.2.0
+- pkg:maven/io.helidon.integrations.oci/helidon-integrations-oci-secrets-mp-config-source@4.2.0?classifier=sources

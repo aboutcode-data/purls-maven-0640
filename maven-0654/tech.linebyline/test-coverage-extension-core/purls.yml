@@ -1,0 +1,3 @@
+- pkg:maven/tech.linebyline/test-coverage-extension-core@1.0.0-ALPHA?classifier=sources
+- pkg:maven/tech.linebyline/test-coverage-extension-core@1.0.1-ALPHA?classifier=sources
+- pkg:maven/tech.linebyline/test-coverage-extension-core@1.0.2-ALPHA?classifier=sources
