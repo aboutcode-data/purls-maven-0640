@@ -1,3 +1,5 @@
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@10.0.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@10.0.0?classifier=sources
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@4.1.0
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@4.1.0?classifier=sources
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@5.0.0
@@ -10,3 +12,17 @@
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@6.0.2?classifier=sources
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@7.0.0
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@7.0.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.0.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.0.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.0.1
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.0.1?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.1.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.1.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.2.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.2.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.3.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.3.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.4.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@8.4.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@9.0.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-query-api@9.0.0?classifier=sources

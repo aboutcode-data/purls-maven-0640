@@ -15,6 +15,11 @@
 - pkg:maven/org.protelis/protelisdoc@3.0.107?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.108?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.109?classifier=sources
+- pkg:maven/org.protelis/protelisdoc@3.0.110?classifier=sources
+- pkg:maven/org.protelis/protelisdoc@3.0.111?classifier=sources
+- pkg:maven/org.protelis/protelisdoc@3.0.112?classifier=sources
+- pkg:maven/org.protelis/protelisdoc@3.0.113?classifier=sources
+- pkg:maven/org.protelis/protelisdoc@3.0.114?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.15?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.16?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.17?classifier=sources

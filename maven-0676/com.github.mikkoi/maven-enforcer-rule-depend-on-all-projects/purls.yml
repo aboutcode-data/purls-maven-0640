@@ -1,0 +1,9 @@
+- pkg:maven/com.github.mikkoi/maven-enforcer-rule-depend-on-all-projects@0.0.10?classifier=sources
+- pkg:maven/com.github.mikkoi/maven-enforcer-rule-depend-on-all-projects@0.0.13?classifier=sources
+- pkg:maven/com.github.mikkoi/maven-enforcer-rule-depend-on-all-projects@0.0.14?classifier=sources
+- pkg:maven/com.github.mikkoi/maven-enforcer-rule-depend-on-all-projects@0.0.15?classifier=sources
+- pkg:maven/com.github.mikkoi/maven-enforcer-rule-depend-on-all-projects@0.0.2?classifier=sources
+- pkg:maven/com.github.mikkoi/maven-enforcer-rule-depend-on-all-projects@0.0.6?classifier=sources
+- pkg:maven/com.github.mikkoi/maven-enforcer-rule-depend-on-all-projects@0.0.7?classifier=sources
+- pkg:maven/com.github.mikkoi/maven-enforcer-rule-depend-on-all-projects@0.0.8?classifier=sources
+- pkg:maven/com.github.mikkoi/maven-enforcer-rule-depend-on-all-projects@0.0.9?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/net.wicp.tams/common-doris@6.0.0?classifier=sources
 - pkg:maven/net.wicp.tams/common-doris@6.1.0
 - pkg:maven/net.wicp.tams/common-doris@6.1.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-doris@7.0.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-doris@7.0.2?classifier=sources

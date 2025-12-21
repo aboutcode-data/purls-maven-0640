@@ -83,3 +83,4 @@
 - pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.9.1
 - pkg:maven/org.codelibs.fess/fess-ds-sharepoint@14.9.1?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-sharepoint@15.0.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-sharepoint@15.2.0?classifier=sources

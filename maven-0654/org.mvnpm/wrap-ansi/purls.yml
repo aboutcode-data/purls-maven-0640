@@ -4,3 +4,5 @@
 - pkg:maven/org.mvnpm/wrap-ansi@7.0.0?classifier=sources
 - pkg:maven/org.mvnpm/wrap-ansi@8.1.0?classifier=sources
 - pkg:maven/org.mvnpm/wrap-ansi@9.0.0?classifier=sources
+- pkg:maven/org.mvnpm/wrap-ansi@9.0.2
+- pkg:maven/org.mvnpm/wrap-ansi@9.0.2?classifier=sources

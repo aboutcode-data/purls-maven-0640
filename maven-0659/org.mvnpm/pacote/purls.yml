@@ -2,3 +2,7 @@
 - pkg:maven/org.mvnpm/pacote@19.0.1?classifier=sources
 - pkg:maven/org.mvnpm/pacote@20.0.0?classifier=sources
 - pkg:maven/org.mvnpm/pacote@21.0.0?classifier=sources
+- pkg:maven/org.mvnpm/pacote@21.0.1
+- pkg:maven/org.mvnpm/pacote@21.0.1?classifier=sources
+- pkg:maven/org.mvnpm/pacote@21.0.3
+- pkg:maven/org.mvnpm/pacote@21.0.3?classifier=sources

@@ -171,6 +171,10 @@
 - pkg:maven/com.google.auth/google-auth-library-appengine@1.37.1?classifier=sources
 - pkg:maven/com.google.auth/google-auth-library-appengine@1.38.0
 - pkg:maven/com.google.auth/google-auth-library-appengine@1.38.0?classifier=sources
+- pkg:maven/com.google.auth/google-auth-library-appengine@1.39.0
+- pkg:maven/com.google.auth/google-auth-library-appengine@1.39.0?classifier=sources
+- pkg:maven/com.google.auth/google-auth-library-appengine@1.39.1
+- pkg:maven/com.google.auth/google-auth-library-appengine@1.39.1?classifier=sources
 - pkg:maven/com.google.auth/google-auth-library-appengine@1.4.0
 - pkg:maven/com.google.auth/google-auth-library-appengine@1.4.0?classifier=sources
 - pkg:maven/com.google.auth/google-auth-library-appengine@1.5.3

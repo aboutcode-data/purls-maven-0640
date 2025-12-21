@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/tsconfig-paths@3.15.0
 - pkg:maven/org.mvnpm/tsconfig-paths@3.15.0?classifier=sources
+- pkg:maven/org.mvnpm/tsconfig-paths@4.2.0
+- pkg:maven/org.mvnpm/tsconfig-paths@4.2.0?classifier=sources

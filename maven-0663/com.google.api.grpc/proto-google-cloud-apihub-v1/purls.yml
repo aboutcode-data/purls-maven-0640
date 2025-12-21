@@ -32,6 +32,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apihub-v1@0.25.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apihub-v1@0.26.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apihub-v1@0.26.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-apihub-v1@0.27.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-apihub-v1@0.27.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apihub-v1@0.4.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apihub-v1@0.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-apihub-v1@0.5.0

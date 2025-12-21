@@ -1,3 +1,6 @@
+- pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Alpha13?classifier=sources
+- pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Alpha14?classifier=sources
+- pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Alpha15?classifier=sources
 - pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Alpha2
 - pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Alpha2?classifier=sources
 - pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Alpha5
@@ -5,3 +8,4 @@
 - pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Alpha6
 - pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Alpha6?classifier=sources
 - pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Alpha7?classifier=sources
+- pkg:maven/dev.resteasy.grpc/grpc-tests@1.0.0.Beta1?classifier=sources

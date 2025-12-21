@@ -20,3 +20,8 @@
 - pkg:maven/network.particle/connect-kit@2.1.8?classifier=sources
 - pkg:maven/network.particle/connect-kit@2.1.9?classifier=sources
 - pkg:maven/network.particle/connect-kit@2.3.0?classifier=sources
+- pkg:maven/network.particle/connect-kit@2.4.2?classifier=sources
+- pkg:maven/network.particle/connect-kit@2.4.3?classifier=sources
+- pkg:maven/network.particle/connect-kit@2.4.4?classifier=sources
+- pkg:maven/network.particle/connect-kit@2.5.0?classifier=sources
+- pkg:maven/network.particle/connect-kit@2.5.1?classifier=sources

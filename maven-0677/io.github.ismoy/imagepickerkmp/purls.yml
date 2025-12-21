@@ -3,4 +3,5 @@
 - pkg:maven/io.github.ismoy/imagepickerkmp@1.0.21?classifier=sources
 - pkg:maven/io.github.ismoy/imagepickerkmp@1.0.22?classifier=sources
 - pkg:maven/io.github.ismoy/imagepickerkmp@1.0.23?classifier=sources
+- pkg:maven/io.github.ismoy/imagepickerkmp@1.0.24-beta?classifier=sources
 - pkg:maven/io.github.ismoy/imagepickerkmp@1.0.2?classifier=sources

@@ -127,3 +127,5 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-i18n-autoconfigure@6.3.10?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-i18n-autoconfigure@7.0.0?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-i18n-autoconfigure@7.0.1?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-i18n-autoconfigure@7.1.0?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-i18n-autoconfigure@7.1.1?classifier=sources

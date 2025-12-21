@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lvhao01/lv-kws-plugin@1.0.0?classifier=sources
+- pkg:maven/io.github.lvhao01/lv-kws-plugin@1.0.0?type=aar

@@ -43,3 +43,6 @@
 - pkg:maven/com.vaadin/sso-kit-core@3.1.2?classifier=sources
 - pkg:maven/com.vaadin/sso-kit-core@3.2.0-beta1?classifier=sources
 - pkg:maven/com.vaadin/sso-kit-core@3.2.0-beta2?classifier=sources
+- pkg:maven/com.vaadin/sso-kit-core@3.2.0-beta3?classifier=sources
+- pkg:maven/com.vaadin/sso-kit-core@3.2.0-rc1?classifier=sources
+- pkg:maven/com.vaadin/sso-kit-core@3.2.0?classifier=sources

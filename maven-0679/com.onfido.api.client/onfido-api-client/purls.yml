@@ -156,6 +156,7 @@
 - pkg:maven/com.onfido.api.client/onfido-api-client@22.9.2?classifier=sources
 - pkg:maven/com.onfido.api.client/onfido-api-client@23.0.0?classifier=sources
 - pkg:maven/com.onfido.api.client/onfido-api-client@23.1.0?classifier=sources
+- pkg:maven/com.onfido.api.client/onfido-api-client@23.2.0?classifier=sources
 - pkg:maven/com.onfido.api.client/onfido-api-client@3.0.0
 - pkg:maven/com.onfido.api.client/onfido-api-client@3.0.0?classifier=sources
 - pkg:maven/com.onfido.api.client/onfido-api-client@3.1.0

@@ -90,6 +90,7 @@
 - pkg:maven/com.mindee.sdk/mindee-api-java@4.33.0-rc4?classifier=sources
 - pkg:maven/com.mindee.sdk/mindee-api-java@4.33.0?classifier=sources
 - pkg:maven/com.mindee.sdk/mindee-api-java@4.34.0?classifier=sources
+- pkg:maven/com.mindee.sdk/mindee-api-java@4.35.0?classifier=sources
 - pkg:maven/com.mindee.sdk/mindee-api-java@4.4.0
 - pkg:maven/com.mindee.sdk/mindee-api-java@4.4.0?classifier=sources
 - pkg:maven/com.mindee.sdk/mindee-api-java@4.4.1

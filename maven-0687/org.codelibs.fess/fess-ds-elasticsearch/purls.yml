@@ -90,3 +90,4 @@
 - pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@14.9.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@15.0.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@15.1.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-elasticsearch@15.2.0?classifier=sources

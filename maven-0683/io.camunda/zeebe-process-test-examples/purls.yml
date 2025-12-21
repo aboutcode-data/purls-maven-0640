@@ -372,6 +372,7 @@
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.6.24?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.6.25?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.6.26?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-examples@8.6.27?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.6.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.6.3
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.6.3?classifier=sources
@@ -441,6 +442,7 @@
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.7.10?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.7.11?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.7.12?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-examples@8.7.13?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.7.1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.7.2
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.7.2-rc1
@@ -493,9 +495,11 @@
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha7-rc1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha7-rc2?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha7?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha8
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha8-rc1
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha8-rc1?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha8-rc2
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha8-rc2?classifier=sources
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha8-rc3
 - pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha8-rc3?classifier=sources
+- pkg:maven/io.camunda/zeebe-process-test-examples@8.8.0-alpha8?classifier=sources

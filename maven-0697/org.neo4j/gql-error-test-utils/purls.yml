@@ -20,3 +20,5 @@
 - pkg:maven/org.neo4j/gql-error-test-utils@2025.07.1?classifier=sources
 - pkg:maven/org.neo4j/gql-error-test-utils@2025.08.0
 - pkg:maven/org.neo4j/gql-error-test-utils@2025.08.0?classifier=sources
+- pkg:maven/org.neo4j/gql-error-test-utils@2025.09.0
+- pkg:maven/org.neo4j/gql-error-test-utils@2025.09.0?classifier=sources

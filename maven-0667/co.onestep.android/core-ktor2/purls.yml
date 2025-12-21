@@ -9,3 +9,4 @@
 - pkg:maven/co.onestep.android/core-ktor2@1.3.7?classifier=sources
 - pkg:maven/co.onestep.android/core-ktor2@1.3.8?classifier=sources
 - pkg:maven/co.onestep.android/core-ktor2@1.3.9?classifier=sources
+- pkg:maven/co.onestep.android/core-ktor2@1.4.0?classifier=sources

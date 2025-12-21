@@ -33,3 +33,5 @@
 - pkg:maven/com.google.appengine.demos/sample-with-classes@2.0.38?classifier=sources
 - pkg:maven/com.google.appengine.demos/sample-with-classes@2.0.38?type=war
 - pkg:maven/com.google.appengine.demos/sample-with-classes@2.0.39-beta?classifier=sources
+- pkg:maven/com.google.appengine.demos/sample-with-classes@2.0.39?classifier=sources
+- pkg:maven/com.google.appengine.demos/sample-with-classes@3.0.0-beta?classifier=sources

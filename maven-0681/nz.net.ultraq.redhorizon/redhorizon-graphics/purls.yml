@@ -1,0 +1,2 @@
+- pkg:maven/nz.net.ultraq.redhorizon/redhorizon-graphics@0.40.0?classifier=sources
+- pkg:maven/nz.net.ultraq.redhorizon/redhorizon-graphics@0.40.1?classifier=sources

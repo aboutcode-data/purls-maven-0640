@@ -6,3 +6,4 @@
 - pkg:maven/io.gorules/zen-engine-kotlin@0.1.8?classifier=sources
 - pkg:maven/io.gorules/zen-engine-kotlin@0.1.9?classifier=sources
 - pkg:maven/io.gorules/zen-engine-kotlin@0.3.0?classifier=sources
+- pkg:maven/io.gorules/zen-engine-kotlin@0.4.0?classifier=sources

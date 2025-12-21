@@ -32,3 +32,4 @@
 - pkg:maven/dev.dsf/dsf-bpe-process-api-v1@2.0.0-M2
 - pkg:maven/dev.dsf/dsf-bpe-process-api-v1@2.0.0-M2?classifier=sources
 - pkg:maven/dev.dsf/dsf-bpe-process-api-v1@2.0.0-M3?classifier=sources
+- pkg:maven/dev.dsf/dsf-bpe-process-api-v1@2.0.0-M4?classifier=sources

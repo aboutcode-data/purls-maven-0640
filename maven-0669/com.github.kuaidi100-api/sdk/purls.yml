@@ -18,7 +18,11 @@
 - pkg:maven/com.github.kuaidi100-api/sdk@1.0.1?classifier=sources
 - pkg:maven/com.github.kuaidi100-api/sdk@1.0.2
 - pkg:maven/com.github.kuaidi100-api/sdk@1.0.23-17?classifier=sources
+- pkg:maven/com.github.kuaidi100-api/sdk@1.0.23.1?classifier=sources
 - pkg:maven/com.github.kuaidi100-api/sdk@1.0.23?classifier=sources
+- pkg:maven/com.github.kuaidi100-api/sdk@1.0.24?classifier=sources
+- pkg:maven/com.github.kuaidi100-api/sdk@1.0.25.1?classifier=sources
+- pkg:maven/com.github.kuaidi100-api/sdk@1.0.25?classifier=sources
 - pkg:maven/com.github.kuaidi100-api/sdk@1.0.2?classifier=sources
 - pkg:maven/com.github.kuaidi100-api/sdk@1.0.3
 - pkg:maven/com.github.kuaidi100-api/sdk@1.0.3?classifier=sources

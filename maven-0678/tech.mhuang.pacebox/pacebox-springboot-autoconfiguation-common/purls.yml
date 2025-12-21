@@ -96,3 +96,6 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-autoconfiguation-common@2022.0.4.0?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-autoconfiguation-common@2023.0.0.0
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-autoconfiguation-common@2023.0.0.0?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-autoconfiguation-common@2025.0.0.0?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-autoconfiguation-common@2025.0.0.1?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-autoconfiguation-common@2025.0.0.2?classifier=sources

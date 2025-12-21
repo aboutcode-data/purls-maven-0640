@@ -1,0 +1,2 @@
+- pkg:maven/com.codestepfish/vline-sql-server-jtds@2.0.5?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-jtds@2.1.0?classifier=sources

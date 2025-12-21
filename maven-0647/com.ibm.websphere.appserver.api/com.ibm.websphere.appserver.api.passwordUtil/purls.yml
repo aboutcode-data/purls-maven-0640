@@ -1,5 +1,6 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.passwordUtil@1.0.103?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.passwordUtil@1.0.104?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.passwordUtil@1.0.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.passwordUtil@1.0.18
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.passwordUtil@1.0.19
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.passwordUtil@1.0.20

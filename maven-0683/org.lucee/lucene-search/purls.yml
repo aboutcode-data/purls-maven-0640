@@ -4,6 +4,9 @@
 - pkg:maven/org.lucee/lucene-search@3.0.0.1-ALPHA?classifier=sources
 - pkg:maven/org.lucee/lucene-search@3.0.0.161-BETA
 - pkg:maven/org.lucee/lucene-search@3.0.0.161-BETA?classifier=sources
+- pkg:maven/org.lucee/lucene-search@3.0.0.162-RC?classifier=sources
+- pkg:maven/org.lucee/lucene-search@3.0.0.163-RC?classifier=sources
+- pkg:maven/org.lucee/lucene-search@3.0.0.163?classifier=sources
 - pkg:maven/org.lucee/lucene-search@3.0.0.2-ALPHA
 - pkg:maven/org.lucee/lucene-search@3.0.0.2-ALPHA?classifier=sources
 - pkg:maven/org.lucee/lucene-search@3.0.0.3-ALPHA

@@ -21,3 +21,5 @@
 - pkg:maven/io.dapr.spring/dapr-spring-boot-starter@0.15.0-rc-8
 - pkg:maven/io.dapr.spring/dapr-spring-boot-starter@0.15.1
 - pkg:maven/io.dapr.spring/dapr-spring-boot-starter@0.16.0-rc-1
+- pkg:maven/io.dapr.spring/dapr-spring-boot-starter@1.16.0
+- pkg:maven/io.dapr.spring/dapr-spring-boot-starter@1.16.0-rc-2

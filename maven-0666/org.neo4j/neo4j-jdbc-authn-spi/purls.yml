@@ -4,3 +4,4 @@
 - pkg:maven/org.neo4j/neo4j-jdbc-authn-spi@6.7.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-authn-spi@6.7.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-jdbc-authn-spi@6.7.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-jdbc-authn-spi@6.8.0?classifier=sources

@@ -22,4 +22,8 @@
 - pkg:maven/org.mvnpm.at.vue/reactivity@3.5.19?classifier=sources
 - pkg:maven/org.mvnpm.at.vue/reactivity@3.5.20
 - pkg:maven/org.mvnpm.at.vue/reactivity@3.5.20?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/reactivity@3.5.21
+- pkg:maven/org.mvnpm.at.vue/reactivity@3.5.21?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/reactivity@3.5.22
+- pkg:maven/org.mvnpm.at.vue/reactivity@3.5.22?classifier=sources
 - pkg:maven/org.mvnpm.at.vue/reactivity@3.5.8?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/eu.codlab/kotlin-cex-spot-trading-iosarm64@0.0.3?classifier=sources
 - pkg:maven/eu.codlab/kotlin-cex-spot-trading-iosarm64@0.0.4-alpha10?classifier=sources
 - pkg:maven/eu.codlab/kotlin-cex-spot-trading-iosarm64@0.0.4-alpha11?classifier=sources
+- pkg:maven/eu.codlab/kotlin-cex-spot-trading-iosarm64@0.0.4-alpha12?classifier=sources

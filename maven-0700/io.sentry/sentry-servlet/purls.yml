@@ -371,6 +371,8 @@
 - pkg:maven/io.sentry/sentry-servlet@8.19.1?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.20.0?classifier=sources
+- pkg:maven/io.sentry/sentry-servlet@8.21.0?classifier=sources
+- pkg:maven/io.sentry/sentry-servlet@8.21.1?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.4.0?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.5.0?classifier=sources

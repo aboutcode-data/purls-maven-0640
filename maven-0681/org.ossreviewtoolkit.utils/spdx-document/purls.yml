@@ -31,3 +31,10 @@
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-document@66.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-document@66.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-document@66.0.3?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@66.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@67.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@67.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@68.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@68.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@68.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@69.0.0?classifier=sources

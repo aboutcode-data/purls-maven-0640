@@ -1,0 +1,4 @@
+- pkg:maven/io.github.tdminhnhat/generate-database@0.0.1-beta?classifier=sources
+- pkg:maven/io.github.tdminhnhat/generate-database@0.0.2-beta?classifier=sources
+- pkg:maven/io.github.tdminhnhat/generate-database@1.0.0?classifier=sources
+- pkg:maven/io.github.tdminhnhat/generate-database@1.1.0?classifier=sources

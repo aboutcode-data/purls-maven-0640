@@ -1,0 +1,2 @@
+- pkg:maven/com.gogolook.asi/safeconnection_core@1.2.0?classifier=sources
+- pkg:maven/com.gogolook.asi/safeconnection_core@1.2.0?type=aar

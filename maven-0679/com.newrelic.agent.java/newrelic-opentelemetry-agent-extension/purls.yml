@@ -13,5 +13,6 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-opentelemetry-agent-extension@8.21.0-alpha?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-opentelemetry-agent-extension@8.22.0-alpha?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-opentelemetry-agent-extension@8.23.0-alpha?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-opentelemetry-agent-extension@8.24.0-alpha?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-opentelemetry-agent-extension@8.9.0-alpha?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-opentelemetry-agent-extension@8.9.1-alpha?classifier=sources

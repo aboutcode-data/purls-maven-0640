@@ -42,6 +42,7 @@
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.2.0_for_spark_3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.0_for_spark_3
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.0_for_spark_3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.10_for_spark_3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.1_for_spark_3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.1_for_spark_3?type=zip
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.2_for_spark_3?classifier=sources
@@ -56,3 +57,4 @@
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.6_for_spark_3?type=zip
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.7_for_spark_3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.8_for_spark_3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.12@5.3.9_for_spark_3?classifier=sources

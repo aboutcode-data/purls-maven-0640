@@ -8,3 +8,4 @@
 - pkg:maven/com.teragrep/jla_06@1.1.0?classifier=sources
 - pkg:maven/com.teragrep/jla_06@1.2.0
 - pkg:maven/com.teragrep/jla_06@1.2.0?classifier=sources
+- pkg:maven/com.teragrep/jla_06@2.0.0?classifier=sources

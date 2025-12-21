@@ -7,3 +7,4 @@
 - pkg:maven/au.gov.qld.services.kiteworks/kiteworks-spring-service@1.0.18?classifier=sources
 - pkg:maven/au.gov.qld.services.kiteworks/kiteworks-spring-service@1.0.19?classifier=sources
 - pkg:maven/au.gov.qld.services.kiteworks/kiteworks-spring-service@1.0.20?classifier=sources
+- pkg:maven/au.gov.qld.services.kiteworks/kiteworks-spring-service@2.0.1?classifier=sources

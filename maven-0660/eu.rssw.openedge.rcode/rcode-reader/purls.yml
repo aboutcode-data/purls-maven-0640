@@ -156,3 +156,4 @@
 - pkg:maven/eu.rssw.openedge.rcode/rcode-reader@3.2.0?classifier=sources
 - pkg:maven/eu.rssw.openedge.rcode/rcode-reader@3.3.0?classifier=sources
 - pkg:maven/eu.rssw.openedge.rcode/rcode-reader@3.3.1?classifier=sources
+- pkg:maven/eu.rssw.openedge.rcode/rcode-reader@3.4.0?classifier=sources

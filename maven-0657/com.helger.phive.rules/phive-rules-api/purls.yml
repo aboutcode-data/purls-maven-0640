@@ -26,3 +26,4 @@
 - pkg:maven/com.helger.phive.rules/phive-rules-api@3.2.9
 - pkg:maven/com.helger.phive.rules/phive-rules-api@3.2.9?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-api@4.0.0?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-api@4.0.1?classifier=sources

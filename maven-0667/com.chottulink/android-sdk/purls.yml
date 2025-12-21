@@ -8,3 +8,5 @@
 - pkg:maven/com.chottulink/android-sdk@1.0.6?type=aar
 - pkg:maven/com.chottulink/android-sdk@1.0.7?classifier=sources
 - pkg:maven/com.chottulink/android-sdk@1.0.7?type=aar
+- pkg:maven/com.chottulink/android-sdk@1.0.8?classifier=sources
+- pkg:maven/com.chottulink/android-sdk@1.0.8?type=aar

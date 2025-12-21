@@ -76,5 +76,7 @@
 - pkg:maven/io.projectreactor.addons/reactor-extra@3.5.0?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-extra@3.5.1?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-extra@3.5.2?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-extra@3.5.3?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-extra@3.6.0-RC3?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-extra@3.6.0-RC4?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-extra@3.6.0-RC5?classifier=sources

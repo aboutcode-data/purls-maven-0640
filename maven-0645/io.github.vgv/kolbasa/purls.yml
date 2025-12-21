@@ -39,6 +39,8 @@
 - pkg:maven/io.github.vgv/kolbasa@0.133.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.134.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.135.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.136.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.137.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.14.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.15.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.16.0?classifier=sources

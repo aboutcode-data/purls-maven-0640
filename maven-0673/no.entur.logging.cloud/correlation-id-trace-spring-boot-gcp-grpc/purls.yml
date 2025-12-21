@@ -1,3 +1,4 @@
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-gcp-grpc@4.3.10?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-gcp-grpc@4.3.9?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-gcp-grpc@4.4.0?classifier=sources
+- pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-gcp-grpc@4.4.1?classifier=sources

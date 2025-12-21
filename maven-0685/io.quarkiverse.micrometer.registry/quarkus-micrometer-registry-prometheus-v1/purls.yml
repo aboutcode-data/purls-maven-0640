@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.micrometer.registry/quarkus-micrometer-registry-prometheus-v1@3.4.1?classifier=sources

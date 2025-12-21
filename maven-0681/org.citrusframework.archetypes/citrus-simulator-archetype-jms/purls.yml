@@ -15,3 +15,5 @@
 - pkg:maven/org.citrusframework.archetypes/citrus-simulator-archetype-jms@3.0.2
 - pkg:maven/org.citrusframework.archetypes/citrus-simulator-archetype-jms@3.0.2?classifier=sources
 - pkg:maven/org.citrusframework.archetypes/citrus-simulator-archetype-jms@3.1.0?classifier=sources
+- pkg:maven/org.citrusframework.archetypes/citrus-simulator-archetype-jms@3.1.1?classifier=sources
+- pkg:maven/org.citrusframework.archetypes/citrus-simulator-archetype-jms@4.8.1?classifier=sources

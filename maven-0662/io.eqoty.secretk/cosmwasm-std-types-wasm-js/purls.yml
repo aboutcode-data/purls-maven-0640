@@ -1,1 +1,2 @@
 - pkg:maven/io.eqoty.secretk/cosmwasm-std-types-wasm-js@6.4.1-rc?classifier=sources
+- pkg:maven/io.eqoty.secretk/cosmwasm-std-types-wasm-js@7.0.0?classifier=sources

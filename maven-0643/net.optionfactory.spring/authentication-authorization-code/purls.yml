@@ -29,3 +29,4 @@
 - pkg:maven/net.optionfactory.spring/authentication-authorization-code@22.2?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication-authorization-code@22.3?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication-authorization-code@22.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-authorization-code@22.5?classifier=sources

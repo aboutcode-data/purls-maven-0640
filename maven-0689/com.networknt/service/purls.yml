@@ -370,3 +370,4 @@
 - pkg:maven/com.networknt/service@2.2.1?classifier=sources
 - pkg:maven/com.networknt/service@2.2.2?classifier=sources
 - pkg:maven/com.networknt/service@2.3.0?classifier=sources
+- pkg:maven/com.networknt/service@2.3.1?classifier=sources

@@ -6,4 +6,7 @@
 - pkg:maven/com.corbado/corbado-java@1.0.4?classifier=sources
 - pkg:maven/com.corbado/corbado-java@1.0.5?classifier=sources
 - pkg:maven/com.corbado/corbado-java@1.0.6?classifier=sources
+- pkg:maven/com.corbado/corbado-java@1.0.7?classifier=sources
+- pkg:maven/com.corbado/corbado-java@1.0.8?classifier=sources
+- pkg:maven/com.corbado/corbado-java@1.0.9?classifier=sources
 - pkg:maven/com.corbado/corbado-java@2.0.0b?classifier=sources

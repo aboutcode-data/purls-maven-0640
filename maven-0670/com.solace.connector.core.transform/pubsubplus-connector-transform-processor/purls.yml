@@ -95,6 +95,9 @@
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-processor@2.16.8?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-processor@2.17.0?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-processor@2.17.1?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-processor@2.18.0?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-processor@2.18.1?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-processor@2.18.2?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-processor@2.8.1
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-processor@2.8.1?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-processor@2.9.0

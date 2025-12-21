@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/rc-segmented@2.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/rc-segmented@2.3.0
 - pkg:maven/org.webjars.npm/rc-segmented@2.5.0
+- pkg:maven/org.webjars.npm/rc-segmented@2.7.0

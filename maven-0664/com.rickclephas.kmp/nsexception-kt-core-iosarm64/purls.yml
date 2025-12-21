@@ -70,3 +70,4 @@
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-core-iosarm64@1.0.3-kotlin-2.2.20-RC2?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-core-iosarm64@1.0.3-kotlin-2.2.20-RC?classifier=sources
 - pkg:maven/com.rickclephas.kmp/nsexception-kt-core-iosarm64@1.0.3?classifier=sources
+- pkg:maven/com.rickclephas.kmp/nsexception-kt-core-iosarm64@1.0.4?classifier=sources

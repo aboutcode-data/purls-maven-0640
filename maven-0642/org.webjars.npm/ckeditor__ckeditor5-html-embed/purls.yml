@@ -1,3 +1,5 @@
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-html-embed@39.0.1
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-html-embed@39.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-html-embed@44.1.0
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-html-embed@44.3.0
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-html-embed@46.1.1
