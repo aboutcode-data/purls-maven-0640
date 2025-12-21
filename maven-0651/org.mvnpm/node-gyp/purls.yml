@@ -1,5 +1,7 @@
 - pkg:maven/org.mvnpm/node-gyp@11.1.0?classifier=sources
 - pkg:maven/org.mvnpm/node-gyp@11.2.0?classifier=sources
+- pkg:maven/org.mvnpm/node-gyp@11.3.0
+- pkg:maven/org.mvnpm/node-gyp@11.3.0?classifier=sources
 - pkg:maven/org.mvnpm/node-gyp@3.8.0?classifier=sources
 - pkg:maven/org.mvnpm/node-gyp@7.1.2?classifier=sources
 - pkg:maven/org.mvnpm/node-gyp@8.4.1?classifier=sources

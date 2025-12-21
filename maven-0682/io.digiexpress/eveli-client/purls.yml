@@ -53,3 +53,5 @@
 - pkg:maven/io.digiexpress/eveli-client@5.1.83?classifier=sources
 - pkg:maven/io.digiexpress/eveli-client@5.1.84?classifier=sources
 - pkg:maven/io.digiexpress/eveli-client@5.1.85?classifier=sources
+- pkg:maven/io.digiexpress/eveli-client@5.1.86?classifier=sources
+- pkg:maven/io.digiexpress/eveli-client@5.1.87?classifier=sources

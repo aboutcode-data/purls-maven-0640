@@ -32,3 +32,5 @@
 - pkg:maven/com.aliyun/alibabacloud-computenest20210601@4.0.4?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-computenest20210601@4.0.5
 - pkg:maven/com.aliyun/alibabacloud-computenest20210601@4.0.5?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-computenest20210601@4.0.6?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-computenest20210601@4.0.7?classifier=sources

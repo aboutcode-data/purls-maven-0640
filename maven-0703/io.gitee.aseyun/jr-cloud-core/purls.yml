@@ -1,1 +1,2 @@
+- pkg:maven/io.gitee.aseyun/jr-cloud-core@3.0.1?classifier=sources
 - pkg:maven/io.gitee.aseyun/jr-cloud-core@3.0?classifier=sources

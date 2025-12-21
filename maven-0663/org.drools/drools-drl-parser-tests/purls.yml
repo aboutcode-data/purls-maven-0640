@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/drools-drl-parser-tests@10.1.0
+- pkg:maven/org.drools/drools-drl-parser-tests@10.1.0?classifier=sources

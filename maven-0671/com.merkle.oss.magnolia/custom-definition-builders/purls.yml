@@ -3,3 +3,5 @@
 - pkg:maven/com.merkle.oss.magnolia/custom-definition-builders@1.2.22?classifier=sources
 - pkg:maven/com.merkle.oss.magnolia/custom-definition-builders@1.2.23?classifier=sources
 - pkg:maven/com.merkle.oss.magnolia/custom-definition-builders@1.2.24?classifier=sources
+- pkg:maven/com.merkle.oss.magnolia/custom-definition-builders@1.2.25?classifier=sources
+- pkg:maven/com.merkle.oss.magnolia/custom-definition-builders@1.2.26?classifier=sources

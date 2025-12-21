@@ -1,3 +1,6 @@
 - pkg:maven/io.availe/codegen-models-wasm-js@1.0.0?classifier=sources
 - pkg:maven/io.availe/codegen-models-wasm-js@2.0.0?classifier=sources
 - pkg:maven/io.availe/codegen-models-wasm-js@3.0.0?classifier=sources
+- pkg:maven/io.availe/codegen-models-wasm-js@3.1.0?classifier=sources
+- pkg:maven/io.availe/codegen-models-wasm-js@4.0.0?classifier=sources
+- pkg:maven/io.availe/codegen-models-wasm-js@5.0.0?classifier=sources

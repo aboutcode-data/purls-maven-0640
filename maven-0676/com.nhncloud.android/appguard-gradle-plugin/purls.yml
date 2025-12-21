@@ -22,3 +22,4 @@
 - pkg:maven/com.nhncloud.android/appguard-gradle-plugin@1.2.4?classifier=sources
 - pkg:maven/com.nhncloud.android/appguard-gradle-plugin@1.2.5
 - pkg:maven/com.nhncloud.android/appguard-gradle-plugin@1.2.5?classifier=sources
+- pkg:maven/com.nhncloud.android/appguard-gradle-plugin@1.2.6?classifier=sources

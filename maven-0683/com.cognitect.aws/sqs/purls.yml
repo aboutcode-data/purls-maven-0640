@@ -44,3 +44,4 @@
 - pkg:maven/com.cognitect.aws/sqs@871.2.29.35?classifier=sources
 - pkg:maven/com.cognitect.aws/sqs@871.2.29.52
 - pkg:maven/com.cognitect.aws/sqs@871.2.29.52?classifier=sources
+- pkg:maven/com.cognitect.aws/sqs@871.2.32.10?classifier=sources

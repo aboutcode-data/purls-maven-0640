@@ -7,6 +7,8 @@
 - pkg:maven/org.protelis/protelisdoc@3.0.100-dev01-349a4f?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.100?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.101?classifier=sources
+- pkg:maven/org.protelis/protelisdoc@3.0.102?classifier=sources
+- pkg:maven/org.protelis/protelisdoc@3.0.103?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.15?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.16?classifier=sources
 - pkg:maven/org.protelis/protelisdoc@3.0.17?classifier=sources

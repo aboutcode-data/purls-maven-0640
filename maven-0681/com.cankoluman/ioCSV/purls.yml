@@ -10,3 +10,4 @@
 - pkg:maven/com.cankoluman/ioCSV@0.65?classifier=sources
 - pkg:maven/com.cankoluman/ioCSV@0.67
 - pkg:maven/com.cankoluman/ioCSV@0.67?classifier=sources
+- pkg:maven/com.cankoluman/ioCSV@0.75?classifier=sources

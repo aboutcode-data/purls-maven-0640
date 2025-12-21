@@ -20,5 +20,6 @@
 - pkg:maven/org.apache.kudu/kudu-test-utils@1.17.0?classifier=sources
 - pkg:maven/org.apache.kudu/kudu-test-utils@1.17.1
 - pkg:maven/org.apache.kudu/kudu-test-utils@1.17.1?classifier=sources
+- pkg:maven/org.apache.kudu/kudu-test-utils@1.18.0?classifier=sources
 - pkg:maven/org.apache.kudu/kudu-test-utils@1.9.0
 - pkg:maven/org.apache.kudu/kudu-test-utils@1.9.0?classifier=sources

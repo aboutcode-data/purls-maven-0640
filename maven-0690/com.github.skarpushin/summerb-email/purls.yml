@@ -27,3 +27,4 @@
 - pkg:maven/com.github.skarpushin/summerb-email@8.1.0
 - pkg:maven/com.github.skarpushin/summerb-email@8.1.0?classifier=sources
 - pkg:maven/com.github.skarpushin/summerb-email@8.2.0?classifier=sources
+- pkg:maven/com.github.skarpushin/summerb-email@8.2.1?classifier=sources

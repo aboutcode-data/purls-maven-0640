@@ -25,6 +25,7 @@
 - pkg:maven/com.algolia/algoliasearch-java-net@3.16.1
 - pkg:maven/com.algolia/algoliasearch-java-net@3.16.10
 - pkg:maven/com.algolia/algoliasearch-java-net@3.16.10?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-java-net@3.16.11?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-java-net@3.16.1?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-java-net@3.16.2
 - pkg:maven/com.algolia/algoliasearch-java-net@3.16.2?classifier=sources

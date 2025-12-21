@@ -9,8 +9,13 @@
 - pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.19?classifier=sources
 - pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.1?classifier=sources
 - pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.20?classifier=sources
+- pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.21?classifier=sources
+- pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.22?classifier=sources
 - pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.2?classifier=sources
 - pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.3
+- pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.30?classifier=sources
+- pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.31?classifier=sources
+- pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.32?classifier=sources
 - pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.3?classifier=sources
 - pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.4?classifier=sources
 - pkg:maven/com.test.prss.esrp.pacman/mvn_v2@1.0.5?classifier=sources

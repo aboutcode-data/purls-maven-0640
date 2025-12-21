@@ -4,3 +4,4 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.cucumber@2.0.0?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.cucumber@2.1.0
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.cucumber@2.1.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.cucumber@3.0.0?classifier=sources

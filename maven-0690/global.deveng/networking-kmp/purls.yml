@@ -42,3 +42,5 @@
 - pkg:maven/global.deveng/networking-kmp@2.8.49?classifier=sources
 - pkg:maven/global.deveng/networking-kmp@2.8.51?classifier=sources
 - pkg:maven/global.deveng/networking-kmp@2.9.51?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.9.52?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.9.54?classifier=sources

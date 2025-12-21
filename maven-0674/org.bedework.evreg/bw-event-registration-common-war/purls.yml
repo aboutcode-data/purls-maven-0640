@@ -1,2 +1,3 @@
 - pkg:maven/org.bedework.evreg/bw-event-registration-common-war@5.0.6?classifier=sources
 - pkg:maven/org.bedework.evreg/bw-event-registration-common-war@5.0.6?type=war
+- pkg:maven/org.bedework.evreg/bw-event-registration-common-war@6.0.0?classifier=sources

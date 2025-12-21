@@ -1,0 +1,2 @@
+- pkg:maven/org.jobrunr/jobrunr-micronaut-annotations@8.0.0?classifier=sources
+- pkg:maven/org.jobrunr/jobrunr-micronaut-annotations@8.0.1?classifier=sources

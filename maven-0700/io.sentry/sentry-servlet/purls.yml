@@ -317,6 +317,7 @@
 - pkg:maven/io.sentry/sentry-servlet@7.22.3?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@7.22.4?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@7.22.5?classifier=sources
+- pkg:maven/io.sentry/sentry-servlet@7.22.6?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@7.3.0
 - pkg:maven/io.sentry/sentry-servlet@7.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@7.4.0
@@ -364,6 +365,8 @@
 - pkg:maven/io.sentry/sentry-servlet@8.15.1?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.16.0?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.16.1-alpha.2?classifier=sources
+- pkg:maven/io.sentry/sentry-servlet@8.17.0?classifier=sources
+- pkg:maven/io.sentry/sentry-servlet@8.18.0?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-servlet@8.4.0?classifier=sources

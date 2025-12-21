@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/algolia__client-abtesting@5.0.0-alpha.9
 - pkg:maven/org.webjars.npm/algolia__client-abtesting@5.0.0-alpha.9?classifier=sources
+- pkg:maven/org.webjars.npm/algolia__client-abtesting@5.34.0

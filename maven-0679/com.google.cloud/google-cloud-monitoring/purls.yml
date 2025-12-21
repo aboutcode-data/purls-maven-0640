@@ -504,8 +504,12 @@
 - pkg:maven/com.google.cloud/google-cloud-monitoring@3.67.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring@3.68.0
 - pkg:maven/com.google.cloud/google-cloud-monitoring@3.68.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-monitoring@3.69.0
+- pkg:maven/com.google.cloud/google-cloud-monitoring@3.69.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring@3.7.0
 - pkg:maven/com.google.cloud/google-cloud-monitoring@3.7.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-monitoring@3.71.0
+- pkg:maven/com.google.cloud/google-cloud-monitoring@3.71.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring@3.8.0
 - pkg:maven/com.google.cloud/google-cloud-monitoring@3.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-monitoring@3.9.0

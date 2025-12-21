@@ -1,4 +1,8 @@
 - pkg:maven/io.github.hoangmaihuy/mill-universal-packager_mill1_3@0.1.4-5-5f25bc
 - pkg:maven/io.github.hoangmaihuy/mill-universal-packager_mill1_3@0.1.4-5-5f25bc?classifier=sources
+- pkg:maven/io.github.hoangmaihuy/mill-universal-packager_mill1_3@0.2.0
+- pkg:maven/io.github.hoangmaihuy/mill-universal-packager_mill1_3@0.2.0-1-911c60
+- pkg:maven/io.github.hoangmaihuy/mill-universal-packager_mill1_3@0.2.0-1-911c60?classifier=sources
 - pkg:maven/io.github.hoangmaihuy/mill-universal-packager_mill1_3@0.2.0-RC1
 - pkg:maven/io.github.hoangmaihuy/mill-universal-packager_mill1_3@0.2.0-RC1?classifier=sources
+- pkg:maven/io.github.hoangmaihuy/mill-universal-packager_mill1_3@0.2.0?classifier=sources

@@ -1,6 +1,7 @@
 - pkg:maven/com.vmware.pscoe.maven.plugins/common@0.111.111?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven.plugins/common@0.111.112?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven.plugins/common@0.111.113?classifier=sources
+- pkg:maven/com.vmware.pscoe.maven.plugins/common@0.111.114?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven.plugins/common@2.30.0
 - pkg:maven/com.vmware.pscoe.maven.plugins/common@2.30.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven.plugins/common@2.31.0
@@ -66,3 +67,4 @@
 - pkg:maven/com.vmware.pscoe.maven.plugins/common@4.6.0
 - pkg:maven/com.vmware.pscoe.maven.plugins/common@4.6.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven.plugins/common@4.7.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.maven.plugins/common@4.8.0?classifier=sources

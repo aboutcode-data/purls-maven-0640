@@ -1,0 +1,4 @@
+- pkg:maven/io.github.rickmvi/jtoolbox@1.3.3?classifier=sources
+- pkg:maven/io.github.rickmvi/jtoolbox@1.3.4?classifier=sources
+- pkg:maven/io.github.rickmvi/jtoolbox@1.4.4?classifier=sources
+- pkg:maven/io.github.rickmvi/jtoolbox@1.4.5?classifier=sources

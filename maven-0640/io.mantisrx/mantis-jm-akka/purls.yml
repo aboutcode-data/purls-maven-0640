@@ -1,1 +1,2 @@
 - pkg:maven/io.mantisrx/mantis-jm-akka@3.4.0?classifier=sources
+- pkg:maven/io.mantisrx/mantis-jm-akka@4.0.1?classifier=sources

@@ -5,6 +5,8 @@
 - pkg:maven/vn.goplay/gamesdk@2.0.13?classifier=sources
 - pkg:maven/vn.goplay/gamesdk@2.0.14?classifier=sources
 - pkg:maven/vn.goplay/gamesdk@2.0.15?classifier=sources
+- pkg:maven/vn.goplay/gamesdk@2.0.17?classifier=sources
+- pkg:maven/vn.goplay/gamesdk@2.0.18?classifier=sources
 - pkg:maven/vn.goplay/gamesdk@2.0.3?classifier=sources
 - pkg:maven/vn.goplay/gamesdk@2.0.4?classifier=sources
 - pkg:maven/vn.goplay/gamesdk@2.0.5?classifier=sources
@@ -12,3 +14,5 @@
 - pkg:maven/vn.goplay/gamesdk@2.0.7?classifier=sources
 - pkg:maven/vn.goplay/gamesdk@2.0.8?classifier=sources
 - pkg:maven/vn.goplay/gamesdk@2.0.9?classifier=sources
+- pkg:maven/vn.goplay/gamesdk@3.0.0?classifier=sources
+- pkg:maven/vn.goplay/gamesdk@3.0.1?classifier=sources

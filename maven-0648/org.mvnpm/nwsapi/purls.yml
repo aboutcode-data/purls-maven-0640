@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/nwsapi@2.2.19?classifier=sources
 - pkg:maven/org.mvnpm/nwsapi@2.2.20?classifier=sources
+- pkg:maven/org.mvnpm/nwsapi@2.2.21
+- pkg:maven/org.mvnpm/nwsapi@2.2.21?classifier=sources

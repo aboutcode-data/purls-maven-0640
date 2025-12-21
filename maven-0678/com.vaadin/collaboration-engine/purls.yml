@@ -66,3 +66,4 @@
 - pkg:maven/com.vaadin/collaboration-engine@6.3.0?classifier=sources
 - pkg:maven/com.vaadin/collaboration-engine@6.4.0
 - pkg:maven/com.vaadin/collaboration-engine@6.4.0?classifier=sources
+- pkg:maven/com.vaadin/collaboration-engine@6.5.0?classifier=sources

@@ -235,8 +235,14 @@
 - pkg:maven/com.finbourne/workflow-sdk@2.0.216?classifier=sources
 - pkg:maven/com.finbourne/workflow-sdk@2.0.217?classifier=sources
 - pkg:maven/com.finbourne/workflow-sdk@2.0.218?classifier=sources
+- pkg:maven/com.finbourne/workflow-sdk@2.0.219?classifier=sources
 - pkg:maven/com.finbourne/workflow-sdk@2.0.21?classifier=sources
 - pkg:maven/com.finbourne/workflow-sdk@2.0.22
+- pkg:maven/com.finbourne/workflow-sdk@2.0.220?classifier=sources
+- pkg:maven/com.finbourne/workflow-sdk@2.0.221?classifier=sources
+- pkg:maven/com.finbourne/workflow-sdk@2.0.222?classifier=sources
+- pkg:maven/com.finbourne/workflow-sdk@2.0.223?classifier=sources
+- pkg:maven/com.finbourne/workflow-sdk@2.0.224?classifier=sources
 - pkg:maven/com.finbourne/workflow-sdk@2.0.22?classifier=sources
 - pkg:maven/com.finbourne/workflow-sdk@2.0.23
 - pkg:maven/com.finbourne/workflow-sdk@2.0.23?classifier=sources

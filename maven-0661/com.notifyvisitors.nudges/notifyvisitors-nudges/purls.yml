@@ -1,2 +1,4 @@
 - pkg:maven/com.notifyvisitors.nudges/notifyvisitors-nudges@v0.0.1?classifier=sources
 - pkg:maven/com.notifyvisitors.nudges/notifyvisitors-nudges@v0.0.2?classifier=sources
+- pkg:maven/com.notifyvisitors.nudges/notifyvisitors-nudges@v0.0.3?classifier=sources
+- pkg:maven/com.notifyvisitors.nudges/notifyvisitors-nudges@v0.0.4?classifier=sources

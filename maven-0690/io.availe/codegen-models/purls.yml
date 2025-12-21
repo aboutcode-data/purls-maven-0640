@@ -1,3 +1,6 @@
 - pkg:maven/io.availe/codegen-models@1.0.0?classifier=sources
 - pkg:maven/io.availe/codegen-models@2.0.0?classifier=sources
 - pkg:maven/io.availe/codegen-models@3.0.0?classifier=sources
+- pkg:maven/io.availe/codegen-models@3.1.0?classifier=sources
+- pkg:maven/io.availe/codegen-models@4.0.0?classifier=sources
+- pkg:maven/io.availe/codegen-models@5.0.0?classifier=sources

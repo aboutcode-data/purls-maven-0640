@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/pg-types@2.2.0?classifier=sources
 - pkg:maven/org.mvnpm/pg-types@4.0.2?classifier=sources
+- pkg:maven/org.mvnpm/pg-types@4.1.0
+- pkg:maven/org.mvnpm/pg-types@4.1.0?classifier=sources

@@ -16,6 +16,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-core@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-core@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-core@10.5.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-dashboard-core@10.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-core@6.22.0
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-core@6.22.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-dashboard-core@6.23.0

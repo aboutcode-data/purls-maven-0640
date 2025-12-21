@@ -36,3 +36,5 @@
 - pkg:maven/com.linecorp.bot/line-liff-client@9.7.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-liff-client@9.7.1?classifier=sources
 - pkg:maven/com.linecorp.bot/line-liff-client@9.8.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-liff-client@9.9.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-liff-client@9.9.1?classifier=sources

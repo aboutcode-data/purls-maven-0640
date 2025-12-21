@@ -1,0 +1,1 @@
+- pkg:maven/org.bedework/bw-cli-jolokia@6.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.finture.bpm.quarkus/flowee-bpms-bpm-quarkus-engine@0.7.1?classifier=sources
+- pkg:maven/com.finture.bpm.quarkus/flowee-bpms-bpm-quarkus-engine@0.7.2?classifier=sources

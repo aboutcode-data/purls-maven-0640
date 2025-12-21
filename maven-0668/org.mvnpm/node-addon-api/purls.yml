@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm/node-addon-api@8.3.1?classifier=sources
 - pkg:maven/org.mvnpm/node-addon-api@8.4.0
 - pkg:maven/org.mvnpm/node-addon-api@8.4.0?classifier=sources
+- pkg:maven/org.mvnpm/node-addon-api@8.5.0
+- pkg:maven/org.mvnpm/node-addon-api@8.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.zepben/ewb-sdk@1.0.0b1?classifier=sources
+- pkg:maven/com.zepben/ewb-sdk@1.0.0b2?classifier=sources

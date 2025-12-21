@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.bk.repo/artifact-service@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.repo/artifact-service@2.5.0-rc.6-RELEASE?classifier=sources

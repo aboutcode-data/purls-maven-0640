@@ -1,2 +1,4 @@
+- pkg:maven/com.yandex.pay/core-adapter-delegates@2.10.0?classifier=sources
+- pkg:maven/com.yandex.pay/core-adapter-delegates@2.11.0?classifier=sources
 - pkg:maven/com.yandex.pay/core-adapter-delegates@2.8.0?classifier=sources
 - pkg:maven/com.yandex.pay/core-adapter-delegates@2.9.0?classifier=sources

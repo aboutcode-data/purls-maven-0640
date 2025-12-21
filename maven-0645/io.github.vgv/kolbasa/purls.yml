@@ -17,7 +17,16 @@
 - pkg:maven/io.github.vgv/kolbasa@0.113.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.114.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.115.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.116.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.117.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.118.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.119.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.12.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.120.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.121.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.122.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.123.0?classifier=sources
+- pkg:maven/io.github.vgv/kolbasa@0.124.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.13.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.14.0?classifier=sources
 - pkg:maven/io.github.vgv/kolbasa@0.15.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@14.1.2-0-1?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@14.1.2-0-2
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@14.1.2-0-2?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@14.1.2-0-3
+- pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@14.1.2-0-3?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@24.09
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@24.09.1
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@24.09.1?classifier=sources
@@ -15,4 +17,6 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@25.03
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@25.03.1
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@25.03.1?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@25.03.2
+- pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@25.03.2?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-grpc-client-common@25.03?classifier=sources

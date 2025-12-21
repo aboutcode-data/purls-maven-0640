@@ -79,6 +79,7 @@
 - pkg:maven/com.cjbooms/fabrikt@22.4.0?classifier=sources
 - pkg:maven/com.cjbooms/fabrikt@22.5.0?classifier=sources
 - pkg:maven/com.cjbooms/fabrikt@23.0.0?classifier=sources
+- pkg:maven/com.cjbooms/fabrikt@24.0.0?classifier=sources
 - pkg:maven/com.cjbooms/fabrikt@3.0.0?classifier=sources
 - pkg:maven/com.cjbooms/fabrikt@4.0.0?classifier=sources
 - pkg:maven/com.cjbooms/fabrikt@5.0.0?classifier=sources

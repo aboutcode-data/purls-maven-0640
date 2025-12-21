@@ -17,3 +17,4 @@
 - pkg:maven/org.webjars.npm/prosemirror-commands@1.5.2
 - pkg:maven/org.webjars.npm/prosemirror-commands@1.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/prosemirror-commands@1.7.0
+- pkg:maven/org.webjars.npm/prosemirror-commands@1.7.1

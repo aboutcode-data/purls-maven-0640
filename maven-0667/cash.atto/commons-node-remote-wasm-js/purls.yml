@@ -3,3 +3,4 @@
 - pkg:maven/cash.atto/commons-node-remote-wasm-js@4.0.2?classifier=sources
 - pkg:maven/cash.atto/commons-node-remote-wasm-js@4.0.3?classifier=sources
 - pkg:maven/cash.atto/commons-node-remote-wasm-js@5.1.0?classifier=sources
+- pkg:maven/cash.atto/commons-node-remote-wasm-js@5.1.1?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/in.payu/paymentparamhelper@0.0.5_alpha_18?classifier=sources
 - pkg:maven/in.payu/paymentparamhelper@1.5.0?classifier=sources
+- pkg:maven/in.payu/paymentparamhelper@2.7.0?classifier=sources

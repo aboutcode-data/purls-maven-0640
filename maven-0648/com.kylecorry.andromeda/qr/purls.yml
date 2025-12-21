@@ -25,3 +25,5 @@
 - pkg:maven/com.kylecorry.andromeda/qr@15.0.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/qr@15.1.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/qr@15.2.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/qr@15.3.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/qr@16.0.0?classifier=sources

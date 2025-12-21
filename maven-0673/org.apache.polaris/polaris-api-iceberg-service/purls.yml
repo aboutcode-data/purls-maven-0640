@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.polaris/polaris-api-iceberg-service@1.0.0-incubating?classifier=sources

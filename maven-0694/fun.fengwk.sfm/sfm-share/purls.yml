@@ -1,0 +1,3 @@
+- pkg:maven/fun.fengwk.sfm/sfm-share@0.0.3?classifier=sources
+- pkg:maven/fun.fengwk.sfm/sfm-share@0.0.4?classifier=sources
+- pkg:maven/fun.fengwk.sfm/sfm-share@0.0.5?classifier=sources

@@ -25,3 +25,5 @@
 - pkg:maven/com.kylecorry.andromeda/notify@15.0.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/notify@15.1.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/notify@15.2.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/notify@15.3.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/notify@16.0.0?classifier=sources

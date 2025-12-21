@@ -206,5 +206,9 @@
 - pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.6.6.0606?classifier=sources
 - pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.6.7.0616
 - pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.6.7.0616?classifier=sources
+- pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.6.9.07010?classifier=sources
 - pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.6.9.0702?classifier=sources
 - pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.6.9.0703?classifier=sources
+- pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.6.9.0711?classifier=sources
+- pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.6.9.0717?classifier=sources
+- pkg:maven/com.fadada.api/fasc-openapi-java-sdk@5.7.1.0730?classifier=sources
