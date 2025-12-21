@@ -15,4 +15,6 @@
 - pkg:maven/me.saro/selenium-chrome-all-in-one@4.29.0.0?classifier=sources
 - pkg:maven/me.saro/selenium-chrome-all-in-one@4.29.0.1?classifier=sources
 - pkg:maven/me.saro/selenium-chrome-all-in-one@4.29.0.2?classifier=sources
+- pkg:maven/me.saro/selenium-chrome-all-in-one@4.30.0.0?classifier=sources
+- pkg:maven/me.saro/selenium-chrome-all-in-one@4.31.0.0?classifier=sources
 - pkg:maven/me.saro/selenium-chrome-all-in-one@unspecified?classifier=sources

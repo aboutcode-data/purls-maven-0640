@@ -241,3 +241,4 @@
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@5.4.4?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@5.5.0-m1?classifier=sources
 - pkg:maven/org.joinfaces/joinfaces-security-taglib@5.5.0-m2?classifier=sources
+- pkg:maven/org.joinfaces/joinfaces-security-taglib@5.5.0-m3?classifier=sources

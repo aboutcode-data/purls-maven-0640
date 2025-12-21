@@ -11,3 +11,6 @@
 - pkg:maven/io.github.yin-jinlong/spring-boot-api-starter@0.3.3?classifier=sources
 - pkg:maven/io.github.yin-jinlong/spring-boot-api-starter@0.3.4?classifier=sources
 - pkg:maven/io.github.yin-jinlong/spring-boot-api-starter@0.3.5?classifier=sources
+- pkg:maven/io.github.yin-jinlong/spring-boot-api-starter@0.4.0?classifier=sources
+- pkg:maven/io.github.yin-jinlong/spring-boot-api-starter@0.4.1?classifier=sources
+- pkg:maven/io.github.yin-jinlong/spring-boot-api-starter@0.4.2?classifier=sources

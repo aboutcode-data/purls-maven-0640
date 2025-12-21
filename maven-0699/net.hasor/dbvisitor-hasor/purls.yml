@@ -25,3 +25,5 @@
 - pkg:maven/net.hasor/dbvisitor-hasor@5.4.3
 - pkg:maven/net.hasor/dbvisitor-hasor@5.4.3?classifier=sources
 - pkg:maven/net.hasor/dbvisitor-hasor@5.4.4?classifier=sources
+- pkg:maven/net.hasor/dbvisitor-hasor@6.0.0?classifier=sources
+- pkg:maven/net.hasor/dbvisitor-hasor@6.0.1?classifier=sources

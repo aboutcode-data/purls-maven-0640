@@ -698,6 +698,10 @@
 - pkg:maven/com.files/files-sdk@1.4.15
 - pkg:maven/com.files/files-sdk@1.4.150
 - pkg:maven/com.files/files-sdk@1.4.150?classifier=sources
+- pkg:maven/com.files/files-sdk@1.4.151
+- pkg:maven/com.files/files-sdk@1.4.151?classifier=sources
+- pkg:maven/com.files/files-sdk@1.4.152
+- pkg:maven/com.files/files-sdk@1.4.152?classifier=sources
 - pkg:maven/com.files/files-sdk@1.4.15?classifier=sources
 - pkg:maven/com.files/files-sdk@1.4.16
 - pkg:maven/com.files/files-sdk@1.4.16?classifier=sources
@@ -872,3 +876,9 @@
 - pkg:maven/com.files/files-sdk@1.4.98?classifier=sources
 - pkg:maven/com.files/files-sdk@1.4.99
 - pkg:maven/com.files/files-sdk@1.4.99?classifier=sources
+- pkg:maven/com.files/files-sdk@1.5.0
+- pkg:maven/com.files/files-sdk@1.5.0?classifier=sources
+- pkg:maven/com.files/files-sdk@1.5.1
+- pkg:maven/com.files/files-sdk@1.5.1?classifier=sources
+- pkg:maven/com.files/files-sdk@1.5.2
+- pkg:maven/com.files/files-sdk@1.5.2?classifier=sources

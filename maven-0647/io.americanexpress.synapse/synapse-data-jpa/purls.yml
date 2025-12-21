@@ -1,2 +1,4 @@
 - pkg:maven/io.americanexpress.synapse/synapse-data-jpa@0.4.10
 - pkg:maven/io.americanexpress.synapse/synapse-data-jpa@0.4.11
+- pkg:maven/io.americanexpress.synapse/synapse-data-jpa@0.4.12
+- pkg:maven/io.americanexpress.synapse/synapse-data-jpa@0.4.13

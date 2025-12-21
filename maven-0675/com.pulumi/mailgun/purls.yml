@@ -60,6 +60,7 @@
 - pkg:maven/com.pulumi/mailgun@3.5.7-alpha.1733159944?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.5.7?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.5.8?classifier=sources
+- pkg:maven/com.pulumi/mailgun@3.5.9?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1698963867%2B79bca7b8?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1699335913%2B7557dd2d?classifier=sources
 - pkg:maven/com.pulumi/mailgun@3.6.0-alpha.1699508938%2Bd2390e2c?classifier=sources

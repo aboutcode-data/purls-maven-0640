@@ -1,3 +1,5 @@
+- pkg:maven/com.wavesplatform/lang-testkit@1.5.10
+- pkg:maven/com.wavesplatform/lang-testkit@1.5.10?classifier=sources
 - pkg:maven/com.wavesplatform/lang-testkit@1.5.8
 - pkg:maven/com.wavesplatform/lang-testkit@1.5.8?classifier=sources
 - pkg:maven/com.wavesplatform/lang-testkit@1.5.9

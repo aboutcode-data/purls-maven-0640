@@ -78,3 +78,5 @@
 - pkg:maven/com.aliyun/oceanbasepro20190901@7.1.0?classifier=sources
 - pkg:maven/com.aliyun/oceanbasepro20190901@8.0.0
 - pkg:maven/com.aliyun/oceanbasepro20190901@8.0.0?classifier=sources
+- pkg:maven/com.aliyun/oceanbasepro20190901@8.1.0
+- pkg:maven/com.aliyun/oceanbasepro20190901@8.1.0?classifier=sources

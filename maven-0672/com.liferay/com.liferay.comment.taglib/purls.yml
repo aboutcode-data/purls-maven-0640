@@ -88,6 +88,7 @@
 - pkg:maven/com.liferay/com.liferay.comment.taglib@1.1.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.comment.taglib@1.1.22
 - pkg:maven/com.liferay/com.liferay.comment.taglib@1.1.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.taglib@1.1.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@1.1.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@1.1.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.comment.taglib@1.1.3
@@ -259,6 +260,7 @@
 - pkg:maven/com.liferay/com.liferay.comment.taglib@2.1.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.comment.taglib@2.1.4
 - pkg:maven/com.liferay/com.liferay.comment.taglib@2.1.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.taglib@2.1.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@2.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@2.1.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.comment.taglib@2.1.5
@@ -384,6 +386,7 @@
 - pkg:maven/com.liferay/com.liferay.comment.taglib@3.0.9
 - pkg:maven/com.liferay/com.liferay.comment.taglib@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.comment.taglib@3.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.0
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.0.0?classifier=sources-commercial
@@ -543,3 +546,4 @@
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.1.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.1.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.comment.taglib@4.1.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.comment.taglib@4.1.9?classifier=sources

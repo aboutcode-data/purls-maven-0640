@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.presto/presto-native-tests@0.292
+- pkg:maven/com.facebook.presto/presto-native-tests@0.292?classifier=sources

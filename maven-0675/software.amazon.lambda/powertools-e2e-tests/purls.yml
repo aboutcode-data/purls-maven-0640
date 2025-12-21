@@ -4,3 +4,4 @@
 - pkg:maven/software.amazon.lambda/powertools-e2e-tests@1.18.0
 - pkg:maven/software.amazon.lambda/powertools-e2e-tests@1.19.0
 - pkg:maven/software.amazon.lambda/powertools-e2e-tests@1.20.0
+- pkg:maven/software.amazon.lambda/powertools-e2e-tests@1.20.1

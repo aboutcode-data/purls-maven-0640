@@ -174,3 +174,4 @@
 - pkg:maven/io.grpc/grpc-android@1.69.1?classifier=sources
 - pkg:maven/io.grpc/grpc-android@1.70.0?classifier=sources
 - pkg:maven/io.grpc/grpc-android@1.71.0?classifier=sources
+- pkg:maven/io.grpc/grpc-android@1.72.0?classifier=sources

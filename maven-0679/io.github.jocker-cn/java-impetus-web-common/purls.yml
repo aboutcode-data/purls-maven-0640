@@ -1,2 +1,4 @@
 - pkg:maven/io.github.jocker-cn/java-impetus-web-common@1.0.5-Beta
 - pkg:maven/io.github.jocker-cn/java-impetus-web-common@1.0.5-Beta?classifier=sources
+- pkg:maven/io.github.jocker-cn/java-impetus-web-common@1.0.8-Beta
+- pkg:maven/io.github.jocker-cn/java-impetus-web-common@1.0.8-Beta?classifier=sources

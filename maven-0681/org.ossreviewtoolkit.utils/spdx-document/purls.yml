@@ -2,3 +2,8 @@
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-document@54.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-document@55.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-document@55.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@55.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@55.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@56.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@56.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-document@57.0.0?classifier=sources

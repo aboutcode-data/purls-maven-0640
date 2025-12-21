@@ -1,0 +1,6 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-lustrefilestorage@3.62.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-lustrefilestorage@3.62.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-lustrefilestorage@3.63.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-lustrefilestorage@3.63.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-lustrefilestorage@3.63.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-lustrefilestorage@3.63.1?classifier=sources

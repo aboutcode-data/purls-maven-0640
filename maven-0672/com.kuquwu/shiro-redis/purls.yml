@@ -1,1 +1,2 @@
 - pkg:maven/com.kuquwu/shiro-redis@3.3.2?classifier=sources
+- pkg:maven/com.kuquwu/shiro-redis@3.3.3?classifier=sources

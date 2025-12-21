@@ -4,3 +4,5 @@
 - pkg:maven/org.phoebus/service-alarm-logger@4.7.1?classifier=sources
 - pkg:maven/org.phoebus/service-alarm-logger@4.7.2?classifier=sources
 - pkg:maven/org.phoebus/service-alarm-logger@4.7.3?classifier=sources
+- pkg:maven/org.phoebus/service-alarm-logger@4.7.4?classifier=sources
+- pkg:maven/org.phoebus/service-alarm-logger@5.0.0?classifier=sources

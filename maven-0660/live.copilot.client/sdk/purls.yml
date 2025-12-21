@@ -1,2 +1,3 @@
 - pkg:maven/live.copilot.client/sdk@1.0.9?classifier=sources
 - pkg:maven/live.copilot.client/sdk@1.1.0?classifier=sources
+- pkg:maven/live.copilot.client/sdk@2.0.0?classifier=sources

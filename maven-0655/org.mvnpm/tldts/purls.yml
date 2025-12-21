@@ -1,2 +1,5 @@
 - pkg:maven/org.mvnpm/tldts@6.1.84?classifier=sources
 - pkg:maven/org.mvnpm/tldts@6.1.85?classifier=sources
+- pkg:maven/org.mvnpm/tldts@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm/tldts@7.0.2
+- pkg:maven/org.mvnpm/tldts@7.0.2?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/types__urijs@1.15.38?classifier=sources
 - pkg:maven/org.webjars.npm/types__urijs@1.19.14
 - pkg:maven/org.webjars.npm/types__urijs@1.19.14?classifier=sources
+- pkg:maven/org.webjars.npm/types__urijs@1.19.25

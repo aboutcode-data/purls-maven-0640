@@ -1,2 +1,4 @@
+- pkg:maven/org.mvnpm/lazy-cache@0.1.0?classifier=sources
+- pkg:maven/org.mvnpm/lazy-cache@0.2.7?classifier=sources
 - pkg:maven/org.mvnpm/lazy-cache@1.0.4?classifier=sources
 - pkg:maven/org.mvnpm/lazy-cache@2.0.2?classifier=sources

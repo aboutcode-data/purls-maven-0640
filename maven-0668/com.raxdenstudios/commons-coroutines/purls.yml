@@ -30,3 +30,4 @@
 - pkg:maven/com.raxdenstudios/commons-coroutines@5.4.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-coroutines@5.5.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-coroutines@5.5.1?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-coroutines@5.5.5?classifier=sources

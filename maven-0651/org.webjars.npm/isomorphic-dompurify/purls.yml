@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/isomorphic-dompurify@0.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/isomorphic-dompurify@0.20.0
 - pkg:maven/org.webjars.npm/isomorphic-dompurify@0.20.0?classifier=sources
+- pkg:maven/org.webjars.npm/isomorphic-dompurify@2.23.0

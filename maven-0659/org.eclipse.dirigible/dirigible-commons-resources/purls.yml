@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-commons-resources@11.37.0
+- pkg:maven/org.eclipse.dirigible/dirigible-commons-resources@11.37.0?classifier=sources

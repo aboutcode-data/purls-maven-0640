@@ -20,3 +20,7 @@
 - pkg:maven/com.composum.platform/composum-platform-services-setup@1.7.0?classifier=sources
 - pkg:maven/com.composum.platform/composum-platform-services-setup@1.7.1
 - pkg:maven/com.composum.platform/composum-platform-services-setup@1.7.1?classifier=sources
+- pkg:maven/com.composum.platform/composum-platform-services-setup@1.7.2
+- pkg:maven/com.composum.platform/composum-platform-services-setup@1.7.2?classifier=sources
+- pkg:maven/com.composum.platform/composum-platform-services-setup@1.8.0
+- pkg:maven/com.composum.platform/composum-platform-services-setup@1.8.0?classifier=sources

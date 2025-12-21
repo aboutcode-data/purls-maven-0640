@@ -3,3 +3,4 @@
 - pkg:maven/org.webjars.npm/validate-npm-package-name@3.0.0
 - pkg:maven/org.webjars.npm/validate-npm-package-name@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/validate-npm-package-name@5.0.1
+- pkg:maven/org.webjars.npm/validate-npm-package-name@6.0.0

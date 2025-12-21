@@ -1,0 +1,8 @@
+- pkg:maven/cn.workde/workde-core@2.0.0-RELEASE
+- pkg:maven/cn.workde/workde-core@2.0.0-RELEASE?classifier=sources
+- pkg:maven/cn.workde/workde-core@2.0.1
+- pkg:maven/cn.workde/workde-core@2.0.1-RELEASE
+- pkg:maven/cn.workde/workde-core@2.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.workde/workde-core@2.0.1?classifier=sources
+- pkg:maven/cn.workde/workde-core@2.0.2-RELEASE
+- pkg:maven/cn.workde/workde-core@2.0.2-RELEASE?classifier=sources

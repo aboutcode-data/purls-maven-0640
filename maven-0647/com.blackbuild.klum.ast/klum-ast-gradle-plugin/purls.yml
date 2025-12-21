@@ -23,3 +23,5 @@
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.52?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.53?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.54?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.55?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-gradle-plugin@2.0.0-rc.56?classifier=sources

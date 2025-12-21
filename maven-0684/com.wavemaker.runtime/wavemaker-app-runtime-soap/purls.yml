@@ -18,6 +18,8 @@
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.10.3?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.10.4.ee?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.10.4?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.10.5.ee?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.10.5?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.2.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.2.0?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-soap@11.2.1?classifier=sources

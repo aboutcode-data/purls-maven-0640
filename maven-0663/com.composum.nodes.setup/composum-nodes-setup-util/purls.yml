@@ -108,3 +108,5 @@
 - pkg:maven/com.composum.nodes.setup/composum-nodes-setup-util@4.3.3?classifier=sources
 - pkg:maven/com.composum.nodes.setup/composum-nodes-setup-util@4.3.4
 - pkg:maven/com.composum.nodes.setup/composum-nodes-setup-util@4.3.4?classifier=sources
+- pkg:maven/com.composum.nodes.setup/composum-nodes-setup-util@4.3.5
+- pkg:maven/com.composum.nodes.setup/composum-nodes-setup-util@4.3.5?classifier=sources

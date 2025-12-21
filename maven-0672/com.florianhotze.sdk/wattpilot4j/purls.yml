@@ -1,0 +1,2 @@
+- pkg:maven/com.florianhotze.sdk/wattpilot4j@1.0.0?classifier=sources
+- pkg:maven/com.florianhotze.sdk/wattpilot4j@1.1.0?classifier=sources

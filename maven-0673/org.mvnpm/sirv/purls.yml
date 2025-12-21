@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/sirv@2.0.4?classifier=sources
+- pkg:maven/org.mvnpm/sirv@3.0.1?classifier=sources

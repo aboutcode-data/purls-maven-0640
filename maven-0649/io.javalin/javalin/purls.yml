@@ -298,3 +298,5 @@
 - pkg:maven/io.javalin/javalin@6.4.0?classifier=sources
 - pkg:maven/io.javalin/javalin@6.5.0
 - pkg:maven/io.javalin/javalin@6.5.0?classifier=sources
+- pkg:maven/io.javalin/javalin@6.6.0
+- pkg:maven/io.javalin/javalin@6.6.0?classifier=sources

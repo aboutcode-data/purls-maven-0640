@@ -1,1 +1,2 @@
 - pkg:maven/live.lingting.spring/lingting-spring-datascope@2024.11.21?classifier=sources
+- pkg:maven/live.lingting.spring/lingting-spring-datascope@2025.03.26-Beta-1?classifier=sources

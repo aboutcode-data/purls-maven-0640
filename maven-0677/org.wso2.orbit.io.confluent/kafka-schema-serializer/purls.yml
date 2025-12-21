@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.io.confluent/kafka-schema-serializer@7.6.0.wso2v1
+- pkg:maven/org.wso2.orbit.io.confluent/kafka-schema-serializer@7.6.0.wso2v2

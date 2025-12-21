@@ -24,3 +24,7 @@
 - pkg:maven/fun.bigtable/kraken-core@2.0.9.1
 - pkg:maven/fun.bigtable/kraken-core@2.0.9.1?classifier=sources
 - pkg:maven/fun.bigtable/kraken-core@2.0.9?classifier=sources
+- pkg:maven/fun.bigtable/kraken-core@2.4.0
+- pkg:maven/fun.bigtable/kraken-core@2.4.0?classifier=sources
+- pkg:maven/fun.bigtable/kraken-core@2.4.1
+- pkg:maven/fun.bigtable/kraken-core@2.4.1?classifier=sources

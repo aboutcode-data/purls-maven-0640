@@ -1,2 +1,3 @@
 - pkg:maven/co.flexa/core@1.0.10?classifier=sources
 - pkg:maven/co.flexa/core@1.0.11?classifier=sources
+- pkg:maven/co.flexa/core@1.0.12?classifier=sources

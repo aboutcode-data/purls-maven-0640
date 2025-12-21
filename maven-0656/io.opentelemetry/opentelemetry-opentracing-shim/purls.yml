@@ -95,6 +95,7 @@
 - pkg:maven/io.opentelemetry/opentelemetry-opentracing-shim@1.46.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opentracing-shim@1.47.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opentracing-shim@1.48.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-opentracing-shim@1.49.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opentracing-shim@1.5.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opentracing-shim@1.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opentracing-shim@1.7.0-alpha?classifier=sources

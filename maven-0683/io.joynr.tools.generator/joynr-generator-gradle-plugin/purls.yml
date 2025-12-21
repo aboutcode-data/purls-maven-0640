@@ -176,7 +176,13 @@
 - pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.24.2.2
 - pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.24.2.2?classifier=sources
 - pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.24.2?classifier=sources
+- pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.24.3
+- pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.24.3?classifier=sources
+- pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.24.4
+- pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.24.4?classifier=sources
 - pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.25.0
 - pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.25.0?classifier=sources
+- pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.25.2
+- pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.25.2?classifier=sources
 - pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.26.0
 - pkg:maven/io.joynr.tools.generator/joynr-generator-gradle-plugin@1.26.0?classifier=sources

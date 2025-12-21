@@ -22,3 +22,5 @@
 - pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.3.0?type=zip
 - pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.4.0?classifier=sources
 - pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.4.0?type=zip
+- pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.5.0?classifier=sources
+- pkg:maven/eu.europa.ec.joinup.sat/jdplus-main-cli-bin@3.5.0?type=zip

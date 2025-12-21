@@ -12,3 +12,4 @@
 - pkg:maven/name.remal.integration-tests/name.remal.integration-tests.gradle.plugin@4.1.8?classifier=sources
 - pkg:maven/name.remal.integration-tests/name.remal.integration-tests.gradle.plugin@4.1.9?classifier=sources
 - pkg:maven/name.remal.integration-tests/name.remal.integration-tests.gradle.plugin@5.0.0?classifier=sources
+- pkg:maven/name.remal.integration-tests/name.remal.integration-tests.gradle.plugin@5.0.1?classifier=sources

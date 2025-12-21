@@ -1,0 +1,1 @@
+- pkg:maven/com.github.seregamorph/maven-test-distribution-plugin@0.1?classifier=sources

@@ -59,3 +59,4 @@
 - pkg:maven/com.liferay/com.liferay.info.list.provider.item.selector.api@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.info.list.provider.item.selector.api@3.0.4
 - pkg:maven/com.liferay/com.liferay.info.list.provider.item.selector.api@3.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.info.list.provider.item.selector.api@4.0.0?classifier=sources

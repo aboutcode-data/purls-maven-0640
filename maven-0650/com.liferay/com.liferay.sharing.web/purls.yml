@@ -216,6 +216,8 @@
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.75?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.76?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.web@1.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.web@1.0.78?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.web@1.0.8
@@ -415,6 +417,8 @@
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.7
+- pkg:maven/com.liferay/com.liferay.sharing.web@2.0.70?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.web@2.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.web@2.0.8
@@ -597,6 +601,7 @@
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.76?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.77?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.78?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharing.web@3.0.79?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharing.web@3.0.8

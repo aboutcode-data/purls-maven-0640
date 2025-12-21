@@ -15,6 +15,7 @@
 - pkg:maven/club.gepetto/circum@1.0.24?classifier=sources
 - pkg:maven/club.gepetto/circum@1.0.25?classifier=sources
 - pkg:maven/club.gepetto/circum@1.0.26?classifier=sources
+- pkg:maven/club.gepetto/circum@1.0.27?classifier=sources
 - pkg:maven/club.gepetto/circum@1.0.7?classifier=sources
 - pkg:maven/club.gepetto/circum@1.0.8?classifier=sources
 - pkg:maven/club.gepetto/circum@1.0.9?classifier=sources

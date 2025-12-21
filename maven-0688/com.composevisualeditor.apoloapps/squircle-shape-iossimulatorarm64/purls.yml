@@ -11,3 +11,5 @@
 - pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-iossimulatorarm64@1.8.0-dev2112?classifier=sources
 - pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-iossimulatorarm64@1.8.0-dev2128?classifier=sources
 - pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-iossimulatorarm64@1.8.0-dev2134?classifier=sources
+- pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-iossimulatorarm64@1.8.0-dev2260?classifier=sources
+- pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-iossimulatorarm64@1.8.0-dev2290?classifier=sources

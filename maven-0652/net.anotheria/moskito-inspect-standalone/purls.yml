@@ -110,3 +110,5 @@
 - pkg:maven/net.anotheria/moskito-inspect-standalone@4.0.2?type=war
 - pkg:maven/net.anotheria/moskito-inspect-standalone@4.0.3?classifier=sources
 - pkg:maven/net.anotheria/moskito-inspect-standalone@4.0.3?type=war
+- pkg:maven/net.anotheria/moskito-inspect-standalone@4.0.4?classifier=sources
+- pkg:maven/net.anotheria/moskito-inspect-standalone@4.0.4?type=war

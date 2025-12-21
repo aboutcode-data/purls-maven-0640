@@ -6,5 +6,7 @@
 - pkg:maven/info.nino.jpatron/common-utils@2.0.2?classifier=sources
 - pkg:maven/info.nino.jpatron/common-utils@2.0.3
 - pkg:maven/info.nino.jpatron/common-utils@2.0.3?classifier=sources
+- pkg:maven/info.nino.jpatron/common-utils@2.0.4
+- pkg:maven/info.nino.jpatron/common-utils@2.0.4?classifier=sources
 - pkg:maven/info.nino.jpatron/common-utils@3.0.0
 - pkg:maven/info.nino.jpatron/common-utils@3.0.0?classifier=sources

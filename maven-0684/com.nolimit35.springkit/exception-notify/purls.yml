@@ -1,0 +1,4 @@
+- pkg:maven/com.nolimit35.springkit/exception-notify@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.nolimit35.springkit/exception-notify@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.nolimit35.springkit/exception-notify@1.1.1-RELEASE?classifier=sources
+- pkg:maven/com.nolimit35.springkit/exception-notify@1.2.1-RELEASE?classifier=sources

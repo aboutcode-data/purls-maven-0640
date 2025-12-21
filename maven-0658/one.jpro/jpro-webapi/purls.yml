@@ -1,2 +1,3 @@
 - pkg:maven/one.jpro/jpro-webapi@2024.4.1?classifier=sources
 - pkg:maven/one.jpro/jpro-webapi@2025.1.0?classifier=sources
+- pkg:maven/one.jpro/jpro-webapi@2025.2.0?classifier=sources

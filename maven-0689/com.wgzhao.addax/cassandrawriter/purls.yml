@@ -21,3 +21,5 @@
 - pkg:maven/com.wgzhao.addax/cassandrawriter@4.2.4?classifier=sources
 - pkg:maven/com.wgzhao.addax/cassandrawriter@4.3.0?classifier=sources
 - pkg:maven/com.wgzhao.addax/cassandrawriter@5.0.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/cassandrawriter@5.1.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/cassandrawriter@5.1.1?classifier=sources

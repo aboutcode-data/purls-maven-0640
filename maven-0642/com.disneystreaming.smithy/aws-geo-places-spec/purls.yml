@@ -1,0 +1,2 @@
+- pkg:maven/com.disneystreaming.smithy/aws-geo-places-spec@2025.04.08
+- pkg:maven/com.disneystreaming.smithy/aws-geo-places-spec@2025.04.08?classifier=sources

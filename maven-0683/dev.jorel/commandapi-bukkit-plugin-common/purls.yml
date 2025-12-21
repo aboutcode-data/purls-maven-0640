@@ -1,3 +1,5 @@
+- pkg:maven/dev.jorel/commandapi-bukkit-plugin-common@10.0.0
+- pkg:maven/dev.jorel/commandapi-bukkit-plugin-common@10.0.0?classifier=sources
 - pkg:maven/dev.jorel/commandapi-bukkit-plugin-common@9.6.0
 - pkg:maven/dev.jorel/commandapi-bukkit-plugin-common@9.6.0?classifier=sources
 - pkg:maven/dev.jorel/commandapi-bukkit-plugin-common@9.6.1

@@ -210,3 +210,5 @@
 - pkg:maven/no.mnemonic.services.common/auth@0.7.3?classifier=sources
 - pkg:maven/no.mnemonic.services.common/auth@0.8.0
 - pkg:maven/no.mnemonic.services.common/auth@0.8.0?classifier=sources
+- pkg:maven/no.mnemonic.services.common/auth@0.8.1
+- pkg:maven/no.mnemonic.services.common/auth@0.8.1?classifier=sources

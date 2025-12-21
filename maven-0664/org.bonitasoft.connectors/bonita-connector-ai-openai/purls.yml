@@ -1,0 +1,4 @@
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-ai-openai@0.0.1-alpha
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-ai-openai@0.0.1-alpha?classifier=sources
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-ai-openai@0.0.1-beta
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-ai-openai@0.0.1-beta?classifier=sources

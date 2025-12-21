@@ -65,6 +65,11 @@
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.20.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.21.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.22.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.23.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.24.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.25.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.25.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.26.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.3.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.3.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.4.0.0?classifier=sources

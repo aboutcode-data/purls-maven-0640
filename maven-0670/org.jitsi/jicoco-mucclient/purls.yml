@@ -6,3 +6,5 @@
 - pkg:maven/org.jitsi/jicoco-mucclient@1.1-152-g43a2034?classifier=sources
 - pkg:maven/org.jitsi/jicoco-mucclient@1.1-153-g24fdb58
 - pkg:maven/org.jitsi/jicoco-mucclient@1.1-153-g24fdb58?classifier=sources
+- pkg:maven/org.jitsi/jicoco-mucclient@1.1-154-g7e3bb96
+- pkg:maven/org.jitsi/jicoco-mucclient@1.1-154-g7e3bb96?classifier=sources

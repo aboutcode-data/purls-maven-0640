@@ -16,3 +16,4 @@
 - pkg:maven/org.webjars.npm/github-com-swagger-api-swagger-ui@3.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-swagger-api-swagger-ui@4.10.0
 - pkg:maven/org.webjars.npm/github-com-swagger-api-swagger-ui@5.17.10
+- pkg:maven/org.webjars.npm/github-com-swagger-api-swagger-ui@5.20.3

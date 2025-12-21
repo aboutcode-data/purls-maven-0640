@@ -190,6 +190,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@3.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@3.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@3.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@3.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@3.0.4
@@ -278,6 +279,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@4.0.3
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@4.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@4.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@4.0.4
@@ -370,6 +372,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@5.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@5.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@5.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@5.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@5.0.4
@@ -437,6 +440,7 @@
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@6.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@6.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@6.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@6.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.entry.query.processor.custom.user.attributes@6.0.3

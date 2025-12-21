@@ -96,3 +96,5 @@
 - pkg:maven/com.gitee.feizns/dynamic@6.2-RELEASE?classifier=sources
 - pkg:maven/com.gitee.feizns/dynamic@6.3-RELEASE
 - pkg:maven/com.gitee.feizns/dynamic@6.3-RELEASE?classifier=sources
+- pkg:maven/com.gitee.feizns/dynamic@6.4-RELEASE
+- pkg:maven/com.gitee.feizns/dynamic@6.4-RELEASE?classifier=sources
