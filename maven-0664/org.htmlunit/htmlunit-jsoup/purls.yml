@@ -2,3 +2,4 @@
 - pkg:maven/org.htmlunit/htmlunit-jsoup@4.15.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-jsoup@4.16.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-jsoup@4.17.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-jsoup@4.18.0?classifier=sources

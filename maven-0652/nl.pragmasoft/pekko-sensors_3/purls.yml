@@ -1,2 +1,4 @@
 - pkg:maven/nl.pragmasoft/pekko-sensors_3@1.2.0
 - pkg:maven/nl.pragmasoft/pekko-sensors_3@1.2.0?classifier=sources
+- pkg:maven/nl.pragmasoft/pekko-sensors_3@1.2.1
+- pkg:maven/nl.pragmasoft/pekko-sensors_3@1.2.1?classifier=sources

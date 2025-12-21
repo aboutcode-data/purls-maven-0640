@@ -2102,3 +2102,7 @@
 - pkg:maven/org.sdase.commons/sda-commons-server-cloudevents@8.0.6?classifier=sources
 - pkg:maven/org.sdase.commons/sda-commons-server-cloudevents@8.0.7
 - pkg:maven/org.sdase.commons/sda-commons-server-cloudevents@8.0.7?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-cloudevents@8.0.8
+- pkg:maven/org.sdase.commons/sda-commons-server-cloudevents@8.0.8?classifier=sources
+- pkg:maven/org.sdase.commons/sda-commons-server-cloudevents@8.0.9
+- pkg:maven/org.sdase.commons/sda-commons-server-cloudevents@8.0.9?classifier=sources

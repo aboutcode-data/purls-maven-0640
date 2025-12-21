@@ -514,3 +514,5 @@
 - pkg:maven/org.springframework.data/spring-data-rest-core@5.0.0-M6?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-core@5.0.0-RC1
 - pkg:maven/org.springframework.data/spring-data-rest-core@5.0.0-RC1?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-core@5.0.0-RC2
+- pkg:maven/org.springframework.data/spring-data-rest-core@5.0.0-RC2?classifier=sources

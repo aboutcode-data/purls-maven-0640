@@ -33,3 +33,5 @@
 - pkg:maven/org.mvnpm.at.lwc/style-compiler@8.22.6?classifier=sources
 - pkg:maven/org.mvnpm.at.lwc/style-compiler@8.23.0
 - pkg:maven/org.mvnpm.at.lwc/style-compiler@8.23.0?classifier=sources
+- pkg:maven/org.mvnpm.at.lwc/style-compiler@8.24.0
+- pkg:maven/org.mvnpm.at.lwc/style-compiler@8.24.0?classifier=sources

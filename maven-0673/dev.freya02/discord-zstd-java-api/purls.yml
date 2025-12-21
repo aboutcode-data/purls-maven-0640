@@ -1,0 +1,4 @@
+- pkg:maven/dev.freya02/discord-zstd-java-api@0.1.0?classifier=sources
+- pkg:maven/dev.freya02/discord-zstd-java-api@0.1.0_44f963e6504f8309289599e52d62560fac2e5a69?classifier=sources
+- pkg:maven/dev.freya02/discord-zstd-java-api@0.2.0?classifier=sources
+- pkg:maven/dev.freya02/discord-zstd-java-api@0.3.0?classifier=sources

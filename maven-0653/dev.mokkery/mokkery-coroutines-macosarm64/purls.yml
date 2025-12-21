@@ -1,5 +1,6 @@
 - pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@2.10.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@2.10.1?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@2.10.2?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@2.2.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@2.3.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@2.4.0?classifier=sources
@@ -15,3 +16,5 @@
 - pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@2.9.0?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@3.0.0-Beta1?classifier=sources
 - pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@3.0.0-Beta2?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@3.0.0-Beta3?classifier=sources
+- pkg:maven/dev.mokkery/mokkery-coroutines-macosarm64@3.0.0-RC?classifier=sources

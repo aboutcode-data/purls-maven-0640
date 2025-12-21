@@ -2204,8 +2204,16 @@
 - pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.776?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.777
 - pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.777?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.778
+- pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.778?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.779
+- pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.779?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.77?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.78
+- pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.780
+- pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.780?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.781
+- pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.781?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.78?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.79
 - pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions@2.0.1-alpha.79?classifier=sources

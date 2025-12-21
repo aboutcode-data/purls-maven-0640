@@ -5,3 +5,4 @@
 - pkg:maven/io.telicent.smart-caches/action-tracker@0.29.6?classifier=sources
 - pkg:maven/io.telicent.smart-caches/action-tracker@0.30.0?classifier=sources
 - pkg:maven/io.telicent.smart-caches/action-tracker@0.30.1?classifier=sources
+- pkg:maven/io.telicent.smart-caches/action-tracker@0.31.0?classifier=sources

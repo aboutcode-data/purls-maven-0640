@@ -34,3 +34,5 @@
 - pkg:maven/com.bilal-fazlani/zio-maelstrom_3@3.0.0-beta3?classifier=sources
 - pkg:maven/com.bilal-fazlani/zio-maelstrom_3@3.0.0-beta4
 - pkg:maven/com.bilal-fazlani/zio-maelstrom_3@3.0.0-beta4?classifier=sources
+- pkg:maven/com.bilal-fazlani/zio-maelstrom_3@3.0.0-beta5
+- pkg:maven/com.bilal-fazlani/zio-maelstrom_3@3.0.0-beta5?classifier=sources

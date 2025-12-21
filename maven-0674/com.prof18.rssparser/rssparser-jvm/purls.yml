@@ -28,3 +28,4 @@
 - pkg:maven/com.prof18.rssparser/rssparser-jvm@6.1.0-alpha02?classifier=sources
 - pkg:maven/com.prof18.rssparser/rssparser-jvm@6.1.0-alpha03?classifier=sources
 - pkg:maven/com.prof18.rssparser/rssparser-jvm@6.1.0?classifier=sources
+- pkg:maven/com.prof18.rssparser/rssparser-jvm@6.1.1?classifier=sources

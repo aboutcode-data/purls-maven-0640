@@ -59,6 +59,7 @@
 - pkg:maven/com.azure/azure-cosmos-encryption@2.21.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos-encryption@2.22.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos-encryption@2.23.0?classifier=sources
+- pkg:maven/com.azure/azure-cosmos-encryption@2.24.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos-encryption@2.3.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos-encryption@2.4.0?classifier=sources
 - pkg:maven/com.azure/azure-cosmos-encryption@2.5.0?classifier=sources

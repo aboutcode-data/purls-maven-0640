@@ -716,6 +716,17 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.1-668?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.1-669?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.1-674?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.1-675?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.1-700?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.1-708?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.1-710?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.1-711?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.1-716?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.2-696-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.2-699-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.2-702-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.15.2-706-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.16.0-717?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.2.0-395-1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.2.1-422-1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies@0.8.3.194.dev1?classifier=sources

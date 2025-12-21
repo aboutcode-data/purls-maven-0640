@@ -11,3 +11,5 @@
 - pkg:maven/me.proton.core/pass-validator-domain@34.3.0?classifier=sources
 - pkg:maven/me.proton.core/pass-validator-domain@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/pass-validator-domain@35.0.0?classifier=sources
+- pkg:maven/me.proton.core/pass-validator-domain@35.1.0?classifier=sources
+- pkg:maven/me.proton.core/pass-validator-domain@35.2.0?classifier=sources

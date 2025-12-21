@@ -7,3 +7,4 @@
 - pkg:maven/gov.nasa.pds.model/model-lddtool@15.2.3
 - pkg:maven/gov.nasa.pds.model/model-lddtool@15.2.4
 - pkg:maven/gov.nasa.pds.model/model-lddtool@15.3.0
+- pkg:maven/gov.nasa.pds.model/model-lddtool@16.0.0?classifier=sources

@@ -70,3 +70,6 @@
 - pkg:maven/io.github.aafc-bicoe/dina-search@0.151?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-search@0.152?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-search@0.153?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-search@0.154?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-search@0.155?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-search@0.156?classifier=sources

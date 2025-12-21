@@ -113,3 +113,4 @@
 - pkg:maven/com.cognitect.aws/securityhub@871.2.32.15?classifier=sources
 - pkg:maven/com.cognitect.aws/securityhub@871.2.32.2?classifier=sources
 - pkg:maven/com.cognitect.aws/securityhub@871.2.33.5?classifier=sources
+- pkg:maven/com.cognitect.aws/securityhub@871.2.36.3?classifier=sources

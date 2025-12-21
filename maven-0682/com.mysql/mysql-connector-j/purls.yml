@@ -22,3 +22,5 @@
 - pkg:maven/com.mysql/mysql-connector-j@9.3.0?classifier=sources
 - pkg:maven/com.mysql/mysql-connector-j@9.4.0
 - pkg:maven/com.mysql/mysql-connector-j@9.4.0?classifier=sources
+- pkg:maven/com.mysql/mysql-connector-j@9.5.0
+- pkg:maven/com.mysql/mysql-connector-j@9.5.0?classifier=sources

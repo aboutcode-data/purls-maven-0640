@@ -42,4 +42,5 @@
 - pkg:maven/org.komapper/komapper-tx-context-jdbc@5.4.0?classifier=sources
 - pkg:maven/org.komapper/komapper-tx-context-jdbc@5.5.0?classifier=sources
 - pkg:maven/org.komapper/komapper-tx-context-jdbc@5.6.0?classifier=sources
+- pkg:maven/org.komapper/komapper-tx-context-jdbc@5.7.0?classifier=sources
 - pkg:maven/org.komapper/komapper-tx-context-jdbc@RELEASE_VERSION?classifier=sources

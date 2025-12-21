@@ -43,3 +43,4 @@
 - pkg:maven/org.webjars.npm/webrtc-adapter@8.2.0
 - pkg:maven/org.webjars.npm/webrtc-adapter@8.2.3
 - pkg:maven/org.webjars.npm/webrtc-adapter@9.0.1
+- pkg:maven/org.webjars.npm/webrtc-adapter@9.0.3

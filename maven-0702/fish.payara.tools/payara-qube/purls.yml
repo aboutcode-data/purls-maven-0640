@@ -1,0 +1,2 @@
+- pkg:maven/fish.payara.tools/payara-qube@2.0.0
+- pkg:maven/fish.payara.tools/payara-qube@2.0.0?classifier=sources

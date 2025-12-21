@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.mcp/quarkus-mcp-server-websocket@1.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.mcp/quarkus-mcp-server-websocket@1.7.1?classifier=sources

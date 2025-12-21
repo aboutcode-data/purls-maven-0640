@@ -9,3 +9,4 @@
 - pkg:maven/dev.opensavvy.ktmongo/bson-multiplatform-watchosarm32@0.21.0?classifier=sources
 - pkg:maven/dev.opensavvy.ktmongo/bson-multiplatform-watchosarm32@0.22.0?classifier=sources
 - pkg:maven/dev.opensavvy.ktmongo/bson-multiplatform-watchosarm32@0.23.0?classifier=sources
+- pkg:maven/dev.opensavvy.ktmongo/bson-multiplatform-watchosarm32@0.24.0?classifier=sources

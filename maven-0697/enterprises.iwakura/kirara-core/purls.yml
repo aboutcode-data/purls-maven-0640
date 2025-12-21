@@ -1,1 +1,2 @@
 - pkg:maven/enterprises.iwakura/kirara-core@1.0.0?classifier=sources
+- pkg:maven/enterprises.iwakura/kirara-core@1.1.0?classifier=sources

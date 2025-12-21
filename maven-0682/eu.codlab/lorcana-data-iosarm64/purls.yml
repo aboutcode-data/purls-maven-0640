@@ -32,6 +32,8 @@
 - pkg:maven/eu.codlab/lorcana-data-iosarm64@0.20.18?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-iosarm64@0.20.19?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-iosarm64@0.20.1?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-iosarm64@0.20.20?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-iosarm64@0.20.21?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-iosarm64@0.20.2?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-iosarm64@0.20.3?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-iosarm64@0.20.4?classifier=sources

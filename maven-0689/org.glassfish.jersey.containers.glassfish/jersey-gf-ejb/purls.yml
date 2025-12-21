@@ -277,3 +277,4 @@
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@4.0.0-M2?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@4.0.0-M3?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@4.0.0-M4?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@4.0.0?classifier=sources

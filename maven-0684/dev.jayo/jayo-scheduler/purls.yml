@@ -22,3 +22,7 @@
 - pkg:maven/dev.jayo/jayo-scheduler@0.1.0-alpha61?classifier=sources
 - pkg:maven/dev.jayo/jayo-scheduler@0.1.0-alpha62?classifier=sources
 - pkg:maven/dev.jayo/jayo-scheduler@0.1.0-alpha63?classifier=sources
+- pkg:maven/dev.jayo/jayo-scheduler@0.1.0-alpha64?classifier=sources
+- pkg:maven/dev.jayo/jayo-scheduler@0.1.0-alpha65?classifier=sources
+- pkg:maven/dev.jayo/jayo-scheduler@0.1.0-alpha66?classifier=sources
+- pkg:maven/dev.jayo/jayo-scheduler@0.1.0-alpha67?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.get-coursier/interface-no-shading_2.13@1.0.29-M3
+- pkg:maven/io.get-coursier/interface-no-shading_2.13@1.0.29-M3?classifier=sources

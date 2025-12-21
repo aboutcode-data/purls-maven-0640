@@ -3,3 +3,4 @@
 - pkg:maven/tech.ostack/kform-js-bindings-js@0.31.2?classifier=sources
 - pkg:maven/tech.ostack/kform-js-bindings-js@0.31.3?classifier=sources
 - pkg:maven/tech.ostack/kform-js-bindings-js@0.31.4?classifier=sources
+- pkg:maven/tech.ostack/kform-js-bindings-js@0.31.5?classifier=sources

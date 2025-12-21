@@ -66,3 +66,5 @@
 - pkg:maven/io.jexxa.jlegmed/jlegmed-core@4.2.0?classifier=sources
 - pkg:maven/io.jexxa.jlegmed/jlegmed-core@4.3.0?classifier=sources
 - pkg:maven/io.jexxa.jlegmed/jlegmed-core@4.4.0?classifier=sources
+- pkg:maven/io.jexxa.jlegmed/jlegmed-core@4.5.0?classifier=sources
+- pkg:maven/io.jexxa.jlegmed/jlegmed-core@5.0.0?classifier=sources

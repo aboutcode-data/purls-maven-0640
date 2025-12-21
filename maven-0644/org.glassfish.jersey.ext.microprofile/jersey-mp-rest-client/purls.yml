@@ -111,3 +111,4 @@
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@4.0.0-M2?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@4.0.0-M3?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@4.0.0-M4?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext.microprofile/jersey-mp-rest-client@4.0.0?classifier=sources

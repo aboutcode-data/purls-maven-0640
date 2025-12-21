@@ -6,3 +6,4 @@
 - pkg:maven/io.github.hextriclosan/algorithm@0.0.3?classifier=sources
 - pkg:maven/io.github.hextriclosan/algorithm@0.0.4
 - pkg:maven/io.github.hextriclosan/algorithm@0.0.4?classifier=sources
+- pkg:maven/io.github.hextriclosan/algorithm@0.0.5?classifier=sources

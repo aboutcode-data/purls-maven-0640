@@ -340,5 +340,7 @@
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.84.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.85.0
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.85.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-securitycenter@2.86.0
+- pkg:maven/com.google.cloud/google-cloud-securitycenter@2.86.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.9.0
 - pkg:maven/com.google.cloud/google-cloud-securitycenter@2.9.0?classifier=sources

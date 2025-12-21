@@ -28,6 +28,8 @@
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p17-98?classifier=sources
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p18-98
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p18-98?classifier=sources
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p19-98
+- pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p19-98?classifier=sources
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p2-98
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p2-98?classifier=sources
 - pkg:maven/org.daisy.libs/com.xmlcalabash@1.1.20-p3-98

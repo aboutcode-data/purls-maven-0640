@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/binary-extensions@1.13.0
+- pkg:maven/org.mvnpm/binary-extensions@1.13.0?classifier=sources
 - pkg:maven/org.mvnpm/binary-extensions@1.13.1?classifier=sources
 - pkg:maven/org.mvnpm/binary-extensions@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/binary-extensions@2.1.0?classifier=sources

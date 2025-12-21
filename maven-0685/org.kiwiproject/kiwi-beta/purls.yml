@@ -45,3 +45,4 @@
 - pkg:maven/org.kiwiproject/kiwi-beta@2.5.0?classifier=sources
 - pkg:maven/org.kiwiproject/kiwi-beta@2.6.0?classifier=sources
 - pkg:maven/org.kiwiproject/kiwi-beta@2.6.1?classifier=sources
+- pkg:maven/org.kiwiproject/kiwi-beta@2.7.0?classifier=sources

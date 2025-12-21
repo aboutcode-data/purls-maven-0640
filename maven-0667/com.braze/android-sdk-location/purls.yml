@@ -30,3 +30,5 @@
 - pkg:maven/com.braze/android-sdk-location@37.0.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-location@38.0.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-location@39.0.0?classifier=sources
+- pkg:maven/com.braze/android-sdk-location@40.0.0?classifier=sources
+- pkg:maven/com.braze/android-sdk-location@40.0.1?classifier=sources

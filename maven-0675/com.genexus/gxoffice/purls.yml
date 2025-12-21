@@ -142,6 +142,7 @@
 - pkg:maven/com.genexus/gxoffice@4.6.17
 - pkg:maven/com.genexus/gxoffice@4.6.17?classifier=sources
 - pkg:maven/com.genexus/gxoffice@4.6.19?classifier=sources
+- pkg:maven/com.genexus/gxoffice@4.6.20?classifier=sources
 - pkg:maven/com.genexus/gxoffice@4.6.4
 - pkg:maven/com.genexus/gxoffice@4.6.4?classifier=sources
 - pkg:maven/com.genexus/gxoffice@4.6.5

@@ -12,3 +12,4 @@
 - pkg:maven/io.openapiprocessor/io-jackson@2025.2?classifier=sources
 - pkg:maven/io.openapiprocessor/io-jackson@2025.3?classifier=sources
 - pkg:maven/io.openapiprocessor/io-jackson@2025.4?classifier=sources
+- pkg:maven/io.openapiprocessor/io-jackson@2025.5?classifier=sources

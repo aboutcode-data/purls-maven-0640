@@ -27,3 +27,4 @@
 - pkg:maven/io.micronaut.nats/micronaut-nats@4.6.0?classifier=sources
 - pkg:maven/io.micronaut.nats/micronaut-nats@4.7.0?classifier=sources
 - pkg:maven/io.micronaut.nats/micronaut-nats@4.8.0?classifier=sources
+- pkg:maven/io.micronaut.nats/micronaut-nats@4.9.0?classifier=sources

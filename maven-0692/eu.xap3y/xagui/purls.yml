@@ -3,3 +3,5 @@
 - pkg:maven/eu.xap3y/xagui@1.2-beta.2?classifier=sources
 - pkg:maven/eu.xap3y/xagui@1.2-beta.3?classifier=sources
 - pkg:maven/eu.xap3y/xagui@1.2-beta.4?classifier=sources
+- pkg:maven/eu.xap3y/xagui@1.2.1?classifier=sources
+- pkg:maven/eu.xap3y/xagui@1.2?classifier=sources

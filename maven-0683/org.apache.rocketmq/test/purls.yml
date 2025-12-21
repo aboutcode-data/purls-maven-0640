@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.rocketmq/test@5.0.7?classifier=sources
 - pkg:maven/org.apache.rocketmq/test@5.0.8
 - pkg:maven/org.apache.rocketmq/test@5.0.8?classifier=sources
+- pkg:maven/org.apache.rocketmq/test@5.1.0
+- pkg:maven/org.apache.rocketmq/test@5.1.0?classifier=sources

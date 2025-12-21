@@ -1,0 +1,4 @@
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-sbt-plugin_2.12_1.0@1.0.43
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-sbt-plugin_2.12_1.0@1.0.43?classifier=sources
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-sbt-plugin_2.12_1.0@1.0.44
+- pkg:maven/io.sealights.on-premise.agents.plugin/sealights-sbt-plugin_2.12_1.0@1.0.44?classifier=sources

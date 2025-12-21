@@ -284,7 +284,9 @@
 - pkg:maven/com.github.thunderz99/java-cosmos@0.8.15?classifier=sources
 - pkg:maven/com.github.thunderz99/java-cosmos@0.8.16?classifier=sources
 - pkg:maven/com.github.thunderz99/java-cosmos@0.8.17.RC1?classifier=sources
+- pkg:maven/com.github.thunderz99/java-cosmos@0.8.17.RC2?classifier=sources
 - pkg:maven/com.github.thunderz99/java-cosmos@0.8.17?classifier=sources
+- pkg:maven/com.github.thunderz99/java-cosmos@0.8.18?classifier=sources
 - pkg:maven/com.github.thunderz99/java-cosmos@0.8.1?classifier=sources
 - pkg:maven/com.github.thunderz99/java-cosmos@0.8.2
 - pkg:maven/com.github.thunderz99/java-cosmos@0.8.2?classifier=sources

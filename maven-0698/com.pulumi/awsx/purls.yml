@@ -219,3 +219,4 @@
 - pkg:maven/com.pulumi/awsx@2.9.0-alpha.2?classifier=sources
 - pkg:maven/com.pulumi/awsx@2.9.0?classifier=sources
 - pkg:maven/com.pulumi/awsx@3.0.0?classifier=sources
+- pkg:maven/com.pulumi/awsx@3.0.1?classifier=sources

@@ -12,3 +12,6 @@
 - pkg:maven/org.openrewrite/rewrite-java-25@8.63.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-25@8.63.4?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-25@8.64.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-25@8.65.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-25@8.66.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-25@8.66.1?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/me.hsgamer/topper-query-snapshot@4.5.1?classifier=sources
 - pkg:maven/me.hsgamer/topper-query-snapshot@4.5.2?classifier=sources
 - pkg:maven/me.hsgamer/topper-query-snapshot@4.6.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-query-snapshot@4.7.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-query-snapshot@4.8.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-query-snapshot@4.9.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-query-snapshot@4.9.1?classifier=sources

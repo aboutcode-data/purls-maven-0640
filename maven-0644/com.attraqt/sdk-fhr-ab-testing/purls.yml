@@ -1,1 +1,2 @@
 - pkg:maven/com.attraqt/sdk-fhr-ab-testing@1.0.0?classifier=sources
+- pkg:maven/com.attraqt/sdk-fhr-ab-testing@2.0.0?classifier=sources

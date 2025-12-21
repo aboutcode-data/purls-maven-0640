@@ -42,3 +42,5 @@
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@8.5.0
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@8.5.0?classifier=sources
 - pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@9.0.0-beta0003?classifier=sources
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@9.0.0?classifier=sources
+- pkg:maven/com.io7m.primogenitor/com.io7m.primogenitor.tests@9.1.0?classifier=sources

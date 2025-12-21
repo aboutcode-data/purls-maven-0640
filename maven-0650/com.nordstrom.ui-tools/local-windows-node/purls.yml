@@ -41,3 +41,4 @@
 - pkg:maven/com.nordstrom.ui-tools/local-windows-node@3.2.0
 - pkg:maven/com.nordstrom.ui-tools/local-windows-node@3.3.0
 - pkg:maven/com.nordstrom.ui-tools/local-windows-node@3.4.0
+- pkg:maven/com.nordstrom.ui-tools/local-windows-node@3.5.0

@@ -1,0 +1,2 @@
+- pkg:maven/dev.freya02/discord-zstd-java-jni-impl@0.2.0?classifier=sources
+- pkg:maven/dev.freya02/discord-zstd-java-jni-impl@0.3.0?classifier=sources

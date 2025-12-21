@@ -1,4 +1,7 @@
 - pkg:maven/com.evolvedbinary.thirdparty.org.apache.xmlrpc/xmlrpc-server@4.0.0
 - pkg:maven/com.evolvedbinary.thirdparty.org.apache.xmlrpc/xmlrpc-server@4.0.0?classifier=sources
+- pkg:maven/com.evolvedbinary.thirdparty.org.apache.xmlrpc/xmlrpc-server@4.1.0?classifier=sources
 - pkg:maven/com.evolvedbinary.thirdparty.org.apache.xmlrpc/xmlrpc-server@5.0.0
 - pkg:maven/com.evolvedbinary.thirdparty.org.apache.xmlrpc/xmlrpc-server@5.0.0?classifier=sources
+- pkg:maven/com.evolvedbinary.thirdparty.org.apache.xmlrpc/xmlrpc-server@6.0.0?classifier=sources
+- pkg:maven/com.evolvedbinary.thirdparty.org.apache.xmlrpc/xmlrpc-server@6.1.0?classifier=sources

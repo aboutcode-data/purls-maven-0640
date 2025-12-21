@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.fory/fory-parent@0.12.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.fory/fory-parent@0.12.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.fory/fory-parent@0.12.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.fory/fory-parent@0.13.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.fory/fory-parent@0.13.1?classifier=source-release&type=zip

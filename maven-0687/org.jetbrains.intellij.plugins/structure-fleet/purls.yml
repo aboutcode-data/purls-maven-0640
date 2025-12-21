@@ -136,3 +136,5 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.316?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.317?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.318?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.319?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-fleet@3.320?classifier=sources

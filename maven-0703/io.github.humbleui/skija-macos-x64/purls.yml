@@ -30,6 +30,12 @@
 - pkg:maven/io.github.humbleui/skija-macos-x64@0.116.7?classifier=sources
 - pkg:maven/io.github.humbleui/skija-macos-x64@0.116.8
 - pkg:maven/io.github.humbleui/skija-macos-x64@0.116.8?classifier=sources
+- pkg:maven/io.github.humbleui/skija-macos-x64@0.123.0
+- pkg:maven/io.github.humbleui/skija-macos-x64@0.123.0?classifier=sources
+- pkg:maven/io.github.humbleui/skija-macos-x64@0.132.0
+- pkg:maven/io.github.humbleui/skija-macos-x64@0.132.0?classifier=sources
+- pkg:maven/io.github.humbleui/skija-macos-x64@0.143.0
+- pkg:maven/io.github.humbleui/skija-macos-x64@0.143.0?classifier=sources
 - pkg:maven/io.github.humbleui/skija-macos-x64@0.98.0
 - pkg:maven/io.github.humbleui/skija-macos-x64@0.98.0?classifier=sources
 - pkg:maven/io.github.humbleui/skija-macos-x64@0.98.1

@@ -93,6 +93,9 @@
 - pkg:maven/com.telefonica/mistica@22.3.0?classifier=sources
 - pkg:maven/com.telefonica/mistica@22.4.0?classifier=sources
 - pkg:maven/com.telefonica/mistica@23.0.0?classifier=sources
+- pkg:maven/com.telefonica/mistica@23.1.0?classifier=sources
+- pkg:maven/com.telefonica/mistica@23.1.1?classifier=sources
+- pkg:maven/com.telefonica/mistica@23.2.1?classifier=sources
 - pkg:maven/com.telefonica/mistica@3.0.0?classifier=sources
 - pkg:maven/com.telefonica/mistica@3.0.1?classifier=sources
 - pkg:maven/com.telefonica/mistica@3.1.0?classifier=sources

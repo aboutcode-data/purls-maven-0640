@@ -1,0 +1,9 @@
+- pkg:maven/com.alexrdclement.gradle.plugin/plugins@0.0.10?classifier=sources
+- pkg:maven/com.alexrdclement.gradle.plugin/plugins@0.0.15?classifier=sources
+- pkg:maven/com.alexrdclement.gradle.plugin/plugins@0.0.16?classifier=sources
+- pkg:maven/com.alexrdclement.gradle.plugin/plugins@0.0.17?classifier=sources
+- pkg:maven/com.alexrdclement.gradle.plugin/plugins@0.0.23?classifier=sources
+- pkg:maven/com.alexrdclement.gradle.plugin/plugins@0.0.24?classifier=sources
+- pkg:maven/com.alexrdclement.gradle.plugin/plugins@0.0.4?classifier=sources
+- pkg:maven/com.alexrdclement.gradle.plugin/plugins@0.0.5?classifier=sources
+- pkg:maven/com.alexrdclement.gradle.plugin/plugins@0.0.6?classifier=sources

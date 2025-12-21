@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/grpc-query@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/grpc-query@34.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/grpc-query@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/grpc-query@35.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/grpc-query@35.0.0?classifier=sources

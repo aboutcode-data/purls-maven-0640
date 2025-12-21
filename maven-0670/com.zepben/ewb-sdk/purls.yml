@@ -12,3 +12,6 @@
 - pkg:maven/com.zepben/ewb-sdk@1.1.0b2?classifier=sources
 - pkg:maven/com.zepben/ewb-sdk@1.1.0b3?classifier=sources
 - pkg:maven/com.zepben/ewb-sdk@1.1.0b4?classifier=sources
+- pkg:maven/com.zepben/ewb-sdk@1.2.0b1?classifier=sources
+- pkg:maven/com.zepben/ewb-sdk@1.2.0b2?classifier=sources
+- pkg:maven/com.zepben/ewb-sdk@1.2.0b3?classifier=sources

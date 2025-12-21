@@ -2,3 +2,4 @@
 - pkg:maven/org.wildfly.clustering.benchmark/clusterbench-common@13.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering.benchmark/clusterbench-common@14.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering.benchmark/clusterbench-common@14.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering.benchmark/clusterbench-common@15.0.0.Final?classifier=sources

@@ -29,3 +29,4 @@
 - pkg:maven/org.bedework/bw-util-xmltools@5.0.9
 - pkg:maven/org.bedework/bw-util-xmltools@5.0.9?classifier=sources
 - pkg:maven/org.bedework/bw-util-xmltools@6.0.0?classifier=sources
+- pkg:maven/org.bedework/bw-util-xmltools@6.0.1?classifier=sources

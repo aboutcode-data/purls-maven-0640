@@ -467,6 +467,10 @@
 - pkg:maven/org.openjfx/javafx-web@26-ea%2B12?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@26-ea%2B13
 - pkg:maven/org.openjfx/javafx-web@26-ea%2B13?classifier=sources
+- pkg:maven/org.openjfx/javafx-web@26-ea%2B14
+- pkg:maven/org.openjfx/javafx-web@26-ea%2B14?classifier=sources
+- pkg:maven/org.openjfx/javafx-web@26-ea%2B15
+- pkg:maven/org.openjfx/javafx-web@26-ea%2B15?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@26-ea%2B1?classifier=sources
 - pkg:maven/org.openjfx/javafx-web@26-ea%2B2
 - pkg:maven/org.openjfx/javafx-web@26-ea%2B2?classifier=sources

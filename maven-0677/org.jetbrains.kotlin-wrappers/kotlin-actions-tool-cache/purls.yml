@@ -3,6 +3,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.10-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.11-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.12-2.0.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.13-2.0.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.14-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.2-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.3-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.4-2.0.2?classifier=sources
@@ -11,6 +13,12 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.7-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.8-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.10.9-2.0.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.11.0-2.0.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.11.1-2.0.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.11.2-2.0.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.11.3-2.0.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.11.4-2.0.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.11.5-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.4.0-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.4.1-2.0.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-tool-cache@2025.4.10-2.0.2?classifier=sources
