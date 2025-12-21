@@ -229,8 +229,10 @@
 - pkg:maven/com.gu/content-api-models@32.0.0-PREVIEW.filterproduct-element-temp.2025-10-15T1557.c1c37df6
 - pkg:maven/com.gu/content-api-models@32.0.0-PREVIEW.filterproduct-element-temp.2025-10-17T1357.19edb5e8
 - pkg:maven/com.gu/content-api-models@33.0.0
+- pkg:maven/com.gu/content-api-models@34.0.0
 - pkg:maven/com.gu/content-api-models@34.0.0-PREVIEW.anbump-content-atom-model.2025-11-17T0928.91d3cce9
 - pkg:maven/com.gu/content-api-models@34.0.0-PREVIEW.pm-callout-type.2025-11-14T1725.7389da8b
+- pkg:maven/com.gu/content-api-models@35.0.0-PREVIEW.jshstandard-button.2025-12-01T1249.e282112e
 - pkg:maven/com.gu/content-api-models@8.1.2
 - pkg:maven/com.gu/content-api-models@8.1.2?classifier=sources
 - pkg:maven/com.gu/content-api-models@8.10

@@ -6,3 +6,4 @@
 - pkg:maven/com.pexip.sdk/sdk-core@0.17.3?classifier=sources
 - pkg:maven/com.pexip.sdk/sdk-core@0.17.4?classifier=sources
 - pkg:maven/com.pexip.sdk/sdk-core@0.17.5?classifier=sources
+- pkg:maven/com.pexip.sdk/sdk-core@0.18.0?classifier=sources

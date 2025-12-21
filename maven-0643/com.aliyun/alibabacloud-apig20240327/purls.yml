@@ -45,3 +45,5 @@
 - pkg:maven/com.aliyun/alibabacloud-apig20240327@5.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-apig20240327@5.0.3?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-apig20240327@5.0.4?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-apig20240327@5.0.5?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-apig20240327@5.0.6?classifier=sources

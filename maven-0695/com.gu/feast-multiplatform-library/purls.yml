@@ -13,3 +13,5 @@
 - pkg:maven/com.gu/feast-multiplatform-library@3.0.0?classifier=sources
 - pkg:maven/com.gu/feast-multiplatform-library@3.0.1?classifier=sources
 - pkg:maven/com.gu/feast-multiplatform-library@4.0.0?classifier=sources
+- pkg:maven/com.gu/feast-multiplatform-library@5.0.0?classifier=sources
+- pkg:maven/com.gu/feast-multiplatform-library@5.0.1?classifier=sources

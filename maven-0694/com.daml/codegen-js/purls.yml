@@ -1,0 +1,2 @@
+- pkg:maven/com.daml/codegen-js@3.5.0-adhoc.20251202.14472.0.v7f863212
+- pkg:maven/com.daml/codegen-js@3.5.0-adhoc.20251202.14472.0.v7f863212?classifier=sources

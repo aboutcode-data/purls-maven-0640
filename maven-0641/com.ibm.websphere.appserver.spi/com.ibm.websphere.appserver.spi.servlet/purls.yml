@@ -17,6 +17,7 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.16.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.16.106?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.16.107?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.16.108?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.2.21
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.22
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.servlet@2.3.23

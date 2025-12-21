@@ -6,3 +6,4 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-roles-anywhere-starter-it@1.4.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-roles-anywhere-starter-it@1.5.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-roles-anywhere-starter-it@1.6.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-roles-anywhere-starter-it@1.7.0?classifier=sources
