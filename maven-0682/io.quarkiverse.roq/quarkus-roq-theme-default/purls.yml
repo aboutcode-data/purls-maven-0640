@@ -34,3 +34,8 @@
 - pkg:maven/io.quarkiverse.roq/quarkus-roq-theme-default@1.7.0.CR2?classifier=sources
 - pkg:maven/io.quarkiverse.roq/quarkus-roq-theme-default@1.7.0.CR3?classifier=sources
 - pkg:maven/io.quarkiverse.roq/quarkus-roq-theme-default@1.7.0.CR4?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-theme-default@1.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-theme-default@1.7.1?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-theme-default@1.8.0?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-theme-default@1.8.1?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-theme-default@1.9.0?classifier=sources

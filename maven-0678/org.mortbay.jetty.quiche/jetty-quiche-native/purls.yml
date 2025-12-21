@@ -37,3 +37,4 @@
 - pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.24.0
 - pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.24.0?classifier=sources
 - pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.24.4?classifier=sources
+- pkg:maven/org.mortbay.jetty.quiche/jetty-quiche-native@0.24.5?classifier=sources

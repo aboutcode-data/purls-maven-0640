@@ -9,3 +9,5 @@
 - pkg:maven/org.mvnpm.at.carbon/feature-flags@0.28.1?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/feature-flags@0.29.0
 - pkg:maven/org.mvnpm.at.carbon/feature-flags@0.29.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/feature-flags@0.30.0
+- pkg:maven/org.mvnpm.at.carbon/feature-flags@0.30.0?classifier=sources

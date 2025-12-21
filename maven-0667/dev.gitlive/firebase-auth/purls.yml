@@ -27,3 +27,5 @@
 - pkg:maven/dev.gitlive/firebase-auth@1.9.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-auth@2.0.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-auth@2.1.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-auth@2.2.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-auth@2.3.0?classifier=sources

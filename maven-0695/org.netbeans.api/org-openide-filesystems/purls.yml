@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.api/org-openide-filesystems@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-filesystems@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-filesystems@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-filesystems@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-filesystems@RELEASE90?classifier=sources

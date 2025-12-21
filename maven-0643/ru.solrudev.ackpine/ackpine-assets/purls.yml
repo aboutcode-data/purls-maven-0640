@@ -30,6 +30,9 @@
 - pkg:maven/ru.solrudev.ackpine/ackpine-assets@0.13.2?classifier=sources
 - pkg:maven/ru.solrudev.ackpine/ackpine-assets@0.14.0?classifier=sources
 - pkg:maven/ru.solrudev.ackpine/ackpine-assets@0.15.0?classifier=sources
+- pkg:maven/ru.solrudev.ackpine/ackpine-assets@0.15.1?classifier=sources
+- pkg:maven/ru.solrudev.ackpine/ackpine-assets@0.15.2?classifier=sources
+- pkg:maven/ru.solrudev.ackpine/ackpine-assets@0.15.3?classifier=sources
 - pkg:maven/ru.solrudev.ackpine/ackpine-assets@0.2.0?classifier=sources
 - pkg:maven/ru.solrudev.ackpine/ackpine-assets@0.2.1?classifier=sources
 - pkg:maven/ru.solrudev.ackpine/ackpine-assets@0.2.2?classifier=sources

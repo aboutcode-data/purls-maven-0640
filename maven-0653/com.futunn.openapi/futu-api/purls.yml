@@ -76,3 +76,5 @@
 - pkg:maven/com.futunn.openapi/futu-api@9.2.5208?classifier=sources
 - pkg:maven/com.futunn.openapi/futu-api@9.3.5308
 - pkg:maven/com.futunn.openapi/futu-api@9.3.5308?classifier=sources
+- pkg:maven/com.futunn.openapi/futu-api@9.4.5408
+- pkg:maven/com.futunn.openapi/futu-api@9.4.5408?classifier=sources

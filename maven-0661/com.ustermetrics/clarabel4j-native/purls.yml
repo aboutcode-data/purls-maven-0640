@@ -8,3 +8,4 @@
 - pkg:maven/com.ustermetrics/clarabel4j-native@1.1.0-0.9.0?classifier=sources
 - pkg:maven/com.ustermetrics/clarabel4j-native@2.0.0-0.10.0?classifier=sources
 - pkg:maven/com.ustermetrics/clarabel4j-native@2.0.1-0.10.0?classifier=sources
+- pkg:maven/com.ustermetrics/clarabel4j-native@3.0.0-0.11.1?classifier=sources

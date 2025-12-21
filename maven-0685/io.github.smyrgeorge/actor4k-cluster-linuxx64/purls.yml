@@ -17,3 +17,6 @@
 - pkg:maven/io.github.smyrgeorge/actor4k-cluster-linuxx64@0.73.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k-cluster-linuxx64@0.75.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k-cluster-linuxx64@0.76.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-cluster-linuxx64@0.80.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-cluster-linuxx64@1.0.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k-cluster-linuxx64@1.1.0?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/me.hsgamer/topper-query-snapshot@3.9.1?classifier=sources
 - pkg:maven/me.hsgamer/topper-query-snapshot@4.0.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-query-snapshot@4.1.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-query-snapshot@4.1.1?classifier=sources

@@ -1,6 +1,7 @@
 - pkg:maven/com.hncfx/web3j@1.0.10
 - pkg:maven/com.hncfx/web3j@1.0.12
 - pkg:maven/com.hncfx/web3j@1.0.13
+- pkg:maven/com.hncfx/web3j@1.0.14?classifier=sources
 - pkg:maven/com.hncfx/web3j@1.0.6
 - pkg:maven/com.hncfx/web3j@1.0.7
 - pkg:maven/com.hncfx/web3j@1.0.8

@@ -40,3 +40,7 @@
 - pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.31?classifier=sources
 - pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.32
 - pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.32?classifier=sources
+- pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.33
+- pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.33?classifier=sources
+- pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.34
+- pkg:maven/dev.zio/zio-sbt-ecosystem_2.12_1.0@0.4.0-alpha.34?classifier=sources

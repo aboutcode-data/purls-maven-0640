@@ -22,5 +22,6 @@
 - pkg:maven/com.alibaba.csp/sentinel-datasource-spring-cloud-config@1.8.7?classifier=sources
 - pkg:maven/com.alibaba.csp/sentinel-datasource-spring-cloud-config@1.8.8
 - pkg:maven/com.alibaba.csp/sentinel-datasource-spring-cloud-config@1.8.8?classifier=sources
+- pkg:maven/com.alibaba.csp/sentinel-datasource-spring-cloud-config@1.8.9-preview?classifier=sources
 - pkg:maven/com.alibaba.csp/sentinel-datasource-spring-cloud-config@2.0.0-alpha
 - pkg:maven/com.alibaba.csp/sentinel-datasource-spring-cloud-config@2.0.0-alpha?classifier=sources

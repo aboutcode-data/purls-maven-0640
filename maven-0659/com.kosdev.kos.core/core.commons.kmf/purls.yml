@@ -30,3 +30,5 @@
 - pkg:maven/com.kosdev.kos.core/core.commons.kmf@1.6.3?classifier=sources
 - pkg:maven/com.kosdev.kos.core/core.commons.kmf@1.7.0
 - pkg:maven/com.kosdev.kos.core/core.commons.kmf@1.7.0?classifier=sources
+- pkg:maven/com.kosdev.kos.core/core.commons.kmf@1.8.0
+- pkg:maven/com.kosdev.kos.core/core.commons.kmf@1.8.0?classifier=sources

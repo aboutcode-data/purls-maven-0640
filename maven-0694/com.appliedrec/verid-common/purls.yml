@@ -1,0 +1,2 @@
+- pkg:maven/com.appliedrec/verid-common@3.0.0?classifier=sources
+- pkg:maven/com.appliedrec/verid-common@4.0.0?classifier=sources

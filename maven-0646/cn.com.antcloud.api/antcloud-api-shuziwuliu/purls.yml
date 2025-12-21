@@ -227,4 +227,6 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-shuziwuliu@1.7.14
 - pkg:maven/cn.com.antcloud.api/antcloud-api-shuziwuliu@1.7.14?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-shuziwuliu@1.7.2
+- pkg:maven/cn.com.antcloud.api/antcloud-api-shuziwuliu@1.7.21?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-shuziwuliu@1.7.22?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-shuziwuliu@1.7.2?classifier=sources

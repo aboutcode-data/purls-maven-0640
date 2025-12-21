@@ -12,3 +12,4 @@
 - pkg:maven/de.stuebingerb/kgraphql@0.31.0?classifier=sources
 - pkg:maven/de.stuebingerb/kgraphql@0.32.0?classifier=sources
 - pkg:maven/de.stuebingerb/kgraphql@0.33.0?classifier=sources
+- pkg:maven/de.stuebingerb/kgraphql@0.34.0?classifier=sources

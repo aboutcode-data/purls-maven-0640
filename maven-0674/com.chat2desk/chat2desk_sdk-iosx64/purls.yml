@@ -16,3 +16,4 @@
 - pkg:maven/com.chat2desk/chat2desk_sdk-iosx64@1.5.3?classifier=sources
 - pkg:maven/com.chat2desk/chat2desk_sdk-iosx64@1.5.4?classifier=sources
 - pkg:maven/com.chat2desk/chat2desk_sdk-iosx64@1.5.7?classifier=sources
+- pkg:maven/com.chat2desk/chat2desk_sdk-iosx64@1.5.8?classifier=sources

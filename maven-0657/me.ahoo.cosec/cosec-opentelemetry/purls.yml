@@ -166,3 +166,4 @@
 - pkg:maven/me.ahoo.cosec/cosec-opentelemetry@2.9.9?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-opentelemetry@3.0.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-opentelemetry@3.0.2?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-opentelemetry@3.1.0?classifier=sources

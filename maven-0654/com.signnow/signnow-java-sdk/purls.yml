@@ -8,3 +8,7 @@
 - pkg:maven/com.signnow/signnow-java-sdk@3.2.0?classifier=sources
 - pkg:maven/com.signnow/signnow-java-sdk@3.2.1
 - pkg:maven/com.signnow/signnow-java-sdk@3.2.1?classifier=sources
+- pkg:maven/com.signnow/signnow-java-sdk@3.3.0?classifier=sources
+- pkg:maven/com.signnow/signnow-java-sdk@3.4.0?classifier=sources
+- pkg:maven/com.signnow/signnow-java-sdk@3.4.1?classifier=sources
+- pkg:maven/com.signnow/signnow-java-sdk@3.5.0?classifier=sources

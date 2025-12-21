@@ -408,8 +408,14 @@
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.65.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.67.0
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.67.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc@4.68.0
+- pkg:maven/com.google.cloud/google-cloud-dataproc@4.68.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc@4.69.0
+- pkg:maven/com.google.cloud/google-cloud-dataproc@4.69.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.7.0
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.7.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-dataproc@4.70.0
+- pkg:maven/com.google.cloud/google-cloud-dataproc@4.70.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.8.0
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-dataproc@4.9.0

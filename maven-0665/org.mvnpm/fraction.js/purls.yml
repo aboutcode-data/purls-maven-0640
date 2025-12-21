@@ -1,3 +1,9 @@
 - pkg:maven/org.mvnpm/fraction.js@4.3.7?classifier=sources
 - pkg:maven/org.mvnpm/fraction.js@5.2.1?classifier=sources
 - pkg:maven/org.mvnpm/fraction.js@5.2.2?classifier=sources
+- pkg:maven/org.mvnpm/fraction.js@5.3.0
+- pkg:maven/org.mvnpm/fraction.js@5.3.0?classifier=sources
+- pkg:maven/org.mvnpm/fraction.js@5.3.1
+- pkg:maven/org.mvnpm/fraction.js@5.3.1?classifier=sources
+- pkg:maven/org.mvnpm/fraction.js@5.3.4
+- pkg:maven/org.mvnpm/fraction.js@5.3.4?classifier=sources

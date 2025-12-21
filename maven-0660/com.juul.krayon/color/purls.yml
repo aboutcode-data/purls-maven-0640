@@ -23,6 +23,7 @@
 - pkg:maven/com.juul.krayon/color@0.20.0?classifier=sources
 - pkg:maven/com.juul.krayon/color@0.20.1?classifier=sources
 - pkg:maven/com.juul.krayon/color@0.20.2?classifier=sources
+- pkg:maven/com.juul.krayon/color@0.21.0?classifier=sources
 - pkg:maven/com.juul.krayon/color@0.3.0?classifier=sources
 - pkg:maven/com.juul.krayon/color@0.4.0?classifier=sources
 - pkg:maven/com.juul.krayon/color@0.5.0?classifier=sources

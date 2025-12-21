@@ -1,3 +1,4 @@
 - pkg:maven/com.eygraber/vice-nav3@0.9.12?classifier=sources
 - pkg:maven/com.eygraber/vice-nav3@0.9.13?classifier=sources
 - pkg:maven/com.eygraber/vice-nav3@0.9.14?classifier=sources
+- pkg:maven/com.eygraber/vice-nav3@1.0.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.qubership.atp.mia/atp-mia-rest-openapi-specifications@2.0.62?classifier=sources
+- pkg:maven/org.qubership.atp.mia/atp-mia-rest-openapi-specifications@2.0.63?classifier=sources
+- pkg:maven/org.qubership.atp.mia/atp-mia-rest-openapi-specifications@2.0.64?classifier=sources

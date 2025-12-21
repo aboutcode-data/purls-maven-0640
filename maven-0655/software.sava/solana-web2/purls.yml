@@ -1,3 +1,4 @@
 - pkg:maven/software.sava/solana-web2@24.0.0?classifier=sources
 - pkg:maven/software.sava/solana-web2@24.0.1?classifier=sources
 - pkg:maven/software.sava/solana-web2@24.0.3?classifier=sources
+- pkg:maven/software.sava/solana-web2@24.1.0?classifier=sources

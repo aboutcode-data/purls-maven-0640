@@ -11,3 +11,4 @@
 - pkg:maven/com.cloudflare.realtimekit/callstats-android@1.7.22?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/callstats-android@1.7.23?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/callstats-android@1.7.24?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/callstats-android@1.7.25?classifier=sources

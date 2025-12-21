@@ -169,3 +169,4 @@
 - pkg:maven/com.netflix.photon/Photon@4.9.7?classifier=sources
 - pkg:maven/com.netflix.photon/Photon@4.9.8?classifier=sources
 - pkg:maven/com.netflix.photon/Photon@4.9.9?classifier=sources
+- pkg:maven/com.netflix.photon/Photon@5.0.1?classifier=sources

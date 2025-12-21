@@ -1,0 +1,9 @@
+- pkg:maven/com.kingsrook.qqq/qqq-backend-module-sqlite@0.24.1?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-backend-module-sqlite@0.25.1?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-backend-module-sqlite@0.26.0-RC.1?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-backend-module-sqlite@0.26.0-RC.2?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-backend-module-sqlite@0.26.0-RC.3?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-backend-module-sqlite@0.26.0-RC.4?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-backend-module-sqlite@0.26.0-RC.5?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-backend-module-sqlite@0.26.0-rc.0?classifier=sources
+- pkg:maven/com.kingsrook.qqq/qqq-backend-module-sqlite@0.26.1-integration-20250820-223533?classifier=sources

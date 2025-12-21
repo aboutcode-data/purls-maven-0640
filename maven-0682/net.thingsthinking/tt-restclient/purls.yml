@@ -1,0 +1,6 @@
+- pkg:maven/net.thingsthinking/tt-restclient@9.6.1?classifier=sources
+- pkg:maven/net.thingsthinking/tt-restclient@9.6.2?classifier=sources
+- pkg:maven/net.thingsthinking/tt-restclient@9.7.1?classifier=sources
+- pkg:maven/net.thingsthinking/tt-restclient@9.7.2?classifier=sources
+- pkg:maven/net.thingsthinking/tt-restclient@9.7.3?classifier=sources
+- pkg:maven/net.thingsthinking/tt-restclient@9.8.0?classifier=sources

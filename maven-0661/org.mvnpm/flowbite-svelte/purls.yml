@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/flowbite-svelte@1.11.3
+- pkg:maven/org.mvnpm/flowbite-svelte@1.11.3?classifier=sources

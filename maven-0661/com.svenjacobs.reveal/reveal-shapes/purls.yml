@@ -35,3 +35,4 @@
 - pkg:maven/com.svenjacobs.reveal/reveal-shapes@3.2.2?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-shapes@3.2.3?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-shapes@3.3.0?classifier=sources
+- pkg:maven/com.svenjacobs.reveal/reveal-shapes@4.0.0?classifier=sources

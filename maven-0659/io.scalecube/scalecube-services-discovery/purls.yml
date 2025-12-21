@@ -184,6 +184,9 @@
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.13.1?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.13.2.allowed-roles.rc2?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.13.2?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.13.3?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.13.4?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-discovery@2.13.5.file-upload.rc1?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.2.0
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.2.0?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-discovery@2.2.1

@@ -4,6 +4,7 @@
 - pkg:maven/org.clojure/tools.deps.cli@0.10.61?classifier=sources
 - pkg:maven/org.clojure/tools.deps.cli@0.10.66
 - pkg:maven/org.clojure/tools.deps.cli@0.10.66?classifier=sources
+- pkg:maven/org.clojure/tools.deps.cli@0.11.100?classifier=sources
 - pkg:maven/org.clojure/tools.deps.cli@0.11.72
 - pkg:maven/org.clojure/tools.deps.cli@0.11.72?classifier=sources
 - pkg:maven/org.clojure/tools.deps.cli@0.11.78
@@ -11,6 +12,7 @@
 - pkg:maven/org.clojure/tools.deps.cli@0.11.86
 - pkg:maven/org.clojure/tools.deps.cli@0.11.86?classifier=sources
 - pkg:maven/org.clojure/tools.deps.cli@0.11.93?classifier=sources
+- pkg:maven/org.clojure/tools.deps.cli@0.12.105?classifier=sources
 - pkg:maven/org.clojure/tools.deps.cli@0.9.10
 - pkg:maven/org.clojure/tools.deps.cli@0.9.10?classifier=sources
 - pkg:maven/org.clojure/tools.deps.cli@0.9.17

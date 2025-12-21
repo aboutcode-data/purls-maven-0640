@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/tokenizr@1.7.0
 - pkg:maven/org.mvnpm/tokenizr@1.7.0?classifier=sources
+- pkg:maven/org.mvnpm/tokenizr@2.0.1
+- pkg:maven/org.mvnpm/tokenizr@2.0.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.github.liyuhaolol/PictureSelector@v3.11.6?type=aar
 - pkg:maven/io.github.liyuhaolol/PictureSelector@v3.11.7?classifier=sources
 - pkg:maven/io.github.liyuhaolol/PictureSelector@v3.11.7?type=aar
+- pkg:maven/io.github.liyuhaolol/PictureSelector@v3.11.8?classifier=sources
+- pkg:maven/io.github.liyuhaolol/PictureSelector@v3.11.8?type=aar

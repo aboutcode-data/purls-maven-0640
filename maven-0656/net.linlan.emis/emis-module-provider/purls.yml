@@ -1,0 +1,2 @@
+- pkg:maven/net.linlan.emis/emis-module-provider@1.1.0?classifier=sources
+- pkg:maven/net.linlan.emis/emis-module-provider@1.2.0?classifier=sources

@@ -14,5 +14,9 @@
 - pkg:maven/int.esa.ccsds.mo/transport-spp@12.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/transport-spp@12.1
 - pkg:maven/int.esa.ccsds.mo/transport-spp@12.1?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/transport-spp@12.2
+- pkg:maven/int.esa.ccsds.mo/transport-spp@12.2?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/transport-spp@12.3
+- pkg:maven/int.esa.ccsds.mo/transport-spp@12.3?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/transport-spp@9.0
 - pkg:maven/int.esa.ccsds.mo/transport-spp@9.0?classifier=sources

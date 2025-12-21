@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.gds/algorithms-compute-facade@2.21.0
+- pkg:maven/org.neo4j.gds/algorithms-compute-facade@2.21.0?classifier=sources

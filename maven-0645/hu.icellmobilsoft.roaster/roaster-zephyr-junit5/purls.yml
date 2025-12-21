@@ -16,3 +16,4 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-zephyr-junit5@2.4.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-zephyr-junit5@2.5.0
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-zephyr-junit5@2.5.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-zephyr-junit5@2.6.0?classifier=sources

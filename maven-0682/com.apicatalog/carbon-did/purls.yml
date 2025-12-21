@@ -18,3 +18,5 @@
 - pkg:maven/com.apicatalog/carbon-did@0.5.0?classifier=sources
 - pkg:maven/com.apicatalog/carbon-did@0.6.0
 - pkg:maven/com.apicatalog/carbon-did@0.6.0?classifier=sources
+- pkg:maven/com.apicatalog/carbon-did@0.9.1?classifier=sources
+- pkg:maven/com.apicatalog/carbon-did@0.9.2?classifier=sources

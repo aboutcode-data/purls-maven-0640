@@ -134,6 +134,8 @@
 - pkg:maven/org.apache.camel/camel-test-infra-solr@4.12.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-solr@4.13.0
 - pkg:maven/org.apache.camel/camel-test-infra-solr@4.13.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-solr@4.14.0
+- pkg:maven/org.apache.camel/camel-test-infra-solr@4.14.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-solr@4.8.0
 - pkg:maven/org.apache.camel/camel-test-infra-solr@4.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-test-infra-solr@4.8.1

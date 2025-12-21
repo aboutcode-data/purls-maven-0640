@@ -1,3 +1,4 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-wsa@3.1.1309?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-wsa@3.1.1312?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-wsa@3.1.1316?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-wsa@3.1.1321?classifier=sources

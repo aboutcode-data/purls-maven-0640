@@ -1,3 +1,4 @@
+- pkg:maven/com.ritense.valtimo/flowmailer@0.1.0-RC-2?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@10.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@10.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@10.2.0.RELEASE?classifier=sources
@@ -46,6 +47,8 @@
 - pkg:maven/com.ritense.valtimo/flowmailer@12.14.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@12.14.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@12.15.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/flowmailer@12.16.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/flowmailer@12.16.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@12.3.0.RELEASE?classifier=sources
@@ -66,6 +69,9 @@
 - pkg:maven/com.ritense.valtimo/flowmailer@13.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@13.0.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@13.0.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/flowmailer@13.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/flowmailer@13.1.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/flowmailer@13.1.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@9.10.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@9.11.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/flowmailer@9.12.0.RELEASE?classifier=sources

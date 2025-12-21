@@ -13,3 +13,4 @@
 - pkg:maven/com.contentsquare.android.internal/core@4.39.3?classifier=sources
 - pkg:maven/com.contentsquare.android.internal/core@4.39.4?classifier=sources
 - pkg:maven/com.contentsquare.android.internal/core@4.40.0?classifier=sources
+- pkg:maven/com.contentsquare.android.internal/core@4.40.1?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/pro.chenggang/rsocket-micro-connect-spring@0.2.4.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/rsocket-micro-connect-spring@0.2.5.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/rsocket-micro-connect-spring@0.2.6.RELEASE?classifier=sources
+- pkg:maven/pro.chenggang/rsocket-micro-connect-spring@0.2.7.RELEASE?classifier=sources

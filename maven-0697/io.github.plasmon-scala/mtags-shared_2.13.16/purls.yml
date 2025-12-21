@@ -1,0 +1,2 @@
+- pkg:maven/io.github.plasmon-scala/mtags-shared_2.13.16@1.6.1
+- pkg:maven/io.github.plasmon-scala/mtags-shared_2.13.16@1.6.1?classifier=sources

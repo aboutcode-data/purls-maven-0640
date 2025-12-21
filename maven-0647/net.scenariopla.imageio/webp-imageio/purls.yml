@@ -1,0 +1,2 @@
+- pkg:maven/net.scenariopla.imageio/webp-imageio@0.1.8
+- pkg:maven/net.scenariopla.imageio/webp-imageio@0.1.8?classifier=sources

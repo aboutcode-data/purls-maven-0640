@@ -1,0 +1,2 @@
+- pkg:maven/org.soliscode/soliscode-test@1.0.0?classifier=sources
+- pkg:maven/org.soliscode/soliscode-test@1.0.14?classifier=sources

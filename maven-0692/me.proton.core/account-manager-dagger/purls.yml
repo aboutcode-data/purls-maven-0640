@@ -143,6 +143,10 @@
 - pkg:maven/me.proton.core/account-manager-dagger@33.0.2?classifier=sources
 - pkg:maven/me.proton.core/account-manager-dagger@34.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-dagger@34.0.1?classifier=sources
+- pkg:maven/me.proton.core/account-manager-dagger@34.1.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-dagger@34.2.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-dagger@34.2.1?classifier=sources
+- pkg:maven/me.proton.core/account-manager-dagger@34.3.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-dagger@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-dagger@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-dagger@5.0.0?classifier=sources

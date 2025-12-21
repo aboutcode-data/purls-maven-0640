@@ -42,3 +42,4 @@
 - pkg:maven/com.aliyun/cr20181201@2.0.2?classifier=sources
 - pkg:maven/com.aliyun/cr20181201@2.0.3
 - pkg:maven/com.aliyun/cr20181201@2.0.3?classifier=sources
+- pkg:maven/com.aliyun/cr20181201@2.0.4?classifier=sources

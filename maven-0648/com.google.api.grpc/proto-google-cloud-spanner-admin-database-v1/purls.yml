@@ -655,3 +655,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-admin-database-v1@6.97.1?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-admin-database-v1@6.98.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-admin-database-v1@6.98.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-admin-database-v1@6.98.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-admin-database-v1@6.98.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-admin-database-v1@6.99.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-spanner-admin-database-v1@6.99.0?classifier=sources

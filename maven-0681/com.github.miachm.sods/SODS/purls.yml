@@ -44,3 +44,4 @@
 - pkg:maven/com.github.miachm.sods/SODS@1.6.7?classifier=sources
 - pkg:maven/com.github.miachm.sods/SODS@1.6.8
 - pkg:maven/com.github.miachm.sods/SODS@1.6.8?classifier=sources
+- pkg:maven/com.github.miachm.sods/SODS@1.7.0?classifier=sources

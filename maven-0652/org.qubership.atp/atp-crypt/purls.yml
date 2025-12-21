@@ -1,2 +1,4 @@
 - pkg:maven/org.qubership.atp/atp-crypt@0.0.20?classifier=sources
 - pkg:maven/org.qubership.atp/atp-crypt@0.0.21?classifier=sources
+- pkg:maven/org.qubership.atp/atp-crypt@0.0.22?classifier=sources
+- pkg:maven/org.qubership.atp/atp-crypt@0.0.23?classifier=sources

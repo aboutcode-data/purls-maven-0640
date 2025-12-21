@@ -1,0 +1,2 @@
+- pkg:maven/org.hiedacamellia/hanekage@1.0.15?classifier=sources
+- pkg:maven/org.hiedacamellia/hanekage@1.0.16?classifier=sources
