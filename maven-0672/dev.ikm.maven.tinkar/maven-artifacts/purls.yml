@@ -8,3 +8,7 @@
 - pkg:maven/dev.ikm.maven.tinkar/maven-artifacts@1.21.0?classifier=sources
 - pkg:maven/dev.ikm.maven.tinkar/maven-artifacts@1.22.0?classifier=sources
 - pkg:maven/dev.ikm.maven.tinkar/maven-artifacts@1.23.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/maven-artifacts@1.24.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/maven-artifacts@1.25.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/maven-artifacts@1.27.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/maven-artifacts@1.28.0?classifier=sources

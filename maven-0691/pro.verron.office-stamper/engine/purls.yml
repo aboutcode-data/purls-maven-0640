@@ -14,3 +14,4 @@
 - pkg:maven/pro.verron.office-stamper/engine@2.6.0?classifier=sources
 - pkg:maven/pro.verron.office-stamper/engine@2.7.0
 - pkg:maven/pro.verron.office-stamper/engine@2.7.0?classifier=sources
+- pkg:maven/pro.verron.office-stamper/engine@2.8.0?classifier=sources

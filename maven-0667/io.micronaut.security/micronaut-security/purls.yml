@@ -102,6 +102,7 @@
 - pkg:maven/io.micronaut.security/micronaut-security@4.12.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security@4.12.1?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security@4.12.2?classifier=sources
+- pkg:maven/io.micronaut.security/micronaut-security@4.13.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security@4.2.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security@4.3.0?classifier=sources
 - pkg:maven/io.micronaut.security/micronaut-security@4.4.0?classifier=sources

@@ -15,3 +15,4 @@
 - pkg:maven/com.avioconsulting.mule/mule-opentelemetry-module@2.9.2?classifier=sources
 - pkg:maven/com.avioconsulting.mule/mule-opentelemetry-module@2.9.3?classifier=sources
 - pkg:maven/com.avioconsulting.mule/mule-opentelemetry-module@2.9.4?classifier=sources
+- pkg:maven/com.avioconsulting.mule/mule-opentelemetry-module@2.9.5?classifier=sources

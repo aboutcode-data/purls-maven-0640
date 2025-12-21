@@ -15,3 +15,4 @@
 - pkg:maven/com.powsybl/powsybl-dynawo-integration-tests@2.7.1
 - pkg:maven/com.powsybl/powsybl-dynawo-integration-tests@2.8.0
 - pkg:maven/com.powsybl/powsybl-dynawo-integration-tests@2.8.1
+- pkg:maven/com.powsybl/powsybl-dynawo-integration-tests@2.8.2

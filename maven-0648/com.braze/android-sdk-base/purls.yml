@@ -27,3 +27,4 @@
 - pkg:maven/com.braze/android-sdk-base@34.0.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-base@35.0.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-base@36.0.0?classifier=sources
+- pkg:maven/com.braze/android-sdk-base@37.0.0?classifier=sources

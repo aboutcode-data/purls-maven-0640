@@ -1,3 +1,4 @@
 - pkg:maven/run.halo.app/api@2.20.11?classifier=sources
 - pkg:maven/run.halo.app/api@2.20.20?classifier=sources
 - pkg:maven/run.halo.app/api@2.21.0-alpha.1?classifier=sources
+- pkg:maven/run.halo.app/api@2.21.0?classifier=sources

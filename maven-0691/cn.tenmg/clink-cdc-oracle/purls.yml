@@ -2,3 +2,5 @@
 - pkg:maven/cn.tenmg/clink-cdc-oracle@1.6.1?classifier=sources
 - pkg:maven/cn.tenmg/clink-cdc-oracle@1.7.0
 - pkg:maven/cn.tenmg/clink-cdc-oracle@1.7.0?classifier=sources
+- pkg:maven/cn.tenmg/clink-cdc-oracle@1.7.1
+- pkg:maven/cn.tenmg/clink-cdc-oracle@1.7.1?classifier=sources

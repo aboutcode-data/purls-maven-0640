@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm.at.sentry/react@6.19.7
+- pkg:maven/org.mvnpm.at.sentry/react@6.19.7?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/react@9.27.0
 - pkg:maven/org.mvnpm.at.sentry/react@9.27.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/react@9.28.0
@@ -6,3 +8,19 @@
 - pkg:maven/org.mvnpm.at.sentry/react@9.28.1?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/react@9.29.0
 - pkg:maven/org.mvnpm.at.sentry/react@9.29.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.30.0
+- pkg:maven/org.mvnpm.at.sentry/react@9.30.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.31.0
+- pkg:maven/org.mvnpm.at.sentry/react@9.31.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.32.0
+- pkg:maven/org.mvnpm.at.sentry/react@9.32.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.33.0
+- pkg:maven/org.mvnpm.at.sentry/react@9.33.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.34.0
+- pkg:maven/org.mvnpm.at.sentry/react@9.34.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.35.0
+- pkg:maven/org.mvnpm.at.sentry/react@9.35.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.36.0
+- pkg:maven/org.mvnpm.at.sentry/react@9.36.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.37.0
+- pkg:maven/org.mvnpm.at.sentry/react@9.37.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.sentry/hub@6.19.7
+- pkg:maven/org.mvnpm.at.sentry/hub@6.19.7?classifier=sources

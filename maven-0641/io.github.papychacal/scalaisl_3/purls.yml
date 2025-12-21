@@ -2,11 +2,17 @@
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-1a1db0?classifier=sources
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-3558bc
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-3558bc?classifier=sources
+- pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-586ae4
+- pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-586ae4?classifier=sources
+- pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-765a99
+- pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-765a99?classifier=sources
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-7dc1e1
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-7dc1e1?classifier=sources
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-9fd019
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-9fd019?classifier=sources
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-e45059
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-e45059?classifier=sources
+- pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-ee768a
+- pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-ee768a?classifier=sources
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-f85f3d
 - pkg:maven/io.github.papychacal/scalaisl_3@0.0.0-1-f85f3d?classifier=sources

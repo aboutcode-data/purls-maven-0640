@@ -4,3 +4,8 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-domain@2.2.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-domain@2.3.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-domain@2.4.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-domain@2.5.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-domain@2.6.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-domain@2.7.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-domain@2.8.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-domain@2.9.0?classifier=sources

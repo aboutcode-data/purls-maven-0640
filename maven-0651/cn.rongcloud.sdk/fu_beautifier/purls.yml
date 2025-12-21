@@ -12,6 +12,7 @@
 - pkg:maven/cn.rongcloud.sdk/fu_beautifier@5.16.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/fu_beautifier@5.18.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/fu_beautifier@5.20.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/fu_beautifier@5.22.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/fu_beautifier@5.3.4.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/fu_beautifier@5.3.4?type=aar
 - pkg:maven/cn.rongcloud.sdk/fu_beautifier@5.3.5.1?type=aar

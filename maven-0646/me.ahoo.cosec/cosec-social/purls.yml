@@ -26,6 +26,15 @@
 - pkg:maven/me.ahoo.cosec/cosec-social@2.16.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-social@2.16.1?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-social@2.16.2?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@2.18.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@2.18.1?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@2.18.2?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@2.18.3?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@2.18.5?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@2.18.6?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@2.18.8?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@2.18.9?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@2.19.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-social@2.6.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-social@2.6.10?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-social@2.6.2?classifier=sources
@@ -51,3 +60,5 @@
 - pkg:maven/me.ahoo.cosec/cosec-social@2.9.6?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-social@2.9.8?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-social@2.9.9?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@3.0.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-social@3.0.2?classifier=sources

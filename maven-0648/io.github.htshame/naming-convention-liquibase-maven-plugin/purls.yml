@@ -2,3 +2,13 @@
 - pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@1.0.1?classifier=sources
 - pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@1.0.2?classifier=sources
 - pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@1.0.3?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@1.0.4?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@1.0.5?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@2.0?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@2.1?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@2.2?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@2.3?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@2.4?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@2.5?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@2.6?classifier=sources
+- pkg:maven/io.github.htshame/naming-convention-liquibase-maven-plugin@2.7?classifier=sources

@@ -28,3 +28,4 @@
 - pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@5.0.0?type=war
 - pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@5.1.0?classifier=sources
 - pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@5.1.0?type=war
+- pkg:maven/net.bis5.excella/primefaces-excella-exporter-test@6.0.0?classifier=sources

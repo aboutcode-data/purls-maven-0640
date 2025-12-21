@@ -30,6 +30,7 @@
 - pkg:maven/com.aliyun/oceanbasepro20190901@1.3.0?classifier=sources
 - pkg:maven/com.aliyun/oceanbasepro20190901@1.4.0
 - pkg:maven/com.aliyun/oceanbasepro20190901@1.4.0?classifier=sources
+- pkg:maven/com.aliyun/oceanbasepro20190901@10.0.0?classifier=sources
 - pkg:maven/com.aliyun/oceanbasepro20190901@2.0.0
 - pkg:maven/com.aliyun/oceanbasepro20190901@2.0.0?classifier=sources
 - pkg:maven/com.aliyun/oceanbasepro20190901@2.0.1
@@ -82,3 +83,4 @@
 - pkg:maven/com.aliyun/oceanbasepro20190901@8.1.0?classifier=sources
 - pkg:maven/com.aliyun/oceanbasepro20190901@9.0.0
 - pkg:maven/com.aliyun/oceanbasepro20190901@9.0.0?classifier=sources
+- pkg:maven/com.aliyun/oceanbasepro20190901@9.0.1?classifier=sources

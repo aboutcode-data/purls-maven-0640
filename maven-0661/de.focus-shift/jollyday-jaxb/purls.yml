@@ -85,3 +85,4 @@
 - pkg:maven/de.focus-shift/jollyday-jaxb@1.5.2
 - pkg:maven/de.focus-shift/jollyday-jaxb@1.5.2?classifier=sources
 - pkg:maven/de.focus-shift/jollyday-jaxb@1.5.4?classifier=sources
+- pkg:maven/de.focus-shift/jollyday-jaxb@1.5.5?classifier=sources

@@ -5,6 +5,9 @@
 - pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0-alpha.14?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0-alpha.15?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0-alpha.16?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0-alpha.17?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0-alpha.7?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0-alpha.8?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0-alpha.9?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-android@5.0.0?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-android@5.1.0?classifier=sources

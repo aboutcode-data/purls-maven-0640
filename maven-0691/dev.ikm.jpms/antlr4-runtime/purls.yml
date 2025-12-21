@@ -4,3 +4,4 @@
 - pkg:maven/dev.ikm.jpms/antlr4-runtime@4.13.2-r2?classifier=sources
 - pkg:maven/dev.ikm.jpms/antlr4-runtime@4.13.2-r3
 - pkg:maven/dev.ikm.jpms/antlr4-runtime@4.13.2-r3?classifier=sources
+- pkg:maven/dev.ikm.jpms/antlr4-runtime@4.13.2-r5?classifier=sources

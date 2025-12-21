@@ -196,3 +196,12 @@
 - pkg:maven/org.protelis/protelis-test@18.0.8?classifier=sources
 - pkg:maven/org.protelis/protelis-test@18.0.9?classifier=sources
 - pkg:maven/org.protelis/protelis-test@18.1.0?classifier=sources
+- pkg:maven/org.protelis/protelis-test@18.1.1?classifier=sources
+- pkg:maven/org.protelis/protelis-test@18.1.2-dev0e%2B0474aadf?classifier=sources
+- pkg:maven/org.protelis/protelis-test@18.1.2-dev0f%2B440ce3e0?classifier=sources
+- pkg:maven/org.protelis/protelis-test@18.1.2-dev0f%2B4d040c1b?classifier=sources
+- pkg:maven/org.protelis/protelis-test@18.1.2-dev0f%2B86f27fc0?classifier=sources
+- pkg:maven/org.protelis/protelis-test@18.1.2-dev0f%2Be378c8eb?classifier=sources
+- pkg:maven/org.protelis/protelis-test@18.1.2-dev0f%2Be69976d7?classifier=sources
+- pkg:maven/org.protelis/protelis-test@18.1.2-dev0f%2Bec8819fc?classifier=sources
+- pkg:maven/org.protelis/protelis-test@18.1.2?classifier=sources

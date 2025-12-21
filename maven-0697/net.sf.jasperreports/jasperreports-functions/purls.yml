@@ -48,6 +48,8 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.21.3?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.21.4
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.21.4?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.21.5
+- pkg:maven/net.sf.jasperreports/jasperreports-functions@6.21.5?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.8.0
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.8.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-functions@6.8.1

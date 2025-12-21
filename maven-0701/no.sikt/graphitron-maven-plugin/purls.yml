@@ -1,3 +1,4 @@
 - pkg:maven/no.sikt/graphitron-maven-plugin@5.0.1?classifier=sources
 - pkg:maven/no.sikt/graphitron-maven-plugin@5.1.0?classifier=sources
 - pkg:maven/no.sikt/graphitron-maven-plugin@5.1.1?classifier=sources
+- pkg:maven/no.sikt/graphitron-maven-plugin@5.1.2?classifier=sources

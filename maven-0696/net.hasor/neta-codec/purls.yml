@@ -8,3 +8,4 @@
 - pkg:maven/net.hasor/neta-codec@1.0.3?classifier=sources
 - pkg:maven/net.hasor/neta-codec@1.0.4
 - pkg:maven/net.hasor/neta-codec@1.0.4?classifier=sources
+- pkg:maven/net.hasor/neta-codec@1.0.5?classifier=sources

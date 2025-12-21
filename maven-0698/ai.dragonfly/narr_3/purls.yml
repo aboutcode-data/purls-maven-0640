@@ -9,4 +9,6 @@
 - pkg:maven/ai.dragonfly/narr_3@0.105
 - pkg:maven/ai.dragonfly/narr_3@0.105?classifier=sources
 - pkg:maven/ai.dragonfly/narr_3@1.0
+- pkg:maven/ai.dragonfly/narr_3@1.0.1
+- pkg:maven/ai.dragonfly/narr_3@1.0.1?classifier=sources
 - pkg:maven/ai.dragonfly/narr_3@1.0?classifier=sources

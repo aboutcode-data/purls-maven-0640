@@ -229,3 +229,4 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.api@8.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.api@8.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.api@9.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.api@9.1.0?classifier=sources

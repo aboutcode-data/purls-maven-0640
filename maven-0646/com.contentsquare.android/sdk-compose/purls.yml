@@ -1,0 +1,2 @@
+- pkg:maven/com.contentsquare.android/sdk-compose@1.0.0?classifier=sources
+- pkg:maven/com.contentsquare.android/sdk-compose@1.0.1?classifier=sources

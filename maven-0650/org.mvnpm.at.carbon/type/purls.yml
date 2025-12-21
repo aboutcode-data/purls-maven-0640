@@ -4,3 +4,5 @@
 - pkg:maven/org.mvnpm.at.carbon/type@11.38.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/type@11.40.0
 - pkg:maven/org.mvnpm.at.carbon/type@11.40.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/type@11.42.0
+- pkg:maven/org.mvnpm.at.carbon/type@11.42.0?classifier=sources

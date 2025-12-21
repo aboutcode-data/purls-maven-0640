@@ -164,6 +164,9 @@
 - pkg:maven/com.codenameone/codenameone-maven-plugin@7.0.18?classifier=sources
 - pkg:maven/com.codenameone/codenameone-maven-plugin@7.0.19
 - pkg:maven/com.codenameone/codenameone-maven-plugin@7.0.193?classifier=sources
+- pkg:maven/com.codenameone/codenameone-maven-plugin@7.0.195?classifier=sources
+- pkg:maven/com.codenameone/codenameone-maven-plugin@7.0.196?classifier=sources
+- pkg:maven/com.codenameone/codenameone-maven-plugin@7.0.197?classifier=sources
 - pkg:maven/com.codenameone/codenameone-maven-plugin@7.0.19?classifier=sources
 - pkg:maven/com.codenameone/codenameone-maven-plugin@7.0.20
 - pkg:maven/com.codenameone/codenameone-maven-plugin@7.0.20?classifier=sources

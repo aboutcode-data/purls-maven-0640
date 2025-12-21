@@ -3,6 +3,7 @@
 - pkg:maven/host.minestudio/frost-snapshots@811245f804?classifier=sources
 - pkg:maven/host.minestudio/frost-snapshots@ac5240c23f?classifier=sources
 - pkg:maven/host.minestudio/frost-snapshots@b96a3bb84e?classifier=sources
+- pkg:maven/host.minestudio/frost-snapshots@be29475a3e?classifier=sources
 - pkg:maven/host.minestudio/frost-snapshots@c55e8ba02d?classifier=sources
 - pkg:maven/host.minestudio/frost-snapshots@ce9eaafd40?classifier=sources
 - pkg:maven/host.minestudio/frost-snapshots@f6763b480f?classifier=sources

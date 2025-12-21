@@ -88,3 +88,4 @@
 - pkg:maven/io.joynr.android/joynr-android-binder-runtime@1.25.0?classifier=sources
 - pkg:maven/io.joynr.android/joynr-android-binder-runtime@1.25.2?classifier=sources
 - pkg:maven/io.joynr.android/joynr-android-binder-runtime@1.26.0?classifier=sources
+- pkg:maven/io.joynr.android/joynr-android-binder-runtime@1.26.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.mvnpm/file-type@20.5.0?classifier=sources
 - pkg:maven/org.mvnpm/file-type@21.0.0
 - pkg:maven/org.mvnpm/file-type@21.0.0?classifier=sources
+- pkg:maven/org.mvnpm/file-type@3.9.0
+- pkg:maven/org.mvnpm/file-type@3.9.0?classifier=sources

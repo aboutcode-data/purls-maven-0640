@@ -21,3 +21,7 @@
 - pkg:maven/org.silentsoft/simpleicons4j@14.15.0?classifier=sources
 - pkg:maven/org.silentsoft/simpleicons4j@15.0.0?classifier=sources
 - pkg:maven/org.silentsoft/simpleicons4j@15.1.0?classifier=sources
+- pkg:maven/org.silentsoft/simpleicons4j@15.2.0?classifier=sources
+- pkg:maven/org.silentsoft/simpleicons4j@15.3.0?classifier=sources
+- pkg:maven/org.silentsoft/simpleicons4j@15.4.0?classifier=sources
+- pkg:maven/org.silentsoft/simpleicons4j@15.5.0?classifier=sources

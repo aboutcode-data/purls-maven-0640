@@ -53,3 +53,5 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-sql@2.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-sql@2.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-sql@2.4.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-sql@2.4.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-sql@2.5.0?classifier=sources

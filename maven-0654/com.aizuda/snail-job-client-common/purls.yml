@@ -44,3 +44,7 @@
 - pkg:maven/com.aizuda/snail-job-client-common@1.5.0-beta1?classifier=sources
 - pkg:maven/com.aizuda/snail-job-client-common@1.5.0-jdk8?classifier=sources
 - pkg:maven/com.aizuda/snail-job-client-common@1.5.0?classifier=sources
+- pkg:maven/com.aizuda/snail-job-client-common@1.6.0-beta1-jdk8?classifier=sources
+- pkg:maven/com.aizuda/snail-job-client-common@1.6.0-beta1?classifier=sources
+- pkg:maven/com.aizuda/snail-job-client-common@1.6.0-jdk8?classifier=sources
+- pkg:maven/com.aizuda/snail-job-client-common@1.6.0?classifier=sources

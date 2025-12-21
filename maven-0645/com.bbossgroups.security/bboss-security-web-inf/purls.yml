@@ -148,3 +148,4 @@
 - pkg:maven/com.bbossgroups.security/bboss-security-web-inf@6.2.7?classifier=sources
 - pkg:maven/com.bbossgroups.security/bboss-security-web-inf@6.2.8?classifier=sources
 - pkg:maven/com.bbossgroups.security/bboss-security-web-inf@6.2.9?classifier=sources
+- pkg:maven/com.bbossgroups.security/bboss-security-web-inf@6.3.0?classifier=sources

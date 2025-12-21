@@ -10,3 +10,5 @@
 - pkg:maven/org.simple4j/WSClient@24.09.19.2?classifier=sources
 - pkg:maven/org.simple4j/WSClient@24.11.28.0
 - pkg:maven/org.simple4j/WSClient@24.11.28.0?classifier=sources
+- pkg:maven/org.simple4j/WSClient@25.06.30.0
+- pkg:maven/org.simple4j/WSClient@25.06.30.0?classifier=sources

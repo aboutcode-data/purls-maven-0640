@@ -52,3 +52,7 @@
 - pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@5.7.0?classifier=sources
 - pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@5.7.1
 - pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@5.7.1?classifier=sources
+- pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@6.0.0
+- pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@6.0.0?classifier=sources
+- pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@6.0.1
+- pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-spring-boot@6.0.1?classifier=sources

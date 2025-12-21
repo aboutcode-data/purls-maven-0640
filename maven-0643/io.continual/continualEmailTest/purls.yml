@@ -23,6 +23,8 @@
 - pkg:maven/io.continual/continualEmailTest@0.2.53
 - pkg:maven/io.continual/continualEmailTest@0.2.54
 - pkg:maven/io.continual/continualEmailTest@0.2.55
+- pkg:maven/io.continual/continualEmailTest@0.2.56
+- pkg:maven/io.continual/continualEmailTest@0.2.57
 - pkg:maven/io.continual/continualEmailTest@0.3.0
 - pkg:maven/io.continual/continualEmailTest@0.3.1
 - pkg:maven/io.continual/continualEmailTest@0.3.10

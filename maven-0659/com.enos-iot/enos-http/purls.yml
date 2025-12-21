@@ -1,0 +1,2 @@
+- pkg:maven/com.enos-iot/enos-http@2.5.2
+- pkg:maven/com.enos-iot/enos-http@2.5.2?classifier=sources

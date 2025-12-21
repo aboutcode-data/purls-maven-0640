@@ -1,1 +1,2 @@
 - pkg:maven/io.preboot/preboot-eventbus-tasks@1.0.0?classifier=sources
+- pkg:maven/io.preboot/preboot-eventbus-tasks@1.1.0?classifier=sources

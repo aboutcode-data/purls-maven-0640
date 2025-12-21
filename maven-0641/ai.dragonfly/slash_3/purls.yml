@@ -9,4 +9,6 @@
 - pkg:maven/ai.dragonfly/slash_3@0.3.21
 - pkg:maven/ai.dragonfly/slash_3@0.3.21?classifier=sources
 - pkg:maven/ai.dragonfly/slash_3@0.3.2?classifier=sources
+- pkg:maven/ai.dragonfly/slash_3@0.3.3
+- pkg:maven/ai.dragonfly/slash_3@0.3.3?classifier=sources
 - pkg:maven/ai.dragonfly/slash_3@0.3?classifier=sources

@@ -75,3 +75,4 @@
 - pkg:maven/com.softicar.platform/platform-common-web@49.2.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-web@50.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-web@52.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-web@53.0.0?classifier=sources

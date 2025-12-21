@@ -4,3 +4,4 @@
 - pkg:maven/io.github.ilankumarani/naming-strategy-resolver@0.1.2?classifier=sources
 - pkg:maven/io.github.ilankumarani/naming-strategy-resolver@1.0.0?classifier=sources
 - pkg:maven/io.github.ilankumarani/naming-strategy-resolver@2.0.0?classifier=sources
+- pkg:maven/io.github.ilankumarani/naming-strategy-resolver@3.0.0?classifier=sources

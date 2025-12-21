@@ -130,6 +130,8 @@
 - pkg:maven/net.optionfactory.spring/thymeleaf@21.8?classifier=sources
 - pkg:maven/net.optionfactory.spring/thymeleaf@21.9
 - pkg:maven/net.optionfactory.spring/thymeleaf@21.9?classifier=sources
+- pkg:maven/net.optionfactory.spring/thymeleaf@22.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/thymeleaf@22.1?classifier=sources
 - pkg:maven/net.optionfactory.spring/thymeleaf@7.10
 - pkg:maven/net.optionfactory.spring/thymeleaf@7.10?classifier=sources
 - pkg:maven/net.optionfactory.spring/thymeleaf@7.11

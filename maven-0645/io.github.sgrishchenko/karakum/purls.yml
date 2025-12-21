@@ -10,3 +10,5 @@
 - pkg:maven/io.github.sgrishchenko/karakum@1.0.0-alpha.69?classifier=sources
 - pkg:maven/io.github.sgrishchenko/karakum@1.0.0-alpha.70?classifier=sources
 - pkg:maven/io.github.sgrishchenko/karakum@1.0.0-alpha.71?classifier=sources
+- pkg:maven/io.github.sgrishchenko/karakum@1.0.0-alpha.72?classifier=sources
+- pkg:maven/io.github.sgrishchenko/karakum@1.0.0-alpha.73?classifier=sources

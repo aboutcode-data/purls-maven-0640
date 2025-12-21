@@ -18,3 +18,5 @@
 - pkg:maven/pl.netroute/hussar-spring-boot-application@2.5.0?classifier=sources
 - pkg:maven/pl.netroute/hussar-spring-boot-application@3.0.0?classifier=sources
 - pkg:maven/pl.netroute/hussar-spring-boot-application@3.1.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-spring-boot-application@3.2.0?classifier=sources
+- pkg:maven/pl.netroute/hussar-spring-boot-application@3.3.0?classifier=sources

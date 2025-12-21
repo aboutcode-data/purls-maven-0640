@@ -1,2 +1,4 @@
 - pkg:maven/com.ibm.db2/jcc@11.1.4.4
 - pkg:maven/com.ibm.db2/jcc@11.5.0.0
+- pkg:maven/com.ibm.db2/jcc@12.1.2.0
+- pkg:maven/com.ibm.db2/jcc@12.1.2.0?classifier=sources

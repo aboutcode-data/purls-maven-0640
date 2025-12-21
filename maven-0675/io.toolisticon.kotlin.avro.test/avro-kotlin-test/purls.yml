@@ -24,3 +24,5 @@
 - pkg:maven/io.toolisticon.kotlin.avro.test/avro-kotlin-test@1.12.4.2?classifier=sources
 - pkg:maven/io.toolisticon.kotlin.avro.test/avro-kotlin-test@1.12.4.3
 - pkg:maven/io.toolisticon.kotlin.avro.test/avro-kotlin-test@1.12.4.3?classifier=sources
+- pkg:maven/io.toolisticon.kotlin.avro.test/avro-kotlin-test@1.12.5.0?classifier=sources
+- pkg:maven/io.toolisticon.kotlin.avro.test/avro-kotlin-test@1.12.5.1?classifier=sources

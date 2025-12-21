@@ -65,8 +65,16 @@
 - pkg:maven/io.camunda/tasklist-importer-850@8.6.17?classifier=sources
 - pkg:maven/io.camunda/tasklist-importer-850@8.6.18
 - pkg:maven/io.camunda/tasklist-importer-850@8.6.18?classifier=sources
+- pkg:maven/io.camunda/tasklist-importer-850@8.6.19
+- pkg:maven/io.camunda/tasklist-importer-850@8.6.19-rc1
+- pkg:maven/io.camunda/tasklist-importer-850@8.6.19-rc1?classifier=sources
+- pkg:maven/io.camunda/tasklist-importer-850@8.6.19-rc2
+- pkg:maven/io.camunda/tasklist-importer-850@8.6.19-rc2?classifier=sources
+- pkg:maven/io.camunda/tasklist-importer-850@8.6.19?classifier=sources
 - pkg:maven/io.camunda/tasklist-importer-850@8.6.1?classifier=sources
 - pkg:maven/io.camunda/tasklist-importer-850@8.6.2
+- pkg:maven/io.camunda/tasklist-importer-850@8.6.20?classifier=sources
+- pkg:maven/io.camunda/tasklist-importer-850@8.6.21?classifier=sources
 - pkg:maven/io.camunda/tasklist-importer-850@8.6.2?classifier=sources
 - pkg:maven/io.camunda/tasklist-importer-850@8.6.3
 - pkg:maven/io.camunda/tasklist-importer-850@8.6.3?classifier=sources

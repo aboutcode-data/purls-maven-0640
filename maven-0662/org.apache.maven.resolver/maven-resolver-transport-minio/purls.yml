@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.maven.resolver/maven-resolver-transport-minio@2.0.10
+- pkg:maven/org.apache.maven.resolver/maven-resolver-transport-minio@2.0.10?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-transport-minio@2.0.2
 - pkg:maven/org.apache.maven.resolver/maven-resolver-transport-minio@2.0.2?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-transport-minio@2.0.3

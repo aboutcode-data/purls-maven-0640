@@ -1,0 +1,2 @@
+- pkg:maven/fr.anisekai/sanctum@1.0.0?classifier=sources
+- pkg:maven/fr.anisekai/sanctum@1.0.1?classifier=sources

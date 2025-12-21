@@ -8,3 +8,5 @@
 - pkg:maven/dev.vality/dominator-proto@1.5-b9788c2?classifier=sources
 - pkg:maven/dev.vality/dominator-proto@1.7-41bee97
 - pkg:maven/dev.vality/dominator-proto@1.7-41bee97?classifier=sources
+- pkg:maven/dev.vality/dominator-proto@1.8-a70ce40
+- pkg:maven/dev.vality/dominator-proto@1.8-a70ce40?classifier=sources

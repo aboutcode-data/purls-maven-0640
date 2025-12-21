@@ -271,3 +271,4 @@
 - pkg:maven/com.pulumi/linode@4.9.0-alpha.1700248892%2B77a8e463?classifier=sources
 - pkg:maven/com.pulumi/linode@4.9.0?classifier=sources
 - pkg:maven/com.pulumi/linode@4.9.1?classifier=sources
+- pkg:maven/com.pulumi/linode@5.0.0?classifier=sources

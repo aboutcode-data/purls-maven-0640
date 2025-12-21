@@ -22,3 +22,4 @@
 - pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-datastore-hikaricp@5.4.0
 - pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-datastore-hikaricp@5.5.0
 - pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-datastore-hikaricp@5.7.0
+- pkg:maven/com.holon-platform.jdbc/holon-starter-jdbc-datastore-hikaricp@6.0.0

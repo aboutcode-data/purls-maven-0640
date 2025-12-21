@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-mngdmac@5.1.0?classifier=sources
+- pkg:maven/io.micronaut.oraclecloud/micronaut-oraclecloud-bmc-mngdmac@5.2.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/org.eclipse.hawkbit/hawkbit-sdk-dmf@0.7.0?classifier=sources
 - pkg:maven/org.eclipse.hawkbit/hawkbit-sdk-dmf@0.8.0
 - pkg:maven/org.eclipse.hawkbit/hawkbit-sdk-dmf@0.8.0?classifier=sources
+- pkg:maven/org.eclipse.hawkbit/hawkbit-sdk-dmf@0.9.0?classifier=sources

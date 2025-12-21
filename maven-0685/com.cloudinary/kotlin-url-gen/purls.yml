@@ -11,6 +11,7 @@
 - pkg:maven/com.cloudinary/kotlin-url-gen@1.0.0?classifier=sources
 - pkg:maven/com.cloudinary/kotlin-url-gen@1.1.0?classifier=sources
 - pkg:maven/com.cloudinary/kotlin-url-gen@1.10.0?classifier=sources
+- pkg:maven/com.cloudinary/kotlin-url-gen@1.11.0?classifier=sources
 - pkg:maven/com.cloudinary/kotlin-url-gen@1.2.0?classifier=sources
 - pkg:maven/com.cloudinary/kotlin-url-gen@1.3.0?classifier=sources
 - pkg:maven/com.cloudinary/kotlin-url-gen@1.4.0?classifier=sources

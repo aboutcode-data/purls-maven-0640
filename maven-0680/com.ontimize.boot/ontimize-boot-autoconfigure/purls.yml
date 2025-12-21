@@ -18,6 +18,7 @@
 - pkg:maven/com.ontimize.boot/ontimize-boot-autoconfigure@3.15.1?classifier=sources
 - pkg:maven/com.ontimize.boot/ontimize-boot-autoconfigure@3.15.2
 - pkg:maven/com.ontimize.boot/ontimize-boot-autoconfigure@3.15.2?classifier=sources
+- pkg:maven/com.ontimize.boot/ontimize-boot-autoconfigure@3.15.3?classifier=sources
 - pkg:maven/com.ontimize.boot/ontimize-boot-autoconfigure@3.2.0
 - pkg:maven/com.ontimize.boot/ontimize-boot-autoconfigure@3.2.0?classifier=sources
 - pkg:maven/com.ontimize.boot/ontimize-boot-autoconfigure@3.3.0

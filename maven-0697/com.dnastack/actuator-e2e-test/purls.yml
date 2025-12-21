@@ -6,3 +6,5 @@
 - pkg:maven/com.dnastack/actuator-e2e-test@1.0.3?classifier=sources
 - pkg:maven/com.dnastack/actuator-e2e-test@1.0.4
 - pkg:maven/com.dnastack/actuator-e2e-test@1.0.4?classifier=sources
+- pkg:maven/com.dnastack/actuator-e2e-test@1.0.5
+- pkg:maven/com.dnastack/actuator-e2e-test@1.0.5?classifier=sources

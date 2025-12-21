@@ -274,3 +274,5 @@
 - pkg:maven/com.pulumi/alicloud@3.77.0?classifier=sources
 - pkg:maven/com.pulumi/alicloud@3.78.0?classifier=sources
 - pkg:maven/com.pulumi/alicloud@3.79.0?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.80.0?classifier=sources
+- pkg:maven/com.pulumi/alicloud@3.81.0?classifier=sources

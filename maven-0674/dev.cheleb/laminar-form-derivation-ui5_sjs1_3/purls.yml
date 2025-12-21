@@ -54,3 +54,5 @@
 - pkg:maven/dev.cheleb/laminar-form-derivation-ui5_sjs1_3@1.0.0?classifier=sources
 - pkg:maven/dev.cheleb/laminar-form-derivation-ui5_sjs1_3@1.1.0
 - pkg:maven/dev.cheleb/laminar-form-derivation-ui5_sjs1_3@1.1.0?classifier=sources
+- pkg:maven/dev.cheleb/laminar-form-derivation-ui5_sjs1_3@1.2.0
+- pkg:maven/dev.cheleb/laminar-form-derivation-ui5_sjs1_3@1.2.0?classifier=sources

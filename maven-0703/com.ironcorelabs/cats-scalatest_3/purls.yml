@@ -1,2 +1,4 @@
 - pkg:maven/com.ironcorelabs/cats-scalatest_3@4.0.0
 - pkg:maven/com.ironcorelabs/cats-scalatest_3@4.0.0?classifier=sources
+- pkg:maven/com.ironcorelabs/cats-scalatest_3@4.0.1
+- pkg:maven/com.ironcorelabs/cats-scalatest_3@4.0.1?classifier=sources

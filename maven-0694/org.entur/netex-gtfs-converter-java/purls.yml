@@ -229,6 +229,8 @@
 - pkg:maven/org.entur/netex-gtfs-converter-java@2.1.82?classifier=sources
 - pkg:maven/org.entur/netex-gtfs-converter-java@2.1.83
 - pkg:maven/org.entur/netex-gtfs-converter-java@2.1.83?classifier=sources
+- pkg:maven/org.entur/netex-gtfs-converter-java@2.1.84
+- pkg:maven/org.entur/netex-gtfs-converter-java@2.1.84?classifier=sources
 - pkg:maven/org.entur/netex-gtfs-converter-java@2.1.8?classifier=sources
 - pkg:maven/org.entur/netex-gtfs-converter-java@2.1.9
 - pkg:maven/org.entur/netex-gtfs-converter-java@2.1.9?classifier=sources

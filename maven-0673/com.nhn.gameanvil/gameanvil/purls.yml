@@ -22,3 +22,4 @@
 - pkg:maven/com.nhn.gameanvil/gameanvil@1.4.2-jdk8
 - pkg:maven/com.nhn.gameanvil/gameanvil@1.4.2-jdk8?classifier=sources
 - pkg:maven/com.nhn.gameanvil/gameanvil@2.0.0-jdk21?classifier=sources
+- pkg:maven/com.nhn.gameanvil/gameanvil@2.1.0-jdk21?classifier=sources

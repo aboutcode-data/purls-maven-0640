@@ -246,3 +246,4 @@
 - pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.taglib@6.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.trash.taglib@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.trash.taglib@7.0.1?classifier=sources

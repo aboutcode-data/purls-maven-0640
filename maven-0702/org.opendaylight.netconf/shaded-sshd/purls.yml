@@ -146,3 +146,5 @@
 - pkg:maven/org.opendaylight.netconf/shaded-sshd@8.0.6?classifier=sources
 - pkg:maven/org.opendaylight.netconf/shaded-sshd@8.0.7
 - pkg:maven/org.opendaylight.netconf/shaded-sshd@8.0.7?classifier=sources
+- pkg:maven/org.opendaylight.netconf/shaded-sshd@9.0.0
+- pkg:maven/org.opendaylight.netconf/shaded-sshd@9.0.0?classifier=sources

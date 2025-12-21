@@ -1,1 +1,2 @@
+- pkg:maven/org.eclipse.birt/org.eclipse.birt.report.data.oda.excel@4.20.0?classifier=sources
 - pkg:maven/org.eclipse.birt/org.eclipse.birt.report.data.oda.excel@4.9.0?classifier=sources

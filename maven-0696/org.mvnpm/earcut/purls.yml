@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm/earcut@2.2.3?classifier=sources
 - pkg:maven/org.mvnpm/earcut@2.2.4?classifier=sources
 - pkg:maven/org.mvnpm/earcut@3.0.0?classifier=sources
+- pkg:maven/org.mvnpm/earcut@3.0.1
+- pkg:maven/org.mvnpm/earcut@3.0.1?classifier=sources

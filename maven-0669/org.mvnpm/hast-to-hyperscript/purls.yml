@@ -1,1 +1,3 @@
+- pkg:maven/org.mvnpm/hast-to-hyperscript@10.0.3
+- pkg:maven/org.mvnpm/hast-to-hyperscript@10.0.3?classifier=sources
 - pkg:maven/org.mvnpm/hast-to-hyperscript@9.0.1?classifier=sources

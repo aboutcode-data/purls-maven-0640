@@ -1,0 +1,2 @@
+- pkg:maven/com.mgenware.djxlku/djxlku@0.0.2?classifier=sources
+- pkg:maven/com.mgenware.djxlku/djxlku@0.11.1?classifier=sources

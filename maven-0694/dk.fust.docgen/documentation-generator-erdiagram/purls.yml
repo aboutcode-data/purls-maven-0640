@@ -8,6 +8,12 @@
 - pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@0.0.9?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.0.0?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.1.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.10.0?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.2.0?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.3.0?classifier=sources
 - pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.4.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.5.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.6.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.7.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.8.0?classifier=sources
+- pkg:maven/dk.fust.docgen/documentation-generator-erdiagram@1.9.0?classifier=sources

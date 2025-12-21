@@ -84,3 +84,6 @@
 - pkg:maven/ch.exense.step/step-libs-maven-client@3.27.3?classifier=sources
 - pkg:maven/ch.exense.step/step-libs-maven-client@3.27.4
 - pkg:maven/ch.exense.step/step-libs-maven-client@3.27.4?classifier=sources
+- pkg:maven/ch.exense.step/step-libs-maven-client@3.27.5
+- pkg:maven/ch.exense.step/step-libs-maven-client@3.27.5?classifier=sources
+- pkg:maven/ch.exense.step/step-libs-maven-client@3.28.0?classifier=sources
