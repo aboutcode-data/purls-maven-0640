@@ -58,6 +58,12 @@
 - pkg:maven/org.mvnpm.at.angular/router@19.2.10?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/router@19.2.11
 - pkg:maven/org.mvnpm.at.angular/router@19.2.11?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@19.2.12
+- pkg:maven/org.mvnpm.at.angular/router@19.2.12?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@19.2.13
+- pkg:maven/org.mvnpm.at.angular/router@19.2.13?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@19.2.14
+- pkg:maven/org.mvnpm.at.angular/router@19.2.14?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/router@19.2.1?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/router@19.2.4?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/router@19.2.5?classifier=sources
@@ -68,3 +74,11 @@
 - pkg:maven/org.mvnpm.at.angular/router@19.2.8?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/router@19.2.9
 - pkg:maven/org.mvnpm.at.angular/router@19.2.9?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@20.0.0
+- pkg:maven/org.mvnpm.at.angular/router@20.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@20.0.1
+- pkg:maven/org.mvnpm.at.angular/router@20.0.1?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@20.0.2
+- pkg:maven/org.mvnpm.at.angular/router@20.0.2?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/router@20.0.3
+- pkg:maven/org.mvnpm.at.angular/router@20.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.mchange/logadapter-scala-slf4j_3@0.0.1
+- pkg:maven/com.mchange/logadapter-scala-slf4j_3@0.0.1?classifier=sources

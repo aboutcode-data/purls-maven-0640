@@ -1,1 +1,7 @@
 - pkg:maven/io.github.mulesoft-ai-chain-project/mule4-vectors-connector@0.5.10?classifier=sources
+- pkg:maven/io.github.mulesoft-ai-chain-project/mule4-vectors-connector@0.5.30?classifier=sources
+- pkg:maven/io.github.mulesoft-ai-chain-project/mule4-vectors-connector@0.6.0?classifier=sources
+- pkg:maven/io.github.mulesoft-ai-chain-project/mule4-vectors-connector@0.6.10?classifier=sources
+- pkg:maven/io.github.mulesoft-ai-chain-project/mule4-vectors-connector@0.6.12?classifier=sources
+- pkg:maven/io.github.mulesoft-ai-chain-project/mule4-vectors-connector@0.6.1?classifier=sources
+- pkg:maven/io.github.mulesoft-ai-chain-project/mule4-vectors-connector@0.6.20?classifier=sources

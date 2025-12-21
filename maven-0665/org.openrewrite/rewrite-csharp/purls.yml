@@ -30,6 +30,7 @@
 - pkg:maven/org.openrewrite/rewrite-csharp@0.24.4?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-csharp@0.25.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-csharp@0.26.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-csharp@0.26.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-csharp@0.8.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-csharp@0.8.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-csharp@0.8.2?classifier=sources

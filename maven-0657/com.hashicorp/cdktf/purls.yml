@@ -872,6 +872,7 @@
 - pkg:maven/com.hashicorp/cdktf@0.20.8?classifier=sources
 - pkg:maven/com.hashicorp/cdktf@0.20.9
 - pkg:maven/com.hashicorp/cdktf@0.20.9?classifier=sources
+- pkg:maven/com.hashicorp/cdktf@0.21.0
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.0
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.1
@@ -966,6 +967,8 @@
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.166
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.166?classifier=sources
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.17
+- pkg:maven/com.hashicorp/cdktf@0.21.0-pre.170
+- pkg:maven/com.hashicorp/cdktf@0.21.0-pre.170?classifier=sources
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.17?classifier=sources
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.18
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.18?classifier=sources
@@ -1094,6 +1097,7 @@
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.99
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.99?classifier=sources
 - pkg:maven/com.hashicorp/cdktf@0.21.0-pre.9?classifier=sources
+- pkg:maven/com.hashicorp/cdktf@0.21.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf@0.3.0
 - pkg:maven/com.hashicorp/cdktf@0.3.0-pre.223
 - pkg:maven/com.hashicorp/cdktf@0.3.0-pre.223?classifier=sources

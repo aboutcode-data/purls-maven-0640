@@ -175,6 +175,8 @@
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.46
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.47
+- pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.5
 - pkg:maven/org.glassfish.jersey.containers.glassfish/jersey-gf-ejb@2.5.1

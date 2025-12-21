@@ -1,0 +1,1 @@
+- pkg:maven/com.dremio.iceberg.authmgr/authmgr-immutables@0.0.4?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.optsol.jmip/jmip-ortools-linearsolver@2.0.0?classifier=sources
+- pkg:maven/org.optsol.jmip/jmip-ortools-linearsolver@2.1.0?classifier=sources

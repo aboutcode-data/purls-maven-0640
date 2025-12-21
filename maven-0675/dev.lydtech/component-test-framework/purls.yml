@@ -160,3 +160,5 @@
 - pkg:maven/dev.lydtech/component-test-framework@3.9.6?classifier=sources
 - pkg:maven/dev.lydtech/component-test-framework@3.9.7
 - pkg:maven/dev.lydtech/component-test-framework@3.9.7?classifier=sources
+- pkg:maven/dev.lydtech/component-test-framework@3.9.8
+- pkg:maven/dev.lydtech/component-test-framework@3.9.8?classifier=sources

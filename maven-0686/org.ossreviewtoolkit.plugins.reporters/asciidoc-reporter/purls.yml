@@ -87,9 +87,14 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@58.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@58.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@59.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@59.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@59.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@59.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@6.1.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@60.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@61.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/asciidoc-reporter@8.0.0?classifier=sources

@@ -34,3 +34,7 @@
 - pkg:maven/dev.velix/imperat-adventure@1.8.3?classifier=sources
 - pkg:maven/dev.velix/imperat-adventure@1.8.4?classifier=sources
 - pkg:maven/dev.velix/imperat-adventure@1.9.0?classifier=sources
+- pkg:maven/dev.velix/imperat-adventure@1.9.2?classifier=sources
+- pkg:maven/dev.velix/imperat-adventure@1.9.3?classifier=sources
+- pkg:maven/dev.velix/imperat-adventure@1.9.4?classifier=sources
+- pkg:maven/dev.velix/imperat-adventure@1.9.5?classifier=sources

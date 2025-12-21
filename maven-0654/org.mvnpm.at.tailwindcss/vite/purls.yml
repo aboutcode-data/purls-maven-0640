@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.tailwindcss/vite@4.1.7
+- pkg:maven/org.mvnpm.at.tailwindcss/vite@4.1.7?classifier=sources

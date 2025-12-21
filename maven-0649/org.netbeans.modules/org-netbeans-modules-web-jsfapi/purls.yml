@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-jsfapi@RELEASE260?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.jstuff/json-functions@2.0?classifier=sources
+- pkg:maven/io.jstuff/json-functions@2.1?classifier=sources

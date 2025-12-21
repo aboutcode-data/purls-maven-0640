@@ -3,3 +3,4 @@
 - pkg:maven/io.github.payone-gmbh/pcp-serversdk-java@0.0.3?classifier=sources
 - pkg:maven/io.github.payone-gmbh/pcp-serversdk-java@1.0.0?classifier=sources
 - pkg:maven/io.github.payone-gmbh/pcp-serversdk-java@1.1.0?classifier=sources
+- pkg:maven/io.github.payone-gmbh/pcp-serversdk-java@1.2.0?classifier=sources

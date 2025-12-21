@@ -1,0 +1,3 @@
+- pkg:maven/org.mtbo.lcloud/lcloud-sql-discovery@3.1.2-M5?classifier=sources
+- pkg:maven/org.mtbo.lcloud/lcloud-sql-discovery@3.1.2-M6?classifier=sources
+- pkg:maven/org.mtbo.lcloud/lcloud-sql-discovery@3.1.2-M7?classifier=sources

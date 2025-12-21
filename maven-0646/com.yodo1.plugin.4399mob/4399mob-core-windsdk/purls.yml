@@ -1,1 +1,2 @@
 - pkg:maven/com.yodo1.plugin.4399mob/4399mob-core-windsdk@4.12.11?classifier=sources
+- pkg:maven/com.yodo1.plugin.4399mob/4399mob-core-windsdk@4.23.0?classifier=sources

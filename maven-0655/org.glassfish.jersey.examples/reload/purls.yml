@@ -231,6 +231,8 @@
 - pkg:maven/org.glassfish.jersey.examples/reload@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/reload@2.46
 - pkg:maven/org.glassfish.jersey.examples/reload@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/reload@2.47
+- pkg:maven/org.glassfish.jersey.examples/reload@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/reload@2.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/reload@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/reload@2.5

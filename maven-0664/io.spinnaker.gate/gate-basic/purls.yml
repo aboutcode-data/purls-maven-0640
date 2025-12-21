@@ -4,9 +4,12 @@
 - pkg:maven/io.spinnaker.gate/gate-basic@2025.0-3?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@2025.0-4?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@2025.0-5?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@2025.0-6?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@2025.0-7?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@2025.0.2?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@2025.0.3?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@6.52.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@6.53.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@6.54.0?classifier=sources
@@ -49,6 +52,7 @@
 - pkg:maven/io.spinnaker.gate/gate-basic@6.63.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@6.64.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@6.64.1?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@6.64.2?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@6.65.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@6.66.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@6.66.1?classifier=sources
@@ -64,6 +68,15 @@
 - pkg:maven/io.spinnaker.gate/gate-basic@main-11?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@main-12?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@main-13?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@main-14?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@main-15?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@main-16?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@main-17?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@main-18?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@main-19?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@main-20?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@main-21?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-basic@main-22?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@main-5?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@main-6?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-basic@main-7?classifier=sources

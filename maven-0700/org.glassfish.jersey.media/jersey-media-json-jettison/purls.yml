@@ -173,6 +173,8 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jettison@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jettison@2.46
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jettison@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-jettison@2.47
+- pkg:maven/org.glassfish.jersey.media/jersey-media-json-jettison@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jettison@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jettison@2.5
 - pkg:maven/org.glassfish.jersey.media/jersey-media-json-jettison@2.5.1

@@ -1,0 +1,4 @@
+- pkg:maven/com.huaweicloud.gaussdb/gaussdb-hibernate-dialect@6.0.0
+- pkg:maven/com.huaweicloud.gaussdb/gaussdb-hibernate-dialect@6.0.0?classifier=sources
+- pkg:maven/com.huaweicloud.gaussdb/gaussdb-hibernate-dialect@7.0.0
+- pkg:maven/com.huaweicloud.gaussdb/gaussdb-hibernate-dialect@7.0.0?classifier=sources

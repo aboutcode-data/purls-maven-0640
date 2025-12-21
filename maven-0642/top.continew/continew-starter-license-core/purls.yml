@@ -1,1 +1,2 @@
 - pkg:maven/top.continew/continew-starter-license-core@2.12.0?classifier=sources
+- pkg:maven/top.continew/continew-starter-license-core@2.12.1?classifier=sources

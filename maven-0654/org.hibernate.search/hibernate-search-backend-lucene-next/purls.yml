@@ -5,3 +5,5 @@
 - pkg:maven/org.hibernate.search/hibernate-search-backend-lucene-next@8.0.0.Alpha3
 - pkg:maven/org.hibernate.search/hibernate-search-backend-lucene-next@8.0.0.Alpha3?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-backend-lucene-next@8.0.0.Beta1?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-backend-lucene-next@8.0.0.CR1?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-backend-lucene-next@8.0.0.Final?classifier=sources

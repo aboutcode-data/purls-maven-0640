@@ -34,7 +34,13 @@
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.14.10?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.14.11?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.14.25?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.14.27?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.14.28?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.14.29?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.14.30?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.14.3?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.15.0?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.15.2?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.9.10?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.9.15?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.arguments/arguments-jvm@0.9.18?classifier=sources

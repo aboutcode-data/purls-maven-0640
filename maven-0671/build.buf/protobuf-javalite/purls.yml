@@ -42,6 +42,8 @@
 - pkg:maven/build.buf/protobuf-javalite@3.25.5?classifier=sources
 - pkg:maven/build.buf/protobuf-javalite@3.25.6
 - pkg:maven/build.buf/protobuf-javalite@3.25.6?classifier=sources
+- pkg:maven/build.buf/protobuf-javalite@3.25.7?classifier=sources
+- pkg:maven/build.buf/protobuf-javalite@3.25.8?classifier=sources
 - pkg:maven/build.buf/protobuf-javalite@4.26.0
 - pkg:maven/build.buf/protobuf-javalite@4.26.0?classifier=sources
 - pkg:maven/build.buf/protobuf-javalite@4.26.1
@@ -79,3 +81,4 @@
 - pkg:maven/build.buf/protobuf-javalite@4.30.2
 - pkg:maven/build.buf/protobuf-javalite@4.30.2?classifier=sources
 - pkg:maven/build.buf/protobuf-javalite@4.31.0?classifier=sources
+- pkg:maven/build.buf/protobuf-javalite@4.31.1?classifier=sources

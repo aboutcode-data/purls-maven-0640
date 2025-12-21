@@ -158,3 +158,5 @@
 - pkg:maven/com.squareup.wire/wire-runtime@5.2.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-runtime@5.3.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-runtime@5.3.1?classifier=sources
+- pkg:maven/com.squareup.wire/wire-runtime@5.3.2?classifier=sources
+- pkg:maven/com.squareup.wire/wire-runtime@5.3.3?classifier=sources

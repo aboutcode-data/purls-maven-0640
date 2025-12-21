@@ -124,3 +124,4 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@6.2.0?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@6.2.1
 - pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@6.2.1?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-jaxrs-commons@6.3.10?classifier=sources

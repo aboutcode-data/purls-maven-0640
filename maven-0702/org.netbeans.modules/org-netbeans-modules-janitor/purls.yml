@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-janitor@RELEASE260?classifier=sources

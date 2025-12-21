@@ -1,4 +1,6 @@
 - pkg:maven/io.github.reajason/memshell-party-common@1.0.0?classifier=sources
 - pkg:maven/io.github.reajason/memshell-party-common@1.0.4?classifier=sources
+- pkg:maven/io.github.reajason/memshell-party-common@1.10.0?classifier=sources
 - pkg:maven/io.github.reajason/memshell-party-common@1.7.0?classifier=sources
 - pkg:maven/io.github.reajason/memshell-party-common@1.8.0?classifier=sources
+- pkg:maven/io.github.reajason/memshell-party-common@1.9.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/eu.eureka-bpo.birt/org.eclipse.birt.runtime@4.18.0.0?classifier=sources
 - pkg:maven/eu.eureka-bpo.birt/org.eclipse.birt.runtime@4.19.0.0
 - pkg:maven/eu.eureka-bpo.birt/org.eclipse.birt.runtime@4.19.0.0?classifier=sources
+- pkg:maven/eu.eureka-bpo.birt/org.eclipse.birt.runtime@4.20.0.0
+- pkg:maven/eu.eureka-bpo.birt/org.eclipse.birt.runtime@4.20.0.0?classifier=sources

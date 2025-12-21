@@ -12,3 +12,4 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@6.0.3
 - pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@6.1.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@6.2.0
+- pkg:maven/io.zipkin.brave/brave-instrumentation-jakarta-jms@6.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/html-whitespace-sensitive-tag-names@3.0.1
+- pkg:maven/org.mvnpm/html-whitespace-sensitive-tag-names@3.0.1?classifier=sources

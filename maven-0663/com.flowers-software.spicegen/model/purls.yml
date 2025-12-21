@@ -1,0 +1,2 @@
+- pkg:maven/com.flowers-software.spicegen/model@0.14.0?classifier=sources
+- pkg:maven/com.flowers-software.spicegen/model@0.15.0?classifier=sources

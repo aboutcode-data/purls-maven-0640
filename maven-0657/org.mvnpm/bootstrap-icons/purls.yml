@@ -4,3 +4,7 @@
 - pkg:maven/org.mvnpm/bootstrap-icons@1.11.1?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap-icons@1.11.2?classifier=sources
 - pkg:maven/org.mvnpm/bootstrap-icons@1.11.3?classifier=sources
+- pkg:maven/org.mvnpm/bootstrap-icons@1.13.0
+- pkg:maven/org.mvnpm/bootstrap-icons@1.13.0?classifier=sources
+- pkg:maven/org.mvnpm/bootstrap-icons@1.13.1
+- pkg:maven/org.mvnpm/bootstrap-icons@1.13.1?classifier=sources

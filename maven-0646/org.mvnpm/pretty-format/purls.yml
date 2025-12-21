@@ -1,2 +1,8 @@
 - pkg:maven/org.mvnpm/pretty-format@26.6.2?classifier=sources
+- pkg:maven/org.mvnpm/pretty-format@27.5.1
+- pkg:maven/org.mvnpm/pretty-format@27.5.1?classifier=sources
 - pkg:maven/org.mvnpm/pretty-format@29.7.0?classifier=sources
+- pkg:maven/org.mvnpm/pretty-format@30.0.0
+- pkg:maven/org.mvnpm/pretty-format@30.0.0-beta.3
+- pkg:maven/org.mvnpm/pretty-format@30.0.0-beta.3?classifier=sources
+- pkg:maven/org.mvnpm/pretty-format@30.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/micromark-extension-gfm-strikethrough@0.6.5?classifier=sources
+- pkg:maven/org.mvnpm/micromark-extension-gfm-strikethrough@1.0.7
+- pkg:maven/org.mvnpm/micromark-extension-gfm-strikethrough@1.0.7?classifier=sources
 - pkg:maven/org.mvnpm/micromark-extension-gfm-strikethrough@2.1.0?classifier=sources

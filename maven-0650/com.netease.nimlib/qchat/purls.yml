@@ -1,3 +1,5 @@
+- pkg:maven/com.netease.nimlib/qchat@0.1.1?classifier=sources
+- pkg:maven/com.netease.nimlib/qchat@0.1.1?type=aar
 - pkg:maven/com.netease.nimlib/qchat@10.0.600?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@10.0.600?type=aar
 - pkg:maven/com.netease.nimlib/qchat@10.0.601?classifier=sources
@@ -50,6 +52,8 @@
 - pkg:maven/com.netease.nimlib/qchat@10.8.21?type=aar
 - pkg:maven/com.netease.nimlib/qchat@10.8.30?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@10.8.30?type=aar
+- pkg:maven/com.netease.nimlib/qchat@10.9.0?classifier=sources
+- pkg:maven/com.netease.nimlib/qchat@10.9.0?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.0.0?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@9.0.0?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.0.100?classifier=sources
@@ -120,6 +124,8 @@
 - pkg:maven/com.netease.nimlib/qchat@9.16.700?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.16.800?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@9.16.800?type=aar
+- pkg:maven/com.netease.nimlib/qchat@9.16.900?classifier=sources
+- pkg:maven/com.netease.nimlib/qchat@9.16.900?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.17.0?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@9.17.0?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.17.1?classifier=sources
@@ -168,6 +174,8 @@
 - pkg:maven/com.netease.nimlib/qchat@9.2.8?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.20.10?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@9.20.10?type=aar
+- pkg:maven/com.netease.nimlib/qchat@9.20.1?classifier=sources
+- pkg:maven/com.netease.nimlib/qchat@9.20.1?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.3.0?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@9.3.0?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.4.0?classifier=sources

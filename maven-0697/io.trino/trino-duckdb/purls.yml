@@ -4,3 +4,4 @@
 - pkg:maven/io.trino/trino-duckdb@473?classifier=sources
 - pkg:maven/io.trino/trino-duckdb@474?classifier=sources
 - pkg:maven/io.trino/trino-duckdb@475?classifier=sources
+- pkg:maven/io.trino/trino-duckdb@476?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/de.stuebingerb/kgraphql@0.27.0?classifier=sources
 - pkg:maven/de.stuebingerb/kgraphql@0.28.0?classifier=sources
 - pkg:maven/de.stuebingerb/kgraphql@0.29.0?classifier=sources
+- pkg:maven/de.stuebingerb/kgraphql@0.30.0?classifier=sources
+- pkg:maven/de.stuebingerb/kgraphql@0.31.0?classifier=sources

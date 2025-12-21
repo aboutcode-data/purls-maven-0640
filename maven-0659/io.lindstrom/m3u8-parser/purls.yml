@@ -41,6 +41,7 @@
 - pkg:maven/io.lindstrom/m3u8-parser@0.29?classifier=sources
 - pkg:maven/io.lindstrom/m3u8-parser@0.2?classifier=sources
 - pkg:maven/io.lindstrom/m3u8-parser@0.3
+- pkg:maven/io.lindstrom/m3u8-parser@0.30?classifier=sources
 - pkg:maven/io.lindstrom/m3u8-parser@0.3?classifier=sources
 - pkg:maven/io.lindstrom/m3u8-parser@0.4
 - pkg:maven/io.lindstrom/m3u8-parser@0.4?classifier=sources

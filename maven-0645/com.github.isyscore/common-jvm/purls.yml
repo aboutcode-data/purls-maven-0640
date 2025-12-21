@@ -44,3 +44,6 @@
 - pkg:maven/com.github.isyscore/common-jvm@2.3.2.6?classifier=sources
 - pkg:maven/com.github.isyscore/common-jvm@2.3.2.7?classifier=sources
 - pkg:maven/com.github.isyscore/common-jvm@3.0.0.0?classifier=sources
+- pkg:maven/com.github.isyscore/common-jvm@3.0.0.1?classifier=sources
+- pkg:maven/com.github.isyscore/common-jvm@3.0.0.2?classifier=sources
+- pkg:maven/com.github.isyscore/common-jvm@3.0.0.3?classifier=sources

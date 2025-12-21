@@ -6,3 +6,5 @@
 - pkg:maven/com.github.cafdataprocessing.workers.ingestion/worker-batch-ingestion-plugin@3.3.2-1257?classifier=sources
 - pkg:maven/com.github.cafdataprocessing.workers.ingestion/worker-batch-ingestion-plugin@3.3.3-1277
 - pkg:maven/com.github.cafdataprocessing.workers.ingestion/worker-batch-ingestion-plugin@3.3.3-1277?classifier=sources
+- pkg:maven/com.github.cafdataprocessing.workers.ingestion/worker-batch-ingestion-plugin@3.3.4-1288
+- pkg:maven/com.github.cafdataprocessing.workers.ingestion/worker-batch-ingestion-plugin@3.3.4-1288?classifier=sources

@@ -8,6 +8,12 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.1214?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.1259
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.1259?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.1267
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.1267?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.1271
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.1271?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.1272
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.1272?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.689
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.689?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-keewidb@3.1.691

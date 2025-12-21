@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/make-event-props@1.6.2
+- pkg:maven/org.mvnpm/make-event-props@1.6.2?classifier=sources

@@ -18,3 +18,6 @@
 - pkg:maven/net.engawapg.lib/zoomable-iosx64@2.6.0?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable-iosx64@2.7.0-beta01?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable-iosx64@2.7.0?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable-iosx64@2.8.0?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable-iosx64@2.8.1-alpha01?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable-iosx64@2.8.1-alpha02?classifier=sources

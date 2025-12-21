@@ -2,6 +2,7 @@
 - pkg:maven/com.hubspot/metrics-s3-decorator@0.10?classifier=sources
 - pkg:maven/com.hubspot/metrics-s3-decorator@0.11
 - pkg:maven/com.hubspot/metrics-s3-decorator@0.11?classifier=sources
+- pkg:maven/com.hubspot/metrics-s3-decorator@0.12?classifier=sources
 - pkg:maven/com.hubspot/metrics-s3-decorator@0.5
 - pkg:maven/com.hubspot/metrics-s3-decorator@0.5?classifier=sources
 - pkg:maven/com.hubspot/metrics-s3-decorator@0.6

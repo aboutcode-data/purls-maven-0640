@@ -115,6 +115,12 @@
 - pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.32?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.33
 - pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.33?classifier=sources
+- pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.34
+- pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.34?classifier=sources
+- pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.35
+- pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.35?classifier=sources
+- pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.36
+- pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.36?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.3?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.4
 - pkg:maven/org.entur.gbfs/gbfs-validator-java@2.0.4?classifier=sources

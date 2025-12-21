@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.uiw/codemirror-theme-github@4.23.12
+- pkg:maven/org.mvnpm.at.uiw/codemirror-theme-github@4.23.12?classifier=sources

@@ -45,3 +45,4 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.0.0-beta.9?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.0.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.1.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-datafactory@1.2.0?classifier=sources

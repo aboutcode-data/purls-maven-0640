@@ -90,3 +90,4 @@
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@3.2.3?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@3.2.4?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@3.2.5?classifier=src&type=zip
+- pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@3.2.6?classifier=src&type=zip

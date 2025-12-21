@@ -23,3 +23,4 @@
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-templater-freemarker@0.12.1?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-templater-freemarker@0.12.1a?classifier=sources
 - pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-templater-freemarker@0.12.1b?classifier=sources
+- pkg:maven/io.github.dehuckakpyt.telegrambot/telegram-bot-templater-freemarker@0.13.0?classifier=sources

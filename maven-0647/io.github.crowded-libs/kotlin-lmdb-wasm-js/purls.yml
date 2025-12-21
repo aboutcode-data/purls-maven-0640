@@ -1,0 +1,2 @@
+- pkg:maven/io.github.crowded-libs/kotlin-lmdb-wasm-js@0.3.0?classifier=sources
+- pkg:maven/io.github.crowded-libs/kotlin-lmdb-wasm-js@0.3.1?classifier=sources

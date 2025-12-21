@@ -29,5 +29,16 @@
 - pkg:maven/global.deveng/networking-kmp@1.2.8?classifier=sources
 - pkg:maven/global.deveng/networking-kmp@1.2.9?classifier=sources
 - pkg:maven/global.deveng/networking-kmp@2.1.39?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.10.52?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.10.53?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.10.54?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.10.55?classifier=sources
 - pkg:maven/global.deveng/networking-kmp@2.5.40?classifier=sources
 - pkg:maven/global.deveng/networking-kmp@2.5.41?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.6.42?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.7.46?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.7.47?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.8.48?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.8.49?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.8.51?classifier=sources
+- pkg:maven/global.deveng/networking-kmp@2.9.51?classifier=sources

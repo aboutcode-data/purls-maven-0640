@@ -23,6 +23,14 @@
 - pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.1
 - pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.10
 - pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.10?classifier=sources
+- pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.11
+- pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.11?classifier=sources
+- pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.12
+- pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.12?classifier=sources
+- pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.13
+- pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.13?classifier=sources
+- pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.14
+- pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.14?classifier=sources
 - pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.1?classifier=sources
 - pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.2
 - pkg:maven/org.entur.ror.helpers/storage-gcp-gcs@5.2?classifier=sources

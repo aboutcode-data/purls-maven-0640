@@ -1,3 +1,4 @@
 - pkg:maven/studio.clashbuddy/spring-boot-starter-clashaccess@1.0.0?classifier=sources
 - pkg:maven/studio.clashbuddy/spring-boot-starter-clashaccess@1.0.1?classifier=sources
 - pkg:maven/studio.clashbuddy/spring-boot-starter-clashaccess@2.0.0?classifier=sources
+- pkg:maven/studio.clashbuddy/spring-boot-starter-clashaccess@2.1.1?classifier=sources
