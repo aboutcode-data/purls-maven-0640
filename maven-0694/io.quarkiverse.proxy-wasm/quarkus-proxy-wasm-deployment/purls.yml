@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.proxy-wasm/quarkus-proxy-wasm-deployment@0.0.1?classifier=sources

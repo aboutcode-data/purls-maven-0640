@@ -100,3 +100,4 @@
 - pkg:maven/org.infinispan.protostream/protostream-types@6.0.0.Dev06?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-types@6.0.0.Dev07
 - pkg:maven/org.infinispan.protostream/protostream-types@6.0.0.Dev07?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-types@6.0.0.Dev08?classifier=sources

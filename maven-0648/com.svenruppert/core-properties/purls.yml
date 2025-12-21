@@ -3,3 +3,6 @@
 - pkg:maven/com.svenruppert/core-properties@06.00.02?classifier=sources
 - pkg:maven/com.svenruppert/core-properties@06.00.03?classifier=sources
 - pkg:maven/com.svenruppert/core-properties@06.00.04?classifier=sources
+- pkg:maven/com.svenruppert/core-properties@06.00.05?classifier=sources
+- pkg:maven/com.svenruppert/core-properties@06.00.06?classifier=sources
+- pkg:maven/com.svenruppert/core-properties@06.00.07?classifier=sources

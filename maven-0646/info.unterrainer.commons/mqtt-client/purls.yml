@@ -26,3 +26,4 @@
 - pkg:maven/info.unterrainer.commons/mqtt-client@0.1.8?classifier=sources
 - pkg:maven/info.unterrainer.commons/mqtt-client@0.1.9
 - pkg:maven/info.unterrainer.commons/mqtt-client@0.1.9?classifier=sources
+- pkg:maven/info.unterrainer.commons/mqtt-client@1.0.1?classifier=sources

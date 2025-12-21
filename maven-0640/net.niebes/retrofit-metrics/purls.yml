@@ -26,6 +26,11 @@
 - pkg:maven/net.niebes/retrofit-metrics@1.15.0?classifier=sources
 - pkg:maven/net.niebes/retrofit-metrics@1.16.0
 - pkg:maven/net.niebes/retrofit-metrics@1.16.0?classifier=sources
+- pkg:maven/net.niebes/retrofit-metrics@1.17.0?classifier=sources
+- pkg:maven/net.niebes/retrofit-metrics@1.17.1?classifier=sources
+- pkg:maven/net.niebes/retrofit-metrics@1.18.1?classifier=sources
+- pkg:maven/net.niebes/retrofit-metrics@1.18.2?classifier=sources
+- pkg:maven/net.niebes/retrofit-metrics@1.18.3?classifier=sources
 - pkg:maven/net.niebes/retrofit-metrics@1.2.0
 - pkg:maven/net.niebes/retrofit-metrics@1.2.0?classifier=sources
 - pkg:maven/net.niebes/retrofit-metrics@1.4.0

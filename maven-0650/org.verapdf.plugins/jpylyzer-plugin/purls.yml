@@ -10,3 +10,5 @@
 - pkg:maven/org.verapdf.plugins/jpylyzer-plugin@1.14.8-RC?classifier=sources
 - pkg:maven/org.verapdf.plugins/jpylyzer-plugin@1.14.9-RC
 - pkg:maven/org.verapdf.plugins/jpylyzer-plugin@1.14.9-RC?classifier=sources
+- pkg:maven/org.verapdf.plugins/jpylyzer-plugin@1.28.1
+- pkg:maven/org.verapdf.plugins/jpylyzer-plugin@1.28.1?classifier=sources

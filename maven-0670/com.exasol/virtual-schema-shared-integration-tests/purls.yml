@@ -22,3 +22,5 @@
 - pkg:maven/com.exasol/virtual-schema-shared-integration-tests@2.2.6?classifier=sources
 - pkg:maven/com.exasol/virtual-schema-shared-integration-tests@3.0.0
 - pkg:maven/com.exasol/virtual-schema-shared-integration-tests@3.0.0?classifier=sources
+- pkg:maven/com.exasol/virtual-schema-shared-integration-tests@3.0.1
+- pkg:maven/com.exasol/virtual-schema-shared-integration-tests@3.0.1?classifier=sources

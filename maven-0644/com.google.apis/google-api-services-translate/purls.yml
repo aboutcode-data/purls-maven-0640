@@ -470,6 +470,8 @@
 - pkg:maven/com.google.apis/google-api-services-translate@v3-rev20241029-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-translate@v3-rev20241218-2.0.0
 - pkg:maven/com.google.apis/google-api-services-translate@v3-rev20241218-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-translate@v3-rev20250424-2.0.0
+- pkg:maven/com.google.apis/google-api-services-translate@v3-rev20250424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-translate@v3-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-translate@v3-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-translate@v3-rev3-1.25.0
@@ -648,6 +650,8 @@
 - pkg:maven/com.google.apis/google-api-services-translate@v3beta1-rev20241029-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-translate@v3beta1-rev20241218-2.0.0
 - pkg:maven/com.google.apis/google-api-services-translate@v3beta1-rev20241218-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-translate@v3beta1-rev20250424-2.0.0
+- pkg:maven/com.google.apis/google-api-services-translate@v3beta1-rev20250424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-translate@v3beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-translate@v3beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-translate@v3beta1-rev21-1.25.0

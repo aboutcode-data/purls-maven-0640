@@ -1,1 +1,2 @@
 - pkg:maven/io.github.ctmonitor/sdk-java-ctapi-monitor@1.0?classifier=sources
+- pkg:maven/io.github.ctmonitor/sdk-java-ctapi-monitor@1.1?classifier=sources

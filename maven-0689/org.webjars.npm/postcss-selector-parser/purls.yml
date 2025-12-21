@@ -33,3 +33,4 @@
 - pkg:maven/org.webjars.npm/postcss-selector-parser@6.0.9
 - pkg:maven/org.webjars.npm/postcss-selector-parser@6.0.9?classifier=sources
 - pkg:maven/org.webjars.npm/postcss-selector-parser@6.1.2
+- pkg:maven/org.webjars.npm/postcss-selector-parser@7.1.0

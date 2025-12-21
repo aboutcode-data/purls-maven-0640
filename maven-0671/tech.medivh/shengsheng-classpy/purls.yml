@@ -1,0 +1,2 @@
+- pkg:maven/tech.medivh/shengsheng-classpy@1.0.0?classifier=sources
+- pkg:maven/tech.medivh/shengsheng-classpy@1.1.0?classifier=sources

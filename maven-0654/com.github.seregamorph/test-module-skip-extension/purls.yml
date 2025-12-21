@@ -1,0 +1,5 @@
+- pkg:maven/com.github.seregamorph/test-module-skip-extension@0.3?classifier=sources
+- pkg:maven/com.github.seregamorph/test-module-skip-extension@0.4?classifier=sources
+- pkg:maven/com.github.seregamorph/test-module-skip-extension@0.5?classifier=sources
+- pkg:maven/com.github.seregamorph/test-module-skip-extension@0.6?classifier=sources
+- pkg:maven/com.github.seregamorph/test-module-skip-extension@0.7?classifier=sources

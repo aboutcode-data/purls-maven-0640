@@ -29,6 +29,8 @@
 - pkg:maven/com.zenlayer/zenlayercloud-sdk-java@0.6.22?classifier=sources
 - pkg:maven/com.zenlayer/zenlayercloud-sdk-java@0.6.23
 - pkg:maven/com.zenlayer/zenlayercloud-sdk-java@0.6.23?classifier=sources
+- pkg:maven/com.zenlayer/zenlayercloud-sdk-java@0.6.24
+- pkg:maven/com.zenlayer/zenlayercloud-sdk-java@0.6.24?classifier=sources
 - pkg:maven/com.zenlayer/zenlayercloud-sdk-java@0.6.2?classifier=sources
 - pkg:maven/com.zenlayer/zenlayercloud-sdk-java@0.6.3
 - pkg:maven/com.zenlayer/zenlayercloud-sdk-java@0.6.3?classifier=sources

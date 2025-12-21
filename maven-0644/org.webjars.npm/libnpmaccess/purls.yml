@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/libnpmaccess@4.0.3
 - pkg:maven/org.webjars.npm/libnpmaccess@4.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/libnpmaccess@8.0.6
+- pkg:maven/org.webjars.npm/libnpmaccess@9.0.0

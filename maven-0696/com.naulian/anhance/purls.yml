@@ -1,3 +1,7 @@
+- pkg:maven/com.naulian/anhance@2025.05.00?classifier=sources
+- pkg:maven/com.naulian/anhance@2025.05.01?classifier=sources
+- pkg:maven/com.naulian/anhance@2025.05.02?classifier=sources
+- pkg:maven/com.naulian/anhance@2025.05.03?classifier=sources
 - pkg:maven/com.naulian/anhance@2025.1.0?classifier=sources
 - pkg:maven/com.naulian/anhance@2025.3.0?classifier=sources
 - pkg:maven/com.naulian/anhance@2025.4.0?classifier=sources

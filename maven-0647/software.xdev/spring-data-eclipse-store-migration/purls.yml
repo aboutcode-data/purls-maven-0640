@@ -1,2 +1,3 @@
 - pkg:maven/software.xdev/spring-data-eclipse-store-migration@1.0.0
 - pkg:maven/software.xdev/spring-data-eclipse-store-migration@1.0.0?classifier=sources
+- pkg:maven/software.xdev/spring-data-eclipse-store-migration@1.0.1?classifier=sources

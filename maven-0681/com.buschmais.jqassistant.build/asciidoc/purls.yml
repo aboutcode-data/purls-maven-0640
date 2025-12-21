@@ -12,4 +12,6 @@
 - pkg:maven/com.buschmais.jqassistant.build/asciidoc@2.6.2?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.build/asciidoc@2.6.3
 - pkg:maven/com.buschmais.jqassistant.build/asciidoc@2.6.3?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.build/asciidoc@2.7.0
+- pkg:maven/com.buschmais.jqassistant.build/asciidoc@2.7.0?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.build/asciidoc@X.Y.Z

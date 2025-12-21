@@ -4,3 +4,7 @@
 - pkg:maven/org.mvnpm.at.gomomento/generated-types@0.124.1?classifier=sources
 - pkg:maven/org.mvnpm.at.gomomento/generated-types@0.124.2?classifier=sources
 - pkg:maven/org.mvnpm.at.gomomento/generated-types@0.124.4?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/generated-types@0.125.1
+- pkg:maven/org.mvnpm.at.gomomento/generated-types@0.125.1?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/generated-types@0.125.2
+- pkg:maven/org.mvnpm.at.gomomento/generated-types@0.125.2?classifier=sources

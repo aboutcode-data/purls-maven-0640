@@ -1,6 +1,7 @@
 - pkg:maven/eu.ciechanowiec/dock.aem@1.0.0?classifier=sources
 - pkg:maven/eu.ciechanowiec/dock.aem@1.0.0?type=zip
 - pkg:maven/eu.ciechanowiec/dock.aem@1.0.10?classifier=sources
+- pkg:maven/eu.ciechanowiec/dock.aem@1.0.12?classifier=sources
 - pkg:maven/eu.ciechanowiec/dock.aem@1.0.1?classifier=sources
 - pkg:maven/eu.ciechanowiec/dock.aem@1.0.1?type=zip
 - pkg:maven/eu.ciechanowiec/dock.aem@1.0.2?classifier=sources

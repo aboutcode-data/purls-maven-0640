@@ -28,3 +28,5 @@
 - pkg:maven/com.weisiliang/formui@0.1.4.8
 - pkg:maven/com.weisiliang/formui@0.1.4.8?classifier=sources
 - pkg:maven/com.weisiliang/formui@0.1.4?classifier=sources
+- pkg:maven/com.weisiliang/formui@0.1.5
+- pkg:maven/com.weisiliang/formui@0.1.5?classifier=sources

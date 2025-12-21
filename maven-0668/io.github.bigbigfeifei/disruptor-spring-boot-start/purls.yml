@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bigbigfeifei/disruptor-spring-boot-start@1.0?classifier=sources
+- pkg:maven/io.github.bigbigfeifei/disruptor-spring-boot-start@1.1?classifier=sources

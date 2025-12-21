@@ -54,3 +54,7 @@
 - pkg:maven/com.aliyun/eds_aic20230930@3.4.3?classifier=sources
 - pkg:maven/com.aliyun/eds_aic20230930@3.4.4
 - pkg:maven/com.aliyun/eds_aic20230930@3.4.4?classifier=sources
+- pkg:maven/com.aliyun/eds_aic20230930@3.5.0
+- pkg:maven/com.aliyun/eds_aic20230930@3.5.0?classifier=sources
+- pkg:maven/com.aliyun/eds_aic20230930@3.6.0
+- pkg:maven/com.aliyun/eds_aic20230930@3.6.0?classifier=sources

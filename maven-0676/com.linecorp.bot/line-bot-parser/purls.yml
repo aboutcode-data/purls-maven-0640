@@ -69,3 +69,5 @@
 - pkg:maven/com.linecorp.bot/line-bot-parser@9.5.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-parser@9.6.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-parser@9.6.1?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-parser@9.7.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-parser@9.7.1?classifier=sources

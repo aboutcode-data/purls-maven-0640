@@ -3,3 +3,4 @@
 - pkg:maven/com.chaquo.python.runtime/chaquopy_java@14.0.2?classifier=sources
 - pkg:maven/com.chaquo.python.runtime/chaquopy_java@15.0.1?classifier=sources
 - pkg:maven/com.chaquo.python.runtime/chaquopy_java@16.0.0?classifier=sources
+- pkg:maven/com.chaquo.python.runtime/chaquopy_java@16.1.0?classifier=sources

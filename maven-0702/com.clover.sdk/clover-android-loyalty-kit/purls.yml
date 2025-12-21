@@ -22,3 +22,4 @@
 - pkg:maven/com.clover.sdk/clover-android-loyalty-kit@316?classifier=sources
 - pkg:maven/com.clover.sdk/clover-android-loyalty-kit@320?classifier=sources
 - pkg:maven/com.clover.sdk/clover-android-loyalty-kit@322?classifier=sources
+- pkg:maven/com.clover.sdk/clover-android-loyalty-kit@323?classifier=sources

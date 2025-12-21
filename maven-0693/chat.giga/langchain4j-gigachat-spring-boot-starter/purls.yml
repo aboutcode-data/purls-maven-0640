@@ -1,0 +1,2 @@
+- pkg:maven/chat.giga/langchain4j-gigachat-spring-boot-starter@0.1.4?classifier=sources
+- pkg:maven/chat.giga/langchain4j-gigachat-spring-boot-starter@0.1.5?classifier=sources

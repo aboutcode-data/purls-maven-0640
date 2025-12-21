@@ -1,0 +1,3 @@
+- pkg:maven/space.x9x.radp/radp-smoke-tests-archetype-starter@2.20.2?classifier=sources
+- pkg:maven/space.x9x.radp/radp-smoke-tests-archetype-starter@3.20.1?classifier=sources
+- pkg:maven/space.x9x.radp/radp-smoke-tests-archetype-starter@3.20.2?classifier=sources

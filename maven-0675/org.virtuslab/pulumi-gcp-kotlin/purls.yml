@@ -70,6 +70,10 @@
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.25.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.25.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.26.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.27.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.27.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.28.0.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.29.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.3.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.3.1.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gcp-kotlin@8.4.0.0?classifier=sources

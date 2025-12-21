@@ -1,0 +1,2 @@
+- pkg:maven/com.webforj/webforj-refresher@25.00
+- pkg:maven/com.webforj/webforj-refresher@25.00?classifier=sources

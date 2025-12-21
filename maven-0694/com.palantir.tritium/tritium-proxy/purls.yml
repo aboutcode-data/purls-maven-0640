@@ -214,3 +214,4 @@
 - pkg:maven/com.palantir.tritium/tritium-proxy@0.95.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-proxy@0.96.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-proxy@0.97.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-proxy@0.99.0?classifier=sources

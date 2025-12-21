@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/primevue@3.43.0?classifier=sources
 - pkg:maven/org.mvnpm/primevue@4.0.7?classifier=sources
 - pkg:maven/org.mvnpm/primevue@4.3.3?classifier=sources
+- pkg:maven/org.mvnpm/primevue@4.3.4
+- pkg:maven/org.mvnpm/primevue@4.3.4?classifier=sources

@@ -83,6 +83,8 @@
 - pkg:maven/org.primefaces.extensions/resources-monacoeditor@13.0.16?classifier=sources
 - pkg:maven/org.primefaces.extensions/resources-monacoeditor@13.0.17
 - pkg:maven/org.primefaces.extensions/resources-monacoeditor@13.0.17?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@13.0.18
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@13.0.18?classifier=sources
 - pkg:maven/org.primefaces.extensions/resources-monacoeditor@13.0.1?classifier=sources
 - pkg:maven/org.primefaces.extensions/resources-monacoeditor@13.0.2
 - pkg:maven/org.primefaces.extensions/resources-monacoeditor@13.0.2?classifier=sources
@@ -150,3 +152,7 @@
 - pkg:maven/org.primefaces.extensions/resources-monacoeditor@15.0.2?classifier=sources
 - pkg:maven/org.primefaces.extensions/resources-monacoeditor@15.0.3
 - pkg:maven/org.primefaces.extensions/resources-monacoeditor@15.0.3?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@15.0.4
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@15.0.4.1
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@15.0.4.1?classifier=sources
+- pkg:maven/org.primefaces.extensions/resources-monacoeditor@15.0.4?classifier=sources

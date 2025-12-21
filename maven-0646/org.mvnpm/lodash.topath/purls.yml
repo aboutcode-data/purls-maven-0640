@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/lodash.topath@4.5.2
+- pkg:maven/org.mvnpm/lodash.topath@4.5.2?classifier=sources

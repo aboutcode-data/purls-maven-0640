@@ -16,6 +16,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@10.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@10.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@10.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-gmap3@10.5.0
+- pkg:maven/org.wicketstuff/wicketstuff-gmap3@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@6.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@6.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@6.10.0
@@ -218,6 +220,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@9.20.0
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@9.20.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-gmap3@9.21.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@9.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-gmap3@9.4.0

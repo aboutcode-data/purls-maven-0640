@@ -4,3 +4,5 @@
 - pkg:maven/io.gravitee.inference.math.simd/gravitee-inference-math-simd@1.1.0?classifier=sources
 - pkg:maven/io.gravitee.inference.math.simd/gravitee-inference-math-simd@1.1.1
 - pkg:maven/io.gravitee.inference.math.simd/gravitee-inference-math-simd@1.1.1?classifier=sources
+- pkg:maven/io.gravitee.inference.math.simd/gravitee-inference-math-simd@1.1.2
+- pkg:maven/io.gravitee.inference.math.simd/gravitee-inference-math-simd@1.1.2?classifier=sources

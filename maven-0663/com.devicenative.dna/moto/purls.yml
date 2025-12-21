@@ -1,0 +1,2 @@
+- pkg:maven/com.devicenative.dna/moto@1.2.6?classifier=sources
+- pkg:maven/com.devicenative.dna/moto@1.2.7?classifier=sources

@@ -41,3 +41,8 @@
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.2?classifier=sources
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.3?classifier=sources
 - pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.4?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.5-SNOPSHOT?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.5.1-SNOPSHOT?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.5?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.6.1-SNOPSHOT?classifier=sources
+- pkg:maven/me.vacuity.ai.sdk/ai-java-sdk@1.8.6.1?classifier=sources

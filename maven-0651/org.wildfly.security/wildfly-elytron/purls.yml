@@ -154,6 +154,8 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.1.12.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.1.13.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.1.13.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron@1.1.14.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron@1.1.14.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.1.2.CR1
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.1.2.CR1?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.1.2.Final
@@ -198,6 +200,8 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.10.14.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.10.15.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.10.15.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron@1.10.16.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron@1.10.16.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.10.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.10.2.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@1.10.3.Final
@@ -494,6 +498,8 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron@2.2.1.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@2.2.10.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron@2.2.10.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron@2.2.11.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron@2.2.11.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@2.2.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron@2.2.2.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@2.2.3.Final
@@ -538,3 +544,5 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron@2.6.2.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron@2.6.3.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron@2.6.3.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron@2.6.4.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron@2.6.4.Final?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/org.partiql/partiql-ast@1.0.0?classifier=sources
 - pkg:maven/org.partiql/partiql-ast@1.1.0?classifier=sources
 - pkg:maven/org.partiql/partiql-ast@1.2.0?classifier=sources
+- pkg:maven/org.partiql/partiql-ast@1.2.1?classifier=sources

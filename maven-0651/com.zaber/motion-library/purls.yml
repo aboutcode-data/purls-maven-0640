@@ -580,3 +580,15 @@
 - pkg:maven/com.zaber/motion-library@7.6.1-RC
 - pkg:maven/com.zaber/motion-library@7.6.1-RC?classifier=sources
 - pkg:maven/com.zaber/motion-library@7.6.1?classifier=sources
+- pkg:maven/com.zaber/motion-library@7.6.2
+- pkg:maven/com.zaber/motion-library@7.6.2-RC
+- pkg:maven/com.zaber/motion-library@7.6.2-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@7.6.2?classifier=sources
+- pkg:maven/com.zaber/motion-library@7.7.0
+- pkg:maven/com.zaber/motion-library@7.7.0-RC
+- pkg:maven/com.zaber/motion-library@7.7.0-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@7.7.0?classifier=sources
+- pkg:maven/com.zaber/motion-library@7.8.0
+- pkg:maven/com.zaber/motion-library@7.8.0-RC
+- pkg:maven/com.zaber/motion-library@7.8.0-RC?classifier=sources
+- pkg:maven/com.zaber/motion-library@7.8.0?classifier=sources

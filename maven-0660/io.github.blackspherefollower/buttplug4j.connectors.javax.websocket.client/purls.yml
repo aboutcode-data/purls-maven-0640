@@ -1,1 +1,2 @@
 - pkg:maven/io.github.blackspherefollower/buttplug4j.connectors.javax.websocket.client@3.1.105?classifier=sources
+- pkg:maven/io.github.blackspherefollower/buttplug4j.connectors.javax.websocket.client@3.1.180?classifier=sources

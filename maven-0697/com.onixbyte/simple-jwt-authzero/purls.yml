@@ -10,3 +10,5 @@
 - pkg:maven/com.onixbyte/simple-jwt-authzero@1.7.0?classifier=sources
 - pkg:maven/com.onixbyte/simple-jwt-authzero@1.8.0?classifier=sources
 - pkg:maven/com.onixbyte/simple-jwt-authzero@2.0.0?classifier=sources
+- pkg:maven/com.onixbyte/simple-jwt-authzero@2.1.0?classifier=sources
+- pkg:maven/com.onixbyte/simple-jwt-authzero@2.1.2?classifier=sources

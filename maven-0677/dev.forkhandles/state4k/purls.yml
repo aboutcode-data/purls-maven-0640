@@ -16,3 +16,4 @@
 - pkg:maven/dev.forkhandles/state4k@2.22.1.0?classifier=sources
 - pkg:maven/dev.forkhandles/state4k@2.22.2.0?classifier=sources
 - pkg:maven/dev.forkhandles/state4k@2.22.2.1?classifier=sources
+- pkg:maven/dev.forkhandles/state4k@2.22.3.0?classifier=sources

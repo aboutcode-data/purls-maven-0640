@@ -2,3 +2,4 @@
 - pkg:maven/com.google.privacy.differentialprivacy.pipelinedp4j/pipelinedp4j@0.0.2?classifier=sources
 - pkg:maven/com.google.privacy.differentialprivacy.pipelinedp4j/pipelinedp4j@0.0.3?classifier=sources
 - pkg:maven/com.google.privacy.differentialprivacy.pipelinedp4j/pipelinedp4j@0.0.4?classifier=sources
+- pkg:maven/com.google.privacy.differentialprivacy.pipelinedp4j/pipelinedp4j@4.0.0?classifier=sources

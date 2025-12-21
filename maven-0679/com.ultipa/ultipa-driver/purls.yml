@@ -1,0 +1,4 @@
+- pkg:maven/com.ultipa/ultipa-driver@5.0.0-s5.0
+- pkg:maven/com.ultipa/ultipa-driver@5.0.0-s5.0?classifier=sources
+- pkg:maven/com.ultipa/ultipa-driver@5.0.1-s5.0
+- pkg:maven/com.ultipa/ultipa-driver@5.0.1-s5.0?classifier=sources

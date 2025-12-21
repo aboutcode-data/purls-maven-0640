@@ -11,8 +11,10 @@
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.18.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.19.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.19.1?classifier=sources
+- pkg:maven/org.opensearch.plugin/search-pipeline-common@2.19.2?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.7.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.8.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@2.9.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@3.0.0-alpha1?classifier=sources
 - pkg:maven/org.opensearch.plugin/search-pipeline-common@3.0.0-beta1?classifier=sources
+- pkg:maven/org.opensearch.plugin/search-pipeline-common@3.0.0?classifier=sources

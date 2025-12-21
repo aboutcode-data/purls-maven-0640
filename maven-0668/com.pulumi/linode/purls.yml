@@ -203,6 +203,8 @@
 - pkg:maven/com.pulumi/linode@4.35.0?classifier=sources
 - pkg:maven/com.pulumi/linode@4.36.0?classifier=sources
 - pkg:maven/com.pulumi/linode@4.37.0?classifier=sources
+- pkg:maven/com.pulumi/linode@4.38.0?classifier=sources
+- pkg:maven/com.pulumi/linode@4.39.0?classifier=sources
 - pkg:maven/com.pulumi/linode@4.4.0-alpha.1687557732%2Be4f42e5d?classifier=sources
 - pkg:maven/com.pulumi/linode@4.4.0?classifier=sources
 - pkg:maven/com.pulumi/linode@4.4.1?classifier=sources

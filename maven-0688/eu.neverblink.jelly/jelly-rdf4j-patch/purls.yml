@@ -1,0 +1,2 @@
+- pkg:maven/eu.neverblink.jelly/jelly-rdf4j-patch@3.0.0
+- pkg:maven/eu.neverblink.jelly/jelly-rdf4j-patch@3.0.0?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.jolokia/jolokia-client-javascript-esm@2.2.6
 - pkg:maven/org.jolokia/jolokia-client-javascript-esm@2.2.7
 - pkg:maven/org.jolokia/jolokia-client-javascript-esm@2.2.8
+- pkg:maven/org.jolokia/jolokia-client-javascript-esm@2.2.9
