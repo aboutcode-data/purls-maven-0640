@@ -8,6 +8,11 @@
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.17?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.18?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.19?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.20?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.21?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.22?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.23?classifier=sources
+- pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.24?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.2?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.3?classifier=sources
 - pkg:maven/io.github.magistvan/match-predicting-ann-server-public-api-python@5.4?classifier=sources

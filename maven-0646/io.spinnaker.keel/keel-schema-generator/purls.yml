@@ -140,6 +140,8 @@
 - pkg:maven/io.spinnaker.keel/keel-schema-generator@main-120?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-schema-generator@main-121?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-schema-generator@main-122?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-schema-generator@main-123?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-schema-generator@main-124?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-schema-generator@main-12?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-schema-generator@main-13?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-schema-generator@main-14?classifier=sources

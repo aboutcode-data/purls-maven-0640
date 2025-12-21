@@ -48,3 +48,7 @@
 - pkg:maven/org.mvnpm.at.sentry/react@9.45.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/react@9.46.0
 - pkg:maven/org.mvnpm.at.sentry/react@9.46.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.47.0
+- pkg:maven/org.mvnpm.at.sentry/react@9.47.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/react@9.47.1
+- pkg:maven/org.mvnpm.at.sentry/react@9.47.1?classifier=sources

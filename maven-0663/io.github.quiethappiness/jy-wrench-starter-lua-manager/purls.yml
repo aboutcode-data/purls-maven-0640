@@ -2,3 +2,4 @@
 - pkg:maven/io.github.quiethappiness/jy-wrench-starter-lua-manager@1.2.0?classifier=sources
 - pkg:maven/io.github.quiethappiness/jy-wrench-starter-lua-manager@1.2.1?classifier=sources
 - pkg:maven/io.github.quiethappiness/jy-wrench-starter-lua-manager@1.3.0?classifier=sources
+- pkg:maven/io.github.quiethappiness/jy-wrench-starter-lua-manager@1.4.2?classifier=sources

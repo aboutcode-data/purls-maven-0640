@@ -127,6 +127,8 @@
 - pkg:maven/io.spinnaker.keel/keel-notifications@main-120?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-notifications@main-121?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-notifications@main-122?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-notifications@main-123?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-notifications@main-124?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-notifications@main-12?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-notifications@main-13?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-notifications@main-14?classifier=sources

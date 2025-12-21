@@ -7,3 +7,5 @@
 - pkg:maven/no.ks.fiks/fastlegeregisteret-client@1.0.0-RC7?classifier=sources
 - pkg:maven/no.ks.fiks/fastlegeregisteret-client@1.0.0-RC8?classifier=sources
 - pkg:maven/no.ks.fiks/fastlegeregisteret-client@1.0.0-RC9?classifier=sources
+- pkg:maven/no.ks.fiks/fastlegeregisteret-client@1.0.0?classifier=sources
+- pkg:maven/no.ks.fiks/fastlegeregisteret-client@1.1.0?classifier=sources

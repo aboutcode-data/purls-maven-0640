@@ -1,0 +1,2 @@
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vectorsearch-v1@0.0.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-vectorsearch-v1@0.0.1?classifier=sources

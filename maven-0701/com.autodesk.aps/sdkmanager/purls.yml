@@ -1,0 +1,2 @@
+- pkg:maven/com.autodesk.aps/sdkmanager@0.0.1-beta?classifier=sources
+- pkg:maven/com.autodesk.aps/sdkmanager@0.1.0-beta?classifier=sources

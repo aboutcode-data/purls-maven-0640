@@ -1,0 +1,2 @@
+- pkg:maven/com.biit-solutions/abcd-logger@1.11.37?classifier=sources
+- pkg:maven/com.biit-solutions/abcd-logger@1.11.39?classifier=sources

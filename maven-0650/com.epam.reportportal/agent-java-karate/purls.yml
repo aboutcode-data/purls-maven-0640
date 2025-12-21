@@ -14,3 +14,4 @@
 - pkg:maven/com.epam.reportportal/agent-java-karate@5.3.1?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-karate@5.3.2?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-karate@5.3.3?classifier=sources
+- pkg:maven/com.epam.reportportal/agent-java-karate@5.3.4?classifier=sources

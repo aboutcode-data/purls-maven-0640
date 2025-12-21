@@ -39,6 +39,7 @@
 - pkg:maven/com.github.btrapp/jklarfreader@0.9.30
 - pkg:maven/com.github.btrapp/jklarfreader@0.9.30?classifier=sources
 - pkg:maven/com.github.btrapp/jklarfreader@0.9.32?classifier=sources
+- pkg:maven/com.github.btrapp/jklarfreader@0.9.33?classifier=sources
 - pkg:maven/com.github.btrapp/jklarfreader@0.9.4
 - pkg:maven/com.github.btrapp/jklarfreader@0.9.4?classifier=sources
 - pkg:maven/com.github.btrapp/jklarfreader@0.9.5

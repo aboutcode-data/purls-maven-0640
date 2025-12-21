@@ -159,6 +159,8 @@
 - pkg:maven/io.spinnaker.echo/echo-webhooks@main-120?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-webhooks@main-121?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-webhooks@main-122?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-webhooks@main-123?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-webhooks@main-124?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-webhooks@main-12?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-webhooks@main-13?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-webhooks@main-14?classifier=sources

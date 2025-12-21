@@ -11,4 +11,5 @@
 - pkg:maven/io.github.ismoy/imagepickerkmp@1.0.27?classifier=sources
 - pkg:maven/io.github.ismoy/imagepickerkmp@1.0.28-beta1?classifier=sources
 - pkg:maven/io.github.ismoy/imagepickerkmp@1.0.28-beta2?classifier=sources
+- pkg:maven/io.github.ismoy/imagepickerkmp@1.0.28-beta3?classifier=sources
 - pkg:maven/io.github.ismoy/imagepickerkmp@1.0.2?classifier=sources

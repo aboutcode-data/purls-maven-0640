@@ -131,6 +131,8 @@
 - pkg:maven/io.spinnaker.halyard/halyard-core@main-120?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-core@main-121?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-core@main-122?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-core@main-123?classifier=sources
+- pkg:maven/io.spinnaker.halyard/halyard-core@main-124?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-core@main-12?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-core@main-13?classifier=sources
 - pkg:maven/io.spinnaker.halyard/halyard-core@main-14?classifier=sources

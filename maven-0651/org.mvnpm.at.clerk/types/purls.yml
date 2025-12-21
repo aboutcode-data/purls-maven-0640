@@ -1,3 +1,11 @@
+- pkg:maven/org.mvnpm.at.clerk/types@4.100.0
+- pkg:maven/org.mvnpm.at.clerk/types@4.100.0?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/types@4.101.0
+- pkg:maven/org.mvnpm.at.clerk/types@4.101.0?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/types@4.101.2
+- pkg:maven/org.mvnpm.at.clerk/types@4.101.2?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/types@4.101.3
+- pkg:maven/org.mvnpm.at.clerk/types@4.101.3?classifier=sources
 - pkg:maven/org.mvnpm.at.clerk/types@4.60.0
 - pkg:maven/org.mvnpm.at.clerk/types@4.60.0?classifier=sources
 - pkg:maven/org.mvnpm.at.clerk/types@4.60.1
@@ -88,3 +96,7 @@
 - pkg:maven/org.mvnpm.at.clerk/types@4.97.1?classifier=sources
 - pkg:maven/org.mvnpm.at.clerk/types@4.97.2
 - pkg:maven/org.mvnpm.at.clerk/types@4.97.2?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/types@4.98.0
+- pkg:maven/org.mvnpm.at.clerk/types@4.98.0?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/types@4.99.0
+- pkg:maven/org.mvnpm.at.clerk/types@4.99.0?classifier=sources

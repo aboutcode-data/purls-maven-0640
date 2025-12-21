@@ -64,3 +64,4 @@
 - pkg:maven/org.bardframework.filestore/file-store-api@3.9.3?classifier=sources
 - pkg:maven/org.bardframework.filestore/file-store-api@4.1.13
 - pkg:maven/org.bardframework.filestore/file-store-api@4.1.13?classifier=sources
+- pkg:maven/org.bardframework.filestore/file-store-api@4.5.3?classifier=sources

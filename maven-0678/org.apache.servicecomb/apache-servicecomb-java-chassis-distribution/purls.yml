@@ -74,6 +74,7 @@
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.8.26?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.8.27?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.8.28?classifier=src&type=zip
+- pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.8.29?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.8.2?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.8.3?classifier=src&type=zip
 - pkg:maven/org.apache.servicecomb/apache-servicecomb-java-chassis-distribution@2.8.4?classifier=src&type=zip

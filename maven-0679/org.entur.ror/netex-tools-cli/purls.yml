@@ -18,5 +18,11 @@
 - pkg:maven/org.entur.ror/netex-tools-cli@0.0.27?classifier=sources
 - pkg:maven/org.entur.ror/netex-tools-cli@0.0.28?classifier=sources
 - pkg:maven/org.entur.ror/netex-tools-cli@0.0.29?classifier=sources
+- pkg:maven/org.entur.ror/netex-tools-cli@0.0.30?classifier=sources
+- pkg:maven/org.entur.ror/netex-tools-cli@0.0.31?classifier=sources
+- pkg:maven/org.entur.ror/netex-tools-cli@0.0.32?classifier=sources
+- pkg:maven/org.entur.ror/netex-tools-cli@0.0.33?classifier=sources
+- pkg:maven/org.entur.ror/netex-tools-cli@0.0.34?classifier=sources
+- pkg:maven/org.entur.ror/netex-tools-cli@0.0.35?classifier=sources
 - pkg:maven/org.entur.ror/netex-tools-cli@0.0.8?classifier=sources
 - pkg:maven/org.entur.ror/netex-tools-cli@0.0.9?classifier=sources

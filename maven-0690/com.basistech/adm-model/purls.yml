@@ -77,3 +77,4 @@
 - pkg:maven/com.basistech/adm-model@3.0.6
 - pkg:maven/com.basistech/adm-model@3.0.6?classifier=sources
 - pkg:maven/com.basistech/adm-model@3.0.7?classifier=sources
+- pkg:maven/com.basistech/adm-model@3.0.8?classifier=sources

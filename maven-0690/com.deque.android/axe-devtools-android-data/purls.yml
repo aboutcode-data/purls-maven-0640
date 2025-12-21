@@ -20,3 +20,4 @@
 - pkg:maven/com.deque.android/axe-devtools-android-data@7.1.0?classifier=sources
 - pkg:maven/com.deque.android/axe-devtools-android-data@8.0.0?classifier=sources
 - pkg:maven/com.deque.android/axe-devtools-android-data@8.0.1?classifier=sources
+- pkg:maven/com.deque.android/axe-devtools-android-data@8.0.2?classifier=sources

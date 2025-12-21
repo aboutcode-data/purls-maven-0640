@@ -41,3 +41,4 @@
 - pkg:maven/com.aerospike/aerospike-jdbc@1.9.2
 - pkg:maven/com.aerospike/aerospike-jdbc@1.9.2?classifier=sources
 - pkg:maven/com.aerospike/aerospike-jdbc@2.0.0?classifier=sources
+- pkg:maven/com.aerospike/aerospike-jdbc@2.0.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/me.wojnowski/oidc4s-testkit_2.13@0.13.2?classifier=sources
 - pkg:maven/me.wojnowski/oidc4s-testkit_2.13@0.13.3
 - pkg:maven/me.wojnowski/oidc4s-testkit_2.13@0.13.3?classifier=sources
+- pkg:maven/me.wojnowski/oidc4s-testkit_2.13@0.13.4
+- pkg:maven/me.wojnowski/oidc4s-testkit_2.13@0.13.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/tech.beepbeep/loader-android@1.6.0-dev-vol-4948-test2?classifier=sources
+- pkg:maven/tech.beepbeep/loader-android@1.6.0-dev-vol-4948-test?classifier=sources

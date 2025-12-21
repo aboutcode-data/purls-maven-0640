@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm/yocto-queue@1.1.1?classifier=sources
 - pkg:maven/org.mvnpm/yocto-queue@1.2.0?classifier=sources
 - pkg:maven/org.mvnpm/yocto-queue@1.2.1?classifier=sources
+- pkg:maven/org.mvnpm/yocto-queue@1.2.2
+- pkg:maven/org.mvnpm/yocto-queue@1.2.2?classifier=sources

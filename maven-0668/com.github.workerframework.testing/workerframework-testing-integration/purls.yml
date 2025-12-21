@@ -6,3 +6,5 @@
 - pkg:maven/com.github.workerframework.testing/workerframework-testing-integration@3.0.0-205?classifier=sources
 - pkg:maven/com.github.workerframework.testing/workerframework-testing-integration@4.0.0-267
 - pkg:maven/com.github.workerframework.testing/workerframework-testing-integration@4.0.0-267?classifier=sources
+- pkg:maven/com.github.workerframework.testing/workerframework-testing-integration@5.0.0-394
+- pkg:maven/com.github.workerframework.testing/workerframework-testing-integration@5.0.0-394?classifier=sources

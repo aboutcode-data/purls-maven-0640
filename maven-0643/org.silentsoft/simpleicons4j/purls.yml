@@ -33,6 +33,9 @@
 - pkg:maven/org.silentsoft/simpleicons4j@15.18.0?classifier=sources
 - pkg:maven/org.silentsoft/simpleicons4j@15.19.0?classifier=sources
 - pkg:maven/org.silentsoft/simpleicons4j@15.2.0?classifier=sources
+- pkg:maven/org.silentsoft/simpleicons4j@15.20.0?classifier=sources
+- pkg:maven/org.silentsoft/simpleicons4j@15.21.0?classifier=sources
+- pkg:maven/org.silentsoft/simpleicons4j@15.22.0?classifier=sources
 - pkg:maven/org.silentsoft/simpleicons4j@15.3.0?classifier=sources
 - pkg:maven/org.silentsoft/simpleicons4j@15.4.0?classifier=sources
 - pkg:maven/org.silentsoft/simpleicons4j@15.5.0?classifier=sources

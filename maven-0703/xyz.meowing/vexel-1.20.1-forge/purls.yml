@@ -14,3 +14,7 @@
 - pkg:maven/xyz.meowing/vexel-1.20.1-forge@119?classifier=sources
 - pkg:maven/xyz.meowing/vexel-1.20.1-forge@120?classifier=sources
 - pkg:maven/xyz.meowing/vexel-1.20.1-forge@121?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.20.1-forge@122?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.20.1-forge@123?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.20.1-forge@124?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.20.1-forge@125?classifier=sources

@@ -140,6 +140,8 @@
 - pkg:maven/io.spinnaker.keel/keel-bakery-plugin@main-120?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-bakery-plugin@main-121?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-bakery-plugin@main-122?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-bakery-plugin@main-123?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-bakery-plugin@main-124?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-bakery-plugin@main-12?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-bakery-plugin@main-13?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-bakery-plugin@main-14?classifier=sources

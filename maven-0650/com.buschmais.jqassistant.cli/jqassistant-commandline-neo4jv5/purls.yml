@@ -45,3 +45,4 @@
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.7.0-RC1?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.7.0?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.7.1?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.cli/jqassistant-commandline-neo4jv5@2.8.0?classifier=sources

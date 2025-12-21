@@ -8,3 +8,5 @@
 - pkg:maven/io.github.luidmidev/jakarta-validations@0.0.8?classifier=sources
 - pkg:maven/io.github.luidmidev/jakarta-validations@0.0.91?classifier=sources
 - pkg:maven/io.github.luidmidev/jakarta-validations@0.0.9?classifier=sources
+- pkg:maven/io.github.luidmidev/jakarta-validations@1.0.0?classifier=sources
+- pkg:maven/io.github.luidmidev/jakarta-validations@1.0.1?classifier=sources

@@ -80,3 +80,7 @@
 - pkg:maven/com.fizzed/rocker-compiler@2.1.0?classifier=sources
 - pkg:maven/com.fizzed/rocker-compiler@2.2.1
 - pkg:maven/com.fizzed/rocker-compiler@2.2.1?classifier=sources
+- pkg:maven/com.fizzed/rocker-compiler@2.3.1?classifier=sources
+- pkg:maven/com.fizzed/rocker-compiler@2.3.2?classifier=sources
+- pkg:maven/com.fizzed/rocker-compiler@2.3.3?classifier=sources
+- pkg:maven/com.fizzed/rocker-compiler@2.4.0?classifier=sources

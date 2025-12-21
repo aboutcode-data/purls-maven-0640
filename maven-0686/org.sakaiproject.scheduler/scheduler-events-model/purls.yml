@@ -122,3 +122,5 @@
 - pkg:maven/org.sakaiproject.scheduler/scheduler-events-model@23.2?classifier=sources
 - pkg:maven/org.sakaiproject.scheduler/scheduler-events-model@23.3
 - pkg:maven/org.sakaiproject.scheduler/scheduler-events-model@23.3?classifier=sources
+- pkg:maven/org.sakaiproject.scheduler/scheduler-events-model@25.0?classifier=sources
+- pkg:maven/org.sakaiproject.scheduler/scheduler-events-model@25.1?classifier=sources

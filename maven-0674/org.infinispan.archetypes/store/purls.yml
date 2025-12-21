@@ -349,3 +349,4 @@
 - pkg:maven/org.infinispan.archetypes/store@16.0.0.Dev08?classifier=sources
 - pkg:maven/org.infinispan.archetypes/store@16.0.0?classifier=sources
 - pkg:maven/org.infinispan.archetypes/store@16.0.1?classifier=sources
+- pkg:maven/org.infinispan.archetypes/store@16.0.2?classifier=sources

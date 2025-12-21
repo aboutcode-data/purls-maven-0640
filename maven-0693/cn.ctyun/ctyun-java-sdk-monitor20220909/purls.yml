@@ -1,1 +1,2 @@
 - pkg:maven/cn.ctyun/ctyun-java-sdk-monitor20220909@0.0.5.18?classifier=sources
+- pkg:maven/cn.ctyun/ctyun-java-sdk-monitor20220909@2.0.0?classifier=sources

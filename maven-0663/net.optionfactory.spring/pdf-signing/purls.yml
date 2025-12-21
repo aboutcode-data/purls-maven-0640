@@ -137,6 +137,10 @@
 - pkg:maven/net.optionfactory.spring/pdf-signing@22.4?classifier=sources
 - pkg:maven/net.optionfactory.spring/pdf-signing@22.5?classifier=sources
 - pkg:maven/net.optionfactory.spring/pdf-signing@22.6?classifier=sources
+- pkg:maven/net.optionfactory.spring/pdf-signing@23.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/pdf-signing@23.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/pdf-signing@23.2?classifier=sources
+- pkg:maven/net.optionfactory.spring/pdf-signing@23.3?classifier=sources
 - pkg:maven/net.optionfactory.spring/pdf-signing@6.0
 - pkg:maven/net.optionfactory.spring/pdf-signing@6.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/pdf-signing@6.1

@@ -51,3 +51,5 @@
 - pkg:maven/com.ibm.icu/icu4j-charset@76.1?classifier=sources
 - pkg:maven/com.ibm.icu/icu4j-charset@77.1
 - pkg:maven/com.ibm.icu/icu4j-charset@77.1?classifier=sources
+- pkg:maven/com.ibm.icu/icu4j-charset@78.1
+- pkg:maven/com.ibm.icu/icu4j-charset@78.1?classifier=sources

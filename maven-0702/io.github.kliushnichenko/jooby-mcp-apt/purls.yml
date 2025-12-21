@@ -8,3 +8,4 @@
 - pkg:maven/io.github.kliushnichenko/jooby-mcp-apt@1.4.2?classifier=sources
 - pkg:maven/io.github.kliushnichenko/jooby-mcp-apt@1.5.0?classifier=sources
 - pkg:maven/io.github.kliushnichenko/jooby-mcp-apt@1.6.0?classifier=sources
+- pkg:maven/io.github.kliushnichenko/jooby-mcp-apt@1.7.0?classifier=sources

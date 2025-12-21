@@ -1,0 +1,2 @@
+- pkg:maven/io.github.arvindand/mcp-scaffold-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/io.github.arvindand/mcp-scaffold-maven-plugin@0.1.1?classifier=sources

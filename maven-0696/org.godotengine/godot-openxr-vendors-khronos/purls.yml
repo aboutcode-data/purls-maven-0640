@@ -10,3 +10,5 @@
 - pkg:maven/org.godotengine/godot-openxr-vendors-khronos@4.0.0-stable?classifier=sources
 - pkg:maven/org.godotengine/godot-openxr-vendors-khronos@4.1.0-stable?classifier=sources
 - pkg:maven/org.godotengine/godot-openxr-vendors-khronos@4.1.1-stable?classifier=sources
+- pkg:maven/org.godotengine/godot-openxr-vendors-khronos@4.2.0-stable?classifier=sources
+- pkg:maven/org.godotengine/godot-openxr-vendors-khronos@4.2.1-stable?classifier=sources

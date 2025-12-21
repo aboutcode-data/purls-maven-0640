@@ -5,3 +5,4 @@
 - pkg:maven/com.milesight.beaveriot/data-jpa@1.2.3?classifier=sources
 - pkg:maven/com.milesight.beaveriot/data-jpa@1.2.4?classifier=sources
 - pkg:maven/com.milesight.beaveriot/data-jpa@1.2.5?classifier=sources
+- pkg:maven/com.milesight.beaveriot/data-jpa@1.3.0?classifier=sources

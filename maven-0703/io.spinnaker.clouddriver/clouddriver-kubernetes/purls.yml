@@ -191,6 +191,8 @@
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-kubernetes@main-120?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-kubernetes@main-121?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-kubernetes@main-122?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-kubernetes@main-123?classifier=sources
+- pkg:maven/io.spinnaker.clouddriver/clouddriver-kubernetes@main-124?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-kubernetes@main-12?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-kubernetes@main-13?classifier=sources
 - pkg:maven/io.spinnaker.clouddriver/clouddriver-kubernetes@main-14?classifier=sources

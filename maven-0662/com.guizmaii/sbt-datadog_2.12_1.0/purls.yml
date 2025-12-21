@@ -36,3 +36,5 @@
 - pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@7.1.4?classifier=sources
 - pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@7.1.7
 - pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@7.1.7?classifier=sources
+- pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@7.1.9
+- pkg:maven/com.guizmaii/sbt-datadog_2.12_1.0@7.1.9?classifier=sources

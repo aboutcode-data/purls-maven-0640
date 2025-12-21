@@ -127,8 +127,12 @@
 - pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.15?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.16?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.17?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.18?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.19?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.1?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.2
+- pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.20?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.21?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.3
 - pkg:maven/com.aliyun/alibabacloud-ice20201109@6.0.3?classifier=sources

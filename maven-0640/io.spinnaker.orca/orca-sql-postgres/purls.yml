@@ -196,6 +196,8 @@
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@main-120?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@main-121?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@main-122?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-sql-postgres@main-123?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-sql-postgres@main-124?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@main-13?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-sql-postgres@main-14?classifier=sources

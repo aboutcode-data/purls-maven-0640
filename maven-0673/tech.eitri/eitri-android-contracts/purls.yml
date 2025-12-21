@@ -8,3 +8,4 @@
 - pkg:maven/tech.eitri/eitri-android-contracts@3.0.0?classifier=sources
 - pkg:maven/tech.eitri/eitri-android-contracts@4.0.0?classifier=sources
 - pkg:maven/tech.eitri/eitri-android-contracts@4.1.0-alpha.0?classifier=sources
+- pkg:maven/tech.eitri/eitri-android-contracts@4.1.0?classifier=sources

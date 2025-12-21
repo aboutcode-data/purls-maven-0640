@@ -1,2 +1,3 @@
 - pkg:maven/com.aliyun.openservices/tablestore-shaded-httpasyncclient@4.0.2
 - pkg:maven/com.aliyun.openservices/tablestore-shaded-httpasyncclient@4.0.2?classifier=sources
+- pkg:maven/com.aliyun.openservices/tablestore-shaded-httpasyncclient@4.0.3?classifier=sources

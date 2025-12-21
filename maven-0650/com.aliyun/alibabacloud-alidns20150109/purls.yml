@@ -38,6 +38,7 @@
 - pkg:maven/com.aliyun/alibabacloud-alidns20150109@3.0.25
 - pkg:maven/com.aliyun/alibabacloud-alidns20150109@3.0.25?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-alidns20150109@3.0.26?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-alidns20150109@3.0.27?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-alidns20150109@3.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-alidns20150109@3.0.3
 - pkg:maven/com.aliyun/alibabacloud-alidns20150109@3.0.3?classifier=sources

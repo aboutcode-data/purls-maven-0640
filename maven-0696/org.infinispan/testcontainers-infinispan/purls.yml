@@ -1,0 +1,1 @@
+- pkg:maven/org.infinispan/testcontainers-infinispan@16.0.2?classifier=sources

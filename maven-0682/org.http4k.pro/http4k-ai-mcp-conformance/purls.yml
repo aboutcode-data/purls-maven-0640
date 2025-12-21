@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k.pro/http4k-ai-mcp-conformance@6.21.1.0?classifier=sources
+- pkg:maven/org.http4k.pro/http4k-ai-mcp-conformance@6.22.0.0?classifier=sources

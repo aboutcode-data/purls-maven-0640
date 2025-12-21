@@ -1,2 +1,6 @@
 - pkg:maven/xyz.meowing/vexel-1.21.10-fabric@120?classifier=sources
 - pkg:maven/xyz.meowing/vexel-1.21.10-fabric@121?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.10-fabric@122?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.10-fabric@123?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.10-fabric@124?classifier=sources
+- pkg:maven/xyz.meowing/vexel-1.21.10-fabric@125?classifier=sources

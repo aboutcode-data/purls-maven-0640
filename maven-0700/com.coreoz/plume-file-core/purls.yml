@@ -48,3 +48,4 @@
 - pkg:maven/com.coreoz/plume-file-core@4.0.0-beta1?classifier=sources
 - pkg:maven/com.coreoz/plume-file-core@4.0.0?classifier=sources
 - pkg:maven/com.coreoz/plume-file-core@4.0.1?classifier=sources
+- pkg:maven/com.coreoz/plume-file-core@4.1.0?classifier=sources

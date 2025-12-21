@@ -46,5 +46,7 @@
 - pkg:maven/com.singlestore/singlestore-jdbc-client@1.2.7?classifier=sources
 - pkg:maven/com.singlestore/singlestore-jdbc-client@1.2.8
 - pkg:maven/com.singlestore/singlestore-jdbc-client@1.2.8?classifier=sources
+- pkg:maven/com.singlestore/singlestore-jdbc-client@1.2.9
 - pkg:maven/com.singlestore/singlestore-jdbc-client@1.2.9-beta0
 - pkg:maven/com.singlestore/singlestore-jdbc-client@1.2.9-beta0?classifier=sources
+- pkg:maven/com.singlestore/singlestore-jdbc-client@1.2.9?classifier=sources

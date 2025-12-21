@@ -7,3 +7,9 @@
 - pkg:maven/org.mvnpm.at.graphql-tools/schema@10.0.26?classifier=sources
 - pkg:maven/org.mvnpm.at.graphql-tools/schema@10.0.27
 - pkg:maven/org.mvnpm.at.graphql-tools/schema@10.0.27?classifier=sources
+- pkg:maven/org.mvnpm.at.graphql-tools/schema@10.0.28
+- pkg:maven/org.mvnpm.at.graphql-tools/schema@10.0.28?classifier=sources
+- pkg:maven/org.mvnpm.at.graphql-tools/schema@10.0.29
+- pkg:maven/org.mvnpm.at.graphql-tools/schema@10.0.29?classifier=sources
+- pkg:maven/org.mvnpm.at.graphql-tools/schema@10.0.30
+- pkg:maven/org.mvnpm.at.graphql-tools/schema@10.0.30?classifier=sources

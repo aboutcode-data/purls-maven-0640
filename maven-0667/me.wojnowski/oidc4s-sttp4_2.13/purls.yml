@@ -1,0 +1,2 @@
+- pkg:maven/me.wojnowski/oidc4s-sttp4_2.13@0.13.4
+- pkg:maven/me.wojnowski/oidc4s-sttp4_2.13@0.13.4?classifier=sources

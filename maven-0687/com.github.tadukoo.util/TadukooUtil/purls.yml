@@ -18,3 +18,4 @@
 - pkg:maven/com.github.tadukoo.util/TadukooUtil@0.6-Beta?classifier=sources
 - pkg:maven/com.github.tadukoo.util/TadukooUtil@0.6.1-Beta
 - pkg:maven/com.github.tadukoo.util/TadukooUtil@0.6.1-Beta?classifier=sources
+- pkg:maven/com.github.tadukoo.util/TadukooUtil@0.7-Beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.firebase/data-connect@0.3.12
+- pkg:maven/org.mvnpm.at.firebase/data-connect@0.3.12?classifier=sources

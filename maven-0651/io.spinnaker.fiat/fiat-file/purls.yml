@@ -172,6 +172,8 @@
 - pkg:maven/io.spinnaker.fiat/fiat-file@main-120?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-file@main-121?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-file@main-122?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-file@main-123?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-file@main-124?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-file@main-12?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-file@main-13?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-file@main-14?classifier=sources

@@ -76,8 +76,12 @@
 - pkg:maven/com.google.cloud/google-cloud-vertexai@1.37.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vertexai@1.38.0
 - pkg:maven/com.google.cloud/google-cloud-vertexai@1.38.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-vertexai@1.39.0
+- pkg:maven/com.google.cloud/google-cloud-vertexai@1.39.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vertexai@1.4.0
 - pkg:maven/com.google.cloud/google-cloud-vertexai@1.4.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-vertexai@1.40.0
+- pkg:maven/com.google.cloud/google-cloud-vertexai@1.40.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vertexai@1.5.0
 - pkg:maven/com.google.cloud/google-cloud-vertexai@1.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-vertexai@1.6.0

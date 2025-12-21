@@ -5,3 +5,4 @@
 - pkg:maven/com.github.hazendaz.jmockit/coverage-tests@1.54.0?classifier=sources
 - pkg:maven/com.github.hazendaz.jmockit/coverage-tests@1.55.0?classifier=sources
 - pkg:maven/com.github.hazendaz.jmockit/coverage-tests@1.56.0?classifier=sources
+- pkg:maven/com.github.hazendaz.jmockit/coverage-tests@2.0.0?classifier=sources

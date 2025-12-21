@@ -63,6 +63,12 @@
 - pkg:maven/io.digiexpress/eveli-app@5.1.96?classifier=sources
 - pkg:maven/io.digiexpress/eveli-app@5.1.97?classifier=sources
 - pkg:maven/io.digiexpress/eveli-app@5.1.98?classifier=sources
+- pkg:maven/io.digiexpress/eveli-app@5.2.10?classifier=sources
+- pkg:maven/io.digiexpress/eveli-app@5.2.11?classifier=sources
+- pkg:maven/io.digiexpress/eveli-app@5.2.12?classifier=sources
+- pkg:maven/io.digiexpress/eveli-app@5.2.14?classifier=sources
+- pkg:maven/io.digiexpress/eveli-app@5.2.15?classifier=sources
+- pkg:maven/io.digiexpress/eveli-app@5.2.16?classifier=sources
 - pkg:maven/io.digiexpress/eveli-app@5.2.2?classifier=sources
 - pkg:maven/io.digiexpress/eveli-app@5.2.3?classifier=sources
 - pkg:maven/io.digiexpress/eveli-app@5.2.4?classifier=sources
@@ -70,3 +76,4 @@
 - pkg:maven/io.digiexpress/eveli-app@5.2.6?classifier=sources
 - pkg:maven/io.digiexpress/eveli-app@5.2.7?classifier=sources
 - pkg:maven/io.digiexpress/eveli-app@5.2.8?classifier=sources
+- pkg:maven/io.digiexpress/eveli-app@5.2.9?classifier=sources

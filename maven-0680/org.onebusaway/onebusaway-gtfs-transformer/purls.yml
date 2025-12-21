@@ -44,6 +44,8 @@
 - pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@10.2.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@10.3.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@11.0.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@11.1.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@11.2.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@2.0.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@2.0.1?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-transformer@2.0.2?classifier=sources

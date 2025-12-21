@@ -75,6 +75,8 @@
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.138?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.139?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.140?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log@0.6.141?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log@0.6.142?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.15
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.15?classifier=sources
 - pkg:maven/com.aliyun.openservices/aliyun-log@0.6.16

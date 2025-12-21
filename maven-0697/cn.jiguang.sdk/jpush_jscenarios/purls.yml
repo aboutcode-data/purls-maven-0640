@@ -11,3 +11,5 @@
 - pkg:maven/cn.jiguang.sdk/jpush_jscenarios@5.7.3?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush_jscenarios@5.8.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jpush_jscenarios@5.9.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jpush_jscenarios@5.9.1?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jpush_jscenarios@t.5.9.1?classifier=sources

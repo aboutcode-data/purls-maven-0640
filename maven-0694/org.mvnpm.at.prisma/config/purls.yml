@@ -41,3 +41,7 @@
 - pkg:maven/org.mvnpm.at.prisma/config@6.8.2?classifier=sources
 - pkg:maven/org.mvnpm.at.prisma/config@6.9.0
 - pkg:maven/org.mvnpm.at.prisma/config@6.9.0?classifier=sources
+- pkg:maven/org.mvnpm.at.prisma/config@7.0.0
+- pkg:maven/org.mvnpm.at.prisma/config@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.prisma/config@7.0.1
+- pkg:maven/org.mvnpm.at.prisma/config@7.0.1?classifier=sources

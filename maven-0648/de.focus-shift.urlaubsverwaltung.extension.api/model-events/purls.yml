@@ -45,3 +45,6 @@
 - pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-events@2.2.0
 - pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-events@2.2.0?classifier=sources
 - pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-events@2.3.2?classifier=sources
+- pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-events@3.0.0?classifier=sources
+- pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-events@3.0.1?classifier=sources
+- pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-events@3.0.2?classifier=sources

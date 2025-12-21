@@ -80,10 +80,14 @@
 - pkg:maven/com.netease.nimlib/qchat@10.9.44?type=aar
 - pkg:maven/com.netease.nimlib/qchat@10.9.45?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@10.9.45?type=aar
+- pkg:maven/com.netease.nimlib/qchat@10.9.46?classifier=sources
+- pkg:maven/com.netease.nimlib/qchat@10.9.46?type=aar
 - pkg:maven/com.netease.nimlib/qchat@10.9.50?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@10.9.50?type=aar
 - pkg:maven/com.netease.nimlib/qchat@10.9.52?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@10.9.52?type=aar
+- pkg:maven/com.netease.nimlib/qchat@10.9.60?classifier=sources
+- pkg:maven/com.netease.nimlib/qchat@10.9.60?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.0.0?classifier=sources
 - pkg:maven/com.netease.nimlib/qchat@9.0.0?type=aar
 - pkg:maven/com.netease.nimlib/qchat@9.0.100?classifier=sources

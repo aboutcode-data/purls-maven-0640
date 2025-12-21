@@ -1,1 +1,2 @@
 - pkg:maven/com.simprints.realm.kotlin/plugin-compiler-shaded@4.0.0?classifier=sources
+- pkg:maven/com.simprints.realm.kotlin/plugin-compiler-shaded@4.0.1?classifier=sources

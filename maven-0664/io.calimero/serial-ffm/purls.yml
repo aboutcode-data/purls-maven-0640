@@ -1,1 +1,2 @@
 - pkg:maven/io.calimero/serial-ffm@0.2?classifier=sources
+- pkg:maven/io.calimero/serial-ffm@0.3?classifier=sources

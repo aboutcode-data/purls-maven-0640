@@ -2,3 +2,4 @@
 - pkg:maven/cn.android666/timber-tree@1.0.1?classifier=sources
 - pkg:maven/cn.android666/timber-tree@1.0.2?classifier=sources
 - pkg:maven/cn.android666/timber-tree@1.0.3?classifier=sources
+- pkg:maven/cn.android666/timber-tree@1.0.7?classifier=sources

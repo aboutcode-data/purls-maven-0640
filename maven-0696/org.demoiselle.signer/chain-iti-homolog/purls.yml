@@ -1,2 +1,3 @@
 - pkg:maven/org.demoiselle.signer/chain-iti-homolog@4.4.0
 - pkg:maven/org.demoiselle.signer/chain-iti-homolog@4.4.0?classifier=sources
+- pkg:maven/org.demoiselle.signer/chain-iti-homolog@4.5.0?classifier=sources

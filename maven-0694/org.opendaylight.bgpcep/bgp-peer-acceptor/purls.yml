@@ -194,3 +194,5 @@
 - pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.9.3?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.9.4
 - pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@0.9.4?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@1.0.0
+- pkg:maven/org.opendaylight.bgpcep/bgp-peer-acceptor@1.0.0?classifier=sources

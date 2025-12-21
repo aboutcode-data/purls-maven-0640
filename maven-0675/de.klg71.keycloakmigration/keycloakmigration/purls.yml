@@ -61,7 +61,12 @@
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.10?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.110?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.111?classifier=sources
+- pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.112?classifier=sources
+- pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.118?classifier=sources
+- pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.119?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.11?classifier=sources
+- pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.120?classifier=sources
+- pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.121?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.12?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.13?classifier=sources
 - pkg:maven/de.klg71.keycloakmigration/keycloakmigration@0.2.14?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.nvidia.cuvs.lucene/cuvs-lucene@25.10.0
+- pkg:maven/com.nvidia.cuvs.lucene/cuvs-lucene@25.10.0?classifier=sources

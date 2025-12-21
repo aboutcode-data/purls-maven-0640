@@ -195,3 +195,5 @@
 - pkg:maven/com.mikepenz/iconics-core@5.4.0?classifier=sources
 - pkg:maven/com.mikepenz/iconics-core@5.5.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/iconics-core@5.5.0-compose01?classifier=sources
+- pkg:maven/com.mikepenz/iconics-core@5.5.0-rc01?classifier=sources
+- pkg:maven/com.mikepenz/iconics-core@5.5.0?classifier=sources
